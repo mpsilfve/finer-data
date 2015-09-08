@@ -1,0 +1,27 @@
+<HEADLINE>
+ Pomonappi pelasti pinteestä 80-luvulla — tai sitten nolasi it-työläisen
+
+<DATE>
+18.8.2015 16:49
+
+<INGRESS>
+Facebook, Instagram, Twitter ja muut some-ilmiöt tuppaavat syömään työajasta minuutin jos toisenkin. Mutta muistatko vielä, miten töiden välttely, piste- ennätysten tavoittelu ja pikselirintojen tuijotus työpaikalla onnistui ennen nettiä?  
+
+<BODY>
+Tietokoneet yleistyivät 80-luvulla niin kotikäytössä kuin toimistoilla. Tällöin yleensä käytettiin vain yhtä sovellusta kerrallaan, joiden välillä ei voinut helposti ja nopeasti vaihtaa. Koska toimistoilla oli tylsää ja aikaa tykättiin hukata, tarvittiin pomonappia.
+
+Pomonappi, eli boss key, oli moneen viihdeohjelmistoon koodattu näppäinyhdistelmä, jota painamalla ruudulle sai pelin tai muun viihdetuotteen sijaan esimerkiksi taulukkolaskentaa muistuttavan näkymän. Näin toimistolla pystyi esittämään työpisteen ohi kulkeville työkavereille tai pomolle työntekoa, vaikka oikeasti tavoitteena oli uusi piste-ennätys – ellei sitten pyrkimyksenä ollut katsella lisää toimistolle sopimatonta kuvamateriaalia.
+
+Yksi ensimmäisistä tunnetuista pomonapeista oli Friendlyware- sovelluskokoelmassa, joka julkaistiin vuonna 1982. Friendlyware sisälsi niin hyötyohjelmia kuin pelejäkin. Kun pelissä painoi F10 -nappia, näytölle ilmestyi palkkigraafeja otsikoilla ”tuottavuus” ja ”ajankäyttö”. Vastaavia ratkaisuja ilmestyi nopeasti moneen peliin.
+
+Pomonappi muuttui pian myös huumorin aiheeksi. Esimerkiksi Sierran pehmoeroottisessa seikkailupelissä Leisure Suit Larryssa peli katkesi pomonapin painosta ja se piti aloittaa uudelleen alusta tai viimeisimmästä tallennuksesta. Se oli varmasti silti monelle mukavampi vaihtoehto kuin jäädä töissä kiinni pikselirintojen tuijottelusta.
+
+Joissain peleissä pomonappi toi esiin ruudun, joka sätti pelaajaa, pyrki ilmiantamaan tämän olan yli katselijalle tai kertoi miten paljon aikaa oli jo hukattu pelatessa. Jopa hälyttäviä ääniefektejä käytettiin maksimoimaan vahinkoa.
+
+Kun usean ohjelman yhtäaikaiseen käyttöön paremmin kykenevät käyttöjärjestelmät yleistyivät, pomonappi enimmäkseen katosi viihdesovelluksista. Viimeistään Windows 95:n myötä sen korvasi ikkunoiden välillä vaihtavan näppäinyhdistelmä alt-tab käytön yleistyminen.
+
+Alt-tabin lisäksi pomonappia korvaamaan on saatu ctrl-w, joka tyypillisesti sulkee yhden välilehden selaimesta, sekä alt-f4, joka tyypillisesti sulkee kokonaan yhden sovelluksen ikkunoivasta käyttöjärjestelmästä.
+
+Vaikka sovellusten sisäisiä omia pomonappeja ei juuri enää näekään, erillisiä pomonappisovelluksia tehdään yhä. Kaikissa tilanteissa alt-f4 tai ctrl-w eivät toimi tai eivät ole tarpeeksi nopeita. Tällaisen sovelluksen asentamalla saa käyttöjärjestelmään napin, joka välittömästi tyhjentää ruudun tai piilottaa arveluttavat ikkunat tai välilehdet. Näitä markkinoidaan niin pomolta tai vanhemmilta pakoiluun kuin tietoturvan nimissä yksityistietojen suojeluun.
+
+

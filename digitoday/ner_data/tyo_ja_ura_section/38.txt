@@ -1,0 +1,19 @@
+<HEADLINE>
+ Penkkihakkerin jälkeen: Lentoyhtiö palkitsee aukoista
+
+<DATE>
+17.7.2015 13:58
+
+<INGRESS>
+Yhdysvaltalainen lentoyhtiö United Airlines on antanut palkkioita hakkereille tietoturvaongelmien raportoinnista.  
+
+<BODY>
+United Airlines on yksi ensimmäisistä yrityksistä teknologia-alan ulkopuolella, joka palkitsee ulkopuolisia haavoittuvuuksista. Se kertoi käytännöstään toukokuussa ja nyt se vahvisti uutistoimisto Reutersille myöntäneensä kahdelle hakkerille miljoonia lentomaileja vastineeksi aukkojen raportoinnista.
+
+Pienempiäkin palkkioita on mahdollisesti jaettu, mutta niitä lentoyhtiö ei vahvistanut. Yksi parhaiten palkituista aukoista koski haavoittuvuutta Unitedin verkkosivustolla. Löytäjän mukaan aukko mahdollisti sivuston haltuunoton.
+
+Päätös seuraa huhtikuista tapausta, missä United Airlinesin koneessa matkustanutta tietoturva-asiantuntijaa Chris Robertsia epäiltiin tunkeutumisesta toiseen koneen moottoreista.
+
+Tämä ei ollut lainkaan lentoyhtiön mieleen, joskin Roberts on väittänyt vain spekuloineensa mahdollisuudella hallita koneen järjestelmiä.
+
+

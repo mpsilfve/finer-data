@@ -1,0 +1,27 @@
+<HEADLINE>
+ Nokia kehittää terveystuotteita: Osaajille töitä luvassa
+
+<DATE>
+24.7.2015 12:30
+
+<INGRESS>
+Pääosin verkkoyhtiöksi erikoistunut Nokia suunnittelee paluuta kuluttajamarkkinoille terveyteen ja hyvinvointiin liittyvillä laitteilla.  
+
+<BODY>
+Nokia suunnittelee paluuta kuluttajatuotteisiin terveyden ja hyvinvoinnin alalla, selviää yhtiön reilu viikko sitten julkistamista työpaikkailmoituksista.
+
+Nokia Technologies -yksikkö hakee ihmisten fysiikan mittauksen, tulosten analysoinnin sekä käyttäytymistieteiden asiantuntijoita. Työpaikat ovat Nokian Sunnyvalessa Kaliforniassa sijaitsevassa tutkimuskeskuksessa.
+
+Terveyteen ja hyvinvointiin liittyvissä työpaikkailmoituksissa mainitaan myös, että yhtiö on jo tunnistanut useita mahdollisuuksia tuotteiksi Nokiaa kiinnostavilta aloilta. Työpaikkojen kuvausten perusteella on kyse laitteista tai muiden valmistajien laitteisiin tulevista komponenteista sekä terveyteen ja hyvinvointiin liittyvistä palveluista tai sovelluksista.
+
+Käyttäytymistieteiden asiantuntijan vastuualueisiin kuuluu ilmoituksen mukaan muun muassa "kerätä Nokia Wellbeing -ratkaisua tukevaa tieteellistä materiaalia" sekä kehittää siihen sisältöä. Tehtävään kuuluu myös muiden työntekijöiden kouluttaminen "varsinkin Wearables -ohjelmassa". Wearables- sanalla tarkoitetaan päälle puettavaa elektroniikkaa, kuten esimerkiksi aktiivisuusrannekkeita tai sykemittareita.
+
+Toisessa ilmoituksessa taas mainitaan, että kyseessä on "jännittävä mahdollisuus soveltaa ihmisen fysiologian tietämystä uusiin terveyden ja hyvinvoinnin kuluttajatuotteisiin". Valitun on työskenneltävä läheisesti Nokian tuotekehitysryhmien kanssa "suunnittelemassa ja toteuttamassa seuraavan sukupolven tuotteita ja palveluita".
+
+Terveyden ja hyvinvoinnin tekniikan uskotaan olevan vahvassa kasvussa esimerkiksi väestön ikääntymisen takia. Erilaisia kunnon ja terveyden seuraamiseen tarkoitettuja mittareita on esimerkiksi suosituissa aktiivisuusrannekkeissa sekä älykelloissa.
+
+Nokia ei halunnut kommentoida työpaikkailmoituksia.
+
+Nokia on aiemminkin ollut mukana kuntoilutekniikassa. Yhtiö julkaisi vuonna 2004 Sports Tracker -sovelluksen yhtiön Symbian-puhelimille, joka mittasi esimerkiksi juoksu- tai pyöräilynopeuden sekä reitin pituuden gps-paikannuksen avulla. Yhtiö lopetti palvelun vuonna 2010, mutta sen kehittäjät jatkoivat toimintaa itsenäisenä Sports Tracker -yhtiönä. Amer Sports osti yhtiön toukokuun alussa.
+
+
