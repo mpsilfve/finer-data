@@ -1,0 +1,65 @@
+<HEADLINE>
+ Nyt on "mielikuvitusta": Tällaisia ovat pettämispalvelun salasanat
+
+<DATE>
+8.9.2015 10:52
+
+<INGRESS>
+Pettäjäpalvelun eniten käytetyt salasanat noudattelevat yleistä trendiä sillä erolla, että rivouksia on tavallista enemmän.  
+
+<BODY>
+Ashley Madison -pettämispalvelu ei säilyttänyt käyttäjien salasanoja tietokannassaan selkokielisenä, vaan hash-suolattuna. Tämä ei ole kuitenkaan idioottivarma tapa säilyttää salasanoja, sillä salasanat ovat teoriassa raa'alla laskentateholla.
+
+Tällainen laskenta on käynnissä tietoturvayhtiö Avastilla, joka poimi tietokannasta murrettavaksi miljoona yksisuuntaisesti salakirjoitettua salasanaa verraten niitä "500 worst passwords of all time" -listaan vuodelta 2008 sekä niin sanottuun rockyou hack -salasanatietokantaan.
+
+Kahden viikon laskennan aikana yhtiö sai murrettua 25 393 salasanaa, joista vain 1064 oli ainutkertaisia.
+
+Tähän asti tehdyn laskelman perusteella Ashley Madisonin 20 suosituimman salasanan lista vaikuttaa seuraavalta (suluissa oleva luku on salasanan esiintymiskertojen määrä 25 393:n salasanan joukossa):
+
+1: 123456 (6495)
+
+2: password (3268)
+
+3: 12345 (2024)
+
+4: 12345678 (880)
+
+5: qwerty (768)
+
+6: pussy (453)
+
+7: secret (248)
+
+8: dragon (209)
+
+9: welcome (201)
+
+10: ginger (198)
+
+11: sparky (173)
+
+12: helpme (168)
+
+13: blowjob (164)
+
+14: nicole (152)
+
+15: justin (134)
+
+16: camaro (129)
+
+17: johnson (120)
+
+18: yamaha (117)
+
+19: midnight (113)
+
+20: chris (103)
+
+Avastin tutkijat huomasivat aineistosta erityisesti sanojen "pussy" ja "blowjob" yleisyyden. Myös naisten etunimiä esiintyy tavallista enemmän.
+
+Lisäksi top-20:n ulkopuolella oli huomattavan paljon love-sanasta tehtyjä variaatioita, esimerkiksi "iloveyou", "lover", "lovers" ja "loverboy". Muihin huomioihin kuului se, että "fuckme" ja "fuckyou" olivat yhtä yleisiä kuin normaalisivustoilla tavalliset "football" ja "baseball".
+
+Supersankareita puolestaan oli tavallista vähemmän, ja "superman" oli yleisyydeltään samaa tasoa kuin "boobs" ja "asshole".
+
+

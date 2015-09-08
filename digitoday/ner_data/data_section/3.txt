@@ -1,0 +1,23 @@
+<HEADLINE>
+ Kahdessa antivirussoftassa nollapäiväaukot: Löytäjille risuja
+
+<DATE>
+7.9.2015 21:15
+
+<INGRESS>
+Kaksi tietoturvatutkijaa julkisti viikonloppuna isoissa tietoturvatuotteissa olevan nollapäiväaukon. Toiseen julkaistiin myös hyökkäyskoodia.  
+
+<BODY>
+Kaspersky Lab- ja FireEye-tietoturvayhtiöiden tietoturvatuotteista löytyi viikonloppuna nollapäivähaavoittuvuuksia, jotka julkaistiin ennen niiden korjauksia. Asiasta kirjoittaa blogissaan tietoturvatutkija Graham Cluley.
+
+Toisen aukoista julkisti Googlella työskentelevä Tavis Ormandy, joka on aiheuttanut aiemminkin pahaa verta julkistamalla muiden yhtiöiden tuotteiden haavoittuvuuksia ennen kuin niihin on olemassa korjaukset. Antivirustuotteiden valmistajista hän on tehnyt aiemmin paljastuksia Sophosin ja ESETin ohjelmistoista.
+
+Kaspersky- haavoittuvuus mahdollistaa järjestelmään tunkeutumisen. Kyse on järjestelmätason ongelmasta, joka ei edellytä käyttäjän toimia ja on valmiina ohjelmiston oletusasetuksissa. Kaspersky ilmoitti korjaavansa ongelman alle 24 tunnissa.
+
+CSO Online puolestaan kertoo, että viikonloppuna tietoturvayhtiö FireEyen ohjelmistosta löytyi aukko, joka mahdollistaa web-palvelimeen käsiksi pääsemisen root-oikeuksin.
+
+Haavoittuvuus mahdollistaa ainakin järjestelmän tiedostojen katselemisen. Aukon löytänyt Kristian Erik Hermansen liitti todisteeksi löydöksestään osia kohdejärjestelmän /etc/passwd-tiedostosta. Hermansen julkaisi myös koodia haavoittuvuuden hyödyntämiseksi, mitä Cluley pitää vastuuttomana.
+
+Aukot tietoturvatuotteissa eivät ole varsinaisesti harvinaisuuksia. Viime viikolla F-Secure paikkasi 13 ohjelmistoaan.
+
+

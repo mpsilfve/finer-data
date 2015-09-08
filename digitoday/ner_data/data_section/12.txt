@@ -1,0 +1,27 @@
+<HEADLINE>
+ Tiedätkö mikä on RaaS? Toivottavasti et tiedä jatkossakaan
+
+<DATE>
+2.9.2015 11:40
+
+<INGRESS>
+Kiristysohjelmien kiusa uhkaa pahentua entisestään, kun konnat ovat alkaneet tarjota niitä palveluna.  
+
+<BODY>
+Rahaa onnettomilta internetin käyttäjiltä kiristävä ohjelma on vain parin helpon askeleen päässä keneltä tahansa. Tietoturvayhtiö Sensecy kertoo uusimmasta esimerkistä nimeltä ORX- Locker, jota tarjotaan palveluna.
+
+Asiakas syöttää verkkopalvelussa tunnistenumeron, valitsee kiristyssumman (vähintään 75 dollaria) ja klikkaa Build Exe -nappia, joka luo suoritettavan tiedoston.RaaS (ransomware as a service) tarkoittaa, että osa maksetuista lunnasrahoista ohjataan kiristysohjelmapalvelun tarjoajille. Palvelun käytöstä ei veloiteta.
+
+Kirjainyhdistelmä solahtaa valitettavan hyvin nykyisessä ict-maailmassa käytettävien palvelumallien sekaan, joita ovat muun muassa PaaS (platform as a service), SaaS (software as a service) sekä IaaS (infrastructure as a service).
+
+Pieni sekaannuksen vaara tosin on olemassa, sillä RaaS-lyhennettä on käytetty joskus myös replication as a servicestä. Siinä palveluntarjoaja kloonaa asiakkaansa tietojärjestelmät.
+
+Palvelun tarjoajan rikollisuus on suorastaan nerokasta. Haitakkeen ujuttaminen uhrien koneille jää asiakkaan tehtäväksi, ja konnan ei tarvitse kuin kerätä voitot.
+
+ORX-Locker havaittiin ensi kerran 25. elokuuta, ja se osaa piiloutua taitavasti antivirusohjelmilta. Se salaa uhrin tiedostot ja esittää ruudulla viestin tartunnasta. Maksuohjeet löytyvät Windowsin työpöydältä. Maksuaikaa on 96 tuntia, minkä jälkeen tiedostot ovat viestin mukaan pysyvästi pilalla.
+
+Sensecyn havainnoista kirjoitti Security Affairs -blogi.
+
+Toinen esimerkki kiristysohjelmien leviämisestä vielä nykyistäkin pahemmin on elokuussa ilmestynyt avoimen koodin kiristäjä Hidden Tear. Sen tekijä vakuuttaa ohjelman olevan tarkoitettu vain opetuskäyttöön, mutta ohjelma on ilmainen ja voi siksi houkutella puoleensa myös rikollisia.
+
+

@@ -1,0 +1,19 @@
+<HEADLINE>
+ Microsoftilta luvut pöytään: Ilmainen Windows 10 kelpaa
+
+<DATE>
+27.8.2015 08:33
+
+<INGRESS>
+Microsoftin viimeinen käyttöjärjestelmä Windows 10 kelpaa hyvin käyttäjille, joille sitä tarjotaan ilmaiseksi. Ensimmäisen kuukauden aikana sitä on ladattu 75 miljoonaa kertaa.  
+
+<BODY>
+Windows 10:n asentamisesta 75 miljoonaan tietokoneeseen kertoi Microsoftin Windows and Devices -johtaja Yusif Mehdi keskiviikkona Twitterissä.
+
+Windows 7:n ja 8:n lisenssien omistajat saavat ladata “viimeinen käyttöjärjestelmäksi” kutsutun Windows 10:n ilmaiseksi. Kuvaus viittaa siihen, että tätä käyttöjärjestelmäversiota aiotaan kehittää jatkuvien päivitysten kautta, joten tulevaisuudessa ei pitäisi olla tarvetta julkistaa kokonaan uusia versioita.
+
+Windows 10 ei kuitenkaan ole ilmainen tuote, sillä kolme miljoonaa käyttöjärjestelmän Vista-versiota käyttävää joutuu maksamaan uusimpaan versioon päivittämisestä. Maksullinen versio tulee myyntiin vielä tässä kuussa. Se toimitetaan verkon kautta tai muistitikulla.
+
+Windows 10:n jakelu näyttää toimivan Microsoftin toivomalla tavalla. Mashable kirjoitti uuden käyttöjärjestelmän hankkineiden ladanneen sovelluksia kuusi kertaa enemmän kuin mitä Windows 8:n asentaneet tekivät.
+
+
