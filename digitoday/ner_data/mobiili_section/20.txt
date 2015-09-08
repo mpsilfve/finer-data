@@ -1,0 +1,27 @@
+<HEADLINE>
+ Uudet iPhonet tulevat: Kolme syytä olla huolissaan
+
+<DATE>
+2.9.2015 12:26
+
+<INGRESS>
+Apple on joskus juhlinut akkukestolla iPhone-julkistuksissaan. Voiko se tehdä enää samoin tällä kertaa?  
+
+<BODY>
+Apple julkistaa uudet iPhonet erittäin todennäköisesti 9. syyskuuta, eikä ole välitöntä syytä väittää, etteikö niistäkin tulisi myyntihittejä. On kuitenkin seikkoja, joiden vuoksi Applen pitää ehkä ponnistella, jotta uusi oletettu myyntivaltti – paineen tunnistava kosketusnäyttö – vakuuttaa kuluttajat.
+
+Kiinalainen, Applen tietoja ennenkin vuotanut verkkosivusto cnBeta väittää uusissa puhelimissa olevan aiempaa pienempi akku. "IPhone 6S:ssä" on huhun mukaan 1715 mAh:n akku, kun nykyisessä iPhone 6:ssa on 1810 mAh:n akku. "IPhone 6S Plussassa" olisi 2750 mAh:n akku, kun nykyisessä iPhone 6 Plussassa on 2910 mAh:n akku.
+
+Ei ole selvää, että pienempi akku tarkoittaisi lyhyempää akkukestoa. On täysin mahdollista, että Apple on keksinyt jippoja virrankulutuksen hillitsemiseksi esimerkiksi pelkästään tulevaa iOS 9 -alustaa optimoimalla.
+
+Akkukeston lisäksi uusissa puhelimissa askarruttaa paino ja kestävyys. MacRumors väittää saaneensa haltuunsa iPhone 6S:n etukotelon ja mittasi sen painavan pari grammaa enemmän kuin iPhone 6:n. Kotelo oli myös paksumpi.
+
+Ero ei ole suuri, mutta Apple saattaa vastavetona ohentaa takakantta tehden siitä entistä heikomman.
+
+Kolmas huoli liittyy uusien puhelimien oletetusti parempiin kameroihin, mutta edelleen vajavaiseen tallennustilaan. IPhonen tallennustila on ollut arvostelun kohteena jo pitkään, koska lähtötaso on verrattain alhainen 16 gigatavua.
+
+9to5Macin nimetön lähde väittää, että lähtötason tallennustila pysyttelee edelleen 16 gigatavussa molemmissa uusissa iPhoneissa, eikä nouse 32 gigatavuun. Paremmat valokuvat vievät enemmän tilaa, mikä voi nopeasti aiheuttaa hankaluuksia 16 gigatavun malleissa. Oletus on, että uusissakin malleissa vaihtoehdot ovat 16, 64 ja 128 gigatavua.
+
+Uusien iPhonejen potentiaalisia ongelmia kokosi yhteen Forbes.
+
+

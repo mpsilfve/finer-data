@@ -1,0 +1,23 @@
+<HEADLINE>
+ IPhone paljastui kuolevaiseksi: Haittaohjelmilla oli vapaa pääsy puhelimeen
+
+<DATE>
+27.8.2015 13:27
+
+<INGRESS>
+Fireeyen löytämä haavoittuvuus jäi ilmeisesti hyödyntämättä, mutta se todistaa vahvasti, että jopa turva-asetuksiensa tiukkuudesta tunnettu iPhone voi joutua rikollisten valtaamaksi.  
+
+<BODY>
+Tietoturvayhtiö Fireeye nimesi Applen iOS-käyttöjärjestelmästä löytämänsä haavoittuvuuden Ins0mniaksi. Applen vahvistama ongelma on korjattu iOS:n versiossa 8.4.1.
+
+Haavoittuvuus salli sovellusten jatkaa pyörimistään iOS-laitteissa, kuten iPhoneissa, rajoittamattoman ajan, vaikka käyttäjä olisi sulkenut sovelluksen, eikä sitä enää näkynyt pyörivien ohjelmien joukossa.
+
+Fireeye pitää ongelmaa poikkeuksellisena, koska se mahdollisti hyökkäykset murtamattomia iOS-laitteita vastaan. Siis sellaisia, joihin ei ole tehtyä niin sanottua jailbreakia.
+
+Aukkoa käyttäviä sovelluksia olisi myös ollut mahdollista ujuttaa Apple Storeen.
+
+– Uskomme, että tällainen sovellus olisi suurella todennäköisyydellä läpäissyt Apple Store -tarkastuksen tehden siitä harvinaisen porsaanreiän, jonka kautta hyökkääjä olisi voinut jakaa haittaohjelmia Applen aidatussa puutarhassa, Fireeye kirjoittaa.
+
+Kaiken kaikkiaan Ins0mnia on siis omiaan todistamaan, että Applen rakentamat muurit ovat sittenkin läpäistävissä ja haittaohjelmat voivat uhata myös sen käyttäjiä.
+
+

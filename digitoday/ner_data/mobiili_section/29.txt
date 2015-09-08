@@ -1,0 +1,27 @@
+<HEADLINE>
+ Samsung yllätti Tizen-älykelloilla — poikkeuksellinen ohjaustapa
+
+<DATE>
+1.9.2015 08:13
+
+<INGRESS>
+Samsung julkisti älykellon, jolla voi lähettää viestejä, soittaa puheluita ja suorittaa maksuja. Minimalistista kelloa ohjaillaan kehystä kääntämällä.  
+
+<BODY>
+Samsung esittelee kaksi uutta älykelloa torstaina alkavilla elektroniikan IFA- messuilla Berliinissä. Se kuitenkin julkisti yhtiön omaa käyttöjärjestelmää Tizeniä käyttävät laitteet Soulissa maanantaina kertomatta niiden saatavuutta tai hinnoittelua tai sitä, minkä älypuhelimen kanssa ne toimivat.
+
+Samsung Gear S2- ja Gear S2 classic -kelloissa on pyöreä kellotaulu, jota ympäröivä kierrettävä kehys toimii ohjaimena. Lisäksi siinä on kyllä- ja ei -painikkeet.
+
+Kellot ovat kuntoilulaitteita ja ne tukevat myös nfc-maksuja. Akun on määrä kestää 2–3 päivää yhdellä latauksella, joka tehdään kellon mukana toimitettavalla langattomalla latausalustalla. Gps-vastaanotinta ei ole.
+
+Gear S2 classic on suunnattu käyttäjille, jotka pitävät kellon perinteisestä muotoilusta. Se on musta ja siinä on nahkaranneke. Samsungin tiedotteen mukaan Gear S2 on tarkoitettu meneville ihmisille, jotka ihailevat minimalistista muotoilua.
+
+Tizen-käyttöjärjestelmä merkitsee sitä, että kelloille on tarjoilla vähemmän sovelluksia kuin kilpailevalle Apple Watchille tai Googlen Android Wear -käyttöjärjestelmän laitteille. Samsung kuitenkin lupasi runsasta sovellustarjontaa heti myynnin alkaessa.
+
+Älykellon 3G-versiossa on virtuaalinen sim-kortti, joka mahdollistaa puhelut ja viestit ilman älypuhelinta. Samsungin tapaan laitteiden rautavarustus on riittävä.
+
+Niissä on kaksiytiminen yhden gigahertsin suoritin, 512 megatavua työmuistia ja neljä gigatavua kiinteää muistia. Kolmen sentin näytön resoluutio on 360 x 360 pikseliä. Ohuiksi niitä ei voi vieläkään sanoa. Ne ovat 11,4 millin paksuisia.
+
+IFA-messuille odotetaan Android Wear -tuotteita myös Asusilta, Motorolalta, Huaweilta ja mahdollisesti myös Sonylta, Sydney Morning Herald kirjoitti.
+
+

@@ -1,0 +1,19 @@
+<HEADLINE>
+ Googlen Chrome iskee automaattivideoihin
+
+<DATE>
+31.8.2015 08:45
+
+<INGRESS>
+Google alkaa tiistaina päivittää Chrome-selaintaan versioon, joka estää Flash- muotoisten automaattivideoiden käynnistymisen taustalla.  
+
+<BODY>
+Google kertoi kesäkuussa Flash-rajoituksesta, joka estää taustalla ladattujen tai latautuneiden videoiden automaattisen käynnistyksen. CNN Moneyn mukaan selainpäivitys poistaa monia ärsyttävän tilanteen, jossa yksi kymmenistä välilehdistä alkaa pyörittää videota ja aiheuttaa paniikkireaktion käyttäjälle.
+
+Googlen blogissa perusteellaan Flash-rajoituksia myös kannetavan tietokoneen käytön tehostamisella, sillä Flashin ajaminen taustalla rasittaa koneen akkua. Chrome-selaimessa video käynnistyy automaattisesti vain silloin juuri sillä etualalla olevassa olevassa välilehdessä.
+
+Adoben laajasti käytettyä Flash-teknologiaa on arvosteltu myös siitä, että sen kautta on levitetty jatkuvasti haittaohjelmia.
+
+Flash on erittäin käytetty tapa mainosten esittämisessä. Google ei halua rajoittaa mainontaa, joten se on kehittänyt tavan, jossa sen AdWord- mainosalusta muuntaa useimmat Flash-videot html5-videoiksi.
+
+
