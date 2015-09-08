@@ -1,0 +1,23 @@
+<HEADLINE>
+ Uberin autoille kehitellään "silmiä"
+
+<DATE>
+26.8.2015 09:10
+
+<INGRESS>
+Kyytipalvelu Uber ja Arizonan yliopisto on tehneet yhteistyösopimuksen, joka tähtää Uberin robottiautojen näkökyvyn kehittämiseen.  
+
+<BODY>
+Airizonan osavaltion kuvernööri Doug Duceyn virasto tiedotti tiistaina Uberin ja Arizonan yliopiston optisen tieteen yksikön välisestä kumppanuussopimuksesta. Ilmoituksen mukaan yhteistyössä kehitetään turvallisuuteen ja kartoitukseen liittyvää optiikkaa.
+
+Asiasta kirjoittaneen Fortunen mukaan kyse on robottiauton teknologian kehittämisestä.
+
+Uber on aikaisemmin painottanut, että kartoituksen koeajoneuvot eivät ole itseään ohjaavia robottiautoja. Mutta samana päivänä kuin optiikan tutkimuksen yhteistyöstä kerrottiin, kuvernööri Ducey allekirjoitti määräyksen, joka sallii robottiautojen testaamisen Arizonassa.
+
+Helmikuussa Uber ilmoitti yhteistyösopimuksesta Carnegie Mellon -yliopiston kanssa. Siellä sopimus kattaa kartoituksen ja ajoneuvon turvallisuuden lisäksi itseohjautuvuuteen liittyvää teknologiaa.
+
+Arizonassa yhteistyö keskittyy nimenomaan linssien kehittämiseen. Arizonan yliopisto on eräs maailman suurimpia optiikan opetuslaitoksia ja sillä on suuri määrä teollisia kumppaneita mukaan lukien Canon, Sharp Laboratories of America, Oculus Research, Johnson & Johnson Vision Care, Raytheon Systems ja Boeing.
+
+Fortunen mukaan on mielenkiintoista seurata, harrastaako Uber samaa aivoryöstöä Arizonassa kuin Carnegie Mellonissa, josta 40 yliopiston tutkijaa ja tiedemiestä on siirtynyt Uberin palvelukseen.
+
+

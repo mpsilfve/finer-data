@@ -1,0 +1,21 @@
+<HEADLINE>
+ Onko kolmannelle pyörälle tilaa: Firefox tulee iPhoneen
+
+<DATE>
+4.9.2015 08:34
+
+<INGRESS>
+Mozilla tiedotti torstaina käynnistäneensä iPhonessa toimivan Firefox-selaimen esiversion käyttötestauksen.  
+
+<BODY>
+Mozilla ilmoitti blogissaan hakevansa Firefoxin iOS-version käyttäjäkokemuksia yhdessä maassa, Uudessa-Seelannissa. Muualla maailmassa asuvat asiasta kiinnostuneet voivat jättää sähköpostiosoitteensa saadakseen tietoa selainversion laajemmasta levityksestä.
+
+Firefox-tilin avulla käyttäjät voivat siirtää oman selainhistoriansa, salasanat ja välilehdet tietokoneesta iPhoneen tai iPadiin.
+
+Mozilla on erityisen kiinnostunut käyttäjien reaktioista älykkääseen hakuun, joka tarjoaa muun muassa mahdollisuutta valita hakukone. Perusasetuksissa Firefoxin iOS-versio tarjoaa hakukoneeksi Yahoota.
+
+Firefoxin markkinajohtajuus on rapistunut kilpailussa Googlen Chromen kanssa. Mittaustavasta riippuen se asettuu yleensä kolmanneksi suosituimmaksi selaimeksi Internet Explorerin jälkeen. Mobiiliselamista ylivoimaisesti suosituimmat ovat Chrome ja Applen Safari.
+
+   Uudesta selainversiosta uutisoi muun muassa VentureBeat.
+
+

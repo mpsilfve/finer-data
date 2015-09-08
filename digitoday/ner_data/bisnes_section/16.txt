@@ -1,0 +1,21 @@
+<HEADLINE>
+ Google iskee sovellusmainoksiin — tuputtajia rangaistaan hakutuloksissa
+
+<DATE>
+2.9.2015 09:33
+
+<INGRESS>
+Google alkaa piilottaa sivuja, joiden tuputtamat sovelluslatauskehotukset peittävät itse sivun.  
+
+<BODY>
+Google panostaa älypuhelimien käytettävyyteen hakulaitteina. Huhtikuussa se ryhtyi rankaisemaan huonosti mobiililaitteissa toimiva sivustoja heikentämällä niiden näkyvyyttä hakutuloksissa.
+
+Marraskuun alussa sama rangaistus kohtaa verkkopalveluja, jotka tyrkyttävät omia sovelluksiaan ikkunoilla, jotka peittävät ison osan varsinaisesta sivun sisällöstä.
+
+Mobiililaitteen käyttäjä joutuu etsimään näytön peittävästä mainoksesta pientä x:ää, jolla mainoksen voisi sulkea. Liian usein hän klikkaa väärää kohtaa ja aloittaa sovelluksen lataamisen, TechCrunch kirjoitti.
+
+Googlen Webmaster Central -blogin mukaan sivut, jotka käyttävät sisällön peittäviä välisivumainoksia luokitellaan marraskuun alusta mobiiliepäystävällisiksi ja niiden sijaintia lasketaan alemmaksi hakutuloksissa.
+
+Chromen ja Safarin standardikokoisia, siis pienempiä, sovellusten latausbannereita käyttäviä sivuja näkyvyyden vähentämisrangaistus ei koske. Hakutulosten kärjestä putoaminen voi tietää merkittävää mainostulojen supistumista verkkopalveluille.
+
+
