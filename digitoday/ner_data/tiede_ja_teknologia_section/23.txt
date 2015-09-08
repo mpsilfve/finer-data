@@ -1,0 +1,25 @@
+<HEADLINE>
+ Firefoxille tulossa iso piristysruiske
+
+<DATE>
+24.8.2015 09:34
+
+<INGRESS>
+Web-selaimet muistuttavat toisiaan jatkossa yhä enemmän. Firefoxin takana oleva Mozilla Foundation ilmoitti uudistuksista, jotka tuovat Chromen ja Operan laajennukset Firefoxin selaimiin.  
+
+<BODY>
+Mozilla-säätiön perjantaisen ilmoituksen mukaan Firefoxiin tulee uusi sovellusliittymä, jonka kautta kehittäjät voivat tuoda Chromelle ja Operalle kirjoitetut Blink-pohjaiset laajennukset Firefoxiin vain pienin muutoksin.
+
+– Haluaisimme viedä laajennusten kehittämisen yleisen web-kehityksen suuntaan: saman koodin pitäisi toimia eri selaimilla standardoitujen toimintamallien mukaan ja eri toimittajien täydellisen dokumentaation tukemana, Mozillan Kev Needham kirjoitti yritysblogissa.
+
+Mozilla ilmoitti myös luopuvansa nykyisistä XPCOM- ja XUL-tekniikoista käyttöliittymien rakentamisessa. Niiden tuki lakkaa vuoden, puolentoista kuluessa. Asiasta uutisoi muun muassa TechCrunch.
+
+Firefoxin turvallisuuden on määrä kasvaa versiosta 42 alkaen, sillä sille kirjoitetut laajennukset vaativat Mozillan etukäteen tekemää tarkastusta ja hyväksyntää.
+
+Hyväksyntäprosessin on määrä nopeutua uuden WebExtensions API:n tulessa käyttöön. Nykyisellään prosessi voi kestää viikkoja tai kuukausia. Uuden automatisoidun tarkastusprosessin on määrä mennä läpi viidessä päivässä.
+
+Mozilla on myös erottamassa välilehdet ja käyttöliittymän eri prosesseihin. Firefox 43:n betaversiossa yhden välilehden jumittaminen ei enää kaada koko Firefoxia.
+
+Uudistukset ovat hyvä uutinen kehittäjille, mutta pidemmän päälle ne saattavat köyhdyttää Firefoxin omia, monipuolisia ominaispiirteitä.
+
+

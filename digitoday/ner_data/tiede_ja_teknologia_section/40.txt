@@ -1,0 +1,21 @@
+<HEADLINE>
+ Pelottavatko verinäytteet? Apua tulossa Googlelta
+
+<DATE>
+13.8.2015 15:43
+
+<INGRESS>
+Tavoitteena on laastarin kokoinen mittari verensokerin seurantaan.  
+
+<BODY>
+Google ja verensokerin mittaukseen erikoistunut DexCom lyövät päänsä yhteen diabeetikoiden ja muiden sellaisten avuksi, joiden on tähän asti täytynyt pistellä sormiaan.
+
+Yhtiöt kertoivat tähtäävänsä laastarin kokoisiin ja poisheitettäviin laitteisiin, jotka mittaavat verensokeria jatkuvasti. Asiasta kirjoittavan Mashablen mukaan laitteen on määrä olla yhteydessä internetin pilvipalveluun.
+
+Tiedoista on tosin hieman vaikea päätellä, onko aiottu laastari täysin korvaava menetelmä sormenpäämittauksille vai ainoastaan täydentävä. Menetelmästä odotetaan kuitenkin nykyistä pienempiä ja halvempia.
+
+Googlen kiinnostus terveyteen ja terveysteknologiaan on tiedossa. Tämä on alkanut näkyä jo yhtiön alkuperäisessä tuotteessakin, hakukoneessa, joka on alkanut esittää lääkärien tarkastamia vastauksia terveyskysymyksiin.
+
+Google on myös aiemmin kehittänyt älykästä piilolinssiä, joka osaisi mitata verensokeria.
+
+

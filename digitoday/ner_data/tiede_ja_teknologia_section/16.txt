@@ -1,0 +1,21 @@
+<HEADLINE>
+ Facebookilta digiavustaja — antaisitko M:n shoppailla puolestasi?
+
+<DATE>
+27.8.2015 08:10
+
+<INGRESS>
+Facebook on kehittänyt oman digitaalisen avustajansa. M-nimellä tunnettu assistentti asuu Facebook Messengerin sisällä.  
+
+<BODY>
+Facebook Messengerin digitaalisen avustajan M:n kykyjä testataan parhaillaan San Franciscon alueella. Facebookin David Marcus kuvaa blogissa avustajaksi, joka saattaa tehtäviä loppuun ja löytää tietoja käyttäjälle.
+
+– Sen toiminta perustuu tekoälyyn, jonka ihmiset ovat opettaneet ja jota he valvovat.
+
+Marcusin mukaan M poikkeaa Siristä ja Cortanasta siinä, että oikeasti tekee tehtäviä. Se voi suorittaa ostoksia, toimittaa lahjoja läheisille, tehdä pöytävarauksia ja matkatilauksia, sopia tapaamisia ja tehdä paljon muuta.
+
+Siri on Applen älypuhelimissa ja taulutietokoneissa toimiva avustaja. Microsoftin Cortanan toimialuetta on juuri laajennettu älypuhelimista Windows 10 -tietokoneisiin.
+
+Uudesta tulokkaasta digiavustajien joukkoon raportoi Wired keskiviikkona.
+
+

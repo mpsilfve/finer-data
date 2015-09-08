@@ -1,0 +1,25 @@
+<HEADLINE>
+ Tämän robotin vauvat kehittyvät sukupolvesta toiseen - koita samaaperiaatetta klassikkopelissä!
+
+<DATE>
+14.8.2015 15:15
+
+<INGRESS>
+Tutkijat kehittivät robotin, joka luo uusia parempia robotteja sukupolvi sukupolvelta.  
+
+<BODY>
+Zurichin teknillisen yliopiston tutkijat kehittivät robotin, joka luo uusia robotteja evolutiivisin keinoin, kertoo Digital Trends.
+
+Emorobotti kokoaa vauvarobotteja yhdistelemällä pieniä moottoreilla varustettuja palikoita. Kun robotti valmistuu, se pyrkii liikkumaan pöydällä mahdollisimman pitkälle tietyssä ajassa. Emorobotti seuraa vauvoja kameralla ja mittaa miten pitkälle ne pääsevät.
+
+Emorobotti tekee vauvarobotteja kymmenen robotin kokoisissa sukupolvissa. Sukupolven paras robotti toimii seuraavan sukupolven siemenenä. Uudet kymmenen robottia perustuvat edellisen sukupolven parhaaseen, mutta niihin tehdään pieniä muutoksia, jotka ovat peräisin edellisen sukupolven muista roboteista. Samaa toistetaan sukupolvi toisen jälkeen, jolloin robotit kehittyvät pikkuhiljaa.
+
+Kymmenennen sukupolven paras robotti pääsi testeissä liikkumaan kaksi kertaa niin pitkälle, kuin ensimmäisen sukupolven paras robotti. Videon emorobotin toiminnasta ja vauvarobotin sätkimisestä näet alta.
+
+Samaa periaatetta voi kokeilla myös itse muutaman vuoden takaisen mainion selain"pelin" avulla.
+
+Boxcar2d luo pieniä kaksiulotteisia kolmioista ja renkaista koostuvia autoja ja mittaa kuinka pitkälle ne pääsevät. 20 auton sukupolvesta paras toimii seuraavan sukupolven siemenenä.
+
+Alussa sekasotkuiset satunnaisesti luodut autot paranevat yritys yritykseltä, kunnes ne muutaman sukupolven jälkeen pääsevät radalla jo pitkälle.
+
+

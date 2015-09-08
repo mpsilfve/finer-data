@@ -1,0 +1,23 @@
+<HEADLINE>
+ Taisto mobiilimaksamisesta alkaa: Huomenna aloittavalla Samsungilla vahvavaltti
+
+<DATE>
+19.8.2015 10:52
+
+<INGRESS>
+Samsungin mobiilimaksupalvelu käynnistyy 20. elokuuta Koreassa ja laajenee Yhdysvaltoihin 28. syyskuuta.  
+
+<BODY>
+Samsung Pay -maksupalvelun on määrä levitä Koreasta ja Yhdysvalloista Britanniaan, Espanjaan ja Kiinaan. Palvelu haastaa suoraan Applen vastaavan palvelun, sillä myös se on sidottu tiettyihin puhelinmalleihin.
+
+Apple Pay toimii iPhone 6:ssa, Samsung Pay viime viikolla julkistetuissa Galaxy S6 Edge Plussassa ja Galaxy Note 5:ssä. Uutuuslaitteet tulevat valmiiksi maksusovelluksen kanssa. Sen luvataan tulevan myös viime keväänä julkistettuihin Galaxy S6- ja S6 Edge -puhelimiin.
+
+Samsung Payllä on yksi suuri etu kilpailijoihin verrattuna: Se toimii nfc- päätteiden lisäksi myös tavallisen magneettijuovalukijoiden kanssa. Siinä käytetään yrityksen omaa “magnetic secure transmission” (MST) -tekniikkaa.
+
+Maksusovelluksen tiedot siirtyvät juovanlukijaan koskettamalla sitä. Tämä mahdollistaa Samsung Payn käytön myös niissä miljoonissa pienissä liikkeissä, jotka eivät ole ollut halukkaita maksamaan uusista päätteistä.
+
+Samsung sanoo sopineensa yhteistyöstä jo muun muassa  American Expressin, Discoveryn, MasterCardin,  Visan, Bank of American ja Chasen kanssa. Samsung lupaa jatkoa luetteloon. Tulossa on tuki myös suurten kauppaketjujen omille luottokorteille.
+
+Samsung Payn laajentumisaikataulusta ei ole kerrottu. Mikäli Apple Payn esimerkki kertoo mitään, sovelluksen tulo Suomeen kestää kuukausia.
+
+
