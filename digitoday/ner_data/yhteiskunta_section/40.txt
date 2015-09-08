@@ -1,0 +1,25 @@
+<HEADLINE>
+ Windows 10:n pakkopäivitykset rikastuttavat operaattoreita
+
+<DATE>
+17.8.2015 11:36
+
+<INGRESS>
+Uuteen-Seelantiin kuuluvalla Cookinsaarilla asuva Windows-käyttäjä kertoo elokuun internetlaskunsa nousseen 480 euroon Windows 10:n takia. Windows 10:n asennuspaketti riittää täyttämään koko kuukauden datakiintiön.  
+
+<BODY>
+Australiassa sähköisiä kansalaisoikeuksia ajava Electronic Frontiers EFA on nostanut Windows 10:n ja sen pakkopäivitysten aiheuttamat tietoliikennekulut pöydälle. Useimmat käyttäjät eivät ole vielä saaneet heinä–elokuun ajan nettilaskujaan, joten suurta meteliä asiasta ei ole noussut, Sydney Morning Herald kirjoitti.
+
+EFA:n toiminnanjohtaja Jon Lawrence ilmaisi huolensa niistä internetkäyttäjistä, jotka asuvat syrjäisissä paikoissa kalliiden yhteyksien takana:
+
+– Tässä ympäristössä, missä internetyhteys on tuskallisen hidas ja vakavasti kallis, pakkopäivitykset melkein kirjaimellisesti pakottavat ihmiset ulos internetistä ja tuottavat heille massiivisia ylimääräisiä datalaskuja.
+
+Cookinsaarten telemonopoli Bluesky laskuttaa datasta noin 40 euroa kuussa 3,5 gigatavuun asti ja sen jälkeen neljä senttiä megatavulta. Satelliitin kautta toimivan yhteyden nopeus on kaksi megabittiä sekunnissa.
+
+Windows 10:n asennuspaketin koko oli kolme gigatavua. Windows 10:n kolmas ja tuorein päivitys oli kooltaan 180 megatavua 32-bittisenä ja 360 megatavua 64-bittisenä, NDTV raportoi.
+
+Korjattu megabitit megatavuiksi viimeisessä kappaleessa. 
+
+  
+
+
