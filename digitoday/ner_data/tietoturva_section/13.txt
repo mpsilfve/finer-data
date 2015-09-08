@@ -1,0 +1,21 @@
+<HEADLINE>
+ F-Securelta jättipäivitys: Aukko 13 tuotteessa
+
+<DATE>
+1.9.2015 14:10
+
+<INGRESS>
+F-Secure korjasi Gatekeeper-ajurissaan olleen aukon.  
+
+<BODY>
+F-Secure on julkaissut monia tuotteitaan koskevan tietoturvapäivityksen, joka estää paikallisten käyttöoikeuksien laajentamisen. Asiasta kertoo Viestintäviraston Kyberturvallisuuskeskus.
+
+Haavoittuva komponentti on Windows-koneissa oleva F-Secure Gatekeeper -ajuri fsgk.sys. Haavoittuvuuden hyväksikäyttö edellyttää pääsyä laitteille.
+
+Ohjelmistot päivittyvät automaattisesti oman päivitystoimintonsa kautta. Ajuri päivittyy versioon 10.80.110.65.
+
+F-Securen yritysohjelmistoista haavoittuvia ennen päivitystä ovat F-Secure Client Security, F-Secure Client Security Premium, F-Secure Anti-Virus For Workstations, F-Secure Server Security, F-Secure Server Security Premium, F-Secure Email And Server Security, F-Secure Email And Server Security Premium, F-Secure Protection Service For Business Workstation Security, F-Secure Protection Service For Business Server Security ja F-Secure Protection Service For Business Email And Server Security.
+
+Kuluttajatuotteista paikattiin F-Secure Safe Anywhere PC, F-Secure Internet Security ja F-Secure Anti-Virus.
+
+

@@ -1,0 +1,25 @@
+<HEADLINE>
+ Youtube päästää mainostajat vahtimaan mainosten näkemistä
+
+<DATE>
+7.9.2015 11:32
+
+<INGRESS>
+Youtuben arvioidaan tienaavan neljä miljardia dollaria vuodessa mainoksista, vaikka monia niistä ei näe yksikään silmäpari. Videopalvelu aikoo torjua mainostajapakoa päästämällä tarkastajat käyttäjänäkymiin.  
+
+<BODY>
+Googlen omistama Youtube reagoi mainostajien protesteihin siitä, etteivät heidän mainosvideonsa näy käyttäjille. Amerikkalainen elintarvikekonserni Kellogg’s on tiettävästi lopettanut mainostamisen Youtubessa ongelman takia, Financial Times kirjoitti.
+
+Youtuben asioista tietävien lähteiden mukaan Youtube on mainostajien painostuksen alla sallimassa mainosten näkyvyyden tarkistuksen vuoden vaihteesta lähtien.
+
+Mainoksen näkymisestä väännetään kättä, mutta Media Rating Councilin ja Interactive Advertising Bureaun määritelmän mukaan videomainos on näkyvä, kun ainakin puolet sen pikseleistä on näkyvissä yhtäjaksoisesti vähintään kaksi sekuntia.
+
+Mainosvideo voi jäädä ilman näkijää monella tavalla. Sivun latautuessa se voi jäädä näytön ulkopuolelle, käyttäjä voi vierittää sivun mainoskohdan ohitse tai hän voi minimoida välilehden ennen videon näkymistä.
+
+Youtuben suunnitelmissa on päästää ennen kaikkea nettitilastointiin erikoistuneita yrityksiä verifioimaan mainosten näkymistä. Sellaisia ovat muun muassa ComScore, DoubleVerify ja Integral Ad Science.
+
+Toukokuussa Google julkisti jo oman Active View  -työkalunsa mainosten näkymistä varmistamaan. Sen mukaan videomainosten näkyvyys oli netissä keskimäärin 54 prosenttia, mutta Youtubessa se oli 91 prosenttia.
+
+Googlen taipuminen mainostajavalvontaan ei tarkoita sitä, että kaikki muut lähtevät siihen mukaan tai että mittaamistavoista saavutettaisiin yksimielisyys. Mainosten näkyvyysvalvonta saattaa paljastaa yritysten tiukasti valvomia käyttäjätietoja. Katsojanäkymien avaaminen uusille toimijoille voi myös herättää kysymyksiä tietoturvasta.
+
+

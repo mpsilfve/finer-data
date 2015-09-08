@@ -1,0 +1,29 @@
+<HEADLINE>
+ Pettäjämurrossa kymmeniä tuhansia suomalaisia — älä tee tätä virhettä
+
+<DATE>
+19.8.2015 16:43
+
+<INGRESS>
+Viestintävirasto neuvoo olemaan käyttämättä "tarkista, ovatko tietosi vuotaneet" -sivustoja. Virasto arvioi, että murto voi koskea kymmeniä tuhansia suomalaisia.  
+
+<BODY>
+Ashley Madison -pettämispalvelun murron seurauksena verkkoon päätyneestä tietokannasta löytyy kymmeniä tuhansia suomalaisnimiä, kertoo Viestintävirast o.
+
+Viranomainen muistuttaa, että tietojen aitoutta ei ole vahvistettu. Viestintävirasto viittaa palvelun omistamaan Avid Life Mediaan, joka ei ole vahvistanut palvelun aitoutta.
+
+Ashley Madisoniin on mahdollista luoda tunnuksia toisten nimillä, koska sähköpostiosoitetta ei validoida.
+
+Moni taho verkossa on silti vahvistanut tiedot todellisiksi.
+
+Tällä hetkellä tiedostot liikkuvat "tavallisen internetin" ulkopuolella darkwebissä. Ne ilmestynevät kuitenkin pian yleiseen verkkoon kaikkien tutkittavaksi.
+
+Viestintävirasto suosittelee käyttäjiä vaihtamaan salasanansa niissä palveluissa ja järjestelmissä, joissa he ovat joskus käyttäneet samaa salasanaa kuin Ashley Madisonissa. Vaikka salasanat on tiivistetty kryptografisesti, ne saattavat olla murrettavissa.
+
+On odotettavissa, että verkkoon ilmestyy nopeasti "tarkista, ovatko tietosi vuotaneet" -sivustoja. Viestintävirasto kehottaa olemaan käyttämättä näitä.
+
+— Todellisuudessa rikolliset keräävät näin lisää henkilötietoja, joita he voivat käyttää identiteettivarkauksissa ja huijauksissa, Viestintävirasto muistuttaa.
+
+Luottokortin väärinkäyttöä ei tarvitse pelätä nykytietojen perusteella.
+
+

@@ -1,0 +1,43 @@
+<HEADLINE>
+ Iskitkö kätesi pettäjäsivuston tietoihin? Saatoit rikkoa kolmea lakia
+
+<DATE>
+26.8.2015 06:11
+
+<INGRESS>
+Lakitoimisto Turre Legalin mukaan Ashley Madisonin tietokannan kanssa puuhastellessa saattaa syyllistyä useampaankin rikokseen.  
+
+<BODY>
+Pettäjäpalvelu Ashley Madisonin jättimäiset varastetut tietokannat jaettiin viime viikolla verkkoon. Miljoonien käyttäjien yksityistietoja sisältävät listat ja niiden karsitut Suomi-versiot levisivät vauhdikkaasti ja monet tutkivat, löytyykö niiltä tuttavien nimiä.
+
+Ashley Madisonin tietokanta on henkilötietolain mukainen henkilörekisteri ja sen sisältö on henkilötietolain mukaista arkaluonteista tietoa. Sen parissa varomattomasti toimien saattaa syyllistyä rikoksiin.
+
+Lakitoimisto Turre Legalin mukaan rekisterin kanssa toimiessa kyseeseen tulee mahdollisesti kolme rikosta: henkilörekisteririkos (rikoslain 38. luvun 9. pykälä), yksityiselämää loukkaava tiedon levittäminen (rikoslain 24. luvun 8. pykälä), sekä tekijänoikeusrikos (rikoslain 49. luvun 1. pykälä).
+
+### Luitko listaa? Toivottavasti vain omaan käyttöön
+
+Turre Legal arvioi, että jos listaa lukee netissä, todennäköisesti ei syyllisty mihinkään. Samoin on asia, jos paketin lataa koneelleen ja lukee sitä. Näiden on kuitenkin tapahduttava yksinomaan yksityisessä tarkoituksessa. Toisin sanoen omat tiedot voi käydä tarkastamassa.
+
+— Henkilötietolaki ei koske yksityistä käyttöä. On siis täysin laillista käydä tarkistamassa, löytyykö oma nimi tai sähköpostiosoite palvelusta. On myös laillista tarkistaa, löytyvätkö puolison tiedot palvelusta, Turre Legalin lakimies Jussi Kari kertoo Digitodaylle.
+
+Lakitoimiston arvion mukaan poliisi tuskin alkaa tutkia yksittäisiä listan ladanneita suomalaisia. Jos poliisi takavarikoi tietokoneen jonkin muun tutkinnan yhteydessä, voi listan lataamisesta seurata kysymyksiä.
+
+Yritysten ei kannata kajota listoilta löytyviin sähköpostiosoitteisiin.
+
+— Yritykset, jotka käyttävät suomalaisia .fi-sähköposteja markkinointiin, syyllistyvät helposti henkilörekisteririkokseen. Listaa ei siis kannata käyttää anteeksipyyntökukkalähetysten markkinointiin. Henkilörekisteririkoksesta voi seurata maksimissaan vuoden vankilareissu, lakimies ja Turre Legalin osakas Herkko Hietanen varoittaa yrityksiä.
+
+### Levititkö listaa? Se on todennäköisesti tekijänoikeuden suojaama
+
+Listaan johtavan hyperlinkin tarjoaminen on Turre Legalin mukaan todennäköisesti laillista.
+
+Lakitoimisto kuitenkin katsoo, että oikeus voi tulkita .torrent-tiedoston levittämisen loukkaavaksi, vaikka henkilö ei itse jakaisi tiedostoa vertaisverkossa.
+
+Yksityiselämää loukkaavasta tiedon levittämisestä oikeus voi tuomita sakkorangaistukseen.
+
+Erityisesti tietovuotopakettia vertaisverkossa levittäessä tulee myös muistaa, että nimilistaa voidaan todennäköisesti pitää tietokantana. Tietokanta nauttii tekijänoikeuden kaltaista lähioikeussuojaa, ja oikeus voi katsoa sen levittämisen tekijänoikeusrikokseksi.
+
+Tekijänoikeusrikoksesta rangaistus on sakkoa tai enintään kaksi vuotta vankeutta.
+
+Syyte tekijänoikeusrikoksesta kuitenkin edellyttää, että Ashley Madisonin omistava Avid Life Media vaatisi levittäjille rangaistusta Suomessa, sillä "erittäin tärkeä yleinen etu" tuskin vaatii syytteen nostamista.
+
+

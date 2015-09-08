@@ -1,0 +1,21 @@
+<HEADLINE>
+ Googlen palvelinkeskus sai salamasta — tietoja katosi
+
+<DATE>
+20.8.2015 09:31
+
+<INGRESS>
+Googlen vaikeudet Euroopassa saivat ylättävän lisän, kun sen Belgiassa oleva palvelinkeskus joutui salaman iskemäksi.  
+
+<BODY>
+Salama iski neljä kertaa Googlen Belgian-palvelinkeskuksen sähköjohtoihin ja aiheutti tietojen pysyvää katoamista. Googlen mukaan keskuksen varajärjestelyt palauttivat suurimman osan virtakatkosta kärsineistä levyistä takaisin toimintaan, mutta silti joidenkin käyttäjien tiedot katosivat pysyvästi.
+
+BBC kirjoitti, että salaman toistuvat iskut samaan kohteeseen ovat harvinaisia, mutta vahinkoa voi tapahtua, jos salama osuu eri puolille rakennusta tai rakennuksen kanssa yhteydessä oleviin johtoihin kilometrinkin päässä.
+
+Google ilmoitti Cloud Platform -sivullaan, että vain 0,000001 prosenttia levytilasta vahingoittui pysyvästi. Salamat iskivät torstaina 13. elokuuta ja maanantaina 17. elokuuta järjestelmä oli saatu takaisin lähes täyteen toimintakuntoon.
+
+– Vaikka automaattiset varajärjestelmät palauttivat sähköt nopeasti ja tallennusjärjestelmät on suojattu vara-akuilla, osa juuri äskettäin tallennetusta datasta oli järjestelmässä, joka oli haavoittuva sähkökatkon aiheuttaman akkuvirran pitkäaikaisen ja toistuvan käytön seurauksille.
+
+Google on vääntänyt kättä EU:n kanssa ihmisten oikeudesta piilottaa heitä koskevia tietoja hakukonetuloksista ja tapellut eurooppalaisten julkaisijoiden kanssa oikeudesta linkata uutisiin ja näyttää osia niistä ilman korvausta.
+
+

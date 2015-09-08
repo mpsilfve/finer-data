@@ -1,0 +1,21 @@
+<HEADLINE>
+ Internet Explorerissa kriittinen aukko — Microsoft ryhtyi poikkeustoimiin
+
+<DATE>
+19.8.2015 09:30
+
+<INGRESS>
+Microsoft rikkoi säännöllisen päivityssyklinsä IE:n pikapaikalla.  
+
+<BODY>
+Microsoftin Internet Explorer -selaimesta on löytynyt tietoturva-aukko, joka antaa hyökkääjän ajaa omaa koodiaan kohdekoneessa. Aukon hyödyntämiseen riittää se, että surfaaja saadaan ohjattua tietylle verkkosivulle.
+
+Asiasta varoittaa Viestintäviraston Kyberturvallisuuskeskus.
+
+Haavoittuvuuden takana on muistinkäsittelyongelma. Hyökkäyskoodi on julkisesti tarjolla.
+
+Microsoft teki kriittiseksi luokitellun haavoittuvuuden haavoittuvuuden vuoksi poikkeuksen päivityskäytäntöihinsä ja julkaisi aukon paikkaavan korjaustiedoston välittömästi.
+
+IE päivittyy automaattisesti, jos Windows Update on käytössä. Muussa tapauksessa 3088903-korjaustiedoston voi ladata Microsoftin sivuilta.
+
+

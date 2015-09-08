@@ -1,0 +1,21 @@
+<HEADLINE>
+ Pankkeihin hyökätään uusilla aseilla: Gozin tekijä tunnusti
+
+<DATE>
+5.9.2015 21:15
+
+<INGRESS>
+Latvialainen mies myönsi osallisuutensa kuuluisan Gozi-viruksen kehittämiseen.  
+
+<BODY>
+Pankkiryöstöt ovat siirtyneet pitkälti verkkoon, missä aseina käytetään hienostuneita haittaohjelmia. Yksi näistä, Gozi, ilmestyi jo vuonna 2007 ja tarttui yli miljoonaan tietokoneeseen.
+
+Uusi epäilty on nyt tunnustanut syyllisyytensä Gozin kehittämiseen. Latvialainen mies vahvisti perjantaina Manhattanilla New Yorkissa, että hän kirjoitti osan Gozin koodista tehdäkseen siitä tehokkaamman.
+
+Mies on jo viettänyt kymmenen kuukautta vankilassa Latviassa. Sopuratkaisun mukaan hän ei vastusta mitään Yhdysvalloissa annettavaa vankeustuomiota, joka on kestoltaan enintään kaksi vuotta. Tuomio langetetaan joulukuussa.
+
+Gozi aiheutti kymmenien miljoonien eurojen vahingot ympäri maailmaa. Gozin venäläinen pääkehitttäjä tunnusti syyllisyytensä jo aikaisemmin, kun taas ryhmän kolmas epäilty jäsen, romanialainen mies, odottaa yhä luovutustaan Yhdysvaltoihin.
+
+Kopla myi Gozia eteenpäin muille verkkorikollisille, jotka varastivat sillä rahaa ihmisten pankkitileiltä.
+
+
