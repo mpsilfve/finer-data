@@ -1,0 +1,61 @@
+<HEADLINE>
+ Halvalla hyvää? Testissä suomalaisten suosikkitabletti Huawei Mediapad T1
+
+<DATE>
+22.8.2015 05:05
+
+<INGRESS>
+Huawein T1-laitteet ovat kurkotus halvalla hyvää -osastolle. Mutta onko halpa hyvää vielä ensi vuonnakin?  
+
+<BODY>
+Tabletti pitäisi saada, mielellään iso, hyvä ja edullinen. Mikä eteen?
+
+Yhtälö on hankala. Vanhan viisauden mukaan hyvää ei saa halvalla, ja iso näyttö nostaa vielä laitteen hintaa.
+
+Useimmin tässä tilanteessa valinta kohdistuu kiinalaisvalmistajiin. Moni on valinnut Huawein Mediapad T1:n, sillä yhtiö kehuu myyneensä kesän aikana varastot tyhjiksi Suomessa sitä mukaa kun laitetta on saatu lisää.
+
+Kiinnostavuus on ymmärrettävissä taloudellisesta näkökulmasta. Laitteen 10-tuumainen täysvarusteltu versio maksaa noin 250 euroa. Jos 4g-mobiilidatan jättää pois tai näytön kutistaa kahdeksaan tuumaan, hinta laskee 200 euron pintaan.
+
+### Kuulostaa hyvältä, miltä se tuntuu?
+
+Ulkoisesti MediaPad T1 10 muistuttaa Applen tabletteja enemmän kuin ihan vähän. Fyysisiä näppäimiä ei tosin ole, mutta muuten kyseessä voisi olla iPadin kadonnut velipuoli.
+
+Yhteneväisyys jatkuu käyttöjärjestelmäpuolella, sillä Huawein Emotion UI -käyttöliittymä lainailee ronskisti iOS:ltä. Käyttö on siis yksinkertaista ja suoraviivaista.
+
+Vaikka kyseessä on edullisten laitteiden valmistajana tunnettu Huawei, sen saa mistä maksaa. 1,2 gigahertsin neliydinsuoritin, gigan keskusmuisti ja 16 gigan tallennustila eivät edusta viiltävintä kärkeä, mutta niillä pärjää tällä hetkellä hyvin.
+
+![](/showImage.php?imageId=80279)
+
+Tabletin takapuoli on pääosin alumiinia.   Kuva: Henrik Kärkkäinen
+
+Tehokkaita laitteita käyttäneille T1:n käyttö vaikuttaa hieman viipyilevältä. Laite ei varsinaisesti hidastele tai jämähtele, sillä suoritinteho riittää kyllä. Mutta riittääkö se myös ensi vuonna? Siitä ei ole takeita.
+
+Viipyilevyydestä puheen ollen: Laitteen käyttöjärjestelmä on yhä Android 4.4 eli Kitkat. Laitteelle ei ole tullut päivityksiä Stagefright- haavoittuvuuden julkistuksen jälkeen, eli sitä ei selvästikään ole korjattu.
+
+Tämä on hyvä muistutus siitä, että muun kuin lippulaiva-Androidin ostaja saattaa jäädä päivitysten suhteen pitkäksikin aikaa oman onnensa nojaan.
+
+### Elokuvakone – vaan entä valokuvauskone?
+
+Mediapad T1 on parhaimmillaan viihdekäytössä, sillä kymmentuumainen 16:9-kuvasuhteen ruutu sopii hyvin elokuvien katseluun. 1280 x 800 -tarkkuus ei päätä huimaa, mutta on riittävä. IPadin käyttäjillä lienee tosin hieman totuttelemista kuvasuhteessa.
+
+Jos laitteella kuunnellaan musiikkia tai katsellaan musiikkivideoita, äänentoisto kannattaa tosin ulkoistaa kuulokkeille, sillä kaiuttimia on vain yksi ja sekin laitteen takapuolella.
+
+Tabletit eivät ole valokuvauskoneita – eikä niiden pidäkään olla, sillä harva asia on konsertissa tablettia kuvaustarkoituksessa nostelevaa tolloa ärsyttävämpi. Siksi T1 yllättää sillä, että sen kamerassa on pieni salama ja kuvan fokusointikin onnistuu (kuten myös digitaalinen zoom, jos sitä joku tykkää käyttää).
+
+![](/showImage.php?imageId=80278)
+
+Huawein Android on hyvin vahvasti kustomoitu ja laitevalmistajan omilla ohjelmilla varustettu. Kuvassa tabletin hallinta- ja siivousohjelma.   Kuva: Henrik Kärkkäinen
+
+Videopuhelut ja selfiet onnistuvat ihan jees -tasoisella kahden megapikselin kameralla. Bonuksena kummalakin kameralla voi lisäillä "hauskoja" efektejä kuviin Huawein omaa kamerasoftaa käytettäessä.
+
+4g-yhteys vaikuttaa hieman ylimitoitetulta laitteen muuhun tekniseen tasoon suhteutettuna. Toki mukaan olisi hölmöä ujuttaa 3g-yhteyttä, jos uudemman saa samaan hintaan.
+
+### Vastinetta rahalle?
+
+Kahdella sadalla tai varttitonnilla saa kelvollisen medialaitteen, mutta huippulaitetta ei. Eniten T1:ssä askarruttaa sen päivittyminen: Kuinka hyvin ohjelmistoa ollaan pitämässä ajan tasalla? Tablettien tietoturvan tärkeys on koko ajan tärkeämpää, sillä Androidista löytyy aukkoja toisensa jälkeen, ja tableteilla hoidetaan paljon pankkiasioita.
+
+Hinta ja laatu kohtaavat kieltämättä hyvin – tällä hetkellä. Tabletin ostaminen on harvemmin sijoitus tulevaisuuteen, mutta kolmen vuoden palvelusaikaa olisi kohtuullista edellyttää. On vähintäänkin epävarmaa, kuinka vahvasti T1 porskuttaa vuonna 2018. Halpa hinta saattaa siis kompensoitua tarpeena ostaa uusi tabletti aikaisemmin.
+
+   Huawei Mediapad T1 10   tekniset tiedot   | Käyttöjärjestelmä| Android 4.4.4 + Emotion UI 3.0   ---|---   Suoritin| Qualcomm MSM8916 1,2 GHz neliydinsuoritin   Keskusmuisti| 1 Gt   Massamuisti| 16 Gt   Näyttö| 9,6 tuumaa, 1280 x 800   Pääkamera| 5 MP, f/2,2, led-salama   Kakkoskamera| 2 MP   Koko| 24,9 x 15,0 x 0,8 cm   Paino| 450 g   Akku| 4800 mAh   Muistikorttipaikka| mikro-sd, maks. 64 Gt   Liitännät| kuuloke, mikro-usb   Muuta| saatavilla myös 4g-versiona (mikro-sim)      .
+
+

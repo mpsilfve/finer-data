@@ -1,0 +1,19 @@
+<HEADLINE>
+ Apple löysi vikaa iPhonen kamerasta
+
+<DATE>
+24.8.2015 01:39
+
+<INGRESS>
+Osassa iPhone 6 Plus -puhelimia on kameraongelma, jonka Apple korjaa ilmaiseksi.  
+
+<BODY>
+Apple tiedottaa viallisista iSight-kameroista pienessä osassa iPhone 6 Plus -puhelimia, jotka myytiin syyskuun 2014 ja tammikuun 2015 välisenä aikana.
+
+Kameran yksi komponentti saattaa kyseisissä laitteissa pettää ja aiheuttaa sumuisia kuvia. Apple vaihtaa kameran maksutta uuteen.
+
+Oman puhelimensa tilanteen voi tarkistaa syöttämällä sen sarjanumeron Applen verkkosivulla. Jos puhelin tuottaa sumuisia kuvia ja sen sarjanumero täsmää, puhelin lukeutuu vaihto-ohjelman piiriin.
+
+Vaihto-ohjelma koskee ainoastaan iPhone 6 Plussaa. Ennen puhelimen toimittamista kameran vaihtoon, tiedot tulee varmuuskopioida iTunesiin tai iCloudiin.
+
+
