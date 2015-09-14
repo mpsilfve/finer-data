@@ -1,7 +1,8 @@
-from sys import stdin
+from sys import stdin, stderr
 from html2text import html2text as h2t
 from re import sub
-
+from libhfst import load_pmatch
+ 
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -17,9 +18,33 @@ def remove_emph(stx):
 def unstx(stx):
     return remove_emph(remove_links(stx))
 
+def tokenize(txt, tokenizer, mark_p):
+    paragraphs = str(txt).split('<>')
+    paragraphs = [tokenizer.match(p) for p in paragraphs]
+    tok_paragraphs = []
+
+    for p in paragraphs:
+        p = sub(r'[ \n\t\r]*<token>[ \t\n\r]*',r'<token>', p)
+        p = sub(r'[ \n\t\r]*</token>[ \t\n\r]*',r'</token>', p)
+        p = sub(r'(<token>[.!?]</token>)<',r'\1<SENTENCE><', p)
+        p = sub(r'<[/]*token>',r'\n', p)
+        p = sub(r'[\n]+',r' ', p)
+        p = sub(r'[ \n]+',r'\n', p)
+        p = p.replace('<SENTENCE>','')
+        p = sub(r'^[ \t\n\r]*',r'',p)
+        p = sub(r'[ \t\n\r]*$',r'',p)
+        if p != '':
+            tok_paragraphs.append(p)
+
+    if mark_p:
+        return '<PARAGRAPH>\n' + '\n\n<PARAGRAPH>\n'.join(tok_paragraphs)
+    else:
+        return '\n\n'.join(tok_paragraphs)
 recording = 0
 
 data = ''
+
+tokenizer = load_pmatch('../omorfi/tokenize.hfst')
    
 for line in stdin:
     line = line.strip()
@@ -57,6 +82,7 @@ body_stop = data.rfind('</p>')
 body = h2t(data[:body_stop])
 
 title = unstx(title.replace('#','').replace('\n',''))
+title = tokenize(title, tokenizer, 0)
 print('<HEADLINE>')
 print(title)
 print('')
@@ -67,11 +93,13 @@ print(date.replace('\n',''))
 print('')
 
 ingress = unstx(ingress.replace('\n',' '))
+ingress = tokenize(ingress, tokenizer, 0)
 print('<INGRESS>')
 print(ingress)
 print('')
 
 body = unstx(body.replace('\n\n','<>').replace('\n',' '))
+body = tokenize(body, tokenizer, 1)
 print('<BODY>')
-print(body.replace('<>','\n\n'))
+print(body)
 
