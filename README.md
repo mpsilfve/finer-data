@@ -14,3 +14,7 @@ and OMorFi
 
 https://github.com/flammie/omorfi
 
++++ Labeled data
+
+The labeled data can be found in DATASET/XYZ where DATASET is one of
+the available datasets (currently only digitoday is available).
