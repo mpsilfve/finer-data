@@ -3,9 +3,46 @@ Bisnes, 0.txt, 39: EU-viranomaisten
 
 Titteli? En laittanut, kun ei spesifioi ketään tiettyä henkilöä: EU-viranomainen versus EU-viranomainen Virtanen
  
+
+Bisnes, 2.txt, 44-47: Uberin toimitusjohtaja Kallack
+
+Onko "Uberin toimitusjohtaja" yksi vai kaksi titteliä? Eli B-PER I-PER vai B-ORG B-PER? Tällä hetkellä yksi entiteetti.
+
+
 Bisnes, 2.txt, 149-151: "Kiinan Google" Baidu
 
-Hankala. Laitoin B-ORG I-ORG B-ORG eli "Kiinan Google" on yksi määrittelevä entity Baidulle. Vrt. Presidentti Tarja Halonen
+Laitoin B-ORG I-ORG B-ORG eli "Kiinan Google" on määrittelevä entity Baidulle. Vrt. Presidentti Tarja Halonen B-PER B-PER I-PER
+
+
+Bisnes, 3.txt:
+
+Artikkeli käsittelee Amazonin julkaisemia tabletteja, lisäsin Product-luokan näitä varten. Sinne menee tuotteet/palvelut/teokset, esim. Google Play tai Youtube.
+
+
+Bisnes, 4.txt, 43-58: 10 years of Tekes funding and networks for the Finnish game industry 2004-2014 -selvityksestä
+Bisnes, 4.txt, 129-134: Skene–Games Refueled-nimisen ohjelman 
+Bisnes, 4.txt, 199-201: Besti Fiends-pelin
+
+Tällaiset menee Product-luokkaan.
+
+
+Bisnes, 7.txt, 98-100: Instagram-seuraajat
+
+Pitääkö Instagram tägätä, mikäli tokenisoija on osannut erottaa Instagram + - + seuraajat? Tällä hetkellä ei tägätty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
