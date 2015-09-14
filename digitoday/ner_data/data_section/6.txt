@@ -1,19 +1,154 @@
 <HEADLINE>
- Uberin kyydit päätyivät Googlen hakukoneeseen
+Uberin
+kyydit
+päätyivät
+Googlen
+hakukoneeseen
 
 <DATE>
 7.9.2015 10:12
 
 <INGRESS>
-Muutamat kyytipalvelu Uberin autoilla ajetut matkat ovat päätyneet koko maailman katseltavaksi Googlen hakukonetuloksiin.  
+Muutamat
+kyytipalvelu
+Uberin
+autoilla
+ajetut
+matkat
+ovat
+päätyneet
+koko
+maailman
+katseltavaksi
+Googlen
+hakukonetuloksiin
+.
 
 <BODY>
-Tiettävästi kyseessä ei ole tietovuoto, sillä Uberin välittämien kyytien käyttäjät ovat itse julkaisseet tietonsa  kyytisovelluksen välityksellä.
+<PARAGRAPH>
+Tiettävästi
+kyseessä
+ei
+ole
+tietovuoto
+,
+sillä
+Uberin
+välittämien
+kyytien
+käyttäjät
+ovat
+itse
+julkaisseet
+tietonsa
+ 
+kyytisovelluksen
+välityksellä
+.
 
-Hakutuloksissa näkyi Google Mapsin sivulla sama kartta, jonka on Uberin kuljettajan ja asiakkaan älypuhelimessa. Lisäksi sivun html-koodissa näkyivät tarkat osoitteet ja kuljettajan ja matkustajan etunimet. Saittikohtainen trips.uber.com haku toimi Yhdysvaltojen lisäksi Venäjällä, Ranskassa, Meksikossa ja Britanniassa.
+<PARAGRAPH>
+Hakutuloksissa
+näkyi
+Google
+Mapsin
+sivulla
+sama
+kartta
+,
+jonka
+on
+Uberin
+kuljettajan
+ja
+asiakkaan
+älypuhelimessa
+.
 
-Viime viikolla julkisuuteen päässeet matkatiedot olivat vanhimmillaan vuodelta 2013. Asian noustua julkisuuteen, Uber rajoitti matkatietojen linkkien elinajan 48 tuntiin.
+Lisäksi
+sivun
+html-koodissa
+näkyivät
+tarkat
+osoitteet
+ja
+kuljettajan
+ja
+matkustajan
+etunimet
+.
 
-Asiasta kirjoitti ensin ZDNet. Matkatietojen julkistaminen kuuluu osana Uber-sovellukseen, joka antaa matkustajalle mahdollisuuden tiedottaa arvioidusta saapumisajasta tekstiviestillä, joka puolestaan linkkaa suorana näkyvään karttaan.
+Saittikohtainen
+trips
+.
 
+uber
+.
 
+com
+haku
+toimi
+Yhdysvaltojen
+lisäksi
+Venäjällä
+,
+Ranskassa
+,
+Meksikossa
+ja
+Britanniassa
+.
+
+<PARAGRAPH>
+Viime
+viikolla
+julkisuuteen
+päässeet
+matkatiedot
+olivat
+vanhimmillaan
+vuodelta
+2013
+.
+
+Asian
+noustua
+julkisuuteen
+,
+Uber
+rajoitti
+matkatietojen
+linkkien
+elinajan
+48
+tuntiin
+.
+
+<PARAGRAPH>
+Asiasta
+kirjoitti
+ensin
+ZDNet
+.
+
+Matkatietojen
+julkistaminen
+kuuluu
+osana
+Uber-sovellukseen
+,
+joka
+antaa
+matkustajalle
+mahdollisuuden
+tiedottaa
+arvioidusta
+saapumisajasta
+tekstiviestillä
+,
+joka
+puolestaan
+linkkaa
+suorana
+näkyvään
+karttaan
+.

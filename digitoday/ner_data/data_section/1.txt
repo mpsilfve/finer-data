@@ -1,65 +1,417 @@
 <HEADLINE>
- Nyt on "mielikuvitusta": Tällaisia ovat pettämispalvelun salasanat
+Nyt
+on
+"
+mielikuvitusta
+"
+:
+Tällaisia
+ovat
+pettämispalvelun
+salasanat
 
 <DATE>
 8.9.2015 10:52
 
 <INGRESS>
-Pettäjäpalvelun eniten käytetyt salasanat noudattelevat yleistä trendiä sillä erolla, että rivouksia on tavallista enemmän.  
+Pettäjäpalvelun
+eniten
+käytetyt
+salasanat
+noudattelevat
+yleistä
+trendiä
+sillä
+erolla
+,
+että
+rivouksia
+on
+tavallista
+enemmän
+.
 
 <BODY>
-Ashley Madison -pettämispalvelu ei säilyttänyt käyttäjien salasanoja tietokannassaan selkokielisenä, vaan hash-suolattuna. Tämä ei ole kuitenkaan idioottivarma tapa säilyttää salasanoja, sillä salasanat ovat teoriassa raa'alla laskentateholla.
+<PARAGRAPH>
+Ashley
+Madison
+-pettämispalvelu
+ei
+säilyttänyt
+käyttäjien
+salasanoja
+tietokannassaan
+selkokielisenä
+,
+vaan
+hash-suolattuna
+.
 
-Tällainen laskenta on käynnissä tietoturvayhtiö Avastilla, joka poimi tietokannasta murrettavaksi miljoona yksisuuntaisesti salakirjoitettua salasanaa verraten niitä "500 worst passwords of all time" -listaan vuodelta 2008 sekä niin sanottuun rockyou hack -salasanatietokantaan.
+Tämä
+ei
+ole
+kuitenkaan
+idioottivarma
+tapa
+säilyttää
+salasanoja
+,
+sillä
+salasanat
+ovat
+teoriassa
+raa'alla
+laskentateholla
+.
 
-Kahden viikon laskennan aikana yhtiö sai murrettua 25 393 salasanaa, joista vain 1064 oli ainutkertaisia.
+<PARAGRAPH>
+Tällainen
+laskenta
+on
+käynnissä
+tietoturvayhtiö
+Avastilla
+,
+joka
+poimi
+tietokannasta
+murrettavaksi
+miljoona
+yksisuuntaisesti
+salakirjoitettua
+salasanaa
+verraten
+niitä
+"
+500
+worst
+passwords
+of
+all
+time
+"
+-listaan
+vuodelta
+2008
+sekä
+niin
+sanottuun
+rockyou
+hack
+-salasanatietokantaan
+.
 
-Tähän asti tehdyn laskelman perusteella Ashley Madisonin 20 suosituimman salasanan lista vaikuttaa seuraavalta (suluissa oleva luku on salasanan esiintymiskertojen määrä 25 393:n salasanan joukossa):
+<PARAGRAPH>
+Kahden
+viikon
+laskennan
+aikana
+yhtiö
+sai
+murrettua
+25
+393
+salasanaa
+,
+joista
+vain
+1064
+oli
+ainutkertaisia
+.
 
-1: 123456 (6495)
+<PARAGRAPH>
+Tähän
+asti
+tehdyn
+laskelman
+perusteella
+Ashley
+Madisonin
+20
+suosituimman
+salasanan
+lista
+vaikuttaa
+seuraavalta
+(
+suluissa
+oleva
+luku
+on
+salasanan
+esiintymiskertojen
+määrä
+25
+393:n
+salasanan
+joukossa
+)
+:
 
-2: password (3268)
+<PARAGRAPH>
+1
+:
+123456
+(
+6495
+)
 
-3: 12345 (2024)
+<PARAGRAPH>
+2
+:
+password
+(
+3268
+)
 
-4: 12345678 (880)
+<PARAGRAPH>
+3
+:
+12345
+(
+2024
+)
 
-5: qwerty (768)
+<PARAGRAPH>
+4
+:
+12345678
+(
+880
+)
 
-6: pussy (453)
+<PARAGRAPH>
+5
+:
+qwerty
+(
+768
+)
 
-7: secret (248)
+<PARAGRAPH>
+6
+:
+pussy
+(
+453
+)
 
-8: dragon (209)
+<PARAGRAPH>
+7
+:
+secret
+(
+248
+)
 
-9: welcome (201)
+<PARAGRAPH>
+8
+:
+dragon
+(
+209
+)
 
-10: ginger (198)
+<PARAGRAPH>
+9
+:
+welcome
+(
+201
+)
 
-11: sparky (173)
+<PARAGRAPH>
+10
+:
+ginger
+(
+198
+)
 
-12: helpme (168)
+<PARAGRAPH>
+11
+:
+sparky
+(
+173
+)
 
-13: blowjob (164)
+<PARAGRAPH>
+12
+:
+helpme
+(
+168
+)
 
-14: nicole (152)
+<PARAGRAPH>
+13
+:
+blowjob
+(
+164
+)
 
-15: justin (134)
+<PARAGRAPH>
+14
+:
+nicole
+(
+152
+)
 
-16: camaro (129)
+<PARAGRAPH>
+15
+:
+justin
+(
+134
+)
 
-17: johnson (120)
+<PARAGRAPH>
+16
+:
+camaro
+(
+129
+)
 
-18: yamaha (117)
+<PARAGRAPH>
+17
+:
+johnson
+(
+120
+)
 
-19: midnight (113)
+<PARAGRAPH>
+18
+:
+yamaha
+(
+117
+)
 
-20: chris (103)
+<PARAGRAPH>
+19
+:
+midnight
+(
+113
+)
 
-Avastin tutkijat huomasivat aineistosta erityisesti sanojen "pussy" ja "blowjob" yleisyyden. Myös naisten etunimiä esiintyy tavallista enemmän.
+<PARAGRAPH>
+20
+:
+chris
+(
+103
+)
 
-Lisäksi top-20:n ulkopuolella oli huomattavan paljon love-sanasta tehtyjä variaatioita, esimerkiksi "iloveyou", "lover", "lovers" ja "loverboy". Muihin huomioihin kuului se, että "fuckme" ja "fuckyou" olivat yhtä yleisiä kuin normaalisivustoilla tavalliset "football" ja "baseball".
+<PARAGRAPH>
+Avastin
+tutkijat
+huomasivat
+aineistosta
+erityisesti
+sanojen
+"
+pussy
+"
+ja
+"
+blowjob
+"
+yleisyyden
+.
 
-Supersankareita puolestaan oli tavallista vähemmän, ja "superman" oli yleisyydeltään samaa tasoa kuin "boobs" ja "asshole".
+Myös
+naisten
+etunimiä
+esiintyy
+tavallista
+enemmän
+.
 
+<PARAGRAPH>
+Lisäksi
+top-20:n
+ulkopuolella
+oli
+huomattavan
+paljon
+love-sanasta
+tehtyjä
+variaatioita
+,
+esimerkiksi
+"
+iloveyou
+"
+,
+"
+lover
+"
+,
+"
+lovers
+"
+ja
+"
+loverboy
+"
+.
 
+Muihin
+huomioihin
+kuului
+se
+,
+että
+"
+fuckme
+"
+ja
+"
+fuckyou
+"
+olivat
+yhtä
+yleisiä
+kuin
+normaalisivustoilla
+tavalliset
+"
+football
+"
+ja
+"
+baseball
+"
+.
+
+<PARAGRAPH>
+Supersankareita
+puolestaan
+oli
+tavallista
+vähemmän
+,
+ja
+"
+superman
+"
+oli
+yleisyydeltään
+samaa
+tasoa
+kuin
+"
+boobs
+"
+ja
+"
+asshole
+"
+.

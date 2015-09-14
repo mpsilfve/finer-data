@@ -1,25 +1,156 @@
 <HEADLINE>
- OP:n viestintäjohtaja: Harvinainen syy katkokseen
+OP
+:
+n
+viestintäjohtaja
+:
+Harvinainen
+syy
+katkokseen
 
 <DATE>
 26.8.2015 19:16
 
 <INGRESS>
-Inhimillinen virhe ei ole pankkipalvelujen häiriöiden aiheuttajana yleisimpien syiden joukossa.  
+Inhimillinen
+virhe
+ei
+ole
+pankkipalvelujen
+häiriöiden
+aiheuttajana
+yleisimpien
+syiden
+joukossa
+.
 
 <BODY>
-Osuuspankki kärsi tänään iltapäivällä verkkopalvelujensa kaatumisesta ja myös korttimaksuissa oli ongelmia.
+<PARAGRAPH>
+Osuuspankki
+kärsi
+tänään
+iltapäivällä
+verkkopalvelujensa
+kaatumisesta
+ja
+myös
+korttimaksuissa
+oli
+ongelmia
+.
 
-Viestintäpäällikkö Carina Geber-Teirin mukaan taustalta paljastunut järjestelmätoimittaja Tiedon asiantuntijan inhimillinen virhe on syynä suhteellisen harvinainen.
+<PARAGRAPH>
+Viestintäpäällikkö
+Carina
+Geber-Teirin
+mukaan
+taustalta
+paljastunut
+järjestelmätoimittaja
+Tiedon
+asiantuntijan
+inhimillinen
+virhe
+on
+syynä
+suhteellisen
+harvinainen
+.
 
-— Aivan tässä mittakaavassa en muista. Viimeisimmät kaatumiset ovat liittyneet erilaisiin teknisiin häiriöihin tai palvelunestohyökkäyksiin, Geber-Teir toteaa Taloussanomille.
+<PARAGRAPH>
+—
+Aivan
+tässä
+mittakaavassa
+en
+muista
+.
 
-Tällä kertaa ei ollut kuitenkaan syytä epäillä hakkereita.
+Viimeisimmät
+kaatumiset
+ovat
+liittyneet
+erilaisiin
+teknisiin
+häiriöihin
+tai
+palvelunestohyökkäyksiin
+,
+Geber-Teir
+toteaa
+Taloussanomille
+.
 
-Geber-Teir korostaa, että viime kädessä pankki on vastuussa asiakkailleen, että nämä saavat palvelua. Pankin ja järjestelmätoimittajan välinen vastuuselvittely on asia erikseen.
+<PARAGRAPH>
+Tällä
+kertaa
+ei
+ollut
+kuitenkaan
+syytä
+epäillä
+hakkereita
+.
 
-Pankkipalvelut saatiin pääsääntöisesti kuntoon kello kahdeksaantoista mennessä.
+<PARAGRAPH>
+Geber-Teir
+korostaa
+,
+että
+viime
+kädessä
+pankki
+on
+vastuussa
+asiakkailleen
+,
+että
+nämä
+saavat
+palvelua
+.
 
-— Yksittäiset häiriöt ovat kuitenkin mahdollisia vielä tämänkin jälkeen. Aina kun on näin laaja häiriö, ovat myös jälkihäiriöt mahdollisia.
+Pankin
+ja
+järjestelmätoimittajan
+välinen
+vastuuselvittely
+on
+asia
+erikseen
+.
 
+<PARAGRAPH>
+Pankkipalvelut
+saatiin
+pääsääntöisesti
+kuntoon
+kello
+kahdeksaantoista
+mennessä
+.
 
+<PARAGRAPH>
+—
+Yksittäiset
+häiriöt
+ovat
+kuitenkin
+mahdollisia
+vielä
+tämänkin
+jälkeen
+.
+
+Aina
+kun
+on
+näin
+laaja
+häiriö
+,
+ovat
+myös
+jälkihäiriöt
+mahdollisia
+.

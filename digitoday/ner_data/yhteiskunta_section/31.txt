@@ -1,19 +1,132 @@
 <HEADLINE>
- Pettämissivusto vahvisti: Aitoa dataa julki
+Pettämissivusto
+vahvisti
+:
+Aitoa
+dataa
+julki
 
 <DATE>
 19.8.2015 18:15
 
 <INGRESS>
-Pettämissivusto Ashley Madisonia pyörittävä Avid Life Media on vahvistanut, että osa verkossa julkaistuista tiedoista on aitoja.  
+Pettämissivusto
+Ashley
+Madisonia
+pyörittävä
+Avid
+Life
+Media
+on
+vahvistanut
+,
+että
+osa
+verkossa
+julkaistuista
+tiedoista
+on
+aitoja
+.
 
 <BODY>
-Avid Life Median mukaan osa verkossa julkistetuista tiedoista on aitoja, mutta osa "ei liity AshleyMadison.comiin". Yhtiön mukaan se ei esimerkiksi ole koskaan tallettanut luottokorttitietoja palvelimilleen.
+<PARAGRAPH>
+Avid
+Life
+Median
+mukaan
+osa
+verkossa
+julkistetuista
+tiedoista
+on
+aitoja
+,
+mutta
+osa
+"
+ei
+liity
+AshleyMadison
+.
 
-Useat turvallisuusasiantuntijat ovat sanoneet, että heidän tuntemansa Ashley Madisonin jäsenet ovat löytäneet nimensä vuodetuista tiedoista. Datassa on ollut osittaisia luottokorttitietoja.
+comiin
+"
+.
 
-Myöhään tiistaina verkkoon ladattiin mittava paketti tietoja, joiden väitettiin olevan peräisin Ashley Madisonin tietokannoista. Murrosta sivustolle kerrottiin ensimmäisen kerran noin kuukausi sitten.
+Yhtiön
+mukaan
+se
+ei
+esimerkiksi
+ole
+koskaan
+tallettanut
+luottokorttitietoja
+palvelimilleen
+.
 
-Viestintäviraston mukaan murto voi koskea kymmeniä tuhansia suomalaisia.
+<PARAGRAPH>
+Useat
+turvallisuusasiantuntijat
+ovat
+sanoneet
+,
+että
+heidän
+tuntemansa
+Ashley
+Madisonin
+jäsenet
+ovat
+löytäneet
+nimensä
+vuodetuista
+tiedoista
+.
 
+Datassa
+on
+ollut
+osittaisia
+luottokorttitietoja
+.
 
+<PARAGRAPH>
+Myöhään
+tiistaina
+verkkoon
+ladattiin
+mittava
+paketti
+tietoja
+,
+joiden
+väitettiin
+olevan
+peräisin
+Ashley
+Madisonin
+tietokannoista
+.
+
+Murrosta
+sivustolle
+kerrottiin
+ensimmäisen
+kerran
+noin
+kuukausi
+sitten
+.
+
+<PARAGRAPH>
+Viestintäviraston
+mukaan
+murto
+voi
+koskea
+kymmeniä
+tuhansia
+suomalaisia
+.

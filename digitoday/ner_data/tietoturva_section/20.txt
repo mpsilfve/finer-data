@@ -1,29 +1,202 @@
 <HEADLINE>
- Roskapostikuningas tunnusti 27 miljoonan viestin lähetyksen — tuomitaanjoulukuussa
+Roskapostikuningas
+tunnusti
+27
+miljoonan
+viestin
+lähetyksen
+—
+tuomitaanjoulukuussa
 
 <DATE>
 26.8.2015 20:50
 
 <INGRESS>
-Maailman tunnetuimpiin kuuluva roskapostihäirikkö saattaa joutua kolmeksi vuodeksi vankilaan.  
+Maailman
+tunnetuimpiin
+kuuluva
+roskapostihäirikkö
+saattaa
+joutua
+kolmeksi
+vuodeksi
+vankilaan
+.
 
 <BODY>
-Sanford Wallace tunnusti maanantaina syyllistyneensä useisiin rikoksiin, kertoo The Verge.
+<PARAGRAPH>
+Sanford
+Wallace
+tunnusti
+maanantaina
+syyllistyneensä
+useisiin
+rikoksiin
+,
+kertoo
+The
+Verge
+.
 
-Sanford Wallace tunnetaan paremmin hänen itse omaksumallaan nimimerkillä Spam King (eli roskapostikuningas) tai haukkumanimellä Spamford.
+<PARAGRAPH>
+Sanford
+Wallace
+tunnetaan
+paremmin
+hänen
+itse
+omaksumallaan
+nimimerkillä
+Spam
+King
+(
+eli
+roskapostikuningas
+)
+tai
+haukkumanimellä
+Spamford
+.
 
-Wallace ehti lähettää 27 miljoonaa roskaviestiä ja ottaa haltuunsa peräti 500 000 Facebook-tiliä vuosien 2008 ja 2009 aikana.
+<PARAGRAPH>
+Wallace
+ehti
+lähettää
+27
+miljoonaa
+roskaviestiä
+ja
+ottaa
+haltuunsa
+peräti
+500
+000
+Facebook-tiliä
+vuosien
+2008
+ja
+2009
+aikana
+.
 
-Wallace voi maksimissaan saada kolmen vuoden vankeusrangaistuksen ja joutua maksamaan 250 000 dollaria (noin 220 000 euroa) sakkoja. Tuomio annetaan 7. päivä joulukuuta.
+<PARAGRAPH>
+Wallace
+voi
+maksimissaan
+saada
+kolmen
+vuoden
+vankeusrangaistuksen
+ja
+joutua
+maksamaan
+250
+000
+dollaria
+(
+noin
+220
+000
+euroa
+)
+sakkoja
+.
 
-Wallacen pahamaineinen ura roskapostittajana alkoi jo 90-luvulla, jolloin hän lähetti roskafakseja.
+Tuomio
+annetaan
+7.
+päivä
+joulukuuta
+.
 
-Vuonna 1995 Wallace perusti Cyber Promotions -yrityksen, josta nopeasti tuli maailman suurin roskapostittaja.
+<PARAGRAPH>
+Wallacen
+pahamaineinen
+ura
+roskapostittajana
+alkoi
+jo
+90-luvulla
+,
+jolloin
+hän
+lähetti
+roskafakseja
+.
 
-Roskapostin lisäksi Wallace on myös ansioitunut kehittämällä erilaisia käyttäjiä huijaavia mainostustekniikoita. Hän on myös valmistanut ja levittänyt haittaohjelmia ja veloittanut niiden poistamisesta koneelta.
+<PARAGRAPH>
+Vuonna
+1995
+Wallace
+perusti
+Cyber
+Promotions
+-yrityksen
+,
+josta
+nopeasti
+tuli
+maailman
+suurin
+roskapostittaja
+.
 
-Useat yritykset ja yksityishenkilöt ovat nostaneet kanteita häntä vastaan pitkin viimeistä kahta vuosikymmentä.
+<PARAGRAPH>
+Roskapostin
+lisäksi
+Wallace
+on
+myös
+ansioitunut
+kehittämällä
+erilaisia
+käyttäjiä
+huijaavia
+mainostustekniikoita
+.
 
-Wallace väitti jo vuonna 1998 jäävänsä eläkkeelle roskapostihommista. Toisin kuitenkin kävi.
+Hän
+on
+myös
+valmistanut
+ja
+levittänyt
+haittaohjelmia
+ja
+veloittanut
+niiden
+poistamisesta
+koneelta
+.
 
+<PARAGRAPH>
+Useat
+yritykset
+ja
+yksityishenkilöt
+ovat
+nostaneet
+kanteita
+häntä
+vastaan
+pitkin
+viimeistä
+kahta
+vuosikymmentä
+.
 
+<PARAGRAPH>
+Wallace
+väitti
+jo
+vuonna
+1998
+jäävänsä
+eläkkeelle
+roskapostihommista
+.
+
+Toisin
+kuitenkin
+kävi
+.

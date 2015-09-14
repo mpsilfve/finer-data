@@ -1,23 +1,191 @@
 <HEADLINE>
- Tämäkö on netin puhdistusta? 15 000 pidätettiin Kiinassa
+Tämäkö
+on
+netin
+puhdistusta
+?
+
+15
+000
+pidätettiin
+Kiinassa
 
 <DATE>
 19.8.2015 00:34
 
 <INGRESS>
-Kiinan kiihtynyt taistelu internet-rikoksia vastaan on tuottanut, jos ei muuta, niin ainakin vaikuttavia pidätyslukuja.  
+Kiinan
+kiihtynyt
+taistelu
+internet-rikoksia
+vastaan
+on
+tuottanut
+,
+jos
+ei
+muuta
+,
+niin
+ainakin
+vaikuttavia
+pidätyslukuja
+.
 
 <BODY>
-Kiina käynnisti viime kuussa puolivuotisen kampanjan koodinimellä "Internetin puhdistus", ja nyt poliisi sanoo pidättäneensä jopa noin 15 000 ihmistä rikoksista, jotka väitetysti vaaransivat internetin turvallisuuden.
+<PARAGRAPH>
+Kiina
+käynnisti
+viime
+kuussa
+puolivuotisen
+kampanjan
+koodinimellä
+"
+Internetin
+puhdistus
+"
+,
+ja
+nyt
+poliisi
+sanoo
+pidättäneensä
+jopa
+noin
+15
+000
+ihmistä
+rikoksista
+,
+jotka
+väitetysti
+vaaransivat
+internetin
+turvallisuuden
+.
 
-Uutistoimisto Reutersin lainaaman turvallisuusministeriön mukaan poliisi on tutkinut 7400 kyberrikollisuustapausta. Ministeriö ei selvittänyt, millä aikavälillä pidätykset on tehty, mutta se viittasi yhteen tapaukseen viime joulukuulta.
+<PARAGRAPH>
+Uutistoimisto
+Reutersin
+lainaaman
+turvallisuusministeriön
+mukaan
+poliisi
+on
+tutkinut
+7400
+kyberrikollisuustapausta
+.
 
-Poliisin kohteena olivat verkkosivustot, jotka tarjosivat "laitonta ja haitallista informaatiota". Sivustojen sanotaan myös mainostaneen pornoa, räjähteitä, tuliaseita ja uhkapelaamista.
+Ministeriö
+ei
+selvittänyt
+,
+millä
+aikavälillä
+pidätykset
+on
+tehty
+,
+mutta
+se
+viittasi
+yhteen
+tapaukseen
+viime
+joulukuulta
+.
 
-Kiina valvoo ja rajoittaa internetiä laajasti maailman mitassa luultavasti ainutlaatuisen sensuurikoneiston "Suuren Palomuurin" kautta.
+<PARAGRAPH>
+Poliisin
+kohteena
+olivat
+verkkosivustot
+,
+jotka
+tarjosivat
+"
+laitonta
+ja
+haitallista
+informaatiota
+"
+.
 
-Valvontaa on tiukennettu viime aikoina. Alkuvuonna Kiina alkoi pakottaa kansalaisia rekisteröitymään verkkopalveluihin oikeilla nimillään.
+Sivustojen
+sanotaan
+myös
+mainostaneen
+pornoa
+,
+räjähteitä
+,
+tuliaseita
+ja
+uhkapelaamista
+.
 
-Samalla kiellettiin sellaiset tilit, jotka tekeytyivät muiksi ihmisiksi tai organisaatioiksi. Tämä johti tuoreeltaan yli 60 000 käyttäjätilin poistamiseen suosituista verkkopalveluista.
+<PARAGRAPH>
+Kiina
+valvoo
+ja
+rajoittaa
+internetiä
+laajasti
+maailman
+mitassa
+luultavasti
+ainutlaatuisen
+sensuurikoneiston
+"
+Suuren
+Palomuurin
+"
+kautta
+.
 
+<PARAGRAPH>
+Valvontaa
+on
+tiukennettu
+viime
+aikoina
+.
 
+Alkuvuonna
+Kiina
+alkoi
+pakottaa
+kansalaisia
+rekisteröitymään
+verkkopalveluihin
+oikeilla
+nimillään
+.
+
+<PARAGRAPH>
+Samalla
+kiellettiin
+sellaiset
+tilit
+,
+jotka
+tekeytyivät
+muiksi
+ihmisiksi
+tai
+organisaatioiksi
+.
+
+Tämä
+johti
+tuoreeltaan
+yli
+60
+000
+käyttäjätilin
+poistamiseen
+suosituista
+verkkopalveluista
+.

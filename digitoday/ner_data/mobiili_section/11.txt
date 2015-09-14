@@ -1,19 +1,159 @@
 <HEADLINE>
- Mehustaako Apple iPhone-julkistusta Pro-tabletilla?
+Mehustaako
+Apple
+iPhone
+-
+julkistusta
+Pro
+-
+tabletilla
+?
 
 <DATE>
 3.9.2015 15:20
 
 <INGRESS>
-Apple saattaa paljastaa ensi viikolla myös kauan huhutun ammattilais-iPadin, 9to5Mac veikkaa.  
+Apple
+saattaa
+paljastaa
+ensi
+viikolla
+myös
+kauan
+huhutun
+ammattilais
+-
+iPadin
+,
+9to5Mac
+veikkaa
+.
 
 <BODY>
-9to5Macin "luotettujen lähteiden" mukaan 9. syyskuuta Apple paljastaa paitsi uudet iPhonet, myös ammattilaiskäyttöön suunnatun iPad Pro -tabletin yhdessä uudistetun iPad minin kanssa.
+<PARAGRAPH>
+9to5Macin
+"
+luotettujen
+lähteiden
+"
+mukaan
+9.
+syyskuuta
+Apple
+paljastaa
+paitsi
+uudet
+iPhonet
+,
+myös
+ammattilaiskäyttöön
+suunnatun
+iPad
+Pro
+-tabletin
+yhdessä
+uudistetun
+iPad
+minin
+kanssa
+.
 
-Lisäksi huhut väittävät, että iPad Pro todella on laitteen lopullinen nimi. Joskus Apple on yllättänyt ja vetäissyt hatusta jonkun aivan toisen nimen kuin jota kaikki odottivat. Jotkut puhuvat vieläkin iWatchista sen virallisen nimen Apple Watchin sijaan.
+<PARAGRAPH>
+Lisäksi
+huhut
+väittävät
+,
+että
+iPad
+Pro
+todella
+on
+laitteen
+lopullinen
+nimi
+.
 
-Applen muita tabletteja suurempi IPad Pro on tulossa myyntiin marraskuussa, mutta ennakkomyynti alkaa jo lokakuun lopulla, 9to5Mac kirjoittaa. Verkkosivusto pitää silti mahdollisena, että Apple julkistaa iPad Pron erillisessä tilaisuudessa myöhemmin syksyllä.
+Joskus
+Apple
+on
+yllättänyt
+ja
+vetäissyt
+hatusta
+jonkun
+aivan
+toisen
+nimen
+kuin
+jota
+kaikki
+odottivat
+.
 
-IPad Airista ei sen sijaan pitäisi olla tulossa uutta versiota kuin vasta ensi vuonna.
+Jotkut
+puhuvat
+vieläkin
+iWatchista
+sen
+virallisen
+nimen
+Apple
+Watchin
+sijaan
+.
 
+<PARAGRAPH>
+Applen
+muita
+tabletteja
+suurempi
+IPad
+Pro
+on
+tulossa
+myyntiin
+marraskuussa
+,
+mutta
+ennakkomyynti
+alkaa
+jo
+lokakuun
+lopulla
+,
+9to5Mac
+kirjoittaa
+.
 
+Verkkosivusto
+pitää
+silti
+mahdollisena
+,
+että
+Apple
+julkistaa
+iPad
+Pron
+erillisessä
+tilaisuudessa
+myöhemmin
+syksyllä
+.
+
+<PARAGRAPH>
+IPad
+Airista
+ei
+sen
+sijaan
+pitäisi
+olla
+tulossa
+uutta
+versiota
+kuin
+vasta
+ensi
+vuonna
+.

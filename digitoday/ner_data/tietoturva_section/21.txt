@@ -1,21 +1,165 @@
 <HEADLINE>
- Intian vastaus mellakointiin: Katkaistaan mobiilinetti miljoonilta
+Intian
+vastaus
+mellakointiin
+:
+Katkaistaan
+mobiilinetti
+miljoonilta
 
 <DATE>
 26.8.2015 16:23
 
 <INGRESS>
-Intia osoitti jälleen halukkuutensa sorkkia tietoliikennettä kovalla kädellä. Mutta viimeisimmän toimenpiteen laajuudesta on eriäviä mielipiteitä.  
+Intia
+osoitti
+jälleen
+halukkuutensa
+sorkkia
+tietoliikennettä
+kovalla
+kädellä
+.
+
+Mutta
+viimeisimmän
+toimenpiteen
+laajuudesta
+on
+eriäviä
+mielipiteitä
+.
 
 <BODY>
-Intian osavaltio Gujarat esti mobiilit internet-palvelut sen jälkeen, kun paikallisen poliitikon puolesta järjestetyt protestit muuttuivat väkivaltaisiksi.
+<PARAGRAPH>
+Intian
+osavaltio
+Gujarat
+esti
+mobiilit
+internet-palvelut
+sen
+jälkeen
+,
+kun
+paikallisen
+poliitikon
+puolesta
+järjestetyt
+protestit
+muuttuivat
+väkivaltaisiksi
+.
 
-Näin väittää muun muassa International Business Timesin Intian versio. Osavaltiossa asuu 63 miljoonaa ihmistä, mutta mobiilinetin kiellosta liikkuu ristiriitaista tietoa.
+<PARAGRAPH>
+Näin
+väittää
+muun
+muassa
+International
+Business
+Timesin
+Intian
+versio
+.
 
-Joidenkin mukaan kielto koskettaa vain WhatsApp-viestipalvelua, mutta monien mukaan myös laajemmin mobiiliverkkoa. Ei kuitenkaan välttämättä kaikkialla osavaltiossa.
+Osavaltiossa
+asuu
+63
+miljoonaa
+ihmistä
+,
+mutta
+mobiilinetin
+kiellosta
+liikkuu
+ristiriitaista
+tietoa
+.
 
-Eräs poliisi perusteli estoa sillä, että WhatsAppia on käytetty huhujen lietsomiseen ja ihmisten panemiseen liikekannalle. Nurinkurisesti kyseinen poliitikko Hardik Patel kuitenkin käytti WhatsAppia päinvastoin vedotakseen ihmisiin rauhan puolesta.
+<PARAGRAPH>
+Joidenkin
+mukaan
+kielto
+koskettaa
+vain
+WhatsApp-viestipalvelua
+,
+mutta
+monien
+mukaan
+myös
+laajemmin
+mobiiliverkkoa
+.
 
-Kielto ilmeisesti kumotaan, jos ja kun levottomuudet rauhoittuvat. Äskettäin Intia harjoitti ankaraa internetin sensuuria estämällä pääsyn sadoille pornosivuille. Esto kuitenkin purettiin pian.
+Ei
+kuitenkaan
+välttämättä
+kaikkialla
+osavaltiossa
+.
 
+<PARAGRAPH>
+Eräs
+poliisi
+perusteli
+estoa
+sillä
+,
+että
+WhatsAppia
+on
+käytetty
+huhujen
+lietsomiseen
+ja
+ihmisten
+panemiseen
+liikekannalle
+.
 
+Nurinkurisesti
+kyseinen
+poliitikko
+Hardik
+Patel
+kuitenkin
+käytti
+WhatsAppia
+päinvastoin
+vedotakseen
+ihmisiin
+rauhan
+puolesta
+.
+
+<PARAGRAPH>
+Kielto
+ilmeisesti
+kumotaan
+,
+jos
+ja
+kun
+levottomuudet
+rauhoittuvat
+.
+
+Äskettäin
+Intia
+harjoitti
+ankaraa
+internetin
+sensuuria
+estämällä
+pääsyn
+sadoille
+pornosivuille
+.
+
+Esto
+kuitenkin
+purettiin
+pian
+.

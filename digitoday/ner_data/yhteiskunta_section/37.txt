@@ -1,33 +1,254 @@
 <HEADLINE>
- Kiistelyn jälkeen: Apotti-megahankkeelle valittiin tekijä
+Kiistelyn
+jälkeen
+:
+Apotti
+-
+megahankkeelle
+valittiin
+tekijä
 
 <DATE>
 18.8.2015 12:11
 
 <INGRESS>
-Amerikkalaisyhtiö valikoitui värikkäiden vaiheiden jälkeen potilastietojärjestelmän it-toimittajaksi.  
+Amerikkalaisyhtiö
+valikoitui
+värikkäiden
+vaiheiden
+jälkeen
+potilastietojärjestelmän
+it-toimittajaksi
+.
 
 <BODY>
-Pääkaupunkiseudun jättimäiselle potilastietojärjestelmähankkeelle Apotille on valittu toteuttaja.
+<PARAGRAPH>
+Pääkaupunkiseudun
+jättimäiselle
+potilastietojärjestelmähankkeelle
+Apotille
+on
+valittu
+toteuttaja
+.
 
-Hankkeen ohjausryhmä ehdottaa järjestelmätoimittajaksi amerikkalaista Epic Systems Corporationia. Sen lisäksi viimeisessä vaiheessa oli ehdolla kanadalaistaustainen CGI Suomi.
+<PARAGRAPH>
+Hankkeen
+ohjausryhmä
+ehdottaa
+järjestelmätoimittajaksi
+amerikkalaista
+Epic
+Systems
+Corporationia
+.
 
-CGI Suomi ja Tieto valittivat vuoden alkupuolella Apotti-hankkeen kilpailutuksesta markkinaoikeuteen. Yhtiöiden mukaan kilpailutusprosessin aikana oli tehty myönnytyksiä, jotka suosivat kilpailutuksessa mukana olevaa Epic Systemsiä.
+Sen
+lisäksi
+viimeisessä
+vaiheessa
+oli
+ehdolla
+kanadalaistaustainen
+CGI
+Suomi
+.
 
-Markkinaoikeuden kesäkuussa antaman päätöksen mukaan valitukset eivät kuitenkaan antaneet aihetta toimenpiteisiin.
+<PARAGRAPH>
+CGI
+Suomi
+ja
+Tieto
+valittivat
+vuoden
+alkupuolella
+Apotti
+-
+hankkeen
+kilpailutuksesta
+markkinaoikeuteen
+.
 
-### Järjestelmä käyttöön vuosina 2017–2019
+Yhtiöiden
+mukaan
+kilpailutusprosessin
+aikana
+oli
+tehty
+myönnytyksiä
+,
+jotka
+suosivat
+kilpailutuksessa
+mukana
+olevaa
+Epic
+Systemsiä
+.
 
-Hankkeen ohjausryhmän ehdotus nojautuu laadullisiin ominaisuuksiin sekä hintaan.
+<PARAGRAPH>
+Markkinaoikeuden
+kesäkuussa
+antaman
+päätöksen
+mukaan
+valitukset
+eivät
+kuitenkaan
+antaneet
+aihetta
+toimenpiteisiin
+.
 
-Laadullisia ominaisuuksia ovat muun muassa ratkaisun käytettävyys, toiminnallisuus, laajuus, avoimuus ja ylläpidettävyys. Valinnassa laatukriteereillä oli 60 prosentin ja hinnalla 40 prosentin painoarvo.
+<PARAGRAPH>
+#
+#
+#
+Järjestelmä
+käyttöön
+vuosina
+2017–2019
 
-– Tavoitteenamme on, että järjestelmä saadaan laajamittaiseen käyttöön vuosien 2017–2019 aikana, kertoo hankejohtaja Hannu Välimäki tiedotteessa.
+<PARAGRAPH>
+Hankkeen
+ohjausryhmän
+ehdotus
+nojautuu
+laadullisiin
+ominaisuuksiin
+sekä
+hintaan
+.
 
-Uusi asiakas- ja potilastietojärjestelmä korvaa kuntien ja HUSin käytössä olevat erilaiset ja vanhenevat tietojärjestelmät. Kustannusarvioksi on aiemmin annettu jopa yli 400 miljoonaa euroa.
+<PARAGRAPH>
+Laadullisia
+ominaisuuksia
+ovat
+muun
+muassa
+ratkaisun
+käytettävyys
+,
+toiminnallisuus
+,
+laajuus
+,
+avoimuus
+ja
+ylläpidettävyys
+.
 
-– Jatkossa pääkaupunkiseudulla ovat käytössä ajantasaiset asiakas- ja potilastiedot, mikä nopeuttaa ja parantaa palvelua. Myös ajanvaraus, sähköinen asiointimahdollisuus ja yhteydenpito helpottuvat, Välimäki sanoo.
+Valinnassa
+laatukriteereillä
+oli
+60
+prosentin
+ja
+hinnalla
+40
+prosentin
+painoarvo
+.
 
-Apotissa mukana olevat Helsinki, Kauniainen, Kirkkonummi, Vantaa, HUS ja KL- Kuntahankinnat tekevät päätökset hankinnasta elo–syyskuun aikana.
+<PARAGRAPH>
+–
+Tavoitteenamme
+on
+,
+että
+järjestelmä
+saadaan
+laajamittaiseen
+käyttöön
+vuosien
+2017–2019
+aikana
+,
+kertoo
+hankejohtaja
+Hannu
+Välimäki
+tiedotteessa
+.
 
+<PARAGRAPH>
+Uusi
+asiakas-
+ja
+potilastietojärjestelmä
+korvaa
+kuntien
+ja
+HUSin
+käytössä
+olevat
+erilaiset
+ja
+vanhenevat
+tietojärjestelmät
+.
 
+Kustannusarvioksi
+on
+aiemmin
+annettu
+jopa
+yli
+400
+miljoonaa
+euroa
+.
+
+<PARAGRAPH>
+–
+Jatkossa
+pääkaupunkiseudulla
+ovat
+käytössä
+ajantasaiset
+asiakas-
+ja
+potilastiedot
+,
+mikä
+nopeuttaa
+ja
+parantaa
+palvelua
+.
+
+Myös
+ajanvaraus
+,
+sähköinen
+asiointimahdollisuus
+ja
+yhteydenpito
+helpottuvat
+,
+Välimäki
+sanoo
+.
+
+<PARAGRAPH>
+Apotissa
+mukana
+olevat
+Helsinki
+,
+Kauniainen
+,
+Kirkkonummi
+,
+Vantaa
+,
+HUS
+ja
+KL-
+Kuntahankinnat
+tekevät
+päätökset
+hankinnasta
+elo–syyskuun
+aikana
+.

@@ -1,25 +1,193 @@
 <HEADLINE>
- Youtube avaa tänään uuden palvelun
+Youtube
+avaa
+tänään
+uuden
+palvelun
 
 <DATE>
 26.8.2015 08:21
 
 <INGRESS>
-Youtube perustaa videopelien suoratoistopalvelun ja haastaa markkinajohtaja Twitchin.  
+Youtube
+perustaa
+videopelien
+suoratoistopalvelun
+ja
+haastaa
+markkinajohtaja
+Twitchin
+.
 
 <BODY>
-Kilpa- ja muu videopelaaminen lisää jatkuvasti suosiotaan ja esports- penkkiurheilijoiden lukumäärä kasvaa nopeasti. Googlen Youtube haluaa siivun pelimaailman penkkiurheilijoiden ajasta.
+<PARAGRAPH>
+Kilpa-
+ja
+muu
+videopelaaminen
+lisää
+jatkuvasti
+suosiotaan
+ja
+esports
+-
+penkkiurheilijoiden
+lukumäärä
+kasvaa
+nopeasti
+.
 
-Youtube, joka tiettävästi epäonnistui yrityksessä ostaa videopelien katsojalähetyksiin erikoistunut Twitch.tv, on rakentanut oman e-pelikanavansa. Sen on määrä avautua tänään keskiviikkona, Fortune uutisoi.
+Googlen
+Youtube
+haluaa
+siivun
+pelimaailman
+penkkiurheilijoiden
+ajasta
+.
 
-Amazon osti Twitchin noin miljardilla dollarilla.
+<PARAGRAPH>
+Youtube
+,
+joka
+tiettävästi
+epäonnistui
+yrityksessä
+ostaa
+videopelien
+katsojalähetyksiin
+erikoistunut
+Twitch
+.
 
-Youtube ilmoitti kesäkuussa kehittävänsä oman videopelien suoratoistopalvelun 25 000 pelin ohjelmatietokannalla. Sen on määrä avautua keskiviikkona kello 20 Suomen aikaa.
+tv
+,
+on
+rakentanut
+oman
+e-pelikanavansa
+.
 
-Englanninkieliseen kanavaan pääsee käsiksi kaikkialta, missä Youtube näkyy. Google Play- ja iOS- sovellukset tulevat jakeluun jo tänään, mutta vain Yhdysvalloissa ja Britanniassa.
+Sen
+on
+määrä
+avautua
+tänään
+keskiviikkona
+,
+Fortune
+uutisoi
+.
 
-Youtube sanoo, että sillä on jo kirjoissaan sata miljoonaa pelifania, jotka kuukausittain katsovat miljardeja tunteja pelaamista. Määrä on kasvanut 75 prosenttia viime vuodesta. Palvelun mukaan puolet sen katsotuimmasta sadasta kanavasta keskittyy pelaamiseen.
+<PARAGRAPH>
+Amazon
+osti
+Twitchin
+noin
+miljardilla
+dollarilla
+.
 
-Korjattu avautumisaika klo 20:ksi.
+<PARAGRAPH>
+Youtube
+ilmoitti
+kesäkuussa
+kehittävänsä
+oman
+videopelien
+suoratoistopalvelun
+25
+000
+pelin
+ohjelmatietokannalla
+.
 
+Sen
+on
+määrä
+avautua
+keskiviikkona
+kello
+20
+Suomen
+aikaa
+.
 
+<PARAGRAPH>
+Englanninkieliseen
+kanavaan
+pääsee
+käsiksi
+kaikkialta
+,
+missä
+Youtube
+näkyy
+.
+
+Google
+Play
+-
+ja
+iOS
+-
+sovellukset
+tulevat
+jakeluun
+jo
+tänään
+,
+mutta
+vain
+Yhdysvalloissa
+ja
+Britanniassa
+.
+
+<PARAGRAPH>
+Youtube
+sanoo
+,
+että
+sillä
+on
+jo
+kirjoissaan
+sata
+miljoonaa
+pelifania
+,
+jotka
+kuukausittain
+katsovat
+miljardeja
+tunteja
+pelaamista
+.
+
+Määrä
+on
+kasvanut
+75
+prosenttia
+viime
+vuodesta
+.
+
+Palvelun
+mukaan
+puolet
+sen
+katsotuimmasta
+sadasta
+kanavasta
+keskittyy
+pelaamiseen
+.
+
+<PARAGRAPH>
+Korjattu
+avautumisaika
+klo
+20:ksi
+.

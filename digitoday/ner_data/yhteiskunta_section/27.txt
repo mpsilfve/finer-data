@@ -1,27 +1,214 @@
 <HEADLINE>
- Ashley Madison -painajainen pahenee: Vuodettujen tietojen määräkolminkertaistui
+Ashley
+Madison
+-painajainen
+pahenee
+:
+Vuodettujen
+tietojen
+määräkolminkertaistui
 
 <DATE>
 21.8.2015 09:10
 
 <INGRESS>
-Ashley Madison -deittipalvelun hakkerit jysäyttivät toisen annoksen kaapattuja tietoja nettiin torstaina.  
+Ashley
+Madison
+-deittipalvelun
+hakkerit
+jysäyttivät
+toisen
+annoksen
+kaapattuja
+tietoja
+nettiin
+torstaina
+.
 
 <BODY>
-Syrjähyppypalvelun murrosta vietyjä tietoja vuodettiin torstaina nettiin 20 gigatavun verran, kaksi kertaa enemmän kuin ensimmäisessä vuodossa. Tällä kertaa vuodon saatteena oli viesti Ashley Madison -palvelun omistavan Avid Life -yhtiön toimitusjohtajalle Noel Bidermanille:
+<PARAGRAPH>
+Syrjähyppypalvelun
+murrosta
+vietyjä
+tietoja
+vuodettiin
+torstaina
+nettiin
+20
+gigatavun
+verran
+,
+kaksi
+kertaa
+enemmän
+kuin
+ensimmäisessä
+vuodossa
+.
 
-– Hey Noel, you can admit it's real now (Hei Noel, joko nyt myönnät että on totta).
+Tällä
+kertaa
+vuodon
+saatteena
+oli
+viesti
+Ashley
+Madison
+-palvelun
+omistavan
+Avid
+Life
+-yhtiön
+toimitusjohtajalle
+Noel
+Bidermanille
+:
 
-Tietomassan vuotanut Impact Team liitti mukaan saman pgp-salausavaimen kuin ensimmäisessä vuodossa.
+<PARAGRAPH>
+–
+Hey
+Noel
+,
+you
+can
+admit
+it
+'
+s
+real
+now
+(
+Hei
+Noel
+,
+joko
+nyt
+myönnät
+että
+on
+totta
+)
+.
 
-Toinen vuoto näyttää keskittyvän Bidermanin sähköpostitilin viesteihin ja palvelun sisäiseen viestintään enemmän kuin sen käyttäjien tietoihin, Engadget kirjoitti.
+<PARAGRAPH>
+Tietomassan
+vuotanut
+Impact
+Team
+liitti
+mukaan
+saman
+pgp-salausavaimen
+kuin
+ensimmäisessä
+vuodossa
+.
 
-Ashley Madisonin deittipalvelua käyttäneet ovat joutuneet monenlaisiin hankaluuksiin. Muun muassa Yhdysvaltain liittovaltion työntekijät, jotka ilmeisesti ovat käyttäneet työsähköpostinsa osoitteita, ovat hankaluuksissa. Osa heistä on korkeassa asemassa Valkoisessa talossa.
+<PARAGRAPH>
+Toinen
+vuoto
+näyttää
+keskittyvän
+Bidermanin
+sähköpostitilin
+viesteihin
+ja
+palvelun
+sisäiseen
+viestintään
+enemmän
+kuin
+sen
+käyttäjien
+tietoihin
+,
+Engadget
+kirjoitti
+.
 
-Ashley Madison on pyrkinyt estämään nettiin vuodettujen käyttäjätietojen leviämistä käyttämällä maan laajaa digitaalisten tekijänoikeuksien DMCA-lakia hyväkseen. Deittipalvelu on vaatinut sähköpostiosoitteita jakelevien sivustojen sulkemista sillä perusteella, että sillä on tekijänoikeus sisältöön. Osa sivuista onkin kadonnut netistä.
+<PARAGRAPH>
+Ashley
+Madisonin
+deittipalvelua
+käyttäneet
+ovat
+joutuneet
+monenlaisiin
+hankaluuksiin
+.
 
-Muokkaus: Otsikkoa muutettu.
+Muun
+muassa
+Yhdysvaltain
+liittovaltion
+työntekijät
+,
+jotka
+ilmeisesti
+ovat
+käyttäneet
+työsähköpostinsa
+osoitteita
+,
+ovat
+hankaluuksissa
+.
 
-  
+Osa
+heistä
+on
+korkeassa
+asemassa
+Valkoisessa
+talossa
+.
 
+<PARAGRAPH>
+Ashley
+Madison
+on
+pyrkinyt
+estämään
+nettiin
+vuodettujen
+käyttäjätietojen
+leviämistä
+käyttämällä
+maan
+laajaa
+digitaalisten
+tekijänoikeuksien
+DMCA-lakia
+hyväkseen
+.
 
+Deittipalvelu
+on
+vaatinut
+sähköpostiosoitteita
+jakelevien
+sivustojen
+sulkemista
+sillä
+perusteella
+,
+että
+sillä
+on
+tekijänoikeus
+sisältöön
+.
+
+Osa
+sivuista
+onkin
+kadonnut
+netistä
+.
+
+<PARAGRAPH>
+Muokkaus
+:
+Otsikkoa
+muutettu
+.

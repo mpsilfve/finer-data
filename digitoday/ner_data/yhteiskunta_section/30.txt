@@ -1,31 +1,245 @@
 <HEADLINE>
- "Nimi on puheenparsi" — Stubb-viharyhmä saa jatkaa Facebookissa
+"
+Nimi
+on
+puheenparsi
+"
+—
+Stubb-viharyhmä
+saa
+jatkaa
+Facebookissa
 
 <DATE>
 20.8.2015 13:53
 
 <INGRESS>
-Facebookin mukaan moderaattorit ovat tulkinneet ryhmän nimen olevan puheenparsi tai puhetapa.  
+Facebookin
+mukaan
+moderaattorit
+ovat
+tulkinneet
+ryhmän
+nimen
+olevan
+puheenparsi
+tai
+puhetapa
+.
 
 <BODY>
-Facebookissa Tappakaa Alexander Stubb\- tai Tappakaa Alexander Stubb (kuvainnollisesti) -nimillä toimiva ryhmä saa jatkaa toimintaansa useista Facebookille tehdyistä ilmiannoista huolimatta.
+<PARAGRAPH>
+Facebookissa
+Tappakaa
+Alexander
+Stubb
+\
+-
+tai
+Tappakaa
+Alexander
+Stubb
+(
+kuvainnollisesti
+)
+-nimillä
+toimiva
+ryhmä
+saa
+jatkaa
+toimintaansa
+useista
+Facebookille
+tehdyistä
+ilmiannoista
+huolimatta
+.
 
-Ryhmän olemassaolosta ensimmäisenä kertonut Keskisuomalainen-lehti kertoi eilen tehneensä ryhmästä ilmiannon ja tietävänsä myös toisesta tapauksesta. Myös Digitodayn tiedossa on näiden lisäksi tehtyjä muitakin ilmiantoja.
+<PARAGRAPH>
+Ryhmän
+olemassaolosta
+ensimmäisenä
+kertonut
+Keskisuomalainen-lehti
+kertoi
+eilen
+tehneensä
+ryhmästä
+ilmiannon
+ja
+tietävänsä
+myös
+toisesta
+tapauksesta
+.
 
-Ryhmän kuvaus tällä hetkellä on seuraavanlainen:
+Myös
+Digitodayn
+tiedossa
+on
+näiden
+lisäksi
+tehtyjä
+muitakin
+ilmiantoja
+.
 
-– Tänne ryhmään kokoonnumme keskustelemaan rotta Alexanderin edesottamuksista.Stubin ohella tapamme myös valtioneuvoston(kuvainnollisesti). myös pedofiiliksi väitetyn Sipilän ja mielenterveydeltään epävakaan Timo Soinin.(KUVAINNOLLISESTI).
+<PARAGRAPH>
+Ryhmän
+kuvaus
+tällä
+hetkellä
+on
+seuraavanlainen
+:
 
-Uutisoinnin jälkeen ryhmässä pohdittiin, miten julkisuuteen tulisi suhtautua. Ryhmä päätyi lisäämään nimensä perään kuvainnollisesti-sanan.
+<PARAGRAPH>
+–
+Tänne
+ryhmään
+kokoonnumme
+keskustelemaan
+rotta
+Alexanderin
+edesottamuksista
+.
 
-Moni suomalaismedia kertoi myös ryhmän kadonneen, mutta Facebookin edustaja vahvistaa ryhmän olevan yhä toiminnassa. Ryhmä on muutettu suljetuksi.
+Stubin
+ohella
+tapamme
+myös
+valtioneuvoston
+(
+kuvainnollisesti
+)
+.
 
-– Nähdäksemme [Facebookin] moderaattorit ovat mieltäneet ryhmän nimen puheenparreksi (ruots. talesätt), kommentoi Facebookin ruotsalaisen viestintätoimiston edustaja syytä siihen, miksi ryhmää ei ole poistettu.
+myös
+pedofiiliksi
+väitetyn
+Sipilän
+ja
+mielenterveydeltään
+epävakaan
+Timo
+Soinin
+.
 
-Valtiovarainministeri Alexander Stubbin kotia vastaan hyökättiin alkuviikosta ja talolle tehtiin ilkivaltaa.
+(
+KUVAINNOLLISESTI
+)
+.
 
-Facebookia on kritisoitu toistuvasti siitä, että se sallii vihapuheeksi tulkittavan keskustelun, mutta poistaa kaiken vähänkään alastomuuteen viittaavan.
+<PARAGRAPH>
+Uutisoinnin
+jälkeen
+ryhmässä
+pohdittiin
+,
+miten
+julkisuuteen
+tulisi
+suhtautua
+.
 
-  
+Ryhmä
+päätyi
+lisäämään
+nimensä
+perään
+kuvainnollisesti-sanan
+.
 
+<PARAGRAPH>
+Moni
+suomalaismedia
+kertoi
+myös
+ryhmän
+kadonneen
+,
+mutta
+Facebookin
+edustaja
+vahvistaa
+ryhmän
+olevan
+yhä
+toiminnassa
+.
 
+Ryhmä
+on
+muutettu
+suljetuksi
+.
+
+<PARAGRAPH>
+–
+Nähdäksemme
+[
+Facebookin
+]
+moderaattorit
+ovat
+mieltäneet
+ryhmän
+nimen
+puheenparreksi
+(
+ruots
+.
+
+talesätt
+)
+,
+kommentoi
+Facebookin
+ruotsalaisen
+viestintätoimiston
+edustaja
+syytä
+siihen
+,
+miksi
+ryhmää
+ei
+ole
+poistettu
+.
+
+<PARAGRAPH>
+Valtiovarainministeri
+Alexander
+Stubbin
+kotia
+vastaan
+hyökättiin
+alkuviikosta
+ja
+talolle
+tehtiin
+ilkivaltaa
+.
+
+<PARAGRAPH>
+Facebookia
+on
+kritisoitu
+toistuvasti
+siitä
+,
+että
+se
+sallii
+vihapuheeksi
+tulkittavan
+keskustelun
+,
+mutta
+poistaa
+kaiken
+vähänkään
+alastomuuteen
+viittaavan
+.

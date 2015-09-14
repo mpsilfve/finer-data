@@ -1,21 +1,155 @@
 <HEADLINE>
- Microsoftilta tulossa jättijulkistus: Näitä odotetaan
+Microsoftilta
+tulossa
+jättijulkistus
+:
+Näitä
+odotetaan
 
 <DATE>
 21.8.2015 13:52
 
 <INGRESS>
-Microsoft voi julkaista tukun uusia tuotteita lokakuussa ja aikoo järjestää sitä varten oman tilaisuuden, The Verge sai kuulla.  
+Microsoft
+voi
+julkaista
+tukun
+uusia
+tuotteita
+lokakuussa
+ja
+aikoo
+järjestää
+sitä
+varten
+oman
+tilaisuuden
+,
+The
+Verge
+sai
+kuulla
+.
 
 <BODY>
-Asiasta kertoivat nimettömät lähteet The Vergelle sen jälkeen, kun kiinalainen sivusto WPDang oli uutisoinut Microsoftin kaavailevan tuotejulkaisua lokakuussa.
+<PARAGRAPH>
+Asiasta
+kertoivat
+nimettömät
+lähteet
+The
+Vergelle
+sen
+jälkeen
+,
+kun
+kiinalainen
+sivusto
+WPDang
+oli
+uutisoinut
+Microsoftin
+kaavailevan
+tuotejulkaisua
+lokakuussa
+.
 
-The Verge luonnehtii tilaisuutta "massiiviseksi". Sen mukaan yhtiö esittelee kaksi Lumia-puhelinta, mahdollisesti Lumia 950:n ja 950 XL:n, joista on vuodettu tietoja aikaisemmin.
+<PARAGRAPH>
+The
+Verge
+luonnehtii
+tilaisuutta
+"
+massiiviseksi
+"
+.
 
-Luvassa pitäisi olla myös Surface Pro 4 -tabletti ja Microsoft Band 2 -ranneke. The Vergen mukaan Microsoft saattaa myös järjestää yllätyksen jos toisenkin mainittujen laitteiden lisäksi.
+Sen
+mukaan
+yhtiö
+esittelee
+kaksi
+Lumia-puhelinta
+,
+mahdollisesti
+Lumia
+950:n
+ja
+950
+XL:n
+,
+joista
+on
+vuodettu
+tietoja
+aikaisemmin
+.
 
-Surface-tabletit eivät kuluttajia juuri innostaneet, minkä jälkeen Microsoft on keskittynyt tekemään niistä houkuttelevampia yritys- ja ammattikäyttöön.
+<PARAGRAPH>
+Luvassa
+pitäisi
+olla
+myös
+Surface
+Pro
+4
+-tabletti
+ja
+Microsoft
+Band
+2
+-ranneke
+.
 
-Samaa tuotesuuntausta edustaa esitystaulu Surface Hub, jonka aikataulua Microsoft on joutunut siirtämään kuukausilla eteenpäin.
+The
+Vergen
+mukaan
+Microsoft
+saattaa
+myös
+järjestää
+yllätyksen
+jos
+toisenkin
+mainittujen
+laitteiden
+lisäksi
+.
 
+<PARAGRAPH>
+Surface-tabletit
+eivät
+kuluttajia
+juuri
+innostaneet
+,
+minkä
+jälkeen
+Microsoft
+on
+keskittynyt
+tekemään
+niistä
+houkuttelevampia
+yritys-
+ja
+ammattikäyttöön
+.
 
+<PARAGRAPH>
+Samaa
+tuotesuuntausta
+edustaa
+esitystaulu
+Surface
+Hub
+,
+jonka
+aikataulua
+Microsoft
+on
+joutunut
+siirtämään
+kuukausilla
+eteenpäin
+.

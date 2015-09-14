@@ -1,21 +1,115 @@
 <HEADLINE>
- Internet Explorerissa kriittinen aukko — Microsoft ryhtyi poikkeustoimiin
+Internet
+Explorerissa
+kriittinen
+aukko
+—
+Microsoft
+ryhtyi
+poikkeustoimiin
 
 <DATE>
 19.8.2015 09:30
 
 <INGRESS>
-Microsoft rikkoi säännöllisen päivityssyklinsä IE:n pikapaikalla.  
+Microsoft
+rikkoi
+säännöllisen
+päivityssyklinsä
+IE
+:
+n
+pikapaikalla
+.
 
 <BODY>
-Microsoftin Internet Explorer -selaimesta on löytynyt tietoturva-aukko, joka antaa hyökkääjän ajaa omaa koodiaan kohdekoneessa. Aukon hyödyntämiseen riittää se, että surfaaja saadaan ohjattua tietylle verkkosivulle.
+<PARAGRAPH>
+Microsoftin
+Internet
+Explorer
+-
+selaimesta
+on
+löytynyt
+tietoturva-aukko
+,
+joka
+antaa
+hyökkääjän
+ajaa
+omaa
+koodiaan
+kohdekoneessa
+.
 
-Asiasta varoittaa Viestintäviraston Kyberturvallisuuskeskus.
+Aukon
+hyödyntämiseen
+riittää
+se
+,
+että
+surfaaja
+saadaan
+ohjattua
+tietylle
+verkkosivulle
+.
 
-Haavoittuvuuden takana on muistinkäsittelyongelma. Hyökkäyskoodi on julkisesti tarjolla.
+<PARAGRAPH>
+Asiasta
+varoittaa
+Viestintäviraston
+Kyberturvallisuuskeskus
+.
 
-Microsoft teki kriittiseksi luokitellun haavoittuvuuden haavoittuvuuden vuoksi poikkeuksen päivityskäytäntöihinsä ja julkaisi aukon paikkaavan korjaustiedoston välittömästi.
+<PARAGRAPH>
+Haavoittuvuuden
+takana
+on
+muistinkäsittelyongelma
+.
 
-IE päivittyy automaattisesti, jos Windows Update on käytössä. Muussa tapauksessa 3088903-korjaustiedoston voi ladata Microsoftin sivuilta.
+Hyökkäyskoodi
+on
+julkisesti
+tarjolla
+.
 
+<PARAGRAPH>
+Microsoft
+teki
+kriittiseksi
+luokitellun
+haavoittuvuuden
+haavoittuvuuden
+vuoksi
+poikkeuksen
+päivityskäytäntöihinsä
+ja
+julkaisi
+aukon
+paikkaavan
+korjaustiedoston
+välittömästi
+.
 
+<PARAGRAPH>
+IE
+päivittyy
+automaattisesti
+,
+jos
+Windows
+Update
+on
+käytössä
+.
+
+Muussa
+tapauksessa
+3088903-korjaustiedoston
+voi
+ladata
+Microsoftin
+sivuilta
+.

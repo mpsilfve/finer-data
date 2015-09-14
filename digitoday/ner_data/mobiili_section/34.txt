@@ -1,19 +1,92 @@
 <HEADLINE>
- KSML: Soneran verkko-ongelmat jatkuvat yhä
+KSML
+:
+Soneran
+verkko-ongelmat
+jatkuvat
+yhä
 
 <DATE>
 28.8.2015 14:13
 
 <INGRESS>
-Soneran matkapuhelinverkot ovat jälleen ongelmissa.  
+Soneran
+matkapuhelinverkot
+ovat
+jälleen
+ongelmissa
+.
 
 <BODY>
-Keskisuomalaisen tietojen mukaan Soneran 4g-verkoissa on laajoja ongelmia Keski-Suomessa, Pohjanmaalla ja Savossa.
+<PARAGRAPH>
+Keskisuomalaisen
+tietojen
+mukaan
+Soneran
+4g
+-
+verkoissa
+on
+laajoja
+ongelmia
+Keski-Suomessa
+,
+Pohjanmaalla
+ja
+Savossa
+.
 
-Vian vuoksi puhelimet eivät löydä lainkaan kenttää 4g-verkkoihin yrittäessä, eikä pelkkää 4g:tä käyttävillä puhelimilla ja liittymillä voi lainkaan soittaa.
+<PARAGRAPH>
+Vian
+vuoksi
+puhelimet
+eivät
+löydä
+lainkaan
+kenttää
+4g
+-
+verkkoihin
+yrittäessä
+,
+eikä
+pelkkää
+4g
+:
+tä
+käyttävillä
+puhelimilla
+ja
+liittymillä
+voi
+lainkaan
+soittaa
+.
 
-Vanhempia 2g- ja 3g-verkkoja käyttävät puhelimet toimivat Soneran mukaan normaalisti.
+<PARAGRAPH>
+Vanhempia
+2g
+-
+ja
+3g
+-
+verkkoja
+käyttävät
+puhelimet
+toimivat
+Soneran
+mukaan
+normaalisti
+.
 
-Soneralla on ollut paljon ongelmia matkapuhelinverkkojensa kanssa viime aikoina.
-
-
+<PARAGRAPH>
+Soneralla
+on
+ollut
+paljon
+ongelmia
+matkapuhelinverkkojensa
+kanssa
+viime
+aikoina
+.

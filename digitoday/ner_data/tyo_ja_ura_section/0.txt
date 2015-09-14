@@ -1,25 +1,175 @@
 <HEADLINE>
- Korealaislehti: Samsung irtisanomassa 10 000
+Korealaislehti
+:
+Samsung
+irtisanomassa
+10
+000
 
 <DATE>
 8.9.2015 16:16
 
 <INGRESS>
-Myynnin laskun kanssa kamppaileva elektroniikkajätti karsii hallintoaan.  
+Myynnin
+laskun
+kanssa
+kamppaileva
+elektroniikkajätti
+karsii
+hallintoaan
+.
 
 <BODY>
-Korealainen Samsung Electronics suunnittelee kymmenen prosentin henkilöstövähennyksiä pääkonttoriinsa, kertoi korealaislehti nimettömiin lähteisiinsä viitaten.
+<PARAGRAPH>
+Korealainen
+Samsung
+Electronics
+suunnittelee
+kymmenen
+prosentin
+henkilöstövähennyksiä
+pääkonttoriinsa
+,
+kertoi
+korealaislehti
+nimettömiin
+lähteisiinsä
+viitaten
+.
 
-Korea Economic Daily -lehden mukaan vähennysten kohteena ovat henkilöstöhallinto, viestintä ja taloushallinto. Yhtiö kaavailee ensi vuodelle myös muita säästötoimia.
+<PARAGRAPH>
+Korea
+Economic
+Daily
+-lehden
+mukaan
+vähennysten
+kohteena
+ovat
+henkilöstöhallinto
+,
+viestintä
+ja
+taloushallinto
+.
 
-Kesäkuun lopussa yhtiön pääkonttorissa työskenteli 98 999 työntekijää. Potkut koskisivat siis noin kymmentä tuhatta samsunglaista.
+Yhtiö
+kaavailee
+ensi
+vuodelle
+myös
+muita
+säästötoimia
+.
 
-Yhtiöstä ei haluttu kommentoida lehdelle tietoja, uutistoimisto Bloomberg kertoi.
+<PARAGRAPH>
+Kesäkuun
+lopussa
+yhtiön
+pääkonttorissa
+työskenteli
+98
+999
+työntekijää
+.
 
-Samsung on ajautunut vaikeuksiin, sillä sen lippulaivamalli Samsung Galaxy S6 ei ole innostanut kuluttajia toivotusti. Yhtiön tulos on laskenut seitsemän perättäistä kertaa, ja sen markkina-arvosta on sulanut huhtikuusta yli 40 miljardia dollaria.
+Potkut
+koskisivat
+siis
+noin
+kymmentä
+tuhatta
+samsunglaista
+.
 
-Heikon kehityksen seurauksena Samsungin markkinaosuus on supistunut, eikä yhtiö ole enää markkinajohtaja Kiinassa.
+<PARAGRAPH>
+Yhtiöstä
+ei
+haluttu
+kommentoida
+lehdelle
+tietoja
+,
+uutistoimisto
+Bloomberg
+kertoi
+.
 
-Toisella vuosineljänneksellä markkinaosuus laski Strategy Analyticsin mukaan edellisvuoden 25 prosentista 21 prosenttiin, Apple puolestaan kuroo Samsungin etumatkaa nopeasti kiinni.
+<PARAGRAPH>
+Samsung
+on
+ajautunut
+vaikeuksiin
+,
+sillä
+sen
+lippulaivamalli
+Samsung
+Galaxy
+S6
+ei
+ole
+innostanut
+kuluttajia
+toivotusti
+.
 
+Yhtiön
+tulos
+on
+laskenut
+seitsemän
+perättäistä
+kertaa
+,
+ja
+sen
+markkina-arvosta
+on
+sulanut
+huhtikuusta
+yli
+40
+miljardia
+dollaria
+.
 
+<PARAGRAPH>
+Heikon
+kehityksen
+seurauksena
+Samsungin
+markkinaosuus
+on
+supistunut
+,
+eikä
+yhtiö
+ole
+enää
+markkinajohtaja
+Kiinassa
+.
+
+<PARAGRAPH>
+Toisella
+vuosineljänneksellä
+markkinaosuus
+laski
+Strategy
+Analyticsin
+mukaan
+edellisvuoden
+25
+prosentista
+21
+prosenttiin
+,
+Apple
+puolestaan
+kuroo
+Samsungin
+etumatkaa
+nopeasti
+kiinni
+.

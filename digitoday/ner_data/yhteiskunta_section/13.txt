@@ -1,19 +1,152 @@
 <HEADLINE>
- Amerikkalaisilla verkko-ongelmia — tuntuu ihmisillä ympäri maailman
+Amerikkalaisilla
+verkko-ongelmia
+—
+tuntuu
+ihmisillä
+ympäri
+maailman
 
 <DATE>
 28.8.2015 14:54
 
 <INGRESS>
-Suuri yhdysvaltalainen verkko-operaattori kärsii isoista ongelmista palveluissaan.  
+Suuri
+yhdysvaltalainen
+verkko-operaattori
+kärsii
+isoista
+ongelmista
+palveluissaan
+.
 
 <BODY>
-Level 3 Communicationsin nimi ei välttämättä soita useimmille kelloja, mutta se on yksi isoimmista verkko-operaattoreista maailmassa.
+<PARAGRAPH>
+Level
+3
+Communicationsin
+nimi
+ei
+välttämättä
+soita
+useimmille
+kelloja
+,
+mutta
+se
+on
+yksi
+isoimmista
+verkko-operaattoreista
+maailmassa
+.
 
-Yhdysvaltalainen Level 3 ei asemastaan huolimatta näy usein otsikoissa, sillä kuluttajat eivät tee sen kanssa sopimuksia. Level 3 on taho, joka myy verkkoyhteydet varsinaisille palveluntarjoajille.
+<PARAGRAPH>
+Yhdysvaltalainen
+Level
+3
+ei
+asemastaan
+huolimatta
+näy
+usein
+otsikoissa
+,
+sillä
+kuluttajat
+eivät
+tee
+sen
+kanssa
+sopimuksia
+.
 
-Nyt coloradolaisyrityksen verkoissa on Neowinin mukaan suuria ongelmia. Koska Level 3:n kautta verkkoon on yhdistetty monia isoja palveluja kuten esimerkiksi Yahoo Mail, PSN, Xbox Live, Outlook, Twitch, HBO Go, Craigslist ja niin edelleen, sen ongelmat aiheuttavat netin tökkimistä käyttäjille kautta maailman.
+Level
+3
+on
+taho
+,
+joka
+myy
+verkkoyhteydet
+varsinaisille
+palveluntarjoajille
+.
 
-Verkon tilaa mittaava Down Detector näyttää tällä hetkellä Level 3:n kartalla suuren määrän punaisia laikkuja, jotka kertovat ruuhkautuneista tai toimimattomista solmukohdista.
+<PARAGRAPH>
+Nyt
+coloradolaisyrityksen
+verkoissa
+on
+Neowinin
+mukaan
+suuria
+ongelmia
+.
 
+Koska
+Level
+3:n
+kautta
+verkkoon
+on
+yhdistetty
+monia
+isoja
+palveluja
+kuten
+esimerkiksi
+Yahoo
+Mail
+,
+PSN
+,
+Xbox
+Live
+,
+Outlook
+,
+Twitch
+,
+HBO
+Go
+,
+Craigslist
+ja
+niin
+edelleen
+,
+sen
+ongelmat
+aiheuttavat
+netin
+tökkimistä
+käyttäjille
+kautta
+maailman
+.
 
+<PARAGRAPH>
+Verkon
+tilaa
+mittaava
+Down
+Detector
+näyttää
+tällä
+hetkellä
+Level
+3:n
+kartalla
+suuren
+määrän
+punaisia
+laikkuja
+,
+jotka
+kertovat
+ruuhkautuneista
+tai
+toimimattomista
+solmukohdista
+.

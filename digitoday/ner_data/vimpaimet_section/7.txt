@@ -1,29 +1,239 @@
 <HEADLINE>
- Golfautosta tuli itseohjautuva: Lisko aiheutti ongelmia
+Golfautosta
+tuli
+itseohjautuva
+:
+Lisko
+aiheutti
+ongelmia
 
 <DATE>
 3.9.2015 08:52
 
 <INGRESS>
-Googlen robottiautoa pienemmilläkin ajoneuvoilla voidaan testata itseään ohjaavia liikennevälineitä. Singaporen kokeilussa robottigolfautot kruisailivat suuressa puutarhassa.  
+Googlen
+robottiautoa
+pienemmilläkin
+ajoneuvoilla
+voidaan
+testata
+itseään
+ohjaavia
+liikennevälineitä
+.
+
+Singaporen
+kokeilussa
+robottigolfautot
+kruisailivat
+suuressa
+puutarhassa
+.
 
 <BODY>
-Massachusetts Institute of Technology -yliopisto (MIT) ja Singaporen kansallinen tutkimuslaitos kehittivät yksinkertaistetun anturi- ja ohjausjärjestelmän, jonka avulla noin 500 ihmistä ajeli automaattigolfautolla puutarhavieraiden keskuudessa.
+<PARAGRAPH>
+Massachusetts
+Institute
+of
+Technology
+-yliopisto
+(
+MIT
+)
+ja
+Singaporen
+kansallinen
+tutkimuslaitos
+kehittivät
+yksinkertaistetun
+anturi-
+ja
+ohjausjärjestelmän
+,
+jonka
+avulla
+noin
+500
+ihmistä
+ajeli
+automaattigolfautolla
+puutarhavieraiden
+keskuudessa
+.
 
-Kokeessa ei testattu ainoastaan ajoneuvon selviytymistä, vaan mukana oli myös tilausjärjestelmä, jonka avulla matkustajat voivat siirtyä yhdeltä kymmenestä "pysäkiltä" toiselle. Kutsujärjestelmä voisi laajentua tulevaisuudessa palvelemaan vaikka Uberin asiakkaita tai Helsingin seudun Kutsu Plus -järjestelmää.
+<PARAGRAPH>
+Kokeessa
+ei
+testattu
+ainoastaan
+ajoneuvon
+selviytymistä
+,
+vaan
+mukana
+oli
+myös
+tilausjärjestelmä
+,
+jonka
+avulla
+matkustajat
+voivat
+siirtyä
+yhdeltä
+kymmenestä
+"
+pysäkiltä
+"
+toiselle
+.
 
-Golfauton silminä käytettiin vain kameroita ja kaupan hyllyltä saatavia lasertutkia. Järjestelmässä ei ole läheskään niin paljon teknologiaa kuin esimerkiksi Googlen robottiautoissa.
+Kutsujärjestelmä
+voisi
+laajentua
+tulevaisuudessa
+palvelemaan
+vaikka
+Uberin
+asiakkaita
+tai
+Helsingin
+seudun
+Kutsu
+Plus
+-järjestelmää
+.
 
-– Uskomme, että strategisesti asetellut anturit ja luotettavat algoritmit tuottavat kestäviä tuloksia. Ne vaativat vähemmän laskentaa eivätkä jämähdä keskenään ristiriitaisten anturien viesteihin, tutkijat kirjoittivat Engadgetin mukaan.
+<PARAGRAPH>
+Golfauton
+silminä
+käytettiin
+vain
+kameroita
+ja
+kaupan
+hyllyltä
+saatavia
+lasertutkia
+.
 
-Raportin pääkirjoittajan Daniela Rusin mukaan hitaasti liikkuvat robottiajoneuvot voisivat kuljettaa vanhoja ihmisiä sellaisissa paikoissa kuin ostoskeskukset tai lähiöt.
+Järjestelmässä
+ei
+ole
+läheskään
+niin
+paljon
+teknologiaa
+kuin
+esimerkiksi
+Googlen
+robottiautoissa
+.
 
-Robottigolfautot liikkuivat puistossa tasa-arvoisina muun liikenteen seassa. MIT Newsin mukaan niiden törmäyksenestojärjestelmä ajautui vaikeuksiin vain kerran. Suuri, hitaasti tien poikki liikkuva lisko aiheutti hämmennystä.
+<PARAGRAPH>
+–
+Uskomme
+,
+että
+strategisesti
+asetellut
+anturit
+ja
+luotettavat
+algoritmit
+tuottavat
+kestäviä
+tuloksia
+.
 
-– Siinä jouduttiin pysähdy-ja-liiku peliin, kumpi tekee mitäkin.
+Ne
+vaativat
+vähemmän
+laskentaa
+eivätkä
+jämähdä
+keskenään
+ristiriitaisten
+anturien
+viesteihin
+,
+tutkijat
+kirjoittivat
+Engadgetin
+mukaan
+.
 
-Kokeilusta Youtube-video on nähtävissä alla.
+<PARAGRAPH>
+Raportin
+pääkirjoittajan
+Daniela
+Rusin
+mukaan
+hitaasti
+liikkuvat
+robottiajoneuvot
+voisivat
+kuljettaa
+vanhoja
+ihmisiä
+sellaisissa
+paikoissa
+kuin
+ostoskeskukset
+tai
+lähiöt
+.
 
-  
+<PARAGRAPH>
+Robottigolfautot
+liikkuivat
+puistossa
+tasa-arvoisina
+muun
+liikenteen
+seassa
+.
 
+MIT
+Newsin
+mukaan
+niiden
+törmäyksenestojärjestelmä
+ajautui
+vaikeuksiin
+vain
+kerran
+.
 
+Suuri
+,
+hitaasti
+tien
+poikki
+liikkuva
+lisko
+aiheutti
+hämmennystä
+.
+
+<PARAGRAPH>
+–
+Siinä
+jouduttiin
+pysähdy-ja
+-
+liiku
+peliin
+,
+kumpi
+tekee
+mitäkin
+.
+
+<PARAGRAPH>
+Kokeilusta
+Youtube-video
+on
+nähtävissä
+alla
+.

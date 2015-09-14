@@ -1,21 +1,153 @@
 <HEADLINE>
- Poliisi varoittaa: Maksupyyntö pomolta? Ole varuillasi
+Poliisi
+varoittaa
+:
+Maksupyyntö
+pomolta
+?
+
+Ole
+varuillasi
 
 <DATE>
 7.9.2015 10:08
 
 <INGRESS>
-Helsingin poliisi varoittaa yrityksiä aktiivisesta sähköpostihuijauksesta.  
+Helsingin
+poliisi
+varoittaa
+yrityksiä
+aktiivisesta
+sähköpostihuijauksesta
+.
 
 <BODY>
-Suomalaisyrityksiltä yritetään viedä rahaa sosiaalisen manipulaation keinoin. Vahinko on pahimmillaan valtava.
+<PARAGRAPH>
+Suomalaisyrityksiltä
+yritetään
+viedä
+rahaa
+sosiaalisen
+manipulaation
+keinoin
+.
 
-Helsingin poliisin talousrikostutkinta on saanut tietoonsa useita tapauksia, joissa yrityksen taloushallintoa tai laskutusta on pyydetty maksamaan nopeasti annettu summa ilmoitetulle pankkitilille.
+Vahinko
+on
+pahimmillaan
+valtava
+.
 
-Pyyntö on tullut sähköpostilla, joka muistuttaa erehdyttävästi yrityksen johtohenkilön oikeaa osoitetta. Poliisin mukaan vahingon vaara on siis olemassa.
+<PARAGRAPH>
+Helsingin
+poliisin
+talousrikostutkinta
+on
+saanut
+tietoonsa
+useita
+tapauksia
+,
+joissa
+yrityksen
+taloushallintoa
+tai
+laskutusta
+on
+pyydetty
+maksamaan
+nopeasti
+annettu
+summa
+ilmoitetulle
+pankkitilille
+.
 
-Maksettavaksi vaaditut summat ovat olleet enimmillään jopa miljoona euroa.
+<PARAGRAPH>
+Pyyntö
+on
+tullut
+sähköpostilla
+,
+joka
+muistuttaa
+erehdyttävästi
+yrityksen
+johtohenkilön
+oikeaa
+osoitetta
+.
 
-– Helsingin poliisi pyytää yrityksiä ja laskutuksesta vastaavia henkilöitä olemaan erityisen tarkkaavaisia ja varmistamaan yrityksen johtohenkilöltä sähköpostin aitouden, toteaa rikostarkastaja Ismo Siltamäki [tiedotteessa] (http://www.poliisi.fi/tietoapoliisista/tiedotteet/1/1/helsinginpoliisivaro ittaayrityksiameneillaanolevastahuijauksesta38792).
+Poliisin
+mukaan
+vahingon
+vaara
+on
+siis
+olemassa
+.
 
+<PARAGRAPH>
+Maksettavaksi
+vaaditut
+summat
+ovat
+olleet
+enimmillään
+jopa
+miljoona
+euroa
+.
 
+<PARAGRAPH>
+–
+Helsingin
+poliisi
+pyytää
+yrityksiä
+ja
+laskutuksesta
+vastaavia
+henkilöitä
+olemaan
+erityisen
+tarkkaavaisia
+ja
+varmistamaan
+yrityksen
+johtohenkilöltä
+sähköpostin
+aitouden
+,
+toteaa
+rikostarkastaja
+Ismo
+Siltamäki
+[
+tiedotteessa
+]
+(
+http
+:
+/
+/
+www
+.
+
+poliisi
+.
+
+fi
+/
+tietoapoliisista
+/
+tiedotteet
+/
+1
+/
+1
+/
+helsinginpoliisivaro
+ittaayrityksiameneillaanolevastahuijauksesta38792
+)
+.

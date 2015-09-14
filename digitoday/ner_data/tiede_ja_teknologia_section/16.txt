@@ -1,21 +1,150 @@
 <HEADLINE>
- Facebookilta digiavustaja — antaisitko M:n shoppailla puolestasi?
+Facebookilta
+digiavustaja
+—
+antaisitko
+M:n
+shoppailla
+puolestasi
+?
 
 <DATE>
 27.8.2015 08:10
 
 <INGRESS>
-Facebook on kehittänyt oman digitaalisen avustajansa. M-nimellä tunnettu assistentti asuu Facebook Messengerin sisällä.  
+Facebook
+on
+kehittänyt
+oman
+digitaalisen
+avustajansa
+.
+
+M-nimellä
+tunnettu
+assistentti
+asuu
+Facebook
+Messengerin
+sisällä
+.
 
 <BODY>
-Facebook Messengerin digitaalisen avustajan M:n kykyjä testataan parhaillaan San Franciscon alueella. Facebookin David Marcus kuvaa blogissa avustajaksi, joka saattaa tehtäviä loppuun ja löytää tietoja käyttäjälle.
+<PARAGRAPH>
+Facebook
+Messengerin
+digitaalisen
+avustajan
+M:n
+kykyjä
+testataan
+parhaillaan
+San
+Franciscon
+alueella
+.
 
-– Sen toiminta perustuu tekoälyyn, jonka ihmiset ovat opettaneet ja jota he valvovat.
+Facebookin
+David
+Marcus
+kuvaa
+blogissa
+avustajaksi
+,
+joka
+saattaa
+tehtäviä
+loppuun
+ja
+löytää
+tietoja
+käyttäjälle
+.
 
-Marcusin mukaan M poikkeaa Siristä ja Cortanasta siinä, että oikeasti tekee tehtäviä. Se voi suorittaa ostoksia, toimittaa lahjoja läheisille, tehdä pöytävarauksia ja matkatilauksia, sopia tapaamisia ja tehdä paljon muuta.
+<PARAGRAPH>
+–
+Sen
+toiminta
+perustuu
+tekoälyyn
+,
+jonka
+ihmiset
+ovat
+opettaneet
+ja
+jota
+he
+valvovat
+.
 
-Siri on Applen älypuhelimissa ja taulutietokoneissa toimiva avustaja. Microsoftin Cortanan toimialuetta on juuri laajennettu älypuhelimista Windows 10 -tietokoneisiin.
+<PARAGRAPH>
+Marcusin
+mukaan
+M
+poikkeaa
+Siristä
+ja
+Cortanasta
+siinä
+,
+että
+oikeasti
+tekee
+tehtäviä
+.
 
-Uudesta tulokkaasta digiavustajien joukkoon raportoi Wired keskiviikkona.
+Se
+voi
+suorittaa
+ostoksia
+,
+toimittaa
+lahjoja
+läheisille
+,
+tehdä
+pöytävarauksia
+ja
+matkatilauksia
+,
+sopia
+tapaamisia
+ja
+tehdä
+paljon
+muuta
+.
 
+<PARAGRAPH>
+Siri
+on
+Applen
+älypuhelimissa
+ja
+taulutietokoneissa
+toimiva
+avustaja
+.
 
+Microsoftin
+Cortanan
+toimialuetta
+on
+juuri
+laajennettu
+älypuhelimista
+Windows
+10
+-tietokoneisiin
+.
+
+<PARAGRAPH>
+Uudesta
+tulokkaasta
+digiavustajien
+joukkoon
+raportoi
+Wired
+keskiviikkona
+.

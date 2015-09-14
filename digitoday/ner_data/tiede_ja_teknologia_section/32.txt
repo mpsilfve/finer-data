@@ -1,23 +1,191 @@
 <HEADLINE>
- Lego-puhelin pulassa? Google painoi jarrua
+Lego-puhelin
+pulassa
+?
+
+Google
+painoi
+jarrua
 
 <DATE>
 18.8.2015 10:40
 
 <INGRESS>
-Googlen paloista koostuva Project Ara -puhelin myöhästyy, eikä kokeilua aloiteta tänä vuonna.  
+Googlen
+paloista
+koostuva
+Project
+Ara
+-puhelin
+myöhästyy
+,
+eikä
+kokeilua
+aloiteta
+tänä
+vuonna
+.
 
 <BODY>
-Google kertoi lisää Project Ara -hankkeensa tilanteesta antamatta kuitenkaan tarkkoja vastauksia oleellisiin kysymyksiin.
+<PARAGRAPH>
+Google
+kertoi
+lisää
+Project
+Ara
+-hankkeensa
+tilanteesta
+antamatta
+kuitenkaan
+tarkkoja
+vastauksia
+oleellisiin
+kysymyksiin
+.
 
-Project Ara on Googlen hanke modulaarisen puhelimen rakentamiseksi. Siis sellaisen, jonka osia käyttäjä voi vaihtaa mielivaltaisesti.
+<PARAGRAPH>
+Project
+Ara
+on
+Googlen
+hanke
+modulaarisen
+puhelimen
+rakentamiseksi
+.
 
-Ensin Google kertoi, että suunniteltu markkinapilotti Puerto Ricossa on peruutettu. Sen jälkeen hankkeen Twitter-tilillä julkaistiin lisää viestejä. Niiden mukaan tosielämän kokeilut aloitetaan vuonna 2016, eikä tänä vuonna, kuten oli tarkoitus.
+Siis
+sellaisen
+,
+jonka
+osia
+käyttäjä
+voi
+vaihtaa
+mielivaltaisesti
+.
 
-Google puntaroi "muutamia paikkoja Yhdysvalloissa" testausta varten, mutta ei kertonut niistä tarkemmin. Yhtiö ei myöskään antanut tarkempaa aikataulua testauksen alkamiselle.
+<PARAGRAPH>
+Ensin
+Google
+kertoi
+,
+että
+suunniteltu
+markkinapilotti
+Puerto
+Ricossa
+on
+peruutettu
+.
 
-Myös syy viivästykseen selviää vain osittain. Google sanoo, että Project Ara on edellyttänyt "paljon iteraatioita – enemmän kuin kuvittelimme".
+Sen
+jälkeen
+hankkeen
+Twitter-tilillä
+julkaistiin
+lisää
+viestejä
+.
 
-Tämä voi kenties tarkoittaa sitä, että laitteet ovat vaatineet useampia prototyyppien sukupolvia kuin Google oli ennakoinut – toisin sanoen konseptin toteuttaminen on ehkä ollut luultua vaikeampaa.
+Niiden
+mukaan
+tosielämän
+kokeilut
+aloitetaan
+vuonna
+2016
+,
+eikä
+tänä
+vuonna
+,
+kuten
+oli
+tarkoitus
+.
 
+<PARAGRAPH>
+Google
+puntaroi
+"
+muutamia
+paikkoja
+Yhdysvalloissa
+"
+testausta
+varten
+,
+mutta
+ei
+kertonut
+niistä
+tarkemmin
+.
 
+Yhtiö
+ei
+myöskään
+antanut
+tarkempaa
+aikataulua
+testauksen
+alkamiselle
+.
+
+<PARAGRAPH>
+Myös
+syy
+viivästykseen
+selviää
+vain
+osittain
+.
+
+Google
+sanoo
+,
+että
+Project
+Ara
+on
+edellyttänyt
+"
+paljon
+iteraatioita
+–
+enemmän
+kuin
+kuvittelimme
+"
+.
+
+<PARAGRAPH>
+Tämä
+voi
+kenties
+tarkoittaa
+sitä
+,
+että
+laitteet
+ovat
+vaatineet
+useampia
+prototyyppien
+sukupolvia
+kuin
+Google
+oli
+ennakoinut
+–
+toisin
+sanoen
+konseptin
+toteuttaminen
+on
+ehkä
+ollut
+luultua
+vaikeampaa
+.

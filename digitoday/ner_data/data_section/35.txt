@@ -1,19 +1,88 @@
 <HEADLINE>
- Nordea selvittää verkkopankin vikaa
+Nordea
+selvittää
+verkkopankin
+vikaa
 
 <DATE>
 24.8.2015 12:05 (päivitetty 13:48)
 
 <INGRESS>
-Nordean palveluissa on tällä hetkellä häiriöitä.  
+Nordean
+palveluissa
+on
+tällä
+hetkellä
+häiriöitä
+.
 
 <BODY>
-Nordean verkkopalvelut eivät tällä hetkellä toimi kaikilla käyttäjillä. Yhtiö selvittää vian syytä parhaillaan.
+<PARAGRAPH>
+Nordean
+verkkopalvelut
+eivät
+tällä
+hetkellä
+toimi
+kaikilla
+käyttäjillä
+.
 
-Yhtiön mukaan häiriö koskee pitkälti verkkopankkia, eikä se vaikuta korttimaksamiseen.
+Yhtiö
+selvittää
+vian
+syytä
+parhaillaan
+.
 
-Nordean pankkipalveluissa oli laaja, suunniteltu huoltokatko sunnuntaina. Katko alkoi yöllä kolmelta ja päättyi eilen keskipäivällä.
+<PARAGRAPH>
+Yhtiön
+mukaan
+häiriö
+koskee
+pitkälti
+verkkopankkia
+,
+eikä
+se
+vaikuta
+korttimaksamiseen
+.
 
-Päivitys:  Nyt toiminta on palannut normaaliksi, joskin ajoittaista hitautta voi esiintyä.
+<PARAGRAPH>
+Nordean
+pankkipalveluissa
+oli
+laaja
+,
+suunniteltu
+huoltokatko
+sunnuntaina
+.
 
+Katko
+alkoi
+yöllä
+kolmelta
+ja
+päättyi
+eilen
+keskipäivällä
+.
 
+<PARAGRAPH>
+Päivitys
+:
+ 
+Nyt
+toiminta
+on
+palannut
+normaaliksi
+,
+joskin
+ajoittaista
+hitautta
+voi
+esiintyä
+.

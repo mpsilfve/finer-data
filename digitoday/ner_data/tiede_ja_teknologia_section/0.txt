@@ -1,25 +1,176 @@
 <HEADLINE>
- Nyt on pikseleitä: Canonilta pieni 250 megapikselin kamerakenno
+Nyt
+on
+pikseleitä
+:
+Canonilta
+pieni
+250
+megapikselin
+kamerakenno
 
 <DATE>
 8.9.2015 13:33
 
 <INGRESS>
-Canonin kehittämän kamerakennon koko on noin 2 x 3 senttimetriä.  
+Canonin
+kehittämän
+kamerakennon
+koko
+on
+noin
+2
+x
+3
+senttimetriä
+.
 
 <BODY>
-Kameravalmistaja Canon kertoo kehittäneensä tarkkuudeltaan 250 megapikselin kamerakennon. Yhtiön mukaan kyseessä on kokoluokkansa tarkin kamerakenno.
+<PARAGRAPH>
+Kameravalmistaja
+Canon
+kertoo
+kehittäneensä
+tarkkuudeltaan
+250
+megapikselin
+kamerakennon
+.
 
-APS-H-kokoluokan eli noin 29,2 x 20,2 millimetrin cmos-kenno pystyy tallentamaan kuvia 19 580 x 12 600 kuvapisteen tarkkuudella. Canonin mukaan vastaaviin tarkkuuksiin on päästy aiemmin vain täyskokoisella 35 millin kennolla.
+Yhtiön
+mukaan
+kyseessä
+on
+kokoluokkansa
+tarkin
+kamerakenno
+.
 
-Yhtiön tiedotteen mukana kennolla otetusta kuvasta pystyi erottamaan kirjaimet 18 kilometrin korkeudella lentäneen lentokoneen kyljestä.
+<PARAGRAPH>
+APS-H-kokoluokan
+eli
+noin
+29,2
+x
+20,2
+millimetrin
+cmos-kenno
+pystyy
+tallentamaan
+kuvia
+19
+580
+x
+12
+600
+kuvapisteen
+tarkkuudella
+.
 
-Kennolla kuvatun videon tarkkuus on noin 30-kertainen 4k-videoon verrattuna, mutta sitä kuvataan viiden ruudun sekuntinopeudella.
+Canonin
+mukaan
+vastaaviin
+tarkkuuksiin
+on
+päästy
+aiemmin
+vain
+täyskokoisella
+35
+millin
+kennolla
+.
 
-Canonin mukaan piirien kutistamisella ja signaaliprosessointia kehittämällä on pystyttyä väittämään suuripikselisiä kennoja häiritsevät ajoitusongelmat sekä signaaliviiveet.
+<PARAGRAPH>
+Yhtiön
+tiedotteen
+mukana
+kennolla
+otetusta
+kuvasta
+pystyi
+erottamaan
+kirjaimet
+18
+kilometrin
+korkeudella
+lentäneen
+lentokoneen
+kyljestä
+.
 
-Kenno ei liene löytämässä tietään heti kuluttajalaitteisiin. Canon sanoo harkitsevansa sen käyttöä valvontakameroissa, mittalaitteissa sekä teollisissa ympäristöissä.
+<PARAGRAPH>
+Kennolla
+kuvatun
+videon
+tarkkuus
+on
+noin
+30-kertainen
+4k
+-
+videoon
+verrattuna
+,
+mutta
+sitä
+kuvataan
+viiden
+ruudun
+sekuntinopeudella
+.
 
-Yhtiö ei kertonut, paljonko levytilaa yksi täyskokoinen kuva vie.
+<PARAGRAPH>
+Canonin
+mukaan
+piirien
+kutistamisella
+ja
+signaaliprosessointia
+kehittämällä
+on
+pystyttyä
+väittämään
+suuripikselisiä
+kennoja
+häiritsevät
+ajoitusongelmat
+sekä
+signaaliviiveet
+.
 
+<PARAGRAPH>
+Kenno
+ei
+liene
+löytämässä
+tietään
+heti
+kuluttajalaitteisiin
+.
 
+Canon
+sanoo
+harkitsevansa
+sen
+käyttöä
+valvontakameroissa
+,
+mittalaitteissa
+sekä
+teollisissa
+ympäristöissä
+.
+
+<PARAGRAPH>
+Yhtiö
+ei
+kertonut
+,
+paljonko
+levytilaa
+yksi
+täyskokoinen
+kuva
+vie
+.

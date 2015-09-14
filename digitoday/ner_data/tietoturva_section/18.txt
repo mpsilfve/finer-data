@@ -1,23 +1,174 @@
 <HEADLINE>
- BitTorrent-käyttäjät vaarassa — nämä ohjelmat ovat varmasti turvallisia
+BitTorrent-käyttäjät
+vaarassa
+—
+nämä
+ohjelmat
+ovat
+varmasti
+turvallisia
 
 <DATE>
 28.8.2015 10:37
 
 <INGRESS>
-Suositussa vertaisverkkoprotokollassa ollut haavoittuvuus mahdollisti uudentyyppisen palvelunestohyökkäyksen.  
+Suositussa
+vertaisverkkoprotokollassa
+ollut
+haavoittuvuus
+mahdollisti
+uudentyyppisen
+palvelunestohyökkäyksen
+.
 
 <BODY>
-BitTorrentin käyttämässä Micro Transport Protocol -kirjastossa (libuTP) ollutta vikaa käyttämällä vertaisverkossa olevan tietokoneen pystyi helposti valjastamaan palvelunestohyökkäykseen, kertoo ArsTechnica.
+<PARAGRAPH>
+BitTorrentin
+käyttämässä
+Micro
+Transport
+Protocol
+-kirjastossa
+(
+libuTP
+)
+ollutta
+vikaa
+käyttämällä
+vertaisverkossa
+olevan
+tietokoneen
+pystyi
+helposti
+valjastamaan
+palvelunestohyökkäykseen
+,
+kertoo
+ArsTechnica
+.
 
-Lähettämällä haavoittuvalle torrent-sovellukselle pahantahtoisen paketin, sai tämän lähettämään 50–120 kertaa isomman datamäärän takaisin.
+<PARAGRAPH>
+Lähettämällä
+haavoittuvalle
+torrent-sovellukselle
+pahantahtoisen
+paketin
+,
+sai
+tämän
+lähettämään
+50–120
+kertaa
+isomman
+datamäärän
+takaisin
+.
 
-Kun samalla käytti tekniikkaa, joka huijasi lähettäjän verkko-osoitteen toiseksi, pystyi yksinkertaisilla kutsuilla pyytää vertaisverkosta suuria määriä liikennettä kohdekoneeseen ylikuormittaen sen.
+<PARAGRAPH>
+Kun
+samalla
+käytti
+tekniikkaa
+,
+joka
+huijasi
+lähettäjän
+verkko-osoitteen
+toiseksi
+,
+pystyi
+yksinkertaisilla
+kutsuilla
+pyytää
+vertaisverkosta
+suuria
+määriä
+liikennettä
+kohdekoneeseen
+ylikuormittaen
+sen
+.
 
-Aukko on nyt korjattu ainakin BitTorrentin omissa uTorrent-, BitTorrent-, ja BitTorrent Sync -sovelluksissa, joten päivittämällä sovelluksensa pääsee uhkasta eroon.
+<PARAGRAPH>
+Aukko
+on
+nyt
+korjattu
+ainakin
+BitTorrentin
+omissa
+uTorrent-,
+BitTorrent-,
+ja
+BitTorrent
+Sync
+-sovelluksissa
+,
+joten
+päivittämällä
+sovelluksensa
+pääsee
+uhkasta
+eroon
+.
 
-Kaikkia muiden valmistajien libuTP:tä käyttäviä sovelluksia ei välttämättä ole vielä päivitetty, joten sellaisten käyttöä voi kannattaa välttää, kunnes päivitys tapahtuu. Esimerkiksi myös Vuze, KTorrent, qBittorrent, Tixati, ja Transmission käyttävät libuTP:tä.
+<PARAGRAPH>
+Kaikkia
+muiden
+valmistajien
+libuTP
+:
+tä
+käyttäviä
+sovelluksia
+ei
+välttämättä
+ole
+vielä
+päivitetty
+,
+joten
+sellaisten
+käyttöä
+voi
+kannattaa
+välttää
+,
+kunnes
+päivitys
+tapahtuu
+.
 
-Ei ole näyttöä siitä, että tätä hyökkäystä olisi vielä oikeasti käytetty verkossa.
+Esimerkiksi
+myös
+Vuze
+,
+KTorrent
+,
+qBittorrent
+,
+Tixati
+,
+ja
+Transmission
+käyttävät
+libuTP
+:
+tä
+.
 
-
+<PARAGRAPH>
+Ei
+ole
+näyttöä
+siitä
+,
+että
+tätä
+hyökkäystä
+olisi
+vielä
+oikeasti
+käytetty
+verkossa
+.

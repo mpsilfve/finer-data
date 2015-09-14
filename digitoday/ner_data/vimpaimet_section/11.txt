@@ -1,17 +1,98 @@
 <HEADLINE>
- Tarkista HP-kannettava: Ilkeä haavoittuvuus uhkaa
+Tarkista
+HP-kannettava
+:
+Ilkeä
+haavoittuvuus
+uhkaa
 
 <DATE>
 31.8.2015 16:44
 
 <INGRESS>
-Hewlett-Packardin monissa yrityskannettavissa voi olla haavoittuvuus, jolla koneen saa kaapattua haltuun.  
+Hewlett-Packardin
+monissa
+yrityskannettavissa
+voi
+olla
+haavoittuvuus
+,
+jolla
+koneen
+saa
+kaapattua
+haltuun
+.
 
 <BODY>
-Viestintäviraston mukaan tietyistä yrityskäyttöön tarkoitetuista HP:n kannettavista tietokoneista on löytynyt kaksi haavoittuvuutta, joista vakavampi sallii hyökkääjälle mielivaltaisten komentojen suorittamisen kaukaa.
+<PARAGRAPH>
+Viestintäviraston
+mukaan
+tietyistä
+yrityskäyttöön
+tarkoitetuista
+HP:n
+kannettavista
+tietokoneista
+on
+löytynyt
+kaksi
+haavoittuvuutta
+,
+joista
+vakavampi
+sallii
+hyökkääjälle
+mielivaltaisten
+komentojen
+suorittamisen
+kaukaa
+.
 
-Tiedotteessa listataan lähemmäs 40 tietokonemallia, jotka voivat kärsiä aukosta. Mallin lisäksi koneessa on oltava HP lt4112 LTE/HSPA+ Gobi 4G -moduuli ja versiota 12.500.00.15.1803 vanhempi firmware.
+<PARAGRAPH>
+Tiedotteessa
+listataan
+lähemmäs
+40
+tietokonemallia
+,
+jotka
+voivat
+kärsiä
+aukosta
+.
 
-HP on julkaissut haavoittuvuuksiin korjauksen.
+Mallin
+lisäksi
+koneessa
+on
+oltava
+HP
+lt4112
+LTE
+/
+HSPA
++
+Gobi
+4G
+-moduuli
+ja
+versiota
+12.500
+.
 
+00.15
+.
 
+1803
+vanhempi
+firmware
+.
+
+<PARAGRAPH>
+HP
+on
+julkaissut
+haavoittuvuuksiin
+korjauksen
+.

@@ -1,21 +1,170 @@
 <HEADLINE>
- MTV: Nokian kiristäjä yhä arvoitus — tutkinta jäissä
+MTV
+:
+Nokian
+kiristäjä
+yhä
+arvoitus
+—
+tutkinta
+jäissä
 
 <DATE>
 22.7.2015 13:34
 
 <INGRESS>
-KRP:n tutkinta Nokian kiristyksestä on tällä hetkellä keskeytetty.  
+KRP:n
+tutkinta
+Nokian
+kiristyksestä
+on
+tällä
+hetkellä
+keskeytetty
+.
 
 <BODY>
-Nokialta miljoonia euroja kiristänyttä tahoa ei ole vielä saatu selvitettyä, kirjoittaa MTV Uutiset. MTV kertoi viime vuonna, että Nokia maksoi vuosien 2007-2008 tienoilla useita miljoonia euroja kiristäjälle, joka uhkasi Nokiaa matkapuhelinten salauskoodin paljastamisella.
+<PARAGRAPH>
+Nokialta
+miljoonia
+euroja
+kiristänyttä
+tahoa
+ei
+ole
+vielä
+saatu
+selvitettyä
+,
+kirjoittaa
+MTV
+Uutiset
+.
 
-KRP:n rikosylikomisario Tero Haapala sanoo MTV:lle, että tutkinta on tällä hetkellä keskeytetty. Haapala kertoo, että tapauksesta ei ole tullut poliisille juuri uutta tietoa.
+MTV
+kertoi
+viime
+vuonna
+,
+että
+Nokia
+maksoi
+vuosien
+2007
+-
+2008
+tienoilla
+useita
+miljoonia
+euroja
+kiristäjälle
+,
+joka
+uhkasi
+Nokiaa
+matkapuhelinten
+salauskoodin
+paljastamisella
+.
 
-Kiristäjällä oli MTV:n tietojen mukaan hallussaan Symbian-puhelinten kirjoitussalausavain. Jos koodia olisi levitetty, ei Nokia olisi voinut taata, että puhelimiin päätyy vain Nokian hyväksymiä ohjelmia.
+<PARAGRAPH>
+KRP:n
+rikosylikomisario
+Tero
+Haapala
+sanoo
+MTV:lle
+,
+että
+tutkinta
+on
+tällä
+hetkellä
+keskeytetty
+.
 
-Nokia uskoi, että kiristäjä tai kiristäjät olivat suomalaisia, jotka työskentelivät Symbianin tutkimus- ja tuotekehityksessä.
+Haapala
+kertoo
+,
+että
+tapauksesta
+ei
+ole
+tullut
+poliisille
+juuri
+uutta
+tietoa
+.
 
-Nokia taipui kiristykseen ja maksoi miljoonien eurojen lunnaat. Niistä puolet toimitettiin käteisenä ja puolet kiristäjän vaatimuksesta hyväntekeväisyyteen.
+<PARAGRAPH>
+Kiristäjällä
+oli
+MTV:n
+tietojen
+mukaan
+hallussaan
+Symbian-puhelinten
+kirjoitussalausavain
+.
 
+Jos
+koodia
+olisi
+levitetty
+,
+ei
+Nokia
+olisi
+voinut
+taata
+,
+että
+puhelimiin
+päätyy
+vain
+Nokian
+hyväksymiä
+ohjelmia
+.
 
+<PARAGRAPH>
+Nokia
+uskoi
+,
+että
+kiristäjä
+tai
+kiristäjät
+olivat
+suomalaisia
+,
+jotka
+työskentelivät
+Symbianin
+tutkimus-
+ja
+tuotekehityksessä
+.
+
+<PARAGRAPH>
+Nokia
+taipui
+kiristykseen
+ja
+maksoi
+miljoonien
+eurojen
+lunnaat
+.
+
+Niistä
+puolet
+toimitettiin
+käteisenä
+ja
+puolet
+kiristäjän
+vaatimuksesta
+hyväntekeväisyyteen
+.

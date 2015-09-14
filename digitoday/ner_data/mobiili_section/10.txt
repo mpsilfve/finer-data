@@ -1,19 +1,161 @@
 <HEADLINE>
- Luulotautisen kirous: Google tarjoaa sairauksien kuvauksia
+Luulotautisen
+kirous
+:
+Google
+tarjoaa
+sairauksien
+kuvauksia
 
 <DATE>
 4.9.2015 08:14
 
 <INGRESS>
-Google lisää 500 uutta tautia terveyspalveluunsa. Nyt sieltä pitäisi löytyä tauti kriittisimmänkin luulotautisen tarpeisiin.  
+Google
+lisää
+500
+uutta
+tautia
+terveyspalveluunsa
+.
+
+Nyt
+sieltä
+pitäisi
+löytyä
+tauti
+kriittisimmänkin
+luulotautisen
+tarpeisiin
+.
 
 <BODY>
-Helmikuussa Google avasi hakukoneeseensa erityispiirteen, joka auttaa hakijaa löytämään oireisiinsa sopivan taudin 400 joukosta. Torstaina Google kertoi blogissaan, että tautikanta on kohta kasvatettu 900:aan. Mukana on myös harvinaisia trooppisia tauteja kuten chikungunya.
+<PARAGRAPH>
+Helmikuussa
+Google
+avasi
+hakukoneeseensa
+erityispiirteen
+,
+joka
+auttaa
+hakijaa
+löytämään
+oireisiinsa
+sopivan
+taudin
+400
+joukosta
+.
 
-Tällä hetkellä palvelu on saatavissa vain englanninkielisenä, mutta lisää kieliä on tulossa. Lääkärien toivomuksesta palvelu tarjoaa myös mahdollisuuden tulostaa pdf-paperi otettavaksi mukaan vastaanotolle.
+Torstaina
+Google
+kertoi
+blogissaan
+,
+että
+tautikanta
+on
+kohta
+kasvatettu
+900:aan
+.
 
-Googlen blogin mukaan sairausluettelon kaksinkertaistamiseen innoitti suhteellisen harvinaisen legioonalaistaudin puhkeaminen New Yorkissa elokuussa. Taudin googlausmäärät kasvoivat yli tuhat prosenttia.
+Mukana
+on
+myös
+harvinaisia
+trooppisia
+tauteja
+kuten
+chikungunya
+.
 
-Tautikuvaukset ovat osa Googlen Knowledge Graph -tietokantaa, joka tarjoaa ammattilaisten tarkastamaa tietoa. Oireitaan googlaava saa hakutulosten oikealle puolelle tietolaatikon, jossa kerrotaan taudin yleisimmät oireet, hoidot ja sen esiintyvyys.
+<PARAGRAPH>
+Tällä
+hetkellä
+palvelu
+on
+saatavissa
+vain
+englanninkielisenä
+,
+mutta
+lisää
+kieliä
+on
+tulossa
+.
 
+Lääkärien
+toivomuksesta
+palvelu
+tarjoaa
+myös
+mahdollisuuden
+tulostaa
+pdf-paperi
+otettavaksi
+mukaan
+vastaanotolle
+.
 
+<PARAGRAPH>
+Googlen
+blogin
+mukaan
+sairausluettelon
+kaksinkertaistamiseen
+innoitti
+suhteellisen
+harvinaisen
+legioonalaistaudin
+puhkeaminen
+New
+Yorkissa
+elokuussa
+.
+
+Taudin
+googlausmäärät
+kasvoivat
+yli
+tuhat
+prosenttia
+.
+
+<PARAGRAPH>
+Tautikuvaukset
+ovat
+osa
+Googlen
+Knowledge
+Graph
+-tietokantaa
+,
+joka
+tarjoaa
+ammattilaisten
+tarkastamaa
+tietoa
+.
+
+Oireitaan
+googlaava
+saa
+hakutulosten
+oikealle
+puolelle
+tietolaatikon
+,
+jossa
+kerrotaan
+taudin
+yleisimmät
+oireet
+,
+hoidot
+ja
+sen
+esiintyvyys
+.

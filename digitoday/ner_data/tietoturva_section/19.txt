@@ -1,19 +1,148 @@
 <HEADLINE>
- Suomi nappasi epäillyn venäläiskrakkerin
+Suomi
+nappasi
+epäillyn
+venäläiskrakkerin
 
 <DATE>
 27.8.2015 14:00
 
 <INGRESS>
-Venäläismies on asetettu Yhdysvalloissa syytteeseen tietokonepetoksista ja väärinkäytöksistä.  
+Venäläismies
+on
+asetettu
+Yhdysvalloissa
+syytteeseen
+tietokonepetoksista
+ja
+väärinkäytöksistä
+.
 
 <BODY>
-Venäläinen Maksim Senakh otettiin elokuun alussa säilöön Suomessa Yhdysvaltojen oikeusministeriön pyynnöstä, oikeusministeriö kertoo tiedotteessaan.
+<PARAGRAPH>
+Venäläinen
+Maksim
+Senakh
+otettiin
+elokuun
+alussa
+säilöön
+Suomessa
+Yhdysvaltojen
+oikeusministeriön
+pyynnöstä
+,
+oikeusministeriö
+kertoo
+tiedotteessaan
+.
 
-Senakh on asetettu Minnesotan osavaltiossa syytteeseen useista tietokonepetoksista ja väärinkäytöksistä, ja hänen epäillään saaneen merkittävää hyötyä rikollisesta toiminnastaan. Yhdysvaltalainen tuomioistuin on määrännyt Senakhin vangittavaksi.
+<PARAGRAPH>
+Senakh
+on
+asetettu
+Minnesotan
+osavaltiossa
+syytteeseen
+useista
+tietokonepetoksista
+ja
+väärinkäytöksistä
+,
+ja
+hänen
+epäillään
+saaneen
+merkittävää
+hyötyä
+rikollisesta
+toiminnastaan
+.
 
-Säilöönotto perustui oikeusministeriön mukaan Suomen ja Yhdysvaltojen väliseen sopimukseen, joka koskee rikoksen takia tapahtuvaa luovuttamista. Sen mukaan rikoksesta epäilty henkilö voidaan ottaa säilöön luovuttamisen turvaamiseksi, vaikka pyyntöä hänen luovuttamisekseen ei ole vielä esitetty.
+Yhdysvaltalainen
+tuomioistuin
+on
+määrännyt
+Senakhin
+vangittavaksi
+.
 
-Yhdysvaltojen pitää tehdä virallinen luovutuspyyntö 45 päivän kuluessa säilöön ottamisesta. Sen jälkeen keskusrikospoliisi tekee luovutustutkinnan ja oikeusministeriö pyytää korkeimmalta oikeudelta lausunnon. Jos oikeuden mukaan luovuttamiselle ei ole edellytyksiä, oikeusministeriön pitää hylätä luovutuspyyntö.
+<PARAGRAPH>
+Säilöönotto
+perustui
+oikeusministeriön
+mukaan
+Suomen
+ja
+Yhdysvaltojen
+väliseen
+sopimukseen
+,
+joka
+koskee
+rikoksen
+takia
+tapahtuvaa
+luovuttamista
+.
 
+Sen
+mukaan
+rikoksesta
+epäilty
+henkilö
+voidaan
+ottaa
+säilöön
+luovuttamisen
+turvaamiseksi
+,
+vaikka
+pyyntöä
+hänen
+luovuttamisekseen
+ei
+ole
+vielä
+esitetty
+.
 
+<PARAGRAPH>
+Yhdysvaltojen
+pitää
+tehdä
+virallinen
+luovutuspyyntö
+45
+päivän
+kuluessa
+säilöön
+ottamisesta
+.
+
+Sen
+jälkeen
+keskusrikospoliisi
+tekee
+luovutustutkinnan
+ja
+oikeusministeriö
+pyytää
+korkeimmalta
+oikeudelta
+lausunnon
+.
+
+Jos
+oikeuden
+mukaan
+luovuttamiselle
+ei
+ole
+edellytyksiä
+,
+oikeusministeriön
+pitää
+hylätä
+luovutuspyyntö
+.

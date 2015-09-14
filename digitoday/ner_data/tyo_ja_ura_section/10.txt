@@ -1,21 +1,179 @@
 <HEADLINE>
- Hakkerit iskivät autoihin: Päätyivät Uberin palkkalistoille
+Hakkerit
+iskivät
+autoihin
+:
+Päätyivät
+Uberin
+palkkalistoille
 
 <DATE>
 31.8.2015 13:56
 
 <INGRESS>
-Uberilla on tietoturvassaan tahroja, joita tunnetut hakkerit lähtevät osaltaan puhdistamaan.  
+Uberilla
+on
+tietoturvassaan
+tahroja
+,
+joita
+tunnetut
+hakkerit
+lähtevät
+osaltaan
+puhdistamaan
+.
 
 <BODY>
-Kaksi tunnettua hakkeria pääsi kyytipalvelu Uberin palkkalistoille, muun muassa The New York Times kertoo. Uber otti töihin Charlie Millerin ja Chris Valasekin, jotka viimeksi kohahduttivat heinäkuussa esittelemällä, miten Fiat Chryslerin autoja voi kaapata etähallintaan.
+<PARAGRAPH>
+Kaksi
+tunnettua
+hakkeria
+pääsi
+kyytipalvelu
+Uberin
+palkkalistoille
+,
+muun
+muassa
+The
+New
+York
+Times
+kertoo
+.
 
-Kaksikko astuu Uberin Pittsburghin toimistoon, jossa kehitetään itsestään ajavia autoja ja robotiikkaa. Vaara autojen kyberkaappauksesta aletaan tunnustaa autoalalla ja Uberin kaltaisen yrityksen kohdalla se saattaa olla jopa kohtalokas, jos näin pääsee tapahtumaan edes kerran.
+Uber
+otti
+töihin
+Charlie
+Millerin
+ja
+Chris
+Valasekin
+,
+jotka
+viimeksi
+kohahduttivat
+heinäkuussa
+esittelemällä
+,
+miten
+Fiat
+Chryslerin
+autoja
+voi
+kaapata
+etähallintaan
+.
 
-Uber ilmoitti hakkerien työskentelevän läheisesti yhtiön turvallisuus- ja tietoturvajohtajien kanssa "maailmanluokan turvallisuusohjelman" rakentamiseksi.
+<PARAGRAPH>
+Kaksikko
+astuu
+Uberin
+Pittsburghin
+toimistoon
+,
+jossa
+kehitetään
+itsestään
+ajavia
+autoja
+ja
+robotiikkaa
+.
 
-Helmikuussa Uber kertoi, että siltä oli murrettu noin 50 000 kuljettajan henkilökohtaiset tiedot. Sen lisäksi Uber on syyllistynyt joidenkin asiakastietojen huolimattomaan säilytykseen, ja viime vuonna toimitusjohtaja kohahdutti halullaan vakoilla lehdistön edustajia.
+Vaara
+autojen
+kyberkaappauksesta
+aletaan
+tunnustaa
+autoalalla
+ja
+Uberin
+kaltaisen
+yrityksen
+kohdalla
+se
+saattaa
+olla
+jopa
+kohtalokas
+,
+jos
+näin
+pääsee
+tapahtumaan
+edes
+kerran
+.
 
-Uber kiisti vakoiluhalut, mutta yksi toimittaja oli tästä varsin epäileväinen.
+<PARAGRAPH>
+Uber
+ilmoitti
+hakkerien
+työskentelevän
+läheisesti
+yhtiön
+turvallisuus-
+ja
+tietoturvajohtajien
+kanssa
+"
+maailmanluokan
+turvallisuusohjelman
+"
+rakentamiseksi
+.
 
+<PARAGRAPH>
+Helmikuussa
+Uber
+kertoi
+,
+että
+siltä
+oli
+murrettu
+noin
+50
+000
+kuljettajan
+henkilökohtaiset
+tiedot
+.
 
+Sen
+lisäksi
+Uber
+on
+syyllistynyt
+joidenkin
+asiakastietojen
+huolimattomaan
+säilytykseen
+,
+ja
+viime
+vuonna
+toimitusjohtaja
+kohahdutti
+halullaan
+vakoilla
+lehdistön
+edustajia
+.
+
+<PARAGRAPH>
+Uber
+kiisti
+vakoiluhalut
+,
+mutta
+yksi
+toimittaja
+oli
+tästä
+varsin
+epäileväinen
+.

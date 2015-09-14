@@ -1,17 +1,132 @@
 <HEADLINE>
- Terveysalan sijoittajat innostuvat digitaalisesta kuntoilusta
+Terveysalan
+sijoittajat
+innostuvat
+digitaalisesta
+kuntoilusta
 
 <DATE>
 26.8.2015 09:20
 
 <INGRESS>
-Digitaaliset, verkotetut laitteet luovat suuria mahdollisuuksia terveysalalle. Niiden myynnin ennustetaan nousevan yli 80 miljoonaan kolmen vuoden päästä.  
+Digitaaliset
+,
+verkotetut
+laitteet
+luovat
+suuria
+mahdollisuuksia
+terveysalalle
+.
+
+Niiden
+myynnin
+ennustetaan
+nousevan
+yli
+80
+miljoonaan
+kolmen
+vuoden
+päästä
+.
 
 <BODY>
-Parks Associates ennustaa, että verkkoyhteydellä varustettujen liikunnan ja terveyden seurantalaitteiden vuosimyynti kasvaa viime vuoden 23 miljoonasta 82 miljoonaan vuonna 2019.
+<PARAGRAPH>
+Parks
+Associates
+ennustaa
+,
+että
+verkkoyhteydellä
+varustettujen
+liikunnan
+ja
+terveyden
+seurantalaitteiden
+vuosimyynti
+kasvaa
+viime
+vuoden
+23
+miljoonasta
+82
+miljoonaan
+vuonna
+2019.
 
-Markkinatutkimusyrityksen ennuste kattaa kuntoilurannekkeiden lisäksi myös sellaiset verkkoon yhteydessä olevat laitteet kuin vaa’at, verenpainemittarit, glukoosimittarit, kuluttajille myytävät happisaturaatiomittarit ja insuliinipumput. Se ennustaa niiden Yhdysvaltain myynnin kasvavan 17 miljoonaan laitteeseen vuonna 2019. Viime vuonna niitä myytiin 5,5 miljoonaa kappaletta.
+<PARAGRAPH>
+Markkinatutkimusyrityksen
+ennuste
+kattaa
+kuntoilurannekkeiden
+lisäksi
+myös
+sellaiset
+verkkoon
+yhteydessä
+olevat
+laitteet
+kuin
+vaa’at
+,
+verenpainemittarit
+,
+glukoosimittarit
+,
+kuluttajille
+myytävät
+happisaturaatiomittarit
+ja
+insuliinipumput
+.
 
-Parks Associates julkisti ennustelukujaan tiedotteessa, joka liittyy sen syyskuussa San Diegossa isännöimään Connected Health Summit -tapahtumaan, joka keskittyy uusien verkotettujen laitteiden luomiin sijoitusmahdollisuuksiin.
+Se
+ennustaa
+niiden
+Yhdysvaltain
+myynnin
+kasvavan
+17
+miljoonaan
+laitteeseen
+vuonna
+2019
+.
 
+Viime
+vuonna
+niitä
+myytiin
+5,5
+miljoonaa
+kappaletta
+.
 
+<PARAGRAPH>
+Parks
+Associates
+julkisti
+ennustelukujaan
+tiedotteessa
+,
+joka
+liittyy
+sen
+syyskuussa
+San
+Diegossa
+isännöimään
+Connected
+Health
+Summit
+-tapahtumaan
+,
+joka
+keskittyy
+uusien
+verkotettujen
+laitteiden
+luomiin
+sijoitusmahdollisuuksiin
+.

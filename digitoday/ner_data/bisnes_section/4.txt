@@ -1,25 +1,204 @@
 <HEADLINE>
- Tekes: Sijoitukset pelialaan tulivat 6—24-kertaisina takaisin
+Tekes
+:
+Sijoitukset
+pelialaan
+tulivat
+6—24
+-
+kertaisina
+takaisin
 
 <DATE>
 7.9.2015 15:37
 
 <INGRESS>
-Tekesin lukujen mukaan Suomen peliala on kasvanut liikevaihdoltaan melkein kahteen miljardiin euroon.  
+Tekesin
+lukujen
+mukaan
+Suomen
+peliala
+on
+kasvanut
+liikevaihdoltaan
+melkein
+kahteen
+miljardiin
+euroon
+.
 
 <BODY>
-Suomen peliala on kasvanut liikevaihdoltaan miljardibisnekseksi, käy ilmi Tekesin julkaisemasta 10 years of Tekes funding and networks for the Finnish game industry 2004-2014 -selvityksestä (pdf-linkki).
+<PARAGRAPH>
+Suomen
+peliala
+on
+kasvanut
+liikevaihdoltaan
+miljardibisnekseksi
+,
+käy
+ilmi
+Tekesin
+julkaisemasta
+10
+years
+of
+Tekes
+funding
+and
+networks
+for
+the
+Finnish
+game
+industry
+2004
+-
+2014
+-selvityksestä
+(
+pdf-linkki
+)
+.
 
-Vuonna 2004 Suomen pelialan liikevaihto oli 40 miljoonaa euroa ja nyt se on noussut 1,8 miljardiin. Peliala työllistää Suomessa tällä hetkellä noin 2500 ihmistä 260 yrityksessä.
+<PARAGRAPH>
+Vuonna
+2004
+Suomen
+pelialan
+liikevaihto
+oli
+40
+miljoonaa
+euroa
+ja
+nyt
+se
+on
+noussut
+1,8
+miljardiin
+.
 
-Vuonna 2013 peliala muodosti 10 prosenttia Suomen it-alan liikevaihdosta.
+Peliala
+työllistää
+Suomessa
+tällä
+hetkellä
+noin
+2500
+ihmistä
+260
+yrityksessä
+.
 
-Tekes kertoo rahoittaneensa kymmenen vuoden aikana yli 100 peliyritystä yhteensä 70 miljoonalla eurolla. Tämän lisäksi rahoittaja käynnisti vuonna 2012 Skene – Games Refueled -nimisen ohjelman auttamaan pelintekijöiden verkostumista ja rahoituksen hankkimista. Tekesin mukaan ohjelman puitteissa peliyritykset ovat saaneet yksityistä rahoitusta 70 miljoonan edestä.
+<PARAGRAPH>
+Vuonna
+2013
+peliala
+muodosti
+10
+prosenttia
+Suomen
+it-alan
+liikevaihdosta
+.
 
-Skene-ohjelman vetäjä Kari Korhonen sanoo Tekesin tiedotteessa sijoitusten maksaneen itsensä takaisin veronmaksajille 6–24-kertaisena. Korhonen sanoo myös uskovansa, että rahoituksen turvin pelialalle syntyy hi- tech-työpaikkoja ja osaamista, joka ei ole siirrettävissä ulkomaille.
+<PARAGRAPH>
+Tekes
+kertoo
+rahoittaneensa
+kymmenen
+vuoden
+aikana
+yli
+100
+peliyritystä
+yhteensä
+70
+miljoonalla
+eurolla
+.
 
-Besti Fiends -pelin nimi korjattu.
+Tämän
+lisäksi
+rahoittaja
+käynnisti
+vuonna
+2012
+Skene
+–
+Games
+Refueled
+-nimisen
+ohjelman
+auttamaan
+pelintekijöiden
+verkostumista
+ja
+rahoituksen
+hankkimista
+.
 
-  
+Tekesin
+mukaan
+ohjelman
+puitteissa
+peliyritykset
+ovat
+saaneet
+yksityistä
+rahoitusta
+70
+miljoonan
+edestä
+.
 
+<PARAGRAPH>
+Skene-ohjelman
+vetäjä
+Kari
+Korhonen
+sanoo
+Tekesin
+tiedotteessa
+sijoitusten
+maksaneen
+itsensä
+takaisin
+veronmaksajille
+6–24
+-
+kertaisena
+.
 
+Korhonen
+sanoo
+myös
+uskovansa
+,
+että
+rahoituksen
+turvin
+pelialalle
+syntyy
+hi
+-
+tech-työpaikkoja
+ja
+osaamista
+,
+joka
+ei
+ole
+siirrettävissä
+ulkomaille
+.
+
+<PARAGRAPH>
+Besti
+Fiends
+-pelin
+nimi
+korjattu
+.

@@ -1,27 +1,217 @@
 <HEADLINE>
- Minecraft-miljardööri tilittää: Rahalla ei saa onnea
+Minecraft-miljardööri
+tilittää
+:
+Rahalla
+ei
+saa
+onnea
 
 <DATE>
 31.8.2015 19:33
 
 <INGRESS>
-Minecraft-pelillä rikastunut Markus Persson julkaisi sarjan levottomia tviittejä viikonloppuna.  
+Minecraft-pelillä
+rikastunut
+Markus
+Persson
+julkaisi
+sarjan
+levottomia
+tviittejä
+viikonloppuna
+.
 
 <BODY>
-Miljardiomaisuuden haalinut Markus Persson valaisi avoimesti ajatuksiaan useissa Twitter-viesteissä lauantaina.
+<PARAGRAPH>
+Miljardiomaisuuden
+haalinut
+Markus
+Persson
+valaisi
+avoimesti
+ajatuksiaan
+useissa
+Twitter-viesteissä
+lauantaina
+.
 
-– Ongelma kaiken saamisessa on se, että yrittämiselle ei löydy enää syitä, ja vuorovaikutuksesta ihmisten kanssa tulee mahdotonta epätasapainon vuoksi, Persson maalaili tuntemuksiaan.
+<PARAGRAPH>
+–
+Ongelma
+kaiken
+saamisessa
+on
+se
+,
+että
+yrittämiselle
+ei
+löydy
+enää
+syitä
+,
+ja
+vuorovaikutuksesta
+ihmisten
+kanssa
+tulee
+mahdotonta
+epätasapainon
+vuoksi
+,
+Persson
+maalaili
+tuntemuksiaan
+.
 
-Microsoft osti Perssonin peliyhtiön Mojangin 1,9 miljardilla eurolla viime vuonna. Persson kuitenkin kirjoittaa rikkauksien varjopuolista.
+<PARAGRAPH>
+Microsoft
+osti
+Perssonin
+peliyhtiön
+Mojangin
+1,9
+miljardilla
+eurolla
+viime
+vuonna
+.
 
-– Löysin loistavan tytön, mutta hän pelkää minua ja elämäntapaani ja valitsi minun sijastani normaalin henkilön.
+Persson
+kuitenkin
+kirjoittaa
+rikkauksien
+varjopuolista
+.
 
-Markus Perssonin mukaan Mojangia myydessä hänelle tärkeintä oli varmistaa, että työntekijöistä huolehditaan, "ja he kaikki vihaavat minua nyt".
+<PARAGRAPH>
+–
+Löysin
+loistavan
+tytön
+,
+mutta
+hän
+pelkää
+minua
+ja
+elämäntapaani
+ja
+valitsi
+minun
+sijastani
+normaalin
+henkilön
+.
 
-Persson myös sanoo juhlivansa parhaillaan Ibizalla ystävien ja kuuluisuuksien kanssa, mutta hän ei ole koskaan tuntenut itseään eristyneemmäksi. Sama näyttää vaivaavan kotonakin.
+<PARAGRAPH>
+Markus
+Perssonin
+mukaan
+Mojangia
+myydessä
+hänelle
+tärkeintä
+oli
+varmistaa
+,
+että
+työntekijöistä
+huolehditaan
+,
+"
+ja
+he
+kaikki
+vihaavat
+minua
+nyt
+"
+.
 
-– Ruotsissa istuskelen ja odotan, että työssäkäyvillä ja perheellisillä ystävilläni on aikaa tehdä asioita, ja katson heijastustani näytöstä.
+<PARAGRAPH>
+Persson
+myös
+sanoo
+juhlivansa
+parhaillaan
+Ibizalla
+ystävien
+ja
+kuuluisuuksien
+kanssa
+,
+mutta
+hän
+ei
+ole
+koskaan
+tuntenut
+itseään
+eristyneemmäksi
+.
 
-Markus Perssonin mukaan muut äkkirikastuneet kertoivat, että hänen tuntemuksensa ovat normaaleja ja ne menevät ohitse. Lauantain jälkeen hänen Twitter-viestinsä ovat olleet iloisempia ja maanantaina hän korosti viettävänsä mukavaa päivää.
+Sama
+näyttää
+vaivaavan
+kotonakin
+.
 
+<PARAGRAPH>
+–
+Ruotsissa
+istuskelen
+ja
+odotan
+,
+että
+työssäkäyvillä
+ja
+perheellisillä
+ystävilläni
+on
+aikaa
+tehdä
+asioita
+,
+ja
+katson
+heijastustani
+näytöstä
+.
 
+<PARAGRAPH>
+Markus
+Perssonin
+mukaan
+muut
+äkkirikastuneet
+kertoivat
+,
+että
+hänen
+tuntemuksensa
+ovat
+normaaleja
+ja
+ne
+menevät
+ohitse
+.
+
+Lauantain
+jälkeen
+hänen
+Twitter-viestinsä
+ovat
+olleet
+iloisempia
+ja
+maanantaina
+hän
+korosti
+viettävänsä
+mukavaa
+päivää
+.

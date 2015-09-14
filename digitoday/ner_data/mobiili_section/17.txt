@@ -1,23 +1,157 @@
 <HEADLINE>
- Huawei kopioi Nokian tunnuksen? "Liimaa ja leikkaa"
+Huawei
+kopioi
+Nokian
+tunnuksen
+?
+
+"
+Liimaa
+ja
+leikkaa
+"
 
 <DATE>
 2.9.2015 17:07
 
 <INGRESS>
-Huawein uuden puhelimen markkinointimateriaali muistuttaa ainakin joidenkin Twitter-käyttäjien mielestä Nokian yli toistakymmentä vuotta vanhaa tunnuskuvaa.  
+Huawein
+uuden
+puhelimen
+markkinointimateriaali
+muistuttaa
+ainakin
+joidenkin
+Twitter-käyttäjien
+mielestä
+Nokian
+yli
+toistakymmentä
+vuotta
+vanhaa
+tunnuskuvaa
+.
 
 <BODY>
-Kiinalainen elektroniikkavalmistaja Huawei on esitellyt uuden Mate S -puhelimensa IFA-kulutuselektroniikkamessuilla.
+<PARAGRAPH>
+Kiinalainen
+elektroniikkavalmistaja
+Huawei
+on
+esitellyt
+uuden
+Mate
+S
+-puhelimensa
+IFA-kulutuselektroniikkamessuilla
+.
 
-Julkistustilaisuudessa yhtiön kuluttajaliiketoiminnan johtaja Richard Yu vertasi 5,5 tuuman näytöllä varustettua metallikuorista laitetta erityisesti iPhone 6 -puhelimeen. Puhelimen erikoisuuksiin kuuluu muun muassa paineen tunnistava kosketusnäyttö, jollainen on huhujen mukaan tulossa myös seuraavaan iPhone-malliin.
+<PARAGRAPH>
+Julkistustilaisuudessa
+yhtiön
+kuluttajaliiketoiminnan
+johtaja
+Richard
+Yu
+vertasi
+5,5
+tuuman
+näytöllä
+varustettua
+metallikuorista
+laitetta
+erityisesti
+iPhone
+6
+-puhelimeen
+.
 
-Huawein julkistuksen perusteella yhtiö on saanut vaikutteita myös Nokialta. Yhtiö julkaisi uuden logokuvansa Twitterissä.
+Puhelimen
+erikoisuuksiin
+kuuluu
+muun
+muassa
+paineen
+tunnistava
+kosketusnäyttö
+,
+jollainen
+on
+huhujen
+mukaan
+tulossa
+myös
+seuraavaan
+iPhone-malliin
+.
 
-Yhdennäköisyyttä ei vähennä Huawein markkinointilause "Makes the connection", joka ei ole kaukana Nokian "Connecting people"-tunnuslauseesta.
+<PARAGRAPH>
+Huawein
+julkistuksen
+perusteella
+yhtiö
+on
+saanut
+vaikutteita
+myös
+Nokialta
+.
 
-– Liimaa ja leikkaa, kommentoi yksi Twitter-käyttäjä.
+Yhtiö
+julkaisi
+uuden
+logokuvansa
+Twitterissä
+.
 
-Sekä Huawein että Nokian kuvat perustunevat alunperin Michelangelon Aatamin luominen -freskoon Sikstuksen kappelissa Vatikaanissa.
+<PARAGRAPH>
+Yhdennäköisyyttä
+ei
+vähennä
+Huawein
+markkinointilause
+"
+Makes
+the
+connection
+"
+,
+joka
+ei
+ole
+kaukana
+Nokian
+"
+Connecting
+people
+"
+-tunnuslauseesta
+.
 
+<PARAGRAPH>
+–
+Liimaa
+ja
+leikkaa
+,
+kommentoi
+yksi
+Twitter-käyttäjä
+.
 
+<PARAGRAPH>
+Sekä
+Huawein
+että
+Nokian
+kuvat
+perustunevat
+alunperin
+Michelangelon
+Aatamin
+luominen
+-freskoon
+Sikstuksen
+kappelissa
+Vatikaanissa
+.

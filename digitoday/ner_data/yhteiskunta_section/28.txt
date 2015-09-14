@@ -1,31 +1,257 @@
 <HEADLINE>
- Pettäjiä riepoteltiin jo — "Rikoksen uhreja"
+Pettäjiä
+riepoteltiin
+jo
+—
+"
+Rikoksen
+uhreja
+"
 
 <DATE>
 20.8.2015 16:20
 
 <INGRESS>
-F-Securen tutkimusjohtaja Mikko Hyppönen muistuttaa, että Ashley Madisonin käyttäjät ovat tietomurtorikoksen uhreja. Hän pyytää ihmisiä olemaan revittelemättä nimillä.  
+F-Securen
+tutkimusjohtaja
+Mikko
+Hyppönen
+muistuttaa
+,
+että
+Ashley
+Madisonin
+käyttäjät
+ovat
+tietomurtorikoksen
+uhreja
+.
+
+Hän
+pyytää
+ihmisiä
+olemaan
+revittelemättä
+nimillä
+.
 
 <BODY>
-Verkossa kiertävä pettämispalvelu Ashley Madisonin käyttäjätiedot alkavat valua tavallisten verkonkäyttäjien ulottuville. Esimerkiksi Vauva-lehden keskustelufoorumilla listattiin palvelun suomalaiskäyttäjiä, mutta ylläpito poisti keskustelun.
+<PARAGRAPH>
+Verkossa
+kiertävä
+pettämispalvelu
+Ashley
+Madisonin
+käyttäjätiedot
+alkavat
+valua
+tavallisten
+verkonkäyttäjien
+ulottuville
+.
 
-Kaikkia listalta löytyneitä ei kannata lähetä tuomitsemaan, sillä ihmisten nimet ovat saattaneet päätyä palveluun näiden tietämättä.
+Esimerkiksi
+Vauva
+-
+lehden
+keskustelufoorumilla
+listattiin
+palvelun
+suomalaiskäyttäjiä
+,
+mutta
+ylläpito
+poisti
+keskustelun
+.
 
-— Seassa voi olla tilejä, jotka on tarkoituksella tehty toisen henkilön nimissä ja käyttäen hänen osoitettaan. Palvelu ei varmenna sähköpostiosoitteiden oikeellisuutta, sanoo F-Securen tutkimusjohtaja Mikko Hyppönen Digitodaylle.
+<PARAGRAPH>
+Kaikkia
+listalta
+löytyneitä
+ei
+kannata
+lähetä
+tuomitsemaan
+,
+sillä
+ihmisten
+nimet
+ovat
+saattaneet
+päätyä
+palveluun
+näiden
+tietämättä
+.
 
-Tietokannassa on yli 16 900 .fi-päätteistä sähköpostiosoitetta. Osa on selvästi tekaistuja hömppäosoitteita.
+<PARAGRAPH>
+—
+Seassa
+voi
+olla
+tilejä
+,
+jotka
+on
+tarkoituksella
+tehty
+toisen
+henkilön
+nimissä
+ja
+käyttäen
+hänen
+osoitettaan
+.
 
-— Valtaosa osoitteista on kuitenkin lienee ihan oikeiden ihmisten osoitteita. Lisäksi vuodossa on mukana tuhansittain suomalaisia tilejä joiden osoite päätyy .com- tai .net-tunnukseen, Hyppönen toteaa.
+Palvelu
+ei
+varmenna
+sähköpostiosoitteiden
+oikeellisuutta
+,
+sanoo
+F-Securen
+tutkimusjohtaja
+Mikko
+Hyppönen
+Digitodaylle
+.
 
-Hyppönen arvioi suomalaisia löytyvän palvelusta kaikkiaan yli 20 000.
+<PARAGRAPH>
+Tietokannassa
+on
+yli
+16
+900
+.
 
-Sähköpostiosoitteiden lisäksi tietokannasta on kaivettu esiin ihmisten luottokorttitietoja. Näiden Hyppönen uskoo olevan aitoja.
+fi-päätteistä
+sähköpostiosoitetta
+.
 
-Paljastukset herättävät epäilemättä pahaa verta monessa. Hyppönen vetoaa kuitenkin ihmisiin:
+Osa
+on
+selvästi
+tekaistuja
+hömppäosoitteita
+.
 
-— Ei kannata ryhtyä vuotojen levittelyyn ja nimien revittelyyn. Täytyy muistaa, että ikävästä asiayhteydestä huolimatta listalta löytyvät ihmiset ovat tietomurtorikoksen uhreja.
+<PARAGRAPH>
+—
+Valtaosa
+osoitteista
+on
+kuitenkin
+lienee
+ihan
+oikeiden
+ihmisten
+osoitteita
+.
 
-Vauva on osa samaa Sanoma-konsernia kuin Digitoday.
+Lisäksi
+vuodossa
+on
+mukana
+tuhansittain
+suomalaisia
+tilejä
+joiden
+osoite
+päätyy
+.
 
+com
+-
+tai
+.
 
+net-tunnukseen
+,
+Hyppönen
+toteaa
+.
+
+<PARAGRAPH>
+Hyppönen
+arvioi
+suomalaisia
+löytyvän
+palvelusta
+kaikkiaan
+yli
+20
+000
+.
+
+<PARAGRAPH>
+Sähköpostiosoitteiden
+lisäksi
+tietokannasta
+on
+kaivettu
+esiin
+ihmisten
+luottokorttitietoja
+.
+
+Näiden
+Hyppönen
+uskoo
+olevan
+aitoja
+.
+
+<PARAGRAPH>
+Paljastukset
+herättävät
+epäilemättä
+pahaa
+verta
+monessa
+.
+
+Hyppönen
+vetoaa
+kuitenkin
+ihmisiin
+:
+
+<PARAGRAPH>
+—
+Ei
+kannata
+ryhtyä
+vuotojen
+levittelyyn
+ja
+nimien
+revittelyyn
+.
+
+Täytyy
+muistaa
+,
+että
+ikävästä
+asiayhteydestä
+huolimatta
+listalta
+löytyvät
+ihmiset
+ovat
+tietomurtorikoksen
+uhreja
+.
+
+<PARAGRAPH>
+Vauva
+on
+osa
+samaa
+Sanoma-konsernia
+kuin
+Digitoday
+.

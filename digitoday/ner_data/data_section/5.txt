@@ -1,25 +1,195 @@
 <HEADLINE>
- Onko sinulla joku näistä ulkoisista levyistä? Tiedostot voi varastaa jakorvata haitakkeilla
+Onko
+sinulla
+joku
+näistä
+ulkoisista
+levyistä
+?
+
+Tiedostot
+voi
+varastaa
+jakorvata
+haitakkeilla
 
 <DATE>
 7.9.2015 11:00
 
 <INGRESS>
-Seagaten ja LaCien wlan-kiintolevyistä on löytynyt kolme pahaa tietoturva- aukkoa.  
+Seagaten
+ja
+LaCien
+wlan-kiintolevyistä
+on
+löytynyt
+kolme
+pahaa
+tietoturva-
+aukkoa
+.
 
 <BODY>
-Seagaten ja LaCien nimellä myytävistä langattomista kiintolevyistä on löytynyt useita tietoturva-aukkoja, varoittaa Cert.org.
+<PARAGRAPH>
+Seagaten
+ja
+LaCien
+nimellä
+myytävistä
+langattomista
+kiintolevyistä
+on
+löytynyt
+useita
+tietoturva-aukkoja
+,
+varoittaa
+Cert
+.
 
-Ensimmäinen aukko on levylle piilotettu telnet-palvelu, jossa on vakiosalasana. Telnet-yhteydellä on mahdollista päästä käsiksi levyyn ulkoapäin pääkäyttäjän oikeuksin.
+org
+.
 
-Toinen haavoittuvuus on levyn oletusasetuksissa päällä oleva forced browsing -ominaisuus. Jos käyttäjällä on pääsy laitteeseen, hän pystyy lataamaan sen sisällön kokonaisuudessaan itselleen.
+<PARAGRAPH>
+Ensimmäinen
+aukko
+on
+levylle
+piilotettu
+telnet-palvelu
+,
+jossa
+on
+vakiosalasana
+.
 
-Kolmas haavoittuvuus antaa hyökkääjälle upload-oikeudet jakohakemistoksi tarkoitettuun /media/sda2:een.
+Telnet-yhteydellä
+on
+mahdollista
+päästä
+käsiksi
+levyyn
+ulkoapäin
+pääkäyttäjän
+oikeuksin
+.
 
-Jos hyökkääjällä on pääsy levyn sisältävään koti- tai yritysverkkoon, haavoittuvuuksia yhdistelemällä hän voi ladata itselleen levyn tiedostot ja korvata ne halutessaan haittaohjelmilla.
+<PARAGRAPH>
+Toinen
+haavoittuvuus
+on
+levyn
+oletusasetuksissa
+päällä
+oleva
+forced
+browsing
+-ominaisuus
+.
 
-Aukot koskevat Seagaten Wireless Plus Mobile Storage- ja Wireless Mobile Storage -tuotesarjoja sekä LaCien FUEL-levyjä.
+Jos
+käyttäjällä
+on
+pääsy
+laitteeseen
+,
+hän
+pystyy
+lataamaan
+sen
+sisällön
+kokonaisuudessaan
+itselleen
+.
 
-Haavoittuvuudet on korjattu levyjen 3.4.1.105-firmware-päivityksessä. Päivityksen voi ladata Seagaten sivulta, mutta se edellyttää levyn sarjanumeron antamista Seagatelle.
+<PARAGRAPH>
+Kolmas
+haavoittuvuus
+antaa
+hyökkääjälle
+upload-oikeudet
+jakohakemistoksi
+tarkoitettuun
+/
+media
+/
+sda2
+:
+een
+.
 
+<PARAGRAPH>
+Jos
+hyökkääjällä
+on
+pääsy
+levyn
+sisältävään
+koti-
+tai
+yritysverkkoon
+,
+haavoittuvuuksia
+yhdistelemällä
+hän
+voi
+ladata
+itselleen
+levyn
+tiedostot
+ja
+korvata
+ne
+halutessaan
+haittaohjelmilla
+.
 
+<PARAGRAPH>
+Aukot
+koskevat
+Seagaten
+Wireless
+Plus
+Mobile
+Storage
+-
+ja
+Wireless
+Mobile
+Storage
+-tuotesarjoja
+sekä
+LaCien
+FUEL-levyjä
+.
+
+<PARAGRAPH>
+Haavoittuvuudet
+on
+korjattu
+levyjen
+3.4
+.
+
+1
+.
+
+105
+-
+firmware-päivityksessä
+.
+
+Päivityksen
+voi
+ladata
+Seagaten
+sivulta
+,
+mutta
+se
+edellyttää
+levyn
+sarjanumeron
+antamista
+Seagatelle
+.
