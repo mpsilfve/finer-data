@@ -1,2 +1,11 @@
-Bisnes, 0.txt, 39: EU-viranomaisten, titteli?
+
+Bisnes, 0.txt, 39: EU-viranomaisten
+
+Titteli? En laittanut, kun ei spesifioi ketään tiettyä henkilöä: EU-viranomainen versus EU-viranomainen Virtanen
+ 
+Bisnes, 2.txt, 149-151: "Kiinan Google" Baidu
+
+Hankala. Laitoin B-ORG I-ORG B-ORG eli "Kiinan Google" on yksi määrittelevä entity Baidulle. Vrt. Presidentti Tarja Halonen
+
+
 

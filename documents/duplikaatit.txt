@@ -1,0 +1,3 @@
+
+Bisnes 0.txt ja 1.txt sama tiedosto.
+
