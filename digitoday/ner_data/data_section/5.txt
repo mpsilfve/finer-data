@@ -25,8 +25,7 @@ on
 löytynyt
 kolme
 pahaa
-tietoturva-
-aukkoa
+tietoturva-aukkoa
 .
 
 <BODY>
@@ -174,7 +173,9 @@ levyjen
 1
 .
 
-105-firmware-päivityksessä
+105
+-
+firmware-päivityksessä
 .
 
 Päivityksen

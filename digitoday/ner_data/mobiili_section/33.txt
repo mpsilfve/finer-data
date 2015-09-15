@@ -502,8 +502,7 @@ pitää
 kädessä
 ,
 erityisesti
-vaaka-
-asennossa
+vaaka-asennossa
 .
 
 <PARAGRAPH>
@@ -617,9 +616,7 @@ käyttämään
 Valitettavasti
 Aptoidesta
 haettujen
-Android
--
-sovelluksien
+Android-sovelluksien
 käyttö
 ei
 onnistunut
@@ -758,8 +755,7 @@ kikkailua
 ,
 mutta
 kuten
-Jolla-
-puhelimeen
+Jolla-puhelimeen
 ,
 myös
 Tabletille

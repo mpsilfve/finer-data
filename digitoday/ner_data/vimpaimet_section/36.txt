@@ -25,9 +25,7 @@ Test
 Drive
 -kampanja
 vokottelee
-iPhone
--
-käyttäjiä
+iPhone-käyttäjiä
 vaihtamaan
 leiriä
 .
@@ -42,9 +40,7 @@ Ultimate
 Test
 Drive
 sallii
-iPhone
--
-omistajien
+iPhone-omistajien
 kokeilla
 yhtä
 useammasta

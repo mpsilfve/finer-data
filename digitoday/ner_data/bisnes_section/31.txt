@@ -190,9 +190,7 @@ kameran
 ja
 kahden
 salaman
-4G
--
-puhelin
+4G-puhelin
 ,
 jossa
 on

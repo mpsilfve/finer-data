@@ -253,7 +253,8 @@ Inferse
 ja
 Indianan
 yliopiston
-uutispalvelu
+uutis
+palvelu
 .
 
 Yliopiston

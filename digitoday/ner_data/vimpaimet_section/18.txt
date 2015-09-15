@@ -37,8 +37,7 @@ Honor
 -puhelimensa
 .
 
-Honor-
-puhelinsarja
+Honor-puhelinsarja
 on
 luotu
 edulliseksi
@@ -103,9 +102,7 @@ Huawein
 Honor-puhelimien
 Itä-
 ja
-Pohjois
--
-Euroopan
+Pohjois-Euroopan
 tuotejohtaja
 Jin
 Yiming
@@ -188,9 +185,7 @@ markkinoille
 <PARAGRAPH>
 Esimerkiksi
 vakavan
-Stagefright
--
-haavoittuvuuden
+Stagefright-haavoittuvuuden
 on
 korjannut
 vasta

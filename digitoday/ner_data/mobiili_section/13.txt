@@ -47,8 +47,7 @@ Xperia
 Z5
 Premium
 -puhelimen
-IFA-
-messuilla
+IFA-messuilla
 Berliinissä
 .
 

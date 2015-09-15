@@ -240,8 +240,7 @@ Vantaa
 ,
 HUS
 ja
-KL-
-Kuntahankinnat
+KL-Kuntahankinnat
 tekevät
 päätökset
 hankinnasta

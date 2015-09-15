@@ -18,7 +18,9 @@ turvallinen
 <INGRESS>
 Turvallisuussivusto
 arvostelee
-Android-puhelimien
+Android
+-
+puhelimien
 AppLock-sovelluslukon
 turvallisuutta
 .
@@ -31,9 +33,7 @@ riippumaton
 Securiteam-verkkosivusto
 varoittaa
 suositusta
-AppLock
--
-nimisestä
+AppLock-nimisestä
 lukitussovelluksesta
 Androidille
 .

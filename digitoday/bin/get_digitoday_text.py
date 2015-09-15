@@ -1,13 +1,16 @@
 # -*- coding: utf-8 -*-
 
 from sys import stdin, stderr
-from html2text import html2text as h2t
+from html2text import html2text
 from re import sub
 from libhfst import load_pmatch
  
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
+
+def h2t(txt):
+    return html2text(txt).replace('^','-')
 
 def remove_links(stx):
     return sub(r'\[([^\]]*)\]\([^\)]*\)', r'\1', stx)
@@ -65,6 +68,9 @@ for line in stdin:
 # Get rid of non-breaking spaces which interfere with tokenization.
 data = data.replace(' ',' ')
 
+# html2text does weird things to dashes. So escape them.
+data = data.replace('-','^')
+
 title_start = data.find('<h1')
 data = data[title_start:]
 title_stop  = data.find('</h1>')
@@ -87,6 +93,7 @@ body_stop = data.rfind('</p>')
 body = h2t(data[:body_stop])
 
 title = unstx(title.replace('#','').replace('\n',''))
+
 title = tokenize(title, tokenizer, 0)
 print('<HEADLINE>')
 print(title)
@@ -94,7 +101,7 @@ print('')
 
 date = unstx(date.replace('\n',''))
 print('<DATE>')
-print(date.replace('\n',''))
+print(date)
 print('')
 
 ingress = unstx(ingress.replace('\n',' '))

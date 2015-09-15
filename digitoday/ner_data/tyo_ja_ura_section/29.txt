@@ -222,7 +222,9 @@ ohjelmistotiiminä
 ,
 kun
 vedin
-N9-Meego-puhelimen
+N9
+-
+Meego-puhelimen
 kehitystä
 Nokialla
 ,
@@ -331,8 +333,7 @@ Väyrysen
 mukaan
 vaativin
 osa
-Marshall-
-puhelimen
+Marshall-puhelimen
 suunnittelua
 .
 

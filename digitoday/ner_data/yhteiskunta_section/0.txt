@@ -121,9 +121,7 @@ Kiinasta
 joka
 kasvatti
 oman
-lte
--
-liittymämääränsä
+lte-liittymämääränsä
 225
 miljoonaan
 .
@@ -138,9 +136,7 @@ Aasiassa
 ja
 26
 prosenttia
-Pohjois
--
-Amerikassa
+Pohjois-Amerikassa
 .
 
 Juuri
@@ -191,7 +187,9 @@ lte
 stä
 .
 
-Perus-gsm-liittymien
+Perus
+-
+gsm-liittymien
 määrä
 kutistui
 98

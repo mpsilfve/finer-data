@@ -227,9 +227,7 @@ pärjäsi
 odotuksia
 heikommin
 ja
-OUYA
--
-konsolin
+OUYA-konsolin
 kehitys
 lopetettiin
 .

@@ -27,8 +27,7 @@ tänään
 uusia
 huippupuhelimiaan
 Berliinin
-IFA-
-kulutuselektroniikkamessuilla
+IFA-kulutuselektroniikkamessuilla
 .
 
 Kuvat
@@ -43,9 +42,7 @@ jo
 eilen
 ,
 kertoo
-Xperiablog
--
-verkkosivusto
+Xperiablog-verkkosivusto
 .
 
 <PARAGRAPH>
@@ -215,7 +212,9 @@ Z5
 -puhelimessa
 olisi
 1080p
-full-hd-näyttö
+full
+-
+hd-näyttö
 ja
 Compact-mallin
 näytön
@@ -233,5 +232,6 @@ löytyy
 muun
 muassa
 Xperablogin
-verkkosivuilta
+ve
+rkkosivuilta
 .

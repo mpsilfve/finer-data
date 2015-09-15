@@ -36,7 +36,8 @@ Corporationin
 Darkmatters-sivusto
 bongasi
 uuden
-variantin
+variant
+in
 vaarallisesta
 Zeus-haittaohjelmasta
 .
@@ -93,8 +94,7 @@ esimerkiksi
 toimii
 täysin
 salatun
-Tor-
-verkon
+Tor-verkon
 kautta
 ja
 on

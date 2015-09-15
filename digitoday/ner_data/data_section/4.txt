@@ -67,7 +67,8 @@ Phone
 -sovelluskaupasta
 ,
 tiedottaa
-Microsoft
+Microsof
+t
 ,
 eikä
 Microsoft

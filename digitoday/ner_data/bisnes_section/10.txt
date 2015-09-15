@@ -48,9 +48,7 @@ maailmassa
 oli
 1
 017
-mvno
--
-operaattoria
+mvno-operaattoria
 (
 mobile
 virtual

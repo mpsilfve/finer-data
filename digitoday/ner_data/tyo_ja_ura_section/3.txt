@@ -175,9 +175,7 @@ euroa
 seitsemän
 työntekijän
 ja
-ely
--
-keskuksille
+ely-keskuksille
 130
 000
 euroa

@@ -86,8 +86,7 @@ asemasta
 kun
 peruspuhelinten
 ja
-Lumia-
-älypuhelinten
+Lumia-älypuhelinten
 toimitukset
 laskettiin
 yhteen
@@ -154,8 +153,7 @@ peruspuhelimissa
 kun
 taas
 sen
-Lumia-
-älypuhelimet
+Lumia-älypuhelimet
 ovat
 odottavalla
 kannalla
@@ -175,7 +173,8 @@ SA
 n
 Neil
 Mawston
-tiedotteessa
+tie
+dotteessa
 .
 
 <PARAGRAPH>

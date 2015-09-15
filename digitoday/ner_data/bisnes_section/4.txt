@@ -180,9 +180,7 @@ rahoituksen
 turvin
 pelialalle
 syntyy
-hi
--
-tech-työpaikkoja
+hi-tech-työpaikkoja
 ja
 osaamista
 ,

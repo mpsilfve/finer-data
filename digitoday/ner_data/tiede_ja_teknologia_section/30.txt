@@ -116,9 +116,7 @@ verrattuna
 :
 Se
 toimii
-nfc
--
-päätteiden
+nfc-päätteiden
 lisäksi
 myös
 tavallisen

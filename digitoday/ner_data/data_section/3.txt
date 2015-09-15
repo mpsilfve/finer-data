@@ -94,9 +94,7 @@ ohjelmistoista
 .
 
 <PARAGRAPH>
-Kaspersky
--
-haavoittuvuus
+Kaspersky-haavoittuvuus
 mahdollistaa
 järjestelmään
 tunkeutumisen

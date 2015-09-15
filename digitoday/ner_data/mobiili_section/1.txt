@@ -16,9 +16,7 @@ Kyberturvallisuuskeskus
 erittelee
 kuusi
 uusinta
-Android
--
-uhkaa
+Android-uhkaa
 ja
 antaa
 myös
@@ -256,9 +254,7 @@ neuvoo
 6
 )
 käyttämään
-Android
--
-laitteessa
+Android-laitteessa
 jotain
 tietoturvatuotetta
 .

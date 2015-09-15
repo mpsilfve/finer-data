@@ -43,9 +43,7 @@ videoita
 voisi
 latailla
 mobiililaitteille
-offline
--
-katselua
+offline-katselua
 varten
 .
 
