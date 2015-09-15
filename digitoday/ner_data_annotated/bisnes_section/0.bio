@@ -1,0 +1,224 @@
+<HEADLINE>
+Apple	B-ORG
+joutumassa	O
+veromyrskyn	O
+silmään	O
+:	O
+Pelissä	O
+jopa	O
+17	O
+miljardia	O
+
+<DATE>
+09/08/15 10:48 AM	O
+
+<INGRESS>
+Irlanti	B-LOC
+valmistautuu	O
+pitkään	O
+oikeustaisteluun	O
+EU:ta	B-ORG
+vastaan	O
+,	O
+jos	O
+Applen	B-ORG
+verojärjestelyt	O
+maassa	O
+johtavat	O
+EU:n	B-ORG
+toimenpiteisiin	O
+.	O
+
+<BODY>
+<PARAGRAPH>
+Irlanti	B-LOC
+on	O
+mitä	O
+todennäköisimmin	O
+joutumassa	O
+EU-viranomaisten	O
+toimien	O
+kohteeksi	O
+maassa	O
+Euroopan-pääkonttoriaan	O
+pitävän	O
+Applen	B-ORG
+verojärjestelyjen	O
+vuoksi	O
+,	O
+kertoo	O
+uutistoimisto	O
+Bloomberg	B-ORG
+.	O
+
+<PARAGRAPH>
+Uutistoimiston	O
+lähteen	O
+mukaan	O
+Irlannin	B-LOC
+hallitus	O
+valmistautuu	O
+odotettavissa	O
+olevan	O
+EU:n	B-ORG
+päätöksen	O
+vastaiseen	O
+oikeustaisteluun	O
+,	O
+joka	O
+voi	O
+kestää	O
+vuosia	O
+.	O
+
+<PARAGRAPH>
+EU:n	B-ORG
+viime	O
+vuonna	O
+valmistuneessa	O
+alustavassa	O
+selvityksessä	O
+Applen	B-ORG
+verojärjestelyt	O
+Irlannissa	B-LOC
+todettiin	O
+kestämättömäksi	O
+.	O
+
+Yhtiö	O
+on	O
+maksanut	O
+liikevaihdostaan	O
+Euroopassa	B-LOC
+alle	O
+kahden	O
+prosentin	O
+veroa	O
+kymmenen	O
+vuoden	O
+ajan	O
+.	O
+
+Irlannin	B-LOC
+katsottiin	O
+hyväksyneen	O
+järjestelyn	O
+vastakauppana	O
+Applen	B-ORG
+maahan	O
+tuomista	O
+työpaikoista	O
+.	O
+
+<PARAGRAPH>
+EU	B-ORG
+on	O
+puuttumassa	O
+aktiivisesti	O
+veronkiertoon	O
+,	O
+jonka	O
+arvioidaan	O
+aiheuttavan	O
+tuhannen	O
+miljardin	O
+euron	O
+menetykset	O
+verotuloissa	O
+vuositasolla	O
+.	O
+
+<PARAGRAPH>
+Jos	O
+Irlanti	B-LOC
+häviäisi	O
+odotettavissa	O
+olevan	O
+oikeustaistelun	O
+,	O
+voisi	O
+Apple	B-ORG
+joutua	O
+maksamaan	O
+mittavat	O
+jälkiverot	O
+.	O
+
+Asiaa	O
+Bloombergille	B-ORG
+kommentoineen	O
+JPMorgan	B-ORG
+Chase	I-ORG
+&	I-ORG
+Con	I-ORG
+analyytikko	B-PER
+Rod	B-PER
+Hallin	I-PER
+mukaan	O
+summa	O
+voisi	O
+olla	O
+jopa	O
+17	O
+miljardia	O
+euroa	O
+.	O
+
+Käytännössä	O
+verojen	O
+suuruuden	O
+määrittäminen	O
+olisi	O
+kuitenkin	O
+hyvin	O
+vaikeaa	O
+.	O
+
+<PARAGRAPH>
+Apple	B-ORG
+on	O
+aikaisemmin	O
+kiistänyt	O
+harrastavansa	O
+veronkiertoa	O
+,	O
+eikä	O
+halunnut	O
+kommentoida	O
+Bloombergin	B-ORG
+väitteitä	O
+.	O
+
+Myöskään	O
+EU-komissio	B-ORG
+ei	O
+kommentoinut	O
+asiaa	O
+.	O
+
+Irlannin	B-LOC
+valtiovarainministeri	O
+korosti	O
+,	O
+että	O
+päätöstä	O
+ei	O
+ole	O
+vielä	O
+tehty	O
+.	O
+
+<PARAGRAPH>
+Applen	B-ORG
+lisäksi	O
+kilpailukomissaari	B-PER
+Margrethe	B-PER
+Vestager	I-PER
+tutkii	O
+Amazonin	B-ORG
+sekä	O
+Starbucksin	B-ORG
+toimia	O
+muualla	O
+Euroopassa	B-LOC
+.	O

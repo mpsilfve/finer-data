@@ -1,0 +1,204 @@
+<HEADLINE>
+Tekes	B-ORG
+:	O
+Sijoitukset	O
+pelialaan	O
+tulivat	O
+6—24	O
+-	O
+kertaisina	O
+takaisin	O
+
+<DATE>
+09/07/15 03:37 PM	O
+
+<INGRESS>
+Tekesin	B-ORG
+lukujen	O
+mukaan	O
+Suomen	B-LOC
+peliala	O
+on	O
+kasvanut	O
+liikevaihdoltaan	O
+melkein	O
+kahteen	O
+miljardiin	O
+euroon	O
+.	O
+
+<BODY>
+<PARAGRAPH>
+Suomen	B-LOC
+peliala	O
+on	O
+kasvanut	O
+liikevaihdoltaan	O
+miljardibisnekseksi	O
+,	O
+käy	O
+ilmi	O
+Tekesin	B-ORG
+julkaisemasta	O
+10	B-PRO
+years	I-PRO
+of	I-PRO
+Tekes	I-PRO
+funding	I-PRO
+and	I-PRO
+networks	I-PRO
+for	I-PRO
+the	I-PRO
+Finnish	I-PRO
+game	I-PRO
+industry	I-PRO
+2004	I-PRO
+-	I-PRO
+2014	I-PRO
+-selvityksestä	I-PRO
+(	O
+pdf-linkki	O
+)	O
+.	O
+
+<PARAGRAPH>
+Vuonna	O
+2004	O
+Suomen	B-LOC
+pelialan	O
+liikevaihto	O
+oli	O
+40	O
+miljoonaa	O
+euroa	O
+ja	O
+nyt	O
+se	O
+on	O
+noussut	O
+1.8	O
+miljardiin	O
+.	O
+
+Peliala	O
+työllistää	O
+Suomessa	B-LOC
+tällä	O
+hetkellä	O
+noin	O
+2500	O
+ihmistä	O
+260	O
+yrityksessä	O
+.	O
+
+<PARAGRAPH>
+Vuonna	O
+2013	O
+peliala	O
+muodosti	O
+10	O
+prosenttia	O
+Suomen	B-LOC
+it-alan	O
+liikevaihdosta	O
+.	O
+
+<PARAGRAPH>
+Tekes	B-ORG
+kertoo	O
+rahoittaneensa	O
+kymmenen	O
+vuoden	O
+aikana	O
+yli	O
+100	O
+peliyritystä	O
+yhteensä	O
+70	O
+miljoonalla	O
+eurolla	O
+.	O
+
+Tämän	O
+lisäksi	O
+rahoittaja	O
+käynnisti	O
+vuonna	O
+2012	O
+Skene	B-PRO
+–	I-PRO
+Games	I-PRO
+Refueled	I-PRO
+-nimisen	I-PRO
+ohjelman	I-PRO
+auttamaan	O
+pelintekijöiden	O
+verkostumista	O
+ja	O
+rahoituksen	O
+hankkimista	O
+.	O
+
+Tekesin	B-ORG
+mukaan	O
+ohjelman	O
+puitteissa	O
+peliyritykset	O
+ovat	O
+saaneet	O
+yksityistä	O
+rahoitusta	O
+70	O
+miljoonan	O
+edestä	O
+.	O
+
+<PARAGRAPH>
+Skene-ohjelman	B-PER
+vetäjä	I-PER
+Kari	B-PER
+Korhonen	I-PER
+sanoo	O
+Tekesin	B-ORG
+tiedotteessa	O
+sijoitusten	O
+maksaneen	O
+itsensä	O
+takaisin	O
+veronmaksajille	O
+6–24	O
+-	O
+kertaisena	O
+.	O
+
+Korhonen	B-PER
+sanoo	O
+myös	O
+uskovansa	O
+,	O
+että	O
+rahoituksen	O
+turvin	O
+pelialalle	O
+syntyy	O
+hi	O
+-	O
+tech-työpaikkoja	O
+ja	O
+osaamista	O
+,	O
+joka	O
+ei	O
+ole	O
+siirrettävissä	O
+ulkomaille	O
+.	O
+
+<PARAGRAPH>
+Besti	B-PRO
+Fiends	I-PRO
+-pelin	I-PRO
+nimi	O
+korjattu	O
+.	O
