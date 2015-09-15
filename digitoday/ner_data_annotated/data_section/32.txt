@@ -102,7 +102,6 @@ Android
 -
 tableteissa
 se
- 
 ei
 toimi
 ,

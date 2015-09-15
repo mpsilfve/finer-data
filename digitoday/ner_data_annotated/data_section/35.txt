@@ -73,7 +73,6 @@ keskipäivällä
 <PARAGRAPH>
 Päivitys
 :
- 
 Nyt
 toiminta
 on

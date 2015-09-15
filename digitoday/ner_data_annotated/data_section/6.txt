@@ -41,7 +41,6 @@ ovat
 itse
 julkaisseet
 tietonsa
- 
 kyytisovelluksen
 välityksellä
 .
