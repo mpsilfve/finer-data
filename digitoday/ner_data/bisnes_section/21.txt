@@ -34,9 +34,7 @@ Magazine
 kertoo
 Tor-verkossa
 toimineen
-Agora
--
-kauppapaikan
+Agora-kauppapaikan
 pistäneen
 toistaiseksi
 lapun

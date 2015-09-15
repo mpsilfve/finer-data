@@ -34,9 +34,7 @@ Intelin
 joissakin
 suorittimissa
 käytetyssä
-AMT
--
-hallintajärjestelmässä
+AMT-hallintajärjestelmässä
 (
 Active
 Management
@@ -82,9 +80,7 @@ tietokoneissa
 ja
 joissakin
 tietokoneissa
-AMT
--
-toiminnon
+AMT-toiminnon
 kytkeminen
 pois
 käytöstä

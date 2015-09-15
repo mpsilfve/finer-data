@@ -196,9 +196,7 @@ euroa
 kokoelmaan
 hankitaan
 aito
-Pong
--
-pelilaite
+Pong-pelilaite
 videopelaamisen
 alkuajoilta
 .

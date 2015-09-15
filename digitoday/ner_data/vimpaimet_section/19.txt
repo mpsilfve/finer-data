@@ -70,9 +70,7 @@ Lähteiden
 mukaan
 irtisanomiset
 tehtiin
-Lab126
--
-yksikössä
+Lab126-yksikössä
 ja
 liittyvät
 ainakin

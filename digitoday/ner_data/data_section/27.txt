@@ -45,9 +45,7 @@ Sphinx-niminen
 variantti
 on
 myynnissä
-0Day
--
-verkkokaupassa
+0Day-verkkokaupassa
 .
 
 <PARAGRAPH>

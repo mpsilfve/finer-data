@@ -4,9 +4,7 @@ lentävät
 tuskallisen
 hitaasti
 —
-Pluto
--
-luotaimen
+Pluto-luotaimen
 paras
 saalis
 vielämatkalla
@@ -17,9 +15,7 @@ vielämatkalla
 <INGRESS>
 Nasan
 mukaan
-Pluto
--
-luotaimen
+Pluto-luotaimen
 ottamat
 tarkimmat
 valokuvat

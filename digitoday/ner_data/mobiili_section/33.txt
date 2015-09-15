@@ -323,9 +323,7 @@ pääosin
 sulava
 .
 
-Android
--
-sovelluksiin
+Android-sovelluksiin
 siirtyessä
 kuvaelementit
 tosin
@@ -590,9 +588,7 @@ Tablet
 tarjoaa
 virallisesti
 kaksi
-Android
--
-sovellusten
+Android-sovellusten
 kauppaa
 :
 venäläinen
@@ -770,14 +766,10 @@ Tabletille
 on
 mahdollista
 asentaa
-Play
--
-kauppa
+Play-kauppa
 .
 
-Android
--
-tuen
+Android-tuen
 keskeneräisyyden
 takia
 emme
@@ -785,9 +777,7 @@ kuitenkaan
 edes
 yrittäneet
 asentaa
-Play
--
-kauppaa
+Play-kauppaa
 testilaitteeseen
 .
 

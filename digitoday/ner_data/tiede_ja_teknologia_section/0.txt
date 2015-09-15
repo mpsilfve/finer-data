@@ -107,9 +107,7 @@ tarkkuus
 on
 noin
 30-kertainen
-4k
--
-videoon
+4k-videoon
 verrattuna
 ,
 mutta

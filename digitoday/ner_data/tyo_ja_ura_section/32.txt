@@ -132,9 +132,7 @@ Suomesta
 
 <PARAGRAPH>
 Jos
-Nokia
--
-kaupan
+Nokia-kaupan
 alaskirjaus
 ja
 irtisanomisiin
@@ -194,9 +192,7 @@ muassa
 Bing
 -
 ,
-Azure
--
-,
+Azure-,
 ja
 Office
 365

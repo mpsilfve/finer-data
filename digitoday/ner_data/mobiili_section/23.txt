@@ -1,9 +1,7 @@
 <HEADLINE>
 225
 000
-Apple
--
-tiliä
+Apple-tiliä
 varastettu
 —
 uhrien
@@ -48,9 +46,7 @@ lainaa
 Jopa
 225
 000
-Apple
--
-tiliä
+Apple-tiliä
 on
 varastettu
 iPhone

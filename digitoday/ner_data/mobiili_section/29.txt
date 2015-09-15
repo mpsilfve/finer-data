@@ -214,9 +214,7 @@ alkaessa
 
 <PARAGRAPH>
 Älykellon
-3G
--
-versiossa
+3G-versiossa
 on
 virtuaalinen
 sim-kortti

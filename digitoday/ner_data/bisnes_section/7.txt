@@ -95,9 +95,7 @@ muuttujia
 kuin
 lavaesiintymisten
 ja
-Instagram
--
-seuraajien
+Instagram-seuraajien
 lukumäärä
 ,
 merkintöjen

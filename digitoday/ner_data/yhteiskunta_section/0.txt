@@ -80,9 +80,7 @@ nopeamman
 langattoman
 laajakaistan
 kuin
-3G
--
-verkot
+3G-verkot
 ja
 laitteet
 .
@@ -177,9 +175,7 @@ prosenttiin
 .
 
 Huhti–kesäkuussa
-3G
--
-liittymien
+3G-liittymien
 määrä
 kasvoi
 edelleen
@@ -195,9 +191,7 @@ lte
 stä
 .
 
-Perus
--
-gsm-liittymien
+Perus-gsm-liittymien
 määrä
 kutistui
 98

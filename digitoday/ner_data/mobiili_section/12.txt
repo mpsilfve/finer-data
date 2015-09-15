@@ -1,9 +1,7 @@
 <HEADLINE>
 Sony
 pakkasi
-4K
--
-pikselit
+4K-pikselit
 puhelimeen
 —
 mutta
@@ -37,9 +35,7 @@ valmistajana
 tuoda
 puhelimeensa
 huipputarkan
-4K
--
-näytön
+4K-näytön
 .
 
 <BODY>
@@ -62,9 +58,7 @@ sekä
 Compact
 -
 ja
-Premium
--
-mallit
+Premium-mallit
 .
 
 <PARAGRAPH>
@@ -112,9 +106,7 @@ fullhd-näyttö
 
 Pahimmassa
 tapauksessa
-4K
--
-näyttö
+4K-näyttö
 vain
 lisää
 akunkulutusta
@@ -122,9 +114,7 @@ akunkulutusta
 
 <PARAGRAPH>
 Pienimmän
-Compact
--
-mallin
+Compact-mallin
 näytön
 koko
 on
@@ -226,9 +216,7 @@ microsd-muistikorttipaikka
 .
 
 Kaikissa
-Z5
--
-malleissa
+Z5-malleissa
 on
 myös
 23
@@ -270,9 +258,7 @@ perusmallin
 2900
 mAh
 ja
-Premium
--
-mallin
+Premium-mallin
 3430
 mAh
 .
@@ -289,9 +275,7 @@ Xperia
 Z5
 lokakuussa
 ja
-Premium
--
-malli
+Premium-malli
 marraskuussa
 849
 euron

@@ -189,9 +189,7 @@ lopetti
 tv-ohjelmien
 tallennukseen
 tarkoitetun
-Nauhuri
--
-palvelunsa
+Nauhuri-palvelunsa
 ,
 joka
 oli

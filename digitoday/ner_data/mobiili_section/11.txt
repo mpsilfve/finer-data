@@ -1,12 +1,8 @@
 <HEADLINE>
 Mehustaako
 Apple
-iPhone
--
-julkistusta
-Pro
--
-tabletilla
+iPhone-julkistusta
+Pro-tabletilla
 ?
 
 <DATE>

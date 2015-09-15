@@ -137,9 +137,7 @@ saattaa
 heillä
 kaikilla
 on
-Nokia
--
-tausta
+Nokia-tausta
 .
 
 <PARAGRAPH>
@@ -224,9 +222,7 @@ ohjelmistotiiminä
 ,
 kun
 vedin
-N9
--
-Meego-puhelimen
+N9-Meego-puhelimen
 kehitystä
 Nokialla
 ,

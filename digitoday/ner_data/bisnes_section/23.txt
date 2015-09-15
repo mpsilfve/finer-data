@@ -149,7 +149,5 @@ mainosalusta
 muuntaa
 useimmat
 Flash-videot
-html5
--
-videoiksi
+html5-videoiksi
 .

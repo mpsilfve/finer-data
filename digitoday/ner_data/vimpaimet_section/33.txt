@@ -15,9 +15,7 @@ T1
 
 <INGRESS>
 Huawein
-T1
--
-laitteet
+T1-laitteet
 ovat
 kurkotus
 halvalla
@@ -130,9 +128,7 @@ euroa
 .
 
 Jos
-4g
--
-mobiilidatan
+4g-mobiilidatan
 jättää
 pois
 tai
@@ -586,9 +582,7 @@ käytettäessä
 .
 
 <PARAGRAPH>
-4g
--
-yhteys
+4g-yhteys
 vaikuttaa
 hieman
 ylimitoitetulta
@@ -604,9 +598,7 @@ mukaan
 olisi
 hölmöä
 ujuttaa
-3g
--
-yhteyttä
+3g-yhteyttä
 ,
 jos
 uudemman
@@ -821,9 +813,7 @@ Muuta
 |
 saatavilla
 myös
-4g
--
-versiona
+4g-versiona
 (
 mikro
 -

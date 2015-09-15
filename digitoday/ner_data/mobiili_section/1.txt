@@ -1,7 +1,5 @@
 <HEADLINE>
-Android
--
-aukot
+Android-aukot
 uhkaavat
 joka
 suunnasta
@@ -32,9 +30,7 @@ suojautumiseen
 <BODY>
 <PARAGRAPH>
 Googlen
-Android
--
-käyttöjärjestelmästä
+Android-käyttöjärjestelmästä
 on
 löydetty
 viime
@@ -172,9 +168,7 @@ että
 jopa
 Googlen
 virallisen
-Play
--
-kaupan
+Play-kaupan
 portit
 ovat
 toisinaan

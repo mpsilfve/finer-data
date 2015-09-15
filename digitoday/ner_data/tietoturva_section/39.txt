@@ -292,7 +292,5 @@ ohjata
 iOS
 -
 tai
-Android
--
-puhelimilla
+Android-puhelimilla
 .

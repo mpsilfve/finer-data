@@ -33,9 +33,7 @@ Musiikkipalvelu
 Spotify
 aikoo
 laajentaa
-Android
--
-sovelluksensa
+Android-sovelluksensa
 vaatimia
 oikeuksia
 .

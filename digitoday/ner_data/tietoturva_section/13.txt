@@ -96,12 +96,8 @@ Client
 Security
 Premium
 ,
-F
--
-Secure
-Anti
--
-Virus
+F-Secure
+Anti-Virus
 For
 Workstations
 ,
@@ -172,10 +168,6 @@ F-Secure
 Internet
 Security
 ja
-F
--
-Secure
-Anti
--
-Virus
+F-Secure
+Anti-Virus
 .

@@ -95,11 +95,7 @@ kautta
 on
 mahdollista
 tehdä
-cross
--
-site
--
-request-väärennös
+cross-site-request-väärennös
 ,
 eli
 hakkeri

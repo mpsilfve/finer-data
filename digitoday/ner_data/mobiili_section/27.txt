@@ -4,9 +4,7 @@ avioliitto
 :
 Google
 yhdisti
-Android
--
-älykellonsa
+Android-älykellonsa
 iPhoneen
 
 <DATE>

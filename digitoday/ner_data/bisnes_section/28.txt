@@ -15,9 +15,7 @@ tietoturva
 <INGRESS>
 Huawein
 oma
-Android
--
-versio
+Android-versio
 hidastaa
 tietoturvapäivitysten
 tekemistä
@@ -81,9 +79,7 @@ Huawei
 pyrkii
 erottumaan
 muista
-Android
--
-valmistajista
+Android-valmistajista
 ,
 on
 yhtiön
@@ -181,9 +177,7 @@ että
 myös
 monilla
 muilla
-Android
--
-valmistajilla
+Android-valmistajilla
 on
 vaikeuksia
 saada

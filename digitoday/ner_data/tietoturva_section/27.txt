@@ -46,9 +46,7 @@ ja
 muussa
 maassa
 toimiviin
-Politwoops
--
-sivustoihin
+Politwoops-sivustoihin
 ja
 Diplotwoops-sivuihin
 .

@@ -1,6 +1,5 @@
 Define omorfi @bin"omorfi/omorfi.accept.hfst";
 Define nonword Whitespace | Punct;
-Define sigma [q|w|e|r|t|y|u|i|o|p|å|a|s|d|f|g|h|j|k|l|ö|ä|z|x|c|v|b|n|m|Q|W|E|R|T|Y|U|I|O|P|Å|A|S|D|F|G|H|J|K|L|Ö|Ä|Z|X|C|V|B|N|M];
-Define word LC([nonword | #]) [\nonword+|(sigma+%-)Ins(omorfi)|%<HEADLINE%>|%<DATE%>|%<INGRESS%>|%<BODY%>] RC([nonword | #]);
+Define word LC([nonword | #]) [\nonword+|(\nonword+%-)*Ins(omorfi)|%<HEADLINE%>|%<DATE%>|%<INGRESS%>|%<BODY%>] RC([nonword | #]);
 Define token word | Punct;
 Define TOP token EndTag(token) 0:"\n";

@@ -1,8 +1,6 @@
 <HEADLINE>
 Avaimet
-Android
--
-puhelimen
+Android-puhelimen
 pyyhkäisylukkoon
 :
 Sormirasva

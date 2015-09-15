@@ -18,12 +18,8 @@ turvallinen
 <INGRESS>
 Turvallisuussivusto
 arvostelee
-Android
--
-puhelimien
-AppLock
--
-sovelluslukon
+Android-puhelimien
+AppLock-sovelluslukon
 turvallisuutta
 .
 

@@ -224,9 +224,7 @@ sijaan
 Hunt
 väläyttelee
 mahdollisuutena
-Netflix
--
-palvelun
+Netflix-palvelun
 integroimista
 kulkuvälineisiin
 .

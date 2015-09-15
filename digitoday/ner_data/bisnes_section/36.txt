@@ -82,9 +82,7 @@ ongelmia
 Isolla
 näytöllä
 varustetun
-Note
--
-sarjan
+Note-sarjan
 puhelimet
 myydään
 kynäohjainten
@@ -176,9 +174,7 @@ on
 yrittänyt
 erottautua
 muista
-Android
--
-järjestelmää
+Android-järjestelmää
 käyttävistä
 puhelimista
 sekä
