@@ -1,0 +1,274 @@
+<HEADLINE>
+Instagram	B-PRO
+tunnistaa	O
+etukäteen	O
+huippumallien	O
+menestyksen	O
+
+<DATE>
+09/07/15 08:02 AM	O
+
+<INGRESS>
+Instagram-suosio	O
+on	O
+tärkein	O
+tekijä	O
+torstaina	O
+alkavan	O
+New	B-PRO
+York	I-PRO
+Fashion	I-PRO
+Weekin	I-PRO
+suosituimpien	O
+uusien	O
+mallien	O
+ennustuksessa	O
+.	O
+
+<BODY>
+<PARAGRAPH>
+Yhteisömediassa	O
+on	O
+jatkuvasti	O
+valtava	O
+pöhinä	O
+erilaisten	O
+asioiden	O
+ympärillä	O
+,	O
+mutta	O
+onko	O
+sillä	O
+mitään	O
+merkitystä	O
+reaalielämässä	O
+?	O
+
+Näyttää	O
+olevan	O
+,	O
+sanoo	O
+Indianan	B-ORG
+yliopistossa	I-ORG
+tehty	O
+tutkimus	O
+,	O
+jonka	O
+vuoden	O
+2014	O
+tiedoilla	O
+ennusti	O
+oikein	O
+kuusi	O
+talvi	O
+/	O
+syyskauden	O
+muotiesitysten	O
+kahdeksasta	O
+suosituimmasta	O
+uudesta	O
+mallista	O
+.	O
+
+<PARAGRAPH>
+Tutkimuksessa	O
+,	O
+jossa	O
+etsittiin	O
+tapaa	O
+ennakoida	O
+ketkä	O
+uudet	O
+mallit	O
+pystyvät	O
+murtautumaan	O
+parrasvaloihin	O
+ja	O
+catwalkille	O
+,	O
+otettiin	O
+huomioon	O
+muun	O
+muassa	O
+sellaisia	O
+muuttujia	O
+kuin	O
+lavaesiintymisten	O
+ja	O
+Instagram	O
+-	O
+seuraajien	O
+lukumäärä	O
+,	O
+merkintöjen	O
+kuukausittainen	O
+määrä	O
+ja	O
+niiden	O
+saamat	O
+kommentit	O
+ja	O
+tykkäykset	O
+ja	O
+kuuluminen	O
+huippumallitoimistojen	O
+listoille	O
+.	O
+
+<PARAGRAPH>
+Mallitoimistojen	O
+uusien	O
+nimien	O
+listoilta	O
+vain	O
+24	O
+prosenttia	O
+nousi	O
+viime	O
+keväänä	O
+lavalle	O
+edes	O
+ensimmäisen	O
+kerran	O
+.	O
+
+<PARAGRAPH>
+Seurantaan	O
+otettiin	O
+noin	O
+400	O
+naismallia	O
+,	O
+joista	O
+valinta	O
+myöhemmin	O
+rajattiin	O
+15	O
+“uuteen	O
+kasvoon”	O
+.	O
+
+Viime	O
+vuonna	O
+kerättyjen	O
+tietojen	O
+perusteella	O
+ennustettiin	O
+uusien	O
+mallien	O
+menestystä	O
+,	O
+jota	O
+mitattiin	O
+mallien	O
+lavaesiintymisten	O
+määrällä	O
+maaliskuussa	O
+.	O
+
+Tutkimus	O
+ennusti	O
+oikein	O
+80	O
+prosenttia	O
+kahdeksan	O
+kärkeen	O
+sijoittuneista	O
+.	O
+
+<PARAGRAPH>
+Instagramissa	B-PRO
+annettujen	O
+kommenttien	O
+tiheys	O
+vaikutti	O
+mallien	O
+suosioon	O
+voimakkaasti	O
+,	O
+
+mutta	O
+sävy	O
+ei	O
+.	O
+
+Suuri	O
+tykkäysten	O
+määrä	O
+kuitenkin	O
+saattoi	O
+heikentää	O
+mahdollisuuksia	O
+jopa	O
+10	O
+prosentilla	O
+.	O
+
+<PARAGRAPH>
+Instagram-suosio	O
+ja	O
+kuuluminen	O
+huipputoimiston	O
+listoille	O
+ennustivat	O
+menestystä	O
+parhaiten	O
+.	O
+
+Niin	O
+teki	O
+myös	O
+mallin	O
+pituus	O
+,	O
+tuuman	O
+kilpailijoita	O
+pitemmällä	O
+mallilla	O
+oli	O
+selvästi	O
+paremmat	O
+mahdollisuudet	O
+päästä	O
+catwalkille	O
+.	O
+
+Ja	O
+–	O
+yllätys	O
+,	O
+yllätys	O
+–	O
+myös	O
+pieni	O
+lantion	O
+ympärysmitta	O
+kasvatti	O
+menestysmahdollisuuksia	O
+.	O
+
+<PARAGRAPH>
+Asiasta	O
+uutisoivat	O
+muun	O
+muassa	O
+Inferse	B-PRO
+ja	O
+Indianan	B-ORG
+yliopiston	I-ORG
+uutispalvelu	I-ORG
+.	O
+
+Yliopiston	O
+tutkijat	O
+aikovat	O
+käyttää	O
+tutkimuksessa	O
+kehitettyjä	O
+menetelmiä	O
+menestyksen	O
+ennustamiseen	O
+myös	O
+muotimaailman	O
+ulkopuolella	O
+.	O

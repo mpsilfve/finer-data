@@ -1,0 +1,167 @@
+<HEADLINE>
+Jättivalmistajan	O
+yllätys	O
+:	O
+Tabletti	O
+maksaa	O
+50	O
+dollaria	O
+
+<DATE>
+09/08/15 09:13 AM	O
+
+<INGRESS>
+Verkkokauppa	B-ORG
+Amazon	B-ORG
+aikoo	O
+tuoda	O
+markkinoille	O
+kertakäyttöhintaluokkaan	O
+sijoittuvan	O
+taulutietokoneen	O
+.	O
+
+Ison	O
+älypuhelimen	O
+kokoisen	O
+tabletin	O
+hinta	O
+on	O
+50	O
+dollaria	O
+.	O
+
+<BODY>
+<PARAGRAPH>
+Amazonilla	B-ORG
+on	O
+ollut	O
+vaikeuksia	O
+viima	O
+aikoina	O
+saada	O
+kaupaksi	O
+taulutietokoneita	O
+,	O
+kuten	O
+monilla	O
+muillakin	O
+.	O
+
+Wall	B-PRO
+Street	I-PRO
+Journalin	I-PRO
+
+mukaan	O
+Amazon	B-ORG
+yrittää	O
+vauhdittaa	O
+tablettimyyntiä	O
+tuomalla	O
+joulumarkkinoille	O
+50	O
+dollaria	O
+maksavan	O
+kuusituumaisen	O
+laitteen	O
+.	O
+
+<PARAGRAPH>
+50	O
+dollarin	O
+hinta	O
+kuuluu	O
+markkinoiden	O
+halvimpiin	O
+.	O
+
+Amazonin	B-ORG
+tähän	O
+asti	O
+halvin	O
+tabletti	O
+on	O
+ollut	O
+sen	O
+sadan	O
+dollarin	O
+kuusituumainen	O
+Fire	B-PRO
+HD	I-PRO
+.	O
+
+Vaikka	O
+Amazonin	B-ORG
+Fire-puhelin	B-PRO
+floppasikin	O
+täysin	O
+,	O
+sitä	O
+edeltäneet	O
+tabletit	O
+olivat	O
+menestys	O
+.	O
+
+<PARAGRAPH>
+Kuuden	O
+tuuman	O
+tabletin	O
+kustannuksia	O
+on	O
+kutistettu	O
+ulkoistamalla	O
+suuri	O
+osa	O
+sen	O
+kehityksestä	O
+aasialaisille	O
+yritykselle	O
+,	O
+kuten	O
+Shanghai	B-ORG
+Huaqin	I-ORG
+Telecom	I-ORG
+Technology	I-ORG
+ja	O
+Taiwanin	B-ORG
+Compal	I-ORG
+Communications	I-ORG
+.	O
+
+<PARAGRAPH>
+Amazon	B-ORG
+aikoo	O
+julkaista	O
+tänä	O
+vuonna	O
+myös	O
+-8	O
+ja	O
+10-tuumaiset	O
+tabletit	O
+.	O
+
+<PARAGRAPH>
+Laitteiden	O
+ei	O
+tarvitse	O
+tuottaa	O
+voittoa	O
+Amazonille	B-ORG
+,	O
+sillä	O
+kaikkien	O
+sen	O
+omat	O
+laitteet	O
+toimivat	O
+mainos-	O
+ja	O
+myyntialustoina	O
+verkkokaupan	O
+muille	O
+tuotteille	O
+ja	O
+palveluille	O
+.	O
