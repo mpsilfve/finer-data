@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from sys import stdin, stderr
 from html2text import html2text as h2t
 from re import sub
@@ -59,6 +61,9 @@ for line in stdin:
     else:
         if recording == 1:
             data += line
+
+# Get rid of non-breaking spaces which interfere with tokenization.
+data = data.replace(' ',' ')
 
 title_start = data.find('<h1')
 data = data[title_start:]
