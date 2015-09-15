@@ -149,9 +149,7 @@ isännöimässä
 ISS
 :
 n
-Kibo
--
-moduulissa
+Kibo-moduulissa
 .
 
 Osan

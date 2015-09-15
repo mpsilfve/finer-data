@@ -17,9 +17,7 @@ sensuuriin
 Google
 on
 palaamassa
-Manner
--
-Kiinaan
+Manner-Kiinaan
 viiden
 vuoden
 tauon
@@ -147,9 +145,7 @@ tai
 sitten
 vetäytyy
 kokonaan
-Manner
--
-Kiinan
+Manner-Kiinan
 markkinoilta
 .
 

@@ -35,8 +35,7 @@ Reuters
 joka
 kuuli
 asiasta
-Toshiba-
-tutkinnassa
+Toshiba-tutkinnassa
 mukana
 olevalta
 henkilöltä
@@ -69,8 +68,7 @@ kirjanpitoa
 vääristeltiin
 halki
 monialayhtiön
-liiketoiminta-
-alueiden
+liiketoiminta-alueiden
 ja
 se
 oli
@@ -118,7 +116,8 @@ vakavin
 kirjanpitosotku
 sitten
 kameravalmistaja
-Olympuksen
+Olympukse
+n
 ,
 jonka
 ongelmat

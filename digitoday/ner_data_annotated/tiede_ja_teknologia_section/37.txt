@@ -268,9 +268,7 @@ Se
 kaappasi
 myös
 useita
-A123
--
-akkukehittäjän
+A123-akkukehittäjän
 johtavia
 insinöörejä
 .

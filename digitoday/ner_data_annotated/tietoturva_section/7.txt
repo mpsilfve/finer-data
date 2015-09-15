@@ -57,8 +57,7 @@ on
 löytynyt
 useita
 vakavia
-tietoturva-
-aukkoja
+tietoturva-aukkoja
 .
 
 <PARAGRAPH>

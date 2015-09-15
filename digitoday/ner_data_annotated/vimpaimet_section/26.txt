@@ -1,8 +1,6 @@
 <HEADLINE>
 Avaimet
-Android
--
-puhelimen
+Android-puhelimen
 pyyhkäisylukkoon
 :
 Sormirasva
@@ -32,9 +30,7 @@ todisti
 Defcon-tapahtumassa
 ,
 että
-Android
--
-puhelinten
+Android-puhelinten
 lukituksen
 avaaminen
 näyttöä

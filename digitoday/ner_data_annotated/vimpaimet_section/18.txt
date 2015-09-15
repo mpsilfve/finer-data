@@ -15,9 +15,7 @@ tietoturva
 <INGRESS>
 Huawein
 oma
-Android
--
-versio
+Android-versio
 hidastaa
 tietoturvapäivitysten
 tekemistä
@@ -39,8 +37,7 @@ Honor
 -puhelimensa
 .
 
-Honor-
-puhelinsarja
+Honor-puhelinsarja
 on
 luotu
 edulliseksi
@@ -81,9 +78,7 @@ Huawei
 pyrkii
 erottumaan
 muista
-Android
--
-valmistajista
+Android-valmistajista
 ,
 on
 yhtiön
@@ -107,9 +102,7 @@ Huawein
 Honor-puhelimien
 Itä-
 ja
-Pohjois
--
-Euroopan
+Pohjois-Euroopan
 tuotejohtaja
 Jin
 Yiming
@@ -181,9 +174,7 @@ että
 myös
 monilla
 muilla
-Android
--
-valmistajilla
+Android-valmistajilla
 on
 vaikeuksia
 saada
@@ -194,9 +185,7 @@ markkinoille
 <PARAGRAPH>
 Esimerkiksi
 vakavan
-Stagefright
--
-haavoittuvuuden
+Stagefright-haavoittuvuuden
 on
 korjannut
 vasta

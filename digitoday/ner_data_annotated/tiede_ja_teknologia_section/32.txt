@@ -76,7 +76,8 @@ markkinapilotti
 Puerto
 Ricossa
 on
-peruutettu
+peruu
+tettu
 .
 
 Sen

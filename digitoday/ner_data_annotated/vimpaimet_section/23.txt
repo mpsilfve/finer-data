@@ -4,9 +4,7 @@ näitä
 tulee
 :
 Kaksi
-Nokia
--
-peruspuhelinta
+Nokia-peruspuhelinta
 julkaistiin
 
 <DATE>
@@ -32,9 +30,7 @@ on
 julkistanut
 kaksi
 edullista
-Nokia
--
-peruspuhelinta
+Nokia-peruspuhelinta
 .
 
 <PARAGRAPH>

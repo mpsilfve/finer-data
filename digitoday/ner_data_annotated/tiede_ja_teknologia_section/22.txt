@@ -178,7 +178,8 @@ ystävä”
 .
 
 Press
-Examiner
+Exami
+ner
 -julkaisun
 mukaan
 on

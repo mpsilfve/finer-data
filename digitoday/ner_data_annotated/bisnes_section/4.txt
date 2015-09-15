@@ -52,9 +52,7 @@ the
 Finnish
 game
 industry
-2004
--
-2014
+2004-2014
 -selvityksestä
 (
 pdf-linkki
@@ -182,9 +180,7 @@ rahoituksen
 turvin
 pelialalle
 syntyy
-hi
--
-tech-työpaikkoja
+hi-tech-työpaikkoja
 ja
 osaamista
 ,

@@ -43,8 +43,7 @@ uutta
 torstaina
 alkavilla
 elektroniikan
-IFA-
-messuilla
+IFA-messuilla
 Berliinissä
 .
 
@@ -214,9 +213,7 @@ alkaessa
 
 <PARAGRAPH>
 Älykellon
-3G
--
-versiossa
+3G-versiossa
 on
 virtuaalinen
 sim-kortti

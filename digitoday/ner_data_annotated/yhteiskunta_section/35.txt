@@ -77,8 +77,7 @@ kuluttajia
 käyttämästä
 omia
 henkilökohtaisia
-wlan-
-palvelupisteitään
+wlan-palvelupisteitään
 ,
 FCC
 :
@@ -87,7 +86,8 @@ toimeenpanoyksikön
 johtaja
 Travis
 LeBlanc
-tiedotteessa
+t
+iedotteessa
 .
 
 <PARAGRAPH>

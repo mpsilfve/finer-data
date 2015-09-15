@@ -4,9 +4,7 @@ avioliitto
 :
 Google
 yhdisti
-Android
--
-älykellonsa
+Android-älykellonsa
 iPhoneen
 
 <DATE>
@@ -132,9 +130,7 @@ Wear
 -älykellot
 toimivat
 tukevat
-iOS
--
-käyttöjärjestelmää
+iOS-käyttöjärjestelmää
 ,
 mukaan
 lukien
@@ -183,8 +179,7 @@ julkaisi
 asiasta
 melko
 kattavan
-kysymys-vastaus-
-artikkelin
+kysymys-vastaus-artikkelin
 ,
 jonka
 mukaan

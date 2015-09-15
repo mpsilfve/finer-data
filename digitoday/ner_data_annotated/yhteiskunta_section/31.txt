@@ -111,7 +111,8 @@ tietokannoista
 .
 
 Murrosta
-sivustolle
+sivustol
+le
 kerrottiin
 ensimmäisen
 kerran

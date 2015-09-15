@@ -57,9 +57,7 @@ vielä
 antaa
 yhteystiedot
 ja
-Apple
--
-tunnus
+Apple-tunnus
 esittelijälle
 ennen
 kuin

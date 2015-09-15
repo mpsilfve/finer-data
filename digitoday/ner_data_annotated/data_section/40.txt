@@ -51,9 +51,7 @@ ulottuville
 .
 
 Esimerkiksi
-Vauva
--
-lehden
+Vauva-lehden
 keskustelufoorumilla
 listattiin
 palvelun

@@ -79,7 +79,8 @@ sanoi
 Space
 2015
 -konferenssissa
-Spacenewsin
+Spacen
+ewsin
 mukaan
 .
 

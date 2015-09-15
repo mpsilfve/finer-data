@@ -4,9 +4,7 @@ entinen
 toimitusjohtaja
 julkisti
 kaksi
-Android
--
-puhelinta
+Android-puhelinta
 
 <DATE>
 27.8.2015 09:49
@@ -192,9 +190,7 @@ kameran
 ja
 kahden
 salaman
-4G
--
-puhelin
+4G-puhelin
 ,
 jossa
 on

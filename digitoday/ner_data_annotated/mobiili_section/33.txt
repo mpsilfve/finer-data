@@ -323,9 +323,7 @@ pääosin
 sulava
 .
 
-Android
--
-sovelluksiin
+Android-sovelluksiin
 siirtyessä
 kuvaelementit
 tosin
@@ -504,8 +502,7 @@ pitää
 kädessä
 ,
 erityisesti
-vaaka-
-asennossa
+vaaka-asennossa
 .
 
 <PARAGRAPH>
@@ -590,9 +587,7 @@ Tablet
 tarjoaa
 virallisesti
 kaksi
-Android
--
-sovellusten
+Android-sovellusten
 kauppaa
 :
 venäläinen
@@ -621,9 +616,7 @@ käyttämään
 Valitettavasti
 Aptoidesta
 haettujen
-Android
--
-sovelluksien
+Android-sovelluksien
 käyttö
 ei
 onnistunut
@@ -762,22 +755,17 @@ kikkailua
 ,
 mutta
 kuten
-Jolla-
-puhelimeen
+Jolla-puhelimeen
 ,
 myös
 Tabletille
 on
 mahdollista
 asentaa
-Play
--
-kauppa
+Play-kauppa
 .
 
-Android
--
-tuen
+Android-tuen
 keskeneräisyyden
 takia
 emme
@@ -785,9 +773,7 @@ kuitenkaan
 edes
 yrittäneet
 asentaa
-Play
--
-kauppaa
+Play-kauppaa
 testilaitteeseen
 .
 

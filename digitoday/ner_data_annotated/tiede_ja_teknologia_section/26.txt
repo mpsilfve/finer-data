@@ -4,9 +4,7 @@ X:n
 biotieteet
 saavat
 oman
-Alphabet
--
-yhtiön
+Alphabet-yhtiön
 
 <DATE>
 21.8.2015 09:00

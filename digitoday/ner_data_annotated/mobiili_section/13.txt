@@ -1,9 +1,7 @@
 <HEADLINE>
 Sony
 aiheutti
-4K
--
-sekaannuksen
+4K-sekaannuksen
 :
 Toimittajat
 hypistelivät
@@ -26,9 +24,7 @@ Berliinissä
 Sonyn
 uuden
 puhelimen
-4K
--
-näyttö
+4K-näyttö
 hämmensi
 monella
 tavalla
@@ -45,16 +41,13 @@ nähdä
 Sonyn
 uuden
 huipputarkalla
-4K
--
-näytöllä
+4K-näytöllä
 varustetun
 Xperia
 Z5
 Premium
 -puhelimen
-IFA-
-messuilla
+IFA-messuilla
 Berliinissä
 .
 
@@ -96,9 +89,7 @@ että
 tässä
 on
 se
-4K
--
-näytön
+4K-näytön
 puhelin
 .
 
@@ -179,9 +170,7 @@ vahvisti
 että
 esillä
 onkin
-1080p
--
-tarkkuuden
+1080p-tarkkuuden
 Z5
 .
 
@@ -250,9 +239,7 @@ kysymyksen
 mitä
 järkeä
 on
-4K
--
-näytössä
+4K-näytössä
 pieneen
 puhelimeen
 asennettuna
@@ -268,9 +255,7 @@ ja
 sen
 maailman
 ensimmäinen
-4K
--
-näyttö
+4K-näyttö
 on
 täysin
 hävytön

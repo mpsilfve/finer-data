@@ -113,9 +113,7 @@ sillä
 kolme
 miljoonaa
 käyttöjärjestelmän
-Vista
--
-versiota
+Vista-versiota
 käyttävää
 joutuu
 maksamaan

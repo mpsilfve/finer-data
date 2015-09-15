@@ -36,7 +36,8 @@ Corporationin
 Darkmatters-sivusto
 bongasi
 uuden
-variantin
+variant
+in
 vaarallisesta
 Zeus-haittaohjelmasta
 .
@@ -45,9 +46,7 @@ Sphinx-niminen
 variantti
 on
 myynnissä
-0Day
--
-verkkokaupassa
+0Day-verkkokaupassa
 .
 
 <PARAGRAPH>
@@ -95,8 +94,7 @@ esimerkiksi
 toimii
 täysin
 salatun
-Tor-
-verkon
+Tor-verkon
 kautta
 ja
 on

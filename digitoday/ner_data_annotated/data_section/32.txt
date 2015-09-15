@@ -3,9 +3,7 @@ Cortana
 -
 digiavustajan
 jakelu
-Android
--
-puhelimiin
+Android-puhelimiin
 alkoi
 
 <DATE>
@@ -20,9 +18,7 @@ on
 nyt
 saatavilla
 myös
-Android
--
-laitteille
+Android-laitteille
 .
 
 Apuri
@@ -84,23 +80,17 @@ iPhone-puhelimissa
 
 <PARAGRAPH>
 Cortanan
-Android
--
-versio
+Android-versio
 on
 nyt
 saatavilla
 Google
 Playstä
 amerikkalaisille
-Android
--
-puhelimille
+Android-puhelimille
 ,
 mutta
-Android
--
-tableteissa
+Android-tableteissa
 se
 ei
 toimi
@@ -114,9 +104,7 @@ Microsoft
 lupaa
 laajentaa
 Cortanan
-Android
--
-jakelua
+Android-jakelua
 myös
 Yhdysvaltain
 ulkopuolelle
@@ -130,8 +118,7 @@ suunnilleen
 samalla
 tavalla
 kuin
-Windows-
-laitteissa
+Windows-laitteissa
 .
 
 Sillä
@@ -155,9 +142,7 @@ kuitenkaan
 ole
 täysiä
 oikeuksia
-Android
--
-puhelimeen
+Android-puhelimeen
 .
 
 Mikrofoniluvan
@@ -191,8 +176,6 @@ käynnistämään
 sovelluksia
 tai
 muuttamaan
-Android
--
-puhelimen
+Android-puhelimen
 asetuksia
 .

@@ -51,7 +51,7 @@ muun
 muassa
 kiinalaisilla
 Weibo
-\-
+-
 ja
 Cnmo
 .
@@ -72,7 +72,8 @@ aikoo
 ensi
 vuoden
 alussa
-julkaista
+jul
+kaista
 ensimmäisen
 uuden
 puhelimensa
@@ -148,9 +149,7 @@ sitten
 .
 
 Esimerkiksi
-GSMArena
--
-verkkolehden
+GSMArena-verkkolehden
 mukaan
 Nokia
 C1
@@ -252,8 +251,6 @@ Nokia
 myös
 etsii
 uusia
-Android
--
-älypuhelinten
+Android-älypuhelinten
 kehittäjiä
 .

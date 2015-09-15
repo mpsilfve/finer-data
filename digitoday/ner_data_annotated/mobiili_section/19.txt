@@ -3,9 +3,7 @@ Nähdäänkö
 tänään
 puhelimen
 ensimmäinen
-4K
--
-näyttö
+4K-näyttö
 ?
 
 <DATE>
@@ -29,16 +27,13 @@ tänään
 uusia
 huippupuhelimiaan
 Berliinin
-IFA-
-kulutuselektroniikkamessuilla
+IFA-kulutuselektroniikkamessuilla
 .
 
 Kuvat
 uusista
 Xperia
-Z5
--
-puhelimista
+Z5-puhelimista
 ehtivät
 kuitenkin
 vuotaa
@@ -47,9 +42,7 @@ jo
 eilen
 ,
 kertoo
-Xperiablog
--
-verkkosivusto
+Xperiablog-verkkosivusto
 .
 
 <PARAGRAPH>
@@ -68,9 +61,7 @@ puhelin
 sai
 Japanissa
 Xperia
-Z4
--
-nimen
+Z4-nimen
 ,
 kun
 taas
@@ -180,9 +171,7 @@ Compact
 
 Sen
 sijaan
-Premium
--
-mallin
+Premium-mallin
 takakansi
 on
 aiempien
@@ -205,9 +194,7 @@ Premium
 olisi
 puhelinmarkkinoiden
 ensimmäinen
-4K
--
-näyttö
+4K-näyttö
 ,
 eli
 sen
@@ -229,9 +216,7 @@ full
 -
 hd-näyttö
 ja
-Compact
--
-mallin
+Compact-mallin
 näytön
 tarkkuus
 olisi
@@ -247,5 +232,6 @@ löytyy
 muun
 muassa
 Xperablogin
-verkkosivuilta
+ve
+rkkosivuilta
 .

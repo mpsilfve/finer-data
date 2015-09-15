@@ -2,9 +2,7 @@
 Kiistelyn
 jälkeen
 :
-Apotti
--
-megahankkeelle
+Apotti-megahankkeelle
 valittiin
 tekijä
 
@@ -62,9 +60,7 @@ Tieto
 valittivat
 vuoden
 alkupuolella
-Apotti
--
-hankkeen
+Apotti-hankkeen
 kilpailutuksesta
 markkinaoikeuteen
 .
@@ -244,8 +240,7 @@ Vantaa
 ,
 HUS
 ja
-KL-
-Kuntahankinnat
+KL-Kuntahankinnat
 tekevät
 päätökset
 hankinnasta

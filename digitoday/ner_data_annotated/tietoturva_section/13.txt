@@ -99,9 +99,7 @@ Premium
 F
 -
 Secure
-Anti
--
-Virus
+Anti-Virus
 For
 Workstations
 ,
@@ -175,7 +173,5 @@ ja
 F
 -
 Secure
-Anti
--
-Virus
+Anti-Virus
 .

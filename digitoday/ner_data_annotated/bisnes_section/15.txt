@@ -65,7 +65,8 @@ markkina-arvoa
 miljardilla
 dollarilla
 ,
-FierceWireless
+FierceWi
+reless
 raportoi
 .
 

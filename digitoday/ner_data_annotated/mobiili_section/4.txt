@@ -44,9 +44,7 @@ mukaan
 Adult
 Player
 houkutteli
-Android
--
-puhelimen
+Android-puhelimen
 omistajia
 lataamaan
 sovelluksen
@@ -130,9 +128,7 @@ ole
 ollut
 tarjolla
 virallisessa
-Android
--
-kaupassa
+Android-kaupassa
 Google
 Playssä
 vaan
@@ -175,9 +171,7 @@ välttämiseksi
 ihmisiä
 kehotetaan
 lataamaan
-Andoid
--
-sovelluksia
+Andoid-sovelluksia
 vain
 Google
 Playstä

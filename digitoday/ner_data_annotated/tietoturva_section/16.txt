@@ -17,8 +17,7 @@ versioon
 ,
 joka
 estää
-Flash-
-muotoisten
+Flash-muotoisten
 automaattivideoiden
 käynnistymisen
 taustalla
@@ -143,13 +142,9 @@ tavan
 ,
 jossa
 sen
-AdWord
--
-mainosalusta
+AdWord-mainosalusta
 muuntaa
 useimmat
 Flash-videot
-html5
--
-videoiksi
+html5-videoiksi
 .

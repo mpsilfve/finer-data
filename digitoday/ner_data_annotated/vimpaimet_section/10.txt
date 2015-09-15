@@ -1,7 +1,5 @@
 <HEADLINE>
-Pluto
--
-luotaimelle
+Pluto-luotaimelle
 löydettiin
 uusi
 aarre

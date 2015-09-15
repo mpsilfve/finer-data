@@ -95,9 +95,7 @@ muuttujia
 kuin
 lavaesiintymisten
 ja
-Instagram
--
-seuraajien
+Instagram-seuraajien
 lukumäärä
 ,
 merkintöjen
@@ -255,7 +253,8 @@ Inferse
 ja
 Indianan
 yliopiston
-uutispalvelu
+uutis
+palvelu
 .
 
 Yliopiston

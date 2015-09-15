@@ -1,8 +1,6 @@
 <HEADLINE>
 Syyte
-Nokia
--
-puhelinten
+Nokia-puhelinten
 3g
 :
 stä
@@ -35,9 +33,7 @@ ettei
 Nokian
 puhelimissa
 käytetty
-3g
--
-teknologia
+3g-teknologia
 loukkaa
 yhtiön
 patentteja
@@ -83,9 +79,7 @@ Microsoft
 Mobile
 ,
 vaadittiin
-3g
--
-Lumia-puhelimille
+3g-Lumia-puhelimille
 tuontikieltoa
 Yhdysvaltoihin
 .

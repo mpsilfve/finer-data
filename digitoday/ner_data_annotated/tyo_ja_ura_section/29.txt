@@ -137,9 +137,7 @@ saattaa
 heillä
 kaikilla
 on
-Nokia
--
-tausta
+Nokia-tausta
 .
 
 <PARAGRAPH>
@@ -335,8 +333,7 @@ Väyrysen
 mukaan
 vaativin
 osa
-Marshall-
-puhelimen
+Marshall-puhelimen
 suunnittelua
 .
 

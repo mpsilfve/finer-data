@@ -151,9 +151,7 @@ Wearables
 "
 .
 
-Wearables
--
-sanalla
+Wearables-sanalla
 tarkoitetaan
 päälle
 puettavaa

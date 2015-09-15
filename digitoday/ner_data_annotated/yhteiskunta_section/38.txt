@@ -82,9 +82,7 @@ salakirjoittaa
 käyttäjän
 tiedostot
 vahvalla
-AES
--
-salauksella
+AES-salauksella
 ja
 jättää
 koneen

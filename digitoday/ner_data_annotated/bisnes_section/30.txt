@@ -108,9 +108,7 @@ että
 se
 toimittaa
 oman
-NetAct
--
-verkonhallintasovelluksensa
+NetAct-verkonhallintasovelluksensa
 ja
 sen
 lisäksi

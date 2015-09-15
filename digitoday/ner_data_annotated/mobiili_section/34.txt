@@ -23,9 +23,7 @@ Keskisuomalaisen
 tietojen
 mukaan
 Soneran
-4g
--
-verkoissa
+4g-verkoissa
 on
 laajoja
 ongelmia
@@ -44,9 +42,7 @@ eivät
 löydä
 lainkaan
 kenttää
-4g
--
-verkkoihin
+4g-verkkoihin
 yrittäessä
 ,
 eikä
@@ -68,9 +64,7 @@ Vanhempia
 2g
 -
 ja
-3g
--
-verkkoja
+3g-verkkoja
 käyttävät
 puhelimet
 toimivat

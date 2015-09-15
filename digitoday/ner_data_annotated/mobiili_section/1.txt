@@ -1,7 +1,5 @@
 <HEADLINE>
-Android
--
-aukot
+Android-aukot
 uhkaavat
 joka
 suunnasta
@@ -18,9 +16,7 @@ Kyberturvallisuuskeskus
 erittelee
 kuusi
 uusinta
-Android
--
-uhkaa
+Android-uhkaa
 ja
 antaa
 myös
@@ -32,9 +28,7 @@ suojautumiseen
 <BODY>
 <PARAGRAPH>
 Googlen
-Android
--
-käyttöjärjestelmästä
+Android-käyttöjärjestelmästä
 on
 löydetty
 viime
@@ -172,9 +166,7 @@ että
 jopa
 Googlen
 virallisen
-Play
--
-kaupan
+Play-kaupan
 portit
 ovat
 toisinaan
@@ -262,9 +254,7 @@ neuvoo
 6
 )
 käyttämään
-Android
--
-laitteessa
+Android-laitteessa
 jotain
 tietoturvatuotetta
 .

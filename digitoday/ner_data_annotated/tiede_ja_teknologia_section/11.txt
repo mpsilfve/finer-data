@@ -146,9 +146,7 @@ Allseen
 Allianssin
 kehittämää
 avointa
-AllJoyn
--
-nimistä
+AllJoyn-nimistä
 esineiden
 internet
 -alustaa

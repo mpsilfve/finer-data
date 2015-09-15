@@ -4,9 +4,7 @@ Apple
 iPhone
 -
 julkistusta
-Pro
--
-tabletilla
+Pro-tabletilla
 ?
 
 <DATE>

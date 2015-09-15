@@ -92,9 +92,7 @@ uhrille
 lähetetään
 vCard-yhteystietoliitteen
 sisältävä
-WhatsApp
--
-viesti
+WhatsApp-viesti
 .
 
 VCardiin

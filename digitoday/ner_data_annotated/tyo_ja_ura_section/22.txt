@@ -37,8 +37,7 @@ miten
 töiden
 välttely
 ,
-piste-
-ennätysten
+piste-ennätysten
 tavoittelu
 ja
 pikselirintojen
@@ -155,9 +154,7 @@ ensimmäisistä
 tunnetuista
 pomonapeista
 oli
-Friendlyware
--
-sovelluskokoelmassa
+Friendlyware-sovelluskokoelmassa
 ,
 joka
 julkaistiin

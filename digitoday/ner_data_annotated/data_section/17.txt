@@ -151,9 +151,7 @@ saataville
 
 <PARAGRAPH>
 Esimerkiksi
-Angler
--
-hyökkäystyökaluun
+Angler-hyökkäystyökaluun
 on
 lisätty
 uusi

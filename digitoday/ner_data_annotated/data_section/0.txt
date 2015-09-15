@@ -43,9 +43,7 @@ videoita
 voisi
 latailla
 mobiililaitteille
-offline
--
-katselua
+offline-katselua
 varten
 .
 
@@ -224,9 +222,7 @@ sijaan
 Hunt
 väläyttelee
 mahdollisuutena
-Netflix
--
-palvelun
+Netflix-palvelun
 integroimista
 kulkuvälineisiin
 .

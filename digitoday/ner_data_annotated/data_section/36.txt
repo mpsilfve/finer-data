@@ -121,9 +121,7 @@ jopa
 400
 tukiasemaa
 haitaten
-2G
--
-liikennettä
+2G-liikennettä
 Helsingin
 alueella
 .
