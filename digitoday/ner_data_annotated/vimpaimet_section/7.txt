@@ -220,9 +220,7 @@ hämmennystä
 –
 Siinä
 jouduttiin
-pysähdy-ja
--
-liiku
+pysähdy-ja-liiku
 peliin
 ,
 kumpi

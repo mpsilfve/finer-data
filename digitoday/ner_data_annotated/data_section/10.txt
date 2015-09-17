@@ -125,9 +125,7 @@ väliin
 .
 
 <PARAGRAPH>
-RSA
--
-CRT-optimointia
+RSA-CRT-optimointia
 käytetään
 salauskirjastoissa
 lähes

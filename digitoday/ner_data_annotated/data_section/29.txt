@@ -69,13 +69,9 @@ asetusta
 "
 PermitRootLogin
 =
-prohibit
--
-password
+prohibit-password
 /
-without
--
-password
+without-password
 "
 .
 

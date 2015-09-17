@@ -106,9 +106,7 @@ päivämäärinä
 ,
 Nasan
 asteroidivahdin
-Near
--
-Earth
+Near-Earth
 Object
 -toimiston
 johtaja

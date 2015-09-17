@@ -289,8 +289,7 @@ Weave
 Laitetta
 voidaan
 ohjata
-iOS
--
+iOS-
 tai
 Android-puhelimilla
 .

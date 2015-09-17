@@ -120,9 +120,7 @@ hyökkääjä
 pystyi
 onkimaan
 sieltä
-Firefox
--
-selaimeen
+Firefox-selaimeen
 liittyviä
 ongelmia
 ja

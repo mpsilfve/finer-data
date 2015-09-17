@@ -95,9 +95,7 @@ Maserati-urheiluautoissa
 Tutkijat
 mursivat
 sirun
-96
--
-bittisen
+96-bittisen
 salauksen
 ja
 pystyivät

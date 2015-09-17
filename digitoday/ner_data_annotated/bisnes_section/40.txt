@@ -124,11 +124,9 @@ näkyy
 .
 
 Google
-Play
--
+Play-
 ja
-iOS
--
+iOS-
 sovellukset
 tulevat
 jakeluun

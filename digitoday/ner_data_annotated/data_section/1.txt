@@ -336,7 +336,9 @@ enemmän
 
 <PARAGRAPH>
 Lisäksi
-top-20:n
+top-20
+:
+n
 ulkopuolella
 oli
 huomattavan

@@ -180,9 +180,7 @@ suuri
 osuus
 maailman
 suurimmasta
-verkkokauppa
--
-alustasta
+verkkokauppa-alustasta
 Alibabasta
 ja
 eniten

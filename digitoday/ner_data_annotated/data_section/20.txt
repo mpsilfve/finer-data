@@ -595,9 +595,7 @@ napilla
 
 Luo
 uusi
-32
--
-bittinen
+32-bittinen
 DWORD
 ,
 anna

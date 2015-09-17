@@ -34,7 +34,8 @@ helmassa
 samaan
 aikaan
 Googlen
-tappaja-,
+tappaja-
+,
 ei
 kun
 pelastajarobotin

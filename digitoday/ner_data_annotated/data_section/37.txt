@@ -8,9 +8,7 @@ piristysruiske
 24.8.2015 09:34
 
 <INGRESS>
-Web
--
-selaimet
+Web-selaimet
 muistuttavat
 toisiaan
 jatkossa
@@ -56,9 +54,7 @@ Chromelle
 ja
 Operalle
 kirjoitetut
-Blink
--
-pohjaiset
+Blink-pohjaiset
 laajennukset
 Firefoxiin
 vain
@@ -105,8 +101,7 @@ ilmoitti
 myös
 luopuvansa
 nykyisistä
-XPCOM
--
+XPCOM-
 ja
 XUL-tekniikoista
 käyttöliittymien

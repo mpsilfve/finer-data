@@ -80,9 +80,7 @@ käyttöön
 suunniteltu
 Panasonic
 Toughpad
-FZ
--
-G1
+FZ-G1
 .
 
 VR

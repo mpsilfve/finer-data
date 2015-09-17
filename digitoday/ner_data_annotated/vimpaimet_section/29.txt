@@ -218,7 +218,8 @@ tuhansia
 |
 2Q15
 ,
-osuus-%
+osuus-
+%
 |
 2Q14
 ,
@@ -226,7 +227,8 @@ tuhansia
 |
 2Q14
 ,
-osuus-%
+osuus-
+%
 ---
 |
 ---
@@ -422,7 +424,8 @@ tuhansia
 |
 2Q15
 ,
-osuus-%
+osuus-
+%
 |
 2Q14
 ,
@@ -430,7 +433,8 @@ tuhansia
 |
 2Q14
 ,
-osuus-%
+osuus-
+%
 ---
 |
 ---
