@@ -55,9 +55,7 @@ Web
 on
 suositun
 WhatsAppin
-web
--
-selaimella
+web-selaimella
 toteutettu
 jatke
 ,

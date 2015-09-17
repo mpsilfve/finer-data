@@ -24,11 +24,9 @@ tarpeisiin
 <BODY>
 <PARAGRAPH>
 Nokian
-3G
--
+3G-
 ja
-4G
--
+4G-
 mikro-
 ja
 picotukiasemat

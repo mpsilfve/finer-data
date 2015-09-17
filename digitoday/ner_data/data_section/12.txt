@@ -53,9 +53,7 @@ kertoo
 uusimmasta
 esimerkistä
 nimeltä
-ORX
--
-Locker
+ORX-Locker
 ,
 jota
 tarjotaan
@@ -205,9 +203,7 @@ voitot
 .
 
 <PARAGRAPH>
-ORX
--
-Locker
+ORX-Locker
 havaittiin
 ensi
 kerran

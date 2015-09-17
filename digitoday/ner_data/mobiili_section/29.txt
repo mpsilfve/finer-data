@@ -97,8 +97,7 @@ ohjaimena
 Lisäksi
 siinä
 on
-kyllä
--
+kyllä-
 ja
 ei
 -painikkeet

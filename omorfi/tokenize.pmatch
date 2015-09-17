@@ -1,5 +1,5 @@
 Define omorfi @bin"omorfi/omorfi.accept.hfst";
 Define nonword Whitespace | Punct;
-Define word LC([nonword | #]) [\nonword+|(\nonword+%-)*Ins(omorfi)|%<HEADLINE%>|%<DATE%>|%<INGRESS%>|%<BODY%>] RC([nonword | #]);
+Define word LC([nonword | #]) [\nonword+(%-\nonword+)*(%-)|Ins(omorfi)|%<HEADLINE%>|%<DATE%>|%<INGRESS%>|%<BODY%>] RC([nonword | #]);
 Define token word | Punct;
 Define TOP token EndTag(token) 0:"\n";

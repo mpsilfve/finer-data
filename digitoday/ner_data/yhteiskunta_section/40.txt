@@ -182,15 +182,11 @@ oli
 kooltaan
 180
 megatavua
-32
--
-bittisenä
+32-bittisenä
 ja
 360
 megatavua
-64
--
-bittisenä
+64-bittisenä
 ,
 NDTV
 raportoi

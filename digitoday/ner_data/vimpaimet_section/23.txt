@@ -40,9 +40,7 @@ sekä
 Nokia
 222
 että
-tupla
--
-sim
+tupla-sim
 -korttipaikalla
 varustettu
 Nokia

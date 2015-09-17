@@ -193,14 +193,11 @@ tai
 muiden
 .
 
-com
--
+com-
 ja
 .
 
-net
--
-päätteisten
+net-päätteisten
 sähköpostien
 käyttäjät
 eivät

@@ -161,8 +161,7 @@ osoite
 päätyy
 .
 
-com
--
+com-
 tai
 .
 

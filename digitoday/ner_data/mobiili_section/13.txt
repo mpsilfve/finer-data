@@ -97,15 +97,11 @@ Mutta
 kyseessä
 olikin
 vain
-perus
--
-Z5
+perus-Z5
 ,
 jossa
 on
-1080p
--
-teräväpiirtonäyttö
+1080p-teräväpiirtonäyttö
 .
 
 <PARAGRAPH>
@@ -269,8 +265,7 @@ on
 mahdotonta
 erottaa
 alemman
-quadhd
--
+quadhd-
 tai
 full
 hd

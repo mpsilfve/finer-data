@@ -161,8 +161,7 @@ ilmeisesti
 mattametallinen
 takakansi
 Xperia
-Z5
--
+Z5-
 ja
 Z5
 Compact
@@ -212,9 +211,7 @@ Z5
 -puhelimessa
 olisi
 1080p
-full
--
-hd-näyttö
+full-hd-näyttö
 ja
 Compact-mallin
 näytön

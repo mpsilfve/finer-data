@@ -301,17 +301,13 @@ ikkunoiden
 välillä
 vaihtavan
 näppäinyhdistelmä
-alt
--
-tab
+alt-tab
 käytön
 yleistyminen
 .
 
 <PARAGRAPH>
-Alt
--
-tabin
+Alt-tabin
 lisäksi
 pomonappia
 korvaamaan
@@ -327,9 +323,7 @@ välilehden
 selaimesta
 ,
 sekä
-alt
--
-f4
+alt-f4
 ,
 joka
 tyypillisesti
@@ -360,9 +354,7 @@ yhä
 
 Kaikissa
 tilanteissa
-alt
--
-f4
+alt-f4
 tai
 ctrl-w
 eivät

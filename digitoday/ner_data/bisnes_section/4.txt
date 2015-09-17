@@ -4,9 +4,7 @@ Tekes
 Sijoitukset
 pelialaan
 tulivat
-6—24
--
-kertaisina
+6—24-kertaisina
 takaisin
 
 <DATE>
@@ -165,9 +163,7 @@ maksaneen
 itsensä
 takaisin
 veronmaksajille
-6–24
--
-kertaisena
+6–24-kertaisena
 .
 
 Korhonen

@@ -1,9 +1,7 @@
 <HEADLINE>
 Mehustaako
 Apple
-iPhone
--
-julkistusta
+iPhone-julkistusta
 Pro-tabletilla
 ?
 
@@ -19,9 +17,7 @@ viikolla
 myös
 kauan
 huhutun
-ammattilais
--
-iPadin
+ammattilais-iPadin
 ,
 9to5Mac
 veikkaa

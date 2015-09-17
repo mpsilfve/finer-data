@@ -222,9 +222,7 @@ ohjelmistotiiminä
 ,
 kun
 vedin
-N9
--
-Meego-puhelimen
+N9-Meego-puhelimen
 kehitystä
 Nokialla
 ,

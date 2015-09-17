@@ -174,9 +174,7 @@ osallistumaan
 KitchenAid-tuotepaketin
 ,
 ”täydellisen
-Apple
--
-paketin”
+Apple-paketin”
 ,
 Samsungin
 älytelevision

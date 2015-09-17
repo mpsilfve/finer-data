@@ -18,9 +18,7 @@ torstaina
 käynnistäneensä
 iPhonessa
 toimivan
-Firefox
--
-selaimen
+Firefox-selaimen
 esiversion
 käyttötestauksen
 .

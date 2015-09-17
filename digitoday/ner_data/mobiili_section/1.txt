@@ -57,9 +57,7 @@ ja
 Silent
 Attack
 ,
-Certifi
--
-gate
+Certifi-gate
 ja
 Multitasking-haavoittuvuus
 .

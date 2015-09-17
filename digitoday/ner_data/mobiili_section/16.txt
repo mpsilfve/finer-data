@@ -59,7 +59,9 @@ kädessään
 ase
 ,
 joka
-KPRC-TV:n
+KPRC-TV
+:
+n
 mukaan
 laukesi
 vahingossa

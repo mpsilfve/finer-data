@@ -55,8 +55,7 @@ Z5
 :
 n
 sekä
-Compact
--
+Compact-
 ja
 Premium-mallit
 .
@@ -123,9 +122,7 @@ tuumaa
 720-tarkkuudella
 ,
 ja
-perus
--
-Xperia
+perus-Xperia
 Z5
 :
 ssä
@@ -143,9 +140,7 @@ Xperia
 Z5
 -malleissa
 on
-64
--
-bittinen
+64-bittinen
 Qualcomm
 Snapdragon
 810

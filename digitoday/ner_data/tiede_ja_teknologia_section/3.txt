@@ -207,7 +207,8 @@ löytyvät
 muun
 muassa
 Jim
-Beam-,
+Beam-
+,
 Maker
 '
 s

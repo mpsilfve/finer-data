@@ -187,9 +187,7 @@ lte
 stä
 .
 
-Perus
--
-gsm-liittymien
+Perus-gsm-liittymien
 määrä
 kutistui
 98

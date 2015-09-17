@@ -124,9 +124,7 @@ on
 ongelma
 .
 
-EmotionUI
--
-versio
+EmotionUI-versio
 Androidista
 perustuu
 niin

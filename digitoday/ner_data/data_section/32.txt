@@ -1,7 +1,5 @@
 <HEADLINE>
-Cortana
--
-digiavustajan
+Cortana-digiavustajan
 jakelu
 Android-puhelimiin
 alkoi

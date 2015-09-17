@@ -116,8 +116,7 @@ muassa
 000
 .
 
-gov
--
+gov-
 ja
 .
 

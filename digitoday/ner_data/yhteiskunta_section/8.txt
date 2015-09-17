@@ -106,9 +106,7 @@ joihin
 maassa
 osuu
 ,
-tv
--
-asema
+tv-asema
 ABC7
 :
 n

@@ -97,8 +97,10 @@ korjattu
 ainakin
 BitTorrentin
 omissa
-uTorrent-,
-BitTorrent-,
+uTorrent-
+,
+BitTorrent-
+,
 ja
 BitTorrent
 Sync

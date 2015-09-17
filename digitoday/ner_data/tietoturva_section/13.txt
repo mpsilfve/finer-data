@@ -96,9 +96,7 @@ Client
 Security
 Premium
 ,
-F
--
-Secure
+F-Secure
 Anti-Virus
 For
 Workstations
@@ -125,9 +123,7 @@ Server
 Security
 Premium
 ,
-F
--
-Secure
+F-Secure
 Protection
 Service
 For
@@ -135,9 +131,7 @@ Business
 Workstation
 Security
 ,
-F
--
-Secure
+F-Secure
 Protection
 Service
 For
@@ -145,9 +139,7 @@ Business
 Server
 Security
 ja
-F
--
-Secure
+F-Secure
 Protection
 Service
 For
@@ -170,8 +162,6 @@ F-Secure
 Internet
 Security
 ja
-F
--
-Secure
+F-Secure
 Anti-Virus
 .

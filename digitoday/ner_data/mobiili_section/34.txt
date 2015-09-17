@@ -61,8 +61,7 @@ soittaa
 
 <PARAGRAPH>
 Vanhempia
-2g
--
+2g-
 ja
 3g-verkkoja
 käyttävät

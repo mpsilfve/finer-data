@@ -46,16 +46,19 @@ kamerasovelluksia
 .
 
 Lumia
-Storyteller-,
+Storyteller-
+,
 Lumia
-Beamer-,
+Beamer-
+,
 Lumia
-Photobeamer-,
+Photobeamer-
+,
 Lumia
-Refocus-,
+Refocus-
+,
 Lumia
-Panorama
--
+Panorama-
 ja
 Video
 Uploader
@@ -137,8 +140,7 @@ kohtalo
 on
 myös
 Lumia
-Panorama
--
+Panorama-
 ja
 Video
 Uploader

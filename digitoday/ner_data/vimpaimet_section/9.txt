@@ -425,9 +425,7 @@ Suoritin
 |
 Intel
 Core
-M
--
-5Y51
+M-5Y51
 1,3
 GHz
 Näytönohjain
@@ -470,9 +468,7 @@ usb
 mm
 kuulokemikrofoniyhdistelmäliitin
 ,
-micro
--
-sd
+micro-sd
 kortinlukija
 ,
 laajennusportti

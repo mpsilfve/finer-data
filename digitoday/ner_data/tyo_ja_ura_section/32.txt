@@ -189,10 +189,10 @@ yhtiö
 korostaa
 muun
 muassa
-Bing
--
+Bing-
 ,
-Azure-,
+Azure-
+,
 ja
 Office
 365
