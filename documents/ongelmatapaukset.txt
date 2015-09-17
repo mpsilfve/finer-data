@@ -1,17 +1,17 @@
 
-Bisnes, 0.txt, 39: EU-viranomaisten
+Bisnes, 2.txt: Irlanti versus Irlanti.
 
-Titteli? En laittanut, kun ei spesifioi ket‰‰n tietty‰ henkilˆ‰: EU-viranomainen versus EU-viranomainen Virtanen
- 
+Laitoin joskus ORG ja joskus LOC. Voisi ‰‰nest‰‰ sattuiko muiden mielest‰ oikein.
+
 
 Bisnes, 2.txt, 44-47: Uberin toimitusjohtaja Kallack
 
-Onko "Uberin toimitusjohtaja" yksi vai kaksi titteli‰? Eli B-PER I-PER vai B-ORG B-PER? T‰ll‰ hetkell‰ yksi entiteetti.
+Onko "Uberin toimitusjohtaja" B-PER I-PER vai B-ORG B-PER? T‰ll‰ hetkell‰ B-PER I-PER. Vrt. "Suomen presidentti"
 
 
 Bisnes, 2.txt, 149-151: "Kiinan Google" Baidu
 
-Laitoin B-ORG I-ORG B-ORG eli "Kiinan Google" on m‰‰rittelev‰ entity Baidulle. Vrt. Presidentti Tarja Halonen B-PER B-PER I-PER
+Laitoin B-MISC I-MISC B-ORG eli "Kiinan Google" on NE mut ei PER, LOC, ORG.
 
 
 Bisnes, 3.txt:
@@ -26,9 +26,20 @@ Bisnes, 4.txt, 199-201: Besti Fiends-pelin
 T‰llaiset menee Product-luokkaan.
 
 
-Bisnes, 7.txt, 98-100: Instagram-seuraajat
+Bisnes, 5.txt: Youtube versus Youtube.
 
-Pit‰‰kˆ Instagram t‰g‰t‰, mik‰li tokenisoija on osannut erottaa Instagram + - + seuraajat? T‰ll‰ hetkell‰ ei t‰g‰tty.
+Laitoin joskus ORG ja joskus PROD.
+
+
+Bisnes, 7.txt: New York Fashion Week
+
+Lis‰sin t‰t‰ varten Event-luokan.
+
+
+Bisnes, 7.txt: Instagram-seuraaja.
+
+Onko persoona?
+
 
 
 

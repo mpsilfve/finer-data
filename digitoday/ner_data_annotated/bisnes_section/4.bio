@@ -4,9 +4,7 @@ Tekes	B-ORG
 Sijoitukset	O
 pelialaan	O
 tulivat	O
-6—24	O
--	O
-kertaisina	O
+6—24-kertaisina	O
 takaisin	O
 
 <DATE>
@@ -52,9 +50,7 @@ the	I-PRO
 Finnish	I-PRO
 game	I-PRO
 industry	I-PRO
-2004	I-PRO
--	I-PRO
-2014	I-PRO
+2004-2014	I-PRO
 -selvityksestä	I-PRO
 (	O
 pdf-linkki	O
@@ -167,12 +163,10 @@ maksaneen	O
 itsensä	O
 takaisin	O
 veronmaksajille	O
-6–24	O
--	O
-kertaisena	O
+6—24-kertaisina	O
 .	O
-
-Korhonen	B-PER
+per	O
+Korhonen	O
 sanoo	O
 myös	O
 uskovansa	O
@@ -182,9 +176,7 @@ rahoituksen	O
 turvin	O
 pelialalle	O
 syntyy	O
-hi	O
--	O
-tech-työpaikkoja	O
+hi-tech-työpaikkoja	O
 ja	O
 osaamista	O
 ,	O
@@ -195,10 +187,10 @@ siirrettävissä	O
 ulkomaille	O
 .	O
 
-<PARAGRAPH>
+<PARAGRAPH>	pro
 Besti	B-PRO
 Fiends	I-PRO
--pelin	I-PRO
+-pelin	O
 nimi	O
 korjattu	O
 .	O

@@ -13,7 +13,7 @@ miljardia	O
 09/08/15 10:48 AM	O
 
 <INGRESS>
-Irlanti	B-LOC
+Irlanti	B-ORG
 valmistautuu	O
 pitkään	O
 oikeustaisteluun	O
@@ -31,7 +31,7 @@ toimenpiteisiin	O
 
 <BODY>
 <PARAGRAPH>
-Irlanti	B-LOC
+Irlanti	B-ORG
 on	O
 mitä	O
 todennäköisimmin	O
@@ -55,8 +55,8 @@ Bloomberg	B-ORG
 Uutistoimiston	O
 lähteen	O
 mukaan	O
-Irlannin	B-LOC
-hallitus	O
+Irlannin	B-ORG
+hallitus	I-ORG
 valmistautuu	O
 odotettavissa	O
 olevan	O
@@ -89,7 +89,7 @@ Yhtiö	O
 on	O
 maksanut	O
 liikevaihdostaan	O
-Euroopassa	B-LOC
+Euroopassa	B-ORG
 alle	O
 kahden	O
 prosentin	O
@@ -99,7 +99,7 @@ vuoden	O
 ajan	O
 .	O
 
-Irlannin	B-LOC
+Irlannin	B-ORG
 katsottiin	O
 hyväksyneen	O
 järjestelyn	O
@@ -130,7 +130,7 @@ vuositasolla	O
 
 <PARAGRAPH>
 Jos	O
-Irlanti	B-LOC
+Irlanti	B-ORG
 häviäisi	O
 odotettavissa	O
 olevan	O
@@ -147,11 +147,11 @@ jälkiverot	O
 Asiaa	O
 Bloombergille	B-ORG
 kommentoineen	O
-JPMorgan	B-ORG
-Chase	I-ORG
-&	I-ORG
-Con	I-ORG
-analyytikko	B-PER
+JPMorgan	B-PER
+Chase	I-PER
+&	I-PER
+Con	I-PER
+analyytikko	I-PER
 Rod	B-PER
 Hallin	I-PER
 mukaan	O
@@ -196,8 +196,8 @@ kommentoinut	O
 asiaa	O
 .	O
 
-Irlannin	B-LOC
-valtiovarainministeri	O
+Irlannin	B-PER
+valtiovarainministeri	I-PER
 korosti	O
 ,	O
 että	O

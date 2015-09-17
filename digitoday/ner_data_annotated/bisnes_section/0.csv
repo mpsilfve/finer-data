@@ -13,7 +13,7 @@ miljardia
 09/08/15 10:48 AM	
 	
 <INGRESS>	
-Irlanti	loc
+Irlanti	org
 valmistautuu	
 pitkään	
 oikeustaisteluun	
@@ -31,7 +31,7 @@ toimenpiteisiin
 	
 <BODY>	
 <PARAGRAPH>	
-Irlanti	loc
+Irlanti	org
 on	
 mitä	
 todennäköisimmin	
@@ -55,8 +55,8 @@ Bloomberg	org
 Uutistoimiston	
 lähteen	
 mukaan	
-Irlannin	loc
-hallitus	
+Irlannin	org
+hallitus	org
 valmistautuu	
 odotettavissa	
 olevan	
@@ -89,7 +89,7 @@ Yhtiö
 on	
 maksanut	
 liikevaihdostaan	
-Euroopassa	loc
+Euroopassa	org
 alle	
 kahden	
 prosentin	
@@ -99,7 +99,7 @@ vuoden
 ajan	
 .	
 	
-Irlannin	loc
+Irlannin	org
 katsottiin	
 hyväksyneen	
 järjestelyn	
@@ -130,7 +130,7 @@ vuositasolla
 	
 <PARAGRAPH>	
 Jos	
-Irlanti	loc
+Irlanti	org
 häviäisi	
 odotettavissa	
 olevan	
@@ -147,11 +147,11 @@ jälkiverot
 Asiaa	
 Bloombergille	org
 kommentoineen	
-JPMorgan	org
-Chase	org
-&	org
-Con	org
-analyytikko	bper
+JPMorgan	bper
+Chase	per
+&	per
+Con	per
+analyytikko	per
 Rod	bper
 Hallin	per
 mukaan	
@@ -196,8 +196,8 @@ kommentoinut
 asiaa	
 .	
 	
-Irlannin	loc
-valtiovarainministeri	
+Irlannin	bper
+valtiovarainministeri	per
 korosti	
 ,	
 että	

@@ -58,9 +58,9 @@ rahoittajilta	O
 Uutistoimisto	O
 Reutersin	B-ORG
 mukaan	O
-Didi	B-ORG
-Kuaidin	I-ORG
-edustaja	O
+Didi	B-PER
+Kuaidin	I-PER
+edustaja	I-PER
 ei	O
 suostunut	O
 kommentoimaan	O
@@ -146,8 +146,8 @@ Uberin	B-ORG
 kanssa	O
 on	O
 liittoutunut	O
-“Kiinan	B-ORG
-Google”	I-ORG
+“Kiinan	B-MISC
+Google”	I-MISC
 Baidu	B-ORG
 .	O
 

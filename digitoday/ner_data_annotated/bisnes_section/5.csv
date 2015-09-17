@@ -6,7 +6,7 @@ Google	org
 palaa	
 ja	
 alistuu	
-Kiinan	loc
+Kiinan	org
 sensuuriin	
 ?	
 	
@@ -17,9 +17,7 @@ sensuuriin
 Google	org
 on	
 palaamassa	
-Manner	loc
--	loc
-Kiinaan	loc
+Manner-Kiinaan	loc
 viiden	
 vuoden	
 tauon	
@@ -33,7 +31,7 @@ kirjoittaa
 <BODY>	
 <PARAGRAPH>	
 Internet-yhtiö	
-Google	borg
+Google	org
 näyttää	
 janoavan	
 takaisin	
@@ -147,9 +145,7 @@ tai
 sitten	
 vetäytyy	
 kokonaan	
-Manner	loc
--	loc
-Kiinan	loc
+Manner-Kiinan	loc
 markkinoilta	
 .	
 	

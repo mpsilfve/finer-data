@@ -6,7 +6,7 @@ Google	B-ORG
 palaa	O
 ja	O
 alistuu	O
-Kiinan	B-LOC
+Kiinan	B-ORG
 sensuuriin	O
 ?	O
 
@@ -17,9 +17,7 @@ sensuuriin	O
 Google	B-ORG
 on	O
 palaamassa	O
-Manner	B-LOC
--	I-LOC
-Kiinaan	I-LOC
+Manner-Kiinaan	B-LOC
 viiden	O
 vuoden	O
 tauon	O
@@ -147,9 +145,7 @@ tai	O
 sitten	O
 vetäytyy	O
 kokonaan	O
-Manner	B-LOC
--	I-LOC
-Kiinan	I-LOC
+Manner-Kiinan	B-LOC
 markkinoilta	O
 .	O
 

@@ -11,7 +11,7 @@ dollaria	O
 09/08/15 09:13 AM	O
 
 <INGRESS>
-Verkkokauppa	B-ORG
+Verkkokauppa	O
 Amazon	B-ORG
 aikoo	O
 tuoda	O
@@ -51,7 +51,6 @@ muillakin	O
 Wall	B-PRO
 Street	I-PRO
 Journalin	I-PRO
-
 mukaan	O
 Amazon	B-ORG
 yrittää	O

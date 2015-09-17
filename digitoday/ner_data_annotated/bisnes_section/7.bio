@@ -15,10 +15,10 @@ tärkein	O
 tekijä	O
 torstaina	O
 alkavan	O
-New	B-PRO
-York	I-PRO
-Fashion	I-PRO
-Weekin	I-PRO
+New	B-EVE
+York	I-EVE
+Fashion	I-EVE
+Weekin	I-EVE
 suosituimpien	O
 uusien	O
 mallien	O
@@ -95,9 +95,7 @@ muuttujia	O
 kuin	O
 lavaesiintymisten	O
 ja	O
-Instagram	O
--	O
-seuraajien	O
+Instagram-seuraajien	O
 lukumäärä	O
 ,	O
 merkintöjen	O
@@ -186,7 +184,6 @@ mallien	O
 suosioon	O
 voimakkaasti	O
 ,	O
-
 mutta	O
 sävy	O
 ei	O
@@ -254,9 +251,10 @@ muun	O
 muassa	O
 Inferse	B-PRO
 ja	O
-Indianan	B-ORG
-yliopiston	I-ORG
-uutispalvelu	I-ORG
+Indianan	B-PRO
+yliopiston	I-PRO
+uutis	I-PRO
+palvelu	I-PRO
 .	O
 
 Yliopiston	O
