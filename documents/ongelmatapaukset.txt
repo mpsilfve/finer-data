@@ -41,6 +41,20 @@ Bisnes, 7.txt: Instagram-seuraaja.
 Onko persoona?
 
 
+Bisnes, 11.txt: Google Mapsin mobiiliversion tutkimusmatkasovelluksesta
+
+Laitoin koko litanjan Product-luokkaan
+
+
+Bisnes, 12.txt: Gigafactory-akkutehtaan
+
+Lis‰sin Facility-luokan.
+
+Bisnes, 13.txt: Nokian Here-karttaliiketoiminta
+
+Miten t‰g‰t‰‰n?
+
+
 
 
 

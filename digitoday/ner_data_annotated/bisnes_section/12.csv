@@ -1,181 +1,181 @@
-<HEADLINE>
-Elon
-Musk
-paljasti
-"
-halpa-Teslan
-"
-aikataulun
-
-<DATE>
-3.9.2015 08:18
-
-<INGRESS>
-Teslan
-toimitusjohtaja
-Elon
-Musk
-ilmoitti
-keskiviikkona
-Twitter-viestillä
-"
-kansanmallin
-"
-aikataulun
-.
-
-<BODY>
-<PARAGRAPH>
-Elon
-Muskin
-tviitin
-mukaan
-Tesla
-Model
-3
--sähköauton
-tuotanto
-alkaa
-noin
-kahden
-vuoden
-päästä
-.
-
-Tarkka
-ajankohta
-riippuu
-yhtiön
-Nevadaan
-rakentaman
-Gigafactory-akkutehtaan
-valmistumisesta
-.
-
-<PARAGRAPH>
-Musk
-tviittasi
-myöhemmin
-Model
-3:n
-35
-000
-dollarin
-hintalapusta
-ja
-maaliskuussa
-tapahtuvasta
-julkistuksesta
-ja
-ennakkotilausten
-avautumisesta
-,
-Cnet
-kirjoitti
-.
-
-<PARAGRAPH>
-Teslan
-nykyinen
-auto
-Model
-S
-maksaa
-noin
-71
-000
-dollaria
-.
-
-Model
-X
--katumaasturin
-Signature-huippumalli
-,
-jonka
-toimitukset
-ovat
-juuri
-alkamassa
-,
-maksaa
-132
-000
-dollaria
-.
-
-Model
-X
-on
-samalla
-varustelulla
-5000
-dollaria
-kalliimpi
-kuin
-Model
-S.
-Ensimmäiset
-Model
-X
--autot
-toimitetaan
-ennakkotilaajille
-29.
-syyskuuta
-.
-
-The
-Verge
-kirjoitti
-,
-että
-nyt
-tilauksen
-tekevät
-joutuvat
-odottamaan
-toimitusta
-ensi
-vuoden
-puolelle
-.
-
-<PARAGRAPH>
-Elon
-Musk
-tunnetaan
-vahvasti
-optimistisista
-lupauksistaan
-.
-
-Vaikka
-aikataulut
-eivät
-ole
-pitäneet
-,
-hän
-on
-pystynyt
-luovimaan
-yritystään
-näyttävästi
-niin
-autoissa
-,
-akuissa
-kuin
-avaruuskuljetuksessa
-.
-
-Tesla
-tosin
-tekee
-edelleen
-tappiota
-jokaisella
-myymällään
-autolla
-.
+<HEADLINE>	
+Elon	per
+Musk	per
+paljasti	
+"	misc
+halpa-Teslan	misc
+"	misc
+aikataulun	
+	
+<DATE>	
+09/03/15 08:18 AM	
+	
+<INGRESS>	
+Teslan	bper
+toimitusjohtaja	per
+Elon	bper
+Musk	per
+ilmoitti	
+keskiviikkona	
+Twitter-viestillä	
+"	
+kansanmallin	
+"	
+aikataulun	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Elon	per
+Muskin	per
+tviitin	
+mukaan	
+Tesla	pro
+Model	pro
+3	pro
+-sähköauton	pro
+tuotanto	
+alkaa	
+noin	
+kahden	
+vuoden	
+päästä	
+.	
+	
+Tarkka	
+ajankohta	
+riippuu	
+yhtiön	
+Nevadaan	loc
+rakentaman	
+Gigafactory-akkutehtaan	fac
+valmistumisesta	
+.	
+	
+<PARAGRAPH>	
+Musk	per
+tviittasi	
+myöhemmin	
+Model	pro
+3:n	pro
+35	
+0	
+dollarin	
+hintalapusta	
+ja	
+maaliskuussa	
+tapahtuvasta	
+julkistuksesta	
+ja	
+ennakkotilausten	
+avautumisesta	
+,	
+Cnet	pro
+kirjoitti	
+.	
+	
+<PARAGRAPH>	
+Teslan	org
+nykyinen	
+auto	
+Model	pro
+S	pro
+maksaa	
+noin	
+71	
+0	
+dollaria	
+.	
+	
+Model	pro
+X	pro
+-katumaasturin	pro
+Signature-huippumalli	pro
+,	
+jonka	
+toimitukset	
+ovat	
+juuri	
+alkamassa	
+,	
+maksaa	
+132	
+0	
+dollaria	
+.	
+	
+Model	pro
+X	pro
+on	
+samalla	
+varustelulla	
+5000	
+dollaria	
+kalliimpi	
+kuin	
+Model	pro
+S.	pro
+Ensimmäiset	
+Model	pro
+X	pro
+-autot	pro
+toimitetaan	
+ennakkotilaajille	
+29.	
+syyskuuta	
+.	
+	
+The	pro
+Verge	pro
+kirjoitti	
+,	
+että	
+nyt	
+tilauksen	
+tekevät	
+joutuvat	
+odottamaan	
+toimitusta	
+ensi	
+vuoden	
+puolelle	
+.	
+	
+<PARAGRAPH>	
+Elon	per
+Musk	per
+tunnetaan	
+vahvasti	
+optimistisista	
+lupauksistaan	
+.	
+	
+Vaikka	
+aikataulut	
+eivät	
+ole	
+pitäneet	
+,	
+hän	
+on	
+pystynyt	
+luovimaan	
+yritystään	
+näyttävästi	
+niin	
+autoissa	
+,	
+akuissa	
+kuin	
+avaruuskuljetuksessa	
+.	
+	
+Tesla	org
+tosin	
+tekee	
+edelleen	
+tappiota	
+jokaisella	
+myymällään	
+autolla	
+.	
