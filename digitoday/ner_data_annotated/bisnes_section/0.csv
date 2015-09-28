@@ -1,5 +1,5 @@
 <HEADLINE>	
-Apple	org
+Apple	org com
 joutumassa	
 veromyrskyn	
 silmään	
@@ -13,25 +13,25 @@ miljardia
 09/08/15 10:48 AM	
 	
 <INGRESS>	
-Irlanti	org
+Irlanti	org pol
 valmistautuu	
 pitkään	
 oikeustaisteluun	
-EU:ta	org
+EU:ta	org pol
 vastaan	
 ,	
 jos	
-Applen	org
+Applen	org com
 verojärjestelyt	
 maassa	
 johtavat	
-EU:n	org
+EU:n	org pol
 toimenpiteisiin	
 .	
 	
 <BODY>	
 <PARAGRAPH>	
-Irlanti	org
+Irlanti	org pol
 on	
 mitä	
 todennäköisimmin	
@@ -42,25 +42,25 @@ kohteeksi
 maassa	
 Euroopan-pääkonttoriaan	
 pitävän	
-Applen	org
+Applen	org com
 verojärjestelyjen	
 vuoksi	
 ,	
 kertoo	
 uutistoimisto	
-Bloomberg	org
+Bloomberg	news agency
 .	
 	
 <PARAGRAPH>	
 Uutistoimiston	
 lähteen	
 mukaan	
-Irlannin	org
-hallitus	org
+Irlannin	org pol
+hallitus	
 valmistautuu	
 odotettavissa	
 olevan	
-EU:n	org
+EU:n	org pol
 päätöksen	
 vastaiseen	
 oikeustaisteluun	
@@ -72,15 +72,15 @@ vuosia
 .	
 	
 <PARAGRAPH>	
-EU:n	org
+EU:n	org pol
 viime	
 vuonna	
 valmistuneessa	
 alustavassa	
 selvityksessä	
-Applen	org
+Applen	org com
 verojärjestelyt	
-Irlannissa	loc
+Irlannissa	loc pol
 todettiin	
 kestämättömäksi	
 .	
@@ -89,7 +89,7 @@ Yhtiö
 on	
 maksanut	
 liikevaihdostaan	
-Euroopassa	org
+Euroopassa	loc cont
 alle	
 kahden	
 prosentin	
@@ -99,19 +99,19 @@ vuoden
 ajan	
 .	
 	
-Irlannin	org
+Irlannin	org pol
 katsottiin	
 hyväksyneen	
 järjestelyn	
 vastakauppana	
-Applen	org
+Applen	org com
 maahan	
 tuomista	
 työpaikoista	
 .	
 	
 <PARAGRAPH>	
-EU	org
+EU	org pol
 on	
 puuttumassa	
 aktiivisesti	
@@ -130,14 +130,14 @@ vuositasolla
 	
 <PARAGRAPH>	
 Jos	
-Irlanti	org
+Irlanti	org pol
 häviäisi	
 odotettavissa	
 olevan	
 oikeustaistelun	
 ,	
 voisi	
-Apple	org
+Apple	org com
 joutua	
 maksamaan	
 mittavat	
@@ -145,14 +145,14 @@ jälkiverot
 .	
 	
 Asiaa	
-Bloombergille	org
+Bloombergille	news agency
 kommentoineen	
-JPMorgan	bper
-Chase	per
-&	per
-Con	per
-analyytikko	per
-Rod	bper
+JPMorgan	org com
+Chase	org com
+&	org com
+Con	org com
+analyytikko	
+Rod	per
 Hallin	per
 mukaan	
 summa	
@@ -175,7 +175,7 @@ vaikeaa
 .	
 	
 <PARAGRAPH>	
-Apple	org
+Apple	org com
 on	
 aikaisemmin	
 kiistänyt	
@@ -185,19 +185,19 @@ veronkiertoa
 eikä	
 halunnut	
 kommentoida	
-Bloombergin	org
+Bloombergin	news agency
 väitteitä	
 .	
 	
 Myöskään	
-EU-komissio	org
+EU-komissio	org pol
 ei	
 kommentoinut	
 asiaa	
-.	
+0	
 	
-Irlannin	bper
-valtiovarainministeri	per
+Irlannin	org pol
+valtiovarainministeri	
 korosti	
 ,	
 että	
@@ -209,16 +209,16 @@ tehty
 .	
 	
 <PARAGRAPH>	
-Applen	org
+Applen	org com
 lisäksi	
-kilpailukomissaari	bper
-Margrethe	bper
+kilpailukomissaari	
+Margrethe	per
 Vestager	per
 tutkii	
-Amazonin	org
+Amazonin	org com
 sekä	
-Starbucksin	org
+Starbucksin	org com
 toimia	
 muualla	
-Euroopassa	loc
+Euroopassa	loc cont
 .	

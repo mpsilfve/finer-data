@@ -1,5 +1,5 @@
 <HEADLINE>	
-Tekes	org
+Tekes	org research
 :	
 Sijoitukset	
 pelialaan	
@@ -11,10 +11,10 @@ takaisin
 09/07/15 03:37 PM	
 	
 <INGRESS>	
-Tekesin	org
+Tekesin	org research
 lukujen	
 mukaan	
-Suomen	loc
+Suomen	loc pol
 peliala	
 on	
 kasvanut	
@@ -27,7 +27,7 @@ euroon
 	
 <BODY>	
 <PARAGRAPH>	
-Suomen	loc
+Suomen	loc pol
 peliala	
 on	
 kasvanut	
@@ -36,22 +36,22 @@ miljardibisnekseksi
 ,	
 käy	
 ilmi	
-Tekesin	org
+Tekesin	org research
 julkaisemasta	
-10	pro
-years	pro
-of	pro
-Tekes	pro
-funding	pro
-and	pro
-networks	pro
-for	pro
-the	pro
-Finnish	pro
-game	pro
-industry	pro
-2004-2014	pro
--selvityksestä	pro
+10	report
+years	report
+of	report
+Tekes	report
+funding	report
+and	report
+networks	report
+for	report
+the	report
+Finnish	report
+game	report
+industry	report
+2004-2014	report
+-selvityksestä	report
 (	
 pdf-linkki	
 )	
@@ -60,7 +60,7 @@ pdf-linkki
 <PARAGRAPH>	
 Vuonna	
 2004	
-Suomen	loc
+Suomen	loc pol
 pelialan	
 liikevaihto	
 oli	
@@ -78,7 +78,7 @@ miljardiin
 	
 Peliala	
 työllistää	
-Suomessa	loc
+Suomessa	loc pol
 tällä	
 hetkellä	
 noin	
@@ -95,13 +95,13 @@ peliala
 muodosti	
 10	
 prosenttia	
-Suomen	loc
+Suomen	loc pol
 it-alan	
 liikevaihdosta	
 .	
 	
 <PARAGRAPH>	
-Tekes	org
+Tekes	org research
 kertoo	
 rahoittaneensa	
 kymmenen	
@@ -122,12 +122,12 @@ rahoittaja
 käynnisti	
 vuonna	
 2012	
-Skene	pro
-–	pro
-Games	pro
-Refueled	pro
--nimisen	pro
-ohjelman	pro
+Skene	programme
+–	programme
+Games	programme
+Refueled	programme
+-nimisen	programme
+ohjelman	programme
 auttamaan	
 pelintekijöiden	
 verkostumista	
@@ -136,7 +136,7 @@ rahoituksen
 hankkimista	
 .	
 	
-Tekesin	org
+Tekesin	org research
 mukaan	
 ohjelman	
 puitteissa	
@@ -151,12 +151,12 @@ edestä
 .	
 	
 <PARAGRAPH>	
-Skene-ohjelman	bper
-vetäjä	per
-Kari	bper
+Skene-ohjelman	programme
+vetäjä	
+Kari	per
 Korhonen	per
 sanoo	
-Tekesin	org
+Tekesin	org research
 tiedotteessa	
 sijoitusten	
 maksaneen	
@@ -165,8 +165,8 @@ takaisin
 veronmaksajille	
 6—24-kertaisina	
 .	
-	per
-Korhonen	
+	
+Korhonen	per
 sanoo	
 myös	
 uskovansa	
@@ -187,10 +187,10 @@ siirrettävissä
 ulkomaille	
 .	
 	
-<PARAGRAPH>	pro
-Besti	pro
-Fiends	pro
--pelin	
+<PARAGRAPH>	
+Besti	game
+Fiends	game
+-pelin	game
 nimi	
 korjattu	
 .	
