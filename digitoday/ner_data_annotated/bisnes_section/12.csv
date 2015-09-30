@@ -1,23 +1,23 @@
 <HEADLINE>	
-Elon	per
-Musk	per
+Elon	per nam
+Musk	per nam
 paljasti	
-"	misc
-halpa-Teslan	misc
-"	misc
+"	
+halpa-Teslan	
+"	
 aikataulun	
 	
 <DATE>	
 09/03/15 08:18 AM	
 	
 <INGRESS>	
-Teslan	bper
-toimitusjohtaja	per
-Elon	bper
-Musk	per
+Teslan	org com
+toimitusjohtaja	per tit
+Elon	per nam
+Musk	per nam
 ilmoitti	
 keskiviikkona	
-Twitter-viestillä	
+Twitter-viestillä	pro
 "	
 kansanmallin	
 "	
@@ -46,14 +46,14 @@ Tarkka
 ajankohta	
 riippuu	
 yhtiön	
-Nevadaan	loc
+Nevadaan	loc pol
 rakentaman	
-Gigafactory-akkutehtaan	fac
+Gigafactory-akkutehtaan	pro
 valmistumisesta	
 .	
 	
 <PARAGRAPH>	
-Musk	per
+Musk	per nam
 tviittasi	
 myöhemmin	
 Model	pro
@@ -75,7 +75,7 @@ kirjoitti
 .	
 	
 <PARAGRAPH>	
-Teslan	org
+Teslan	org com
 nykyinen	
 auto	
 Model	pro
@@ -170,7 +170,7 @@ kuin
 avaruuskuljetuksessa	
 .	
 	
-Tesla	org
+Tesla	org com
 tosin	
 tekee	
 edelleen	

@@ -1,6 +1,6 @@
 <HEADLINE>	
 Jenkit	
-Nokian	org
+Nokian	org com
 karttakaupasta	
 :	
 Antaa	
@@ -16,10 +16,10 @@ for
 it	
 ,	
 on	
-Yhdysvaltain	loc
+Yhdysvaltain	loc pol
 viesti	
-Nokian	org
-Hereä	org
+Nokian	org com
+Hereä	pro
 havitteleville	
 saksalaisille	
 autovalmistajille	
@@ -27,19 +27,19 @@ autovalmistajille
 	
 <BODY>	
 <PARAGRAPH>	
-Yhdysvaltain	borg
-kilpailuviranomainen	org
-FTC	borg
+Yhdysvaltain	loc pol
+kilpailuviranomainen	
+FTC	org
 hyväksyy	
-BMW:n	org
+BMW:n	org com
 ,	
-Audin	org
+Audin	org com
 ja	
-Mercedeksen	org
+Mercedeksen	org com
 aikeet	
 ostaa	
-Nokian	org
-Here-karttaliiketoiminta	org
+Nokian	org com
+Here-karttaliiketoiminta	pro
 .	
 	
 FTC	org
@@ -49,14 +49,14 @@ puolesta
 keskiviikkona	
 ,	
 uutistoimisto	
-Reuters	org
+Reuters	org com
 kertoo	
 .	
 	
 <PARAGRAPH>	
 Autovalmistajat	
 ja	
-Nokia	org
+Nokia	org com
 vahvistivat	
 elokuun	
 alussa	
@@ -70,7 +70,7 @@ Valmistajien
 kolmikko	
 on	
 ostamassa	
-Heren	org
+Heren	org com
 noin	
 2.8	
 miljardilla	
@@ -88,7 +88,7 @@ osuuden
 liiketoiminnasta	
 .	
 	
-Heren	org
+Heren	org com
 odotetaan	
 auttavan	
 niitä	
