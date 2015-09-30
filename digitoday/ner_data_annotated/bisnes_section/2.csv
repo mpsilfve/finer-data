@@ -1,5 +1,5 @@
 <HEADLINE>	
-Kiinan	loc pol
+Kiinan	loc
 kyytipalvelut	
 taistelevat	
 miljardipaukuilla	
@@ -8,11 +8,11 @@ miljardipaukuilla
 09/08/15 09:38 AM	
 	
 <INGRESS>	
-Kiinan	loc pol
+Kiinan	loc
 johtava	
 kyytipalvelu	
-Didi	org com
-Kuaidi	org com
+Didi	org
+Kuaidi	org
 saa	
 rahoittajilta	
 kolmen	
@@ -25,7 +25,7 @@ Samaan
 aikaan	
 amerikkalainen	
 kilpailija	
-Uber	org com
+Uber	org
 kertoi	
 omien	
 rahoittajiensa	
@@ -41,13 +41,13 @@ laajentamiseen
 <BODY>	
 <PARAGRAPH>	
 Maanantaina	
-Uberin	org com
-toimitusjohtaja	per tit
-Travis	per nam
-Kalanick	per nam
+Uberin	org
+toimitusjohtaja	tit
+Travis	per
+Kalanick	per
 sanoi	
-Uber	org com
-Chinan	org com
+Uber	org
+Chinan	org
 keränneen	
 1.2	
 miljardia	
@@ -56,10 +56,10 @@ rahoittajilta
 .	
 	
 Uutistoimisto	
-Reutersin	org news agency
+Reutersin	org
 mukaan	
-Didi	org com
-Kuaidin	org com
+Didi	org
+Kuaidin	org
 edustaja	
 ei	
 suostunut	
@@ -69,8 +69,8 @@ rahoitustilannetta
 	
 <PARAGRAPH>	
 Heinäkuussa	
-Didi	org com
-Kuaidi	org com
+Didi	org
+Kuaidi	org
 ,	
 jolla	
 on	
@@ -94,7 +94,7 @@ päälle
 .	
 	
 Uutistoimisto	
-Bloombergin	org news agency
+Bloombergin	org
 lähteiden	
 mukaan	
 päämääränä	
@@ -106,15 +106,15 @@ sijoituskierros
 .	
 	
 <PARAGRAPH>	
-Didi	org com
-Kuaidin	org com
+Didi	org
+Kuaidin	org
 markkina-arvoksi	
 lasketaan	
 16.5	
 miljardia	
-0	
+.	
 	
-Uberin	org com
+Uberin	org
 markkina-arvo	
 on	
 ylittänyt	
@@ -124,7 +124,7 @@ dollaria
 .	
 	
 <PARAGRAPH>	
-Kiinan	loc pol
+Kiinan	loc
 odotetaan	
 muodostuvan	
 kyytienjakopalvelujen	
@@ -142,20 +142,20 @@ ovat
 vastakkain	
 .	
 	
-Uberin	org com
+Uberin	org
 kanssa	
 on	
 liittoutunut	
 “Kiinan	
 Google”	
-Baidu	org com
+Baidu	org
 .	
 	
-Didi	org com
-Kuaidin	org com
+Didi	org
+Kuaidin	org
 takana	
 ovat	
-Tencent	org com
+Tencent	org
 ja	
-Alibaba	org com
+Alibaba	org
 .	
