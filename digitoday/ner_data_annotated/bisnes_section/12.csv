@@ -1,6 +1,6 @@
 <HEADLINE>	
-Elon	per nam
-Musk	per nam
+Elon	per
+Musk	per
 paljasti	
 "	
 halpa-Teslan	
@@ -12,9 +12,9 @@ aikataulun
 	
 <INGRESS>	
 Teslan	org com
-toimitusjohtaja	per tit
-Elon	per nam
-Musk	per nam
+toimitusjohtaja	tit
+Elon	per
+Musk	per
 ilmoitti	
 keskiviikkona	
 Twitter-viestillä	pro
@@ -46,14 +46,14 @@ Tarkka
 ajankohta	
 riippuu	
 yhtiön	
-Nevadaan	loc pol
+Nevadaan	loc
 rakentaman	
 Gigafactory-akkutehtaan	pro
 valmistumisesta	
 .	
 	
 <PARAGRAPH>	
-Musk	per nam
+Musk	per
 tviittasi	
 myöhemmin	
 Model	pro
@@ -75,7 +75,7 @@ kirjoitti
 .	
 	
 <PARAGRAPH>	
-Teslan	org com
+Teslan	org
 nykyinen	
 auto	
 Model	pro
@@ -90,7 +90,7 @@ dollaria
 Model	pro
 X	pro
 -katumaasturin	pro
-Signature-huippumalli	pro
+Signature-huippumalli	bpro
 ,	
 jonka	
 toimitukset	
@@ -170,7 +170,7 @@ kuin
 avaruuskuljetuksessa	
 .	
 	
-Tesla	org com
+Tesla	org
 tosin	
 tekee	
 edelleen	
