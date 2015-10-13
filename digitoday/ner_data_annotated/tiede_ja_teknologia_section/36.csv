@@ -1,0 +1,349 @@
+<HEADLINE>	
+Hakkerit	
+päihittivät	
+Volkswagenin	org
+—	
+joka	
+yritti	
+vaientaa	
+heidät	
+	
+<DATE>	
+17.8.2015 13:30	
+	
+<INGRESS>	
+Volkswagen	org
+taisteli	
+kaksi	
+vuotta	
+salatakseen	
+kolmen	
+tietoturvatutkijan	
+löytämän	
+ongelman	
+autojen	
+varkaussuojassa	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Asiasta	
+kirjoittaa	
+uutistoimisto	
+Bloomberg	org
+.	
+	
+Tutkijat	
+Hollannissa	loc
+ja	
+Isossa-Britanniassa	loc
+näyttivät	
+,	
+miten	
+useissa	
+autoissa	
+käytetty	
+menetelmä	
+avaimettomien	
+autojen	
+suojaamiseksi	
+varkailta	
+on	
+ohitettavissa	
+.	
+	
+<PARAGRAPH>	
+Heikkous	
+piilee	
+yleisessä	
+rfid-sirussa	
+,	
+joka	
+käytetään	
+ajonestolaitteissa	
+.	
+	
+VW	org
+:	org
+n	org
+merkeistä	
+sitä	
+käytetään	
+esimerkiksi	
+Audeissa	pro
+,	
+Porscheissa	pro
+ja	
+Bentley-luksusautoissa	pro
+.	
+	
+Samaa	
+sirua	
+käytetään	
+myös	
+joissakin	
+Fiateissa	pro
+,	
+Volvoissa	pro
+,	
+Hondissa	pro
+ja	
+Maserati-urheiluautoissa	pro
+.	
+	
+<PARAGRAPH>	
+Tutkijat	
+mursivat	
+sirun	
+96-bittisen	
+salauksen	
+ja	
+pystyivät	
+rajaamaan	
+potentiaalisten	
+avainten	
+määrää	
+noin	
+200	
+000	
+:	
+een	
+,	
+jolloin	
+oikean	
+avaimen	
+löytäminen	
+oli	
+mahdollista	
+laskentatehoon	
+perustuvalla	
+brute	
+force	
+-hyökkäyksellä	
+.	
+	
+<PARAGRAPH>	
+Temppuun	
+meni	
+puoli	
+tuntia	
+.	
+	
+VW	org
+ei	
+usko	
+menetelmän	
+sopivan	
+jokaiselle	
+autovarkaalle	
+.	
+	
+Mutta	
+tutkimukseen	
+tutustuneet	
+ulkopuoliset	
+tietoturva-asiantuntijat	
+pitävät	
+menetelmää	
+varteenotettavana	
+järjestäytyneelle	
+rikollisuudelle	
+,	
+joka	
+varastaa	
+kalliita	
+autoja	
+tilauksesta	
+.	
+	
+On	
+arvioitu	
+,	
+että	
+ongelman	
+korjaaminen	
+edellyttää	
+sekä	
+rfid-sirujen	
+että	
+autoissa	
+olevien	
+transpondereiden	
+vaihtamista	
+.	
+	
+<PARAGRAPH>	
+Volkswagen	org
+haastoi	
+tutkijat	
+oikeuteen	
+vuonna	
+2013	
+estääkseen	
+haavoittuvuuden	
+julkaisemisen	
+.	
+	
+Mutta	
+tällä	
+viikolla	
+tutkimus	
+esitellään	
+Usenix-tapahtumassa	pro
+Washington	loc
+D	loc
+.	loc
+	loc
+C:ssä	loc
+.	
+	
+Tämä	
+on	
+mahdollista	
+,	
+koska	
+VW	org
+:	org
+n	org
+mukaan	
+riita	
+ratkaistiin	
+sopuisasti	
+.	
+	
+<PARAGRAPH>	
+Julkisesta	
+tutkimuksesta	
+on	
+poistettu	
+vain	
+yksi	
+lause	
+,	
+mikä	
+tutkijoiden	
+mukaan	
+vaikeuttaa	
+menetelmän	
+käyttöä	
+merkittävästi	
+.	
+	
+<PARAGRAPH>	
+VW:n	org
+mukaan	
+ongelma	
+ei	
+kosketa	
+sen	
+nykyisiä	
+automalleja	
+kuten	
+VW	pro
+Passateja	pro
+tai	
+Golfeja	pro
+.	
+	
+<PARAGRAPH>	
+Murtovaaralta	
+ei	
+voi	
+ummistaa	
+silmiään	
+	
+<PARAGRAPH>	
+Autojen	
+järjestelmien	
+murtaminen	
+on	
+ollut	
+yksi	
+tämän	
+vuoden	
+puhuttuja	
+tietoturva-aiheita	
+.	
+	
+Ongelma	
+on	
+koko	
+teollisuuden	
+laajuinen	
+,	
+ja	
+muistakin	
+avainjärjestelmistä	
+on	
+löydetty	
+heikkouksia	
+.	
+	
+<PARAGRAPH>	
+Äskettäin	
+eräs	
+tietoturvatutkija	
+julkisti	
+halvan	
+työkalun	
+,	
+jolla	
+saa	
+auki	
+kaukosäädintä	
+käyttävän	
+auton	
+tai	
+autotallin	
+lukon	
+.	
+	
+<PARAGRAPH>	
+Fiat	org
+Chrysler	org
+on	
+tapellut	
+oman	
+jopa	
+1,4	
+miljoonaa	
+autoa	
+käsittävän	
+kyberongelman	
+kanssa	
+.	
+	
+Yhtiö	
+salaili	
+puolitoista	
+vuotta	
+haavoittuvuutta	
+,	
+jolla	
+auton	
+pystyy	
+kaappaamaan	
+etäältä	
+.	
+	
+Fiatin	org
+mukaan	
+heillä	
+ei	
+ollut	
+tietoa	
+,	
+miten	
+vakavasta	
+ongelmasta	
+on	
+kyse	
+,	
+ennen	
+kuin	
+se	
+todistettiin	
+käytännön	
+kokeessa	
+kesällä	
+.	

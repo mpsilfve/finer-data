@@ -1,24 +1,219 @@
 
+—————————————————
+Työ ja ura
+—————————————————
 
-Titteli kiinni erisnimessä.
-Organisaatioilla ei titteleitä.
+1. oikeusministeriö/valtiovarainministeriö/jne.
 
+Organisaatioita. Onko merkitystä puhutaanko Suomen vai Yhdysvaltojen ministeriöistä?
 
-Bisnes, 2.txt: Irlanti versus Irlanti.
+2. kongressi
 
-Laitoin joskus ORG ja joskus LOC. Voisi ‰‰nest‰‰ sattuiko muiden mielest‰ oikein.
+Virallinen nimitys on Yhdysvaltain kongressi. Merkataanko pelkkä kongressi organisaatioksi ?
 
+3. Republikaanit / Demokraattipuolue
 
-Bisnes, 5.txt: Youtube versus Youtube.
-
-Youtube on voi olla joko organisaatio tai tuote, vrt. Irlanti versus Irlanti.
-
-
-Bisnes, 2.txt, 44-47: Uberin toimitusjohtaja Kallack
-
-ORG TITTELI PERS
+Viralliset nimitykset ovat “Republikaaninen puolue” ja “Demokraattinen puolue”? Jätin merkkaamatta lyhennykset ja kansanomaistukset kuten “Republikaanit / Demokraattipuolue”.
 
 
-Bisnes, 2.txt, 149-151: "Kiinan Google" Baidu
 
-Ei entiteetti.
+
+—————————————————
+Tietoturva
+—————————————————
+
+0. Facebook-sovellus
+
+O
+
+1. Android-haittaohjelma
+
+O
+
+2. Spam King
+
+Nimimerkki? Persoona vai Tuotos? Laitoin Persoona.
+
+
+
+—————————————————
+Bisnes
+—————————————————
+
+
+0. EU-viranomaiset (1.txt)
+
+O
+
+2. Euroopan-pääkonttori (1.txt)
+
+O
+
+3. Kiinan-toimintansa (2.txt)
+
+O
+
+4. “Kiinan Google” Baidu (2.txt)
+
+B-LOC B-ORG B-ORG
+
+5. Google Play -kaupan erityiselle Kiinan-versiolle (5.txt)
+
+B-PRO I-PRO I-PRO O O
+
+6. Instagram-suosio (7.txt)
+
+O
+
+7. New York Fashion Week (7.txt)
+ 
+B-PRO I-PRO I-PRO I-PRO
+
+8. Instagram-seuraajat (7.txt)
+
+O
+
+9. Firefox-selaimen esiversio (8.txt)
+
+B-PRO O (ei katastrofi jos B-PRO I-PRO)
+
+10. Firefox-tili (8.txt)
+
+O
+
+11. Google Mapsin mobiiliversion tutkimusmatkasovelluksesta (11.txt)
+
+B-PRO I-PRO I-PRO O
+
+12. “halpa-Tesla” (12.txt)
+
+O
+
+13. Flash-muotoinen automaattivideo (23.txt)
+
+O O
+
+14. Flash-rajoitus (23.txt)
+
+O
+
+15. Android-valmistaja (28.txt)
+
+O
+
+16. Stagefright-haavoittuvuuden (28.txt)
+
+O
+
+17. vuoden 2022 MM-kisojen (30.txt)
+
+O B-PRO I-PRO
+
+
+
+—————————————————
+Data
+—————————————————
+
+1. Irlannin hallitus
+
+B-ORG I-ORG
+
+2. Indianan yliopisto
+
+B-ORG I-ORG
+
+3. Windows 10 -päivitys
+
+B-PRO I-PRO I-PRO
+
+4. iPhone-puhelin
+
+B-PRO
+
+5. Siri-avustaja
+
+B-PRO
+
+6. iPhone 6S -malli
+
+B-PRO I-PRO I-PRO
+
+7. Cross Research -analyysiyhtiö
+
+B-ORG I-ORG I-ORG
+
+8. Force touch -tekniikka
+
+B-PRO I-PRO I-PRO
+
+9. Ashley Madison -tieto
+
+B-PRO I-PRO I-PRO
+
+10. iOS:n versio 8.4
+
+B-PRO I-PRO I-PRO
+
+11. iOS - laite
+
+B-PRO I-PRO I-PRO
+
+12. Apple Store -tarkastus
+
+B-PRO I-PRO I-PRO
+
+13. Windows 7:n ja 8:n
+
+B-PRO I-PRO I-PRO I-PRO
+
+14. Sphinx-niminen variantti
+
+B-PRO I-PRO I-PRO
+
+15. Zeus-perhe
+
+B-PRO
+
+16. Cortana-digiavustaja
+
+B-PRO
+
+17. Cortanan Android-versio
+
+B-PRO B-PRO
+
+18. Blink-pohjaiset laajennukset
+
+B-PRO I-PRO
+
+19. XPCOM- ja XUL-tekniikat
+
+B-PRO O B-PRO
+
+20. Whatsapp-pikaviestisovelluksen Windows Phone -versio
+
+B-PRO B-PRO I-PRO I-PRO
+
+21. Whatsapp-viesti
+
+B-PRO 
+
+22. Spotify-palvelu
+
+B-PRO
+
+23. GPS-paikannus
+
+B-PRO
+
+24. Spotify Running -juoksusovellus
+
+B-PRO I-PRO I-PRO
+
+
+
+
+
+
+
