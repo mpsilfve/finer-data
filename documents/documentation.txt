@@ -1,4 +1,120 @@
 
+
+Current entity categories:
+
+1. Location (LOC)
+
+Continents
+Countries
+Cities
+Planets
+
+
+
+2. Organization (ORG)
+
+Commercial companies
+Political parties
+Public administration
+News agency
+
+
+
+3. Product (PRO)
+
+Algorithms
+Protocols
+Artefacts
+Services
+Works
+Events
+Projects/Programs
+Websites (not single web-links)
+Blogs
+Newspapers
+News services
+Networks
+
+
+4. Person (PER)
+
+Proper names
+
+
+5. Title (TIT)
+
+Titles for people in immediate pre-context of proper names.
+
+
+
+Statistics.
+
+TEST
+
+Tokens
+LOC
+ORG
+PRO
+PER
+TIT
+
+
+
+
+
+Known problems and ambiguaties:
+
+1. Ireland (LOC) versus Ireland (ORG)
+
+2. Youtube (PRO) versus Youtube (ORG)
+
+3. Coordination
+
+4. Compounding
+
+5. Explicit naming
+
+Molotov-niminen televisiopalvelu
+
+
+
+
+
+
+—————————————————
+Yhteiskunta
+—————————————————
+
+1. Pidetäänkö disambiguointi Kiinan/Yhdysvaltain (LOC) versus Kiinan/Yhdysvaltain (ORG)?
+
+Esim 1. Yhdysvaltain huolet Kiinan väitetystä käytöksestä kyberavaruudessa. 
+
+Tässä maita käsitellään toimijoina, joten ORG tuntuis luontevalta.
+
+Esim 2. Apple toimii Kiinassa ja Yhdysvalloissa. 
+
+Tässä maita käsitellään enemmän maantieteellisinä alueina, joten LOC tuntuis luontevalta.
+
+
+2. Vertaa 1. Pidetäänkö disambiguointi Youtube (PRO) versus Youtube (ORG)?
+
+
+3. Mikäli disambiguointi pidetään, miten merkataan Kiinan valtio?
+
+B-LOC O vai B-ORG O ?
+
+
+4. Mikäli disambiguointi pidetään, miten merkataan Kiinan presidentti?
+
+B-LOC O vai B-ORG O ?
+
+
+5. Mikäli disambiguointi pidetään, miten merkataan Yhdysvaltain NSA-virasto?
+
+B-LOC B-ORG vai B-ORG B-ORG ?
+
+
+
 —————————————————
 Vimpaimet
 —————————————————
