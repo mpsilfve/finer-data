@@ -8,7 +8,7 @@ Continents
 Countries
 Cities
 Planets
-
+Buildings (Orange County Convention Center, Valkoinen talo)
 
 
 2. Organization (ORG)
@@ -34,6 +34,8 @@ Blogs
 Newspapers
 News services
 Networks
+Technologies (GPS-paikannus)
+Systems (Alipay-järjestelmä)
 
 
 4. Person (PER)
@@ -85,33 +87,28 @@ Molotov-niminen televisiopalvelu
 Yhteiskunta
 —————————————————
 
-1. Pidetäänkö disambiguointi Kiinan/Yhdysvaltain (LOC) versus Kiinan/Yhdysvaltain (ORG)?
-
-Esim 1. Yhdysvaltain huolet Kiinan väitetystä käytöksestä kyberavaruudessa. 
-
-Tässä maita käsitellään toimijoina, joten ORG tuntuis luontevalta.
-
-Esim 2. Apple toimii Kiinassa ja Yhdysvalloissa. 
-
-Tässä maita käsitellään enemmän maantieteellisinä alueina, joten LOC tuntuis luontevalta.
 
 
-2. Vertaa 1. Pidetäänkö disambiguointi Youtube (PRO) versus Youtube (ORG)?
+1. Kiinan valtio
+
+B-ORG I-ORG
 
 
-3. Mikäli disambiguointi pidetään, miten merkataan Kiinan valtio?
+2. Kiinan presidentti Xi Jinping (12.txt)
 
-B-LOC O vai B-ORG O ?
-
-
-4. Mikäli disambiguointi pidetään, miten merkataan Kiinan presidentti?
-
-B-LOC O vai B-ORG O ?
+B-TIT I-TIT B-PER I-PER
 
 
-5. Mikäli disambiguointi pidetään, miten merkataan Yhdysvaltain NSA-virasto?
+3. Kiinan presidentti
 
-B-LOC B-ORG vai B-ORG B-ORG ?
+B-LOC O
+
+
+4. Yhdysvaltain NSA-virasto
+
+B-LOC B-ORG
+
+
 
 
 
@@ -119,14 +116,13 @@ B-LOC B-ORG vai B-ORG B-ORG ?
 Vimpaimet
 —————————————————
 
-1. Huawei Mediapad T1 / T1
+1. Huawei Mediapad T1 / Mediapad T1 / T1
 
-Kun tekstissä viitataan Huawei Mediapad T1:een vain T1:nä niin jätetäänkö merkkaamatta?
-
+Kaikki PRODUCT-luokkaan.
 
 2. Galaxy / Galaxy-puhelin
 
-Galaxy on Samsungin puhelintuoteperhe. Merkataanko pelkkä “Galaxy” tuotteeksi?
+Molemmat PRODUCT-luokkaan.
 
 
 
@@ -140,11 +136,11 @@ Organisaatioita. Onko merkitystä puhutaanko Suomen vai Yhdysvaltojen ministeriöi
 
 2. kongressi
 
-Virallinen nimitys on Yhdysvaltain kongressi. Merkataanko pelkkä kongressi organisaatioksi ?
+O-luokkaan.
 
 3. Republikaanit / Demokraattipuolue
 
-Viralliset nimitykset ovat “Republikaaninen puolue” ja “Demokraattinen puolue”? Jätin merkkaamatta lyhennykset ja kansanomaistukset kuten “Republikaanit / Demokraattipuolue”.
+ORG-luokkaan.
 
 
 
