@@ -24,19 +24,20 @@ News agency
 
 Algorithms
 Protocols
+Software
 Artefacts
 Services
 Works
-Events
+Events (e.g. IFA-messut)
 Projects/Programs
 Websites (not single web-links)
 Blogs
 Newspapers
 News services
 Networks
-Technologies (GPS-paikannus)
-Systems (Alipay-järjestelmä)
-
+Technologies (e.g. GPS-paikannus)
+Systems (e.g. Alipay-järjestelmä)
+Patents ()
 
 4. Person (PER)
 
@@ -96,7 +97,7 @@ B-ORG I-ORG
 
 2. Kiinan presidentti Xi Jinping (12.txt)
 
-B-TIT I-TIT B-PER I-PER
+B-ORG B-TIT B-PER I-PER
 
 
 3. Kiinan presidentti
