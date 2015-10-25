@@ -37,7 +37,9 @@ News services
 Networks
 Technologies (e.g. GPS-paikannus)
 Systems (e.g. Alipay-järjestelmä)
-Patents ()
+Laws (e.g. Patriot Act-laki)
+TV Channels/Networks (e.g. CNBC)
+
 
 4. Person (PER)
 
