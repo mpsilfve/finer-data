@@ -17,7 +17,7 @@ Commercial companies
 Political parties
 Public administration
 News agency
-
+Television network/station
 
 
 3. Product (PRO)
@@ -38,7 +38,8 @@ Networks
 Technologies (e.g. GPS-paikannus)
 Systems (e.g. Alipay-järjestelmä)
 Laws (e.g. Patriot Act-laki)
-TV Channels/Networks (e.g. CNBC)
+Cable channels (e.g. CNBC)
+Stock exchange (e.g. New Yorkin pörssi)
 
 
 4. Person (PER)
@@ -74,6 +75,9 @@ Known problems and ambiguaties:
 2. Youtube (PRO) versus Youtube (ORG)
 
 3. Coordination
+
+päälakimies/TIT ja/O yrityskehitysjohtaja/TIT David/PER Drummond/PER
+
 
 4. Compounding
 
