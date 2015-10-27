@@ -51,6 +51,9 @@ Proper names
 
 Titles for people in immediate pre-context of proper names.
 
+pŠŠlakimies/TIT ja/O yrityskehitysjohtaja/TIT David/PER Drummond/PER
+
+
 
 
 Statistics.
@@ -75,9 +78,6 @@ Known problems and ambiguaties:
 2. Youtube (PRO) versus Youtube (ORG)
 
 3. Coordination
-
-pŠŠlakimies/TIT ja/O yrityskehitysjohtaja/TIT David/PER Drummond/PER
-
 
 4. Compounding
 
