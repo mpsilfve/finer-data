@@ -18,13 +18,14 @@ Political parties
 Public administration
 News agency
 Television network/station
+Communities (Google Orkut)
 
 
 3. Product (PRO)
 
 Algorithms
 Protocols
-Software
+Software/Applications
 Artefacts
 Services
 Works
