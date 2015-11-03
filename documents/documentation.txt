@@ -36,12 +36,14 @@ Blogs
 Newspapers
 News services
 Networks
-Technologies (e.g. GPS-paikannus, WLAN, LAN, WAN) (pitäisikö poistaa)
 Systems (e.g. Alipay-järjestelmä)
 Laws (e.g. Patriot Act-laki)
 Cable channels (e.g. CNBC)
 Stock exchange (e.g. New Yorkin pörssi)
-Protocol (pop3, imap)
+Protocols (pop3, imap)
+
+
+Technologies (e.g. GPS-paikannus, WLAN, LAN, WAN) (ei mukana enää)
 
 
 4. Person (PER)
