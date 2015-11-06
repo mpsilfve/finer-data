@@ -1,125 +1,125 @@
-<HEADLINE>
-AT
-&
-amp
-;
-T
-;
-menee
-ryminällä
-Meksikoon
-
-<DATE>
-23.1.2015 10:43
-
-<INGRESS>
-Yhdysvaltain
-toiseksi
-suurin
-matkapuhelinoperaattori
-AT
-&
-amp
-;
-T
-;
-ei
-aikaillut
-Meksikon
-bisneksen
-käynnistämisessä
-.
-
-Se
-avasi
-rajoittamattomat
-Meksikon
-puhelut
-kaikille
-maailmanyhteysohjelman
-asiakkailleen
-pari
-päivää
-operaattorikaupan
-loppuun
-saattamisen
-jälkeen
-.
-
-<BODY>
-<PARAGRAPH>
-AT
-&
-amp
-;
-T
-;
-aikoo
-luoda
-Yhdysvaltain
-ja
-Meksikon
-kattavan
-400
-miljoonan
-asukkaan
-yhtenäisen
-palvelualueen
-.
-
-Se
-muutti
-tiistaina
-World
-Connect
-Value
--ohjelmaansa
-siten
-,
-että
-sen
-piiriin
-tuli
-nyt
-ilmainen
-soittelu
-Meksikoon
-.
-
-<PARAGRAPH>
-Viisi
-dollaria
-kuukaudessa
-maksava
-palvelu
-tarjoaa
-myös
-alennettuja
-soittohintoja
-yli
-225
-maan
-ja
-Yhdysvaltain
-välillä
-.
-
-<PARAGRAPH>
-AT
-&
-amp
-;
-T
-;
-osti
-meksikolaisen
-Iusacellin
-2,5
-miljardilla
-dollarilla
-marraskuussa
-,
-Total
-Telecom
-kirjoitti
-.
+<HEADLINE>	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+menee	
+ryminällä	
+Meksikoon	loc
+	
+<DATE>	
+23.1.2015 10:43	
+	
+<INGRESS>	
+Yhdysvaltain	loc
+toiseksi	
+suurin	
+matkapuhelinoperaattori	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+ei	
+aikaillut	
+Meksikon	loc
+bisneksen	
+käynnistämisessä	
+.	
+	
+Se	
+avasi	
+rajoittamattomat	
+Meksikon	loc
+puhelut	
+kaikille	
+maailmanyhteysohjelman	
+asiakkailleen	
+pari	
+päivää	
+operaattorikaupan	
+loppuun	
+saattamisen	
+jälkeen	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+aikoo	
+luoda	
+Yhdysvaltain	loc
+ja	
+Meksikon	loc
+kattavan	
+400	
+miljoonan	
+asukkaan	
+yhtenäisen	
+palvelualueen	
+.	
+	
+Se	
+muutti	
+tiistaina	
+World	pro
+Connect	pro
+Value	pro
+-ohjelmaansa	pro
+siten	
+,	
+että	
+sen	
+piiriin	
+tuli	
+nyt	
+ilmainen	
+soittelu	
+Meksikoon	loc
+.	
+	
+<PARAGRAPH>	
+Viisi	
+dollaria	
+kuukaudessa	
+maksava	
+palvelu	
+tarjoaa	
+myös	
+alennettuja	
+soittohintoja	
+yli	
+225	
+maan	
+ja	
+Yhdysvaltain	loc
+välillä	
+.	
+	
+<PARAGRAPH>	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+osti	
+meksikolaisen	
+Iusacellin	
+2,5	
+miljardilla	
+dollarilla	
+marraskuussa	
+,	
+Total	pro
+Telecom	pro
+kirjoitti	
+.	
