@@ -17,7 +17,7 @@ Commercial companies
 Political parties
 Public administration
 News agency
-Television network/station
+Television network/station (KPIX-televisioasema)
 Communities (Google Orkut)
 
 
@@ -35,13 +35,13 @@ Websites (not single web-links)
 Blogs
 Newspapers
 News services
-Networks
+Networks (other than television network)
 Systems (e.g. Alipay-järjestelmä)
 Laws (e.g. Patriot Act-laki)
 Cable channels (e.g. CNBC)
 Stock exchange (e.g. New Yorkin pörssi)
 Protocols (pop3, imap)
-
+Space probes (Opportunity)
 
 Technologies (e.g. GPS-paikannus, WLAN, LAN, WAN) (ei mukana enää)
 
