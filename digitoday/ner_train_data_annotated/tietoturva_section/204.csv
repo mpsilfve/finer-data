@@ -1,0 +1,216 @@
+<HEADLINE>	
+Haamu	
+avaa	
+pääsyn	
+Linux-palvelimiin	pro
+ilman	
+tunnuksia	
+	
+<DATE>	
+28.1.2015 09:51	
+	
+<INGRESS>	
+Linux-maailmassa	
+on	
+paljastunut	
+uusi	
+,	
+laaja	
+uhka	
+.	
+	
+Juuri	
+julkistettu	
+GHOST	
+(	
+haamu	
+)	
+-haavoittuvuus	
+avaa	
+hyökkääjälle	
+pääsyn	
+lähes	
+kaikkiin	
+laajasti	
+käytettyihin	
+Linux-pohjaisiin	
+netti-	
+ja	
+sähköpostipalvelimiin	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Tietoturvayritys	
+Qualys	org
+kertoi	
+blogissaan	
+tiistaina	
+GHOST-haavoittuvuudesta	
+ja	
+siihen	
+julkaistusta	
+kaikki	
+jakelut	
+kattavasta	
+paikkauksesta	
+.	
+	
+Kyse	
+on	
+haavoittuvuudesta	
+,	
+joka	
+mahdollistaa	
+Linux-pohjaisen	
+tietokoneen	
+täyden	
+haltuunoton	
+ilman	
+tunnuksia	
+tai	
+salasanoja	
+.	
+	
+<PARAGRAPH>	
+Haavoittuvuus	
+koskee	
+C-	
+ja	
+C	
++	
++	
+-kielillä	
+kirjoitettuja	
+GNU	pro
+C	pro
+-kirjaston	pro
+eli	
+glibc’n	
+vanhempia	
+versioita	
+.	
+	
+Uudemmissa	
+versioissa	
+alkaen	
+glibc’stä	
+,	
+joka	
+julkaistiin	
+elokuussa	
+2013	
+,	
+haavoittuvuutta	
+ei	
+ole	
+.	
+	
+Potentiaalinen	
+ongelma	
+on	
+kuitenkin	
+valtavan	
+suuri	
+,	
+sillä	
+vanhoihin	
+Linux-versioihin	pro
+perustuvia	
+palvelimia	
+on	
+vielä	
+runsaasti	
+käytössä	
+.	
+	
+<PARAGRAPH>	
+Ainakin	
+kolmannes	
+maailman	
+web-	
+ja	
+email-palvelimista	
+toimii	
+Linuxin	pro
+eri	
+versioiden	
+päällä	
+,	
+Tom’s	pro
+Guide	pro
+kirjoitti	
+.	
+	
+<PARAGRAPH>	
+Qualys	org
+todensi	
+haavoittuvuuden	
+vaarallisuuden	
+kehittämällä	
+siihen	
+Exim-sähköpostipalvelinta	pro
+vastaan	
+toimivan	
+hyökkäyksen	
+.	
+	
+Se	
+ei	
+julkaissut	
+hyökkäyksen	
+tarkkoja	
+yksityiskohtia	
+.	
+	
+<PARAGRAPH>	
+Vaarassa	
+ovat	
+Eximin	pro
+lisäksi	
+muun	
+muassa	
+Apache	pro
+,	
+Sendmail	pro
+,	
+Nginx	pro
+,	
+MySQL	pro
+,	
+CUPS	pro
+ja	
+Samba-palvelimet	pro
+.	
+	
+<PARAGRAPH>	
+Muun	
+muassa	
+Red	pro
+Hat	pro
+ja	
+Ubuntu	pro
+ovat	
+julkaisseet	
+korjauksen	
+haavoittuvuuteen	
+.	
+	
+Red	pro
+Hatin	pro
+Fedorassa	bpro
+haavoittuvuutta	
+ei	
+enää	
+ole	
+versiosta	
+20	
+eteenpäin	
+,	
+ei	
+myöskään	
+Ubuntussa	pro
+versiosta	bpro
+13.10	pro
+alkaen	
+.	

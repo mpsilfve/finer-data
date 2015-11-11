@@ -1,0 +1,222 @@
+<HEADLINE>	
+IE	pro
+:	pro
+ssä	pro
+paha	
+aukko	
+:	
+Kultainen	
+tietoturvaneuvokaan	
+ei	
+toimi	
+	
+<DATE>	
+5.2.2015 13:48	
+	
+<INGRESS>	
+Internet	pro
+Explorerin	pro
+haavoittuvuus	
+mahdollistaa	
+vakuuttavat	
+tietojenkalastelut	
+ilman	
+,	
+että	
+uhri	
+välttämättä	
+huomaa	
+mitään	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Microsoftin	org
+Internet	pro
+Explorer	pro
+10	pro
+ja	pro
+11	pro
+-	pro
+selaimissa	pro
+on	
+korjaamaton	
+haavoittuvuus	
+,	
+tietoturvayhtiö	
+Deusen	org
+raportoi	
+Viestintäviraston	org
+mukaan	
+.	
+	
+<PARAGRAPH>	
+Kyseessä	
+on	
+niin	
+sanottu	
+cross	
+site	
+scripting	
+-haavoittuvuus	
+(	
+xss	
+)	
+,	
+jonka	
+avulla	
+hyökkääjä	
+voi	
+ohittaa	
+selaimen	
+suojauksia	
+ja	
+asettaa	
+haitallista	
+koodia	
+muille	
+sivustoille	
+.	
+	
+Hyökkääjä	
+voi	
+urkkia	
+vaikkapa	
+käyttäjätunnuksia	
+ja	
+salasanoja	
+tai	
+altistaa	
+käyttäjän	
+haittaohjelmille	
+.	
+	
+<PARAGRAPH>	
+Asiasta	
+kirjoittaa	
+muun	
+muassa	
+PC	pro
+World	pro
+.	
+	
+Käytännössä	
+hyökkääjä	
+voisi	
+käyttää	
+esimerkiksi	
+verkkopankin	
+sivua	
+ja	
+syöttää	
+uhrille	
+tämän	
+yksityisiä	
+tietoja	
+urkkivan	
+lomakkeen	
+.	
+	
+<PARAGRAPH>	
+Tässä	
+tilanteessa	
+edes	
+Viestintäviraston	org
+usein	
+antama	
+neuvo	
+kalastelua	
+vastaan	
+–	
+tarkista	
+selaimen	
+osoiterivi	
+–	
+ei	
+päde	
+,	
+sillä	
+osoiterivillä	
+on	
+edelleen	
+pankin	
+oma	
+osoite	
+.	
+	
+<PARAGRAPH>	
+Haavoittuvuutta	
+on	
+kuvattu	
+universaaliksi	
+,	
+koska	
+se	
+ei	
+edellytä	
+haavoittuvuuksia	
+kohdesivustossa	
+,	
+vaan	
+hyödyntää	
+selaimen	
+puutteellista	
+suojausta	
+.	
+	
+Aukko	
+toimii	
+myös	
+salatuilla	
+https-sivustoilla	
+.	
+	
+<PARAGRAPH>	
+Microsoft	org
+on	
+tekemässä	
+korjausta	
+.	
+	
+Yhtiö	
+ei	
+ole	
+tietoinen	
+aktiivisista	
+hyökkäyksistä	
+haavoittuvuutta	
+vastaan	
+.	
+	
+<PARAGRAPH>	
+Ottamatta	
+kantaa	
+IE	pro
+:	pro
+n	pro
+haavoittuvuuteen	
+,	
+xss-tyyppisiä	
+aukkoja	
+pidetään	
+yleisesti	
+merkkinä	
+huolimattomasta	
+koodaamisesta	
+tai	
+koodin	
+tarkistuksesta	
+.	
+	
+Xss	
+on	
+esiintynyt	
+esimerkiksi	
+listauksissa	
+,	
+joihin	
+valitaan	
+kaikista	
+turhimmat	
+tietoturvamokat	
+.	

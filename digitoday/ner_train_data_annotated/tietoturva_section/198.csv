@@ -1,0 +1,284 @@
+<HEADLINE>	
+Vakava	
+Linux-aukko	
+:	
+Vaara	
+kasvaa	
+	
+<DATE>	
+28.1.2015 16:25	
+	
+<INGRESS>	
+Viestintävirasto	org
+uskoo	
+Ghost-haavoittuvuuden	
+paisuvan	
+vielä	
+pahemmaksi	
+.	
+	
+Korjauksia	
+on	
+jo	
+paikoin	
+saatavilla	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Linuxissa	pro
+yleisesti	
+käytetystä	
+GNU	pro
+C	pro
+-kirjastosta	pro
+paljastui	
+merkittävä	
+tietoturvauhka	
+.	
+	
+Niin	
+kutsuttu	
+Ghost-haavoittuvuus	
+antaa	
+hyökkääjälle	
+pääsyn	
+lähes	
+kaikkiin	
+laajasti	
+käytettyihin	
+Linux-pohjaisiin	
+netti-	
+ja	
+sähköpostipal	
+velimiin	
+.	
+	
+<PARAGRAPH>	
+Ghost	
+edellyttää	
+palvelinten	
+ylläpitäjiltä	
+aktiivisia	
+toimia	
+,	
+Viestintäviraston	org
+Kyberturvallisuuskeskus	borg
+korostaa	
+.	
+	
+Haavoittuvat	
+järjestelmät	
+pitää	
+päivittää	
+korjattuun	
+versioon	
+mahdollisimman	
+pian	
+,	
+ja	
+ylläpitäjien	
+tulee	
+seurata	
+tilannetta	
+mahdollisten	
+uusien	
+haavoittuvien	
+ohjelmistojen	
+varalta	
+.	
+	
+<PARAGRAPH>	
+–	
+Johtuen	
+GNU	pro
+C	pro
+-kirjaston	pro
+yleisyydestä	
+,	
+on	
+todennäköistä	
+,	
+että	
+haavoittuvuuden	
+hyväksikäytölle	
+alttiita	
+ohjelmistoja	
+voi	
+löytyä	
+lähitulevaisuudessa	
+lisää	
+,	
+tiedotteessa	
+sanotaan	
+.	
+	
+<PARAGRAPH>	
+Tietoturvayhtiö	
+Qualys	org
+todensi	
+haavoittuvuuden	
+vaarallisuuden	
+kehittämällä	
+siihen	
+Exim-sähköpostipalvelinta	pro
+vastaan	
+toimivan	
+hyökkäyksen	
+.	
+	
+Mutta	
+haavoittuvuudelle	
+ei	
+ole	
+tällä	
+hetkellä	
+olemassa	
+julkista	
+hyväksikäyttömenetelmää	
+,	
+Kyberturvallisuuskeskus	org
+uskoo	
+.	
+	
+<PARAGRAPH>	
+Ainakin	
+Fedora-	pro
+ja	
+Ubuntu-jakeluihin	pro
+on	
+saatavilla	
+korjaava	
+päivitys	
+.	
+	
+NixCraft	pro
+on	
+kirjoittanut	
+aiheesta	
+teknisen	
+artikkelin	
+,	
+jossa	
+annetaan	
+hyviä	
+neuvoja	
+ylläpitäjille	
+oman	
+uhkatason	
+tarkistamiseksi	
+.	
+	
+Artikkelissa	
+on	
+myös	
+listattu	
+toistaiseksi	
+tiedetyt	
+haavoittuvat	
+Linux-jakelut	pro
+.	
+	
+Ne	
+ovat	
+:	
+	
+<PARAGRAPH>	
+*	
+RHEL	pro
+(	
+Red	pro
+Hat	pro
+Enterprise	pro
+Linux	pro
+)	
+versiot	pro
+5	pro
+.	pro
+	pro
+x	pro
+,	pro
+6	pro
+.	pro
+	pro
+x	pro
+ja	pro
+7	pro
+.	pro
+	pro
+x	pro
+*	
+CentOS	bpro
+Linux	pro
+versiot	pro
+5	pro
+.	pro
+	pro
+x	pro
+,	pro
+6	pro
+.	pro
+	pro
+x	pro
+&	pro
+7	pro
+.	pro
+	pro
+x	pro
+*	
+Ubuntu	bpro
+Linux	pro
+versiot	pro
+10.04	pro
+,	
+12.04	pro
+LTS	pro
+*	
+Debian	bpro
+Linux	pro
+versio	pro
+7	pro
+.	pro
+	pro
+x	pro
+*	
+Linux	bpro
+Mint	pro
+versio	pro
+13.0	pro
+*	
+Fedora	bpro
+Linux	pro
+versio	pro
+19	pro
+tai	
+vanhempi	
+*	
+SUSE	bpro
+Linux	pro
+Enterprise	pro
+11	pro
+ja	
+vanhemmat	
+(	
+myös	
+OpenSuse	pro
+Linux	pro
+11	pro
+tai	
+vanhemmat	
+versiot	
+)	
+.	
+	
+*	
+Arch	bpro
+Linux	pro
+glibc	pro
+versio	pro
+<	pro
+=	pro
+2	pro
+.	pro
+	pro
+18-1	pro
