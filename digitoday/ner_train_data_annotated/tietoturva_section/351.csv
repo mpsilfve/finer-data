@@ -1,311 +1,311 @@
-<HEADLINE>
-Lähes
-miljardi
-Android-puhelinta
-joutumassa
-vaaraan
-
-<DATE>
-12.1.2015 15:48
-
-<INGRESS>
-Onko
-Android-puhelimesi
-järjestelmäversio
-4.3
-tai
-alle
-?
-
-Vanheneva
-WebView-komponentti
-saattaa
-lähes
-miljardi
-laitetta
-uhan
-alle
-.
-
-<BODY>
-<PARAGRAPH>
-Moni
-Android-puhelin
-on
-joutumassa
-tänä
-vuonna
-vaaraan
-,
-kun
-Google
-lopettaa
-WebView-nimisen
-komponentin
-tukemisen
-Androidin
-Jelly
-Beanissa
-ja
-kaikissa
-muissakin
-vanhemmissa
-Android-versioissa
-.
-
-Google
-aikoo
-jatkaa
-tukea
-vain
-4.4:stä
-eli
-KitKatista
-ylöspäin
-.
-
-<PARAGRAPH>
-Asia
-noteerattiin
-Rapid7-sivuston
-Metasploit-blogissa
-.
-
-Metasploit
-on
-tietoturva-aukkoja
-etsivä
-ohjelmisto
-.
-
-Tämän
-jälkeen
-asiasta
-on
-kirjoittanut
-muun
-muassa
-talouslehti
-Fo
-rbes
-.
-
-<PARAGRAPH>
-WebView
-on
-Android-käyttöjärjestelmän
-osa
-,
-joka
-mahdollistaa
-verkkosivujen
-esikatselun
-sovellusten
-sisällä
-.
-
-Google
-kannustaa
-ohjeissaan
-sovelluskehittäjiä
-WebView
-'
-n
-käyttöön
-.
-
-KitKat-Androidissa
-eli
-4.4:ssä
-ja
-myöhemmissä
-tilalla
-käytetään
-Googlen
-Chromeen
-perustuvaa
-tekniikkaa
-.
-
-<PARAGRAPH>
-Viimeisin
-Jelly
-Bean
-4.3:n
-ilmestyi
-vuoden
-2013
-lokakuussa
-.
-
-<PARAGRAPH>
-WebView
-on
-hyvin
-suosittu
-hyökkäysvektori
-Androidissa
-.
-
-Metasploit-blogi
-huomauttaa
-,
-että
-monet
-tietoturva-aukkojen
-etsijät
-hakevat
-käytännössä
-aukkoja
-vain
-WebView
-'
-sta
-,
-sillä
-se
-on
-helpoin
-tapa
-tunkeutua
-Androidiin
-.
-
-Metasploit-hyökkäystyökalu
-sisältää
-hyökkäykset
-11
-WebView
-'
-n
-eri
-aukkoon
-.
-
-<PARAGRAPH>
-Jatkossa
-KitKatia
-edeltävien
-versioiden
-korjaukset
-jäävät
-laitevalmistajien
-tehtäväksi
-.
-
-On
-siis
-mahdollista
-,
-että
-laitevalmistaja
-päättää
-jatkaa
-puhelimen
-tukemista
-ja
-korjata
-jatkossakin
-siitä
-löytyviä
-aukkoja
-.
-
-Tämä
-on
-kuitenkin
-täysin
-valmistajasta
-kiinni
-.
-
-<PARAGRAPH>
-Googlen
-Android
-Developer
-Dashboardin
-lukujen
-mukaan
-Googlen
-jatkossa
-tukemien
-Android-versioiden
-piirissä
-on
-runsaat
-39
-prosenttia
-Android-laitteista
-.
-
-Näistä
-4.4:n
-eli
-KitKatin
-osuus
-on
-39,1
-%
-ja
-uuden
-5.0:n
-eli
-Lollipopin
-osuus
-toistaiseksi
-vasta
-0,1
-%
-.
-
-<PARAGRAPH>
-Vaaravyöhykkeeseen
-on
-siis
-teoriassa
-joutumassa
-lähes
-miljardi
-käytössä
-olevaa
-puhelinta
-,
-jotka
-edustavat
-Android-versioita
-2
-.
-
-3—4
-.
-
-3.
-
-<PARAGRAPH>
-Metasploit-blogi
-huomauttaa
-,
-että
-Apple
-ja
-Google
-eivät
-kerro
-,
-milloin
-ne
-lopettavat
-tuen
-tietyille
-käyttöjärjestelmäversioilleen
-.
-
-Microsoft
-ja
-Blackberry
-puolestaan
-dokumentoivat
-käyttöjärjestelmän
-elinkaaren
-selvästi
-.
+<HEADLINE>	
+Lähes	
+miljardi	
+Android-puhelinta	pro
+joutumassa	
+vaaraan	
+	
+<DATE>	
+12.1.2015 15:48	
+	
+<INGRESS>	
+Onko	
+Android-puhelimesi	pro
+järjestelmäversio	
+4.3	
+tai	
+alle	
+?	
+	
+Vanheneva	
+WebView-komponentti	pro
+saattaa	
+lähes	
+miljardi	
+laitetta	
+uhan	
+alle	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Moni	
+Android-puhelin	pro
+on	
+joutumassa	
+tänä	
+vuonna	
+vaaraan	
+,	
+kun	
+Google	org
+lopettaa	
+WebView-nimisen	pro
+komponentin	pro
+tukemisen	
+Androidin	pro
+Jelly	bpro
+Beanissa	pro
+ja	
+kaikissa	
+muissakin	
+vanhemmissa	
+Android-versioissa	pro
+.	
+	
+Google	org
+aikoo	
+jatkaa	
+tukea	
+vain	
+4.4:stä	
+eli	
+KitKatista	pro
+ylöspäin	
+.	
+	
+<PARAGRAPH>	
+Asia	
+noteerattiin	
+Rapid7-sivuston	pro
+Metasploit-blogissa	bpro
+.	
+	
+Metasploit	
+on	
+tietoturva-aukkoja	
+etsivä	
+ohjelmisto	
+.	
+	
+Tämän	
+jälkeen	
+asiasta	
+on	
+kirjoittanut	
+muun	
+muassa	
+talouslehti	
+Fo	pro
+rbes	pro
+.	
+	
+<PARAGRAPH>	
+WebView	pro
+on	
+Android-käyttöjärjestelmän	pro
+osa	
+,	
+joka	
+mahdollistaa	
+verkkosivujen	
+esikatselun	
+sovellusten	
+sisällä	
+.	
+	
+Google	org
+kannustaa	
+ohjeissaan	
+sovelluskehittäjiä	
+WebView	pro
+'	pro
+n	pro
+käyttöön	
+.	
+	
+KitKat-Androidissa	pro
+eli	
+4.4:ssä	
+ja	
+myöhemmissä	
+tilalla	
+käytetään	
+Googlen	org
+Chromeen	pro
+perustuvaa	
+tekniikkaa	
+.	
+	
+<PARAGRAPH>	
+Viimeisin	
+Jelly	pro
+Bean	pro
+4.3:n	pro
+ilmestyi	
+vuoden	
+2013	
+lokakuussa	
+.	
+	
+<PARAGRAPH>	
+WebView	pro
+on	
+hyvin	
+suosittu	
+hyökkäysvektori	
+Androidissa	pro
+.	
+	
+Metasploit-blogi	pro
+huomauttaa	
+,	
+että	
+monet	
+tietoturva-aukkojen	
+etsijät	
+hakevat	
+käytännössä	
+aukkoja	
+vain	
+WebView	pro
+'	pro
+sta	pro
+,	
+sillä	
+se	
+on	
+helpoin	
+tapa	
+tunkeutua	
+Androidiin	pro
+.	
+	
+Metasploit-hyökkäystyökalu	pro
+sisältää	
+hyökkäykset	
+11	
+WebView	pro
+'	pro
+n	pro
+eri	
+aukkoon	
+.	
+	
+<PARAGRAPH>	
+Jatkossa	
+KitKatia	pro
+edeltävien	
+versioiden	
+korjaukset	
+jäävät	
+laitevalmistajien	
+tehtäväksi	
+.	
+	
+On	
+siis	
+mahdollista	
+,	
+että	
+laitevalmistaja	
+päättää	
+jatkaa	
+puhelimen	
+tukemista	
+ja	
+korjata	
+jatkossakin	
+siitä	
+löytyviä	
+aukkoja	
+.	
+	
+Tämä	
+on	
+kuitenkin	
+täysin	
+valmistajasta	
+kiinni	
+.	
+	
+<PARAGRAPH>	
+Googlen	org
+Android	pro
+Developer	pro
+Dashboardin	pro
+lukujen	
+mukaan	
+Googlen	org
+jatkossa	
+tukemien	
+Android-versioiden	pro
+piirissä	
+on	
+runsaat	
+39	
+prosenttia	
+Android-laitteista	pro
+.	
+	
+Näistä	
+4.4:n	
+eli	
+KitKatin	pro
+osuus	
+on	
+39,1	
+%	
+ja	
+uuden	
+5.0:n	
+eli	
+Lollipopin	pro
+osuus	
+toistaiseksi	
+vasta	
+0,1	
+%	
+.	
+	
+<PARAGRAPH>	
+Vaaravyöhykkeeseen	
+on	
+siis	
+teoriassa	
+joutumassa	
+lähes	
+miljardi	
+käytössä	
+olevaa	
+puhelinta	
+,	
+jotka	
+edustavat	
+Android-versioita	pro
+2	pro
+.	pro
+	pro
+3—4	pro
+.	pro
+	pro
+3.	pro
+	
+<PARAGRAPH>	
+Metasploit-blogi	
+huomauttaa	
+,	
+että	
+Apple	org
+ja	
+Google	org
+eivät	
+kerro	
+,	
+milloin	
+ne	
+lopettavat	
+tuen	
+tietyille	
+käyttöjärjestelmäversioilleen	
+.	
+	
+Microsoft	org
+ja	
+Blackberry	org
+puolestaan	
+dokumentoivat	
+käyttöjärjestelmän	
+elinkaaren	
+selvästi	
+.	

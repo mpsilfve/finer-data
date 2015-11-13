@@ -339,7 +339,7 @@ B-PRO B-PRO I-PRO I-PRO
 
 21. Whatsapp-viesti
 
-B-PRO 
+O
 
 22. Spotify-palvelu
 
@@ -347,7 +347,7 @@ B-PRO
 
 23. GPS-paikannus
 
-B-PRO
+O
 
 24. Spotify Running -juoksusovellus
 
