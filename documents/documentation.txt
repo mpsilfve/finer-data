@@ -9,7 +9,6 @@ Countries
 Cities
 Planets
 Buildings (Orange County Convention Center, Valkoinen talo)
-xxxx
 
 
 2. Organization (ORG)
