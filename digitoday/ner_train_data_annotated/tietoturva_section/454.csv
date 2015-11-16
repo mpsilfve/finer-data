@@ -1,228 +1,228 @@
-<HEADLINE>
-Uusi
-vuoto
-paljastaa
-:
-Näihin
-salauksiin
-NSA
-ei
-pääse
-käsiksi
-
-<DATE>
-29.12.2014 12:24
-
-<INGRESS>
-PGP
-on
-NSA
-:
-lle
-kuin
-M
-.
-
-A
-.
-
-Nummisen
-laulun
-kuuluisa
-kookospähkinä
-,
-jota
-ei
-saatu
-rikki
-sitten
-millään
-.
-
-Asiasta
-kertoo
-Der
-Spiegel
-.
-
-<BODY>
-<PARAGRAPH>
-Uusin
-katsaus
-Yhdysvaltain
-NSA-viraston
-vuotaneisiin
-asiakirjoihin
-vahvistaa
-käsitystä
-,
-jonka
-mukaan
-jotkut
-salaustekniikat
-ovat
-sillekin
-liian
-vaikeita
-.
-
-<PARAGRAPH>
-NSA
-on
-ollut
-pulassa
-esimerkiksi
-PGP-salauksen
-(
-Pretty
-Good
-Privacy
-)
-kanssa
-,
-mutta
-myös
-chat-keskusteluita
-suojaava
-OTR
-(
-Off-the-Record
-Messaging
-)
-on
-kestänyt
-hyvin
-NSA
-:
-n
-kourissa
-.
-
-<PARAGRAPH>
-Asiakirjojen
-mukaan
-NSA
-:
-lla
-on
-ollut
-myös
-ongelmia
-seurata
-käyttäjiä
-anonyymiverkko
-Torissa
-,
-vaikka
-NSA
-:
-n
-on
-epäilty
-olevan
-jopa
-mukana
-Torin
-ke
-hittämisessä
-.
-
-Hyvin
-ovat
-pintansa
-pitäneet
-myös
-vahvasti
-salatun
-sähköpostin
-tarjoajat
-kuten
-Zoho
-.
-
-<PARAGRAPH>
-TrueCryptillä
-salatut
-tiedostot
-olivat
-NSA
-:
-lle
-niin
-ikään
-vaikeita
-,
-mutta
-TrueCryptin
-kehitys
-lopetettiin
-aiemmin
-tänä
-vuonna
-.
-
-<PARAGRAPH>
-Tiedot
-vahvistavat
-NSA-asiakirjoista
-jo
-aiemmin
-selvinneitä
-seikkoja
-,
-kuten
-sitä
-,
-että
-PGP
-on
-aiheuttanut
-NSA
-:
-lle
-päänvaivaa
-.
-
-<PARAGRAPH>
-Ennestään
-on
-myös
-tiedetty
-muun
-muassa
-Skype-puhelujen
-ja
-vpn-yhteyksien
-aukeavan
-vakoiluvirastolle
-.
-
-Samoin
-on
-https-suojauksen
-laita
-.
-
-<PARAGRAPH>
-Der
-Spiegelin
-raportoimat
-asiakirjat
-ovat
-vuodelta
-2012
-,
-mutta
-valistuneen
-arvauksen
-mukaan
-NSA
-ei
-ole
-edistynyt
-paljoakaan
-sille
-vaikeiden
-salaustekniikoiden
-purkamisessa
-.
+<HEADLINE>	
+Uusi	
+vuoto	
+paljastaa	
+:	
+Näihin	
+salauksiin	
+NSA	org
+ei	
+pääse	
+käsiksi	
+	
+<DATE>	
+29.12.2014 12:24	
+	
+<INGRESS>	
+PGP	misc
+on	
+NSA	org
+:	org
+lle	org
+kuin	
+M	per
+.	per
+	per
+A	per
+.	per
+	per
+Nummisen	per
+laulun	
+kuuluisa	
+kookospähkinä	
+,	
+jota	
+ei	
+saatu	
+rikki	
+sitten	
+millään	
+.	
+	
+Asiasta	
+kertoo	
+Der	org
+Spiegel	org
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Uusin	
+katsaus	
+Yhdysvaltain	loc
+NSA-viraston	org
+vuotaneisiin	
+asiakirjoihin	
+vahvistaa	
+käsitystä	
+,	
+jonka	
+mukaan	
+jotkut	
+salaustekniikat	
+ovat	
+sillekin	
+liian	
+vaikeita	
+.	
+	
+<PARAGRAPH>	
+NSA	org
+on	
+ollut	
+pulassa	
+esimerkiksi	
+PGP-salauksen	pro
+(	
+Pretty	pro
+Good	pro
+Privacy	pro
+)	
+kanssa	
+,	
+mutta	
+myös	
+chat-keskusteluita	
+suojaava	
+OTR	pro
+(	
+Off-the-Record	pro
+Messaging	pro
+)	
+on	
+kestänyt	
+hyvin	
+NSA	org
+:	org
+n	org
+kourissa	
+.	
+	
+<PARAGRAPH>	
+Asiakirjojen	
+mukaan	
+NSA	org
+:	org
+lla	org
+on	
+ollut	
+myös	
+ongelmia	
+seurata	
+käyttäjiä	
+anonyymiverkko	
+Torissa	pro
+,	
+vaikka	
+NSA	org
+:	org
+n	org
+on	
+epäilty	
+olevan	
+jopa	
+mukana	
+Torin	pro
+ke	
+hittämisessä	
+.	
+	
+Hyvin	
+ovat	
+pintansa	
+pitäneet	
+myös	
+vahvasti	
+salatun	
+sähköpostin	
+tarjoajat	
+kuten	
+Zoho	org
+.	
+	
+<PARAGRAPH>	
+TrueCryptillä	pro
+salatut	
+tiedostot	
+olivat	
+NSA	org
+:	org
+lle	org
+niin	
+ikään	
+vaikeita	
+,	
+mutta	
+TrueCryptin	pro
+kehitys	
+lopetettiin	
+aiemmin	
+tänä	
+vuonna	
+.	
+	
+<PARAGRAPH>	
+Tiedot	
+vahvistavat	
+NSA-asiakirjoista	misc
+jo	
+aiemmin	
+selvinneitä	
+seikkoja	
+,	
+kuten	
+sitä	
+,	
+että	
+PGP	pro
+on	
+aiheuttanut	
+NSA	org
+:	org
+lle	org
+päänvaivaa	
+.	
+	
+<PARAGRAPH>	
+Ennestään	
+on	
+myös	
+tiedetty	
+muun	
+muassa	
+Skype-puhelujen	misc
+ja	
+vpn-yhteyksien	misc
+aukeavan	
+vakoiluvirastolle	
+.	
+	
+Samoin	
+on	
+https-suojauksen	misc
+laita	
+.	
+	
+<PARAGRAPH>	
+Der	org
+Spiegelin	org
+raportoimat	
+asiakirjat	
+ovat	
+vuodelta	
+2012	
+,	
+mutta	
+valistuneen	
+arvauksen	
+mukaan	
+NSA	org
+ei	
+ole	
+edistynyt	
+paljoakaan	
+sille	
+vaikeiden	
+salaustekniikoiden	
+purkamisessa	
+.	

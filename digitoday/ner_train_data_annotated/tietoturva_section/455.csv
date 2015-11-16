@@ -1,188 +1,188 @@
-<HEADLINE>
-Kiina
-iski
-Gmailia
-vastaan
-—
-enää
-yksi
-tapa
-kiertää
-estot
-
-<DATE>
-29.12.2014 09:53
-
-<INGRESS>
-Googlen
-elintila
-Kiinassa
-on
-jälleen
-kutistunut
-.
-
-Gmailin
-käyttö
-verkkoselaimella
-estettiin
-jo
-aikaisemmin
-tänä
-vuonna
-ja
-nyt
-suuri
-palomuuri
-estää
-sen
-käytön
-myös
-sovellusten
-kautta
-.
-
-<BODY>
-<PARAGRAPH>
-Gmailin
-nettikäytön
-esto
-alkoi
-uutistoimisto
-Reutersin
-mukaan
-Tiananmenin
-25.
-vuosipäivän
-alla
-viime
-kesäkuun
-alussa
-.
-
-Gmail-viestit
-katosivat
-suureen
-palomuurin
-uumeniin
-,
-eivätkä
-koskaan
-päässeet
-perille
-.
-
-Viestien
-katoamisesta
-ei
-myöskään
-tullut
-virheilmoitusta
-lähettäjälle
-.
-
-<PARAGRAPH>
-Tähän
-saakka
-Gmailiin
-on
-päässyt
-käsiksi
-sähköpostisovelluksella
-imap-
-,
-smtp-
-ja
-pop3-protokollien
-kautta
-.
-
-Tämä
-on
-mahdollistanut
-Gmailin
-käytön
-esimerkiksi
-Apple
-iPhonen
-Mailin
-,
-Microsoftin
-Outlookin
-ja
-Mozillan
-Thunderbirdin
-avulla
-.
-
-<PARAGRAPH>
-Kiinan
-nettisensuuria
-seuraava
-GreatFire
-.
-
-org
-ilmoitti
-,
-että
-suuri
-määrä
-Gmailin
-nettiosoitteita
-estettiin
-perjantaina
-,
-ja
-ne
-pysyivät
-kiinni
-vielä
-maanantaina
-.
-
-<PARAGRAPH>
-Myös
-Googlen
-reaaliaikainen
-läpinäkyvyysseuranta
-osoitti
-perjantaina
-Kiinan
-nettiliikenteen
-kutistuneen
-jyrkästi
-.
-
-<PARAGRAPH>
-GreatFire
-.
-
-orgin
-mukaan
-Gmailin
-täysi
-esto
-tuottaa
-huomattavia
-ongelmia
-yrityksille
-,
-jotka
-käyttävät
-sitä
-.
-
-Se
-sanoo
-,
-että
-vpn-virtuaaliverkot
-ovat
-jäämässä
-ainoaksi
-tavaksi
-kiertää
-suuri
-palomuuri
-.
+<HEADLINE>	
+Kiina	loc
+iski	
+Gmailia	pro
+vastaan	
+—	
+enää	
+yksi	
+tapa	
+kiertää	
+estot	
+	
+<DATE>	
+29.12.2014 09:53	
+	
+<INGRESS>	
+Googlen	org
+elintila	
+Kiinassa	loc
+on	
+jälleen	
+kutistunut	
+.	
+	
+Gmailin	pro
+käyttö	
+verkkoselaimella	
+estettiin	
+jo	
+aikaisemmin	
+tänä	
+vuonna	
+ja	
+nyt	
+suuri	
+palomuuri	
+estää	
+sen	
+käytön	
+myös	
+sovellusten	
+kautta	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Gmailin	pro
+nettikäytön	
+esto	
+alkoi	
+uutistoimisto	
+Reutersin	org
+mukaan	
+Tiananmenin	event
+25.	
+vuosipäivän	
+alla	
+viime	
+kesäkuun	
+alussa	
+.	
+	
+Gmail-viestit	misc
+katosivat	
+suureen	
+palomuurin	
+uumeniin	
+,	
+eivätkä	
+koskaan	
+päässeet	
+perille	
+.	
+	
+Viestien	
+katoamisesta	
+ei	
+myöskään	
+tullut	
+virheilmoitusta	
+lähettäjälle	
+.	
+	
+<PARAGRAPH>	
+Tähän	
+saakka	
+Gmailiin	pro
+on	
+päässyt	
+käsiksi	
+sähköpostisovelluksella	
+imap-	pro
+,	
+smtp-	pro
+ja	
+pop3-protokollien	pro
+kautta	
+.	
+	
+Tämä	
+on	
+mahdollistanut	
+Gmailin	pro
+käytön	
+esimerkiksi	
+Apple	pro
+iPhonen	pro
+Mailin	pro
+,	
+Microsoftin	org
+Outlookin	pro
+ja	
+Mozillan	org
+Thunderbirdin	pro
+avulla	
+.	
+	
+<PARAGRAPH>	
+Kiinan	loc
+nettisensuuria	
+seuraava	
+GreatFire	org
+.	org
+	org
+org	org
+ilmoitti	
+,	
+että	
+suuri	
+määrä	
+Gmailin	pro
+nettiosoitteita	
+estettiin	
+perjantaina	
+,	
+ja	
+ne	
+pysyivät	
+kiinni	
+vielä	
+maanantaina	
+.	
+	
+<PARAGRAPH>	
+Myös	
+Googlen	org
+reaaliaikainen	
+läpinäkyvyysseuranta	
+osoitti	
+perjantaina	
+Kiinan	loc
+nettiliikenteen	
+kutistuneen	
+jyrkästi	
+.	
+	
+<PARAGRAPH>	
+GreatFire	org
+.	org
+	org
+orgin	org
+mukaan	
+Gmailin	pro
+täysi	
+esto	
+tuottaa	
+huomattavia	
+ongelmia	
+yrityksille	
+,	
+jotka	
+käyttävät	
+sitä	
+.	
+	
+Se	
+sanoo	
+,	
+että	
+vpn-virtuaaliverkot	misc
+ovat	
+jäämässä	
+ainoaksi	
+tavaksi	
+kiertää	
+suuri	
+palomuuri	
+.	
