@@ -14,15 +14,15 @@ Buildings (Orange County Convention Center, Valkoinen talo)
 2. Organization (ORG)
 
 Commercial companies
-Communities (Google Orkut)
+Communities of people (Google Orkut)
 Political parties
-Public administration
+Public administration (Ulkoministeriš, Yhdysvaltain hallitus)
 News agencies/News services/Newspapers/Newsrooms/News sites
 Television network/station/channel (KPIX-televisioasema, CNBC, CNN, BBC)
 Stock exchange (e.g. New Yorkin pšrssi)
 
 
-3. Product/Service (PRO)
+3. Product/Service/Project (PRO)
 
 Algorithms
 Artefacts
@@ -32,6 +32,7 @@ Laws (e.g. Patriot Act-laki)
 Networks (other than television network, e.g. )
 #Newspapers
 #News services
+Platforms (Google Play, Kickstarter)
 Projects/Programs
 Protocols (e.g. pop3, imap)
 Services (e.g. Apple Store, Google Play)
