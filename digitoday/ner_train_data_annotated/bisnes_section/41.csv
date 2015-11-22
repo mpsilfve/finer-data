@@ -60,7 +60,7 @@ tahallaan
 Samsungin	org
 pesukonetta	
 Berliinin	loc
-IFA-messuilla	pro
+IFA-messuilla	event
 viime	
 vuonna	
 .	
@@ -206,8 +206,8 @@ rajat
 .	
 	
 <PARAGRAPH>	
-Johtaja	
-Jo	
+Johtaja	tit
+Jo	per
 on	
 joka	
 tapauksessa	
@@ -233,5 +233,5 @@ Videosta
 uutisoi	
 muun	
 muassa	
-Cnet	pro
+Cnet	org
 .	

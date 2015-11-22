@@ -1,5 +1,5 @@
 <HEADLINE>	
-Sony-pomo	
+Sony-pomo	misc
 kyberiskusta	
 :	
 Talous	
@@ -89,7 +89,7 @@ Hirai	per
 sanoi	
 Las	loc
 Vegasin	loc
-CES-messuilla	pro
+CES-messuilla	event
 Reutersin	org
 mukaan	
 .	
@@ -124,11 +124,11 @@ yllyke
 hyökkäykseen	
 .	
 	
-Yhdysvallat	org
+Yhdysvallat	loc
 on	
 syyttänyt	
 iskusta	
-Pohjois-Koreaa	org
+Pohjois-Koreaa	loc
 ,	
 mutta	
 monet	
@@ -136,7 +136,7 @@ epäilevät
 väitettä	
 .	
 	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 on	
 kiistänyt	
 osallisuutensa	

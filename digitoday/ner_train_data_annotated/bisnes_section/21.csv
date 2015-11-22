@@ -24,10 +24,10 @@ yhtiöstä
 venäläisille	
 viranomaisille	
 ,	
-Tech	pro
-.	pro
-	pro
-eu	pro
+Tech	org
+.	org
+	org
+eu	org
 kertoo	
 .	
 	
@@ -58,10 +58,10 @@ asema
 <PARAGRAPH>	
 Asiasta	
 kertoo	
-Tech	pro
-.	pro
-	pro
-eu	pro
+Tech	org
+.	org
+	org
+eu	org
 ,	
 jonka	
 mukaan	
@@ -154,7 +154,7 @@ yhtiöstä
 Yandex	org
 sanoo	
 valituksessaan	
-Venäjän	
+Venäjän	loc
 kilpailuviranomaiselle	
 ,	
 että	
