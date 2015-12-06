@@ -33,7 +33,7 @@ on
 esitellyt	
 useita	
 uutuuksia	
-CES-kulutuselektroniikkatapahtumassa	pro
+CES-kulutuselektroniikkatapahtumassa	event
 Las	loc
 Vegasissa	loc
 .	
@@ -67,7 +67,7 @@ laite
 muuttaa	
 minkä	
 tahansa	
-hdmi-liitännällä	
+hdmi-liitännällä	pro
 varustetun	
 näytön	
 tai	
@@ -121,11 +121,11 @@ langattomat
 g	
 /	
 n	
-wlan-	
+wlan-	misc
 sekä	
-bluetooth	
-4.0	
--yhteydet	
+bluetooth	misc
+4.0	misc
+-yhteydet	misc
 .	
 	
 <PARAGRAPH>	
@@ -215,7 +215,7 @@ tarkoitus
 saada	
 virtansa	
 suoraan	
-hdmi-liitännästä	
+hdmi-liitännästä	misc
 ,	
 ja	
 myös	
@@ -229,7 +229,7 @@ Trail	pro
 ,	
 kertoo	
 esimerkiksi	
-Extreme	pro
-Tech	pro
--verkkosivusto	pro
+Extreme	org
+Tech	org
+-verkkosivusto	org
 .	

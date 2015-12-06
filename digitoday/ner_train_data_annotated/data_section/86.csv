@@ -108,9 +108,9 @@ Elisan	org
 palvelu	
 on	
 tunnettu	
-Saunalahti	
-Pilvilinna	
--nimellä	
+Saunalahti	misc
+Pilvilinna	misc
+-nimellä	misc
 .	
 	
 Pilvilinnan	pro
@@ -201,7 +201,7 @@ pohjalta
 ,	
 Castren	per
 sanoo	
-Digitodaylle	pro
+Digitodaylle	org
 .	
 	
 <PARAGRAPH>	
@@ -212,9 +212,9 @@ Fredrikson	per
 sanoi	
 kertoi	
 viikolla	
-Dig	pro
-itodaylle	pro
-F-Securen	org
+Dig	org
+itodaylle	org
+F-Securen	borg
 vastaavan	
 toistaiseksi	
 palvelun	

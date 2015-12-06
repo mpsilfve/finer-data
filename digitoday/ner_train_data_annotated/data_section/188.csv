@@ -66,9 +66,9 @@ yksi
 esti	
 käyttäjiä	
 kirjoittamasta	
-Apple	
-ID	
--salasanaansa	
+Apple	misc
+ID	misc
+-salasanaansa	misc
 Messages-	pro
 ja	
 FaceTime-sovelluksiin	pro
@@ -77,7 +77,7 @@ FaceTime-sovelluksiin	pro
 Toinen	
 taasen	
 esti	
-Spotlight-hakua	
+Spotlight-hakua	misc
 esittämästä	
 sovellushakujen	
 tuloksia	
@@ -106,7 +106,7 @@ Asiasta
 kirjoittaa	
 muun	
 muassa	
-Cnet	pro
+Cnet	org
 ,	
 jonka	
 mukaan	
@@ -194,7 +194,7 @@ joilla
 päivitys	
 on	
 tyssännyt	
-iOS-asennustiedoston	
+iOS-asennustiedoston	misc
 vaatimaan	
 tilaan	
 .	

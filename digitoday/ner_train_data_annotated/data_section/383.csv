@@ -3,7 +3,7 @@ Asenna
 omalla	
 vastuulla	
 :	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 Mac-käyttöjärjestelmä	pro
 vuosi	
 verkkoon	
@@ -12,7 +12,7 @@ verkkoon
 8.1.2015 11:27	
 	
 <INGRESS>	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 kehittämä	
 Mac	pro
 OS	pro
@@ -63,9 +63,9 @@ tietokoneelleen
 ,	
 kertoo	
 verkkosivusto	
-North	pro
-Korea	pro
-Tech	pro
+North	org
+Korea	org
+Tech	org
 .	
 	
 <PARAGRAPH>	
@@ -86,7 +86,7 @@ Suomennettuna
 Punatähdeksi	pro
 kääntyvän	
 järjestelmän	
-3.0-versio	
+3.0-versio	pro
 perustuu	
 Linuxiin	pro
 ,	
@@ -147,10 +147,10 @@ XP	pro
 tä	pro
 .	
 	
-Chaos	pro
-Computer	pro
-Congress	pro
--tapahtumassa	pro
+Chaos	event
+Computer	event
+Congress	event
+-tapahtumassa	event
 Punatähti	bpro
 3.0	pro
 -käyttöjärjestelmää	pro
@@ -188,7 +188,7 @@ tiedoston
 lataukseen	
 löytyy	
 myös	
-Gizmodo-verkkolehden	pro
+Gizmodo-verkkolehden	org
 jutusta	
 .	
 	
@@ -214,7 +214,7 @@ selvästi
 suurempi	
 kuin	
 perinteiset	
-Linux-asennustiedostot	
+Linux-asennustiedostot	misc
 ,	
 eikä	
 sen	

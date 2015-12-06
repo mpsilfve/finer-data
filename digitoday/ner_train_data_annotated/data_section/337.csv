@@ -25,18 +25,18 @@ Windows	pro
 8.1:n	pro
 kohdalla	
 ,	
-Nokia	pro
-Power	pro
-User	pro
+Nokia	org
+Power	org
+User	org
 ennakoi	
 .	
 	
 <BODY>	
 <PARAGRAPH>	
-Nokia	pro
-Power	pro
-User	pro
--sivuston	pro
+Nokia	org
+Power	org
+User	org
+-sivuston	org
 mukaan	
 Microsoft	org
 ei	
@@ -57,11 +57,11 @@ että
 seuraava	
 mobiilikäyttöjärjestelmä	
 ,	
-"	
+"	pro
 Windows	pro
 10	pro
 Mobile	pro
-"	
+"	pro
 ,	
 on	
 jo	
@@ -77,9 +77,9 @@ ympärillä
 .	
 	
 <PARAGRAPH>	
-NPU	pro
-:	pro
-n	pro
+NPU	org
+:	org
+n	org
 mukaan	
 Windows	pro
 Phone	pro
@@ -157,9 +157,9 @@ Windows	pro
 Update	pro
 2:ta	pro
 odottaville	
-Windows	
-8.1	
--käyttäjille	
+Windows	misc
+8.1	misc
+-käyttäjille	misc
 .	
 	
 Microsoft	org
@@ -189,5 +189,5 @@ Asiasta
 kertoi	
 muun	
 muassa	
-Softpedia	pro
+Softpedia	org
 .	

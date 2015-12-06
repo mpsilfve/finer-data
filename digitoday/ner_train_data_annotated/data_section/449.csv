@@ -1,5 +1,5 @@
 <HEADLINE>	
-ZDNet	pro
+ZDNet	org
 :	
 Windows	pro
 10:ssä	pro
@@ -13,7 +13,7 @@ selain
 29.12.2014 22:19	
 	
 <INGRESS>	
-ZDNetin	pro
+ZDNetin	org
 kokenut	
 toimittaja	
 ei	
@@ -73,7 +73,7 @@ Explorer	pro
 <PARAGRAPH>	
 Asiasta	
 kertoi	
-ZDNetin	pro
+ZDNetin	org
 pitkän	
 linjan	
 Microsoft-toimittaja	tit
@@ -122,7 +122,7 @@ IE	pro
 :	pro
 stä	pro
 tuttua	
-JavaScript-moottoria	
+JavaScript-moottoria	misc
 nimeltä	
 Chakra	pro
 sekä	
@@ -176,10 +176,10 @@ jää
 esiintyykö	
 tämä	
 mystinen	
-"	
-Spartan	
-"	
--selain	
+"	misc
+Spartan	misc
+"	misc
+-selain	misc
 sielläkin	
 .	
 	

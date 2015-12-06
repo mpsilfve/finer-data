@@ -21,9 +21,9 @@ tulevasta
 ,	
 pääjohtaja	
 maalaili	
-The	pro
-Information	pro
--lehden	pro
+The	org
+Information	org
+-lehden	org
 tilaisuudessa	
 .	
 	
@@ -65,8 +65,8 @@ kova
 Kirt	per
 McMaster	per
 valaisi	
-The	pro
-Informationin	pro
+The	org
+Informationin	org
 tilaisuudessa	
 San	loc
 Franciscossa	loc
@@ -117,7 +117,7 @@ tavalla
 joka	
 ei	
 ole	
-nyky-Androidissa	
+nyky-Androidissa	misc
 mahdollista	
 .	
 	
@@ -224,7 +224,7 @@ juurikin
 menestyksekäs	
 ,	
 vaihtoehtoinen	
-Android-jakelu	
+Android-jakelu	misc
 .	
 	
 <PARAGRAPH>	
@@ -242,8 +242,8 @@ kuukaudessa
 .	
 	
 <PARAGRAPH>	
-The	pro
-Informationin	pro
+The	org
+Informationin	org
 artikkeli	
 on	
 maksumuurin	
@@ -254,6 +254,6 @@ Sitä
 on	
 referoinut	
 esimerkiksi	
-Android	pro
-Authority	pro
+Android	org
+Authority	org
 .	

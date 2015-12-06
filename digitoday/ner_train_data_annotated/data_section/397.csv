@@ -314,21 +314,21 @@ on
 useimmiten	
 asetukset	
 sekä	
-LAN	
-:	
-lle	
+LAN	misc
+:	misc
+lle	misc
 että	
-WAN	
-:	
-lle	
+WAN	misc
+:	misc
+lle	misc
 .	
 	
-LAN	
+LAN	misc
 tarkoittaa	
 omaa	
 sisäverkkoa	
 ,	
-WAN	
+WAN	misc
 taas	
 internetiä	
 .	
@@ -356,9 +356,9 @@ tai
 Ota	
 käyttöön	
 vain	
-LAN	
-:	
-ssa	
+LAN	misc
+:	misc
+ssa	misc
 "	
 .	
 	

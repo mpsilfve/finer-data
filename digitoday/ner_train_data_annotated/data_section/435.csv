@@ -1,5 +1,5 @@
 <HEADLINE>	
-Sony-murron	
+Sony-murron	misc
 takana	
 saattoikin	
 olla	
@@ -21,7 +21,7 @@ murron
 takana	
 ei	
 ollut	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 .	
 	
 <BODY>	
@@ -36,7 +36,7 @@ että
 se	
 oli	
 rajannut	
-Sony-iskun	
+Sony-iskun	misc
 epäillyt	
 kuuteen	
 henkilöön	
@@ -52,10 +52,10 @@ työntekijä
 .	
 	
 <PARAGRAPH>	
-The	pro
-New	pro
-York	pro
-Postin	pro
+The	org
+New	org
+York	org
+Postin	org
 mukaan	
 Sonyn	org
 ex-työntekijällä	

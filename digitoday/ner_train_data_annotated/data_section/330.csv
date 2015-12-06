@@ -3,7 +3,7 @@ Apple	pro
 Watch	pro
 näkyy	
 jo	
-iOS-betassa	
+iOS-betassa	misc
 	
 <DATE>	
 14.1.2015 11:24	
@@ -20,7 +20,7 @@ sovellus
 kelloa	
 varten	
 ,	
-9to5Mac	pro
+9to5Mac	org
 kertoo	
 .	
 	
@@ -59,7 +59,7 @@ betassa	pro
 <PARAGRAPH>	
 Asiasta	
 kertoo	
-9to5Mac	pro
+9to5Mac	org
 ,	
 jonka	
 mukaan	
@@ -92,11 +92,11 @@ Apple	org
 julkaisee	
 kellolle	
 omistetun	
-"	
-Apple	
-Watch	
--sovelluksen	
-"	
+"	misc
+Apple	misc
+Watch	misc
+-sovelluksen	misc
+"	misc
 .	
 	
 Tällä	
@@ -149,7 +149,7 @@ akkukestosta
 .	
 	
 <PARAGRAPH>	
-9to5Macin	pro
+9to5Macin	org
 mukaan	
 Apple	org
 aikoo	

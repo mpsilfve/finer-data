@@ -1,5 +1,5 @@
 <HEADLINE>	
-Suomi24-käyttäjät	
+Suomi24-käyttäjät	misc
 päätyivät	
 toistensa	
 sähköposteihin	
@@ -9,7 +9,7 @@ sähköposteihin
 	
 <INGRESS>	
 Kymmenet	
-Suomi24-sähköpostitileilleen	
+Suomi24-sähköpostitileilleen	misc
 kirjautuvat	
 käyttäjät	
 joutuivat	
@@ -19,7 +19,7 @@ sähköpostiin
 keskiviikkoiltana	
 .	
 	
-Suomi24:n	pro
+Suomi24:n	org
 mukaan	
 ongelma	
 johtui	
@@ -66,14 +66,14 @@ ylläpidolle
 ?	
 	
 nimimerkki	
-Ykskamu	
+Ykskamu	per
 kirjoitti	
 Suomi24-foorumilla	pro
 keskiviikkoiltana	
 .	
 	
 <PARAGRAPH>	
-Suomi24:n	pro
+Suomi24:n	org
 viestintäpäällikkö	tit
 Eveliina	per
 Neran	per
@@ -143,20 +143,20 @@ lähettämisen
 jälkeen	
 ,	
 kun	
-"	
+"	per
 Sara	per
-"	
+"	per
 pyysi	
 vikailmoittajaa	
 olemaan	
 yhteydessä	
 ylläpitoon	
-Suomi24:n	pro
+Suomi24:n	org
 verkkosivujen	
 palautelomakkeen	
 tai	
 palvelun	
-Facebook-sivun	
+Facebook-sivun	misc
 kautta	
 .	
 	
@@ -188,9 +188,9 @@ Vielä
 kello	
 20.50	
 nimimerkki	
-"	
-kotijuristi	
-"	
+"	per
+kotijuristi	per
+"	per
 kertoi	
 joutuneensa	
 toisen	
@@ -201,7 +201,7 @@ omaansa
 .	
 	
 <PARAGRAPH>	
-Suomi24:n	pro
+Suomi24:n	org
 ensimmäinen	
 tiedonanto	
 tapahtumista	
@@ -252,7 +252,7 @@ välittömästi
 sen	
 havaittuamme	
 ,	
-Suomi24	pro
+Suomi24	org
 tiedotti	
 keskustelupalstallaan	
 .	

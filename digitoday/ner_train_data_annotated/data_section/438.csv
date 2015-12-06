@@ -12,8 +12,8 @@ toimii
 30.12.2014 15:07	
 	
 <INGRESS>	
-Kiinan	org
-Gmail-esto	
+Kiinan	loc
+Gmail-esto	misc
 näyttää	
 hellittäneen	
 nopeasti	
@@ -36,8 +36,8 @@ tiistaina
 ,	
 muun	
 muassa	
-Financial	pro
-Times	pro
+Financial	org
+Times	org
 (	
 maksumuurin	
 takana	
@@ -73,7 +73,7 @@ eri
 sähköpostisovelluksilla	
 esimerkiksi	
 imap-	pro
-ja	pro
+ja	
 pop3-protokollien	pro
 kautta	
 .	
@@ -91,7 +91,7 @@ mutta
 moni	
 syytti	
 siitä	
-Kiinan	org
+Kiinan	loc
 nettisensuuria	
 eli	
 "	
@@ -163,7 +163,7 @@ jotka
 ovat	
 suhteellisen	
 korkealla	
-Kiinan	org
+Kiinan	loc
 poliittisessa	
 hierarkiassa	
 .	
@@ -173,16 +173,16 @@ heiltä
 kantautui	
 painava	
 pyyntö	
-Gmail-eston	
+Gmail-eston	misc
 löysäämiseksi	
 .	
 	
 <PARAGRAPH>	
-FT	pro
+FT	org
 huomauttaa	
 ,	
 että	
-Gmail-estoa	
+Gmail-estoa	misc
 protestoi	
 Kiinassa	loc
 varsikin	

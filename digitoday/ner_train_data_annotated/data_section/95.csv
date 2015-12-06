@@ -7,7 +7,7 @@ Näin
 viedään	
 80	
 prosenttia	
-Office-käyttäjistä	
+Office-käyttäjistä	misc
 	
 <DATE>	
 9.2.2015 15:04	
@@ -18,17 +18,17 @@ aikoo
 viedä	
 suurimman	
 osan	
-Office-yrityskäyttäjistä	
+Office-yrityskäyttäjistä	misc
 .	
 	
 Yhtiön	
-johtaja	
+johtaja	tit
 Amit	per
 Singh	per
 valotti	
 keinoja	
-Business	pro
-Insiderille	pro
+Business	org
+Insiderille	org
 .	
 	
 <BODY>	
@@ -40,7 +40,7 @@ viedä
 suurimman	
 osan	
 Microsoftin	org
-Office-käyttäjistä	
+Office-käyttäjistä	misc
 .	
 	
 Googlen	org
@@ -49,8 +49,8 @@ johtaja	tit
 Amit	per
 Singh	per
 kertoi	
-Business	pro
-Insiderille	pro
+Business	org
+Insiderille	org
 ,	
 millä	
 keinoin	
@@ -130,7 +130,7 @@ prosentista
 	
 <PARAGRAPH>	
 -	
-Office-tiedostomuotoa	
+Office-tiedostomuotoa	misc
 on	
 tuettava	
 ensiluokkaisesti	

@@ -44,13 +44,13 @@ on
 alkanut	
 estää	
 asiakkaiden	
-vpn-yhteyksiä	
+vpn-yhteyksiä	misc
 voimakkaammin	
 siellä	
 täällä	
 .	
 	
-Vpn-yhteydet	
+Vpn-yhteydet	misc
 ovat	
 tapa	
 päästä	
@@ -67,7 +67,7 @@ Palvelu
 kiisti	
 kaiken	
 toimittajatapaamisessa	
-CES-messuilla	pro
+CES-messuilla	event
 .	
 	
 <PARAGRAPH>	
@@ -78,9 +78,9 @@ että
 olisimme	
 muuttaneet	
 linjaustamme	
-vpn	
-:	
-n	
+vpn	pro
+:	pro
+n	pro
 suhteen	
 ,	
 ovat	
@@ -90,7 +90,7 @@ tuotejohtaja	tit
 Neil	per
 Hunt	per
 vakuutti	
-Cnetin	pro
+Cnetin	org
 mukaan	
 .	
 	
@@ -118,27 +118,27 @@ Uutisissa
 puhuttiin	
 muun	
 muassa	
-UnoDNS	pro
-:	pro
-n	pro
+UnoDNS	org
+:	org
+n	org
 ,	
-Unblockusin	pro
+Unblockusin	org
 ja	
-TorGuardin	pro
+TorGuardin	org
 havainneen	
 pienen	
 määrän	
 epätavallisia	
-vp	
-n-estoja	
+vp	misc
+n-estoja	misc
 Netflixin	pro
 yhteyksissä	
 .	
 	
 <PARAGRAPH>	
-Vpn	
-:	
-n	
+Vpn	pro
+:	pro
+n	pro
 käyttö	
 on	
 ollut	
@@ -169,7 +169,7 @@ hyödyntävänsä
 alan	
 normaaleja	
 keinoja	
-vpn-yhteyksien	
+vpn-yhteyksien	misc
 torjumiseksi	
 .	
 	
@@ -177,7 +177,7 @@ torjumiseksi
 Hunt	per
 muotoili	
 asian	
-CES-messuilla	pro
+CES-messuilla	event
 näin	
 :	
 	
@@ -187,9 +187,9 @@ Ihmiset
 ,	
 jotka	
 käyttävät	
-vpn	
-:	
-ää	
+vpn	pro
+:	pro
+ää	pro
 päästäkseen	
 palveluumme	
 [	
