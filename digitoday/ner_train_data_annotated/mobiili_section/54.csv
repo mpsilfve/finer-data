@@ -28,9 +28,9 @@ esittelevät
 itseorganisoituvia	
 backhaul-verkkoja	
 Barcelonan	loc
-Mobile	pro
-World	pro
--tapahtumassa	pro
+Mobile	event
+World	event
+-tapahtumassa	event
 maaliskuun	
 alussa	
 .	
@@ -162,20 +162,20 @@ demonstraatioon
 Smart	pro
 Routerin	pro
 ja	
-SDN-ohjaimen	
+SDN-ohjaimen	misc
 kun	
 Nokia	org
 kantaa	
 sinne	
 lte-tukiaseman	
 ja	
-System	
-Architecture	
-Evolution	
-(	
-SAE	
-)	
--yhdyskäytävän	
+System	misc
+Architecture	misc
+Evolution	misc
+(	misc
+SAE	misc
+)	misc
+-yhdyskäytävän	misc
 .	
 	
 <PARAGRAPH>	
@@ -196,7 +196,7 @@ suunnittelevansa
 ohjelmallisesti	
 määritettyjen	
 (	
-SDN	
+SDN	misc
 )	
 runkoverkkojen	
 käyttöönottoa	
@@ -211,7 +211,7 @@ ilman
 mitään	
 aikatavoitteita	
 ,	
-FierceWire	pro
-less	pro
+FierceWire	org
+less	org
 kirjoitti	
 .	

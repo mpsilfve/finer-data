@@ -8,7 +8,7 @@ talouskasvua
 myynti	
 ylittää	
 silti	
-Suomenvaltionvelan	org
+Suomenvaltionvelan	loc
 	
 <DATE>	
 23.1.2015 10:08	
@@ -33,7 +33,7 @@ kertaa
 niin	
 suuri	
 kuin	
-Suomen	org
+Suomen	loc
 95	
 miljardin	
 euron	
@@ -182,6 +182,6 @@ Asiasta
 uutisoi	
 muun	
 muassa	
-Total	pro
-Telecom	pro
+Total	org
+Telecom	org
 .	

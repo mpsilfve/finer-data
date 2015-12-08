@@ -24,9 +24,9 @@ ei
 kuumene	
 liikaa	
 ,	
-Wall	pro
-Street	pro
-Journal	pro
+Wall	org
+Street	org
+Journal	org
 uutisoi	
 .	
 	
@@ -84,9 +84,9 @@ laitteessaan
 .	
 	
 <PARAGRAPH>	
-Wall	pro
-Street	pro
-Journalin	pro
+Wall	org
+Street	org
+Journalin	org
 (	
 tilaus	
 )	
@@ -150,12 +150,12 @@ maaliskuun
 alussa	
 Barcelonassa	loc
 pidettävässä	
-Mobile	pro
-World	pro
-Congress	pro
--tapahtumassa	pro
+Mobile	event
+World	event
+Congress	event
+-tapahtumassa	event
 ,	
-FierceWireless	pro
+FierceWireless	org
 ennakoi	
 .	
 	

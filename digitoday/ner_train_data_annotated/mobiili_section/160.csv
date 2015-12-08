@@ -21,9 +21,9 @@ irti
 Googlen	org
 talutusnuorasta	
 ,	
-Wall	pro
-Street	pro
-Journal	pro
+Wall	org
+Street	org
+Journal	org
 uutisoi	
 .	
 	
@@ -38,9 +38,9 @@ Cyanogen	org
 nousee	
 uuteen	
 arvoon	
-Wall	pro
-Street	pro
-Journalin	pro
+Wall	org
+Street	org
+Journalin	org
 lähteiden	
 kerrottua	
 ,	
@@ -119,9 +119,9 @@ kieltäytyivät
 kommentoimasta	
 asiaa	
 ,	
-Wall	pro
-Street	pro
-Journal	pro
+Wall	org
+Street	org
+Journal	org
 kirjoitti	
 .	
 	
@@ -205,9 +205,9 @@ sopinut
 toimittavansa	
 C-Android-laitteita	pro
 ja	
-Wall	pro
-Street	pro
-Journalin	pro
+Wall	org
+Street	org
+Journalin	org
 lähteiden	
 mukaan	
 tulossa	
@@ -225,7 +225,7 @@ maailman
 viime	
 vuoden	
 heinä–syyskuun	
-Android-toimituksista	
+Android-toimituksista	misc
 kaikkiaan	
 37	
 prosenttia	
@@ -295,5 +295,5 @@ muiden
 sovellustensa	
 näkyvyyttä	
 suuressa	
-Android-ympäristössä	
+Android-ympäristössä	misc
 .	

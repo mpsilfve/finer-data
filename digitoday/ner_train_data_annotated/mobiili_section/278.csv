@@ -1,9 +1,9 @@
 <HEADLINE>	
 Oulussa	loc
 suunniteltu	
-"	
-Putin-puhelin	
-"	
+"	misc
+Putin-puhelin	misc
+"	misc
 YotaPhone	pro
 tulee	
 Suomeen	loc
@@ -70,7 +70,7 @@ sen
 takapuolella	
 oleva	
 mustanharmaa	
-e-ink-näyttö	
+e-ink-näyttö	misc
 .	
 	
 Virransäästötilassa	
@@ -84,7 +84,7 @@ puhelinta
 voi	
 käyttää	
 vähävirtaisen	
-e-ink-näytön	
+e-ink-näytön	misc
 kautta	
 .	
 	
@@ -326,7 +326,7 @@ maailmanlaajuista
 huomiota	
 ,	
 kun	
-Venäjän	org
+Venäjän	loc
 presidentti	tit
 Vladimir	per
 Putin	per

@@ -63,9 +63,9 @@ kuukausia
 ,	
 muun	
 muassa	
-Wall	pro
-Street	pro
-Journal	pro
+Wall	org
+Street	org
+Journal	org
 kirjoitti	
 .	
 	
@@ -78,9 +78,9 @@ laajasti
 odotettu	
 tapahtuvan	
 Barcelonan	loc
-Mobile	pro
-World	pro
-Congressin	pro
+Mobile	event
+World	event
+Congressin	event
 yhteydessä	
 .	
 	
@@ -176,7 +176,7 @@ vilkkainta
 <PARAGRAPH>	
 Samaan	
 aikaan	
-iPhone-toimitukset	
+iPhone-toimitukset	misc
 kasvoivat	
 39,3	
 miljoonasta	

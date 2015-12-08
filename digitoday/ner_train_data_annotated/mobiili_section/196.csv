@@ -2,7 +2,7 @@
 Qualcomm	org
 menetti	
 ison	
-Snapdragon-tilauksen	
+Snapdragon-tilauksen	misc
 -	
 antoi	
 tulosvaroituksen	
@@ -76,12 +76,12 @@ odotetaan
 tapahtuvan	
 maaliskuun	
 alun	
-Mobile	pro
-World	pro
--tapahtumassa	pro
+Mobile	event
+World	event
+-tapahtumassa	event
 Barcelonassa	loc
 ,	
-Cnet	pro
+Cnet	org
 kirjoitti	
 .	
 	

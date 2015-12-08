@@ -3,9 +3,9 @@ Kiina	loc
 on	
 haluton	
 haukkaamaan	
-Apple	
-Pay	
--omenaa	
+Apple	misc
+Pay	misc
+-omenaa	misc
 	
 <DATE>	
 20.2.2015 10:54	
@@ -20,8 +20,8 @@ on
 ajautunut	
 mutaan	
 ,	
-Caixin	pro
-Online	pro
+Caixin	org
+Online	org
 uutisoi	
 .	
 	
@@ -51,8 +51,8 @@ kanssa
 <PARAGRAPH>	
 Kiinalaisen	
 talousjulkaisu	
-Caixin	pro
-Onlinen	pro
+Caixin	org
+Onlinen	org
 mukaan	
 Applen	org
 iPhone	pro
@@ -69,14 +69,14 @@ ainakin
 lähes	
 monopoliasemassa	
 oleva	
-UnionPay-pankkikorttimaksujen	
+UnionPay-pankkikorttimaksujen	misc
 välittäjä	
 ja	
 verkkokauppajätti	
 Alibaba	org
 .	
 	
-Caixin	pro
+Caixin	org
 viittaa	
 Kiinan	org
 kansanpankin	org
@@ -110,7 +110,7 @@ tuomiseksi
 Kiinaan	loc
 ,	
 mutta	
-Caixinin	pro
+Caixinin	org
 mukaan	
 se	
 ei	
@@ -231,7 +231,7 @@ sen
 kanssa	
 kilpailevan	
 Tencentin	org
-WePay-maksujen	
+WePay-maksujen	misc
 välitysjärjestelmä	
 .	
 	
@@ -258,9 +258,9 @@ länsimaissa
 .	
 	
 <PARAGRAPH>	
-International	pro
-Business	pro
-Timesin	pro
+International	org
+Business	org
+Timesin	org
 mukaan	
 Apple	pro
 Payn	pro
@@ -309,9 +309,9 @@ jonne
 maan	
 sisällä	
 tehdyt	
-Apple	
-Pay	
--kauppojen	
+Apple	misc
+Pay	misc
+-kauppojen	misc
 tiedot	
 tallennetaan	
 .	

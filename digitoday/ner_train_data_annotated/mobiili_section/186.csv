@@ -110,7 +110,7 @@ taas
 Moskovassa	loc
 ,	
 kertoo	
-Digitodaylle	pro
+Digitodaylle	org
 Jukka	per
 Hekkala	per
 ,	
@@ -247,7 +247,7 @@ on
 sähköisissä	
 lukulaitteissa	
 käytetty	
-e-ink-näyttö	
+e-ink-näyttö	misc
 ,	
 joka	
 kuluttaa	
@@ -373,7 +373,7 @@ Android-sovelluksia
 voi	
 käyttää	
 takakannen	
-e-ink-näytöllä	
+e-ink-näytöllä	misc
 .	
 	
 Yota	org
@@ -449,7 +449,7 @@ sovelluksia
 	
 <PARAGRAPH>	
 Uusimmalla	
-e-ink-tekniikalla	
+e-ink-tekniikalla	misc
 voi	
 tehdä	
 myös	
@@ -470,7 +470,7 @@ käytössä
 oli	
 vain	
 mustavalkoisia	
-e-ink-näyttöjä	
+e-ink-näyttöjä	misc
 ,	
 Hekkala	per
 sanoo	
@@ -478,7 +478,7 @@ sanoo
 	
 <PARAGRAPH>	
 Värillinen	
-e-ink-takanäyttö	
+e-ink-takanäyttö	misc
 on	
 kuitenkin	
 vahvasti	

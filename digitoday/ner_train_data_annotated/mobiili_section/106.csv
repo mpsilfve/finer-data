@@ -87,7 +87,7 @@ takakannen
 näyttö	
 on	
 4,7-tuumainen	
-e-ink-näyttö	
+e-ink-näyttö	misc
 ,	
 joka	
 toistaa	
@@ -267,7 +267,7 @@ vuorokautta
 <PARAGRAPH>	
 Ei	
 aivan	
-perus-Android	
+perus-Android	misc
 	
 <PARAGRAPH>	
 Normaalissa	
@@ -305,7 +305,7 @@ päivityksenä
 	
 <PARAGRAPH>	
 Aivan	
-perus-Androidista	
+perus-Androidista	misc
 ei	
 kuitenkaan	
 ole	
@@ -349,7 +349,7 @@ voi
 käyttää	
 normaaliin	
 tapaan	
-e-ink-näytön	
+e-ink-näytön	misc
 kautta	
 .	
 	
@@ -359,7 +359,7 @@ nimellä
 YotaMirror	pro
 .	
 	
-E-ink-näyttö	
+E-ink-näyttö	misc
 vastaa	
 kosketukseen	
 hieman	
@@ -413,7 +413,7 @@ käyttöön
 Laitteesta	
 löytyy	
 myös	
-YotaApps-valikko	
+YotaApps-valikko	misc
 ,	
 josta	
 löytyy	
@@ -561,7 +561,7 @@ näytä
 esimerkiksi	
 parhaillaan	
 soivaa	
-Spotify-kappaletta	
+Spotify-kappaletta	misc
 .	
 	
 <PARAGRAPH>	
@@ -623,9 +623,9 @@ kanssa
 	
 <PARAGRAPH>	
 Sekä	
-YotaCover-	
+YotaCover-	misc
 että	
-YotaPanel-valintoja	
+YotaPanel-valintoja	misc
 saattoi	
 tehdä	
 useita	
@@ -692,7 +692,7 @@ täydellinen
 En	
 oikeastaan	
 käyttänyt	
-e-ink-takanäyttöä	
+e-ink-takanäyttöä	misc
 kovinkaan	
 paljon	
 ,	
@@ -741,7 +741,7 @@ ei
 .	
 	
 Toivottavasti	
-e-ink-näytölle	
+e-ink-näytölle	misc
 kehitetään	
 yhä	
 enemmän	
@@ -778,9 +778,9 @@ myöskään
 oikein	
 ymmärtänyt	
 jakoa	
-YotaPanel-	
+YotaPanel-	misc
 ja	
-YotaCover-näkymiin	
+YotaCover-näkymiin	misc
 ,	
 jotka	
 tuntuvat	
