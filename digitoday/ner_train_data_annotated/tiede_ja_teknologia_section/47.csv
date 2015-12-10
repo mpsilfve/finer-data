@@ -4,7 +4,7 @@ juova
 siellä	
 jossain	
 :	
-Euroopan	org
+Euroopan	loc
 ATV-alus	pro
 ei	
 lennä	
@@ -14,7 +14,7 @@ enää
 16.2.2015 00:50	
 	
 <INGRESS>	
-Euroopan	org
+Euroopan	loc
 viimeinen	
 ATV-avaruusalus	pro
 paloi	
@@ -34,7 +34,7 @@ mukaan
 	
 <BODY>	
 <PARAGRAPH>	
-Euroopan	org
+Euroopan	loc
 viides	
 ja	
 sarjassaan	
@@ -134,7 +134,7 @@ ATV	pro
 :	pro
 n	pro
 avulla	
-Eurooppa	org
+Eurooppa	loc
 toimitti	
 ISS	pro
 :	pro
@@ -162,7 +162,7 @@ on
 määrä	
 käyttää	
 osana	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 tulevaa	
 Orion-avaruusalusta	pro
 .	
