@@ -56,7 +56,7 @@ on
 yhä	
 vakavampi	
 uhka	
-Suomen	org
+Suomen	loc
 viranomaisille	
 ja	
 yrityksille	
@@ -232,11 +232,11 @@ valtiota
 ,	
 kärjessä	
 suurvallat	
-Venäjä	org
+Venäjä	loc
 ,	
-Kiina	org
+Kiina	loc
 ja	
-Yhdysvallat	org
+Yhdysvallat	loc
 .	
 	
 Yritysten	
@@ -253,7 +253,7 @@ harvinaista
 Suojelupoliisin	org
 mukaan	
 erityisesti	
-Venäjä	org
+Venäjä	loc
 on	
 kiinnostunut	
 Suomesta	loc
@@ -335,13 +335,13 @@ Kaikki
 tietävät	
 ,	
 että	
-Irakia	org
+Irakia	loc
 vastaan	
 kohdistetun	
 Stuxnet-haittaohjelman	pro
 takana	
 oli	
-Yhdysvallat	org
+Yhdysvallat	loc
 ,	
 mutta	
 ei	
@@ -360,7 +360,7 @@ Useiden
 vakoiluohjelmien	
 tekijäksi	
 arvellaan	
-Venäjää	org
+Venäjää	loc
 ,	
 sillä	
 niitä	
@@ -372,7 +372,7 @@ hallinnon	org
 tietokoneilta	
 .	
 	
-Kiinan	org
+Kiinan	loc
 taas	
 on	
 epäilty	
@@ -395,7 +395,7 @@ kiinalaisyhtiöille
 #	
 #	
 #	
-Suomen	org
+Suomen	loc
 suojautuminen	
 heikkoa	
 	

@@ -1,5 +1,5 @@
 <HEADLINE>	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 asejohto	
 mainosti	
 terroristeja	
@@ -21,13 +21,13 @@ vandalismina
 	
 <BODY>	
 <PARAGRAPH>	
-Yhdysvaltain	borg
+Yhdysvaltain	loc
 Central	borg
 Command	org
 kertoo	
-Twitter-	
+Twitter-	misc
 ja	
-Youtube-tiliensä	
+Youtube-tiliensä	misc
 joutuneen	
 maanantaina	
 vallatuiksi	
@@ -37,16 +37,16 @@ minuutiksi
 .	
 	
 <PARAGRAPH>	
-The	pro
-Washington	pro
-Postin	pro
+The	org
+Washington	org
+Postin	org
 mukaan	
 tileillä	
 julkaistiin	
 sotilaita	
 uhkaavia	
 viestejä	
-Isis-terroristien	
+Isis-terroristien	misc
 nimissä	
 ja	
 linkattiin	
@@ -59,7 +59,7 @@ Command	org
 eli	
 Centcom	org
 on	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 asevoimien	
 sotatoimialueen	
 päämaja	

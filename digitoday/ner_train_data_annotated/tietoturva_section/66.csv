@@ -1,21 +1,21 @@
 <HEADLINE>	
-USA	org
+USA	loc
 epäilee	
 :	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 sai	
 apua	
-Sony-iskuun	org
+Sony-iskuun	misc
 	
 <DATE>	
 30.12.2014 12:31	
 	
 <INGRESS>	
-Yhdysvallat	org
+Yhdysvallat	loc
 miettii	
 ,	
 palkkasiko	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 ulkomaisia	
 krakkereita	
 Sony	org
@@ -33,7 +33,7 @@ edes
 siitä	
 ,	
 että	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 hyökkäsi	
 .	
 	
@@ -42,7 +42,7 @@ hyökkäsi
 Yhdysvaltalaiset	
 tutkijat	
 uskovat	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 todennäköisesti	
 palkanneen	
 ihmisiä	
@@ -79,13 +79,13 @@ juontuu
 siitä	
 ,	
 että	
-Pohjois-Korealla	org
+Pohjois-Korealla	loc
 ei	
 katsota	
 olevan	
 kykyä	
 toteuttaa	
-Sony-kampanjan	
+Sony-kampanjan	misc
 kaikkia	
 elementtejä	
 .	
@@ -117,11 +117,11 @@ riippumattomista
 tietoturvatutkijoista	
 ei	
 luota	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 päätelmään	
 ,	
 että	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 järjesti	
 hyökkäyksen	
 .	
@@ -161,7 +161,7 @@ vakuuttunut
 että	
 Sonyyn	org
 hyökkäsi	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 .	
 	
 Maa	
@@ -172,7 +172,7 @@ syyllisyytensä
 	
 <PARAGRAPH>	
 Jos	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 palkkasi	
 apua	
 hyökkäykseen	

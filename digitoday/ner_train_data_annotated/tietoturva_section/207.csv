@@ -23,8 +23,8 @@ tekosia
 Kaspersky	org
 selvitti	
 yhdessä	
-Der	pro
-Spiegelin	pro
+Der	org
+Spiegelin	org
 kanssa	
 .	
 	
@@ -53,18 +53,18 @@ selvänä
 että	
 Regin	pro
 on	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 ,	
 mutta	
 kenties	
 myös	
-Ison-Britannian	org
+Ison-Britannian	loc
 aikaansaama	
 .	
 	
 Nyt	
-Der	pro
-Spiegel	pro
+Der	org
+Spiegel	org
 vei	
 johtopäätökset	
 pidemmälle	
@@ -124,8 +124,8 @@ keylogger-moduuli	pro
 Kaspersky	org
 totesi	
 havainnoistaan	
-Der	pro
-Spiegelin	pro
+Der	org
+Spiegelin	org
 mukaan	
 .	
 	
@@ -182,15 +182,15 @@ kesken
 ,	
 joka	
 koostuu	
-Yhdysvalloista	org
+Yhdysvalloista	loc
 ,	
-Isosta-Britanniasta	org
+Isosta-Britanniasta	loc
 ,	
-Kanadasta	org
+Kanadasta	loc
 ,	
-Australiasta	org
+Australiasta	loc
 ja	
-Uudesta-Seelannista	org
+Uudesta-Seelannista	loc
 .	
 	
 Jopa	
@@ -208,8 +208,8 @@ Reginin	pro
 tekijäksi	
 ,	
 mutta	
-Der	pro
-Spiegel	pro
+Der	org
+Spiegel	org
 ei	
 arkaile	
 sanoa	
@@ -237,9 +237,9 @@ sitä
 on	
 verrattu	
 jopa	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 ja	
-Israelin	org
+Israelin	loc
 tekemään	
 Stuxnet-haittaohjelmaan	pro
 ,	
@@ -290,9 +290,9 @@ maata
 vastaan	
 mukaan	
 lukien	
-Saksa	org
+Saksa	loc
 ,	
-Belgia	org
+Belgia	loc
 ja	
-Brasilia	org
+Brasilia	loc
 .	

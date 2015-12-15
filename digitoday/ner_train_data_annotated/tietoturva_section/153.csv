@@ -1,5 +1,5 @@
 <HEADLINE>	
-Paypal-maksuhuijaukset	
+Paypal-maksuhuijaukset	misc
 leviävät	
 Suomessa	loc
 —	
@@ -94,14 +94,14 @@ to
 pay	
 u	
 through	
-paypal	
+paypal	pro
 ,	
 and	
 do	
 u	
 have	
 a	
-paypal	
+paypal	pro
 acct	
 so	
 i	
@@ -119,10 +119,10 @@ fund
 <PARAGRAPH>	
 Tuotteesta	
 kiinnostunut	
-"	
+"	per
 Pedro	per
 Willson	per
-"	
+"	per
 kertoi	
 siis	
 olevansa	
@@ -408,7 +408,7 @@ saanut
 #	
 #	
 Näin	
-Paypal-huijaus	
+Paypal-huijaus	misc
 etenee	
 	
 <PARAGRAPH>	
@@ -420,10 +420,10 @@ sijasta
 muualle	
 .	
 	
-"	
+"	per
 Pedro	per
 Willsonin	per
-"	
+"	per
 kanssa	
 sohvakauppa	
 olisi	
@@ -489,7 +489,7 @@ jälkeen
 myyjä	
 saattaa	
 saada	
-Paypal-tililleen	
+Paypal-tililleen	misc
 sovitun	
 summan	
 ,	
@@ -529,7 +529,7 @@ peruuttaa
 Paypal-palvelun	pro
 kautta	
 toiselle	
-Paypal-tilille	
+Paypal-tilille	misc
 tekemänsä	
 maksun	
 ,	
@@ -581,7 +581,7 @@ muunnelmia
 	
 Huijarin	
 käyttämä	
-Paypal-tili	
+Paypal-tili	misc
 saattaa	
 olla	
 varastettu	
@@ -594,7 +594,7 @@ haltuunsa
 jonkun	
 toisen	
 käyttäjän	
-Paypal-tilin	
+Paypal-tilin	misc
 tunnukset	
 .	
 	
@@ -667,7 +667,7 @@ palvelu
 jos	
 vain	
 käyttäjän	
-Paypal-tunnukset	
+Paypal-tunnukset	misc
 eivät	
 pääse	
 vuotamaan	

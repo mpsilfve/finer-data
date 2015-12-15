@@ -24,17 +24,17 @@ Gemalton	org
 käyttämät	
 salausavaimet	
 ovat	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 ja	
-Britannian	org
+Britannian	loc
 vakoiluorganisaatioiden	
 hallussa	
 .	
 	
 Asiasta	
 kertoi	
-The	pro
-Intercept	pro
+The	org
+Intercept	org
 .	
 	
 <BODY>	
@@ -83,8 +83,8 @@ viemistä
 tiedostoista	
 ,	
 jotka	
-The	pro
-Intercept	pro
+The	org
+Intercept	org
 julkaisi	
 laajan	
 artikkelin	
@@ -100,12 +100,12 @@ secret
 selviää	
 ,	
 että	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 NSA	borg
 :	org
 n	org
 ja	
-Britannian	org
+Britannian	loc
 GCHQ:n	borg
 työntekijöistä	
 koostuva	
@@ -207,8 +207,8 @@ tehokkaammin
 Tämä	
 selviää	
 yhdestä	
-The	pro
-Interceptin	pro
+The	org
+Interceptin	org
 julkaisemasta	
 24-sivuisesta	
 ,	
@@ -220,8 +220,8 @@ asiakirjasta
 .	
 	
 <PARAGRAPH>	
-The	pro
-Interceptin	pro
+The	org
+Interceptin	org
 tänään	
 perjantaina	
 julkaisemasta	
@@ -230,5 +230,5 @@ löytyy
 yhteenvetouutinen	
 muun	
 muassa	
-ZDNetistä	pro
+ZDNetistä	org
 .	

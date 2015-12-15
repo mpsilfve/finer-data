@@ -1,5 +1,5 @@
 <HEADLINE>	
-Suomi24:n	pro
+Suomi24:n	org
 sähköpostisotku	
 :	
 "	
@@ -15,7 +15,7 @@ rikkoa
 <INGRESS>	
 Noin	
 viidenkymmenen	
-Suomi24-sähköpostin	
+Suomi24-sähköpostin	misc
 käyttäjän	
 tunnukset	
 menivät	
@@ -34,7 +34,7 @@ sähköposteja
 Aller	org
 Median	org
 omistama	
-Suomi24	pro
+Suomi24	org
 on	
 selventänyt	
 parin	
@@ -166,7 +166,7 @@ lakirikkomus
 	
 <PARAGRAPH>	
 Viestintävirastossa	org
-Suomi24:n	pro
+Suomi24:n	borg
 virheet	
 ovat	
 jo	
@@ -189,7 +189,7 @@ Paraikaa
 Viestintävirasto	org
 selvittää	
 yhdessä	
-Suomi24:n	pro
+Suomi24:n	org
 kanssa	
 mitä	
 oikein	
@@ -223,7 +223,7 @@ On
 mahdollista	
 ,	
 että	
-Suomi24	pro
+Suomi24	org
 olisi	
 rikkonut	
 esimerkiksi	
@@ -240,7 +240,7 @@ kuitenkaan
 jakaa	
 ,	
 sillä	
-Suomi24	pro
+Suomi24	org
 on	
 jo	
 korjannut	
@@ -282,7 +282,7 @@ sanoo
 <PARAGRAPH>	
 Väyrysen	per
 mukaan	
-Suomi24	pro
+Suomi24	org
 lähettänyt	
 kaikille	
 virheestä	

@@ -1,6 +1,6 @@
 <HEADLINE>	
 F-Secure	org
-USA:lle	borg
+USA:lle	loc
 :	
 Toisetko	
 eivät	
@@ -19,10 +19,10 @@ tietoturvayhtiön
 amerikkalainen	
 vahvistus	
 katsoo	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 syyllistyneen	
 kaksinaismoralismiin	
-Sony-hyökkäyksen	
+Sony-hyökkäyksen	misc
 yhteydessä	
 .	
 	
@@ -33,7 +33,7 @@ asiantuntija	tit
 Sean	per
 Sullivan	per
 jatkaa	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 arvostelua	
 Sony	org
 Picturesin	org
@@ -47,7 +47,7 @@ kirjoituksensa
 F-Securen	org
 blogissa	
 "	
-USA	org
+USA	loc
 '	
 s	
 Double	
@@ -59,19 +59,19 @@ t
 Hack	
 Like	
 the	
-USA	org
+USA	loc
 "	
 ,	
 eli	
 "	
-USA:n	org
+USA:n	loc
 kaksinaismoralismi	
 :	
 Älä	
 hakkeroi	
 niin	
 kuin	
-USA	org
+USA	loc
 "	
 .	
 	
@@ -113,7 +113,7 @@ Sony	org
 Picturesin	org
 ,	
 jonka	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 on	
 väitetysti	
 murtanut	
@@ -121,7 +121,7 @@ murtanut
 	
 <PARAGRAPH>	
 Todisteita	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 syyllisyydestä	
 on	
 annettu	
@@ -139,23 +139,23 @@ Mutta
 jos	
 takana	
 oli	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 ,	
 Sullivan	per
 on	
 valmis	
 kippaamaan	
 syyn	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 niskaan	
 .	
 	
 <PARAGRAPH>	
 –	
 Mistäköhän	
-Korean	org
-demokraattinen	org
-kansantasavalta	org
+Korean	loc
+demokraattinen	loc
+kansantasavalta	loc
 on	
 saanut	
 hullun	
@@ -181,14 +181,14 @@ varsinainen
 vastaus	
 voi	
 olla	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 sijaan	
-Kiina	org
+Kiina	loc
 .	
 	
 Lehtitietojen	
 mukaan	
-Kiina	org
+Kiina	loc
 oli	
 jo	
 varhain	
@@ -200,11 +200,11 @@ ja
 oppi	
 levisi	
 sieltä	
-Pohjois-Koreaan	org
+Pohjois-Koreaan	loc
 .	
 	
 <PARAGRAPH>	
-Yhdysvaltoja	org
+Yhdysvaltoja	loc
 on	
 ollut	
 muodikasta	

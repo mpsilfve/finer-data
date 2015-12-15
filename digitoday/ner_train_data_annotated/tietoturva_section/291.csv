@@ -1,7 +1,7 @@
 <HEADLINE>	
-USA	org
+USA	loc
 piilotteli	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 verkossa	
 —	
 mutta	
@@ -13,20 +13,20 @@ hyökkäystä
 19.1.2015 12:11	
 	
 <INGRESS>	
-The	pro
-New	pro
-York	pro
-Timesin	pro
+The	org
+New	org
+York	org
+Timesin	org
 uusi	
-NSA-paljastus	
+NSA-paljastus	misc
 selittää	
 osittain	
 ,	
 miksi	
-Yhdysvallat	org
+Yhdysvallat	loc
 syyttää	
-Pohjois-Koreaa	org
-Sony	borg
+Pohjois-Koreaa	loc
+Sony	org
 Picturesin	org
 murrosta	
 .	
@@ -46,7 +46,7 @@ tiedusteluvirasto	org
 NSA	borg
 oli	
 soluttautunut	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 tietoverkkoihin	
 jo	
 vuonna	
@@ -55,10 +55,10 @@ alkaneessa
 operaatiossa	
 ,	
 [	
-The	pro
-New	pro
-York	pro
-Times	pro
+The	org
+New	org
+York	org
+Times	org
 ]	
 (	
 http	
@@ -102,7 +102,7 @@ tietojen
 ja	
 vasta	
 paljastetun	
-NSA-asiakirjan	
+NSA-asiakirjan	misc
 avulla	
 .	
 	
@@ -119,7 +119,7 @@ ja
 tietokoneita	
 ,	
 joita	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 kyberhyökkääjät	
 väitetysti	
 käyttivät	
@@ -132,15 +132,15 @@ auttaa
 selittämään	
 ,	
 miksi	
-Yhdysvallat	org
+Yhdysvallat	loc
 poikkesi	
 normista	
 ja	
 oli	
 valmis	
 syyttämään	
-Pohjois-Koreaa	org
-Sony	borg
+Pohjois-Koreaa	loc
+Sony	org
 Picturesin	org
 tietomurrosta	
 pian	
@@ -151,7 +151,7 @@ jälkeen
 	
 Tähän	
 asti	
-Yhdysvallat	org
+Yhdysvallat	loc
 on	
 antanut	
 ymmärtää	
@@ -183,8 +183,8 @@ kummallisempaa
 että	
 NSA	org
 ei	
-NY	pro
-Timesin	pro
+NY	org
+Timesin	org
 mukaan	
 pystynyt	
 hälyttämään	
@@ -202,12 +202,12 @@ muassa
 sillä	
 ,	
 että	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 tekemiksi	
 väitetyt	
 tietojen	
 kalastelut	
-Sony-hyökkäystä	
+Sony-hyökkäystä	misc
 valmisteltaessa	
 eivät	
 vaikuttaneet	
@@ -250,8 +250,8 @@ _
 ,	
 joka	
 vahvisti	
-NY	pro
-Timesin	pro
+NY	org
+Timesin	org
 tiedot	
 omista	
 lähteistään	
@@ -274,11 +274,11 @@ tietoturva-asiantuntija
 on	
 suhtautunut	
 skeptisesti	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 osallisuuteen	
 .	
 	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 on	
 kiistänyt	
 syyllisyytensä	

@@ -1,6 +1,6 @@
 <HEADLINE>	
 Vakava	
-Linux-aukko	
+Linux-aukko	misc
 :	
 Vaara	
 kasvaa	
@@ -11,7 +11,7 @@ kasvaa
 <INGRESS>	
 Viestintävirasto	org
 uskoo	
-Ghost-haavoittuvuuden	
+Ghost-haavoittuvuuden	misc
 paisuvan	
 vielä	
 pahemmaksi	
@@ -39,7 +39,7 @@ tietoturvauhka
 	
 Niin	
 kutsuttu	
-Ghost-haavoittuvuus	
+Ghost-haavoittuvuus	misc
 antaa	
 hyökkääjälle	
 pääsyn	
@@ -47,7 +47,7 @@ lähes
 kaikkiin	
 laajasti	
 käytettyihin	
-Linux-pohjaisiin	
+Linux-pohjaisiin	misc
 netti-	
 ja	
 sähköpostipal	
@@ -55,7 +55,7 @@ velimiin
 .	
 	
 <PARAGRAPH>	
-Ghost	
+Ghost	misc
 edellyttää	
 palvelinten	
 ylläpitäjiltä	
@@ -152,7 +152,7 @@ korjaava
 päivitys	
 .	
 	
-NixCraft	pro
+NixCraft	org
 on	
 kirjoittanut	
 aiheesta	

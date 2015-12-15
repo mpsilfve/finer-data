@@ -15,7 +15,7 @@ IE-virhettä
 <INGRESS>	
 Internet	pro
 Explorerin	pro
-xss-haavoittuvuus	
+xss-haavoittuvuus	misc
 ei	
 mahtunut	
 Microsoftin	org
@@ -64,12 +64,12 @@ tammikuussa
 <PARAGRAPH>	
 Internet	pro
 Explorerin	pro
-aslr-suojausmekanismin	
+aslr-suojausmekanismin	misc
 (	
-address	
-space	
-layout	
-randomization	
+address	misc
+space	misc
+layout	misc
+randomization	misc
 )	
 ohittavaa	
 haavoittuvuutta	
@@ -84,7 +84,7 @@ kun
 taas	
 yksi	
 toinen	
-IE-haavoittuvuus	
+IE-haavoittuvuus	misc
 on	
 julkisesti	
 tiedossa	
@@ -109,7 +109,7 @@ viikolla
 .	
 	
 Tämä	
-xss-haavoittuvuus	
+xss-haavoittuvuus	misc
 mahdollistaa	
 vakuuttavat	
 verkkohuijaukset	
@@ -185,7 +185,7 @@ vuoden
 koska	
 se	
 oli	
-ZDNetin	pro
+ZDNetin	org
 mukaan	
 poikkeuksellinen	
 ja	

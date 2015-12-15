@@ -10,7 +10,7 @@ tunnuksia
 28.1.2015 09:51	
 	
 <INGRESS>	
-Linux-maailmassa	
+Linux-maailmassa	misc
 on	
 paljastunut	
 uusi	
@@ -21,11 +21,11 @@ uhka
 	
 Juuri	
 julkistettu	
-GHOST	
-(	
-haamu	
-)	
--haavoittuvuus	
+GHOST	misc
+(	misc
+haamu	misc
+)	misc
+-haavoittuvuus	misc
 avaa	
 hyökkääjälle	
 pääsyn	
@@ -33,7 +33,7 @@ lähes
 kaikkiin	
 laajasti	
 käytettyihin	
-Linux-pohjaisiin	
+Linux-pohjaisiin	misc
 netti-	
 ja	
 sähköpostipalvelimiin	
@@ -46,7 +46,7 @@ Qualys	org
 kertoi	
 blogissaan	
 tiistaina	
-GHOST-haavoittuvuudesta	
+GHOST-haavoittuvuudesta	misc
 ja	
 siihen	
 julkaistusta	
@@ -62,7 +62,7 @@ haavoittuvuudesta
 ,	
 joka	
 mahdollistaa	
-Linux-pohjaisen	
+Linux-pohjaisen	misc
 tietokoneen	
 täyden	
 haltuunoton	
@@ -75,12 +75,12 @@ salasanoja
 <PARAGRAPH>	
 Haavoittuvuus	
 koskee	
-C-	
+C-	pro
 ja	
-C	
-+	
-+	
--kielillä	
+C	pro
++	pro
++	pro
+-kielillä	pro
 kirjoitettuja	
 GNU	pro
 C	pro
@@ -137,8 +137,8 @@ eri
 versioiden	
 päällä	
 ,	
-Tom’s	pro
-Guide	pro
+Tom’s	org
+Guide	org
 kirjoitti	
 .	
 	
@@ -210,7 +210,7 @@ eteenpäin
 ei	
 myöskään	
 Ubuntussa	pro
-versiosta	bpro
-13.10	pro
+versiosta	
+13.10	
 alkaen	
 .	

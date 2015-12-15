@@ -55,12 +55,12 @@ Kyseessä
 on	
 niin	
 sanottu	
-cross	
-site	
-scripting	
--haavoittuvuus	
+cross	misc
+site	misc
+scripting	misc
+-haavoittuvuus	misc
 (	
-xss	
+xss	misc
 )	
 ,	
 jonka	
@@ -96,8 +96,8 @@ Asiasta
 kirjoittaa	
 muun	
 muassa	
-PC	pro
-World	pro
+PC	org
+World	org
 .	
 	
 Käytännössä	
@@ -196,8 +196,8 @@ IE	pro
 n	pro
 haavoittuvuuteen	
 ,	
-xss-tyyppisiä	
-aukkoja	
+xss-tyyppisiä	misc
+aukkoja	misc
 pidetään	
 yleisesti	
 merkkinä	
@@ -208,7 +208,7 @@ koodin
 tarkistuksesta	
 .	
 	
-Xss	
+Xss	misc
 on	
 esiintynyt	
 esimerkiksi	

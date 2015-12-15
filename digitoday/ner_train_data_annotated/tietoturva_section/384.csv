@@ -5,17 +5,17 @@ Hyökkääjät
 mokasivat	
 ja	
 paljastivat	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 	
 <DATE>	
 8.1.2015 11:16	
 	
 <INGRESS>	
-FBI-johtaja	org
+FBI-johtaja	misc
 kertoo	
 ,	
 miksi	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 syyllisyys	
 Sony	org
 Picturesin	org
@@ -31,14 +31,14 @@ Eri
 kyberasiantuntijat	
 ovat	
 epäilleet	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 väitettä	
 ,	
 että	
 Sony	org
 Picturesiin	org
 iski	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 .	
 	
 FBI:n	org
@@ -49,14 +49,14 @@ pyrki
 hälventämään	
 epäilyksiä	
 keskiviikkona	
-New	pro
-Yorkin	pro
-International	pro
-Conference	pro
-on	pro
-Cyber	pro
-Security	pro
--tapahtumassa	pro
+New	event
+Yorkin	event
+International	event
+Conference	event
+on	event
+Cyber	event
+Security	event
+-tapahtumassa	event
 .	
 	
 <PARAGRAPH>	
@@ -189,7 +189,7 @@ takana
 	
 Hän	
 haluaa	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 tiedusteluyhteisön	
 julkistavan	
 tiedot	
@@ -214,10 +214,10 @@ ole
 edelleenkään	
 vakuuttuneita	
 ,	
-The	pro
-New	pro
-York	pro
-Times	pro
+The	org
+New	org
+York	org
+Times	org
 kirjoittaa	
 .	
 	
@@ -236,10 +236,10 @@ voinut
 laantua	
 ,	
 jos	
-Yhdysvallat	org
+Yhdysvallat	loc
 olisi	
 perustellut	
-Pohjois-Korean	org
+Pohjois-Korean	loc
 syylliseksi	
 heti	
 kättelyssä	
@@ -265,7 +265,7 @@ propagandansa
 levitykseen	
 muun	
 muassa	
-Facebook-tiliä	
+Facebook-tiliä	misc
 ,	
 jonka	
 yhteisöpalvelu	
@@ -278,7 +278,7 @@ asiantuntija	tit
 Sean	per
 Sullivan	per
 toivoo	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 julkaisevan	
 tältä	
 tililtä	
@@ -321,21 +321,21 @@ olla
 ,	
 Sullivan	per
 painotti	
-NY	pro
-Timesille	pro
+NY	org
+Timesille	org
 .	
 	
 <PARAGRAPH>	
 Uutistoimisto	
 Reutersin	org
 mukaan	
-Sony-hyökkäyksen	
+Sony-hyökkäyksen	misc
 tutkinnassa	
 pidetään	
 mahdollisena	
 ,	
 että	
-Pohjois-Korea	org
+Pohjois-Korea	loc
 palkkasi	
 ulkomaista	
 apua	
@@ -360,7 +360,7 @@ mikään
 toinen	
 valtio	
 auttoi	
-Pohjois-Koreaa	org
+Pohjois-Koreaa	loc
 .	
 	
 <PARAGRAPH>	
