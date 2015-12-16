@@ -1,0 +1,170 @@
+<HEADLINE>	
+Suoritinsuoja	
+pettää	
+:	
+"	
+Merkittävä	
+uhka	
+"	
+tietokoneille	
+	
+<DATE>	
+30.8.2015 22:20	
+	
+<INGRESS>	
+Intelin	org
+suoritinhaavoittuvuutta	
+ei	
+ole	
+korjattu	
+ja	
+se	
+uhkaa	
+etenkin	
+kannettavia	
+tietokoneita	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Viestintävirasto	org
+tiedottaa	
+haavoittuvuudesta	
+Intelin	org
+joissakin	
+suorittimissa	
+käytetyssä	
+AMT-hallintajärjestelmässä	pro
+(	
+Active	pro
+Management	pro
+Technology	pro
+)	
+.	
+	
+<PARAGRAPH>	
+Jos	
+tietokoneeseen	
+pääsee	
+käsiksi	
+ja	
+siihen	
+kiinnittää	
+usb-laitteen	
+,	
+kone	
+on	
+kaapattavissa	
+hyökkääjän	
+etäkomentoon	
+.	
+	
+<PARAGRAPH>	
+Ongelma	
+johtuu	
+AMT	pro
+:	pro
+n	pro
+oletussalasanasta	
+.	
+	
+Tietokoneen	
+mukana	
+toimitettu	
+salasana	
+on	
+sama	
+kaikissa	
+tietokoneissa	
+,	
+ja	
+joissakin	
+tietokoneissa	
+AMT-toiminnon	misc
+kytkeminen	
+pois	
+käytöstä	
+asettaa	
+salasanan	
+takaisin	
+oletusarvoonsa	
+,	
+vaikka	
+se	
+olisi	
+välillä	
+muutettu	
+.	
+	
+<PARAGRAPH>	
+Haavoittuvuus	
+on	
+olemassa	
+Intelin	org
+Core	pro
+with	pro
+vPro	pro
+-	pro
+ja	
+tietyissä	
+Xeon-sarjan	pro
+prosessoreissa	pro
+ja	pro
+piirisarjoissa	pro
+.	
+	
+Haavoittuvia	
+prosessoreita	
+ja	
+piirisarjoja	
+käytetään	
+henkilökohtaisissa	
+tietokoneissa	
+,	
+työasemissa	
+ja	
+palvelimissa	
+,	
+mutta	
+ei	
+juurikaan	
+kuluttajille	
+suunnatuissa	
+laitteissa	
+.	
+	
+<PARAGRAPH>	
+–	
+Haavoittuvuus	
+on	
+merkittävä	
+uhka	
+etenkin	
+tietokoneissa	
+,	
+joita	
+liikutellaan	
+ja	
+jotka	
+eivät	
+näin	
+ole	
+jatkuvan	
+valvonnan	
+alaisina	
+,	
+Viestintävirasto	org
+korostaa	
+.	
+	
+<PARAGRAPH>	
+Ongelmaa	
+voi	
+ainoastaan	
+rajoittaa	
+ja	
+Viestintävirasto	org
+antaa	
+siihen	
+ohjeita	
+.	

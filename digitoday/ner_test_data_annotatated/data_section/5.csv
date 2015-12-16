@@ -1,0 +1,191 @@
+<HEADLINE>	
+Onko	
+sinulla	
+joku	
+näistä	
+ulkoisista	
+levyistä	
+?	
+	
+Tiedostot	
+voi	
+varastaa	
+jakorvata	
+haitakkeilla	
+	
+<DATE>	
+7.9.2015 11:00	
+	
+<INGRESS>	
+Seagaten	org
+ja	
+LaCien	org
+wlan-kiintolevyistä	
+on	
+löytynyt	
+kolme	
+pahaa	
+tietoturva-aukkoa	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Seagaten	org
+ja	
+LaCien	org
+nimellä	
+myytävistä	
+langattomista	
+kiintolevyistä	
+on	
+löytynyt	
+useita	
+tietoturva-aukkoja	
+,	
+varoittaa	
+Cert	org
+.	org
+	org
+org	org
+.	
+	
+<PARAGRAPH>	
+Ensimmäinen	
+aukko	
+on	
+levylle	
+piilotettu	
+telnet-palvelu	
+,	
+jossa	
+on	
+vakiosalasana	
+.	
+	
+Telnet-yhteydellä	misc
+on	
+mahdollista	
+päästä	
+käsiksi	
+levyyn	
+ulkoapäin	
+pääkäyttäjän	
+oikeuksin	
+.	
+	
+<PARAGRAPH>	
+Toinen	
+haavoittuvuus	
+on	
+levyn	
+oletusasetuksissa	
+päällä	
+oleva	
+forced	
+browsing	
+-ominaisuus	
+.	
+	
+Jos	
+käyttäjällä	
+on	
+pääsy	
+laitteeseen	
+,	
+hän	
+pystyy	
+lataamaan	
+sen	
+sisällön	
+kokonaisuudessaan	
+itselleen	
+.	
+	
+<PARAGRAPH>	
+Kolmas	
+haavoittuvuus	
+antaa	
+hyökkääjälle	
+upload-oikeudet	
+jakohakemistoksi	
+tarkoitettuun	
+/	
+media	
+/	
+sda2	
+:	
+een	
+.	
+	
+<PARAGRAPH>	
+Jos	
+hyökkääjällä	
+on	
+pääsy	
+levyn	
+sisältävään	
+koti-	
+tai	
+yritysverkkoon	
+,	
+haavoittuvuuksia	
+yhdistelemällä	
+hän	
+voi	
+ladata	
+itselleen	
+levyn	
+tiedostot	
+ja	
+korvata	
+ne	
+halutessaan	
+haittaohjelmilla	
+.	
+	
+<PARAGRAPH>	
+Aukot	
+koskevat	
+Seagaten	org
+Wireless	pro
+Plus	pro
+Mobile	pro
+Storage-	pro
+ja	
+Wireless	pro
+Mobile	pro
+Storage	pro
+-tuotesarjoja	pro
+sekä	
+LaCien	org
+FUEL-levyjä	pro
+.	
+	
+<PARAGRAPH>	
+Haavoittuvuudet	
+on	
+korjattu	
+levyjen	
+3.4	pro
+.	pro
+	pro
+1	pro
+.	pro
+	pro
+105-firmware-päivityksessä	pro
+.	
+	
+Päivityksen	
+voi	
+ladata	
+Seagaten	org
+sivulta	
+,	
+mutta	
+se	
+edellyttää	
+levyn	
+sarjanumeron	
+antamista	
+Seagatelle	org
+.	
