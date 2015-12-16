@@ -23,9 +23,9 @@ erityisesti
 pelaamiseen	
 ,	
 kertoo	
-New	pro
-York	pro
-Times	pro
+New	org
+York	org
+Times	org
 .	
 	
 <BODY>	
@@ -66,11 +66,11 @@ tontille
 .	
 	
 Esimerkiksi	
-New	pro
-York	pro
-Timesin	pro
+New	org
+York	org
+Timesin	org
 (	
-NYT	pro
+NYT	org
 )	
 mukaan	
 pelaamisesta	
@@ -109,9 +109,9 @@ sovelluskaupan
 .	
 	
 <PARAGRAPH>	
-NYT	pro
-:	pro
-n	pro
+NYT	org
+:	org
+n	org
 haastatteleman	
 Jackdaw	org
 Researchin	org
@@ -138,9 +138,9 @@ johtaja	tit
 James	per
 Gwertzman	per
 sanoi	
-NYT	pro
-:	pro
-lle	pro
+NYT	org
+:	org
+lle	org
 ,	
 että	
 Applella	org
