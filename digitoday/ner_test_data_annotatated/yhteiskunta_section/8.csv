@@ -30,9 +30,9 @@ virheviesti
 	
 <BODY>	
 <PARAGRAPH>	
-New	pro
-York	pro
-Times	pro
+New	org
+York	org
+Times	org
 uutisoi	
 maanantaina	
 ,	
@@ -108,8 +108,8 @@ alueellasi
 )	
 	
 <PARAGRAPH>	
-Kiinan	org
-valtio	org
+Kiinan	loc
+valtio	
 pitää	
 sisällön	
 tuottajia	
@@ -149,9 +149,9 @@ estoon
 .	
 	
 <PARAGRAPH>	
-New	pro
-York	pro
-Timesin	pro
+New	org
+York	org
+Timesin	org
 mukaan	
 Applen	org
 on	
