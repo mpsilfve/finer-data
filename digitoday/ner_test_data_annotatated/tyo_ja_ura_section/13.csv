@@ -1,5 +1,5 @@
 <HEADLINE>	
-Suomi	org
+Suomi	loc
 nappasi	
 epäillyn	
 venäläiskrakkerin	
@@ -42,7 +42,7 @@ Senakh	per
 on	
 asetettu	
 Minnesotan	loc
-osavaltiossa	loc
+osavaltiossa	
 syytteeseen	
 useista	
 tietokonepetoksista	
@@ -72,9 +72,9 @@ Säilöönotto
 perustui	
 oikeusministeriön	org
 mukaan	
-Suomen	org
+Suomen	loc
 ja	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 väliseen	
 sopimukseen	
 ,	
@@ -108,7 +108,7 @@ esitetty
 .	
 	
 <PARAGRAPH>	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 pitää	
 tehdä	
 virallinen	
