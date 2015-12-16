@@ -1,0 +1,236 @@
+<HEADLINE>	
+Pelikäyttis	
+uusiutui	
+:	
+Mutta	
+mieti	
+ennen	
+kuin	
+asennat	
+	
+<DATE>	
+22.1.2014 15:18	
+	
+<INGRESS>	
+Valven	org
+alkemistit	
+julkaisivat	
+uuden	
+SteamOS-levykuvan	misc
+.	
+	
+Käyttöjärjestelmästä	
+halutaan	
+Windowsin	pro
+haastava	
+pelialusta	
+,	
+mutta	
+se	
+on	
+vielä	
+raakile	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Valve	org
+on	
+julkaissut	
+uuden	
+version	
+Debian	pro
+Linuxiin	pro
+perustuvasta	
+käyttöjärjestelmästään	
+,	
+SteamOS	pro
+:	pro
+stä	pro
+.	
+	
+Uusin	
+versio	
+on	
+tarkoitettu	
+niille	
+järjestelmille	
+ja	
+käyttäjille	
+,	
+joilta	
+ei	
+vielä	
+uutta	
+uefi-järjestelmää	
+tukevaa	
+laitteistoa	
+löydy	
+.	
+	
+SteamOS	pro
+:	pro
+n	pro
+aiempi	
+versio	
+toimi	
+vain	
+uefi	pro
+:	pro
+n	pro
+,	
+eli	
+perinteisen	
+biosin	pro
+korvaajan	
+kanssa	
+.	
+	
+<PARAGRAPH>	
+Uudistukset	
+eivät	
+kuitenkaan	
+jääneet	
+tähän	
+,	
+vaan	
+SteamOS	pro
+:	pro
+n	pro
+uusin	
+versio	
+tulee	
+toimeen	
+myös	
+muiden	
+koneelta	
+mahdollisesti	
+löytyvien	
+käyttöjärjestelmien	
+kanssa	
+.	
+	
+Lisäksi	
+tehokäyttäjillä	
+on	
+nyt	
+mahdollisuus	
+osioida	
+levy	
+mielensä	
+mukaisesti	
+.	
+	
+<PARAGRAPH>	
+SteamOS	pro
+on	
+aiemminkin	
+ollut	
+saatavilla	
+non-uefi-järjestelmille	misc
+–	
+kiitos	
+Linux-yhteisön	misc
+ahkeroinnin	
+.	
+	
+Valve	org
+kiittääkin	
+virallisessa	
+julkaisuilmoituksessaan	
+Ye	pro
+Olde	pro
+SteamOSen	pro
+kehittäneitä	
+directhexiä	
+sekä	
+ecliptikiä	
+.	
+	
+Näiden	
+työn	
+tulos	
+on	
+ollut	
+arvokasta	
+oppimateriaalia	
+Valven	org
+kehittäessä	
+SteamOS	pro
+:	pro
+n	pro
+uusinta	
+versiota	
+.	
+	
+<PARAGRAPH>	
+Ilmoituksessaan	
+Valve	org
+kuitenkin	
+huomauttaa	
+,	
+että	
+SteamOS	pro
+1.0	pro
+"	pro
+Alchemistin	pro
+"	pro
+uusinta	
+beetaversiota	
+on	
+testattu	
+minimaalisen	
+vähän	
+,	
+ja	
+siitä	
+voikin	
+löytyä	
+bugeja	
+ja	
+ongelmia	
+poikineen	
+.	
+	
+Käyttöjärjestelmän	
+beetaversiota	
+ei	
+missään	
+nimessä	
+tule	
+asentaa	
+tuotantokäytössä	
+olevaan	
+tietokoneeseen	
+,	
+vaan	
+sen	
+käyttö	
+kannattaa	
+rajoittaa	
+vain	
+testitarkoitukseen	
+suljetussa	
+ympäristössä	
+.	
+	
+<PARAGRAPH>	
+Erityisen	
+tarkkana	
+tulee	
+olla	
+koneissa	
+,	
+joissa	
+SteamOS	pro
+ei	
+toimi	
+tietokoneen	
+ainoana	
+käyttöjärjestelmänä	
+,	
+Valven	org
+John	per
+Vert	per
+varoittaa	
+.	
