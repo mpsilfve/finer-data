@@ -1,5 +1,5 @@
 <HEADLINE>	
-Kiinan	org
+Kiinan	loc
 pelottava	
 kansalaisia	
 pisteyttävä	
@@ -59,7 +59,7 @@ monien
 muiden	
 uutislähteiden	
 joukossa	
-Computerworld	pro
+Computerworld	org
 .	
 	
 <PARAGRAPH>	
@@ -210,7 +210,7 @@ ja
 yksinkertaista	
 on	
 elää	
-Kiinan	org
+Kiinan	loc
 kansalaisena	
 .	
 	
@@ -311,7 +311,7 @@ tulossa
 pakollisena	
 käyttöön	
 jokaiselle	
-Kiinan	org
+Kiinan	loc
 kansalaiselle	
 vuoteen	
 2020	
@@ -379,7 +379,7 @@ yhdysvaltalaisille
 "	
 	
 <PARAGRAPH>	
-Computerworld	pro
+Computerworld	org
 kertoo	
 yhdysvaltalaisen	
 kansalaisoikeuksia	
@@ -390,13 +390,13 @@ Civil	org
 Liberties	org
 Unionin	org
 pitävän	
-Kiinan	org
+Kiinan	loc
 kansalaispistettä	
 kammottavana	
 järjestelmänä	
 ja	
 varoituksena	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 kansalaisille	
 .	
 	
@@ -451,7 +451,7 @@ vielä
 yksityisyys	
 oli	
 osa	
-Yhdysvaltojen	org
+Yhdysvaltojen	loc
 poliittista	
 retoriikkaa	
 ,	
@@ -479,11 +479,11 @@ josta
 joutuivat	
 kärsimään	
 lähinnä	
-Kiinan	org
+Kiinan	loc
 ,	
-Venäjän	org
+Venäjän	loc
 ja	
-Itä-Saksan	org
+Itä-Saksan	loc
 kansalaiset	
 .	
 	
@@ -497,7 +497,7 @@ digitaalisen
 tietojenkeruun	
 ja	
 nyt	
-Yhdysvallat	org
+Yhdysvallat	loc
 on	
 kansalaisiaan	
 kyttäävistä	
@@ -507,7 +507,7 @@ nimiä
 –	
 sen	
 saman	
-Kiinan	org
+Kiinan	loc
 kanssa	
 ,	
 joka	

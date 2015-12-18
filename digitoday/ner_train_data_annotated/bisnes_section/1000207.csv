@@ -1,0 +1,364 @@
+<HEADLINE>	
+Microsoftin	org
+ja	
+Amazonin	org
+pilvet	
+hintasodassa	
+—	
+myös	
+suomalaiset	
+hyötyvät	
+	
+<DATE>	
+27.1.2014 15:41	
+	
+<INGRESS>	
+Amazon	pro
+AWS	pro
+pudotti	
+hintoja	
+jopa	
+50	
+prosenttia	
+,	
+ja	
+Microsoftin	org
+Azure	pro
+vastasi	
+omilla	
+alennuksillaan	
+heti	
+perään	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Amazon	pro
+Web	pro
+Servicesin	pro
+pääevankelista	
+Jeff	per
+Barr	per
+kertoo	
+blogissaan	
+myös	
+monista	
+muista	
+hinnanalennuksista	
+ja	
+uusista	
+virtuaalikoneiden	
+malleista	
+.	
+	
+Eikä	
+mennyt	
+kuin	
+hetki	
+,	
+kun	
+Microsoftin	org
+Windows	pro
+Azure	pro
+lähetti	
+asiakkailleen	
+omista	
+vastaavista	
+hinnanalennuksistaan	
+kirjeen	
+.	
+	
+<PARAGRAPH>	
+Tämä	
+hintasota	
+on	
+seurausta	
+lupauksesta	
+,	
+jonka	
+Azure	pro
+teki	
+asiakkailleen	
+huhtikuussa	
+.	
+	
+Silloin	
+toimitusjohtaja	tit
+Steven	per
+Martin	per
+kertoi	
+,	
+että	
+Microsoftin	org
+Windows	pro
+Azuren	pro
+hinnat	
+laskennan	
+,	
+tallennuksen	
+ja	
+tiedonsiirron	
+osalta	
+mukautetaan	
+AWS	pro
+:	pro
+n	pro
+hintoihin	
+.	
+	
+Tästä	
+voi	
+päätellä	
+,	
+että	
+AWS	pro
+on	
+Azuren	pro
+pahin	
+kilpailija	
+.	
+	
+<PARAGRAPH>	
+Windows	pro
+Azuren	pro
+perjantaina	
+ilmoittama	
+hinnanalennus	
+on	
+20	
+prosenttia	
+.	
+	
+Se	
+koskee	
+Blobs	pro
+Storage	pro
+-tallennustilaa	pro
+,	
+joka	
+on	
+lähes	
+vastaava	
+kuin	
+Amazonin	org
+EBS	pro
+(	
+Elastic	pro
+Block	pro
+Store	pro
+)	
+.	
+	
+Hinnan	
+muutos	
+tekee	
+Blobs	pro
+Storagesta	pro
+saman	
+hintaisen	
+tai	
+halvemman	
+EBS:n	pro
+kanssa	
+.	
+	
+Toteutusten	
+eroavuuksien	
+takia	
+Azuren	pro
+tallennustilan	
+hinta	
+on	
+jopa	
+edullisempi	
+hajautetuissa	
+ratkaisuissa	
+,	
+jolloin	
+kahdennus	
+on	
+toteutettu	
+esimerkiksi	
+toiselle	
+mantereelle	
+.	
+	
+<PARAGRAPH>	
+Lupaukset	
+hinnan	
+puolittamisesta	
+eivät	
+yleensä	
+osu	
+omalle	
+kohdalle	
+.	
+	
+Asia	
+oli	
+siis	
+tarkistettava	
+suomalaisten	
+kannalta	
+.	
+	
+Jos	
+käytössä	
+on	
+AWS	pro
+:	pro
+n	pro
+virtuaalinen	
+Windows-	misc
+tai	
+Linux-serveri	misc
+,	
+siinä	
+käytetään	
+yleensä	
+nyt	
+hinnanpudotuksen	
+kohdannutta	
+EBS-tallennustilaa	pro
+,	
+ja	
+kone	
+valitaan	
+Euroopan	loc
+alueelta	
+palvelemaan	
+paikallisia	
+käyttäjiä	
+.	
+	
+<PARAGRAPH>	
+No	
+,	
+koskeeko	
+hurja	
+alennus	
+tällaista	
+tapausta	
+?	
+	
+Kyllä	
+!	
+	
+EBS-tallennustilan	pro
+hinta	
+putoaa	
+helmikuun	
+alusta	
+0,055	
+taalaan	
+per	
+gigatavu	
+.	
+	
+Nykyinen	
+hintahan	
+on	
+0,11	
+taalaa	
+per	
+gigatavu	
+.	
+	
+<PARAGRAPH>	
+Molemmat	
+palvelut	
+ilmoittivat	
+puolittavansa	
+myös	
+tiedonsiirrosta	
+veloitettavat	
+maksut	
+.	
+	
+<PARAGRAPH>	
+Näyttää	
+siltä	
+,	
+että	
+palveluiden	
+markkinahinnan	
+asettaa	
+suurin	
+,	
+eli	
+AWS	pro
+.	
+	
+Mutta	
+hinta	
+ei	
+merkitse	
+kaikkea	
+näissä	
+kriittisissä	
+palveluissa	
+.	
+	
+Windows	pro
+Azuren	pro
+toimitusjohtaja	tit
+Steven	per
+Martin	per
+mainitsee	
+,	
+että	
+vaikka	
+hinta	
+on	
+todella	
+tärkeä	
+tekijä	
+valinnoissa	
+ja	
+päätöksissä	
+,	
+valintoihin	
+vaikuttavat	
+myös	
+palveluiden	
+suorituskyky	
+,	
+luotettavuus	
+ja	
+skaalautuvuus	
+.	
+	
+Azure	pro
+väittää	
+pitävänsä	
+edelleen	
+markkinoiden	
+parhaan	
+hinta-suorituskykysuhteen	
+.	
+	
+<PARAGRAPH>	
+Amazon	pro
+AWS	pro
+jatkaa	
+tutustumistarjoustaan	
+,	
+jossa	
+saa	
+vuodeksi	
+veloituksetta	
+käyttöönsä	
+pienen	
+Linux-	misc
+tai	
+Windows-serverin	misc
+.	
+	
+Myös	
+Windows	pro
+Azurella	pro
+on	
+90	
+päivän	
+tutustumistarjous	
+.	

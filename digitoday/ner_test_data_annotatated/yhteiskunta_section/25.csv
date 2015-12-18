@@ -2,7 +2,7 @@
 Vodafone	org
 voitti	
 taas	
-Intian	org
+Intian	loc
 verottajan	
 ,	
 toivoa	
@@ -43,7 +43,7 @@ siirtohinnoittelusta
 <PARAGRAPH>	
 Vodafone	org
 voitti	
-Mumbain	org
+Mumbain	loc
 oikeudessa	
 jutun	
 ,	
@@ -82,11 +82,11 @@ päätöksestä
 uutisoivat	
 muun	
 muassa	
-Financial	pro
-Times	pro
+Financial	org
+Times	org
 ja	
-Live	pro
-Mint	pro
+Live	org
+Mint	org
 ,	
 jonka	
 mukaan	

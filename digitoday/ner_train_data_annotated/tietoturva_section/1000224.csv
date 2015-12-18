@@ -1,0 +1,236 @@
+<HEADLINE>	
+Kytketkö	
+Android-puhelimesi	pro
+tietokoneeseen	
+?	
+	
+Ole	
+tarkkana	
+	
+<DATE>	
+24.1.2014 16:37	
+	
+<INGRESS>	
+Suurin	
+osa	
+puhelimen	
+omistajista	
+on	
+silti	
+turvassa	
+,	
+sillä	
+haitakkeen	
+leviäminen	
+pc	
+:	
+stä	
+Androidiin	pro
+vaatii	
+debug-tilaa	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Tietoturvayhtiö	
+Symantec	org
+kertoo	
+ensimmäisestä	
+Windows-haittaohjelmasta	pro
+,	
+joka	
+saastuttaa	
+tietokoneeseen	
+kytketyn	
+Android-laitteen	pro
+.	
+	
+<PARAGRAPH>	
+Tartunnan	
+tapahtuessa	
+nimetty	
+Trojan	pro
+.	pro
+	pro
+Droidpakiksi	pro
+nimetty	
+haittaohjelma	
+luo	
+ja	
+määrittelee	
+Windowsin	pro
+järjestelmätiedostoksi	
+varsinaisena	
+haitakkeena	
+toimivan	
+dll-tiedoston	
+.	
+	
+Tämä	
+lataa	
+pc:lle	
+tarvittavat	
+asetustiedostot	
+,	
+Android-laitteen	pro
+kanssa	
+kommunikointiin	
+tarvittavan	
+Android	pro
+debug	pro
+bridge	pro
+(	pro
+ADB	pro
+)	pro
+-	pro
+pc-työkalun	pro
+ja	
+lopuksi	
+APK-asennuspaketin	pro
+Androidille	bpro
+.	
+	
+<PARAGRAPH>	
+Tämän	
+jälkeen	
+ADB-työkalu	pro
+asennetaan	
+pc:lle	
+,	
+ja	
+se	
+yrittää	
+toistuvasti	
+asentaa	
+haittaohjelman	
+sisältävää	
+APK-pakettia	pro
+tietokoneeseen	
+kytkettyihin	
+Android-laitteisiin	pro
+.	
+	
+<PARAGRAPH>	
+Asennus	
+vaatii	
+onnistuakseen	
+,	
+että	
+Android-laitteen	pro
+debug-tila	
+on	
+päälle	
+kytketty	
+.	
+	
+Useimmissa	
+laitteissa	
+se	
+on	
+oletusarvoisesti	
+pois	
+päältä	
+.	
+	
+<PARAGRAPH>	
+APK-paketti	pro
+sisältää	
+Android	pro
+.	pro
+	pro
+Fakebank	pro
+.	pro
+	pro
+B-pankkitroijalaisen	pro
+,	
+joka	
+iskee	
+eteläkorealaisiin	
+pankkisovelluksiin	
+.	
+	
+Ohjelma	
+naamioituu	
+Googlen	org
+ohjelmakaupaksi	
+nimellä	
+"	
+Google	pro
+App	pro
+Store	pro
+"	
+ja	
+pyrkii	
+ylikirjoittamaan	
+pankkiohjelmat	
+sekä	
+korvaamaan	
+ne	
+pankkitroijalaisilla	
+.	
+	
+Ohjelma	
+myös	
+salakuuntelee	
+puhelimen	
+tekstiviestejä	
+ja	
+lähettää	
+ne	
+eteenpäin	
+.	
+	
+<PARAGRAPH>	
+Tartunnan	
+välttämiseksi	
+Symantec	org
+suosittelee	
+varmistamaan	
+,	
+että	
+Android-laitteen	pro
+debug-tila	
+ei	
+ole	
+päällä	
+.	
+	
+Lisäksi	
+käyttäjien	
+tulisi	
+olla	
+varovaisia	
+kytkiessään	
+laitteen	
+tuntemattomaan	
+tietokoneeseen	
+ja	
+käyttää	
+tietoturvaohjelmaa	
+.	
+	
+<PARAGRAPH>	
+Tartuntasysteemi	
+on	
+nähty	
+aiemmin	
+toiminnassa	
+toisin	
+päin	
+.	
+	
+Viime	
+vuoden	
+helmikuussa	
+uutisoitiin	
+haittaohjelmasta	
+,	
+joka	
+tarttui	
+Android-laitteesta	pro
+siihen	
+kytkettyyn	
+Windows-pc	misc
+:	misc
+hen	misc
+.	

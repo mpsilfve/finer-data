@@ -1,5 +1,5 @@
 <HEADLINE>	
-Intia	org
+Intia	loc
 vaatii	
 kyytipalvelu	
 Uberilta	org
@@ -11,7 +11,7 @@ hätänappulaa
 14.10.2015 10:15	
 	
 <INGRESS>	
-Intia	org
+Intia	loc
 on	
 laatinut	
 sääntöehdotuksen	
@@ -30,8 +30,8 @@ yhteyttä
 poliisiin	
 ,	
 kirjoitti	
-Financial	pro
-Times	pro
+Financial	org
+Times	org
 ,	
 joka	
 oli	
@@ -76,8 +76,8 @@ alustavista
 säännöistä	
 .	
 	
-Financial	pro
-Times	pro
+Financial	org
+Times	org
 kirjoitti	
 tiistaina	
 Intian	org
@@ -87,15 +87,15 @@ ehdotuksesta
 .	
 	
 <PARAGRAPH>	
-Intian	org
-osavaltioiden	org
-ja	org
-aluehallintojen	org
+Intian	loc
+osavaltioiden	
+ja	
+aluehallintojen	
 ei	
 tarvitse	
 hyväksyä	
-New	org
-Delhin	org
+New	loc
+Delhin	loc
 esityksiä	
 ,	
 mutta	
@@ -164,8 +164,8 @@ sijoittajilta
 .	
 	
 <PARAGRAPH>	
-Financial	pro
-Timesin	pro
+Financial	org
+Timesin	org
 näkemässä	
 sääntöehdotuksessa	
 vaaditaan	

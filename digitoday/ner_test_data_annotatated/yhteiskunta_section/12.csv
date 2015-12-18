@@ -1,5 +1,5 @@
 <HEADLINE>	
-Kiinan	org
+Kiinan	loc
 presidentti	
 kohtaa	
 Obaman	per
@@ -12,9 +12,9 @@ kysymyksen
 30.8.2015 23:21	
 	
 <INGRESS>	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 ja	
-Kiinan	org
+Kiinan	loc
 presidentit	
 tapaavat	
 ,	
@@ -30,7 +30,7 @@ käsittelemättä
 	
 <BODY>	
 <PARAGRAPH>	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 presidentti	tit
 Barack	per
 Obama	per
@@ -40,7 +40,7 @@ olohuoneessa
 pöydälle	
 ,	
 kun	
-Kiinan	org
+Kiinan	loc
 presidentti	tit
 Xi	per
 Jinping	per
@@ -60,9 +60,9 @@ epäilemättä
 "	
 ottaa	
 puheeksi	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 huolet	
-Kiinan	org
+Kiinan	loc
 väitetystä	
 käytöksestä	
 kyberavaruudessa	
@@ -79,11 +79,11 @@ talossa	loc
 syyskuussa	
 .	
 	
-Yhdysvallat	org
+Yhdysvallat	loc
 on	
 pitkään	
 syyttänyt	
-Kiinaa	org
+Kiinaa	loc
 kybervakoilusta	
 ,	
 mutta	
@@ -91,7 +91,7 @@ toisaalta
 Kiinassa	loc
 on	
 huolestuttanut	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 NSA-viraston	borg
 harjoittama	
 laaja	
@@ -100,9 +100,9 @@ vakoilu
 	
 <PARAGRAPH>	
 Hiljattain	
-Kiina	org
+Kiina	loc
 ja	
-Venäjä	org
+Venäjä	loc
 sopivat	
 ,	
 että	
@@ -116,9 +116,9 @@ vastaan
 	
 Vastaava	
 sopimus	
-Kiinan	org
+Kiinan	loc
 ja	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 välillä	
 tuskin	
 lienee	

@@ -1,12 +1,12 @@
 <HEADLINE>	
-Yhdysvallat	org
+Yhdysvallat	loc
 pyysi	
 pidättämään	
 krakkereita	
 :	
 Mitä	
 teki	
-Kiina	org
+Kiina	loc
 ?	
 	
 <DATE>	
@@ -18,7 +18,7 @@ Yllätys
 yllätys	
 .	
 	
-Kiina	org
+Kiina	loc
 todella	
 pidätti	
 heidät	
@@ -26,16 +26,16 @@ hyvän
 tahdon	
 eleenä	
 ,	
-Washington	pro
-Post	pro
+Washington	org
+Post	org
 kirjoittaa	
 .	
 	
 <BODY>	
 <PARAGRAPH>	
-Yhdysvallat	org
+Yhdysvallat	loc
 ja	
-Kiina	org
+Kiina	loc
 sopivat	
 syyskuussa	
 ,	
@@ -61,11 +61,11 @@ tekoihin
 .	
 	
 <PARAGRAPH>	
-The	pro
-Washington	pro
-Postin	pro
+The	org
+Washington	org
+Postin	org
 mukaan	
-Kiina	org
+Kiina	loc
 kuitenkin	
 teki	
 jotain	
@@ -80,20 +80,20 @@ valtiovierailua
 Yhdysvaltoihin	loc
 .	
 	
-Kiina	org
+Kiina	loc
 pidätti	
 muutamia	
 epäiltyjä	
 verkkorikollisia	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 pyynnöstä	
 .	
 	
 <PARAGRAPH>	
-Yhdysvallat	org
+Yhdysvallat	loc
 on	
 uhannut	
-Kiinaa	org
+Kiinaa	loc
 taloudellisilla	
 pakotteilla	
 ,	
@@ -109,7 +109,7 @@ verkossa
 	
 Pidätetyt	
 syyllistyivät	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 mukaan	
 kaupallisten	
 salaisuuksien	
@@ -123,11 +123,11 @@ yrityksille
 .	
 	
 <PARAGRAPH>	
-The	pro
-Washington	pro
-Postin	pro
+The	org
+Washington	org
+Postin	org
 mukaan	
-Yhdysvaltain	org
+Yhdysvaltain	loc
 pyyntö	
 oli	
 testi	
@@ -135,14 +135,14 @@ sen
 varmistamiseksi	
 ,	
 että	
-Kiina	org
+Kiina	loc
 on	
 tosissaan	
 .	
 	
 Tietenkin	
 nyt	
-Kiinaa	org
+Kiinaa	loc
 katsotaan	
 silmä	
 kovana	
