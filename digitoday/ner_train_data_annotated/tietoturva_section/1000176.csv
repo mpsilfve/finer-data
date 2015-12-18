@@ -1,0 +1,255 @@
+<HEADLINE>	
+Rosvot	
+kaappaavat	
+bensapumpuilla	
+pankkikorttitiedot	
+	
+<DATE>	
+23.1.2014 07:50	
+	
+<INGRESS>	
+New	loc
+Yorkin	loc
+viranomaiset	
+kertoivat	
+tiistaina	
+syytteistä	
+,	
+jotka	
+on	
+nostettu	
+13	
+henkilöä	
+vastaan	
+.	
+	
+Heitä	
+syytetään	
+pankkikorttitietojen	
+varastamisesta	
+huoltoasemien	
+bensiinipumpuilta	
+,	
+pankkikorttien	
+väärentämisestä	
+ja	
+rahojen	
+viemisestä	
+uhrien	
+tileiltä	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Krebs	org
+on	org
+Security	org
+-blogi	org
+kirjoittaa	
+,	
+että	
+Manhattanin	loc
+piirisyyttäjän	
+nostamien	
+syytteiden	
+mukaan	
+(	
+pdf	
+)	
+jengi	
+onnistui	
+viemään	
+uhreilta	
+2,1	
+miljoonaa	
+dollaria	
+useissa	
+osavaltioissa	
+.	
+	
+Väärennetyillä	
+pankkikorteilla	
+nostetut	
+rahat	
+talletettiin	
+pankkitilille	
+New	loc
+Yorkissa	loc
+ja	
+nostettiin	
+sitten	
+Kaliforniassa	loc
+ja	
+Nevadassa	loc
+alle	
+10	
+000	
+dollarin	
+erissä	
+niin	
+ettei	
+pankki	
+tehnyt	
+rahanpesun	
+valvontailmoituksia	
+.	
+	
+<PARAGRAPH>	
+Syytetyt	
+kaappasivat	
+korttitiedot	
+lisälaitteella	
+varustetuilta	
+bensapumpuilta	
+.	
+	
+Sitä	
+varten	
+he	
+asensivat	
+pumppuihin	
+laitteen	
+,	
+joka	
+lähetti	
+tiedot	
+langattomalla	
+bluetooth-yhteydellä	misc
+.	
+	
+Heidän	
+tarvitsi	
+vain	
+avata	
+kannettava	
+ja	
+odottaa	
+tankkauksen	
+aloittamista	
+.	
+	
+Bluetooth-lukija	misc
+lähetti	
+kortin	
+tiedot	
+,	
+myös	
+tunnusluvun	
+tietokoneelle	
+.	
+	
+<PARAGRAPH>	
+Tutkijoiden	
+mukaan	
+syytteessä	
+oleva	
+jengi	
+oli	
+erikoistunut	
+Raceway	org
+ja	org
+Racetrac	org
+-huoltoasemien	org
+bensapumppuihin	
+,	
+joihin	
+se	
+asensi	
+urkkijoita	
+Georgian	loc
+,	
+Etelä-Carolinan	loc
+ja	
+Texasin	loc
+osavaltioissa	
+.	
+	
+Asennus	
+tapahtui	
+useimmiten	
+aamuyön	
+tunteina	
+kolmen	
+miehen	
+ryhmissä	
+.	
+	
+Yksi	
+miehistä	
+piti	
+huoltoaseman	
+kassan	
+kiireisenä	
+,	
+kun	
+muut	
+asensivat	
+bluetooth-laitteen	misc
+.	
+	
+Asennus	
+kesti	
+yleensä	
+5	
+–	
+10	
+minuuttia	
+.	
+	
+<PARAGRAPH>	
+Brian	per
+Krebs	per
+kirjoittaa	
+blogissaan	
+myös	
+,	
+että	
+bensapumppujen	
+käyttö	
+korttien	
+tietojen	
+varastamiseen	
+on	
+yleistynyt	
+nopeasti	
+:	
+	
+<PARAGRAPH>	
+–	
+Tässä	
+blogissa	
+on	
+käsitelty	
+usein	
+bensapumppuihin	
+asennettuja	
+bluetooth-lukijoita	misc
+.	
+	
+Huomattavaa	
+on	
+se	
+,	
+kuinka	
+yleisiä	
+näistä	
+hyökkäyksistä	
+on	
+tullut	
+(	
+Google	pro
+News	pro
+ja	
+Twitter	pro
+ovat	
+täynnä	
+paikallisia	
+uutisia	
+bensapumppuhyökkäyksistä	
+kuten	
+tämä	
+Tennesseessä	loc
+Pilot-asemalla	bloc
+tapahtunut	
+)	
+.	

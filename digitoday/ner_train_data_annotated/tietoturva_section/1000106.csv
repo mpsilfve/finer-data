@@ -1,0 +1,249 @@
+<HEADLINE>	
+Microsoftin	org
+korjaukset	
+:	
+Ei	
+mitään	
+kriittistä	
+,	
+mutta	
+älä	
+kävele	
+ohi	
+	
+<DATE>	
+14.1.2014 22:49	
+	
+<INGRESS>	
+Microsoft	org
+aloitti	
+tietoturvavuotensa	
+varsin	
+kevyesti	
+tarjoten	
+asennettavaksi	
+vain	
+neljä	
+päivitystä	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Yksikään	
+tammikuun	
+tietoturvapäivityksistä	
+ei	
+ole	
+edes	
+kriittinen	
+eli	
+korkein	
+Microsoftin	org
+luokituksessa	
+,	
+vaan	
+kaikki	
+neljä	
+ovat	
+askelta	
+lievempiä	
+eli	
+tärkeitä	
+.	
+	
+<PARAGRAPH>	
+Siltikin	
+on	
+syytä	
+painottaa	
+,	
+että	
+yksi	
+päivityksistä	
+korjaa	
+hyökkäyksissä	
+jo	
+hyvän	
+aikaa	
+hyväksikäytetyn	
+haavoittuvuuden	
+Windowsin	pro
+ytimestä	
+.	
+	
+<PARAGRAPH>	
+Kyseinen	
+päivitys	
+MS14-002	pro
+puuttuu	
+vihdoin	
+jo	
+marraskuussa	
+havaittuun	
+ja	
+niin	
+sanottuun	
+nollapäivän	
+haavoittuvuuteen	
+.	
+	
+Se	
+tarkoittaa	
+,	
+että	
+ongelma	
+ehti	
+rikollisten	
+käsiin	
+ennen	
+korjausta	
+.	
+	
+Haavoittuvuus	
+on	
+vain	
+Windows	pro
+XP	pro
+:	pro
+ssä	pro
+ja	
+Windows	pro
+Server	pro
+2003:ssa	pro
+,	
+mutta	
+ensiksi	
+mainittu	
+on	
+edelleen	
+hyvin	
+laajassa	
+käytössä	
+.	
+	
+<PARAGRAPH>	
+Microsoft	org
+ei	
+katsonut	
+korjaustaan	
+kuitenkaan	
+kriittiseksi	
+,	
+koska	
+hyökkäykseen	
+tarvitaan	
+myös	
+toisen	
+ohjelmistotalon	
+Adoben	org
+haavoittuvuutta	
+,	
+joka	
+majaili	
+pdf-tiedostoja	
+esittävässä	
+Reader-ohjelmassa	pro
+.	
+	
+Adobe	org
+oli	
+paikannut	
+aukon	
+jo	
+ennen	
+hyökkäysten	
+ilmaantumista	
+,	
+joten	
+vaarassa	
+olivat	
+vain	
+vanhan	
+version	
+käyttäjät	
+.	
+	
+<PARAGRAPH>	
+Tammikuun	
+kolme	
+muuta	
+päivitystä	
+korjaavat	
+muun	
+muassa	
+toisen	
+ongelman	
+Windowsin	pro
+ytimestä	
+sekä	
+Dynamics	pro
+AX	pro
+-	pro
+ja	
+Office-ohjelmistojen	pro
+haavoittuvuuksia	
+.	
+	
+Näitä	
+ongelmia	
+ei	
+tiedetä	
+käytetyn	
+hyökkäyksissä	
+.	
+	
+<PARAGRAPH>	
+Microsoft	org
+myös	
+siisti	
+hieman	
+aikaisempia	
+tietoturvapäivityksiään	
+julkaisemalla	
+esimerkiksi	
+uusiksi	
+viime	
+vuoden	
+päivityksen	
+MS13-081	pro
+Windows	pro
+7	pro
+Service	pro
+Pack	pro
+1:lle	pro
+(	
+SP1	pro
+)	
+ja	
+Windows	pro
+Server	pro
+2008	pro
+R2	pro
+SP1	pro
+:	pro
+lle	pro
+.	
+	
+Alkuperäinen	
+päivitys	
+lokakuulta	
+saattoi	
+joissain	
+tapauksissa	
+aiheuttaa	
+yhteensopivuusongelmia	
+.	
+	
+<PARAGRAPH>	
+Suomen	loc
+Kyberturvallisuuskeskus	org
+on	
+reagoinut	
+Microsoftin	org
+päivityksiin	
+nopeasti	
+ja	
+antaa	
+niistä	
+yleiskatsauksen	
+.	

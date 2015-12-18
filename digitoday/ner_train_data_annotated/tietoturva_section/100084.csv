@@ -1,0 +1,242 @@
+<HEADLINE>	
+Hyökkääjät	
+rakensivat	
+pesän	
+kauppaketjun	
+sisäverkkoon	
+	
+<DATE>	
+16.1.2014 14:31	
+	
+<INGRESS>	
+Target-kauppaketjun	org
+murtaneet	
+rikolliset	
+pystyttivät	
+itselleen	
+palvelimen	
+suoraan	
+ketjun	
+sisäiseen	
+verkkoon	
+,	
+Brian	per
+Krebs	per
+sai	
+selville	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Yksityiskohtia	
+kaikkien	
+aikojen	
+mittavimpiin	
+maksukorttimurtoihin	
+lukeutuvasta	
+Targetin	org
+tapauksesta	
+tulee	
+julki	
+pala	
+kerrallaan	
+,	
+paljolti	
+tietoturva-asiantuntija	tit
+Brian	per
+Krebsin	per
+ansiosta	
+.	
+	
+Hiljattain	
+vahvistui	
+,	
+että	
+murto	
+onnistui	
+ujuttamalla	
+haittaohjelma	
+Targetin	org
+liikkeiden	
+kassakoneisiin	
+ja	
+nyt	
+Krebsillä	per
+on	
+uutta	
+tietoa	
+murtotavasta	
+ja	
+käytetystä	
+haittaohjelmasta	
+.	
+	
+<PARAGRAPH>	
+Krebsin	per
+nimettömien	
+lähteiden	
+mukaan	
+hyökkääjät	
+murtautuivat	
+Targetiin	org
+yhtiön	
+web-palvelimen	
+kautta	
+.	
+	
+He	
+myös	
+perustivat	
+oman	
+hallintapalvelimen	
+yrityksen	
+sisäverkkoon	
+.	
+	
+Tämä	
+palvelin	
+toimi	
+kassakoneista	
+varastettujen	
+korttitietojen	
+keskusvarastona	
+.	
+	
+<PARAGRAPH>	
+–	
+Pahikset	
+kirjautuivat	
+etäältä	
+tälle	
+palvelimelle	
+ja	
+heillä	
+oli	
+ilmeisesti	
+jatkuva	
+pääsy	
+sille	
+,	
+yksi	
+lähde	
+kertoi	
+Krebsille	per
+.	
+	
+<PARAGRAPH>	
+Käytetty	
+haittaohjelma	
+näyttää	
+olleen	
+sama	
+,	
+jota	
+Symantec	org
+kutsuu	
+nimellä	
+"	pro
+Reedum	pro
+"	pro
+.	
+	
+Sitä	
+on	
+luultavasti	
+käytetty	
+muissa	
+hyökkäyksissä	
+jo	
+ainakin	
+viime	
+kesänä	
+.	
+	
+Target-murron	misc
+tapahtuessa	
+joskus	
+ennen	
+27.	
+marraskuuta	
+yksikään	
+yli	
+40	
+:	
+stä	
+Virustotal	org
+.	org
+	org
+comin	org
+käyttämästä	
+antivirusohjelmasta	
+ei	
+tunnistanut	
+kyseistä	
+haittaohjelmaa	
+vaaralliseksi	
+.	
+	
+<PARAGRAPH>	
+Haittaohjelma	
+näyttää	
+olevan	
+lähes	
+identtinen	
+toisen	
+verkossa	
+myytävän	
+haitakkeen	
+BlackPOSin	pro
+kanssa	
+.	
+	
+Target-murrossa	misc
+haittaohjelma	
+pystyi	
+jäsentämään	
+kassakoneiden	
+muistiin	
+vain	
+hetkellisesti	
+tallennettua	
+maksukorttidataa	
+,	
+mikä	
+mahdollistaa	
+korttikopioiden	
+valmistamisen	
+ja	
+väärien	
+ostosten	
+tekemisen	
+.	
+	
+<PARAGRAPH>	
+Target-murron	misc
+uhrien	
+lukumäärä	
+on	
+kasvamaan	
+päin	
+.	
+	
+Alun	
+perin	
+uhreja	
+arvioitiin	
+olevan	
+noin	
+40	
+miljoonaa	
+,	
+mutta	
+nyt	
+on	
+mahdollista	
+,	
+että	
+heitä	
+on	
+jopa	
+110	
+miljoonaa	
+.	
