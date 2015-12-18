@@ -1,145 +1,145 @@
-<HEADLINE>
-Microsoftin
-turvasoftassa
-kriittinen
-turva-aukko
-
-<DATE>
-7.2.2014 14:28
-
-<INGRESS>
-Helmikuun
-päivitystiistaista
-on
-tulossa
-kriittinen
-,
-mutta
-silti
-melko
-rauhallinen
-.
-
-<BODY>
-<PARAGRAPH>
-Microsoft
-kertoi
-torstaina
-illalla
-ensi
-tiistain
-tietoturvakorjauksistaan
-.
-
-Helmikuun
-paikkauskokoelma
-koostuu
-maltillisesti
-viidestä
-päivityksestä
-,
-joista
-kaksi
-on
-kriittisiä
-ja
-kolme
-yhtä
-pykälää
-lievempiä
-eli
-tärkeitä
-.
-
-<PARAGRAPH>
-Yksi
-kriittisistä
-päivityksistä
-koskee
-Microsoftin
-tietoturvaohjelmistoa
-nimeltä
-Microsoft
-Forefront
-Protection
-2010
-for
-Exchange
-Server
-.
-
-<PARAGRAPH>
-Toinen
-kriittinen
-päivitys
-koskee
-Windows-käyttöjärjestelmää
-,
-mutta
-ei
-lainkaan
-esimerkiksi
-Windows
-XP
-:
-tä
-tai
-Vistaa
-.
-
-Päivitys
-on
-tulossa
-kriittisenä
-muun
-muassa
-Windows
-7:lle
-,
-8:lle
-,
-8.1:lle
-ja
-Windows
-RT
-:
-lle
-.
-
-<PARAGRAPH>
-Microsoftin
-luokituksessa
-kriittinen
-haavoittuvuus
-mahdollistaa
-koodin
-ajamisen
-etäältä
-uhrin
-tietokoneella
-ilman
-tämän
-vuorovaikutusta
-.
-
-<PARAGRAPH>
-Tärkeät
-päivitykset
-koskevat
-Windowsia
-ja
-.
-
-NET
-Frameworkia
-.
-
-Uhka
-vaihtelee
-palvelunestosta
-käyttövaltuuksien
-laajentamiseen
-ja
-tietojen
-menettämiseen
-.
+<HEADLINE>	
+Microsoftin	org
+turvasoftassa	
+kriittinen	
+turva-aukko	
+	
+<DATE>	
+7.2.2014 14:28	
+	
+<INGRESS>	
+Helmikuun	
+päivitystiistaista	
+on	
+tulossa	
+kriittinen	
+,	
+mutta	
+silti	
+melko	
+rauhallinen	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Microsoft	org
+kertoi	
+torstaina	
+illalla	
+ensi	
+tiistain	
+tietoturvakorjauksistaan	
+.	
+	
+Helmikuun	
+paikkauskokoelma	
+koostuu	
+maltillisesti	
+viidestä	
+päivityksestä	
+,	
+joista	
+kaksi	
+on	
+kriittisiä	
+ja	
+kolme	
+yhtä	
+pykälää	
+lievempiä	
+eli	
+tärkeitä	
+.	
+	
+<PARAGRAPH>	
+Yksi	
+kriittisistä	
+päivityksistä	
+koskee	
+Microsoftin	org
+tietoturvaohjelmistoa	
+nimeltä	
+Microsoft	pro
+Forefront	pro
+Protection	pro
+2010	pro
+for	pro
+Exchange	pro
+Server	pro
+.	
+	
+<PARAGRAPH>	
+Toinen	
+kriittinen	
+päivitys	
+koskee	
+Windows-käyttöjärjestelmää	pro
+,	
+mutta	
+ei	
+lainkaan	
+esimerkiksi	
+Windows	pro
+XP	pro
+:	pro
+tä	pro
+tai	
+Vistaa	pro
+.	
+	
+Päivitys	
+on	
+tulossa	
+kriittisenä	
+muun	
+muassa	
+Windows	pro
+7:lle	pro
+,	pro
+8:lle	pro
+,	pro
+8.1:lle	pro
+ja	
+Windows	pro
+RT	pro
+:	pro
+lle	pro
+.	
+	
+<PARAGRAPH>	
+Microsoftin	org
+luokituksessa	
+kriittinen	
+haavoittuvuus	
+mahdollistaa	
+koodin	
+ajamisen	
+etäältä	
+uhrin	
+tietokoneella	
+ilman	
+tämän	
+vuorovaikutusta	
+.	
+	
+<PARAGRAPH>	
+Tärkeät	
+päivitykset	
+koskevat	
+Windowsia	pro
+ja	
+.	pro
+	pro
+NET	pro
+Frameworkia	pro
+.	
+	
+Uhka	
+vaihtelee	
+palvelunestosta	
+käyttövaltuuksien	
+laajentamiseen	
+ja	
+tietojen	
+menettämiseen	
+.	

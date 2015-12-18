@@ -1,275 +1,275 @@
-<HEADLINE>
-Rovio
-:
-Angry
-Birds
--sivu
-töhrittiin
-—
-mutta
-vain
-minuuteiksi
-
-<DATE>
-29.1.2014 11:16
-
-<INGRESS>
-Hakkerit
-vaihtoivat
-keskiviikkoyönä
-Rovion
-Angry
-Birds
--pelin
-verkkosivuille
-muokatun
-kuvan
-.
-
-Rovion
-mukaan
-muokattu
-kuva
-ehti
-olla
-julki
-muutamia
-minuutteja
-.
-
-<BODY>
-<PARAGRAPH>
-Peliyhtiö
-Rovion
-Angry
-Birds
--hittipelin
-verkkosivu
-hakkeroitiin
-viime
-yönä
-.
-
-Asiasta
-kertoi
-Suomessa
-ensimmäisenä
-Helsingin
-Sanomat
-.
-
-<PARAGRAPH>
-Murtautuja
-vaihtoi
-Angrybirds
-.
-
-com
--verkkosivulle
-muokatun
-kuvan
-,
-jossa
-pelihahmojen
-lisäksi
-näkyi
-muun
-muassa
-teksti
-Spying
-Birds
-ja
-Yhdysvaltojen
-turvallisuusviraston
-NSA
-:
-n
-tunnus
-.
-
-<PARAGRAPH>
-Murto
-liittyy
-tietovuotaja
-Edward
-Snowdenin
-paljastamiin
-tietoihin
-,
-joiden
-mukaan
-NSA
-pystyy
-vakoilemaan
-muun
-muassa
-Angry
-Birds
--pelaajien
-puhelimien
-tietoja
-.
-
-<PARAGRAPH>
-–
-Voimme
-vahvistaa
-,
-että
-viime
-yönä
-joku
-pääsi
-hyvin
-hetkellisesti
-vaihtamaan
-sinne
-tällaisen
-kuvan
-,
-kerrotaan
-Rovion
-viestinnästä
-.
-
-<PARAGRAPH>
-Rovion
-mukaan
-kuva
-ehti
-olla
-näkyvillä
-vain
-muutaman
-minuutin
-.
-
-Tämän
-jälkeen
-sivusto
-ajettiin
-alas
-turvallisuussyistä
-.
-
-Helsingin
-Sanomien
-mukaan
-sivu
-oli
-poissa
-toiminnasta
-keskiviikkoyönä
-ainakin
-klo
-1–2
-.
-
-30.
-
-<PARAGRAPH>
-Sivusto
-on
-nyt
-jälleen
-toiminnassa
-,
-ja
-Rovion
-mukaan
-sen
-tietoturva
-on
-jälleen
-kunnossa
-.
-
-Rovio
-ei
-kommentoi
-,
-kuka
-mahdollisesti
-oli
-hakkeroinnin
-takana
-.
-
-<PARAGRAPH>
-Hakkeriryhmä
-Syrian
-Electronic
-Army
-kertoi
-Angry
-Birds
--sivun
-hakkeroinnista
-Twitter-viestissään
-ja
-nimitti
-hyökkääjää
-"
-ystäväksi
-"
-.
-
-Syyrian
-hallitusta
-ja
-presidentti
-Bašar
-al-Assadia
-tukeva
-ryhmä
-on
-tullut
-tunnetuksi
-verkkoiskuistaan
-muun
-muassa
-Microsoftin
-sekä
-useiden
-kansainvälisten
-tiedotusvälineiden
-verkkosivuille
-.
-
-<PARAGRAPH>
-Rovio
-kiisti
-eilen
-välittävänsä
-pelaajien
-tietoja
-valtioiden
-vakoojajärjestöille
-.
-
-Yhtiön
-epäilee
-,
-että
-vakoilu
-on
-tehty
-mainosyhtiön
-kautta
-,
-joka
-vastaa
-pelin
-ohessa
-näkyvistä
-mobiilimainoksista
-.
-
-Toimitusjohtaja
-Mikael
-Hedin
-mukaan
-yhtiö
-harkitsee
-jatkotoimia
-.
+<HEADLINE>	
+Rovio	org
+:	
+Angry	misc
+Birds	misc
+-sivu	misc
+töhrittiin	
+—	
+mutta	
+vain	
+minuuteiksi	
+	
+<DATE>	
+29.1.2014 11:16	
+	
+<INGRESS>	
+Hakkerit	
+vaihtoivat	
+keskiviikkoyönä	
+Rovion	org
+Angry	pro
+Birds	pro
+-pelin	pro
+verkkosivuille	
+muokatun	
+kuvan	
+.	
+	
+Rovion	org
+mukaan	
+muokattu	
+kuva	
+ehti	
+olla	
+julki	
+muutamia	
+minuutteja	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Peliyhtiö	
+Rovion	org
+Angry	pro
+Birds	pro
+-hittipelin	pro
+verkkosivu	
+hakkeroitiin	
+viime	
+yönä	
+.	
+	
+Asiasta	
+kertoi	
+Suomessa	loc
+ensimmäisenä	
+Helsingin	org
+Sanomat	org
+.	
+	
+<PARAGRAPH>	
+Murtautuja	
+vaihtoi	
+Angrybirds	pro
+.	pro
+	pro
+com	pro
+-verkkosivulle	pro
+muokatun	
+kuvan	
+,	
+jossa	
+pelihahmojen	
+lisäksi	
+näkyi	
+muun	
+muassa	
+teksti	
+Spying	
+Birds	
+ja	
+Yhdysvaltojen	org
+turvallisuusviraston	org
+NSA	borg
+:	org
+n	org
+tunnus	
+.	
+	
+<PARAGRAPH>	
+Murto	
+liittyy	
+tietovuotaja	tit
+Edward	per
+Snowdenin	per
+paljastamiin	
+tietoihin	
+,	
+joiden	
+mukaan	
+NSA	org
+pystyy	
+vakoilemaan	
+muun	
+muassa	
+Angry	misc
+Birds	misc
+-pelaajien	misc
+puhelimien	
+tietoja	
+.	
+	
+<PARAGRAPH>	
+–	
+Voimme	
+vahvistaa	
+,	
+että	
+viime	
+yönä	
+joku	
+pääsi	
+hyvin	
+hetkellisesti	
+vaihtamaan	
+sinne	
+tällaisen	
+kuvan	
+,	
+kerrotaan	
+Rovion	org
+viestinnästä	
+.	
+	
+<PARAGRAPH>	
+Rovion	org
+mukaan	
+kuva	
+ehti	
+olla	
+näkyvillä	
+vain	
+muutaman	
+minuutin	
+.	
+	
+Tämän	
+jälkeen	
+sivusto	
+ajettiin	
+alas	
+turvallisuussyistä	
+.	
+	
+Helsingin	org
+Sanomien	org
+mukaan	
+sivu	
+oli	
+poissa	
+toiminnasta	
+keskiviikkoyönä	
+ainakin	
+klo	
+1–2	
+.	
+	
+30.	
+	
+<PARAGRAPH>	
+Sivusto	
+on	
+nyt	
+jälleen	
+toiminnassa	
+,	
+ja	
+Rovion	org
+mukaan	
+sen	
+tietoturva	
+on	
+jälleen	
+kunnossa	
+.	
+	
+Rovio	org
+ei	
+kommentoi	
+,	
+kuka	
+mahdollisesti	
+oli	
+hakkeroinnin	
+takana	
+.	
+	
+<PARAGRAPH>	
+Hakkeriryhmä	
+Syrian	org
+Electronic	org
+Army	
+kertoi	
+Angry	misc
+Birds	misc
+-sivun	misc
+hakkeroinnista	
+Twitter-viestissään	misc
+ja	
+nimitti	
+hyökkääjää	
+"	
+ystäväksi	
+"	
+.	
+	
+Syyrian	org
+hallitusta	org
+ja	
+presidentti	tit
+Bašar	per
+al-Assadia	per
+tukeva	
+ryhmä	
+on	
+tullut	
+tunnetuksi	
+verkkoiskuistaan	
+muun	
+muassa	
+Microsoftin	org
+sekä	
+useiden	
+kansainvälisten	
+tiedotusvälineiden	
+verkkosivuille	
+.	
+	
+<PARAGRAPH>	
+Rovio	org
+kiisti	
+eilen	
+välittävänsä	
+pelaajien	
+tietoja	
+valtioiden	
+vakoojajärjestöille	
+.	
+	
+Yhtiön	
+epäilee	
+,	
+että	
+vakoilu	
+on	
+tehty	
+mainosyhtiön	
+kautta	
+,	
+joka	
+vastaa	
+pelin	
+ohessa	
+näkyvistä	
+mobiilimainoksista	
+.	
+	
+Toimitusjohtaja	tit
+Mikael	per
+Hedin	per
+mukaan	
+yhtiö	
+harkitsee	
+jatkotoimia	
+.	
