@@ -1,0 +1,2960 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <!-- titleset-->
+
+        <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script>
+
+!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,h=/(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,i=/IEMobile/i,j=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,k=/BlackBerry/i,l=/BB10/i,m=/Opera Mini/i,n=/(CriOS|Chrome)(?=.*\bMobile\b)/i,o=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,p=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),q=function(a,b){return a.test(b)},r=function(a){var r=a||navigator.userAgent,s=r.split("[FBAN");return"undefined"!=typeof s[1]&&(r=s[0]),this.apple={phone:q(b,r),ipod:q(c,r),tablet:!q(b,r)&&q(d,r),device:q(b,r)||q(c,r)||q(d,r)},this.amazon={phone:q(g,r),tablet:!q(g,r)&&q(h,r),device:q(g,r)||q(h,r)},this.android={phone:q(g,r)||q(e,r),tablet:!q(g,r)&&!q(e,r)&&(q(h,r)||q(f,r)),device:q(g,r)||q(h,r)||q(e,r)||q(f,r)},this.windows={phone:q(i,r),tablet:q(j,r),device:q(i,r)||q(j,r)},this.other={blackberry:q(k,r),blackberry10:q(l,r),opera:q(m,r),firefox:q(o,r),chrome:q(n,r),device:q(k,r)||q(l,r)||q(m,r)||q(o,r)||q(n,r)},this.seven_inch=q(p,r),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},s=function(){var a=new r;return a.Class=r,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=r:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=s():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=s()):a.isMobile=s()}(this);
+
+var siteName = 'taloussanomat';
+var siteCookieLifeTime = 365;
+var xmlHttp = '';
+var mobileVersion = 'main';
+// newsId
+
+function varIsSet(varname) {
+    return ( typeof(window[varname]) != 'undefined' );
+}
+
+function forwardGetParameters(url) {
+	var params = window.location.search.substring(1);
+
+	if (params.length > 0) {
+		return url + '?' + params;
+	}
+	
+	return url;
+
+}
+
+function generateMobileUrl(mversion) {
+
+    var originalUrl = window.location.href;
+	var newUrl = false;
+
+    var articleSearch = "http:\/\/www\." + siteName + ".fi\/[0-9a-zA-Z\-^\/]*\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[0-9a-z\-^\/]*\/([0-9[^\/]*)\/[0-9]{2,3}";
+	var reArticle = new RegExp(articleSearch, 'g');
+
+    var advertSearch = "http:\/\/www\." + siteName + ".fi\/d\/([a-z\-0-9]+)";
+	var reAdvert = new RegExp(advertSearch, 'g');
+
+    var searchCompany = "http:\/\/yritys\." + siteName + ".fi\/"; 
+    var reCompany = new RegExp(searchCompany, 'g');
+
+    var protestSearch = "http:\/\/www\." + siteName + ".fi\/yritykset\/protestit";
+	var reProtest = new RegExp(protestSearch, 'g');
+
+    var newCompanySearch = "http:\/\/www\." + siteName + ".fi\/yritykset\/protestit";
+	var reNewCompany = new RegExp(newCompanySearch, 'g');
+    
+    var phpGeneratedUrl = "http://m.taloussanomat.fi/a/20146028";
+var pageId = 170;
+ 
+    
+    if (pageId==1) {
+
+        var newUrl = 'http://m.' + siteName + '.fi/';
+
+    } else if (varIsSet('newsId')) {
+    
+        newUrl = 'http://m.' + siteName + '.fi/a/' + newsId;
+        
+    } else if (
+    	originalUrl.match(reArticle)
+    	|| originalUrl.match(reAdvert)
+    	|| originalUrl.match(reProtest)
+    	|| originalUrl.match(reNewCompany)
+    	) {
+    
+    	newUrl = originalUrl.replace('://www.', '://m.');
+	} else if (originalUrl.match(reCompany)) {
+		newUrl = originalUrl.replace('://yritys.', '://m.');
+    } else if (/\?page=/i.test(phpGeneratedUrl)) {
+        var newUrl = phpGeneratedUrl;
+/*    } else if (originalUrl.indexOf('/verotiedot/') > 0) {
+        var newUrl = "http://m.taloussanomat.fi/?page=taxInformation";*/
+    } else {
+        var newUrl = false;
+    }
+    
+    if (newUrl) {
+	    newUrl = forwardGetParameters(newUrl);
+	}
+    
+    return newUrl;
+}
+
+function readCookie( check_name ) {
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; 
+	
+	for ( i = 0; i < a_all_cookies.length; i++) {
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+	
+		if (cookie_name == check_name) {
+			b_cookie_found = true;
+
+			if (a_temp_cookie.length > 1) {
+				cookie_value = unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g, ''));
+			}
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if (!b_cookie_found) {
+		return null;
+	}
+}
+
+function createCookie(name, value, days) {
+    setCookie(name, value, days, '/', '.' + siteName + '.fi');
+}
+
+function setCookie(name, value, expires, path, domain, secure) {
+    var today = new Date();
+    today.setTime(today.getTime());
+    
+    if (expires) {
+        expires = expires * 1000 * 60 * 60 * 24;
+    }
+    var expires_date = new Date(today.getTime() + (expires));
+
+    document.cookie = name + "=" +escape(value) +
+    /*((expires) ? ";expires=" + expires_date.toGMTString() : "") + */
+    ";expires=0" + 
+    ((path) ? ";path=" + path : "") + 
+    ((domain) ? ";domain=" + domain : "") +
+    ((secure) ? ";secure" : "");
+}
+	
+
+function processUA() {
+
+	if (isMobile.phone) {
+	
+		var mobiUrl = generateMobileUrl('mobile');
+		
+		if (mobiUrl) {
+			createCookie('site', 'mobile', siteCookieLifeTime);
+			window.location.href = mobiUrl;
+		}
+	} else {
+	
+        createCookie('site', 'main', siteCookieLifeTime);
+        
+	}
+}
+
+var siteCookie = readCookie('site');
+var fullUrl = window.location.toString();
+
+if (fullUrl.match('non=1')) {
+
+	createCookie('site', 'main', siteCookieLifeTime);
+	
+} else if (siteCookie == 'mobile') {
+        
+	var mobiUrl = generateMobileUrl(siteCookie);
+	
+	if (mobiUrl) {
+		window.location = mobiUrl;
+	}
+        
+} else {
+
+	if (siteCookie != 'main' && 
+		!eval("/m."+siteName+".fi/i").test(document.referrer)) {
+	
+		processUA();
+		
+	} else {
+		if (siteCookie != 'main') {
+			createCookie('site', 'main', siteCookieLifeTime);
+		}
+	}
+
+}
+
+</script>  
+				<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+		<meta name="robots" content="index, follow, noodp" />
+
+
+
+<link rel="alternate" type="application/rss+xml" href="/rss/uutiset" title="Uusimmat uutiset" />
+<link rel="alternate" type="application/rss+xml" href="/rss/kommentoiduimmat" title="Kommentoiduimmat uutiset" />
+<link rel="alternate" type="application/rss+xml" href="/rss/suosituimmat" title="Suositelluimmat uutiset" />
+<link rel="alternate" type="application/rss+xml" href="/rss/luetuimmat" title="Luetuimmat uutiset" />
+<link rel="alternate" type="application/rss+xml" href="http://m.taloussanomat.fi/rss" title="Uutiset (mobiiliversio)" />
+<title>Rajeev Suri Nokian uudeksi toimitusjohtajaksi | Taloussanomat</title>
+	<meta name="description" content="Matkapuhelimiin liittyv&amp;auml;t toimintonsa myynyt Nokia on nimitt&amp;auml;nyt Rajeev Surin uudeksi toimitusjohtajakseen." />
+	<meta name="keywords" content="taloussanomat, talous, uutiset, pörssi, markkinat, teknologia, markkinointi, yrittäminen" />
+	
+	<meta property="og:image" content="http://tiedostot.taloussanomat.fi/files/panorama_surikombo.jpg" />
+
+    <meta property="og:description" content="Matkapuhelimiin liittyv&auml;t toimintonsa myynyt Nokia on nimitt&auml;nyt Rajeev Surin uudeksi toimitusjohtajakseen." />
+
+            	<script src="//www.google.com/jsapi"></script>
+
+    <meta property="og:site_name" content="Taloussanomat.fi"/>
+    <meta property="og:title" content="Rajeev Suri Nokian uudeksi toimitusjohtajaksi"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="http://www.taloussanomat.fi/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170" />
+
+	<meta property="al:ios:url" content="taloussanomat://a/20146028" />
+	<meta property="al:ios:app_store_id" content="444087124" />
+	<meta property="al:ios:app_name" content="Taloussanomat" />	
+
+	<meta name="twitter:card" content="app" />
+	<meta name="twitter:app:country" content="FI" />
+	<meta name="twitter:app:name:iphone" content="Taloussanomat">
+	<meta name="twitter:app:id:iphone" content="444087124">
+	<meta name="twitter:app:url:iphone" content="taloussanomat://a/20146028">
+	<meta name="twitter:app:name:ipad" content="Taloussanomat">
+	<meta name="twitter:app:id:ipad" content="444087124">
+	<meta name="twitter:app:url:ipad" content="taloussanomat://a/20146028">	
+
+
+
+		<meta property="og:locale" content="fi_FI" />
+		<meta property="fb:admins" content="579578013" />
+		<meta property="fb:app_id" content="164001156999236"/>
+
+		<link rel="stylesheet" href="/css-ren.php?v=000114" type="text/css" media="all" />		
+<script src="/js.ren/modernizr.custom.62669.js" type="text/javascript"></script>
+		<script src="/js-ren.php?ver=000045" type="text/javascript"></script>
+		<script type="text/javascript">
+		    //<![CDATA[
+
+                 $(document).ready(function(){
+
+	sfHover('mainNav');
+	sfHover('utilityNav');
+//	setupNewsFlash();
+	setUpTabs();
+	setUpSearchBar();
+	setupFilterHelpLinks();
+	setupLightBoxes();
+	setupFormChecks();
+	setupAnchorHack();
+//	setUpFixedTopAd('porssi');
+//	setUpFixedSideAd();
+//	setUpExpandingAd();
+	
+	// obsolete
+	//$('#loginFormArea').load('/loginBar.php', 0, sfHover('userNav'));
+
+         });
+
+	google_ad_client = "pub-3078948410672331";
+
+	  	    //]]>
+		</script>
+		<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/ie.css">
+		<![endif]-->
+		
+		<!--[if lt IE 7]>
+		<link rel="stylesheet" type="text/css" href="/css/ie6.css">
+		<![endif]-->
+
+
+<link rel="canonical" href="http://www.taloussanomat.fi/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170" />
+<link rel="alternate" media="handheld" href="http://m.taloussanomat.fi/?page=showSingleNews&newsID=20146028" title="Taloussanomat Mobiili" />
+     <meta name="apple-itunes-app" content="app-id=444087124, app-argument=taloussanomat://a/20146028" />
+    
+		<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
+		<link title="Taloussanomien uutishaku" rel="search" type="application/opensearchdescription+xml" href="http://www.taloussanomat.fi/taloussanomat_haku.xml" />
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@taloussanomat">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+				<link rel="dns-prefetch" href="http://tiedostot.taloussanomat.fi" />
+		<link rel="dns-prefetch" href="http://talsa.spring-tns.net" />
+		<link rel="dns-prefetch" href="http://s1.adform.net" />
+		<link rel="dns-prefetch" href="http://atemda.com" />
+		<link rel="dns-prefetch" href="http://s.atemda.com" />
+		<link rel="dns-prefetch" href="http://track.adform.net" />
+		<link rel="dns-prefetch" href="http://cts.sanoma.fi" />
+		<link rel="dns-prefetch" href="http://static.sanoma.fi" />
+		<link rel="dns-prefetch" href="http://adserver.adtech.de" />
+		<link rel="dns-prefetch" href="http://b.scorecardresearch.com" />
+		<link rel="dns-prefetch" href="http://pagead2.googlesyndication.com" />
+		<link rel="dns-prefetch" href="http://googleads.g.doubleclick.net" />
+		<link rel="dns-prefetch" href="http://google-analytics.com" />
+		<link rel="dns-prefetch" href="http://geo.sanoma.fi" />
+		<link rel="dns-prefetch" href="http://code2.adtlgc.com" />
+		<link rel="dns-prefetch" href="http://tyopaikat.oikotie.fi" />
+		<link rel="dns-prefetch" href="http://analytics.sanoma.fi" />
+		<link rel="dns-prefetch" href="http://aka-cdn-ns.adtech.de" />
+		<link rel="dns-prefetch" href="http://ad-emea.doubleclick.net" />
+		<link rel="dns-prefetch" href="http://http://www.facebook.com" />
+
+		
+		<script type="text/javascript" src="http://cts.sanoma.fi/service/js/taloussanomat-fi/porssi/"></script>
+		
+		<script type="text/javascript">
+			try {
+				cts = new Tagging();
+				cts.render("head");
+			}
+			catch (err) { cts.log(err); }
+		</script>
+
+	</head>
+	<body>
+		<!-- gtm -->
+
+		<script>
+			/* GTM datalayer */
+			dataLayer = [{"page":{"pageinfo":{"pagename":"Rajeev Suri Nokian uudeksi toimitusjohtajaksi ","variant":"Control","pageid":"20146028","publisheddate":"1398742740","author":"Taloussanomat"},"category":{"pagetype":"Article","categoryid":"talsa\/taloussanomat\/","fullcategory":"\/porssi"},"pageInfo":{"themetags":"risto siilasmaa,rajeev suri,nokia"}},"user":{"segment":{"isloggedin":"not logged in"}}}];
+		</script>
+
+		<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P2WMVQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P2WMVQ');</script>
+<!-- End Google Tag Manager -->
+
+	<a id="alku"></a>
+
+	<div id="allWrapper">
+		
+		
+		<!--Lukittu jättibanneri-->
+
+        <div id="ie6navigation">
+            <iframe id="ie6cover"></iframe>
+        </div>
+    
+            <div id="adTop728x90" style="position: relative;">
+                
+	<script type="text/javascript">try { cts.render("top"); } catch (err) { cts.log(err); } </script>		
+
+
+            </div>
+		<div id="newContainer">
+	<div id="page">
+	  		<!-- Site bar starts -->
+	<div id="siteBarArea">
+		<div id="siteBar">
+			<ul id="siteNav"  style="width: 500px;">
+				<li class="item first"><a class="selected" href="http://www.taloussanomat.fi/">Taloussanomat</a></li>
+				<li class="item"><a href="http://www.digitoday.fi">Digitoday</a></li>
+				<li class="item"><a href="http://tyopaikat.taloussanomat.fi/">Työpaikat</a></li>
+
+				
+                
+                <li class="item"><a id="mobileUrl" href="http://m.taloussanomat.fi/?page=showSingleNews&newsID=20146028">Mobiiliversio</a></li>
+        		<li class="item"><a href="/ipad/">iPad</a></li>
+
+			</ul>
+			<ul id="utilityNav">
+				<li>
+					<div class="itemBg"><span class="isDropDown">Palvelut</span></div>
+
+					<div class="dropDownShadow">
+						<div class="dropDown">
+							<ul>
+								<li><a href="/uutiskirje/">Uutiskirjeet</a></li>
+								<li><a href="/rss-syotteet/">RSS-syötteet</a></li>
+								<li><a href="/haku/">Haku (arkisto)</a></li>
+							</ul>
+
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="itemBg"><span class="isDropDown">Sivusto</span></div>
+					<div class="dropDownShadow">
+						<div class="dropDown">
+
+							<ul>
+								<li><a href="/uutta-sivustolla/">Uutta sivustolla</a></li>
+								<li><a href="/toimitus/">Toimitus</a></li>
+								<li><a href="/rekisteriseloste-sivusto/">Rekisteriseloste</a></li>
+
+								<li><a href="/kayttoehdot/">Käyttöehdot</a></li>
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+					<div class="itemBg"><span class="isDropDown">Yhteydenotot</span></div>
+					<div class="dropDownShadow">
+
+						<div class="dropDown">
+							<ul>
+								<li><a href="/lomake/uutisvinkki/">Lähetä juttuvinkki</a></li>
+								<li><a href="/lomake/nimitys/">Ilmoita nimitys</a></li>
+								<li><a href="/lomake/palaute/">Lähetä palautetta</a></li>
+								<li><a href="/lomake/virhe/">Lähetä tekninen virheilmoitus</a></li>
+								<li><a href="/yhteystiedot/">Yhteystiedot</a></li>
+
+							</ul>
+						</div>
+					</div>
+				</li>
+				<li>
+				    <div class="itemBg"><span><a href="/mediatiedot/">Mediatiedot</a></span></div>
+				</li>
+			</ul>
+		</div>
+		<div class="clear"> </div>
+	</div>
+	<!-- Site bar ends -->
+
+	<div id="stockBar">
+
+<ul class="darkLine">
+	<li>
+		<img src="/img/icon_stock_value_negative.png" alt="" width="24" height="24" />
+		<div class="change negative" title="Muutos">
+			<a href="http://porssi.taloussanomat.fi/indices/factsheet_overview.html?ISG_SYMBOL=HEX-GEX.HSE">-1.35 %</a>
+		</div>
+		<div class="name">
+			<a href="http://porssi.taloussanomat.fi/indices/factsheet_overview.html?ISG_SYMBOL=HEX-GEX.HSE">OMX Helsinki</a>
+		</div>
+		<div class="value" title="Viimeisin">
+			<a href="http://porssi.taloussanomat.fi/indices/factsheet_overview.html?ISG_SYMBOL=HEX-GEX.HSE">8430.8376</a>
+		</div>
+		<div class="clear"> </div>
+	</li>
+	
+	<li class="middle">
+		<img src="/img/icon_stock_value_negative.png" alt="" width="24" height="24" />
+		<div class="change negative" title="Muutos">
+			<a href="http://porssi.taloussanomat.fi/stocks/factsheet_overview.html?ISG_SYMBOL=NOKIA.HSE">-2.08 %</a>
+		</div>
+		<div class="name">
+			<a href="http://porssi.taloussanomat.fi/stocks/factsheet_overview.html?ISG_SYMBOL=NOKIA.HSE">Nokia Oyj</a>
+		</div>
+		<div class="value" title="Viimeisin">
+			<a href="http://porssi.taloussanomat.fi/stocks/factsheet_overview.html?ISG_SYMBOL=NOKIA.HSE">6.36</a>
+		</div>
+		<div class="clear"> </div>
+	</li>
+	
+	<li>
+		<img src="/img/icon_stock_value_positive.png" alt="" width="24" height="24" />
+		<div class="change positive" title="Muutos">
+			<a href="http://porssi.taloussanomat.fi/bonds/">-0.131</a>
+		</div>
+		<div class="name">
+			<a href="http://porssi.taloussanomat.fi/bonds/">Euribor 3 kk</a>
+		</div>
+		<!-- div class="value" title="Viimeisin">
+			<a href="http://porssi.taloussanomat.fi/bonds/">-0.131</a>
+		</div -->
+		<div class="clear"> </div>
+	</li>
+
+</ul>
+
+
+		<div class="clear"> </div>
+	</div> <!-- /#stockBar -->
+
+		<!-- Header starts -->
+		<header>
+	        <div class="logoArea">
+				<a href="/"><img class="logo" src="/img/logo_taloussanomat_264_61.png" alt="Taloussanomat - Talousuutiset ja pörssi" width="264" height="61"/></a><br />
+			</div>
+	       
+		<!-- insert blog lifts here -->
+		<!-- start show -->
+<!-- Pre-generated data fetched -->
+			<div class="promoArea2">
+
+
+				<div class="headerLogin">
+					<a id="loginScreenButton" href="/kirjautuminen/">Kirjaudu &#9660;</a>
+					<div id="loginContainer"> </div>
+					<script type="text/javascript">
+					  $(document).ready(function(){
+					    $("#loginContainer").load("/inc/rekisteroityminen/headerLoginBox.php");
+					  });
+					</script> 
+				</div>
+
+			</div><!-- BlogLift -->
+<div class="promoArea1">
+<div class="articlePromo featurePromo"><img class="picture" src="/img/columnists/columnist_anna_mard_74_55.jpg" alt="Kolumni" />
+
+    <div class="storyType"><a href="/ajatukset/2015/12/18/isoveli-mukana-jouluostoksilla/201516777/12">Kolumni</a></div>
+    <div class="heightLimiter">
+	    <div class="headline"><a href="/ajatukset/2015/12/18/isoveli-mukana-jouluostoksilla/201516777/12">Isoveli mukana jouluostoksilla</a></div>
+	    <div class="author">Anna Mård</div>
+	</div>
+</div>
+</div>
+			<div class="clear">&nbsp;</div>
+			
+		</header>
+		<!-- Header ends -->
+		<!-- Navigation bar starts -->
+<!-- ============================================ -->
+<nav>
+	<div class="navBarBg">
+		<ul id="mainNav">
+
+			<li id="navNews" class="">
+				<a href="/sivu.php?page_id=1" class="">Uutiset</a>
+				<span> </span>
+			</li>
+			<li id="navFirms" class="">
+				<a href="/yritykset/" class="">Yrityshaku</a>
+			</li>
+			<li id="navStocks" class="selected">
+				<a href="http://porssi.taloussanomat.fi/markets/index.html" class="" >Pörssi</a>
+			</li>			
+			<!-- li id="navFunds" class="">
+				<a href="http://porssi.taloussanomat.fi/funds/" class="">Rahastot</a>
+			</li -->
+			<li id="navAutot" class="">
+				<a href="/autot/" class="">Autot</a>
+			</li>
+			<li id="navAsuminen" class="">
+				<a href="/asuminen/" class="">Asuminen</a>
+			</li>
+			<li id="navTyoJaElama" class="">
+				<a href="/oma-raha/" class="">Oma raha</a>
+			</li>
+			<li id="navItviikko" class="">
+				<a href="http://www.itviikko.fi/sivu.php?page_id=1" class="">It-viikko</a>
+			</li>
+
+			<li id="navNominations" class="">
+				<a href="/yritykset/nimitykset/" class="">Nimitykset</a>
+			</li>			
+			<li id="navCalculators" class="">
+				<a href="/laskurit/" class="">Laskurit</a>
+			</li>
+			<li id="navSeminars" class="BLOGREPLACESELECTED">
+				<a href="http://seminaarit.taloussanomat.fi" class="">Seminaarit</a>
+			</li>
+			<li id="navSearch">
+				<span class="dummy">&nbsp;</span>
+			</li> <!-- /#navSearch -->
+		</ul> <!-- /#mainNav -->
+		
+                <div class="search">
+                    <div class="fieldContainer">
+                    	<form method="get" action="/haku/" id="navigationBarSearchForm">
+                        	<input type="hidden" name="rss" value="navi" />
+                        	<input placeholder="Etsi Taloussanomista" type="search" id="navigationBarSearch" name="needle" size="14"/>&nbsp;
+                        	<input type="submit" class="submit" value="Hae"/>
+                    	</form>
+                    </div> <!-- /.fieldContainer -->
+                    <div id="suggestions"></div>
+                </div> <!-- /.search -->
+		
+		<div class="clear"> </div>	
+	</div> <!-- /.navBarBg -->
+
+</nav>
+
+<!-- ============================================ -->
+<!-- Navigation bar ends -->
+		<div id="content">
+			<!--jb_1000x150-->
+
+  
+  <div class="adAfterNavi728x90 ad">
+      
+	<script type="text/javascript">try { cts.render("middlebanner01"); } catch (err) { cts.log(err); } </script>		
+
+  </div>
+  
+   <!-- / 728 ad -->
+        	<!-- Column Group 1 starts -->
+        	<div id="col1">
+			<!-- News flash starts -->
+			<!-- NewsFlash! -->
+
+			<!-- News flash ends -->
+	        	<!-- Column 1 A starts -->
+			<div id="col1A">
+				<!-- messages -->
+
+<!-- -->
+	        		<!-- news begin --> 
+<article class="news"> 
+     
+    <div class="lead"> 
+        <h1 class="headline">Rajeev Suri Nokian uudeksi toimitusjohtajaksi</h1> 
+                    <div class="imageContainer"> 
+                        <div class="pictureSource">Reuters/Taloussanomat</div> 
+                        <!-- ie6 warning: leave this in one line --><a class="lightBox" href="/img.php?f=surikombo.jpg&w=800" rel="storyImages" title=" Kuva: Reuters/Taloussanomat"><img src="http://tiedostot.taloussanomat.fi/files/panorama_surikombo.jpg" alt="Rajeev Suri Nokian uudeksi toimitusjohtajaksi" title="" /></a> 
+                    </div> 
+        <div class="storyCaption">
+        	 
+        	Matkapuhelimiin liittyvät toimintonsa myynyt Nokia on nimittänyt Rajeev Surin uudeksi toimitusjohtajakseen.
+        </div>
+    
+    </div> 
+    
+	<!-- .toolbox -->
+		
+    <div class="toolBoxContainer top"> 
+    	<div class="authorInfo"> 
+	        <div class="time">29.4.2014 06:39</div> 
+			 <div class="author">Taloussanomat</div>
+	        <div class="commentsNumber right"><a href="#commentsHere"><img src="/img/icon_comment_tool_15_12.png" alt="" width="15" height="12"> <span>Kommentteja <strong>28</strong> kpl</span></a></div>
+	        <div class="clear"></div>
+	    </div> <!-- /.authorInfo -->
+
+		<div class="toolBox"> 
+			<div class="tools">
+	            <div id="news_id20149492" class="tool favorite">
+    	            <a href="#"><img class="icon" width="16" height="16" alt="Lisää suosikkeihin" src="/img/icon_favorite.gif" /></a>
+	                <div class="toolErrorMessage">
+    	                <p>Henkilökohtaiselle suosikkilistalle tallentaminen vaatii kirjautumista.</p>
+        	            <a class="linkButton" href="/kirjautuminen/">Kirjaudu</a><a class="linkButton" href="/rekisteroidy/">Rekisteröidy</a>
+            	    </div>
+	            </div> <!-- /.favorite -->
+            
+	            <div class="tool"><a class="send" href="/laheta/uutinen/20146028/" onclick="sendToFriend(20146028, 'uutinen', $(this), 'Rajeev Suri Nokian uudeksi toimitusjohtajaksi', 'http://www.taloussanomat.fi/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170'); return false;"><img class="icon" src="/img/icon_email_tool.png" alt="Lähetä kaverille"/></a></div> 
+    	        <div class="tool"><a class="print" href="#" onclick="self.print(); return false;"><img class="icon" src="/img/icon_print_tool.png" alt="Tulosta (HTML)"/></a></div>          
+        	    <div class="tool"><a class="save" href="/pdf/20146028" target="_blank"><img class="icon" src="/img/icon_save_tool.png" alt="Tallenna (PDF)"/></a></div>
+			</div>
+        
+        	<div class="some">
+			    <div class="facebookLike">
+			    </div>
+			</div>
+
+            <div class="clear"></div>
+
+        </div> 
+    </div> 
+
+
+    <!-- start main --> 
+    <div class="storyText"> 
+     
+                <p><strong>Rajeev Suri</strong> aloittaa Nokian uutena toimitusjohtajana 1. toukokuuta, Nokia kertoo tiedotteessaan.</p> 
+                <p>&ndash; Nokian aloittaessa t&auml;m&auml;n uuden vaiheen min&auml; ja koko Nokian hallitus olemme vakuuttuneita, ett&auml; Rajeev on oikea henkil&ouml; viem&auml;&auml;n yhti&ouml;t&auml; eteenp&auml;in, Nokian hallituksen puheenjohtaja <strong>Risto Siilasmaa</strong> sanoo.&nbsp;</p>
+
+					<div class="readAlso">
+						<span class="heading">Lue myös nämä:</span>
+						<ul>
+							<li><a href="/porssi/2015/12/06/kilpailukykyloikka-joka-melkein-tuhosi-euron/201516113/170?pos=rap-3-1">Kilpailukykyloikka, joka melkein tuhosi euron</a></li>
+							<li><a href="/porssi/2015/12/16/hurjat-ennusteet-rupla-vahvistuu-20-prosenttia-oljy-kallistuu/201516642/170?pos=rap-3-2">Hurjat ennusteet: Rupla vahvistuu 20 prosenttia, öljy kallistuu</a></li>
+							<li><a href="/porssi/2015/12/16/tata-on-korruptio-huonekaluverstas-keskuspankissa-valtiolla-335-000-virkamiesta/201516711/170?pos=rap-3-3">Tätä on korruptio: Huonekaluverstas keskuspankissa, valtiolla 335 000 virkamiestä</a></li>
+						</ul>
+					</div> <!-- /.readAlso -->
+	 
+                <p>Samassa yhteydess&auml; Nokia kertoo strategiansa rakentuvan vastaisuudessa kolmeen kivijalkaan: verkkoliiketoimintaan, sijaintipalveluihin ja teknologiaan.&nbsp;</p><script>
+	google.load("visualization", "1.1", {packages:["corechart"], 'language': 'fi'});
+</script>
+
+<div class="article-data-promo">
+	<div class="article-data-companies">
+				<a href="#"  class="selected"  data-business-id="01120389">
+			Nokia Oyj
+		</a>
+				</div>
+	<div class="article-data-container">
+		
+		 
+		
+		<div class="article-data-company  " id="js-company-data-01120389">
+	
+
+			<div class="article-company-data">
+	<span class="headline">
+		Taloustiedot
+	</span>
+	<div class="column-main">
+		 
+		<div class="graph">
+			<div id="js-company-chart-01120389" class="" style="width: 168px; height: 110px;"></div>
+
+
+<script>
+
+ 
+	google.setOnLoadCallback(drawCompanyChart_01120389);
+
+function drawCompanyChart_01120389() {
+	var company_data = [["","Tulos 1000 \u20ac"],["11",1542000],["12",-154000],["13",-569000],["14",5383000]]
+	var data = google.visualization.arrayToDataTable(company_data);
+
+	var formatter = new google.visualization.NumberFormat({
+					decimalSymbol: ',',
+					groupingSymbol: ' ', 
+					negativeColor: 'red', 
+					negativeParens: false, 
+					suffix: '',
+					fractionDigits: 0
+				});
+  	formatter.format(data, 1);
+
+	var options = {
+	 	legend: { position: 'top', textStyle: {color: 'black', fontSize: 10}},
+		backgroundColor: '#e0eaf4',
+		width: 160,
+		height: 110
+	};
+
+	var chart = new google.visualization.ColumnChart(document.getElementById('js-company-chart-01120389'));
+
+	chart.draw(data, options);
+}
+
+</script>
+		</div>
+				<table>
+			<tr>
+				<th>Y-tunnus</th>
+				<td>0112038-9</td>
+			</tr>
+			<tr>
+				<th>Kotipaikka</th>
+				<td>Helsinki</td>
+			</tr>
+			<tr>
+				<th>Yhtiömuoto</th>
+				<td>OYJ</td>
+			</tr>
+		</table>
+	</div>
+
+	
+	<a href="http://yritys.taloussanomat.fi/y/nokia-oyj/helsinki/0112038-9?ref=article-data">Kaikki yrityksen taloustiedot</a>
+
+</div>
+
+							<div class="article-stock-data">
+	<span class="headline">
+		Osaketiedot
+	</span>
+	
+	<a class="graph" href="http://porssi.taloussanomat.fi/stocks/factsheet_overview.html?ISG_SYMBOL=NOKIA.HSE&amp;ref=article-data">
+		<img alt="" src="http://porssi.taloussanomat.fi/general/small_chart3.php?ISG_SYMBOL=NOKIA.HSE&amp;TIME_SPAN=2D&amp;WIDTH=158&amp;HEIGHT=110&amp;TITLE=2%20pv">
+	</a>
+
+	<table>
+		<tr>
+			<th>Viim. hinta &euro;</th>
+			<td>6,360</td>
+		</tr>
+		<tr>
+			<th>Muutos &euro;</th>
+			<td class="change negative">-0,140</td>
+		</tr>
+		<tr>
+			<th>Muutos %</th>
+			<td class="change negative">-2,08</td>
+		</tr>
+	</table>
+
+	<a class="clearfix" href="http://porssi.taloussanomat.fi/stocks/factsheet_overview.html?ISG_SYMBOL=NOKIA.HSE&amp;ref=article-data">Katso kurssihistoria</a>
+
+</div>			
+							<div class="article-calendar-data">
+	<span class="headline">Osinkotiedot</span>
+	<div id="js-dividend-chart-01120389" class="" style="width: 350px; height: 130px;"></div>
+
+
+<script>
+
+ 
+	google.setOnLoadCallback(drawDividendChart_01120389);
+
+function drawDividendChart_01120389() {
+	var dividend_data = [["Vuosi","Osinko","Lis\u00e4osinko","PO-palautus"],["2007",0.43,0,0],["2008",0.53,0,0],["2009",0.4,0,0],["2010",0.4,0,0],["2011",0.4,0,0],["2012",0.2,0,0],["2013",0,0,0],["2014",0.11,0.26,0],["2015",0.14,0,0]]
+	var data = google.visualization.arrayToDataTable(dividend_data);
+
+	var formatter = new google.visualization.NumberFormat({
+					decimalSymbol: ',',
+					groupingSymbol: ' ', 
+					negativeColor: 'red', 
+					negativeParens: true, 
+					suffix: ' ¤ ',
+					fractionDigits: 2
+				});
+  	formatter.format(data, 1);
+
+	var options = {
+		title: '',
+		legend: { 	position: 'top', 
+					textStyle: {color: 'black', fontSize: 10, fontName: 'Arial'}
+				},
+		backgroundColor: '#efefef',
+		hAxis: {title: ''},
+		width: 350,
+		height: 130
+	};
+
+	var chart = new google.visualization.ColumnChart(document.getElementById('js-dividend-chart-01120389'));
+
+	chart.draw(data, options);
+}
+
+</script>	<a href="http://www2.taloussanomat.fi/osinkokalenteri/nokia/nokia?ref=article-data">Tarkista osinkokalenteri ja tulosjulkistuspäivät </a>
+</div>					</div>
+
+		
+		
+	</div>
+</div>
+ 
+                <p>&ndash; Aiomme etsi&auml; mahdollisuuksia, jotka ovat yhteisi&auml; kolmelle liiketoiminnallemme silloin, kun se luo selke&auml;sti lis&auml;arvoa osakkeenomistajillemme, Suri sanoo tiedotteessa.&nbsp;</p>
+            <div id="articleMiddleAd" class="googleArticleAd">
+                <span class="top">&nabla; Mainos, artikkeli jatkuu alempana &nabla;</span>
+
+	<script type="text/javascript">try { cts.render("rectangle1-3"); } catch (err) { cts.log(err); } </script>		
+
+                <span class="bottom">&nabla; Artikkeli jatkuu &nabla;</span>
+            </div> <!-- /.googleAdArticleAd -->
+ 
+                <p>Nokian hallitus ilmoittaa my&ouml;s yhti&ouml;n &quot;p&auml;&auml;omarakenteen optimointiohjelmasta&quot;. Ohjelma keskittyy osinkojen maksamiseen ja ylim&auml;&auml;r&auml;iseksi katsotun p&auml;&auml;oman palauttamiseen osakkeenomistajille sek&auml; velkojenmaksuun.&nbsp;</p> 
+                <p>Vuodelta 2013 ja 2014 osinkoa aiotaan maksaa 0,11 euroa osakkeelta. Lis&auml;ksi hallitus esitt&auml;&auml; ylim&auml;&auml;r&auml;ist&auml; 0,26 euron osinkoa, 1,25 miljardin euron omien osakkeiden takaisinosto-ohjelmaa ja 2 miljardin euron velanv&auml;hennyksi&auml;.</p> 
+                <p></p> 
+                <p></p> 
+    </div> 
+    <div class="clear"> </div> 
+    <!-- end main --> 
+ 
+    <!-- start related -->
+
+	<!-- .toolbox -->
+		
+    <div class="toolBoxContainer bottom"> 
+    	<div class="authorInfo"> 
+	        <div class="time">29.4.2014 06:39</div> 
+			 <div class="author">Taloussanomat</div>
+	        <div class="commentsNumber right"><a href="#commentsHere"><img src="/img/icon_comment_tool_15_12.png" alt="" width="15" height="12"> <span>Kommentteja <strong>28</strong> kpl</span></a></div>
+	        <div class="clear"></div>
+	    </div> <!-- /.authorInfo -->
+
+		<div class="toolBox"> 
+			<div class="tools">
+	            <div id="news_id20149492" class="tool favorite">
+    	            <a href="#"><img class="icon" width="16" height="16" alt="Lisää suosikkeihin" src="/img/icon_favorite.gif" /></a>
+	                <div class="toolErrorMessage">
+    	                <p>Henkilökohtaiselle suosikkilistalle tallentaminen vaatii kirjautumista.</p>
+        	            <a class="linkButton" href="/kirjautuminen/">Kirjaudu</a><a class="linkButton" href="/rekisteroidy/">Rekisteröidy</a>
+            	    </div>
+	            </div> <!-- /.favorite -->
+            
+	            <div class="tool"><a class="send" href="/laheta/uutinen/20146028/" onclick="sendToFriend(20146028, 'uutinen', $(this), 'Rajeev Suri Nokian uudeksi toimitusjohtajaksi', 'http://www.taloussanomat.fi/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170'); return false;"><img class="icon" src="/img/icon_email_tool.png" alt="Lähetä kaverille"/></a></div> 
+    	        <div class="tool"><a class="print" href="#" onclick="self.print(); return false;"><img class="icon" src="/img/icon_print_tool.png" alt="Tulosta (HTML)"/></a></div>          
+        	    <div class="tool"><a class="save" href="/pdf/20146028" target="_blank"><img class="icon" src="/img/icon_save_tool.png" alt="Tallenna (PDF)"/></a></div>
+			</div>
+        
+        	<div class="some">
+			    <div class="facebookLike">
+			    </div>
+			</div>
+
+            <div class="clear"></div>
+
+        </div> 
+    </div> 
+
+
+
+        <div class="relatedTags">
+            <div class="companies">
+            	<span class="title">Yritykset</span>
+            	<a href="/haku/t/Nokia/0/">Nokia</a>
+            </div>
+            <div class="people">
+            	<span class="title">Ihmiset</span>
+            	<a href="/haku/t/Risto%20Siilasmaa/0/">Risto Siilasmaa</a> <a href="/haku/t/Rajeev%20Suri/0/">Rajeev Suri</a>
+            </div>
+        </div><!--/.relatedTags--> 
+
+    <div class="relatedContent">
+ 
+        <div class="subHeading">Lisää Aiheesta</div> 
+        
+
+        <div>
+            <a href="http://www.taloussanomat.fi/porssi/2014/03/14/millainen-toimitusjohtaja-surista-tulisi-nokialle/20143734/170?pos=armpit">
+                            <img alt="" src="http://www.taloussanomat.fi/files/90_12940281_H1402766.jpg" width="70" class="image" />
+                            </a>
+            <div class="title">
+                <span class="contentType">Lue myös</span><br />
+                <a href="http://www.taloussanomat.fi/porssi/2014/03/14/millainen-toimitusjohtaja-surista-tulisi-nokialle/20143734/170?pos=armpit">Tällainen mies on Rajeev Suri</a>
+                <a href="http://www.taloussanomat.fi/porssi/2014/03/14/millainen-toimitusjohtaja-surista-tulisi-nokialle/20143734/170?pos=armpit"><img src="/img/icon_read_more.png" width="15" 
+                height="9" 
+                alt="" /></a>
+                
+            </div>            
+            <div class="clear"> </div>
+        </div>
+
+
+        <div>
+            <a href="http://www.taloussanomat.fi/porssi/2014/04/29/nokian-strategia-on-kehittaa-sen-kolmea-liiketoimintaa/20146030/170?pos=armpit">
+                            <img alt="" src="http://www.taloussanomat.fi/files/90_nokiahere.jpg" width="70" class="image" />
+                            </a>
+            <div class="title">
+                <span class="contentType">Lue myös</span><br />
+                <a href="http://www.taloussanomat.fi/porssi/2014/04/29/nokian-strategia-on-kehittaa-sen-kolmea-liiketoimintaa/20146030/170?pos=armpit">&quot;Nokian strategia on kehittää sen kolmea liiketoimintaa&quot;</a>
+                <a href="http://www.taloussanomat.fi/porssi/2014/04/29/nokian-strategia-on-kehittaa-sen-kolmea-liiketoimintaa/20146030/170?pos=armpit"><img src="/img/icon_read_more.png" width="15" 
+                height="9" 
+                alt="" /></a>
+                
+            </div>            
+            <div class="clear"> </div>
+        </div>
+
+
+        <div>
+            <a href="http://www.taloussanomat.fi/porssi/2014/04/29/kolme-nokia-pomoa-jattaa-yhtion/20146034/170?pos=armpit">
+                            <img alt="" src="http://www.taloussanomat.fi/files/90_oistamo_uusin.jpg" width="70" class="image" />
+                            </a>
+            <div class="title">
+                <span class="contentType">Lue myös</span><br />
+                <a href="http://www.taloussanomat.fi/porssi/2014/04/29/kolme-nokia-pomoa-jattaa-yhtion/20146034/170?pos=armpit">Kolme Nokia-pomoa jättää yhtiön</a>
+                <a href="http://www.taloussanomat.fi/porssi/2014/04/29/kolme-nokia-pomoa-jattaa-yhtion/20146034/170?pos=armpit"><img src="/img/icon_read_more.png" width="15" 
+                height="9" 
+                alt="" /></a>
+                
+            </div>            
+            <div class="clear"> </div>
+        </div>
+ 
+         
+        </div><!--/.relatedContent--> 
+    <!-- end related --> 
+        
+        <div class="sixPackStories  selected">
+            
+                <div class="row ">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/05/05/taman-verran-surilla-on-kiinni-nokian-menestyksessa/20146345/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=000fjsew(2).jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/05/05/taman-verran-surilla-on-kiinni-nokian-menestyksessa/20146345/170?pos=related">Tämän verran Surilla on kiinni Nokian menestyksessä</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	5.5.2014 17:59
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/30/nokian-surin-palkka-pienempi-kuin-elopilla/20146168/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=RajeevSuri3.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/30/nokian-surin-palkka-pienempi-kuin-elopilla/20146168/170?pos=related">Nokian Surin palkka pienempi kuin Elopilla</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	30.4.2014 15:26
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/30/elop-tienasi-viime-vuonna-lahes-10-miljoonaa/20146163/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=10440161_H1428717.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/30/elop-tienasi-viime-vuonna-lahes-10-miljoonaa/20146163/170?pos=related">Elop tienasi viime vuonna lähes 10 miljoonaa</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	30.4.2014 15:01
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row ">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nokian-suri-patenttibisnes-laajenee-ulos-mobiilimaailmasta/20146099/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=25046645.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nokian-suri-patenttibisnes-laajenee-ulos-mobiilimaailmasta/20146099/170?pos=related">Nokian Suri: Patenttibisnes laajenee ulos mobiilimaailmasta</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 16:51
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+                    </div>
+                    <h3 class="big">
+                    	<a href="/porssi/2014/04/29/nokian-uusi-rahoituspohja-syntyi-kriiseja-tarkastelemalla/20146090/170?pos=related">Nokian uusi rahoituspohja syntyi kriisejä tarkastelemalla</a>
+                    </h3>
+                    <div class="ingress"><a href="/porssi/2014/04/29/nokian-uusi-rahoituspohja-syntyi-kriiseja-tarkastelemalla/20146090/170?pos=related">Nokia haluaa takaisin sijoituskelpoiseksi yhtiöksi
+luottoluokittajien silmissä</a></div>
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 14:59
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nokian-siilasmaa-toimitusjohtajaksi-oli-useita-ehdokkaita/20146073/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=surisiilas.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nokian-siilasmaa-toimitusjohtajaksi-oli-useita-ehdokkaita/20146073/170?pos=related">Nokian Siilasmaa: Toimitusjohtajaksi oli useita ehdokkaita</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 11:23
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/ccs-analyytikko-nokian-suri-todistanut-johtajakykynsa/20146067/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=suriuus.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/ccs-analyytikko-nokian-suri-todistanut-johtajakykynsa/20146067/170?pos=related">CCS-analyytikko: Nokian Suri todistanut johtajakykynsä</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 11:01
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nokian-tulos-sataa-positiiviseen-laariin/20146047/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=000fit5v.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nokian-tulos-sataa-positiiviseen-laariin/20146047/170?pos=related">"Nokian tulos sataa positiiviseen laariin"</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 09:28
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+                    </div>
+                    <h3 class="big">
+                    	<a href="/porssi/2014/04/29/nokian-hallituksessa-vaihtuu-kaksi-jasenta/20146045/170?pos=related">Nokian hallituksessa vaihtuu kaksi jäsentä</a>
+                    </h3>
+                    <div class="ingress"><a href="/porssi/2014/04/29/nokian-hallituksessa-vaihtuu-kaksi-jasenta/20146045/170?pos=related">Nokian muodonmuutos tuo muutoksia myös yhtiön hallitukseen</a></div>
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 08:57
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/kartta-nokia-petrasi-tulostaan/20146042/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=nokhereauto.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/kartta-nokia-petrasi-tulostaan/20146042/170?pos=related">Kartta-Nokia petrasi tulostaan</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 08:51
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nsnsta-on-kasvanut-surin-johtamana-innovaatiojohtaja/20146038/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=siilasmaauusi.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nsnsta-on-kasvanut-surin-johtamana-innovaatiojohtaja/20146038/170?pos=related">"NSN:stä on kasvanut Surin johtamana innovaatiojohtaja"</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 08:12
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nokia-maksaa-velkoja-ja-osinkoa-viidella-miljardilla-eurolla/20146036/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=RTX17RAT.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nokia-maksaa-velkoja-ja-osinkoa-viidella-miljardilla-eurolla/20146036/170?pos=related">Nokia maksaa velkoja ja osinkoa viidellä miljardilla eurolla</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 08:06
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/kolme-nokia-pomoa-jattaa-yhtion/20146034/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=oistamo_uusin.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/kolme-nokia-pomoa-jattaa-yhtion/20146034/170?pos=related">Kolme Nokia-pomoa jättää yhtiön</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 07:54
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/29/nokia-paransi-tulostaan-alkuvuonna/20146033/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=25010614.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/29/nokia-paransi-tulostaan-alkuvuonna/20146033/170?pos=related">Nokia paransi tulostaan alkuvuonna</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	29.4.2014 08:27
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/ihmiset/2014/04/28/olet-niin-kovis-tapoit-nokian-elop-joutui-tiukan-paikan-eteen/20146017/12?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=RTX19EBN.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/ihmiset/2014/04/28/olet-niin-kovis-tapoit-nokian-elop-joutui-tiukan-paikan-eteen/20146017/12?pos=related">"Olet niin kovis, tapoit Nokian" – Elop joutui tiukan paikan eteen</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	28.4.2014 17:53
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/harrastukset/2014/04/28/microsoftin-ensimmaisessa-lumia-mainoksessa-on-mielenkiintoinen-tablettiviittaus/20146002/139?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=microsoftlumia.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/harrastukset/2014/04/28/microsoftin-ensimmaisessa-lumia-mainoksessa-on-mielenkiintoinen-tablettiviittaus/20146002/139?pos=related">Microsoftin ensimmäisessä Lumia-mainoksessa on mielenkiintoinen tablettiviittaus</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	28.4.2014 15:36
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/28/kaikkia-kiinnostaa-nyt-nokian-uusi-suunta/20146001/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=25010614.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/28/kaikkia-kiinnostaa-nyt-nokian-uusi-suunta/20146001/170?pos=related">Kaikkia kiinnostaa nyt Nokian uusi suunta</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	28.4.2014 15:32
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/28/microsoft-menetti-10-dollaria-joka-kerta-kun-nokia-myi-puhelimen/20145969/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=6989858 copy.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/28/microsoft-menetti-10-dollaria-joka-kerta-kun-nokia-myi-puhelimen/20145969/170?pos=related">"Microsoft menetti 10 dollaria joka kerta, kun Nokia myi puhelimen"</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	28.4.2014 11:13
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/26/historiallinen-hetki-nokian-kyltti-vaihtui/20145932/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=NokiaMicrosoft_Kara.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/26/historiallinen-hetki-nokian-kyltti-vaihtui/20145932/170?pos=related">Historiallinen hetki: Nokian kyltti vaihtui</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	26.4.2014 11:20
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory ">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/informaatioteknologia/2014/04/25/elop-microsoft-kaupasta-tuki-nokian-android-puhelimille-jatkuu/20145898/12?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=StephenElop4.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/informaatioteknologia/2014/04/25/elop-microsoft-kaupasta-tuki-nokian-android-puhelimille-jatkuu/20145898/12?pos=related">Elop Microsoft-kaupasta: Tuki Nokian Android-puhelimille jatkuu</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	25.4.2014 14:40
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="sixPackStory lastOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/porssi/2014/04/25/nyt-se-on-virallista-nokian-puhelimet-microsoftille/20145891/170?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=NokiaMS.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/porssi/2014/04/25/nyt-se-on-virallista-nokian-puhelimet-microsoftille/20145891/170?pos=related">Nyt se on virallista: Nokian puhelimet Microsoftille</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	25.4.2014 14:09
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+                <div class="row  hidden">
+
+            <div class="sixPackStory firstOfRow">
+                <div class="lead">
+                    <div class="imageContainer">
+						
+						<a href="/politiikka/2014/04/26/microsoft-milloin-annat-meille-miljardin/20145836/12?pos=related">
+                            <img src="/img4x3.php?w=140&amp;f=microsoft_barnes_noble.jpg" width="140" height="104" alt="" />
+                        </a>
+
+                    </div>
+                    <h3 class="">
+                    	<a href="/politiikka/2014/04/26/microsoft-milloin-annat-meille-miljardin/20145836/12?pos=related">Microsoft, milloin annat meille miljardin?</a>
+                    </h3>
+                    
+                    <div class="metadata">
+                        <span class="time">
+                        	26.4.2014 05:06
+                        </span>
+                    </div>
+                </div>
+            </div>            
+
+				<div class="clear"> </div>		
+
+		</div>
+			<div class="moreRow">
+				<div class="moreRow2">
+					<a id="moreButton">Näytä lisää (16)</a>
+				</div>
+			</div>		
+
+
+
+
+			<div class="clear"> </div>            
+        </div>
+
+	
+    <!--/div--> 
+    
+            <script type="text/javascript"> 
+			//<![CDATA[
+			var fbNewsUrl = "http%3A%2F%2Fwww.taloussanomat.fi%2Fporssi%2F2014%2F04%2F29%2Frajeev-suri-nokian-uudeksi-toimitusjohtajaksi%2F20146028%2F170";
+			var news_id = 20146028;
+			var publish_time = 1398742740;
+			// ]]>
+			</script>
+<img src="/kuva.php?news_id=20146028&amp;offset=1" border="0" width="1" height="1" alt="" />
+
+ 
+</article><!--/article--> <div id="commentsHere">
+<div id="newsFrontAd1" class="newsFrontAd ad">
+
+	<script type="text/javascript">try { cts.render("rectangle1-1"); } catch (err) { cts.log(err); } </script>		
+<!--AD?size=300x250&pp=1&keyword=-->
+
+</div>
+ </div><!-- kommentit -->
+
+		<div class="xcContainer">
+
+		<h3 class="h_mielipide">Kommentit (28)</h3>		
+
+		<div class="xvPagination">
+			<span class="label">Sivut:</span>
+				<a class="page current" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=1#commentsHere">1</a>
+				<a class="page" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=2#commentsHere">2</a>
+				<a class="page" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=3#commentsHere">3</a>
+				
+			<div class="nextPrevPagination">	
+<span class="button disabled">Edellinen</span><a class="button" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=2#commentsHere">Seuraava</a>
+				</div>
+			<div class="clear"></div>
+		</div>
+	<div id="xce7665656" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665656">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665656">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7665656"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">4</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665656">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665656&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665656&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665656">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Tarkoittaako nuo sijaintipalvelut käytännössä ihmisten vakoilua ja profilointia.?<br />
+<br />
+Sijaintitietojen perusteella voidaan tehdä monenlaisia mielenkiintoisia tutkimuksia esim.  Herra X on naimisissa ja asuu osoitteessa Katu 1 A, mutta lähettelee usein tekstareita Herra Y:lle ja heillä on usein sijainti sama yöaikaan Motelli B:ssä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665656">Anonyymi: hepsjeps</span>
+			<span class="xcCreatedDate">29.4.2014 6:52	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665660" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665660">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665660">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7665660"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665660">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665660&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665660&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665660">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Nokian tuho vain jatkuu näköjään tuotekehitykseen ei laiteta mitään vaan valutetaan rahat osinkoina ulos jenkeihin.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665660">Anonyymi: Noksupoksu</span>
+			<span class="xcCreatedDate">29.4.2014 7:05	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665662" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665662">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665662">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7665662"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665662">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665662&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665662&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665662">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				<blockquote>Tarkoittaako nuo sijaintipalvelut käytännössä ihmisten vakoilua ja profilointia.?<br />
+<br />
+Sijaintitietojen perusteella voidaan tehdä monenlaisia mielenkiintoisia tutkimuksia esim.  Herra X on naimisissa ja asuu osoitteessa Katu 1 A, mutta lähettelee usein tekstareita Herra Y:lle ja heillä on usein sijainti sama yöaikaan Motelli B:ssä.</blockquote><br />
+Joten autonavigaattori voisi valita reitin motellille kaupan Z kautta, jossa olisi extravahvat kumit ja liukuvoide tarjouksessa. Kaikki voittavat?
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665662">Anonyymi: Eskomörkö</span>
+			<span class="xcCreatedDate">29.4.2014 7:06	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665672" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665672">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665672">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7665672"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665672">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665672&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665672&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665672">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Omien osakkeiden ostaminen on maailman tyhmin idea, Nokia käytti sitä aikanaan miljardeilla kun olisi pitänyt satsata tuotekehitykseen. Sama hölmöläismeininki siis jatkuu yhä vaab.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665672">Anonyymi: joopa-joo</span>
+			<span class="xcCreatedDate">29.4.2014 7:19	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665689" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665689">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665689">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7665689"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665689">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665689&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665689&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665689">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				<blockquote>Omien osakkeiden ostaminen on maailman tyhmin idea, Nokia käytti sitä aikanaan miljardeilla kun olisi pitänyt satsata tuotekehitykseen. Sama hölmöläismeininki siis jatkuu yhä vaab.</blockquote><br />
+Samaa tekevät kaikki muutkin.<br />
+<br />
+On se hassua, että useimmat maailman suuryritykset ja sijoittajat ovat väärässä ja Taloussanomien nimetön kommentoija tietää paremmin.<br />
+<br />
+Olet itse varmaankin miljardööri? Ja saanko arvata: Jos pääsisit Formulan rattiin, niin varmasti ajaisit paremmin kuin ne muut?
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665689">Anonyymi: kyyninen</span>
+			<span class="xcCreatedDate">29.4.2014 7:38	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665698" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665698">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665698">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7665698"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665698">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665698&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665698&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665698">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Niinpä niin, yksi "hölmöläisfirma" ostaa kymmenkertaisen määrän omia osakkeitaan, sen logo on haukattu hedelmä.<br />
+Tämän yhtiön aikeita ei kukaan ole moittinut.<br />
+<br />
+Tiedoksi, ei kaikki osinkorahat mene jenkkeihin, minulle tulee osa ja aion käyttää sen uuden loman suunnitteluun ja tuotekehittelyyn.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665698">Anonyymi: Makkeli</span>
+			<span class="xcCreatedDate">29.4.2014 7:45	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665706" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665706">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665706">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7665706"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665706">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665706&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665706&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665706">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Omien osakkeiden osto saa hälytyskellot soimaan.<br />
+Ostetaan osakkeita ettei tarvitse jakaa oskinkoja jatkossa. Kuulostaa jo kriisiajan tekohengitykseltä osakkeen arvolle. Laskupaineet täytyy olla suuret omien osakkeiden ostopuheissa! Yhtiö on surkastunut murto-osaan alkuperäisestä eikä osakkeen arvo vastaa todellisuutta. Olisiko pikaisen osakemyynnin paikka?
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665706">Anonyymi: Myydään</span>
+			<span class="xcCreatedDate">29.4.2014 7:57	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665716" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665716">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665716">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7665716"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665716">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665716&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665716&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665716">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Mielenkiinnolla odotan kuka sitten valitaan seuraavaksi NSN-johtajaksi ja saataisiinko sen johtoryhmään pitkästä aikaan joku suomalainenkin mukaan.<br />
+<br />
+Noksun AMK/opistotasoiset työpaikat lienee nyt toistaiseksi jaetut ja sama pätee sisäisiin joulutervehdyksiin, tiimin virkistysmäärärahoihin ym. busineksen ja change managementin kannalta merkityksettömiin asioihin.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665716">Anonyymi: henkiloresurssi</span>
+			<span class="xcCreatedDate">29.4.2014 8:04	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665718" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665718">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665718">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7665718"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665718">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665718&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665718&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665718">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Miten tiedot ja ideat pääsevät Nokiaan? Vai kuvitellaanko sen yksin tietävän kaiken. Ei muuten tiedä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665718">Anonyymi: osakkeenomistaja</span>
+			<span class="xcCreatedDate">29.4.2014 8:07	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7665721" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7665721">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7665721">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7665721"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7665721">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665721&news_id=20146028"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7665721&news_id=20146028">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7665721">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Nim, Myydään: Kun in noin selkeä käsitys eli tietenkin tieto asiasta /asioista, mitäs täällä meiltä kyslet. Minä jo olisin myynyt noilla tiedoilla.<br />
+Sorry, en voi auttaa vaan holdaan 1,5- 2,00 eirolla ostettuja Nokioitani.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7665721">Anonyymi: Pitovarma</span>
+			<span class="xcCreatedDate">29.4.2014 8:10	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+		<div class="xvPagination">
+			<span class="label">Sivut:</span>
+				<a class="page current" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=1#commentsHere">1</a>
+				<a class="page" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=2#commentsHere">2</a>
+				<a class="page" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=3#commentsHere">3</a>
+				
+			<div class="nextPrevPagination">	
+<span class="button disabled">Edellinen</span><a class="button" href="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&n=2#commentsHere">Seuraava</a>
+				</div>
+			<div class="clear"></div>
+		</div>
+
+		<form id="commentForm" name="commentForm" method="post" action="/porssi/2014/04/29/rajeev-suri-nokian-uudeksi-toimitusjohtajaksi/20146028/170?&post=1">
+			<div class="instructions">
+               	<span class="start">Ohjeet:</span>
+                    Pysy aiheessa ja kirjoita napakasti. Muista, että haastateltavilla, kanssakeskustelijoilla ja toimittajilla on oikeus omaan, eriävään mielipiteeseen. Ole kohtelias, äläkä tarkoituksella provosoi tai hauku muita keskustelijoita. Taloussanomat varaa oikeuden poistaa asiattomat viestit.<br/>
+				<a href="http://www.taloussanomat.fi/keskustelut/ohjeet"><img alt="" src="/img/arrow_blue.png" /></a> 
+				<a href="http://www.taloussanomat.fi/keskustelut/ohjeet">Lue koko keskusteluetiketti</a>
+			
+			</div>
+
+				
+
+				
+
+			<div id="xcTestFieldContainer" class="">
+				<label for="test">Bottivarmistus: mitä on nolla ynnä seitsemäntoista? <br /><span>Syötä vastaus numeroina</span></label>
+				
+				<input type="text" id="xcTestField" class="number" value="" name="xcTestField" maxlength="2"/>
+			</div>
+			
+			<div class="controls">
+				<input type="button" value="Lihavoi" name="xcBoldButton" id="xcBoldButton" class="xcButton"/>
+				<input type="button" value="Kursivoi" name="kursivoi" id="xcItalicButton" class="xcButton" />
+				<input type="button" value="Lainaa" name="lainaa" id="xcQuoteButton" class="xcButton" />
+            </div>
+			<div class="">
+				<label id="xcMessageLabel" for="xcMessageText">Viesti <br/><span> Vähimmäispituus 30 merkkiä</span></label>
+				
+				<textarea id="xcMessageText" rows="10" cols="39" name="xcMessageText"></textarea>
+			</div>
+			
+			<div id="xcNameContainer" class="">
+				<label for="xcName">Nimimerkki <span>(5-20 merkkiä)</span><br /><span>Käytä ainoastaan kirjaimia ja numeroita, välilyönnit eivät ole sallittuja.</span></label>
+				
+				<div id="xcNameInstruction" class="instruction">Varaa oma nimimerkkisi Taloussanomien uutiskommentointiin <a href="http://www.taloussanomat.fi/rekisteroidy/">rekisteröitymällä käyttäjäksi</a> tai <a href="http://www.taloussanomat.fi/kirjautuminen/">kirjaudu sisään</a>.<br /><br />Rekisteröityminen ja nimimerkin varaus eivät ole pakollisia.
+				<br /><br />Nimimerkissä saa käyttää ainoastaan kirjaimia ja numeroita. Sen minimimitta on viisi merkkiä ja maksimi kaksikymmentä merkkiä.</div>
+				<div id="xcNameReservationInstruction" class="instruction">Olet kirjautunut sisään, muttet ole vielä valinnut omaa, muille käyttäjille näkyvää nimimerkkiäsi. Varaa nimimerkki omaksesi kirjoittamalla se nimimerkki-kenttään. <br /><br />Varauksen jälkeen muut eivät voi käyttää nimimerkkiäsi ja se  näkyy automaattisesti kaikissa kirjoittamissasi viesteissä. <br /><br />Huomioithan, ettei nimimerkkiä ei voi muuttaa jälkikäteen.<br /><br />Nimimerkissä saa käyttää ainoastaan kirjaimia ja numeroita. Sen minimimitta on viisi merkkiä ja maksimi kaksikymmentä merkkiä.</div>
+    	        <input id="xcName" type="text" value="" maxlength="20" size="40" name="xcName" />
+            	<div id="xcNameIndicator" class="indicator"></div>
+    	    </div>
+
+				<input type="hidden" name="xcBroom" value="0.17" />
+
+			<div class="send">
+				<input class="xcButton" type="submit" value="Lähetä viesti" name="doPost" />
+			</div> 
+		</form>
+
+
+		</div> <!-- /.xcContainer -->
+
+			<script src="/inc/rekisteroityminen/validator.js"></script>
+		
+<!-- /kommentit --><!-- l -->
+
+<!-- /l --><div id="newsFrontAd2" class="newsFrontAd ad">
+<!-- outlet -->
+
+	<script type="text/javascript">try { cts.render("rectangle1-2"); } catch (err) { cts.log(err); } </script>		
+
+</div><!-- oikotie tyopaikat/autot -->
+<div class="newsFrontAd ad">
+   <div class="centeredAd ad400wide">
+<div id="tyopaikat-joblift--avainpaikat" class="tyopaikat-joblift--dim400x300">
+  <div class="tyopaikat-joblift-header">
+    <div class="tyopaikat-joblift-logo"></div>
+    <a target="_blank" class="tyopaikat-joblift-more" href="http://tyopaikat.oikotie.fi?utm_source=taloussanomat.fi&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_0"><span></span></a>
+  </div>
+  <div id="tyopaikat-joblift-avainpaikat-wrapper">
+  <div class="tyopaikat-joblift-content">
+        <div class="tyopaikat-joblift-row ">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914637?sRef=PremiumJobs&amp;keyJobId=96395&amp;utm_source=taloussanomat.fi&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://www2.oikotie.fi/ext/images/customsize/111327/111327997-1449828100037-20151211120140037.jpg">
+              <span class="tyopaikat-joblift-job-name">Manager, Divest Group Oy</span>
+        <span class="tyopaikat-joblift-company-name">Assidu</span>
+      </a>
+    </div>
+        <div class="tyopaikat-joblift-row tyopaikat-joblift-border">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914335?sRef=PremiumJobs&amp;keyJobId=96328&amp;utm_source=taloussanomat.fi&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://tyonantaja.oikotie.fi/sites/all/files/ilmoituskuvat/imagecache/tt_logo_large/logo_147675_0929362.jpg">
+              <span class="tyopaikat-joblift-job-name">Account Manager</span>
+        <span class="tyopaikat-joblift-company-name">Puuha Group Oy</span>
+      </a>
+    </div>
+        <div class="tyopaikat-joblift-row tyopaikat-joblift-border">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914642?sRef=PremiumJobs&amp;keyJobId=96393&amp;utm_source=taloussanomat.fi&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://tyonantaja.oikotie.fi/sites/all/files/ilmoituskuvat/imagecache/tt_logo_large/logo_152475_1155336.png">
+              <span class="tyopaikat-joblift-job-name">LIIKETOIMINNAN KEHITYSJOHTAJA</span>
+        <span class="tyopaikat-joblift-company-name">Exsane Oy</span>
+      </a>
+    </div>
+      </div>
+  </div>
+  <div class="tyopaikat-joblift-footer">
+    <span></span>
+  </div>
+</div>
+
+    </div>
+</div>
+<!-- end oikotie tyopaikat/autot --><div id="iltasanomatPromo"> </div><div id="hsframeContainer"></div><!-- start show -->
+<!-- noshow -->
+	        		<!-- dilbertAd -->
+
+<!-- end DilbertAd -->  
+	        	</div>
+	        	<!-- Column 1 A ends -->
+	        	
+	        	<!-- Column 1 B starts -->
+	        	<div id="col1B">
+        			<!-- start show -->
+	        		<div class="ad300x250 ad">
+
+	<script type="text/javascript">try { cts.render("rectangle2-1"); } catch (err) { cts.log(err); } </script>		
+<!--AD?size=300x250&pp=9&keyword=-->
+
+	        		</div><!-- start newsBox -->
+<div id="popularNewsPromo" class="hslice">
+	<div class="entry-content" rel="http://www.taloussanomat.fi/webslice">
+		<div id="newsPromo">
+			<div class="xvTabs compact">
+				<a href="/suosituimmat/" class="tab tab1 first current">
+					<span class="label">N&auml;it&auml; luetaan</span>
+				</a>
+		    </div>
+		    <div class="xvTabbedContent bordered">
+		        <div class="tabContent tabContent1">
+		        	<div class="contentList">
+		                <table><tr>
+								<td class="date"><span class="unread"><strong>1</strong></span></td>
+								<td>
+									<a href="/ulkomaat/2015/12/19/matkustaja-kallisti-istuinta-lentokoneessa-pahoinpideltiin/201516869/12?pos=luetuimmat">Matkustaja kallisti istuinta lentokoneessa – pahoinpideltiin</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>2</strong></span></td>
+								<td>
+									<a href="/oma-raha/2015/12/18/tallaisia-ovat-suomen-superrikkaat/201516853/139?pos=luetuimmat">Tällaisia ovat Suomen superrikkaat</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>3</strong></span></td>
+								<td>
+									<a href="/ulkomaat/2015/12/19/lentotukikohdassa-sattui-huulirasvamoka-aika-noloa/201516866/12?pos=luetuimmat">Lentotukikohdassa sattui huulirasvamoka – "Aika noloa" </a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>4</strong></span></td>
+								<td>
+									<a href="/oma-raha/2015/12/18/kuuluuko-perheesi-koyhimpaan-kymmenykseen-nain-lasket/201516802/139?pos=luetuimmat">Kuuluuko perheesi köyhimpään kymmenykseen? Näin lasket</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>5</strong></span></td>
+								<td>
+									<a href="/liikenne/2015/12/19/lufthansa-hehkuttaa-suomalaiskohdetta-eldoradoksi/201516870/12?pos=luetuimmat">Lufthansa hehkuttaa suomalaiskohdetta Eldoradoksi</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>6</strong></span></td>
+								<td>
+									<a href="/ulkomaat/2015/12/18/kuulitko-salakoodin-et-ehka-alynnyt/201516794/12?pos=luetuimmat">Kuulitko salakoodin? Et ehkä älynnyt</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>7</strong></span></td>
+								<td>
+									<a href="/energia/2015/12/18/valtion-100-miljardin-virhe-oljya-ei-vaan-loydetty/201516854/12?pos=luetuimmat">Valtion 100 miljardin virhe – "öljyä ei vaan löydetty"</a>
+								</td>
+							</tr><tr>
+								<td class="date"><span class="unread"><strong>8</strong></span></td>
+								<td>
+									<a href="/autot/2015/12/19/robottiautojen-yllattava-ongelma-eivat-riko-liikennesaantoja/201516865/304?pos=luetuimmat">Robottiautojen yllättävä ongelma: eivät riko liikennesääntöjä</a>
+								</td>
+							</tr></table>
+		            	<div class="moreLink">
+		            		<a href="/luetuimmat/">Uutislista</a>
+		            	</div>
+		            </div>
+		        </div>
+	    	</div>
+		</div>
+    </div>
+</div>
+    <div id="newestNewsPromo" class="hslice">
+    	<p class="entry-title">Taloussanomat - Uutiset</p>
+		<div class="entry-content" rel="http://www.taloussanomat.fi/webslice">
+			<div id="newsPromo">
+			
+				<div class="xvTabs compact">
+					<div class="logo">
+						<a href="http://www.taloussanomat.fi/">Taloussanomat</a> 
+						<a href="http://www.taloussanomat.fi/"><img src="http://www.taloussanomat.fi/img/favicon.gif" alt="" />
+						</a>
+					</div>
+					<a href="/uutislista/" class="tab tab1 first current">
+						<span class="label">Uusimmat uutiset</span>
+					</a>
+					<!-- a href="/suosituimmat/" class="tab tab2">
+						<span class="label">Suosituimmat uutiset</span>
+					</a -->
+			    </div>
+			    <div class="xvTabbedContent bordered">
+
+        <div class="tabContent tabContent1">
+        	<div class="contentList">
+                <table>
+						<tr>
+							<td class="date">
+								<span class="unread">
+						16:57
+									</span>
+								</td>
+								<td>
+									<a href="/ulkomaat/2015/12/19/nyt-mitataan-espanjan-talouskurin-kannatus/201516873/12?pos=tuoreimmat">Nyt mitataan Espanjan talouskurin kannatus</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						16:21
+									</span>
+								</td>
+								<td>
+									<a href="/informaatioteknologia/2015/12/19/40-prosenttia-parempi-akku-puhelimeen-nain-sony-aikoo-sen-tehda/201516872/12?pos=tuoreimmat"><span class="storyType ">Digitoday</span> 40 prosenttia parempi akku puhelimeen – näin Sony aikoo sen tehdä</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						16:02
+									</span>
+								</td>
+								<td>
+									<a href="/liikenne/2015/12/19/lufthansa-hehkuttaa-suomalaiskohdetta-eldoradoksi/201516870/12?pos=tuoreimmat">Lufthansa hehkuttaa suomalaiskohdetta Eldoradoksi</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						15:46
+									</span>
+								</td>
+								<td>
+									<a href="/ulkomaat/2015/12/19/matkustaja-kallisti-istuinta-lentokoneessa-pahoinpideltiin/201516869/12?pos=tuoreimmat">Matkustaja kallisti istuinta lentokoneessa – pahoinpideltiin</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						15:28
+									</span>
+								</td>
+								<td>
+									<a href="/rahoitus/2015/12/19/citigroup-suunnittelee-vahintaan-2000-tyontekijan-irtisanomisia/201516868/12?pos=tuoreimmat">Citigroup suunnittelee vähintään 2000 työntekijän irtisanomisia</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						15:04
+									</span>
+								</td>
+								<td>
+									<a href="/rahoitus/2015/12/19/fkn-tornivaara-kilpailu-on-erittain-kovaa/201516867/12?pos=tuoreimmat">FK:n Tornivaara: "Kilpailu on erittäin kovaa"</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						13:58
+									</span>
+								</td>
+								<td>
+									<a href="/ulkomaat/2015/12/19/lentotukikohdassa-sattui-huulirasvamoka-aika-noloa/201516866/12?pos=tuoreimmat">Lentotukikohdassa sattui huulirasvamoka – "Aika noloa" </a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						13:24
+									</span>
+								</td>
+								<td>
+									<a href="/autot/2015/12/19/robottiautojen-yllattava-ongelma-eivat-riko-liikennesaantoja/201516865/12?pos=tuoreimmat">Robottiautojen yllättävä ongelma: eivät riko liikennesääntöjä</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						12:37
+									</span>
+								</td>
+								<td>
+									<a href="/informaatioteknologia/2015/12/19/joulutarjousten-huippu-iphone-6s-alle-eurolla/201516864/12?pos=tuoreimmat"><span class="storyType ">Digitoday</span> Joulutarjousten huippu? IPhone 6S alle eurolla</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						12:03
+									</span>
+								</td>
+								<td>
+									<a href="/rahoitus/2015/12/19/fkn-hallituksen-uusi-puheenjohtaja-danske-bankista/201516862/12?pos=tuoreimmat">FK:n hallituksen uusi puheenjohtaja Danske Bankista</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						11:43
+									</span>
+								</td>
+								<td>
+									<a href="/harrastukset/2015/12/19/nyt-loytyi-joulumielen-paikka-aivoissa-kaikilla-ei-ole/201516861/12?pos=tuoreimmat">Nyt löytyi joulumielen paikka aivoissa – kaikilla ei ole</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						11:07
+									</span>
+								</td>
+								<td>
+									<a href="/palvelut/2015/12/19/ss-kuopiokin-haluaa-suomen-toisen-kasinon/201516860/12?pos=tuoreimmat">SS: Kuopiokin haluaa Suomen toisen kasinon</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						10:49
+									</span>
+								</td>
+								<td>
+									<a href="/politiikka/2015/12/19/ykn-turvallisuusneuvosto-hyvaksyi-syyrian-rauhanprosessin-luonnoksen/201516859/12?pos=tuoreimmat">YK:n turvallisuusneuvosto hyväksyi Syyrian rauhanprosessin luonnoksen</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						10:17
+									</span>
+								</td>
+								<td>
+									<a href="/yritykset/2015/12/19/isis-alkoi-hairita-laakeyhtio-muutti-nimensa/201516858/12?pos=tuoreimmat">Isis alkoi häiritä – lääkeyhtiö muutti nimensä</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						09:48
+									</span>
+								</td>
+								<td>
+									<a href="/mainonta/2015/12/19/ranska-syynaa-laiheliinit-vankeuden-uhalla/201516857/12?pos=tuoreimmat">Ranska syynää laiheliinit – vankeuden uhalla</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						07:01
+									</span>
+								</td>
+								<td>
+									<a href="/rahoitus/2015/12/19/saksalaispankit-sahlaavat-sahkoisessa-maksuliikenteessa/201516823/12?pos=tuoreimmat"><span class="storyType ">Näkökulma</span> Saksalaispankit sähläävät sähköisessä maksuliikenteessä</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						05:01
+									</span>
+								</td>
+								<td>
+									<a href="/asuminen/2015/12/19/kiinalaiset-kiinnostuivat-suomi-asunnoista/201516826/12?pos=tuoreimmat">Kiinalaiset kiinnostuivat Suomi-asunnoista</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/porssi/2015/12/18/applen-cook-puuskahti-taytta-poliittista-sontaa/201516856/12?pos=tuoreimmat"><span class="storyType ">Digitoday</span> Applen Cook puuskahti: "täyttä poliittista sontaa"</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/energia/2015/12/18/valtion-100-miljardin-virhe-oljya-ei-vaan-loydetty/201516854/12?pos=tuoreimmat">Valtion 100 miljardin virhe – "öljyä ei vaan löydetty"</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/oma-raha/2015/12/18/tallaisia-ovat-suomen-superrikkaat/201516853/12?pos=tuoreimmat">Tällaisia ovat Suomen superrikkaat</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/informaatioteknologia/2015/12/18/jolla-peruu-lomautuksia-nain-yhtio-tyollistaa-jatkossa/201516852/12?pos=tuoreimmat">Jolla peruu lomautuksia – näin yhtiö työllistää jatkossa </a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/politiikka/2015/12/18/saksa-ja-venaja-karsivat-eratappion-nord-stream-ii-kiistassa/201516851/12?pos=tuoreimmat">Saksa ja Venäjä kärsivät erätappion Nord Stream II -kiistassa</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/autot/2015/12/18/autopomon-yli-kymmenen-vuoden-lemmikkiprojekti-kuopataan-maaliskuussa/201516850/12?pos=tuoreimmat">Autopomon yli kymmenen vuoden lemmikkiprojekti kuopataan maaliskuussa</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/politiikka/2015/12/18/usassa-kumottiin-40-vuotinen-oljykielto/201516847/12?pos=tuoreimmat">USA:ssa kumottiin 40-vuotinen öljykielto</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/rahoitus/2015/12/18/voiko-op-valikoida-fkn-jasenyysehdot-joutuvat-testiin/201516848/12?pos=tuoreimmat">Voiko OP valikoida? FK:n jäsenyysehdot joutuvat testiin</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/uutiset/2015/12/18/venajan-strategian-ydin-nojaa-siihen-etta-edut-voidaan-ottaa-pois/201516846/12?pos=tuoreimmat">"Venäjän strategian ydin nojaa siihen, että edut voidaan ottaa pois"</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/porssi/2015/12/18/hyvan-ja-huonon-johtamisen-vaikutus-tulokseen-hammastyttavan-suuri/201516845/12?pos=tuoreimmat">Hyvän ja huonon johtamisen vaikutus tulokseen hämmästyttävän suuri </a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/ymparisto/2015/12/18/tama-tuttu-kala-menetti-ymparistomerkin/201516842/12?pos=tuoreimmat">Tämä tuttu kala menetti ympäristömerkin </a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/kotimaa/2015/12/18/finavia-suomelle-ehka-merkittavampi-kuin-tiedostetaan/201516838/12?pos=tuoreimmat">"Finavia Suomelle ehkä merkittävämpi kuin tiedostetaan"</a>
+								</td>
+							</tr>
+					
+						<tr>
+							<td class="date">
+								<span class="unread">
+						18.12.
+									</span>
+								</td>
+								<td>
+									<a href="/tietoliikenne/2015/12/18/useita-ilmoituksia-joka-paiva-varo-tata-kiristajaa/201516836/12?pos=tuoreimmat"><span class="storyType ">Digitoday</span> Useita ilmoituksia joka päivä: Varo tätä kiristäjää</a>
+								</td>
+							</tr>
+					
+        		</table>
+            	<div class="moreLink">
+            		<a href="/uutislista/">Uutislista</a>
+            	</div>
+            </div>
+        </div>
+
+
+    </div><!--/.entry-content-->
+</div><!--/#newestNewsPromo-->
+
+    </div>
+</div>
+
+<!-- endNewsBox --><!-- corp promo  -->
+
+
+<div class="companyBlogPromo promo"> 
+	<div class="subHeading">Kumppaniblogit <span>Ilmoitus</span></div>
+	<div class="body">
+		<div class="category"><a href="http://www.taloussanomat.fi/kumppaniblogit//?ref=ts_promo"></a></div>
+		<div class="headline"><a href="/kumppaniblogit/2015/12/18/suomen-ei-pida-elvyttaa-finanssipolitiikalla/201516747/322?ref=ts_promo">Suomen ei pidä elvyttää finanssipolitiikalla</a></div>
+
+		<div class="authorInfo">
+			<a href="/kumppaniblogit/2015/12/18/suomen-ei-pida-elvyttaa-finanssipolitiikalla/201516747/322?ref=ts_promo"><img src="http://tiedostot.taloussanomat.fi/files/120_Evli_Valtteri_Ahti_mv.jpg" alt="" /></a>
+			<div class="author"><a href="/kumppaniblogit/2015/12/18/suomen-ei-pida-elvyttaa-finanssipolitiikalla/201516747/322?ref=ts_promo">Evli / Valtteri Ahti</a></div>
+		</div>
+		<div class="ingress"><a href="/kumppaniblogit/2015/12/18/suomen-ei-pida-elvyttaa-finanssipolitiikalla/201516747/322?ref=ts_promo">Vuonna 2008 kärjistyneen finanssikriisin jälkeen Yhdysvalloissa ja euroalueella toteutettiin velkarahoitteista finanssielvytystä. Eli kohonneita budjettimenoja ylläpidettiin velkarahan avulla. Yhdysvalloissa tosin Afganistanin ja Irakin miehitys nosti puolustusbudjetin keinotekoisen korkeaksi. </a></div>
+		<a class="moreLink" href="/kumppaniblogit/">Lisää kumppaniblogeja</a>
+
+		<!-- div class="moreLink"><a href="/kumppaniblogit/">Lisää kumppaniblogeja</a></div -->
+		<div class="clear"> </div>
+	</div>
+</div>
+
+<!-- corp promo end -->
+<!-- haku -->
+
+
+<div id="company-search-bg">
+<div id="company-search-top">
+
+	<div id="company-search">
+		<h3>Hae yritystä<span id="search-box-ytp">Yritystietopalvelu</span></h3>
+		<form name="company-search" action="http://www.taloussanomat.fi/yritykset/haku/?pos=yrit-promo" method="get">
+		<input id="company-search-field" type="text" name="search" value="Anna yrityksen nimi tai Y-tunnus"/>
+		<input type="submit" value="Hae" />
+		</form>
+		
+		<ul class="featureList">
+			<li><a href="/yritykset/protestit/?pos=yrit-promo">Protestit</a></li>
+			<li><a href="/yritykset/uudet/?pos=yrit-promo">Uudet yritykset</a></li>
+			<li><a href="/yritykset/rating-muutokset/?pos=yrit-promo">Rating-muutokset</a></li>			
+			<li><a href="/yritykset/domainit/?pos=yrit-promo">Hae .fi -domaineja</a></li>			
+			<li><a href="/yritykset/nimitykset/?pos=yrit-promo">Nimitysuutiset</a></li>	
+			<li><a href="/lomake/nimitys/?pos=yrit-promo">Jätä nimitysuutinen</a></li>	
+			<li><a href="/yritykset/uutiset/?pos=yrit-promo">Yritysuutiset</a></li>
+			<li><a href="/kalenteri/?pos=yrit-promo">Talouskalenteri</a></li>
+		</ul>
+		<div class="clear"></div>
+	
+	</div>
+
+</div>
+</div>
+
+<div id="copmany-search-bottom" class="csb-external"></div>
+<div id="company-affiliate">
+	<a href="http://www.asiakastieto.fi"><img src="/img/yritystietopalvelu/logo-text-asiakastieto.png" alt="Asiakastieto"/></a>
+	<p>Yhteistyössä</p>
+</div>
+<!-- poiminnat -->
+
+	<div class="editorsPicks promo">
+		<div class="subHeading">
+			Poiminnat
+		</div>
+		<ul class="body">
+			
+		<li>
+			<a href="http://www.taloussanomat.fi/uutiset/2015/12/01/taloussanomat-julkaisee-uuden-lehden/201515822/12?pos=picks"><img src="http://tiedostot.taloussanomat.fi/files/90_B88242865Z120151201082041000GL1H9KLM21.jpg" alt="" /></a>
+			<div class="metadata">
+				<span class="storyType"><a href="http://www.taloussanomat.fi/uutiset/2015/12/01/taloussanomat-julkaisee-uuden-lehden/201515822/12?pos=picks">Uutinen</a></span>
+				<span class="commentsNumber">0</span>
+			</div>
+			<div class="headline"><a href="http://www.taloussanomat.fi/uutiset/2015/12/01/taloussanomat-julkaisee-uuden-lehden/201515822/12?pos=picks">Taloussanomat julkaisee uuden lehden</a></div>
+			<div class="author">Heidi Hagelin </div>
+			<div class="clear"> </div>
+		</li>
+
+		<li>
+			<a href="http://www.taloussanomat.fi/informaatioteknologia/2015/12/13/tuleeko-jalkipelista-nyt-loppu-tappara-ja-ilves-testaavat-alykiekkoa/201516496/12?pos=picks"><img src="http://tiedostot.taloussanomat.fi/files/90_B88262139Z120151212125651000G9AHQAEE21.jpg" alt="" /></a>
+			<div class="metadata">
+				<span class="storyType"><a href="http://www.taloussanomat.fi/informaatioteknologia/2015/12/13/tuleeko-jalkipelista-nyt-loppu-tappara-ja-ilves-testaavat-alykiekkoa/201516496/12?pos=picks">Digitoday</a></span>
+				<span class="commentsNumber">10</span>
+			</div>
+			<div class="headline"><a href="http://www.taloussanomat.fi/informaatioteknologia/2015/12/13/tuleeko-jalkipelista-nyt-loppu-tappara-ja-ilves-testaavat-alykiekkoa/201516496/12?pos=picks">Tuleeko jälkipelistä nyt loppu? Tappara ja Ilves testaavat älykiekkoa</a></div>
+			<div class="author">Perttu Pitkänen</div>
+			<div class="clear"> </div>
+		</li>
+
+		<li>
+			<a href="http://www.taloussanomat.fi/raha/2015/12/13/hyodynnatko-kunnolla-kotitalousvahennysta-tarjolla-tuhansia-euroja/201516446/139?pos=picks"><img src="http://tiedostot.taloussanomat.fi/files/90_B88257686Z120151211134439000GTNHPI7921.jpg" alt="" /></a>
+			<div class="metadata">
+				<span class="storyType"><a href="http://www.taloussanomat.fi/raha/2015/12/13/hyodynnatko-kunnolla-kotitalousvahennysta-tarjolla-tuhansia-euroja/201516446/139?pos=picks">Uutinen</a></span>
+				<span class="commentsNumber">61</span>
+			</div>
+			<div class="headline"><a href="http://www.taloussanomat.fi/raha/2015/12/13/hyodynnatko-kunnolla-kotitalousvahennysta-tarjolla-tuhansia-euroja/201516446/139?pos=picks">Hyödynnätkö kunnolla kotitalousvähennystä? Tarjolla tuhansia euroja</a></div>
+			<div class="author">Outi Kokko</div>
+			<div class="clear"> </div>
+		</li>
+
+		<li>
+			<a href="http://www.taloussanomat.fi/porssi/2015/12/13/pian-tama-ankeus-on-vanhaa-hyvaa-aikaa/201516472/170?pos=picks"><img src="http://tiedostot.taloussanomat.fi/files/90_B88261765Z120151211185537000G76HQFIA21.jpg" alt="" /></a>
+			<div class="metadata">
+				<span class="storyType"><a href="http://www.taloussanomat.fi/porssi/2015/12/13/pian-tama-ankeus-on-vanhaa-hyvaa-aikaa/201516472/170?pos=picks">Analyysi</a></span>
+				<span class="commentsNumber">177</span>
+			</div>
+			<div class="headline"><a href="http://www.taloussanomat.fi/porssi/2015/12/13/pian-tama-ankeus-on-vanhaa-hyvaa-aikaa/201516472/170?pos=picks">Pian tämä ankeus on vanhaa hyvää aikaa</a></div>
+			<div class="author">Jan Hurri</div>
+			<div class="clear"> </div>
+		</li>
+
+		<li>
+			<a href="http://www.taloussanomat.fi/raha/2015/12/12/haluatko-joululahjat-alehinnoin-nain-se-kay/201516453/139?pos=picks"><img src="http://tiedostot.taloussanomat.fi/files/90_B88260304Z120151211152053000GIAHQ4J721.jpg" alt="" /></a>
+			<div class="metadata">
+				<span class="storyType"><a href="http://www.taloussanomat.fi/raha/2015/12/12/haluatko-joululahjat-alehinnoin-nain-se-kay/201516453/139?pos=picks">Uutinen</a></span>
+				<span class="commentsNumber">21</span>
+			</div>
+			<div class="headline"><a href="http://www.taloussanomat.fi/raha/2015/12/12/haluatko-joululahjat-alehinnoin-nain-se-kay/201516453/139?pos=picks">Haluatko joululahjat alehinnoin – näin se käy</a></div>
+			<div class="author">Outi Kokko</div>
+			<div class="clear"> </div>
+		</li>
+
+		</ul>
+	</div>
+<iframe src="/inc/advertorials/advertorials_iframe_promo.php" width="363" height="265" scrolling="no" frameborder="0" marginwidth="0" marginheight="0"></iframe><div class="multiAds ad">
+	<div class="container">
+
+
+		<div class="row">
+			<div class="multiAd full">
+				
+	<script type="text/javascript">try { cts.render("rectangle2-5"); } catch (err) { cts.log(err); } </script>		
+	
+			</div>
+			<div class="clear"> </div>
+		</div>
+
+		<div class="row">
+			<div class="multiAd first">
+				
+	<script type="text/javascript">try { cts.render("button01"); } catch (err) { cts.log(err); } </script>		
+	
+			</div>
+		
+			<div class="multiAd second">
+				
+	<script type="text/javascript">try { cts.render("button02"); } catch (err) { cts.log(err); } </script>		
+	
+			</div>	
+			<div class="clear"> </div>
+		</div>
+		<div class="clear"> </div>
+
+	</div>	
+</div><!-- kommentoiduimmat nyt -->
+
+<div id="kuumatKeskustelutPromo" class="picksPromo">
+    <div class="promoBox">
+        <div class="subHeading">Kommentoiduimmat nyt</div>
+        <div class="body">	
+
+				<div class="feature">
+					<div class="picture">279</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.taloussanomat.fi/a/201516705">Berneriltä kovaa sapiskaa autoilijoille – "maailman tehottomin järjestelmä"
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Taloussanomat</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+				<div class="feature">
+					<div class="picture">193</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.taloussanomat.fi/a/201516778">80 miljardia vain lojuu Suomessa – näin niillä saataisiin talous nousuun
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Sami Noponen</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+				<div class="feature">
+					<div class="picture">164</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.taloussanomat.fi/a/201516835">Rekkafirmoille kylmää kyytiä – "Suomi häviää tässä muutoksessa"
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Laura Manninen</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+				<div class="feature">
+					<div class="picture">139</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.taloussanomat.fi/a/201516757">Lomalla sairastetaan kohta taas omaan piikkiin – yrittäjät tyytyväisiä
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Taloussanomat</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+				<div class="feature">
+					<div class="picture">130</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.taloussanomat.fi/a/201516789">HS: Sdp kiri suurimmaksi, PS:n alamäki jatkuu
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Taloussanomat</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+				<div class="feature">
+					<div class="picture">118</div>
+					<div class="featureContent">
+						<div class="headline">
+							<a href="http://www.digitoday.fi/p/201516749">Riita rahasta: Ylen HD-lähetykset loppuvat monilta kahden viikon kuluttua
+							<img alt="" src="/img/icon_read_more.png" />
+							</a>
+						</div> <!-- /.headline -->
+						<div class="author">Digitoday</div>
+					</div> <!-- /.featureContent -->
+				</div> <!-- /.feature -->
+				<div class="clear"></div>
+        </div> <!-- /.body -->
+    </div> <!-- /.promoBox -->
+</div> <!-- /#kuumatKeskustelutPromo-->	
+
+<!-- kommentoiduimmat nyt --><!-- gAd  336x280 -->
+<div class="googleAd336x280">
+
+<script type="text/javascript"><!--
+
+		/* 336x280 Uutiset 2012-06-11 */
+		google_ad_slot = "5421587105";
+
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_client = "ca-pub-3078948410672331";
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>	
+
+</div>
+<!-- end GAd --><div id="outlet300x250" class="ad ad300x250">
+<!-- outlet -->
+
+	<script type="text/javascript">try { cts.render("rectangle2-2"); } catch (err) { cts.log(err); } </script>		
+
+</div><!-- teksti alkaa -->
+<p></p>
+
+			<div class="clear">&nbsp;</div>
+			<script type="text/javascript">
+
+$("#newslist120146028").addClass("current");
+$("#newslist220146028").addClass("current");
+
+</script>
+	        	</div>
+	        	<!-- Column 1 B ends -->
+	        	<div class="clear"></div>
+			<div id="bottomAd" class="ad">
+
+
+
+</div>
+	        	<div class="clear"></div>
+		    <!-- dilbert -->
+
+                     <div class="clear"></div> 
+		    <!--jb3_980x400-->
+<div id="mb2" class="adAfterNavi728x90 ad">
+	<script type="text/javascript">try { cts.render("middlebanner02"); } catch (err) { cts.log(err); } </script>		
+</div> 
+	            <div class="clear"></div>
+		</div>
+	    <!-- Column 1 ends -->
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div><!-- page ends -->
+	<!-- Column 2 starts -->
+	<div id="col2">	
+		<div id="col2Ad1" class="col2Ad ad">
+
+
+	<script type="text/javascript">try { cts.render("side01"); } catch (err) { cts.log(err); } </script>		
+
+
+</div>
+
+<div id="col2Ad2" class="col2Ad ad">
+
+
+	<script type="text/javascript">try { cts.render("side02"); } catch (err) { cts.log(err); } </script>		
+
+
+</div>
+
+<div id="col2Ad3" class="col2Ad ad">
+</div>
+
+
+<div id="col2Ad4" class="col2Ad ad">
+
+</div>
+
+<div id="col2Ad5" class="col2Ad ad">
+
+</div>
+
+<div id="col2Ad6" class="col2Ad ad">
+
+</div>
+
+<div id="col2Ad7"  class="col2Ad ad">
+
+</div>
+
+<!-- Banner Partners -->
+
+
+
+<!-- /Banner Partners -->
+
+
+
+<div id="fixedSideAd" class="col2Ad ad">
+<!-- Floater ad -->
+
+
+
+</div>
+<!-- /Floater ad -->
+<!-- </div> -->
+ 	</div>
+	<!-- Column 2 ends -->
+	</div> <!-- newContainer ends -->
+	<div class="clear"> </div>
+</div> <!-- /#allWrapper -->
+
+        <!--Pagepeel-->
+
+	    <!-- Contact info starts -->
+<footer>
+    <div id="contactInfoArea">
+        <div id="contactInfo">
+
+            <a href="http://www.taloussanomat.fi/"><img class="logo" src="/img/logo_taloussanomat_150_35.png" alt="Taloussanomat logo" title="Taloussanomat.fi - uutiset, analyysit ja pörssi" width="150" height="35" /></a>
+            <table class="col1">
+                <tr>
+                    <th>Yritys</th>
+                    <td><a href="/yritysesittely/">Sanoma Media Finland Oy / Taloussanomat</a></td>
+                </tr>
+                <tr>
+                    <th>Postiosoite</th>
+                    <td>Taloussanomat PL 45<br />00089 SANOMA</td>
+                </tr>
+                <tr>
+                    <th>Käyntiosoite</th>
+                    <td>Töölönlahdenkatu 2, Helsinki</td>
+                </tr>
+                <tr>
+                    <th>Puhelin</th>
+                    <td>+358 9 1221</td>
+                </tr>
+                <tr>
+                    <th>Sähköposti</th>
+                    <td><a href="mailto:taloussanomat@sanoma.fi">taloussanomat@sanoma.fi</a></td>
+                </tr>
+            </table>
+            <table class="col2">
+                <tr>
+                    <th>Kustantaja, vastaava <br />päätoimittaja</th>
+                    <td><a href="/toimitus/">Tapio Sadeoja</a></td>
+                </tr>
+                <tr>
+                    <th>Esimies</th>
+                    <td><a href="/toimitus/">Heidi Hagelin</a></td>
+                </tr>
+    
+                <tr>
+                    <th><a href="/mediatiedot/">Mediamyynti</a></th>
+                    <td><a href="http://mediatiedot.taloussanomat.fi/index.php/yhteystiedot">Yhteystiedot</a><br /></td>
+                </tr>
+            </table>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <!-- Contact info ends -->
+    <!-- Footer starts -->
+    <div id="footerArea">
+        <div class="footerContainer">
+            <div id="footer">
+                <ul class="footerNav">
+					<li class="item first">&copy; Sanoma Media Finland Oy, a Sanoma company</li>
+                    <li class="item">
+                        <a href="/rekisteriseloste-sivusto">Rekisteriseloste</a>
+                    </li>
+                    <li class="item">
+                        <a href="/kayttoehdot">Käyttöehdot</a>
+                    </li>
+                    <li class="item">
+                        <a href="http://www.sanoma.fi/tietosuojalauseke">Tietosuoja</a>
+                    </li>
+                    <li class="item">
+                        <a href="/sivuston-esittely/">Tietoa sivustosta</a>
+                    </li>
+                </ul><div class="oba"><a href="http://www.youronlinechoices.com/fi/" target="_blank">Käyttäytymiseen perustuva mainonta <img src="/img/oba.png" alt=""></a></div>
+				<div class="clear"> </div>
+            </div>
+			<p>
+			   Market information: Copyright &copy; Sanoma Media Finland Oy, implemented by NFS, powered by <a href="http://www.interactivedata-ms.com" target="_blank">Interactive Data Managed Solutions</a>
+			</p>
+        </div>
+        <div class="clear"></div>
+    </div>
+</footer>
+<!-- Footer ends -->
+
+
+
+<script type="text/javascript" src="/js/spring.js">
+</script>
+<script type="text/javascript">
+var sp_e0 = {
+"s":"talsa",
+"cp":"talsa/taloussanomat/porssi",
+"url":document.location.href
+}
+spring.c(sp_e0);
+</script>
+<noscript><img src="http://talsa.spring-tns.net/j0=,,,;+,,cp=talsa/taloussanomat/porssi;;;;" alt=""></noscript>
+
+<script type="text/javascript"> 
+// <![CDATA[
+function udm_(a){var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));a+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer),a[h]>i&&a[f](l)>0&&(j=a[g](0,i-8).lastIndexOf(l),a=(a[g](0,j)+k+"cut="+r(a[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=a):c.write("<","p","><",'img src="',a,'" height="1" width="1" alt="*"',"><","/p",">")}
+udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=6035634&ns_site=taloussanomat-fi&name=taloussanomat.porssi.page');
+// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035634&amp;ns_site=taloussanomat-fi&amp;name=taloussanomat.porssi.page" height="1" width="1" alt="*"></p></noscript> 
+<script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/6035634/cs.js"></script>
+<!-- Insight tags -->
+
+<script>
+<!--    
+  var v_zig = {};
+  if ($.cookie("shogid")) {
+    v_zig["shogid"] = $.cookie("shogid");
+  } else {
+    v_zig["shogid"] = 0;
+  }
+
+-->
+</script>
+
+
+<!-- DOP -->
+<script src="http://static.sanoma.fi/weba/js/ls/zig.js"></script>
+
+<!-- Insight registration tag -->
+<script>
+<!--
+  if (typeof(shogid) !== 'undefined') {
+    sanoma.ajax.track({ shogphase:'registration-sh', shogid: shogid});
+  }
+-->
+</script> 
+
+
+
+	<script>
+	  var v_sat = {
+	/*    aid: 'asdaf',
+		eid: 'iscookie123',*/
+		sit: 'talsa',
+		cha: 'web',
+		cat: 'pörssi',
+		cid: '20146028',
+		evt: 'content'
+	  };
+
+	/*  var v_csat = {
+	is1: 'foo',
+		is2: 'bar'
+	  };  */
+  
+	  (function() {
+		var sat = document.createElement('script'); sat.type = 'text/javascript'; sat.async = true;
+		sat.src = 'http://sat.sanoma.fi/js/sat.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sat, s);
+	  })();
+	</script>
+
+	<script type='text/javascript'>
+	    var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 54060;
+	    _sf_async_config.domain = 'taloussanomat.fi';
+	    _sf_async_config.useCanonical = true;
+	    _sf_async_config.sections = 'xTaloussanomat,pörssi';
+	    _sf_async_config.authors = 'Taloussanomat';
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement('script');
+	        e.setAttribute('language', 'javascript');
+	        e.setAttribute('type', 'text/javascript');
+	        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != 'function') ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
+	</script>
+
+
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","5502d22d93","5576250","MQRXMEtYXEFTBxdQWghOYBZQFkFbRBFNSV0W",0,275,new Date().getTime(),"","","","",""]);</script></body>
+</html>
+<!-- Dynamically created by Navia CMS v3 (c) Naviatech Solutions Oy 2007. http://www.naviatech.fi/ -->
