@@ -1,0 +1,257 @@
+<HEADLINE>	
+Tässä	
+tietokoneessa	
+avoimuus	
+ei	
+jää	
+pelkkään	
+softaan	
+	
+<DATE>	
+16.1.2014 15:52	
+	
+<INGRESS>	
+Hakkeri	tit
+Andrew	per
+"	per
+Bunny	per
+"	per
+Huangin	per
+kannettava	
+tietokone	
+poikkeaa	
+massasta	
+.	
+	
+Siinä	
+ei	
+ole	
+avointa	
+vain	
+softa	
+,	
+vaan	
+mahdollisuuksien	
+mukaan	
+myös	
+itse	
+laitteisto	
+.	
+	
+Vuonna	
+2012	
+syntynyt	
+idea	
+on	
+nyt	
+materialisoitunut	
+prototyypiksi	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Kannettavia	
+tietokoneita	
+on	
+monenlaisia	
+.	
+	
+Pieniä	
+,	
+suuria	
+,	
+keskikokoisia	
+ja	
+kaikkea	
+niiden	
+väliltä	
+.	
+	
+Jokaista	
+kuitenkin	
+vaivaa	
+sama	
+ongelma	
+:	
+ne	
+eivät	
+edusta	
+avointa	
+lähdekoodia	
+kuin	
+korkeintaan	
+käyttöjärjestelmältään	
+–	
+jos	
+siis	
+koneen	
+sisällä	
+hyrrää	
+Linux	pro
+.	
+	
+<PARAGRAPH>	
+Andrew	per
+"	per
+Bunny	per
+"	per
+Huangille	per
+tämä	
+ei	
+riittänyt	
+.	
+	
+Hän	
+halusi	
+luoda	
+kannettavan	
+tietokoneen	
+,	
+joka	
+on	
+täysin	
+avointa	
+lähdekoodia	
+ja	
+jonka	
+jokainen	
+teknisesti	
+orientoitunut	
+voi	
+halutessaan	
+rakentaa	
+itse	
+.	
+	
+Tuloksena	
+syntyi	
+Project	pro
+Novena	pro
+.	
+	
+Jopa	
+Novenan	pro
+sisältämä	
+rauta	
+on	
+mahdollisuuksien	
+mukaan	
+valittu	
+siten	
+,	
+että	
+sen	
+käyttämien	
+komponenttien	
+dokumentointi	
+on	
+avointa	
+ja	
+jokaisen	
+saatavilla	
+.	
+	
+Tarkat	
+piirustukset	
+on	
+julkaistu	
+projektin	
+wiki-sivuilla	
+.	
+	
+<PARAGRAPH>	
+Avoimuus	
+jatkuu	
+spekseissä	
+	
+<PARAGRAPH>	
+Project	pro
+Novenan	pro
+tuloksena	
+syntyneen	
+kannettavan	
+sisällä	
+kehrää	
+1,2	
+gigahertsin	
+taajuudella	
+toimiva	
+Freescalen	org
+iMX6-suoritin	pro
+.	
+	
+Kyse	
+ei	
+ole	
+mistä	
+tahansa	
+suorittimesta	
+,	
+sillä	
+iMX6	pro
+:	pro
+n	pro
+lähes	
+täydellinen	
+ohjelmointikäsikirja	
+on	
+vapaassa	
+jakelussa	
+yhtiön	
+verkkosivuilla	
+.	
+	
+<PARAGRAPH>	
+Novenan	pro
+näyttö	
+on	
+13-tuumainen	
+paneeli	
+,	
+jonka	
+maksimitarkkuus	
+on	
+2460	
+x	
+1700	
+pikseliä	
+.	
+	
+<PARAGRAPH>	
+Novenan	pro
+on	
+rakentanut	
+Sean	per
+“xobs”	per
+Cross	per
+yhdessä	
+Andrew	per
+"	per
+Bunny	per
+"	per
+Huangin	per
+kanssa	
+.	
+	
+Jälleenmyyntihintaa	
+ei	
+toistaiseksi	
+ole	
+julkistettu	
+.	
+	
+Suunnitteilla	
+on	
+myös	
+erillinen	
+,	
+yksinkertaisempi	
+ja	
+halvempi	
+versio	
+,	
+jonka	
+rahoitus	
+turvattaisiin	
+joukkorahoituksella	
+.	
