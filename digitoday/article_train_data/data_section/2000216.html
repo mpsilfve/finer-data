@@ -1,0 +1,1819 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script>
+
+!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,h=/(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,i=/IEMobile/i,j=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,k=/BlackBerry/i,l=/BB10/i,m=/Opera Mini/i,n=/(CriOS|Chrome)(?=.*\bMobile\b)/i,o=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,p=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),q=function(a,b){return a.test(b)},r=function(a){var r=a||navigator.userAgent,s=r.split("[FBAN");return"undefined"!=typeof s[1]&&(r=s[0]),this.apple={phone:q(b,r),ipod:q(c,r),tablet:!q(b,r)&&q(d,r),device:q(b,r)||q(c,r)||q(d,r)},this.amazon={phone:q(g,r),tablet:!q(g,r)&&q(h,r),device:q(g,r)||q(h,r)},this.android={phone:q(g,r)||q(e,r),tablet:!q(g,r)&&!q(e,r)&&(q(h,r)||q(f,r)),device:q(g,r)||q(h,r)||q(e,r)||q(f,r)},this.windows={phone:q(i,r),tablet:q(j,r),device:q(i,r)||q(j,r)},this.other={blackberry:q(k,r),blackberry10:q(l,r),opera:q(m,r),firefox:q(o,r),chrome:q(n,r),device:q(k,r)||q(l,r)||q(m,r)||q(o,r)||q(n,r)},this.seven_inch=q(p,r),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},s=function(){var a=new r;return a.Class=r,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=r:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=s():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=s()):a.isMobile=s()}(this);
+
+var siteName = 'digitoday';
+var siteCookieLifeTime = 365;
+var xmlHttp = '';
+var mobileVersion = 'main';
+// newsId
+
+function varIsSet(varname) {
+    return ( typeof(window[varname]) != 'undefined' );
+}
+
+function forwardGetParameters(url) {
+	var params = window.location.search.substring(1);
+
+	if (params.length > 0) {
+		return url + '?' + params;
+	}
+	
+	return url;
+
+}
+
+function generateMobileUrl(mversion) {
+
+    var originalUrl = window.location.href;
+	var newUrl = false;
+
+    var articleSearch = "http:\/\/www\." + siteName + ".fi\/[0-9a-zA-Z\-^\/]*\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[0-9a-z\-^\/]*\/([0-9[^\/]*)\/[0-9]{2,3}";
+	var reArticle = new RegExp(articleSearch, 'g');
+
+    var advertSearch = "http:\/\/www\." + siteName + ".fi\/d\/([a-z\-0-9]+)";
+	var reAdvert = new RegExp(advertSearch, 'g');
+   
+    var phpGeneratedUrl = "http://m.digitoday.fi/p/20145190";
+var pageId = 66;
+ 
+    
+    if (pageId==63) {
+
+        var newUrl = 'http://m.' + siteName + '.fi/';
+
+    } else if (varIsSet('newsId')) {
+    
+        newUrl = 'http://m.' + siteName + '.fi/a/' + newsId;
+        
+    } else if (
+    	originalUrl.match(reArticle)
+    	|| originalUrl.match(reAdvert)
+    	|| originalUrl.match(reProtest)
+    	) {
+    
+    	newUrl = originalUrl.replace('://www.', '://m.');
+    } else if (/\?page=/i.test(phpGeneratedUrl)) {
+        var newUrl = phpGeneratedUrl;
+    } else {
+        var newUrl = false;
+    }
+    
+    if (newUrl) {
+	    newUrl = forwardGetParameters(newUrl);
+	}
+    
+    return newUrl;
+}
+
+function readCookie( check_name ) {
+	var a_all_cookies = document.cookie.split( ';' );
+	var a_temp_cookie = '';
+	var cookie_name = '';
+	var cookie_value = '';
+	var b_cookie_found = false; 
+	
+	for ( i = 0; i < a_all_cookies.length; i++) {
+		a_temp_cookie = a_all_cookies[i].split( '=' );
+
+		cookie_name = a_temp_cookie[0].replace(/^\s+|\s+$/g, '');
+	
+		if (cookie_name == check_name) {
+			b_cookie_found = true;
+
+			if (a_temp_cookie.length > 1) {
+				cookie_value = unescape(a_temp_cookie[1].replace(/^\s+|\s+$/g, ''));
+			}
+			return cookie_value;
+			break;
+		}
+		a_temp_cookie = null;
+		cookie_name = '';
+	}
+	if (!b_cookie_found) {
+		return null;
+	}
+}
+
+function createCookie(name, value, days) {
+    setCookie(name, value, days, '/', '.' + siteName + '.fi');
+}
+
+function setCookie(name, value, expires, path, domain, secure) {
+    var today = new Date();
+    today.setTime(today.getTime());
+    
+    if (expires) {
+        expires = expires * 1000 * 60 * 60 * 24;
+    }
+    var expires_date = new Date(today.getTime() + (expires));
+
+    document.cookie = name + "=" +escape(value) +
+    /*((expires) ? ";expires=" + expires_date.toGMTString() : "") + */
+    ";expires=0" + 
+    ((path) ? ";path=" + path : "") + 
+    ((domain) ? ";domain=" + domain : "") +
+    ((secure) ? ";secure" : "");
+}
+	
+
+function processUA() {
+
+	if (isMobile.phone) {
+	
+		var mobiUrl = generateMobileUrl('mobile');
+		
+		if (mobiUrl) {
+			createCookie('site', 'mobile', siteCookieLifeTime);
+			window.location.href = mobiUrl;
+		}
+	} else {
+	
+        createCookie('site', 'main', siteCookieLifeTime);
+        
+	}
+}
+
+var siteCookie = readCookie('site');
+var fullUrl = window.location.toString();
+
+if (fullUrl.match('non=1')) {
+
+	createCookie('site', 'main', siteCookieLifeTime);
+	
+} else if (siteCookie == 'mobile') {
+        
+	var mobiUrl = generateMobileUrl(siteCookie);
+	
+	if (mobiUrl) {
+		window.location = mobiUrl;
+	}
+        
+} else {
+
+	if (siteCookie != 'main' && 
+		!eval("/m."+siteName+".fi/i").test(document.referrer)) {
+	
+		processUA();
+		
+	} else {
+		if (siteCookie != 'main') {
+			createCookie('site', 'main', siteCookieLifeTime);
+		}
+	}
+
+}
+
+</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    
+    <!-- CACHE TAGS -->
+    <meta name="MSSmartTagsPreventParsing" content="true">
+    <meta http-equiv="imagetoolbar" content="false">
+
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+    <!-- robots -->
+		<meta name="robots" content="index, follow, noodp">
+
+    <link title="Digitodayn uutishaku" rel="search" type="application/opensearchdescription+xml" href="http://www.digitoday.fi/digitoday_haku.xml" />
+
+
+    <link href="/css.php?ver=007" rel="stylesheet" type="text/css" media="all">
+  
+
+<!--    <link href="/css/picture_set_video.css,t-navigation.css,otapart.css,oikotie_dt_premium.css," rel="stylesheet" type="text/css" media="all">
+    <link href="/css/reset-meyer.css,layout.css,hintaseuranta.css,keskustelut.css,forum.css,comments.css,compatbits.css,jquery.lightbox-0.4.css" rel="stylesheet" type="text/css" media="all">-->
+
+
+<!--    <link href="/css/reset-meyer.css,layout.css,keskustelut.css,forum.css,comments.css,compatbits.css,jquery.lightbox-0.4.css,picture_set_video.css,t-navigation.css,hintaseuranta.css,otapart.css" rel="stylesheet" type="text/css" media="all"> -->
+    <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+<!--    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script> -->
+    <script type="text/javascript" src="/js/jquery-1.7.2.min.js"></script> 
+    <script type="text/javascript" src="/js/jquery.cookie.js?ver=004"></script> 
+    <script type="text/javascript" src="/js/jquery.plugins.js?v=001"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+    <script type="text/javascript" src="/js/jquery-fieldselection.js"></script>
+    <script type="text/javascript" src="/js/charCount.js"></script> 
+    <script type="text/javascript" src="/js/rating.js"></script>
+    <script type="text/javascript" src="/js/jquery.lightbox-0.4-modified.js"></script>
+    <script type="text/javascript" src="/js/sf_ie6_dt.js"></script>
+    <script type="text/javascript" src="/inc/rekisteroityminen/userLoggedIn.js"></script>
+    <script type="text/javascript" src="/js/forumFunctions.js"></script>
+    <script type="text/javascript" src="/js/promobox_loader-dt.js"></script>
+    <script type="text/javascript">
+
+
+
+$(document).ready(function() {
+
+    /*$('#loginFormArea').load('/loginBar.php', 0, function () {
+        sfHover('userNav'); // Fix suckerfish for IE6
+    });*/
+
+    //if ($("#frame")[0].offsetHeight < $("#adsOnRight")[0].offsetHeight) {
+    //    $("#frame")[0].style.height = 20 + $("#adsOnRight")[0].offsetHeight + 'px';
+    //}
+
+    $('#filterHelpLink').click(function(){
+        $('#filterHelp').toggle();
+        return false;
+    });
+
+    // God save IE6...
+    if ($.browser.msie && parseInt($.browser.version) == 6) {
+        $('#frame').css({ zoom: '1' });
+        sfHover('utilityNav'); // Fix suckerfish for IE6
+    }
+
+if ($('#floater').length > 0) {
+
+    // Flowing ad
+    var flowAdState = 0;
+    var flowAdOffsetY = $('#floater').position().top;
+    var flowAdOffsetX = $('#floater').position().left;
+    var isIE6 = ($.browser.msie && parseInt($.browser.version) < 7) ? true : false;
+
+    $(window).scroll(function () {
+        if ($(document).scrollTop() >= flowAdOffsetY-12 ) {
+            if (flowAdState == 0) {
+                flowAdState = 1;
+                if (!isIE6) {
+                    $("#floater").css({ position: "fixed", top: "10px" });
+                }
+                $("#floater").addClass('flowing');
+            }
+        } else {
+            if (flowAdState == 1) {
+                flowAdState = 0;
+                if (!isIE6) {
+                    $("#floater").css({ position: "static" , top: "0px" });
+                }
+                $("#floater").removeClass('flowing');
+            }
+        }
+    });
+
+}
+
+});
+    google_ad_client = "pub-4165631538991685";
+    </script>
+
+<link rel="alternate" media="handheld" href="http://m.digitoday.fi/?page=showSingleNews&newsID=20145190" title="Digitoday Mobile" />
+       <meta name="apple-itunes-app" content="app-id=444087124, app-argument=taloussanomat://a/20145190" />
+    <script type="text/javascript" src="/js/pg66.js"></script>
+    <script type="text/javascript" src="/js/pg63-64-66.js"></script>
+    <script type="text/javascript" src="/js/jquery.thickbox.js"></script>
+    <style type="text/css" media="screen">
+
+@import "/css/thickbox.css";
+
+a.thickbox {
+    float: left;
+    display: block;
+    margin: 0 10px 10px 0;
+    padding: 5px 5px 2px 5px;
+    border: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #999;
+    text-align: center;
+}
+
+</style>
+
+    <style type="text/css">
+
+.adGoogleOld {
+    margin: 5px 0;
+
+}
+
+.ad_header {
+    margin: 1em 0;
+    font-weight: bold;
+}
+
+.afc_title {
+    clear: both;
+    margin: 15px 0 3px;
+    padding: 3px 5px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 14px;
+    border-bottom: 2px solid #ccc;
+    background-color: #333;
+}
+
+.afc_title a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+
+.featuresSingleCol {
+    float: left;
+    width: 140px;
+    overflow: hidden;
+    margin: 0 10px 0 0;
+}
+
+.featuresSingleCol.right {
+    clear: none;
+    margin: 0;
+}
+
+.taloussanomat-headlines h3 {
+	padding: 3px 5px 0 70px;
+	font-size: 12px;
+	background-image: url(/img/header_taloussanomat_headlines.gif);
+}
+
+/* Insta-tyylit */
+
+.storyCollectionPromo {
+    margin: 30px 0;
+}
+
+.storyCollectionPromo .scpFrame {
+    margin: 12px;
+    padding: 15px 15px 15px 10px;
+    border: 1px solid #d8d8d8;
+}
+
+#mwcPromo {
+    position: relative;
+}
+
+#mwcPromo .scpLogo {
+    position: absolute;
+    z-index: 2;
+    top: -12px;
+    width: 209px;
+    height: 67px;
+} * html #mwcPromo .scpLogo {
+    left: -12px;
+}
+
+#mwcPromo h2.scpTitle {
+    margin: 0 0;
+    color: #90348e;
+    font-family: Verdana, sans-serif;
+    font-size: 9px;
+    letter-spacing: 0;
+    text-align: right;
+}
+
+.scRss {
+    float: right;
+}
+
+.storyCollectionPromo .more {
+    padding-left: 5px;
+}
+
+.storyCollectionPromo .more a {
+    padding-right: 14px;
+    background-image: url(/img/icon_triangle_left.gif);
+    background-position: right 90%;
+    background-repeat: no-repeat;
+}
+
+.storyCollectionPromo .newsListing {
+    margin-top: 10px;
+}
+
+.storyCollectionPromo .imageOnRight {
+    margin-right: 0;
+}
+
+.storyCollectionPromo .headlinesFeature {
+    border: 0;
+}
+
+.content .headlinesFeature ul {
+    list-style: none;
+}
+
+#logoNetwork {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    margin: -4px 12px 0 -4px;
+    /*border: 4px solid #fff;*/
+}
+
+#siteBar {
+    position: relative;
+    z-index: 4;
+}
+
+#siteVersions {
+    margin-left: 88px;
+}
+
+#siteNav .first {
+    margin-left: 88px;
+}
+
+</style>
+
+<!--[if lte IE 6]>
+<style type="text/css">
+    body { background: url(hack) fixed; }
+    #floater.flowing { position: absolute; }
+    #floater.flowing {
+        left: 0;
+    }
+    #floater.flowing {
+        top: expression(
+            offset = 0 + parseInt(document.body.currentStyle.paddingTop) + 
+                parseInt(document.body.currentStyle.marginTop),
+            document.documentElement.scrollTop + offset + 'px'
+        );
+    }
+
+    #loginFormArea ul#userNav {
+        display: inline;
+    }
+
+    #loginBar span.item.first {
+        margin-right: 0.8em;
+    }
+
+    #loginBar span.item {
+        margin-left: 0;
+     }
+
+</style>
+<![endif]-->
+<title>Bugittaako Windows-päivitys? Kokeile tätä</title><meta name="og:title" content="Bugittaako Windows-päivitys? Kokeile tätä" />
+<meta name="description" content="Windows 8.1 Update ei monessa tapauksessa ole suostunut asentumaan. Keinoja ongelman kiertämiseksi kuitenkin on Microsoftin korjausta odotettaessa." /><meta name="og:description" content="Windows 8.1 Update ei monessa tapauksessa ole suostunut asentumaan. Keinoja ongelman kiertämiseksi kuitenkin on Microsoftin korjausta odotettaessa." />
+<meta name="medium" content="news" /><meta property="og:image" content="http://www.digitoday.fi/img4x3.php?f=win81update2.jpg&w=468">
+	<meta property="al:ios:url" content="taloussanomat://a/20145190" />
+	<meta property="al:ios:app_store_id" content="444087124" />
+	<meta property="al:ios:app_name" content="Taloussanomat" />	
+
+	<meta name="twitter:card" content="app" />
+	<meta name="twitter:app:country" content="FI" />
+	<meta name="twitter:app:name:iphone" content="Taloussanomat">
+	<meta name="twitter:app:id:iphone" content="444087124">
+	<meta name="twitter:app:url:iphone" content="taloussanomat://a/20145190">
+	<meta name="twitter:app:name:ipad" content="Taloussanomat">
+	<meta name="twitter:app:id:ipad" content="444087124">
+	<meta name="twitter:app:url:ipad" content="taloussanomat://a/20145190">	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@digitoday">
+
+<link rel="canonical" href="http://www.digitoday.fi/data/2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66" />
+
+
+<meta property="fb:page_id" content="135549075573" />
+<meta property="fb:admins" content="522073531,579578013,543637478" />
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@digitoday">
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <!-- rss + title -->
+<link rel="alternate" type="application/rss+xml" href="/feeds/digitoday-data.xml" title="Data / Digitoday">
+<title>Windows 8.1 Updaten asennus epäonnistuu joillakin / Data / Digitoday</title>
+<meta name="description" content="10.4.2014 klo 15:54 - Windows 8.1 Update ei monessa tapauksessa ole suostunut asentumaan. Keinoja ongelman kiertämiseksi kuitenkin on Microsoftin korjausta odotettaessa.">
+
+
+    
+		<script type="text/javascript" src="http://cts.sanoma.fi/service/js/digitoday-fi/data/"></script>
+		
+		<script type="text/javascript">
+			try {
+				cts = new Tagging({'tags': 'ohjelmistopäivitys'});
+				cts.render("head");
+			}
+			catch (err) { cts.log(err); }
+		</script>
+
+</head>
+<body>
+<!-- gtm -->
+
+		<script>
+			/* GTM datalayer */
+			dataLayer = [{"page":{"pageinfo":{"pagename":"Bugittaako Windows-p\u00e4ivitys? Kokeile t\u00e4t\u00e4","variant":"Control","pageid":"20145190","publisheddate":"1397134440","author":"Digitoday"},"category":{"pagetype":"Article","categoryid":"talsa\/digitoday\/","fullcategory":"\/data"}},"user":{"segment":{"isloggedin":"not logged in"}}}];
+		</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N64KVK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N64KVK');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="adsOnTop">
+    <div id="ad728-1" class="ad">
+
+	<script type="text/javascript">try { cts.render("top"); } catch (err) { cts.log(err); } </script>		
+
+
+</div>
+</div><!--/adsOnTop-->
+<div id="ie6navigation">
+	<iframe id="ie6cover"></iframe>
+</div>
+
+<!-- Site bar starts -->
+<div id="siteBarArea">
+    <div id="siteBar">
+        <a id="logoNetwork" href="http://www.taloussanomat.fi/"><img src="/img/logo_taloussanomat_72x48.png" alt="Taloussanomat" /></a>
+        <ul id="siteNav">
+            <li class="item first"><a href="http://www.taloussanomat.fi/">Taloussanomat</a></li>
+            <li class="item"><a href="http://www.itviikko.fi/">It-viikko</a></li>
+            <li class="item"><a class="selected" href="http://www.digitoday.fi/">Digitoday</a></li>
+            
+            <li class="item"><a href="http://m.digitoday.fi/?page=showSingleNews&newsID=20145190">Mobiiliversio</a></li>
+        </ul>
+        <ul id="utilityNav">
+            <li>
+                <div class="itemBg"><span class="isDropDown">Palvelut</span></div>
+                <div class="dropDownShadow">
+                    <div class="dropDown">
+                        <ul>
+                            <li><a href="http://www.taloussanomat.fi/uutiskirje/">Uutiskirjeet</a></li>
+                            <li><a href="/rss/">RSS-sy&ouml;tteet</a></li>
+                            <li><a href="http://www.taloussanomat.fi/rekisteriseloste-sivusto/">Rekisteriseloste</a></li>
+                            <li><a href="http://www.taloussanomat.fi/kayttoehdot/">K&auml;ytt&ouml;ehdot</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+
+            <!-- <li>
+                <div class="itemBg"><span class="isDropDown">Osallistu</span></div>
+                <div class="dropDownShadow">
+                    <div class="dropDown">
+                        <ul>
+                            <li><a href="/keskustelut/">Keskustelut</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </li> -->
+            <li>
+                <div class="itemBg"><span class="isDropDown">Yhteydenotot</span></div>
+                <div class="dropDownShadow">
+                    <div class="dropDown">
+                        <ul>
+                            <li><a href="/toimitus/#palaute">Juttuvinkit ja palaute</a></li>
+                            <li><a href="/toimitus/">Toimitus ja yhteystiedot</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </li>
+
+<!--            <li>
+                <div class="itemBg"><span class="isDropDown">Mediatiedot</span></div>
+                <div class="dropDownShadow">
+                    <div class="dropDown">
+                        <ul>
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/digitoday/">Mediakortti</a></li>
+                            
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/">Ajankohtaista</a></li>
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/mediatuotteet/">Mediatuotteet</a></li>
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/mainospaikat/">Mainospaikat</a></li>
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/tutkimukset/">Tutkimukset</a></li>
+                            <li><a href="http://www.taloussanomat.fi/mediatiedot/ota-yhteytta/">Ota yhteytt&auml;</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </li> -->
+
+        </ul>
+        
+    </div>
+</div>
+<!-- Site bar ends -->
+<div id="frame" class="storyPage">
+    <div id="innerframe">
+        <div id="header">
+            <div id="logoAndSearch">
+                <div id="search">
+                    <div class="small">
+                        <a href="/haku/" onclick="$('#hakuohje').toggle(); return false;">Ohje</a>
+                    </div>
+                    <form id="headerSearchForm" method="get" action="/haku/">
+                        <input type="text" name="needle" id="q" value="" class="tf_l">
+                        <input type="submit" id="hae" value="Hae" class="button">
+                        
+                        <div id="hakuohje">
+                            <a href="/haku/" onclick="$('#hakuohje').toggle(); return false;">Sulje</a>
+                            <h3>Hakuohje</h3>
+                            <ul class="list">
+                            	<li>TAI-sanalla saat osumia, joissa esiintyy jokin hakusanoista: <strong class="hi">hakusana1 TAI hakusana2</strong></li>
+                            	<li>Välimerkit hakusanojen välillä tulkitaan JA-sanaksi: <strong class="hi">hakusana1 hakusana2</strong> = hakusana1 JA hakusana2</li>
+                            	<li>Lainausmerkeillä voit hakea täsmällisiä fraaseja: <strong class="hi">"koko lauseen haku"</strong></li>
+                            	<li>Rajaa osumia lisäämällä hakusanan eteen miinusmerkki: <strong class="hi">hakusana1 -hakusana2</strong> = hakusana1, mutta EI hakusana2</li>
+                            	<li><strong class="hi">*</strong>-merkki katkaisee hakusanan</li>
+                            </ul>
+                        </div>
+                    </form>
+                </div><!--/search-->
+                <h1 id="logo"><a href="/etusivu">digitoday</a></h1>
+            </div><!--/logoAndSearch-->
+            <div id="mainNav">
+                <ul>
+<li><a href="/etusivu">Etusivu</a></li>
+<li><a href="http://www.taloussanomat.fi/uutiskirje/">Uutiskirjeet</a></li>
+<li><a href="http://www.taloussanomat.fi/toimitus">Toimitus</a></li>
+<li class="talsa omasana"><a href="http://porssi.taloussanomat.fi">Pörssi</a></li>
+<li class="talsa mediasales"><a href="http://www.taloussanomat.fi/mediatiedot/">Mediakortti</a></li>
+
+                    <li class="rss"><a href="/rss">RSS</a></li>
+                </ul>
+            </div><!--/mainNav-->
+            <div id="subNav">
+                <ul>
+					<li class="etusivu"><a href="/">Etusivu</a></li>
+
+					<li class="uutislista"><a href="/uutiset/">Uutislista</a></li>
+<li class="here"><a href="/data">data</a></li>
+<li><a href="/bisnes">bisnes</a></li>
+<li><a href="/mobiili">mobiili</a></li>
+<li><a href="/tyo-ja-ura">työ ja ura</a></li>
+<li><a href="/tietoturva">tietoturva</a></li>
+<li><a href="/tiede-ja-teknologia">tiede ja teknologia</a></li>
+<li><a href="/vimpaimet">vimpaimet</a></li>
+<li><a href="/yhteiskunta">yhteiskunta</a></li>
+<li><a href="/viihde">viihde</a></li>
+<li><a href="/mielipide">mielipide</a></li>
+
+                </ul>
+            </div><!--/subNav-->
+        </div><!--/header-->
+        <div id="content">
+           <div id="news" class="content fullStory">
+                      <!--Uutinen-->
+
+    <div style="margin:0.85em 5px 0;"><img src="/img/icon_mobile_site_16x16.png" alt="" style="vertical-align: -3px;"> <a href="http://m.digitoday.fi/?page=showSingleNews&newsID=20145190">Lue uutinen mobiilisivustolla</a></div>
+<!-- google_ad_section_start -->
+    
+    <!-- ISI_LISTEN_START -->
+    <h1>Bugittaako Windows-päivitys? Kokeile tätä</h1>
+
+                    <div class="imagePanorama">
+                       <img src="http://www.digitoday.fi/img4x3.php?f=win81update2.jpg&w=468" width="468" alt=""><div class="caption ISI_IGNORE"><span class="photographer ISI_IGNORE">Kuva: Microsoft</span></div>
+
+                    </div><p class="ingress"><span class="date">10.4.2014 15:54</span> Windows 8.1 Update ei monessa tapauksessa ole suostunut asentumaan. Keinoja ongelman kiertämiseksi kuitenkin on Microsoftin korjausta odotettaessa.</p>
+<p>Microsoft p&auml;&auml;tti toimittaa Windows 8.1:n ensimm&auml;isen p&auml;ivityksen Windows Updaten kautta ongelmien v&auml;ltt&auml;miseksi.</p>
+
+                <div class="storyTools vertical ISI_IGNORE">
+                    <ul class="facebook">
+	                    <li>
+		                    <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190&layout=button_count&show_faces=true&width=150&action=recommend&font=arial&colorscheme=light&height=21&locale=fi_FI&ref=artikkeli"
+            scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" 
+            allowTransparency="true"></iframe>
+	                    </li>
+                    </ul>
+                    <ul class="twitter">
+	                    <li>
+		                    
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190" class="twitter-share-button" data-lang="fi" data-url="http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190" data-via="digitoday" data-count="horizontal" 
+>Twiittaa</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+	                    </li>
+                    </ul>
+                    <ul id="vote20145190" class="first">
+                        <li class="recommend"><a href="/recommend.php?news_id=20145190&value=0&unajax=1">Suosittele</a></li>
+                        <li class="recommends none"><span>Ei suosituksia</span></li>
+                    </ul>
+                    <ul>
+                        <li class="print"><a href="#" onclick="self.print(); return false;" onclick="pageTracker._trackPageview('/storytools/tulosta/'); return true;">Tulosta</a></li>
+                        <li class="pdf"><a href="/pdf/20145190" target="_blank" onclick="pageTracker._trackPageview('/storytools/tallenna/'); return true;">Pdf-versio</a></li>
+                    </ul>
+                    <ul>
+                        <li class="comment"><a href="#comments">Kommentoi</a></li>
+                        <li class="send"><a href="/laheta/20145190">Lähetä kaverille</a></li>
+
+                    </ul>
+                </div>
+<p> Aiemmin Windows 8.1 -p&auml;ivitys tarjottiin Windows Storen kautta, mutta  sen asennus aiheutti useilla tukun ongelmia. Joillain  k&auml;ytt&ouml;j&auml;rjestelm&auml;p&auml;ivitys ei asentunut lainkaan.</p>
+<p> Nyt n&auml;ytt&auml;&auml; kuitenkin silt&auml;, ettei Microsoftin p&auml;&auml;t&ouml;s julkaista  Windows 8.1 Update Windows Updaten kautta mennyt sek&auml;&auml;n aivan putkeen.  Useat k&auml;ytt&auml;j&auml;t ovat raportoineet asennusongelmista, jotka p&auml;&auml;ttyv&auml;t  virhekoodiin 80073712.</p>
+<p> &ndash; P&auml;ivitys <span>KB2919355</span> asentuu nopeasti 74-prosenttisesti, sitten asennus hidastuu, kunnes p&auml;&auml;st&auml;&auml;n 89 prosentin  kohdalle. Lopulta asennus ep&auml;onnistuu kokonaan ilmoittaen &#39;<span>&lsquo;Couldn&#39;t complete the updates. Undoing Changes</span>, er&auml;s k&auml;ytt&auml;j&auml; kuvailee ongelmaa Microsoftin <a href="http://answers.microsoft.com/en-us/windows/forum/windows8_1-windows_update/windows-81-update-1-failing-to-install-with-errors/c3071122-e903-4775-b659-e98784bc786c?page=10&amp;tm=1397110362538%5C" target="_blank">foorumeilla</a>.</p>
+<p> Microsoft ei toistaiseksi tarjoa ongelmaan korjausta. Jotkut  k&auml;ytt&auml;j&auml;t ovat saaneet j&auml;rjestelm&auml;n toimimaan k&auml;ytt&auml;m&auml;ll&auml; Windows  8.1:st&auml; l&ouml;ytyv&auml;&auml; J&auml;rjestelm&auml;n palautus -toimintoa. T&auml;m&auml; on kuitenkin  hidasta.</p>
+<p> Toinen mahdollinen korjaustapa on <a href="http://news.softpedia.com/news/Windows-8-1-Update-Officially-Launched-Download-Links-Now-Available-436475.shtml" target="_blank">ladata</a> ja asentaa Windows 8.1 Update -p&auml;ivitykset manuaalisesti.</p>
+<p> Ongelmia Windows 8.1 Updaten asennuksessa on raportoitu runsaasti, joten kyseess&auml; ei ole yksitt&auml;istapaus.</p>
+<p></p>
+<p></p>
+<!-- 2014-4 (2014-04-10 15:54:00) -->
+<span style="display: none;">Jutun kirjoitti: Digitoday</span>
+<!-- ISI_LISTEN_STOP -->
+
+<!-- google_ad_section_end -->
+                <div class="authorAndCopyright">
+                    <div class="copyright">
+<a rel="license" href="/lisenssi/20145190"><img src="/img/cc.gif" width="130" height="54" alt="Nime&auml;-Ei muutoksia-Ep&auml;kaupallinen -lisenssi"></a>
+                    </div>
+<div class="agent vcard">
+                    <div class="avatar">
+                        <img src="/img/toimitus/digitoday_48_48.jpg" class="photo" width="48" height="48" alt="">
+                    </div>
+                    <p><strong class="fn author">Digitoday</strong> <br>
+                        <em><a href="mailto:toimitus@digitoday.fi" class="email">toimitus@digitoday.fi</a></em></p>
+</div>
+<p class="license"><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" rel="dc:type">Teksti</span> on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-nd-nc/1.0/fi/">Creative Commons Nimeä-Ei muutoksia-Epäkaupallinen</a> -lisenssillä.</p>
+                </div>
+
+<!--468x60-->
+<div id="ad468-keyword" class="ad">
+<!--AD?size=468x60&pp=1&keyword=-->
+
+</div>
+
+                <div class="storyTools horizontal ISI_IGNORE">
+                    <ul class="facebook">
+	                    <li>
+		                    
+                <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190&layout=standard&show_faces=false&width=400&action=recommend&font=arial&colorscheme=light&height=35&locale=fi_FI&ref=artikkeli" 
+               scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:35px;" 
+               allowTransparency="true"></iframe>
+            
+	                    </li>
+                    </ul>
+                    <ul class="twitter">
+	                    <li>
+		                    
+
+<a href="https://twitter.com/share?url=http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190" class="twitter-share-button" data-lang="fi" data-url="http%3A%2F%2Fwww.digitoday.fi%2Fp%2F20145190" data-via="digitoday" data-count="horizontal" 
+>Twiittaa</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+	                    </li>
+                    </ul>
+                    <ul id="vote20145190" class="first">
+                        <li class="recommend"><a href="/recommend.php?news_id=20145190&value=0&unajax=1">Suosittele</a></li>
+                        <li class="recommends none"><span>Ei suosituksia</span></li>
+                    </ul>
+                    <ul>
+                        <li class="print"><a href="#" onclick="self.print(); return false;" onclick="pageTracker._trackPageview('/storytools/tulosta/'); return true;">Tulosta</a></li>
+                        <li class="pdf"><a href="/pdf/20145190" target="_blank" onclick="pageTracker._trackPageview('/storytools/tallenna/'); return true;">Pdf-versio</a></li>
+                    </ul>
+                    <ul>
+                        <li class="comment"><a href="#comments">Kommentoi</a></li>
+                        <li class="send"><a href="/laheta/20145190">Lähetä kaverille</a></li>
+
+                    </ul>
+                </div>
+
+
+
+                <div class="relatedArticles">
+                    <h3>Aiheeseen liittyviä uutisia</h3>
+                    <h4>Uudemmat</h4>
+                    <ul>
+                        <li><a href="/tietoturva/2014/06/11/ei-enaa-armoa-windows-81n-kayttajille--mutta-miksi-hiljaisuus/20148267/66">Ei enää armoa Windows 8.1:n käyttäjille – mutta miksi hiljaisuus?</a> <span class="date">11.6.2014</span></li>
+                        <li><a href="/tietoturva/2014/05/13/microsoft-huusi-taas-sutta-windows-81-saa-viela-korjauksia/20146741/66">Microsoft huusi taas sutta: Windows 8.1 saa vielä korjauksia</a> <span class="date">13.5.2014</span></li>
+                        <li><a href="/tietoturva/2014/05/08/valtteletko-windows-81-updatea-kohta-katkeaa-tuki/20146507/66">Vältteletkö Windows 8.1 Updatea? Kohta katkeaa tuki</a> <span class="date">8.5.2014</span></li>
+                        <li><a href="/data/2014/04/14/kaksi-kurjinta-virhekoodia-asenna-windows-8-uudestaan/20145340/66">Kaksi kurjinta virhekoodia: Asenna Windows 8 uudestaan</a> <span class="date">14.4.2014</span></li>
+                    </ul>
+                    <h4>Aiemmat</h4>
+                    <ul>
+                        <li><a href="/data/2014/04/04/ole-valmis-microsoft-pakkosyottaa-windows-81n-paivityksen/20144872/66">Ole valmis: Microsoft pakkosyöttää Windows 8.1:n päivityksen</a> <span class="date">4.4.2014</span></li>
+                    </ul>
+                </div>
+
+<img src="/kuva.php?news_id=20145190" alt="" border="0" width="1" height="1"><!-- oikotie tyopaikat -->
+<div class="newsFrontAd ad">
+<div class="separator top"> </div>
+   <div class="centeredAd ad400wide">
+<div id="tyopaikat-joblift--avainpaikat" class="tyopaikat-joblift--dim400x300">
+  <div class="tyopaikat-joblift-header">
+    <div class="tyopaikat-joblift-logo"></div>
+    <a target="_blank" class="tyopaikat-joblift-more" href="http://tyopaikat.oikotie.fi?utm_source=it-premium&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_0"><span></span></a>
+  </div>
+  <div id="tyopaikat-joblift-avainpaikat-wrapper">
+  <div class="tyopaikat-joblift-content">
+        <div class="tyopaikat-joblift-row ">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914377?sRef=BestITJobs&amp;keyJobId=96261&amp;utm_source=it-premium&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <span class="tyopaikat-joblift-job-name">Machine Learning Specialist</span>
+        <span class="tyopaikat-joblift-company-name">Olavus Capital Oy</span>
+      </a>
+    </div>
+        <div class="tyopaikat-joblift-row tyopaikat-joblift-border">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914512?sRef=BestITJobs&amp;keyJobId=96332&amp;utm_source=it-premium&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://www2.oikotie.fi/ext/images/customsize/111291/111291634-1449752769421-20151210150609420.jpg">
+              <span class="tyopaikat-joblift-job-name">Tekninen järjestelmäasiantuntija</span>
+        <span class="tyopaikat-joblift-company-name">Academic Work</span>
+      </a>
+    </div>
+        <div class="tyopaikat-joblift-row tyopaikat-joblift-border">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/914531?sRef=BestITJobs&amp;keyJobId=96361&amp;utm_source=it-premium&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://www2.oikotie.fi/ext/images/customsize/111292/111292795-1449754273260-20151210153113260.jpg">
+              <span class="tyopaikat-joblift-job-name">Järjestelmäasiantuntija</span>
+        <span class="tyopaikat-joblift-company-name">Poolia Suomi Oy / Vahanen</span>
+      </a>
+    </div>
+        <div class="tyopaikat-joblift-row tyopaikat-joblift-border">
+      <a target="_blank" href="http://tyopaikat.oikotie.fi/tyopaikka/912543?sRef=BestITJobs&amp;keyJobId=95885&amp;utm_source=it-premium&amp;utm_campaign=avainpaikka&amp;utm_medium=keybox&amp;utm_term=position_1">
+              <img class="tyopaikat-joblift-job-logo" src="http://www2.oikotie.fi/ext/images/original/64747/64747997.jpg">
+              <span class="tyopaikat-joblift-job-name">.NET Developer</span>
+        <span class="tyopaikat-joblift-company-name">Nigel Frank International Ltd</span>
+      </a>
+    </div>
+      </div>
+  </div>
+  <div class="tyopaikat-joblift-footer">
+    <span></span>
+  </div>
+</div>
+
+    </div>
+</div>
+<!-- end oikotie tyopaikat --><div id="newsFrontAd1" class="ad">
+
+	<script type="text/javascript">try { cts.render("rectangle1-1"); } catch (err) { cts.log(err); } </script>		
+<!--AD?size=300x250&pp=1&keyword=-->
+
+</div><div id="commentsHere"> </div><!-- kommentit -->
+
+		<div class="xcContainer">
+
+		<h3 class="h_mielipide">Kommentit (16)</h3>		
+
+		<div class="xvPagination">
+			<span class="label">Sivut:</span>
+				<a class="page current" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=1#commentsHere">1</a>
+				<a class="page" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=2#commentsHere">2</a>
+				
+			<div class="nextPrevPagination">	
+<span class="button disabled">Edellinen</span><a class="button" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=2#commentsHere">Seuraava</a>
+				</div>
+			<div class="clear"></div>
+		</div>
+	<div id="xce7647066" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647066">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647066">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7647066"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">3</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647066">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647066&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647066&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647066">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Itselläni asentui tablettiin moitteetta ja hyvin on toiminut. Tosin päivitys ei sisältänyt mitään radikaalia. Windows 8 on jo ennestään loistava käyttis, mutta hioitui taas pykälää paremmaksi. Harvoin on tullut käytettyä 30 euroa näin järkevästi. :)
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647066">Anonyymi: Expert</span>
+			<span class="xcCreatedDate">10.4.2014 16:14	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647097" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647097">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647097">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7647097"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">3</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647097">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647097&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647097&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647097">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Asentui hienosti, toisinkuin iOS päivitykset yleensä. Microsoft taas näyttää mallia, miten asiat tehdään ja Apple tulee viisi vuotta perässä, paitsi bugien määrässä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647097">Anonyymi: ex-Apple</span>
+			<span class="xcCreatedDate">10.4.2014 16:49	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647119" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647119">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647119">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">2</span></span>
+				<span class="xcThumb down" id="xctld7647119"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647119">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647119&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647119&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647119">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				<blockquote>Asentui hienosti, toisinkuin iOS päivitykset yleensä. Microsoft taas näyttää mallia, miten asiat tehdään ja Apple tulee viisi vuotta perässä, paitsi bugien määrässä.</blockquote><br />
+<br />
+Miten olet asentanut iossia iMaciin tai MacBook Prohon?
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647119">Anonyymi: apple_falls_fast</span>
+			<span class="xcCreatedDate">10.4.2014 17:08	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647121" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647121">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647121">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">2</span></span>
+				<span class="xcThumb down" id="xctld7647121"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647121">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647121&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647121&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647121">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Tämä ei ainakaan edistä 8.x myyntiä... Onneksi w7 seiska pelaa vielä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647121">Anonyymi: Windows7_rules</span>
+			<span class="xcCreatedDate">10.4.2014 17:10	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647182" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647182">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647182">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">1</span></span>
+				<span class="xcThumb down" id="xctld7647182"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647182">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647182&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647182&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647182">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				<blockquote>Asentui hienosti, toisinkuin iOS päivitykset yleensä. Microsoft taas näyttää mallia, miten asiat tehdään ja Apple tulee viisi vuotta perässä, paitsi bugien määrässä.</blockquote><br />
+Olet kyllä harvinaisen oikeassa, Microsoft on taas näyttänyt mallia miten heillä asiat hoidetaan.<br />
+Ilmankos noita linux asennuspyyntöjä on alkanut tulla solkenaan.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647182">Anonyymi: ellentellen</span>
+			<span class="xcCreatedDate">10.4.2014 17:55	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647248" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647248">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647248">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">0</span></span>
+				<span class="xcThumb down" id="xctld7647248"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647248">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647248&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647248&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647248">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Vuonna 2006 valmistettuun Lenovoon laakista sisään. <br />
+<br />
+Vai ei radikaaleja muutoksia. Nythän ne Storesta ladatut kikkareohjelmat saa sammutettua oikeassa yläkulmassa olevasta ruksista. Ja sammutusnappikin löytyy - brilliant. Nyt softaa voi jo suositella kavereille.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647248">Anonyymi: Maksettumies</span>
+			<span class="xcCreatedDate">10.4.2014 18:36	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647338" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647338">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647338">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">3</span></span>
+				<span class="xcThumb down" id="xctld7647338"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647338">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647338&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647338&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647338">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				<blockquote>Asentui hienosti, toisinkuin iOS päivitykset yleensä. Microsoft taas näyttää mallia, miten asiat tehdään ja Apple tulee viisi vuotta perässä, paitsi bugien määrässä.</blockquote><br />
+<br />
+Toden totta. Yksikään WP-päivitys ei ole mennyt putkeen ja jokaisessa Windows-päivityksessä on ollut ongelmia. Näin Microsoft taas näyttää, kuinka asioita ei pitäisi tehdä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647338">Anonyymi: täysinkyllästynyt</span>
+			<span class="xcCreatedDate">10.4.2014 19:32	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647459" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647459">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647459">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">2</span></span>
+				<span class="xcThumb down" id="xctld7647459"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647459">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647459&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647459&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647459">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Bugittaako Windows-päivitys? <br />
+Kokeile tätä, hankkimatta sekä päivittämättä jätä!
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647459">Anonyymi: Putin</span>
+			<span class="xcCreatedDate">10.4.2014 21:13	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647500" class="xcEntry anonymous">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/anonymous_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Anonyymi</span>
+		</div>
+       	<div class="xcText" id="xct7647500">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647500">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">2</span></span>
+				<span class="xcThumb down" id="xctld7647500"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">1</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647500">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647500&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647500&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647500">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Hohohoo! Mikä tässä Mac käyttäjänä. Ei tarvitse tuhlata aikaa toimimattomiin Windows tekeleisiin. Voi nauttia keväästä,kesästä, naisista ja elämästä.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647500">Anonyymi: OmppuTekeeiloiseksi</span>
+			<span class="xcCreatedDate">10.4.2014 21:45	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+	<div id="xce7647535" class="xcEntry registered">
+		<div class="xcUserImage">
+			<img class="avatar" alt="" src="/img/xcap/registered_user_48_48.png" height="52" width="52" />
+			<br />
+			<span class="userTitle">Rekisteröitynyt käyttäjä</span>
+		</div>
+       	<div class="xcText" id="xct7647535">
+            <div class="xcTools">
+				
+           	<div class="xcRatingTools">
+				<span class="xcThumb up" id="xctlu7647535">
+            		<span class="xcThumbLink"><img src="/img/xcap/thumb_up_x32.png" alt="" width="16" /></span>&nbsp;<span class="xcThumbValue positive">2</span></span>
+				<span class="xcThumb down" id="xctld7647535"><span class="xcThumbLink"><img src="/img/xcap/thumb_down_x32.png"  alt="" width="16" /></span>&nbsp;<span class="xcThumbValue negative">0</span></span>
+				<div class="clear"> </div>
+			</div><!--END xcRatingTools-->
+
+				<span class="xcReportLink" id="xcrl7647535">
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647535&news_id=20145190"><img alt="" src="/img/xcap/icon_comment_notify.png" /></a>           		
+					<a rel="nofollow" href="/kommentit/ilmoita-asiaton-viesti/?entryId=7647535&news_id=20145190">Asiaton viesti</a>
+				</span>
+							<span class="xcQuoteLink" id="xcql7647535">
+					<a><img alt="" src="/img/xcap/icon_comment_quote.png"></a>           	
+					<a>Lainaa</a>
+				</span>
+				<div class="clear"> </div>
+			</div>
+			<div class="xcTextValue">
+				Tämän hetken paras iskukonsti on pitää Linux-tikkua taskussa. Sillä saa, ja ikähaitari on laaja.
+			</div>
+		</div>
+		<div class="xcEntryTitle">
+			<span class="xcCreator" id="xcc7647535">Rekisteröitynyt käyttäjä: Illivilli</span>
+			<span class="xcCreatedDate">10.4.2014 22:38	</span>
+		</div>
+		<div class="clear"> </div>
+	</div>
+
+		<div class="xvPagination">
+			<span class="label">Sivut:</span>
+				<a class="page current" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=1#commentsHere">1</a>
+				<a class="page" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=2#commentsHere">2</a>
+				
+			<div class="nextPrevPagination">	
+<span class="button disabled">Edellinen</span><a class="button" href="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&n=2#commentsHere">Seuraava</a>
+				</div>
+			<div class="clear"></div>
+		</div>
+
+		<form id="commentForm" name="commentForm" method="post" action="/data//2014/04/10/bugittaako-windows-paivitys-kokeile-tata/20145190/66?&post=1">
+			<div class="instructions">
+               	<span class="start">Ohjeet:</span>
+                    Pysy aiheessa ja kirjoita napakasti. Muista, että haastateltavilla, kanssakeskustelijoilla ja toimittajilla on oikeus omaan, eriävään mielipiteeseen. Ole kohtelias, äläkä tarkoituksella provosoi tai hauku muita keskustelijoita. Taloussanomat varaa oikeuden poistaa asiattomat viestit.<br/>
+				<a href="http://www.taloussanomat.fi/keskustelut/ohjeet"><img alt="" src="/img/arrow_blue.png" /></a> 
+				<a href="http://www.taloussanomat.fi/keskustelut/ohjeet">Lue koko keskusteluetiketti</a>
+			
+			</div>
+
+				
+
+				
+
+			<div id="xcTestFieldContainer" class="">
+				<label for="test">Bottivarmistus: mitä on kaksi ynnä kolmetoista? <br /><span>Syötä vastaus numeroina</span></label>
+				
+				<input type="text" id="xcTestField" class="number" value="" name="xcTestField" maxlength="2"/>
+			</div>
+			
+			<div class="controls">
+				<input type="button" value="Lihavoi" name="xcBoldButton" id="xcBoldButton" class="xcButton"/>
+				<input type="button" value="Kursivoi" name="kursivoi" id="xcItalicButton" class="xcButton" />
+				<input type="button" value="Lainaa" name="lainaa" id="xcQuoteButton" class="xcButton" />
+            </div>
+			<div class="">
+				<label id="xcMessageLabel" for="xcMessageText">Viesti <br/><span> Vähimmäispituus 30 merkkiä</span></label>
+				
+				<textarea id="xcMessageText" rows="10" cols="39" name="xcMessageText"></textarea>
+			</div>
+			
+			<div id="xcNameContainer" class="">
+				<label for="xcName">Nimimerkki <span>(5-20 merkkiä)</span><br /><span>Käytä ainoastaan kirjaimia ja numeroita, välilyönnit eivät ole sallittuja.</span></label>
+				
+				<div id="xcNameInstruction" class="instruction">Varaa oma nimimerkkisi Taloussanomien uutiskommentointiin <a href="http://www.taloussanomat.fi/rekisteroidy/">rekisteröitymällä käyttäjäksi</a> tai <a href="http://www.taloussanomat.fi/kirjautuminen/">kirjaudu sisään</a>.<br /><br />Rekisteröityminen ja nimimerkin varaus eivät ole pakollisia.
+				<br /><br />Nimimerkissä saa käyttää ainoastaan kirjaimia ja numeroita. Sen minimimitta on viisi merkkiä ja maksimi kaksikymmentä merkkiä.</div>
+				<div id="xcNameReservationInstruction" class="instruction">Olet kirjautunut sisään, muttet ole vielä valinnut omaa, muille käyttäjille näkyvää nimimerkkiäsi. Varaa nimimerkki omaksesi kirjoittamalla se nimimerkki-kenttään. <br /><br />Varauksen jälkeen muut eivät voi käyttää nimimerkkiäsi ja se  näkyy automaattisesti kaikissa kirjoittamissasi viesteissä. <br /><br />Huomioithan, ettei nimimerkkiä ei voi muuttaa jälkikäteen.<br /><br />Nimimerkissä saa käyttää ainoastaan kirjaimia ja numeroita. Sen minimimitta on viisi merkkiä ja maksimi kaksikymmentä merkkiä.</div>
+    	        <input id="xcName" type="text" value="" maxlength="20" size="40" name="xcName" />
+            	<div id="xcNameIndicator" class="indicator"></div>
+    	    </div>
+
+				<input type="hidden" name="xcBroom" value="2.13" />
+
+			<div class="send">
+				<input class="xcButton" type="submit" value="Lähetä viesti" name="doPost" />
+			</div> 
+		</form>
+
+
+		</div> <!-- /.xcContainer -->
+
+			<script src="/inc/rekisteroityminen/validator.js"></script>
+		
+<!-- /kommentit --><script type="text/javascript"><!--
+google_ad_slot = "0171429349";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><div id="newsFrontAd2" class="newsFrontAd ad">
+<!-- outlet -->
+
+	<script type="text/javascript">try { cts.render("rectangle1-2"); } catch (err) { cts.log(err); } </script>		
+
+</div><div id="iltasanomatPromo"> </div><div id="hsframeContainer"> </div><div id="headlinesPopular">
+
+    <ul class="tabs">
+      <li id="most-uusimmat"><a href="/uutiset/">Uusimmat</a></li>
+      <li id="most-luetuimmat" class="here"><a href="/uutiset/luetuimmat">Luetuimmat</a></li>
+      <li id="most-suositelluimmat"><a href="/uutiset/suositelluimmat">Suositelluimmat</a></li>
+
+    </ul>
+    <div class="underline"></div>
+<ul id="nosto-uusimmat" class="hide">
+<li class="caption">Digitodayn tuoreimmat uutiset.</li>
+<li><span class="date">19:28</span> <a href="/tietoturva/2015/12/19/juniper-takaovesta-ei-ollut-meidan-tekosia/201516874/66">Juniper takaovesta: Ei ollut meidän tekosia!</a></li>
+                <li><span class="date">16:21</span> <a href="/tiede-ja-teknologia/2015/12/19/40-prosenttia-parempi-akku-puhelimeen--nain-sony-aikoo-sen-tehda/201516871/66">40 prosenttia parempi akku puhelimeen – näin Sony aikoo sen tehdä</a></li>
+                <li><span class="date">12:36</span> <a href="/mobiili/2015/12/19/joulutarjousten-huippu-iphone-6s-alle-eurolla/201516863/66">Joulutarjousten huippu? IPhone 6S alle eurolla</a></li>
+                <li><span class="date">18.12.</span> <a href="/yhteiskunta/2015/12/18/applen-cook-puuskahti-taytta-poliittista-sontaa/201516855/66">Applen Cook puuskahti: "täyttä poliittista sontaa"</a></li>
+                <li><span class="date">18.12.</span> <a href="/tietoturva/2015/12/18/nyt-on-tosi-kyseessa-varo-tata-kiristajaa/201516830/66">Nyt on tosi kyseessä: Varo tätä kiristäjää</a></li>
+                <li><span class="date">18.12.</span> <a href="/bisnes/2015/12/18/jolla-kertoi-rahoituksesta-sailfishia-aletaan-kehittaa-venajalla/201516831/66">Jolla kertoi rahoituksesta: Sailfishia aletaan kehittää Venäjällä</a></li>
+                <li><span class="date">18.12.</span> <a href="/yhteiskunta/2015/12/18/trump-molaytti-laitetaan-netti-kiinni-syyrialta/201516827/66">Trump möläytti: Laitetaan netti kiinni Syyrialta</a></li>
+                <li><span class="date">18.12.</span> <a href="/yhteiskunta/2015/12/18/tata-sopi-odottaa-swagwayn-leimahdus-puidaan-oikeudessa/201516816/66">Tätä sopi odottaa: Swagwayn leimahdus puidaan oikeudessa</a></li>
+                <li><span class="date">18.12.</span> <a href="/mobiili/2015/12/18/apple-pay-loysi-superkumppanin-kiinasta/201516803/66">Apple Pay löysi superkumppanin Kiinasta</a></li>
+                <li><span class="date">18.12.</span> <a href="/tietoturva/2015/12/18/kuka-sen-teki-juniper-loysi-takaoven-palomuureistaan/201516805/66">Kuka sen teki? Juniper löysi takaoven palomuureistaan</a></li>
+                <li><span class="date">18.12.</span> <a href="/tietoturva/2015/12/18/brasilian-whatsapp-jaahy-paattyi-pikana/201516795/66">Brasilian WhatsApp-jäähy päättyi pikana</a></li>
+                <li><span class="date">18.12.</span> <a href="/tyo-ja-ura/2015/12/18/nimitysruletti-pyorahti-apple-taytti-tim-cookin-entisen-paikan/201516793/66">Nimitysruletti pyörähti, Apple täytti Tim Cookin entisen paikan</a></li>
+                <li><span class="date">18.12.</span> <a href="/bisnes/2015/12/18/microsoft-teki-android-sovelluksen-tuoteluettelostaan/201516788/66">Microsoft teki Android-sovelluksen tuoteluettelostaan</a></li>
+                <li><span class="date">17.12.</span> <a href="/bisnes/2015/12/17/jolla-loysi-rahoituksen/201516785/66">Jolla löysi rahoituksen</a></li>
+                <li><span class="date">17.12.</span> <a href="/tietoturva/2015/12/17/verkkokauppasoftassa-ilkea-reika-asiakastiedot-vaarassa/201516773/66">Verkkokauppasoftassa ilkeä reikä: Asiakastiedot vaarassa</a></li>
+                <li><span class="date">17.12.</span> <a href="/bisnes/2015/12/17/basware-myllaa-organisaatiotaan/201516762/66">Basware myllää organisaatiotaan</a></li>
+                <li><span class="date">17.12.</span> <a href="/yhteiskunta/2015/12/17/whatsapp-blokattiin-yli-100-miljoonalta--zuckerberg-raivostui-ja-haukkui-vaaraa-puuta/201516764/66">WhatsApp blokattiin yli 100 miljoonalta – Zuckerberg raivostui ja haukkui väärää puuta</a></li>
+                <li><span class="date">17.12.</span> <a href="/bisnes/2015/12/17/verkkokauppacom-nosti-tulosodotuksiaan/201516761/66">Verkkokauppa.com nosti tulosodotuksiaan </a></li>
+                <li><span class="date">17.12.</span> <a href="/tietoturva/2015/12/17/nimipalvelimesta-voi-tulla-hyokkayskone--tarkista-bindisi/201516760/66">Nimipalvelimesta voi tulla hyökkäyskone – tarkista Bindisi</a></li>
+                <li><span class="date">17.12.</span> <a href="/yhteiskunta/2015/12/17/pioneeri-linjaa-robottiauto-tarvitsee-patevan-kuskin/201516754/66">Pioneeri linjaa: Robottiauto tarvitsee pätevän kuskin</a></li>
+                
+    <li class="more"><a href="/uutiset/">Uusimmat</a></li>
+</ul>
+<ul id="nosto-luetuimmat" class="show">
+<li class="caption">48h luetuimmat kaikista uutisista.</li>
+<li><span class="date">17.12.</span> <a href="/data/2015/12/17/riita-rahasta-ylen-hd-lahetykset-loppuvat-monilta-kahden-viikon-kuluttua/201516749/66">Riita rahasta: Ylen HD-lähetykset loppuvat monilta kahden viikon kuluttua</a></li>
+                <li><span class="date">18.12.</span> <a href="/tietoturva/2015/12/18/nyt-on-tosi-kyseessa-varo-tata-kiristajaa/201516830/66">Nyt on tosi kyseessä: Varo tätä kiristäjää</a></li>
+                <li><span class="date">16.12.</span> <a href="/vimpaimet/2015/12/16/testissa-suomalainen-alykello--suunto-kailash-parjaa-ihan-omalla-jutullaan/201516634/66">Testissä suomalainen älykello – Suunto Kailash pärjää ihan omalla jutullaan</a></li>
+                <li><span class="date">12:36</span> <a href="/mobiili/2015/12/19/joulutarjousten-huippu-iphone-6s-alle-eurolla/201516863/66">Joulutarjousten huippu? IPhone 6S alle eurolla</a></li>
+                <li><span class="date">17.12.</span> <a href="/bisnes/2015/12/17/jolla-loysi-rahoituksen/201516785/66">Jolla löysi rahoituksen</a></li>
+                <li><span class="date">18.12.</span> <a href="/bisnes/2015/12/18/jolla-kertoi-rahoituksesta-sailfishia-aletaan-kehittaa-venajalla/201516831/66">Jolla kertoi rahoituksesta: Sailfishia aletaan kehittää Venäjällä</a></li>
+                <li><span class="date">16.12.</span> <a href="/yhteiskunta/2015/12/16/oletko-vaaralla-nimella-facebookissa-sait-hyvia-uutisia/201516682/66">Oletko väärällä nimellä Facebookissa? Sait hyviä uutisia</a></li>
+                <li><span class="date">17.12.</span> <a href="/bisnes/2015/12/17/nokian-hintalappu-samsungille-selviaa-ensi-kuussa/201516731/66">Nokian hintalappu Samsungille selviää ensi kuussa</a></li>
+                <li><span class="date">18.12.</span> <a href="/yhteiskunta/2015/12/18/applen-cook-puuskahti-taytta-poliittista-sontaa/201516855/66">Applen Cook puuskahti: "täyttä poliittista sontaa"</a></li>
+                <li><span class="date">17.12.</span> <a href="/yhteiskunta/2015/12/17/whatsapp-blokattiin-yli-100-miljoonalta--zuckerberg-raivostui-ja-haukkui-vaaraa-puuta/201516764/66">WhatsApp blokattiin yli 100 miljoonalta – Zuckerberg raivostui ja haukkui väärää puuta</a></li>
+                
+    <li class="more"><a href="/uutiset/luetuimmat/24h">Luetuimmat</a></li>
+</ul>
+<ul id="nosto-suositelluimmat" class="hide">
+<li class="caption">48h suositelluimmat kaikista uutisista.</li>
+
+    <li class="more"><a href="/uutiset/suositelluimmat/24h">Suositelluimmat</a></li>
+</ul>
+<div class="sideboxes">
+<div class="sidebox">
+        <h4>Kevyt ja nopea</h4>
+        <p>Oletko jo tutustunut <a href="http://m.digitoday.fi/">m.digitoday.fi</a>-mobiilisivustoon?</p>
+    </div>
+<div class="sidebox">
+        <h4>Uutisviikko</h4>
+        <p>Mitä viikolla on tapahtunut, mikä puhuttanut eniten? <a href="/uutisviikko/" title="Uutisviikko">Koko viikon uutiset</a>.</p>
+    </div>
+</div>
+
+</div><!-- /#headlinesPopular -->
+            </div><!--/news-->
+            <div id="features1and2">
+                <div class="ad promoColumnAd">
+
+	<script type="text/javascript">try { cts.render("rectangle2-1"); } catch (err) { cts.log(err); } </script>		
+
+
+</div><script type="text/javascript">
+  $(document).ready(function(){
+    $('#loginBoxArea').load('/inc/rekisteroityminen/loginBox.php');
+  });
+</script> 
+<style>
+#registerBox {
+ margin-top: 2px;
+}
+
+#registerBox .promoBox {
+padding: 0;
+}
+
+#registerBox .subHeading {
+    background-color: #333333;
+    color: #fff;
+    font-family: "Lucida Grande","Trebuchet MS",sans-serif;
+    border-bottom: 2px solid #CCCCCC;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 3px 5px;
+}
+
+</style>
+<div id="loginBoxArea"></div><!-- nosto starts -->
+
+				<!-- data -->
+                <h2 class="uusimmat">Uusimmat uutiset</h2>
+                <div class="headlinesFeature">
+                    <ul class="tabs">
+                        <li class="here"><a href="/data">data</a></li>
+                        <li><a href="/uutiset">kaikki</a></li>
+
+                    </ul>
+                    <ul>
+                            <li><a href="/tietoturva/2015/12/19/juniper-takaovesta-ei-ollut-meidan-tekosia/201516874/66">Juniper takaovesta: Ei ollut meidän tekosia!</a> <span class="date">19:28</span></li>
+                        <li><a href="/tietoturva/2015/12/18/nyt-on-tosi-kyseessa-varo-tata-kiristajaa/201516830/66">Nyt on tosi kyseessä: Varo tätä kiristäjää</a> <span class="date">16:00</span></li>
+                        <li><a href="/yhteiskunta/2015/12/18/trump-molaytti-laitetaan-netti-kiinni-syyrialta/201516827/66">Trump möläytti: Laitetaan netti kiinni Syyrialta</a> <span class="date">15:13</span></li>
+                        <li><a href="/tietoturva/2015/12/18/kuka-sen-teki-juniper-loysi-takaoven-palomuureistaan/201516805/66">Kuka sen teki? Juniper löysi takaoven palomuureistaan</a> <span class="date">11:08</span></li>
+                        <li><a href="/bisnes/2015/12/18/microsoft-teki-android-sovelluksen-tuoteluettelostaan/201516788/66">Microsoft teki Android-sovelluksen tuoteluettelostaan</a> <span class="date">08:22</span></li>
+                        <li><a href="/tietoturva/2015/12/17/verkkokauppasoftassa-ilkea-reika-asiakastiedot-vaarassa/201516773/66">Verkkokauppasoftassa ilkeä reikä: Asiakastiedot vaarassa</a> <span class="date">18:01</span></li>
+                        <li><a href="/yhteiskunta/2015/12/17/whatsapp-blokattiin-yli-100-miljoonalta--zuckerberg-raivostui-ja-haukkui-vaaraa-puuta/201516764/66">WhatsApp blokattiin yli 100 miljoonalta – Zuckerberg raivostui ja haukkui väärää puuta</a> <span class="date">15:43</span></li>
+                        <li><a href="/data/2015/12/17/riita-rahasta-ylen-hd-lahetykset-loppuvat-monilta-kahden-viikon-kuluttua/201516749/66">Riita rahasta: Ylen HD-lähetykset loppuvat monilta kahden viikon kuluttua</a> <span class="date">11:56</span></li>
+                    <li class="more"><a href="/data">Lisää</a></li>
+                    </ul>
+
+
+                </div>
+	
+<!-- nosto ends --><div class="multiAds ad">
+	<div class="container">
+
+
+		<div class="row">
+			<div class="multiAd first">
+				
+	<script type="text/javascript">try { cts.render("button01"); } catch (err) { cts.log(err); } </script>		
+	
+			</div>
+		</div>
+	
+		<div class="row">		
+			<div class="multiAd second">
+				
+	<script type="text/javascript">try { cts.render("button02"); } catch (err) { cts.log(err); } </script>		
+	
+			</div>
+			<div class="clear"> </div>
+		</div>
+		<div class="clear"> </div>
+
+	</div>	
+</div><!-- TwoColsFeatures -->
+	
+<div class="featuresTwoCols newsFeatures">
+<h2>Poiminnat</h2>
+<div class="newsFeature">
+<a href="/tiede-ja-teknologia/2015/12/19/40-prosenttia-parempi-akku-puhelimeen--nain-sony-aikoo-sen-tehda/201516871/66" class="clippedImage" style="background-image:url(/files/140_B88270632Z120151219162144000G4QI49QP21.jpg);">
+<img src="/files/140_B88270632Z120151219162144000G4QI49QP21.jpg" width="140"></a>
+                  <a href="/tiede-ja-teknologia/2015/12/19/40-prosenttia-parempi-akku-puhelimeen--nain-sony-aikoo-sen-tehda/201516871/66">40 prosenttia parempi akku puhelimeen – näin Sony aikoo sen tehdä</a></div>
+<div class="newsFeature second">
+<a href="/mobiili/2015/12/19/joulutarjousten-huippu-iphone-6s-alle-eurolla/201516863/66" class="clippedImage" style="background-image:url(/files/140_B88270561Z120151219123652000GGCI45JH21.jpg);">
+<img src="/files/140_B88270561Z120151219123652000GGCI45JH21.jpg" width="140"></a>
+                  <a href="/mobiili/2015/12/19/joulutarjousten-huippu-iphone-6s-alle-eurolla/201516863/66">Joulutarjousten huippu? IPhone 6S alle eurolla</a></div></div>
+          <!--- /// twoColsFeatures -->
+          
+<div class="featuresTwoCols newsFeatures">
+<div class="newsFeature">
+<a href="/yhteiskunta/2015/12/18/applen-cook-puuskahti-taytta-poliittista-sontaa/201516855/66" class="clippedImage" style="background-image:url(/files/140_B88270410Z120151218214105000GKLI3SON21.jpg);">
+<img src="/files/140_B88270410Z120151218214105000GKLI3SON21.jpg" width="140"></a>
+                  <a href="/yhteiskunta/2015/12/18/applen-cook-puuskahti-taytta-poliittista-sontaa/201516855/66">Applen Cook puuskahti: "täyttä poliittista sontaa"</a></div>
+<div class="newsFeature second">
+<a href="/tietoturva/2015/12/18/nyt-on-tosi-kyseessa-varo-tata-kiristajaa/201516830/66" class="clippedImage" style="background-image:url(/files/140_B88242765Z120151126104834000G1FH3APQ21.jpg);">
+<img src="/files/140_B88242765Z120151126104834000G1FH3APQ21.jpg" width="140"></a>
+                  <a href="/tietoturva/2015/12/18/nyt-on-tosi-kyseessa-varo-tata-kiristajaa/201516830/66">Nyt on tosi kyseessä: Varo tätä kiristäjää</a></div></div>
+          <!--- /// twoColsFeatures -->
+          
+<div class="featuresTwoCols newsFeatures">
+<div class="newsFeature">
+<a href="/bisnes/2015/12/18/jolla-kertoi-rahoituksesta-sailfishia-aletaan-kehittaa-venajalla/201516831/66" class="clippedImage" style="background-image:url(/files/140_B88269945Z120151218153910000GM2I3CHK21.jpg);">
+<img src="/files/140_B88269945Z120151218153910000GM2I3CHK21.jpg" width="140"></a>
+                  <a href="/bisnes/2015/12/18/jolla-kertoi-rahoituksesta-sailfishia-aletaan-kehittaa-venajalla/201516831/66">Jolla kertoi rahoituksesta: Sailfishia aletaan kehittää Venäjällä</a></div>
+<div class="newsFeature second">
+<a href="/yhteiskunta/2015/12/18/trump-molaytti-laitetaan-netti-kiinni-syyrialta/201516827/66" class="clippedImage" style="background-image:url(/files/140_B88267212Z120151216162048000GBPI08HK21.jpg);">
+<img src="/files/140_B88267212Z120151216162048000GBPI08HK21.jpg" width="140"></a>
+                  <a href="/yhteiskunta/2015/12/18/trump-molaytti-laitetaan-netti-kiinni-syyrialta/201516827/66">Trump möläytti: Laitetaan netti kiinni Syyrialta</a></div></div>
+          <!--- /// twoColsFeatures -->
+          
+<div class="featuresTwoCols newsFeatures">
+<div class="newsFeature">
+<a href="/yhteiskunta/2015/12/18/tata-sopi-odottaa-swagwayn-leimahdus-puidaan-oikeudessa/201516816/66" class="clippedImage" style="background-image:url(/files/140_palanutswagway.jpg);">
+<img src="/files/140_palanutswagway.jpg" width="140"></a>
+                  <a href="/yhteiskunta/2015/12/18/tata-sopi-odottaa-swagwayn-leimahdus-puidaan-oikeudessa/201516816/66">Tätä sopi odottaa: Swagwayn leimahdus puidaan oikeudessa</a></div>
+<div class="newsFeature second">
+<a href="/mobiili/2015/12/18/apple-pay-loysi-superkumppanin-kiinasta/201516803/66" class="clippedImage" style="background-image:url(/files/140_UnionPay_on_yhteistyossa_Kiinan_suurten_pankkien_kanssa.jpg);">
+<img src="/files/140_UnionPay_on_yhteistyossa_Kiinan_suurten_pankkien_kanssa.jpg" width="140"></a>
+                  <a href="/mobiili/2015/12/18/apple-pay-loysi-superkumppanin-kiinasta/201516803/66">Apple Pay löysi superkumppanin Kiinasta</a></div></div>
+          <!--- /// twoColsFeatures -->
+          <div id="outlet300x250" class="ad ad300x250">
+<!-- outlet -->
+
+	<script type="text/javascript">try { cts.render("rectangle2-2"); } catch (err) { cts.log(err); } </script>		
+
+</div><!-- Arkistosta -->
+            <div class="featuresTwoCols fromTheArchives">
+                <h2>Digiyesterday</h2>
+<span class="year">2010</span>
+	                <h3>Viisi vuotta sitten</h3>
+	                <h4><a href="/uutiset/2010/12/19/joka-neljas-sulkenut-virustorjunnan-kokonaan/201017637/66">Joka neljäs sulkenut virustorjunnan kokonaan</a></h4>
+	                <p><span class="date">19.12.2010</span> Neljännes virustorjuntaohjelmiston käyttäjistä on kytkenyt suojan kokonaan pois päältä, saksalainen tietoturvayhtiö Avira selvitti.</p>
+                <hr>
+<span class="year">2012</span>
+	                <h3>Kolme vuotta sitten</h3>
+	                <h4><a href="/uutiset/2012/12/19/se-pieni-ero-microsoft-tarjosi-miljoonan-motorola-vaatii-sata/201244049/66">Se pieni ero: Microsoft tarjosi miljoonan, Motorola vaatii sata</a></h4>
+	                <p><span class="date">19.12.2012</span> Googlen Motorolan vaatiman ja Microsoftin tarjoaman lisenssikorvauksen välillä on pienoinen kuilu. Microsoft tarjoaa miljoonan dollarin vuosimaksua patenteista, joista Motorola Mobility vaatii sataa miljoonaa dollaria.</p>
+            </div>
+<div class="ad googleAd_300x250">
+<script type="text/javascript"><!--
+google_ad_client = "pub-4165631538991685";
+/* 300x250_TR */
+google_ad_slot = "4935193906";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div><!-- oikotie asunnot -->
+<div id="oikotieAsuntoPromoDT" class="featuresTwoCols"> </div>
+<!-- end oikotie asunnot --><!--Taloussanomien ykkösuutiset-->
+<div class="featuresTwoCols">
+<div class="taloussanomat-headlines">
+    <h3>Taloussanomat</h3>
+    <ul>
+        <li class="n0"><a href="http://www.taloussanomat.fi/ulkomaat/2015/12/19/nyt-mitataan-espanjan-talouskurin-kannatus/201516873/12" target="_top">Nyt mitataan Espanjan talouskurin kannatus</a> <span class="date">16:57</span></li>
+        <li class="n1"><a href="http://www.taloussanomat.fi/rahoitus/2015/12/19/fkn-tornivaara-kilpailu-on-erittain-kovaa/201516867/12" target="_top">FK:n Tornivaara: "Kilpailu on eritt&auml;in kovaa"</a> <span class="date">15:04</span></li>
+        <li class="n2"><a href="http://www.taloussanomat.fi/rahoitus/2015/12/19/citigroup-suunnittelee-vahintaan-2000-tyontekijan-irtisanomisia/201516868/12" target="_top">Citigroup suunnittelee v&auml;hint&auml;&auml;n 2000 ty&ouml;ntekij&auml;n irtisanomisia</a> <span class="date">15:28</span></li>
+        <li class="n3"><a href="http://www.taloussanomat.fi/autot/2015/12/19/robottiautojen-yllattava-ongelma-eivat-riko-liikennesaantoja/201516865/304" target="_top">Robottiautojen yll&auml;tt&auml;v&auml; ongelma: eiv&auml;t riko liikennes&auml;&auml;nt&ouml;j&auml;</a> <span class="date">13:24</span></li>
+        <li class="n4"><a href="http://www.taloussanomat.fi/liikenne/2015/12/19/lufthansa-hehkuttaa-suomalaiskohdetta-eldoradoksi/201516870/12" target="_top">Lufthansa hehkuttaa suomalaiskohdetta Eldoradoksi</a> <span class="date">16:02</span></li>
+        <li class="n5"><a href="http://www.taloussanomat.fi/asuminen/2015/12/19/kiinalaiset-kiinnostuivat-suomi-asunnoista/201516826/310" target="_top">Kiinalaiset kiinnostuivat Suomi-asunnoista</a> <span class="date">05:01</span></li>
+        <li class="n6"><a href="http://www.taloussanomat.fi/politiikka/2015/12/19/ykn-turvallisuusneuvosto-hyvaksyi-syyrian-rauhanprosessin-luonnoksen/201516859/12" target="_top">YK:n turvallisuusneuvosto hyv&auml;ksyi Syyrian rauhanprosessin luonnoksen</a> <span class="date">10:49</span></li>
+        <li class="n7"><a href="http://www.taloussanomat.fi/ulkomaat/2015/12/19/matkustaja-kallisti-istuinta-lentokoneessa-pahoinpideltiin/201516869/12" target="_top">Matkustaja kallisti istuinta lentokoneessa – pahoinpideltiin</a> <span class="date">15:46</span></li>
+        <li class="n8"><a href="http://www.taloussanomat.fi/ulkomaat/2015/12/19/lentotukikohdassa-sattui-huulirasvamoka-aika-noloa/201516866/12" target="_top">Lentotukikohdassa sattui huulirasvamoka – "Aika noloa" </a> <span class="date">13:58</span></li>
+        <li class="n9"><a href="http://www.taloussanomat.fi/rahoitus/2015/12/19/fkn-hallituksen-uusi-puheenjohtaja-danske-bankista/201516862/12" target="_top">FK:n hallituksen uusi puheenjohtaja Danske Bankista</a> <span class="date">12:03</span></li>
+        <li>&raquo; <a href="http://www.taloussanomat.fi/">Taloussanomat.fi</a></li>
+    </ul>
+</div>
+
+</div>
+<p></p><iframe src="http://ko.snstatic.fi/hise-digitoday-tietotekniikka-300x300/" frameborder=0 height=300 width=300 scrolling=no>
+
+<div class="hintaseuranta hiseLinks">
+  <h2>
+    <a href="http://www.hintaseuranta.fi/" alt="Hintaseuranta.fi">
+      <img src="http://www.digitoday.fi/img/hise_logo_120.png" alt="Tee hintavertailu" width="120" />
+    </a>
+  </h2>
+  <div class="title">Tee <a href="http://www.hintaseuranta.fi">hintavertailu</a> ennen kuin ostat</div>
+  <ul>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/26392">Puhelimet</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/26312">Kannettavat</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/28692">Televisiot</a></li>
+    <li><a href="http://hintaseuranta.fi/s%C3%A4hk%C3%B6/">Navigaattorit</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/26323">Kamerat</a></li>
+    <li><a href="http://hintaseuranta.fi/matkailu/index.aspx/lennot">Halvat lennot</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/80596">Kirjat</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/193044">Pelit</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/316441">Piilolinssit</a></li>
+    <li><a href="http://hintaseuranta.fi/s%C3%A4hk%C3%B6/">Sähkön hinta</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/26219">Tulostimet</a></li>
+    <li><a href="http://hintaseuranta.fi/tuote.aspx/173951">Renkaat</a></li>
+  </ul>
+  <div class="clear"> </div>
+</div> <!-- /.hintaseuranta -->
+
+</iframe><p></p>
+            </div>
+            <div id="features1" class="features">
+				
+				<!-- toinen alue  tuo alempi voidaan ottaa etusivulta--> 
+				
+            </div><!--/features1-->
+            <div id="features2" class="features">
+				
+				<!-- toinen alue  tuo alempi voidaan ottaa etusivulta--> 
+				
+			
+                            </div><!--/features2-->
+        </div><!--/content-->
+    </div><!--/innerframe-->
+    <div id="adsOnRight">
+<div id="ad140-1" class="ad">
+<!--AD?size=140x350&pp=1&keyword=-->
+
+	<script type="text/javascript">try { cts.render("side01"); } catch (err) { cts.log(err); } </script>		
+
+</div>
+
+<div id="ad140-2" class="ad">
+<!--AD?size=140x350&pp=2&keyword=-->
+
+	<script type="text/javascript">try { cts.render("side02"); } catch (err) { cts.log(err); } </script>		
+
+</div>
+
+<div id="ad140-3" class="ad">
+<!--AD?size=140x350&pp=3&keyword=-->
+
+</div>
+
+<div id="ad140-4" class="ad">
+<!--AD?size=140x350&pp=4&keyword=-->
+
+</div>
+
+<div style="clear: both; overflow: hidden; width: 100%; height: 1px; color: #fff;">.</div>
+
+<div id="floater" class="ad">
+<!--AD?size=140x350&pp=9&keyword=-->
+
+</div>
+
+    </div><!--/adsOnRight-->
+
+</div><!--/frame-->
+<div id="adBottom">
+<div id="ad728-3" class="ad">
+
+</div>
+</div> <!-- /adBottom -->
+<!--AD?size=1x1&pp=1&keyword=-->
+
+
+<div id="footer">
+    <div class="innerFooter">
+        <form class="searchFooter" method="get" action="/page.php">
+            <input type="hidden" name="page_id" value="76">
+            <input type="text" name="needle" id="qSearchFooter" value="" class="tf_xl">
+            <input type="submit" name="haet" id="submitSearchFooter" value="Hae" class="button">
+        </form>
+
+        <!--h1>digitoday</h1-->
+        
+        <img src="/img/logo_taloussanomat_104_68.png" width="104" height="68" alt="Digitoday on osa Taloussanomia - talous, pörssi ja teknologia">
+
+        <div class="vcard">
+            <div class="fn org">Sanoma Media Finland Oy / Taloussanomat / Digitoday</div>
+            <ul class="addressAndContact">
+                <li class="section"><span class="lbl">Osoite</span>
+                    <div class="adr">
+                        <div class="street-address">Töölönlahdenkatu 2</div>
+                        <div class="postal-code">00089 Sanomat</div>
+                    </div>
+                </li>
+                <li><span class="lbl">Puhelin</span>
+                    <span class="tel">+358&nbsp;9&nbsp;1221</span></li>
+      
+                <li class="section"><span class="lbl">Sähköposti</span>
+                    <a href="mailto:toimitus@digitoday.fi" class="email">toimitus@digitoday.fi</a>
+                </li>
+                <li class="hidden"><span class="lbl">WWW</span> 
+                    <a href="http://www.digitoday.fi/" class="url">http://www.digitoday.fi/</a></li>
+                <li><span class="lbl">Kustantaja, vastaava päätoimittaja</span>
+                    <strong>Tapio Sadeoja</strong></li>
+                <li><br></li>
+                <li><span class="lbl">Esimies</span>
+                    <strong>Heidi Hagelin</strong></li>
+                <li><span class="lbl">Myynti</span>
+                    <a href="http://mediatiedot.taloussanomat.fi/index.php/tuotteet/digitoday">Verkkomediamyynti</a><br>
+                   <a href="http://mediatiedot.taloussanomat.fi/index.php/yhteystiedot">Yhteystiedot</a>
+                </li>
+                <li class="section">
+                    &copy; Sanoma Media Finland Oy / Taloussanomat
+                </li>
+                <li class="section">
+                    <div class="oba"><a href="http://www.youronlinechoices.com/fi/" target="_blank">Käyttäytymiseen perustuva mainonta <img src="http://www.taloussanomat.fi/img/oba.png" alt=""></a></div>
+                </li>
+                <li class="section">
+                    <a href="http://www.naviatech.fi/julkaisujarjestelma" target="_blank"><img src="/pics/naviacms_julkaisujarjestelma.gif" border="0" title="Julkaisujärjestelmä" alt="Julkaisujärjestelmä" /></a>
+                </li>
+            </ul>
+        </div>
+        <div class="">
+            <ul class="sitemapCol">
+                <li class="main"><a href="/uutiset">Uutiset</a></li>
+                <li><a href="/data">data</a></li>
+                <li><a href="/bisnes">bisnes</a></li>
+                <li><a href="/mobiili">mobiili</a></li>
+                <li><a href="/tyo-ja-ura">työ ja ura</a></li>
+                <li><a href="/tietoturva">tietoturva</a></li>
+                <li><a href="/tiede-ja-teknologia">tiede ja teknologia</a></li>
+                <li><a href="/vimpaimet">vimpaimet</a></li>
+                <li><a href="/yhteiskunta">yhteiskunta</a></li>
+                <li><a href="/viihde">viihde</a></li>
+                <li><a href="/mielipide">mielipide</a></li>
+            </ul>
+            <ul class="sitemapCol">
+                <li class="main"><a href="/uutispaiva">Uutispäivä</a></li>
+                <li class="main"><a href="/uutisviikko">Uutisviikko</a></li>
+                <li>&nbsp;</li>
+                <li><a href="http://www.taloussanomat.fi/rekisteriseloste-sivusto/">Rekisteriseloste</a></li>
+                <li><a href="http://www.taloussanomat.fi/kayttoehdot/">Käyttöehdot</a></li>
+                <li><a href="http://www.sanoma.fi/tietosuojalauseke">Tietosuojalauseke</a></li>
+            </ul>
+            <ul class="sitemapCol">
+                <li class="main"><a href="http://m.digitoday.fi/">Mobiiliversio</a></li>
+                <!-- li class="main"><a href="/teksti">Tekstiversio</a></li -->
+                <li>&nbsp;</li>
+                <li class="main"><a href="/uutiskirjeet">Tilaa uutiskirje</a></li>
+                <li class="main"><a href="/rss">RSS</a></li>
+                <li><a href="/rss">Uutisikkuna omille sivuillesi</a></li>
+            </ul>
+            <ul class="sitemapCol">
+                <li class="main"><a href="http://www.taloussanomat.fi/mediatiedot/digitoday/">Mediakortti</a></li>
+                <li class="main"><a href="/toimitus">Yhteystiedot</a></li>
+                <li><a href="/toimitus">Toimitus</a></li>
+                <li><a href="/toimitus#palaute">Palaute</a></li>
+                <li><a href="/toimitus#palaute">Uutisvinkki</a></li>
+            </ul>
+        </div>
+    </div>
+</div><!--/footer-->
+<!-- mittaus -->
+<script type="text/javascript" src="/js/spring.js">
+</script>
+<script type="text/javascript">
+var sp_e0 = {
+"s":"talsa",
+"cp":"talsa/digitoday",
+"url":document.location.href
+}
+spring.c(sp_e0);
+</script>
+<noscript><img src="http://talsa.spring-tns.net/j0=,,,;+,,cp=talsa/digitoday;;;;" alt=""></noscript>
+
+<script type="text/javascript"> 
+// <![CDATA[
+function udm_(a){var b="comScore=",c=document,d=c.cookie,e="",f="indexOf",g="substring",h="length",i=2048,j,k="&ns_",l="&",m,n,o,p,q=window,r=q.encodeURIComponent||escape;if(d[f](b)+1)for(o=0,n=d.split(";"),p=n[h];o<p;o++)m=n[o][f](b),m+1&&(e=l+unescape(n[o][g](m+b[h])));a+=k+"_t="+ +(new Date)+k+"c="+(c.characterSet||c.defaultCharset||"")+"&c8="+r(c.title)+e+"&c7="+r(c.URL)+"&c9="+r(c.referrer),a[h]>i&&a[f](l)>0&&(j=a[g](0,i-8).lastIndexOf(l),a=(a[g](0,j)+k+"cut="+r(a[g](j+1)))[g](0,i)),c.images?(m=new Image,q.ns_p||(ns_p=m),m.src=a):c.write("<","p","><",'img src="',a,'" height="1" width="1" alt="*"',"><","/p",">")}
+udm_('http'+(document.location.href.charAt(4)=='s'?'s://sb':'://b')+'.scorecardresearch.com/b?c1=2&c2=6035634&ns_site=digitoday-fi&name=digitoday.kaikki.page');
+// ]]>
+</script>
+<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&c2=6035634&ns_site=digitoday-fi&name=digitoday.kaikki.page" height="1" width="1" alt="*"></p></noscript> 
+<script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/6035634/cs.js"></script>
+
+
+<!-- DOP -->
+<script language="javascript" src="http://static.sanoma.fi/weba/js/ls/zig.js" type="text/javascript"></script>
+
+
+	<script type='text/javascript'>
+	    var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 54060;
+	    _sf_async_config.domain = 'taloussanomat.fi';
+	    _sf_async_config.useCanonical = true;
+	    _sf_async_config.sections = 'xDigitoday,Data';
+	    _sf_async_config.authors = '';
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement('script');
+	        e.setAttribute('language', 'javascript');
+	        e.setAttribute('type', 'text/javascript');
+	        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != 'function') ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
+	</script>
+
+
+<!-- -->
+<!-- X -->
+
+	<script>
+	  var v_sat = {
+	/*    aid: 'asdaf',
+		eid: 'iscookie123',*/
+		sit: 'dgt',
+		cha: 'web',
+		cat: 'Data',
+		cid: '20145190',
+		evt: 'content'
+	  };
+
+	/*  var v_csat = {
+	is1: 'foo',
+		is2: 'bar'
+	  };  */
+  
+	  (function() {
+		var sat = document.createElement('script'); sat.type = 'text/javascript'; sat.async = true;
+		sat.src = 'http://sat.sanoma.fi/js/sat.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sat, s);
+	  })();
+	</script>
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","bam.nr-data.net","5502d22d93","5576255","MQRXMEtYXEFTBxdQWghOYBZQFkJTVQFNSV0W",0,268,new Date().getTime(),"","","","",""]);</script></body>
+</html>
+<!-- Dynamically created with Navia CMS 2004 (c) Naviatech Oy 2004. www.naviatech.fi-->
