@@ -1,172 +1,172 @@
-<HEADLINE>
-USA
-aikoo
-rajoittaa
-NSA
-:
-ta
-—
-laiha
-lohtu
-ulkomailla
-
-<DATE>
-25.3.2014 13:58
-
-<INGRESS>
-Uusi
-lakiehdotus
-pyrkii
-rajoittamaan
-NSA
-:
-n
-tekemää
-puhelujen
-urkintaa
-Yhdysvalloissa
-.
-
-Laki
-ei
-kuitenkaan
-rajoita
-NSA
-:
-n
-teleurkintaa
-muualla
-maailmassa
-.
-
-<BODY>
-<PARAGRAPH>
-Presidentti
-Barack
-Obaman
-hallinto
-aikoo
-ehdottaa
-lakia
-,
-joka
-rajoittaisi
-turvallisuusvirasto
-NSA
-:
-n
-oikeutta
-tallentaa
-yhdysvaltalaisten
-puhelutietoja
-,
-kertoo
-muun
-muassa
-The
-New
-York
-Times
--sanomalehti
-.
-
-<PARAGRAPH>
-Lakiehdotuksen
-mukaan
-NSA
-ei
-voisi
-suoraan
-tallentaa
-yhdysvaltalaisten
-puhelutietoja
-,
-vaan
-ne
-säilyisivät
-operaattoreiden
-hallussa
-.
-
-Niiden
-täytyy
-säilyttää
-tietoja
-normaalin
-ajan
-,
-joka
-yleensä
-on
-18
-kuukautta
-.
-
-<PARAGRAPH>
-NSA
-voisi
-saada
-haltuunsa
-tiettyjen
-epäiltyjen
-henkilöiden
-teletiedot
-uudentyyppisellä
-oikeuden
-luvalla
-.
-
-The
-Wall
-Street
-Journal
--sanomalehden
-mukaan
-NSA
-:
-n
-tarvitsisi
-kuitenkin
-hakea
-oikeuden
-lupaa
-vasta
-sen
-jälkeen
-,
-kun
-se
-on
-jo
-aloittanut
-tietojen
-keruun
-.
-
-<PARAGRAPH>
-Lakiehdotuksessa
-on
-Yhdysvaltojen
-ulkopuolelta
-katsottuna
-toinenkin
-selvä
-puute
-:
-Se
-koskee
-vain
-Yhdysvaltoja
-.
-
-NSA
-:
-n
-tietojenkeruuta
-muualla
-maailmassa
-se
-ei
-edelleenkään
-rajoita
-.
+<HEADLINE>	
+USA	loc
+aikoo	
+rajoittaa	
+NSA	org
+:	org
+ta	org
+—	
+laiha	
+lohtu	
+ulkomailla	
+	
+<DATE>	
+25.3.2014 13:58	
+	
+<INGRESS>	
+Uusi	
+lakiehdotus	
+pyrkii	
+rajoittamaan	
+NSA	org
+:	org
+n	org
+tekemää	
+puhelujen	
+urkintaa	
+Yhdysvalloissa	loc
+.	
+	
+Laki	
+ei	
+kuitenkaan	
+rajoita	
+NSA	org
+:	org
+n	org
+teleurkintaa	
+muualla	
+maailmassa	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Presidentti	tit
+Barack	per
+Obaman	per
+hallinto	
+aikoo	
+ehdottaa	
+lakia	
+,	
+joka	
+rajoittaisi	
+turvallisuusvirasto	
+NSA	org
+:	org
+n	org
+oikeutta	
+tallentaa	
+yhdysvaltalaisten	
+puhelutietoja	
+,	
+kertoo	
+muun	
+muassa	
+The	org
+New	org
+York	org
+Times	org
+-sanomalehti	org
+.	
+	
+<PARAGRAPH>	
+Lakiehdotuksen	
+mukaan	
+NSA	org
+ei	
+voisi	
+suoraan	
+tallentaa	
+yhdysvaltalaisten	
+puhelutietoja	
+,	
+vaan	
+ne	
+säilyisivät	
+operaattoreiden	
+hallussa	
+.	
+	
+Niiden	
+täytyy	
+säilyttää	
+tietoja	
+normaalin	
+ajan	
+,	
+joka	
+yleensä	
+on	
+18	
+kuukautta	
+.	
+	
+<PARAGRAPH>	
+NSA	org
+voisi	
+saada	
+haltuunsa	
+tiettyjen	
+epäiltyjen	
+henkilöiden	
+teletiedot	
+uudentyyppisellä	
+oikeuden	
+luvalla	
+.	
+	
+The	org
+Wall	org
+Street	org
+Journal	org
+-sanomalehden	org
+mukaan	
+NSA	org
+:	org
+n	org
+tarvitsisi	
+kuitenkin	
+hakea	
+oikeuden	
+lupaa	
+vasta	
+sen	
+jälkeen	
+,	
+kun	
+se	
+on	
+jo	
+aloittanut	
+tietojen	
+keruun	
+.	
+	
+<PARAGRAPH>	
+Lakiehdotuksessa	
+on	
+Yhdysvaltojen	loc
+ulkopuolelta	
+katsottuna	
+toinenkin	
+selvä	
+puute	
+:	
+Se	
+koskee	
+vain	
+Yhdysvaltoja	loc
+.	
+	
+NSA	org
+:	org
+n	org
+tietojenkeruuta	
+muualla	
+maailmassa	
+se	
+ei	
+edelleenkään	
+rajoita	
+.	

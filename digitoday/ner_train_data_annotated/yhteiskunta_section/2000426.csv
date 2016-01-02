@@ -1,193 +1,193 @@
-<HEADLINE>
-Ärsyttävä
-pahantekijä
-/
-tietoturvan
-esitaistelija
-taistelee
-vapaudestaan
-
-<DATE>
-20.3.2014 14:24
-
-<INGRESS>
-Tietoturvayhteisöä
-jakanut
-ja
-iPad-ostajien
-tietoja
-kerännyt
-hakkeri
-saa
-pian
-tietää
-,
-kaatuuko
-hänen
-laajaa
-huomiota
-saanut
-vankeustuomionsa
-.
-
-<BODY>
-<PARAGRAPH>
-Andrew
-"
-Weev
-"
-Auernheimerin
-lakitiimin
-oli
-määrä
-esiintyä
-keskiviikkona
-vetoomusoikeudessa
-Yhdysvalloissa
-saadakseen
-kumottua
-miehelle
-vuosi
-sitten
-langetetun
-vankeustuomion
-.
-
-<PARAGRAPH>
-Tuomio
-oli
-seurausta
-teleyhtiö
-AT
-&
-amp
-;
-T
-;
-:
-n
-bugista
-,
-jota
-Auernheimer
-käytti
-hyväkseen
-yhdessä
-toisen
-henkilön
-kanssa
-.
-
-He
-onnistuivat
-varsin
-yksinkertaisesti
-keräämään
-yli
-sadan
-tuhannen
-iPad-ostajan
-sähköpostiosoitteet
-.
-
-Gawker
-julkaisi
-tiedot
-retusoituina
-.
-
-<PARAGRAPH>
-Auernheimerin
-tuomio
-oli
-3,5
-vuotta
-,
-ja
-Huffington
-Postin
-mukaan
-vetoomusoikeuden
-kuuleminen
-on
-hänen
-viimeinen
-oljenkortensa
-vapauden
-voittamiseksi
-takaisin
-.
-
-<PARAGRAPH>
-Miestä
-puolustavat
-monet
-tietoturvatutkijat
-ja
-esimerkiksi
-selainkehittäjä
-Mozilla
-.
-
-Heidän
-mukaansa
-tuomio
-vaarantaa
-internetin
-tietoturvaa
-,
-kun
-tutkijat
-eivät
-enää
-uskalla
-ilmoittaa
-entiseen
-tapaan
-löytämistään
-haavoittuvuuksista
-.
-
-<PARAGRAPH>
-Vastapuolen
-mukaan
-Auernheimer
-yksinkertaisesti
-rikkoi
-lakia
-ja
-hänen
-olisi
-pitänyt
-ensin
-paljastaa
-löytönsä
-AT
-&
-amp
-;
-T
-;
-:
-lle
-journalistin
-sijaan
-.
-
-Myös
-suomalaisen
-F-Securen
-asiantuntija
-Sean
-Sullivan
-on
-ollut
-taipuvainen
-pitämään
-Auernheimeria
-pikemminkin
-häirikkönä
-kuin
-ansioituneena
-hakkerina
-.
+<HEADLINE>	
+Ärsyttävä	
+pahantekijä	
+/	
+tietoturvan	
+esitaistelija	
+taistelee	
+vapaudestaan	
+	
+<DATE>	
+20.3.2014 14:24	
+	
+<INGRESS>	
+Tietoturvayhteisöä	
+jakanut	
+ja	
+iPad-ostajien	misc
+tietoja	
+kerännyt	
+hakkeri	
+saa	
+pian	
+tietää	
+,	
+kaatuuko	
+hänen	
+laajaa	
+huomiota	
+saanut	
+vankeustuomionsa	
+.	
+	
+<BODY>	
+<PARAGRAPH>	
+Andrew	per
+"	per
+Weev	per
+"	per
+Auernheimerin	per
+lakitiimin	
+oli	
+määrä	
+esiintyä	
+keskiviikkona	
+vetoomusoikeudessa	
+Yhdysvalloissa	loc
+saadakseen	
+kumottua	
+miehelle	
+vuosi	
+sitten	
+langetetun	
+vankeustuomion	
+.	
+	
+<PARAGRAPH>	
+Tuomio	
+oli	
+seurausta	
+teleyhtiö	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+:	org
+n	org
+bugista	
+,	
+jota	
+Auernheimer	per
+käytti	
+hyväkseen	
+yhdessä	
+toisen	
+henkilön	
+kanssa	
+.	
+	
+He	
+onnistuivat	
+varsin	
+yksinkertaisesti	
+keräämään	
+yli	
+sadan	
+tuhannen	
+iPad-ostajan	misc
+sähköpostiosoitteet	
+.	
+	
+Gawker	org
+julkaisi	
+tiedot	
+retusoituina	
+.	
+	
+<PARAGRAPH>	
+Auernheimerin	per
+tuomio	
+oli	
+3,5	
+vuotta	
+,	
+ja	
+Huffington	org
+Postin	org
+mukaan	
+vetoomusoikeuden	
+kuuleminen	
+on	
+hänen	
+viimeinen	
+oljenkortensa	
+vapauden	
+voittamiseksi	
+takaisin	
+.	
+	
+<PARAGRAPH>	
+Miestä	
+puolustavat	
+monet	
+tietoturvatutkijat	
+ja	
+esimerkiksi	
+selainkehittäjä	
+Mozilla	org
+.	
+	
+Heidän	
+mukaansa	
+tuomio	
+vaarantaa	
+internetin	
+tietoturvaa	
+,	
+kun	
+tutkijat	
+eivät	
+enää	
+uskalla	
+ilmoittaa	
+entiseen	
+tapaan	
+löytämistään	
+haavoittuvuuksista	
+.	
+	
+<PARAGRAPH>	
+Vastapuolen	
+mukaan	
+Auernheimer	per
+yksinkertaisesti	
+rikkoi	
+lakia	
+ja	
+hänen	
+olisi	
+pitänyt	
+ensin	
+paljastaa	
+löytönsä	
+AT	org
+&	org
+amp	org
+;	org
+T	org
+;	org
+:	org
+lle	org
+journalistin	
+sijaan	
+.	
+	
+Myös	
+suomalaisen	
+F-Securen	org
+asiantuntija	tit
+Sean	per
+Sullivan	per
+on	
+ollut	
+taipuvainen	
+pitämään	
+Auernheimeria	per
+pikemminkin	
+häirikkönä	
+kuin	
+ansioituneena	
+hakkerina	
+.	
