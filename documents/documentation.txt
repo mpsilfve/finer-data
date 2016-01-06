@@ -17,39 +17,31 @@ Commercial companies
 Communities of people (Google Orkut)
 Political parties
 Public administration (Ulkoministeriö, Yhdysvaltain hallitus)
-News agencies/News services/Newspapers/Newsrooms/News sites
+News agencies/News services/Newspapers/Newsrooms/News sites/News blogs
 Television network/station/channel (KPIX-televisioasema, CNBC, CNN, BBC)
 Stock exchange (e.g. New Yorkin pörssi)
 
 
-3. Product/Service/Project (PRO)
+3. Product/Product-like Service/Project (PRO)
 
 Algorithms
 Artefacts
-Blogs
-Events (e.g. IFA-messut)
 Laws (e.g. Patriot Act-laki)
 Networks (other than television network, e.g. )
-#Newspapers
-#News services
 Platforms (Google Play, Kickstarter)
 Projects/Programs
 Protocols (e.g. pop3, imap)
 Services (e.g. Apple Store, Google Play)
 Software (e.g. Windows 10)
-Space probes (Opportunity)
+Space probes (e.g. Opportunity)
 Systems (e.g. Alipay-järjestelmä)
-Technology standards (bluetooth)
 Websites (not single web-links)
 Works
 
 
-# Technologies (e.g. GPS-paikannus, WLAN, LAN, WAN) (ei mukana enää)
-
-
 4. Person (PER)
 
-Proper names, aliases
+Proper names, aliases.
 
 
 5. Title (TIT)
@@ -59,9 +51,113 @@ Titles for people in immediate pre-context of proper names.
 päälakimies/TIT ja/O yrityskehitysjohtaja/TIT David/PER Drummond/PER
 
 
-6. Miscellaneous (MISC)
+6. Events (EVENT)
 
-Terms of which one part is a location, organisation, or person but which do not fall into the one of these categories (e.g. Apple-tili, Heartbleed-haavoittuvuus)
+Things explicitly referred to as events (Defcon-tapahtuma)
+Expos (e.g. IFA-messut)
+Competitions (e.g. jalkapallon vuoden 2022 MM-kisat)
+
+
+7. Miscellaneous (MISC)
+
+Terms of which one part is a location, organisation, or person but which do not fall into the one of these categories (e.g. Apple-tili, Heartbleed-haavoittuvuus, Instagram-suosio)
+
+
+8. Temporal (TEMP)
+
+Temporal expressions including relative (e.g. ensi vuonna) and absolute expressions (e.g. toukokuussa 2010)
+
+
+“myöhemmin/aikaisemmin”
+
+Ei merkata, jos ei ole lisämääreitä, esim. “vuotta myöhemmin”
+
+“yhtäjaksoisesti/edelleen”
+
+Ei merkata
+
+“ennen/jälkeen/nyt/kohta”
+
+Ei merkata, jos ei ole lisämääreitä, esim. “ennen vuotta 2013”
+
+“nykyinen/entinen”
+
+Ei merkata.
+
+“jatkuvasti”
+
+Ei merkata
+
+“uusi/vanha”
+
+Ei merkata
+
+“tällä kertaa/toisen kerran”
+
+Ei merkata
+
+
+“tällä hetkellä”
+
+Merkataan kokonaisena segmenttinä
+
+“vuosia/vuosien ajan”
+
+Merkataan
+
+“kaksi vuotta/10 päivää”
+
+Merkataan
+
+“kesä/talvi/syksy/kevät”
+
+Merkataan
+
+“kuukaudessa/per vuosi”
+
+Merkataan
+
+“marraskuun alussa”
+
+Merkataan kokonaisena segmenttinä
+
+“joka päivä elokuun 10. päivästä lähtien”
+
+Merkataan kokonaisena segmenttinä
+
+“noin kahden vuoden päästä”
+
+Merkataan kokonaisena segmenttinä
+
+“toisen kerran tällä viikolla”
+
+Merkataan kokonaisena segmenttinä
+
+“torstaina kello 13”
+
+Merkataan kokonaisena segmenttinä
+
+“29. syyskuuta”
+
+Merkataan kokonaisena segmenttinä
+
+“heinäkuussa 2010”
+
+Merkataan kokonaisena segmenttinä
+
+“vuoden 2014 tienoilla”
+
+Merkataan kokonaisena segmenttinä
+
+“vuoden 2018 kesään asti”
+
+Merkataan kokonaisena segmenttinä
+
+
+
+
+
+
 
 
 Statistics.
