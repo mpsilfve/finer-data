@@ -285,8 +285,8 @@ operator
 	
 15	tim
 vuoden	tim
-seurantajakson	tim
-aikana	tim
+seurantajakson	
+aikana	
 210	
 palveluoperaattoria	
 on	
@@ -1841,7 +1841,7 @@ ovat
 väitelleet	
 nettitallennuspalvelujen	
 laillisuudesta	
-vuosia	
+vuosia	tim
 .	
 	
 Äärimmilleen	
@@ -1895,8 +1895,8 @@ myös
 takaraja	
 ,	
 ja	
-kaksi	
-vuotta	
+kaksi	tim
+vuotta	tim
 vanhat	
 tallennukset	
 aiotaan	
@@ -2005,8 +2005,8 @@ katseluajankohdan
 mukaan	
 .	
 	
-Viikko	
-sitten	
+Viikko	tim
+sitten	tim
 tallennetun	
 ohjelman	
 yhteydessä	
@@ -2049,8 +2049,8 @@ tarkoituksena
 on	
 ratkaista	
 asia	
-syksyn	
-aikana	
+syksyn	tim
+aikana	tim
 .	
 	
 Mainonnan	
@@ -2160,8 +2160,8 @@ kehittämistä
 <PARAGRAPH>	
 —	
 Jo	
-vuosien	
-ajan	
+vuosien	tim
+ajan	tim
 toimintaympäristö	
 on	
 muuttunut	
@@ -2250,8 +2250,8 @@ Sanoma-konsernia	org
 .	
 	
 <HEADLINE>	
-10	
-päivää	
+10	tim
+päivää	tim
 vastausaikaa	
 :	
 Myös	
@@ -2270,8 +2270,8 @@ on
 tutkinut	
 Googlen	org
 toimia	
-kolme	
-vuotta	
+kolme	tim
+vuotta	tim
 ja	
 vaatii	
 hakukonejätiltä	
@@ -2283,8 +2283,8 @@ Intian	org
 kilpailukomissio	org
 antoi	
 Googlelle	org
-10	
-päivää	
+10	tim
+päivää	tim
 vastausaikaa	
 .	
 	
@@ -2328,17 +2328,17 @@ vastaavista
 syytöksiä	
 pienin	
 menettelytapamuutoksin	
-vuonna	
-2013.	
+vuonna	tim
+2013.	tim
 Euroopassa	loc
 Google	org
 vastasi	
-vuosien	
-mittaiseksi	
+vuosien	tim
+mittaiseksi	tim
 venyneeseen	
 selvitykseen	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 kiistämällä	
 väitteet	
 epäreilusta	
@@ -2625,9 +2625,9 @@ saatiin
 Lifelinelta	org
 ja	
 Sunstonelta	org
-viime	
-vuoden	
-lopulla	
+viime	tim
+vuoden	tim
+lopulla	tim
 .	
 	
 Nyt	
@@ -2717,8 +2717,8 @@ kehittämiseen
 .	
 	
 <PARAGRAPH>	
-Viime	
-vuonna	
+Viime	tim
+vuonna	tim
 perustettu	
 Everywear	org
 on	
@@ -2750,9 +2750,9 @@ jotka
 palaavat	
 pelin	
 ääreen	
-ensimmäisen	
-päivän	
-jälkeen	
+ensimmäisen	tim
+päivän	tim
+jälkeen	tim
 ,	
 on	
 56	
@@ -2778,7 +2778,7 @@ kellottavat
 yli	
 sata	
 sessiota	
-päivässä	
+päivässä	tim
 .	
 	
 <PARAGRAPH>	
@@ -2872,8 +2872,8 @@ mielipiteitä
 –	
 Apple	org
 on	
-kolmessa	
-kuukaudessa	
+kolmessa	tim
+kuukaudessa	tim
 noussut	
 maailman	
 toiseksi	
@@ -2958,7 +2958,7 @@ Evolutionin	pro
 ylläpitäjä	
 sulki	
 palvelunsa	
-maaliskuussa	
+maaliskuussa	tim
 ja	
 varasti	
 käyttäjiensä	
