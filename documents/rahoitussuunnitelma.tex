@@ -1,0 +1,40 @@
+
+
+ \documentclass[12pt,a4paper,finnish,oneside]{article}
+ 
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc} 
+ \usepackage[T1]{fontenc}
+ \usepackage[finnish]{babel}
+ \usepackage{url}
+
+
+\newcommand{\fixme}[1]{\textsl{[#1]}}
+
+
+
+
+\begin{document}
+
+
+\title{Automaattisen nimentunnistimen kehittäminen suomen kielelle: Rahoitussuunnitelma}
+\date{}
+\author{Teemu Ruokolainen}
+
+
+\maketitle
+
+
+Hankkeen kokonaiskustannukseksi vuonna 2016 arvioidaan 36000 euroa. Summa koostuu hakijan palkkakustannuksista (3000 euroa/kk). FinClarin-projekti () on sitoutunut maksamaan summasta 50\% (18000 euroa). Tässä hakemuksessa esitetty 18000 euroa muodostaa siis loput 50\% kokonaiskustannuksista.
+
+
+
+%Nimentunnistaja kehitetään hyödyntäen modernia tilastollista koneoppimismetodologiaa. Kehitysprosessi jakaantuu kahteen osaan. Ensimmäisessä osassa ihmisasiantuntija paikantaa ja merkitsee nimet tekstiaineistoon. Lähtökohtaisena tekstiaineistona käytetään uutissivusto DigiTodaysta vuosina 2014 ja 2015 haettuja artikkeleita. Toisessa osassa merkittyä aineistoa käytetään tilastollisen tunnistajan opettamiseen. Ihmisen muodostaman opetusaineiston lisäksi tunnistaja hyödyntää Helsingin Yliopistossa aikasemmin kehitettyä tilastollista morfologista suomen kielen jäsennintä, FinnPosia \citep{}, sekä sääntöpohjaista suomen kielen nimentunnistajaa, FiNer:iä \citep{}. Sääntöpohjaisen FiNer-tunnistajan vahvuus piilee sen hyvässä tarkkuudessa (precision) mutta heikkous huonossa kattavuudessa (recall). Menetelmän hyvä tarkkuus merkitsee sitä, että kaikki tunnistetut termit ovat suurella todennäköisyydellä oikeita nimiä. Huono kattavuus taas merkitsee sitä, että suuri osa nimistä jää tunnistamatta suurella todennäköisyydellä. Tilastolliset menetelmät sitä vastoin saavuttavat sekä hyvän tarkkuuden että hyvän kattavuuden. Tämän vuoksi parhaimmat nimentunnistimet, kuten alunperin englannille kehitetty Stanford Named Entity Recognizer \citep{}, hyödyntävät tilastollista koneoppimismetodologiaa. Tilastollista lähestymistapaa hyödyntävää tunnistajaa on myös helpompi laajentaa muihin tekstilajeihin verrattuna sääntöpohjaiseen menetelmään.
+
+
+%Automaattisen kielenkäsittelyn tutkimuksessa nimentunnistus on ollut pitkään kehityksen kohde. Esimerkiksi englannille ensimmäiset modernia tilastollista metodologiaa käyttävät tunnistustyökalut (mm. Stanford Named Entity Recognizer) julkaistiin jo 2000-luvun puolivälissä. On kuitenkin tyypillistä, että pienemmillä kielialueilla kieliresurssien kehittäminen ja julkaiseminen tapahtuu jäljessä. Esimerkiksi ensimmäinen englannin kielisiä resursseja vastaava ruotsinkielinen nimentunnistustyökalu (SweNER) julkaistiin vuonna 2013. Vastaavaa resurssia ei ole julkaistu suomelle.
+
+
+\end{document}
+
+

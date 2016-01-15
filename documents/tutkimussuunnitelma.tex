@@ -17,7 +17,7 @@
 \begin{document}
 
 
-\title{Automaattisen nimentunnistajan kehittäminen suomen kielelle}
+\title{Automaattisen nimentunnistimen kehittäminen suomen kielelle}
 \date{}
 \author{Teemu Ruokolainen}
 
@@ -27,7 +27,7 @@
 
 \section{Tutkimusongelman kuvaus}
 
-Elektronisessa muodossa olevan tekstin määrän raju kasvu viime vuosikymmeninä on lisännyt tarvetta kehittää automaattisia tapoja käsitellä ja analysoida kirjoitettua kieltä. Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. juoksevassa tekstissä esiintyvien nimien tunnistamiseen käytetyt tekniikat. Tässä suunnitelmassa kuvatussa tutkimuksessa keskitytään automaattisen nimentunnistajan kehittämiseen suomen kielelle. 
+Elektronisessa muodossa olevan tekstin määrän raju kasvu viime vuosikymmeninä on lisännyt tarvetta kehittää automaattisia tapoja käsitellä ja analysoida kirjoitettua kieltä. Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. juoksevassa tekstissä esiintyvien nimien tunnistamiseen käytetyt tekniikat. Tässä suunnitelmassa kuvatussa tutkimuksessa keskitytään automaattisen nimentunnistimen kehittämiseen suomen kielelle. 
 
 %Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. erilaiset dokumenttien luokittelijat ja ryhmittelijät sekä juoksevassa tekstissä esiintyvien konseptien tunnistamiseen käytetyt tekniikat. Ehdotetussa tutkimuksessa keskitytään jälkimmäisiin menetelmiin kuuluvan nimentunnistajan kehittämiseen suomen kielelle.
 
@@ -36,12 +36,12 @@ Nimentunnistus tähtää juoksevassa tekstissä esiintyvien termien, kuten henki
 
 \section{Tutkimuksen tavoite}
 
-Tutkimuksen tavoitteena on kehittää ensimmäinen moderneja tilastollisia menetelmiä hyödyntävä automaattinen nimentunnistaja suomen kielelle. Tunnistajan toteutus julkaistaan avoimena lähdekoodina ja sitä voidaan hyödyntää vapaasti tutkimuskäytössä. Työkalun kehittämisestä julkaistaan myös vertaisarvioitu tieteellinen artikkeli esimerkiksi Journal of Language Resources and Evaluation-julkaisussa (JuFo-taso 2).
+Tutkimuksen tavoitteena on kehittää ensimmäinen moderneja tilastollisia menetelmiä hyödyntävä automaattinen nimentunnistin suomen kielelle. Tunnistimen toteutus julkaistaan avoimena lähdekoodina ja sitä voidaan hyödyntää vapaasti tutkimuskäytössä. Työkalun kehittämisestä julkaistaan myös vertaisarvioitu tieteellinen artikkeli esimerkiksi Journal of Language Resources and Evaluation-julkaisussa (JuFo-taso 2).
 
 
 \section{Menetelmät}
 
-Tällä hetkellä suomen kielelle on saatavilla Helsingin Yliopiston Nykykielten laitoksella kehitetty automaattinen nimentunnistin, FiNer \cite{}. FiNer hyödyntää perinteistä sääntöpohjaista tunnistustapaa, jossa nimet paikannetaan ja luokitellaan käyttäen käsin muodostettuja sääntöjä. Sääntöpohjaisen lähestymistavan vahvuus piilee sen hyvässä tarkkuudessa mutta heikkous huonossa kattavuudessa. Menetelmän hyvä tarkkuus tarkoittaa sitä, että kaikki menetelmän palauttamat termit ovat suurella todennäköisyydellä oikeita nimiä. Menetelmän huono kattavuus kuitenkin tarkoittaa sitä, että suuri osa tekstissä esiintyvistä nimistä jää tunnistamatta suurella todennäköisyydellä. Tämän vuoksi modernit nimentunnistimet, kuten alunperin englannille kehitetty Stanford Named Entity Recognizer \cite{stanfordner}, hyödyntävät tilastollisia koneoppimismenetelmiä. Toisin kuin sääntöpohjainen lähestymistapa, tilastollinen lähestymistapa mahdollistaa sekä hyvän tunnistustarkkuuden että -kattavuuden. Tilastollista lähestymistapaa hyödyntävä tunnistaja voidaan myös laajentaa useammalle tekstilajille suoraviivaisemmin kuin sääntöihin perustuva menetelmä. Näistä syistä ehdotetussa tutkimuksessa keskitytään nimentunnistimen kehittämiseen hyödyntäen tilastollista koneoppimista.
+Tällä hetkellä suomen kielelle on saatavilla Helsingin Yliopiston Nykykielten laitoksella kehitetty automaattinen nimentunnistin, FiNer \cite{}. FiNer hyödyntää perinteistä sääntöpohjaista tunnistustapaa, jossa nimet paikannetaan ja luokitellaan käyttäen käsin muodostettuja sääntöjä. Sääntöpohjaisen lähestymistavan vahvuus piilee sen hyvässä tarkkuudessa mutta heikkous huonossa kattavuudessa. Menetelmän hyvä tarkkuus tarkoittaa sitä, että kaikki menetelmän palauttamat termit ovat suurella todennäköisyydellä oikeita nimiä. Menetelmän huono kattavuus kuitenkin tarkoittaa sitä, että suuri osa tekstissä esiintyvistä nimistä jää tunnistamatta suurella todennäköisyydellä. Tämän vuoksi modernit nimentunnistimet, kuten alunperin englannille kehitetty Stanford Named Entity Recognizer \cite{stanfordner}, hyödyntävät tilastollisia koneoppimismenetelmiä. Toisin kuin sääntöpohjainen lähestymistapa, tilastollinen lähestymistapa mahdollistaa sekä hyvän tunnistustarkkuuden että -kattavuuden. Tilastollista lähestymistapaa hyödyntävä tunnistin voidaan myös laajentaa useammalle tekstilajille suoraviivaisemmin kuin sääntöihin perustuva menetelmä. Näistä syistä ehdotetussa tutkimuksessa keskitytään nimentunnistimen kehittämiseen hyödyntäen tilastollista koneoppimista.
 
 Tilastollisen nimentunnistimen kehitysprosessi jakaantuu kahteen osaan. 
 
@@ -49,15 +49,19 @@ Tilastollisen nimentunnistimen kehitysprosessi jakaantuu kahteen osaan.
 
 \item[1)] Ihmisasiantuntija tunnistaa, eli paikantaa ja luokittelee, nimet tekstiaineistossa. Lähtökohtaisena tekstiaineistona käytetään uutissivusto DigiTodaysta vuosina 2014 ja 2015 haettuja artikkeleita. \fixme{lisenssi}
 
-\item[2)] Kohdassa 1) luotua aineistoa käytetään tilastollisen tunnistajan opettamiseen. Tunnistajan toteutuksessa hyödynnetään äskettäin suomen kielelle julkaistua tilastollista morfologista jäsennintä, FinnPos:ia \cite{silfverberg2015}\cite{finnpos}.\footnote{Hakija oli toinen FinnPos:in pääkehittäjistä.} Vapaassa levityksessä oleva FinnPos perustuu menetelmällisesti samaan laadukkaaseen oppimistekniikkaan kuin mm. yllä mainittu Stanford Named Entity Recognizer. Muodostetun opetusaineiston lisäksi tunnistajan toteutuksessa voidaan hyödyntää jo olemassaolevaa sääntöpohjaista FiNer:iä.
+\item[2)] Kohdassa 1) luotua aineistoa käytetään tilastollisen tunnistin opettamiseen. Tunnistimen toteutuksessa hyödynnetään äskettäin suomen kielelle julkaistua tilastollista morfologista jäsennintä, FinnPos:ia \cite{silfverberg2015}\cite{finnpos}.\footnote{Hakija oli toinen FinnPos:in pääkehittäjistä.} Vapaassa levityksessä oleva FinnPos perustuu menetelmällisesti samaan laadukkaaseen oppimistekniikkaan kuin mm. yllä mainittu Stanford Named Entity Recognizer. Muodostetun opetusaineiston lisäksi tunnistimen toteutuksessa voidaan hyödyntää jo olemassaolevaa sääntöpohjaista FiNer:iä.
 
 \end{itemize}
 
-\section{Aikataulu ja rahoitus}
 
-Hanke aloitettiin Helsingin Yliopiston Nykykielten laitoksella syyskuussa 2015. Nimentunnistajan ensimmäinen versio julkaistaan joulukuussa 2016.
 
-Hankkeen kokonaiskustannukseksi vuonna 2016 arvioidaan 36000 euroa. Summa koostuu hakijan palkkakustannuksista. FinClarin-projekti () on sitoutunut maksamaan summasta 50\% (18000 euroa). Tässä hakemuksessa esitetty 18000 euroa muodostaa loput 50\% kokonaiskustannuksista.
+\section{Aikataulu ja yhteistyötahot}
+
+Hanke aloitettiin Helsingin Yliopiston Nykykielten laitoksella syyskuussa 2015. Nimentunnistimen ensimmäinen versio julkaistaan joulukuussa 2016. Hanke toteutetaan yhteistyössä Miikka Silfverbergin (tutkija, Helsingin Yliopiston Nykykielten laitos) kanssa Krister Lindenin (johtava tutkija, Helsingin Yliopiston Nykykielten laitos) valvonnassa.
+
+%Hankkeen kokonaiskustannukseksi vuonna 2016 arvioidaan 36000 euroa. Summa koostuu hakijan palkkakustannuksista. FinClarin-projekti () on sitoutunut maksamaan summasta 50\% (18000 euroa). %Tässä hakemuksessa esitetty 18000 euroa muodostaa loput 50\% kokonaiskustannuksista.
+
+
 
 
 
