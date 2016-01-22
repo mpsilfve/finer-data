@@ -1,0 +1,193 @@
+
+
+ \documentclass[12pt,a4paper,finnish,oneside]{article}
+ 
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc} 
+ \usepackage[T1]{fontenc}
+ \usepackage[finnish]{babel}
+ \usepackage{url}
+
+
+\newcommand{\fixme}[1]{\textsl{[#1]}}
+
+
+
+
+\begin{document}
+
+
+\title{Automaattisen nimentunnistimen kehittäminen suomen kielelle: Tutkimussuunnitelma}
+\author{Teemu Ruokolainen}
+
+
+\maketitle
+
+
+\section{Tutkimushankkeen vastuullinen johtaja, hankkeen nimi ja suorituspaikka}
+
+Tutkimushanke \textit{Automaattisen nimentunnistimen kehittäminen suomen kielelle}  toteutetaan Helsingin Yliopiston Nykykielten laitoksella Krister Lindenin (johtava tutkija, Helsingin Yliopiston Nykykielten laitos) valvonnassa. %Tämä tutkimussuunnitelma on päivätty 22.1.2016.
+
+\section{Hakemuksen perustelu}
+
+Elektronisessa muodossa olevan tekstin määrän jatkuva kasvu lisää tarvetta kehittää automaattisia tapoja käsitellä ja analysoida kirjoitettua kieltä. Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. juoksevassa tekstissä esiintyvien nimien tunnistamiseen käytetyt tekniikat. Tässä suunnitelmassa kuvatussa tutkimuksessa keskitytään automaattisen nimentunnistimen kehittämiseen suomen kielelle. 
+
+Nimentunnistus tähtää juoksevassa tekstissä esiintyvien termien, kuten henkilöiden (\textit{Sauli Niinistö}), paikkojen (\textit{Rovaniemi}) ja organisaatioiden (\textit{Nokia Networks}) nimien paikantamiseen ja luokitteluun. Tunnistustulosta voidaan käyttää hyväksi ihmisen tai automaattisen järjestelmän suorittamassa tiedonlouhinnassa tai esimerkiksi dokumenttitietokannan hakutoiminnoissa. Automaattinen nimentunnistus tukee siis mm. Citizen Mindscapes:in \cite{citizenmindscapes} ja Kansalliskirjaston kokoelmien digitoimisen \cite{kansalliskirjasto} kaltaisia digitaalisten ihmistieteiden tutkimushankkeita. Nimentunnistusta on myös hyödynnetty teollisuudessa mm. Uutisnenä-sovelluksessa \cite{huovelin2013}.
+
+% Tutkimushankkeen merkitys suhteessa nykytietämykseen: miten hanke liittyy aiempaan kansainväliseen ja kansalliseen tutkimukseen ja edistää tai uudistaa sitä?
+Automaattisen kielenkäsittelyn tutkimuksessa nimentunnistus on ollut pitkään kehityksen kohde. Esimerkiksi englannille ensimmäiset modernia tilastollista metodologiaa käyttävät tunnistustyökalut, kuten Stanford Named Entity Recognizer \cite{stanfordner}, julkaistiin jo 2000-luvun puolivälissä. On kuitenkin tyypillistä, että pienemmillä kielialueilla kieliresurssien kehittäminen ja julkaiseminen tapahtuu jäljessä. Esimerkiksi ensimmäinen englannin kielisiä resursseja vastaava ruotsinkielinen nimentunnistustyökalu, SweNER \cite{ostling2013}, julkaistiin vuonna 2013. Vastaavaa resurssia ei ole julkaistu suomelle.
+
+% Miten hanke liittyy vastuullisen johtajan tai tutkimusryhmän aiempaan tai muuhun tutkimukseen?
+Hakija on aikaisemmin ollut kehittämässä FinnPos:ia, ensimmäistä avoimeen lähdekoodiin perustuvaa tilastollista morfologista jäsennintä suomen kielelle \cite{finnpos}. Jäsennin oli osa hakijan väitöskirjatutkimusta. Tässä suunnitelmassa esitetyn nimentunnistimen kehityksen on tarkoitus jatkaa vapaasti saatavilla olevien kieliteknologiaresurssien julkaisemista suomen kielelle.
+
+% Jos haulla on erityinen tavoite (esimerkiksi tutkimusohjelmahaut): miten tutkimus sopii tähän hakuun ja sen tavoitteisiin?
+
+
+%\section{Tutkimusongelman kuvaus}
+
+%Elektronisessa muodossa olevan tekstin määrän jatkuva kasvu lisää tarvetta kehittää automaattisia tapoja käsitellä ja analysoida kirjoitettua kieltä. Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. juoksevassa tekstissä esiintyvien nimien tunnistamiseen käytetyt tekniikat. Tässä suunnitelmassa kuvatussa tutkimuksessa keskitytään automaattisen nimentunnistimen kehittämiseen suomen kielelle. 
+
+%Tähän tarkoitukseen käytettyihin tekstinlouhintamenetelmiin kuuluvat mm. erilaiset dokumenttien luokittelijat ja ryhmittelijät sekä juoksevassa tekstissä esiintyvien konseptien tunnistamiseen käytetyt tekniikat. Ehdotetussa tutkimuksessa keskitytään jälkimmäisiin menetelmiin kuuluvan nimentunnistajan kehittämiseen suomen kielelle.
+
+%Nimentunnistus tähtää juoksevassa tekstissä esiintyvien termien, kuten henkilöiden (\textit{Sauli Niinistö}), paikkojen (\textit{Rovaniemi}) ja organisaatioiden (\textit{Nokia Networks}) nimien paikantamiseen ja luokitteluun. Tunnistustulosta voidaan käyttää hyväksi ihmisen tai automaattisen järjestelmän suorittamassa tiedonlouhinnassa tai esimerkiksi dokumenttitietokannan hakutoiminnoissa. Automaattinen nimentunnistus tukee siis mm. Citizen Mindscapes:in \cite{citizenmindscapes} ja Kansalliskirjaston kokoelmien digitoimisen \cite{kansalliskirjasto} kaltaisia digitaalisten ihmistieteiden tutkimushankkeita. Nimentunnistusta on myös hyödynnetty teollisuudessa mm. Uutisnenä-sovelluksessa \cite{huovelin2013}.
+
+
+\section{Tavoitteet}
+
+%Tutkimuksen tavoitteet
+%Hypoteesit
+%Tutkimuksen odotettu tieteellinen ja yhteiskunnallinen vaikuttavuus
+%Mahdollisuus tieteellisiin läpimurtoihin ja tutkimuksen ja tieteen uusiutumiseen
+%Tutkimustulosten sovellettavuus ja hyödyntämismahdollisuudet
+%Hankkeen onnistumisen kannalta kriittiset kohdat ja vaihtoehtoiset toteutustavat
+%Julkaisusuunnitelma: tutkimustulosten julkaiseminen ja tunnetuksi tekeminen tiedeyhteisölle, mahdollisille muille hyödyntäjille ja yleisölle
+
+%\section{Tutkimuksen tavoite}
+
+Tutkimuksen tavoitteena on kehittää ensimmäinen moderneja tilastollisia menetelmiä hyödyntävä automaattinen nimentunnistin suomen kielelle. Tunnistimen toteutus julkaistaan avoimena lähdekoodina ja sitä voidaan hyödyntää vapaasti tutkimuskäytössä. Työkalun kehittämisestä julkaistaan vertaisarvioitu tieteellinen artikkeli esimerkiksi Journal of Language Resources and Evaluation-julkaisussa (JuFo-taso 2).
+
+
+\section{Tutkimusmenetelmät ja aineisto}
+
+%Käytettävät tutkimusmenetelmät kuvattuna siten, että käy ilmi, miten ne edistävät tutkimuskysymyksiin vastaamista/hypoteesien todentamista tai tukevat valittua näkökulmaa
+%Tutkimusaineisto
+%Aineistonhallintasuunnitelma, jossa kerrotaan 
+%   - miten tutkimusaineisto hankitaan
+%  - miten sitä käytetään
+%  - miten aineisto säilytetään ja suojataan 
+%   - miten aineiston myöhempi käyttö mahdollistetaan ja miten se 
+%     avataan muiden käyttöön
+%   - mitkä ovat aineiston omistus- ja käyttöoikeudet.
+%Miten paikallinen, kansallinen ja kansainvälinen tutkimusympäristö tukevat hanketta konkreettisesti
+%Miten hankkeessa käytetään tutkimusinfrastruktuureja ja miten hanke hyötyy niiden käytöstä (Käytetyt infrastruktuurit lisätään myös lomakkeen kohtaanInfrastruktuurit/Infrastructures.)
+
+%\section{Menetelmät}
+
+Helsingin Yliopiston Nykykielten laitoksella on aikaisemmin kehitetty automaattinen nimentunnistin suomen kielelle, FiNer. Tunnistin ei ole kuitenkaan julkisesti saatavilla. Menetelmällisesti FiNer hyödyntää perinteistä sääntöpohjaista tunnistustapaa, jossa nimet paikannetaan ja luokitellaan käyttäen käsin muodostettuja sääntöjä. Sääntöpohjaisen lähestymistavan vahvuus piilee sen hyvässä tarkkuudessa mutta heikkous huonossa kattavuudessa. Menetelmän hyvä tarkkuus tarkoittaa sitä, että kaikki menetelmän palauttamat termit ovat suurella todennäköisyydellä oikeita nimiä. Menetelmän huono kattavuus kuitenkin tarkoittaa sitä, että suuri osa tekstissä esiintyvistä nimistä jää tunnistamatta suurella todennäköisyydellä. Tämän vuoksi modernit nimentunnistimet, kuten alunperin englannille kehitetty Stanford Named Entity Recognizer \cite{stanfordner}, hyödyntävät tilastollisia koneoppimismenetelmiä. Toisin kuin sääntöpohjainen lähestymistapa, tilastollinen lähestymistapa mahdollistaa sekä hyvän tunnistustarkkuuden että -kattavuuden. Tilastollista lähestymistapaa hyödyntävä tunnistin voidaan myös laajentaa useammalle tekstilajille suoraviivaisemmin kuin sääntöihin perustuva menetelmä. Näistä syistä ehdotetussa tutkimuksessa keskitytään nimentunnistimen kehittämiseen hyödyntäen tilastollista koneoppimista.
+
+Tilastollisen nimentunnistimen kehitysprosessi jakaantuu kahteen osaan. 
+
+\begin{itemize}
+
+\item[1)] Ihmisasiantuntija tunnistaa, eli paikantaa ja luokittelee, nimet tekstiaineistossa. Tekstiaineistona käytetään uutissivusto DigiToday:ssa vuosina 2014 ja 2015 julkaistuja artikkeleita. Digitodayn artikkelit kuuluvat Creative Commons-lisenssin piiriin. Tämä tarkoittaa, että myös tekstiaineisto nimentunnistusmerkintöineen voidaan julkaista tutkimusyhteisön käyttöön.
+
+\item[2)] Kohdassa 1) luotua aineistoa käytetään tilastollisen tunnistimen opettamiseen. Tunnistimen toteutuksessa hyödynnetään äskettäin suomen kielelle julkaistua tilastollista morfologista jäsennintä, FinnPos:ia \cite{silfverberg2015}\cite{finnpos}. Vapaassa levityksessä oleva FinnPos perustuu menetelmällisesti samaan laadukkaaseen oppimistekniikkaan kuin mm. yllä mainittu Stanford Named Entity Recognizer. Muodostetun opetusaineiston lisäksi tunnistimen toteutuksessa voidaan hyödyntää jo olemassaolevaa sääntöpohjaista FiNer:iä.
+
+\end{itemize}
+
+
+%\section{Eettiset kysymykset}
+
+%Tutkimusaiheeseen, menetelmiin ja aineistoihin liittyvät eettiset kysymykset (esimerkiksi menettelytavan eettisyys, tutkittavan tietoinen suostumus, tutkittavan anonymiteetin suojaaminen) sekä mahdolliset tutkimusluvat tai niiden hakeminen
+
+\section{Aikataulu}
+
+Tutkimushanke toteutetaan 21.2.2016 ja 28.2.2017 välisenä aikana Helsingin Yliopiston Nykykielten laitoksella Krister Lindenin (johtava tutkija, Helsingin Yliopiston Nykykielten laitos) valvonnassa. 
+
+% Tutkimustyön aikataulu
+%Hakemuslomakkeella ilmoitetun kokonaiskustannusarvion perustelut menolajeittain (budjettitaulukko perusteluineen). Kokonaiskustannuksiin ei tule sisällyttää mitään sellaisia kuluja, jotka eivät kulje suorituspaikan kirjanpidon kautta.
+%Hankkeessa työskentelevien henkilöiden nimet, tehtävät ja palkkauskustannukset perusteluineen. Jos nimet eivät ole tiedossa, merkitään N.N.
+%Tutkimushankkeissa (akatemiahankkeet, ohjelmahankkeet) lisäksi:
+%Arvio tutkimuksesta vastaavan johtajan tähän hankkeeseen käyttämästä työajasta
+%Jos hankkeen vastuullisen johtajan palkkaukseen haetaan hankkeessa työskentelyä varten enintään 12 kuukautta rahoitusta, selkeät ja tutkimuksellisesti perustellut syyt hänen palkkaukselleen
+%Jos vastuullisella johtajalla ei ole pysyvää palvelussuhdetta, suunnitelma hänen palkkauksestaan rahoituskauden aikana.
+
+%\section{Aikataulu, suorituspaikka ja vastuullinen johtaja}
+
+% Hanke aloitettiin Helsingin Yliopiston Nykykielten laitoksella syyskuussa 2015. Nimentunnistimen ensimmäinen versio julkaistaan joulukuussa 2016. 
+% Hanke toteutetaan yhteistyössä Miikka Silfverbergin (tutkija, Helsingin Yliopiston Nykykielten laitos) kanssa Krister Lindenin (johtava tutkija, Helsingin Yliopiston Nykykielten laitos) valvonnassa.
+
+%Tutkimushanke toteutetaan 21.2.2016 ja 28.2.2017 välisenä aikana Helsingin Yliopiston Nykykielten laitoksella Krister Lindenin (johtava tutkija, Helsingin Yliopiston Nykykielten laitos) valvonnassa.
+
+%Hankkeen kokonaiskustannukseksi vuonna 2016 arvioidaan 36000 euroa. Summa koostuu hakijan palkkakustannuksista. FinClarin-projekti () on sitoutunut maksamaan summasta 50\% (18000 euroa). %Tässä hakemuksessa esitetty 18000 euroa muodostaa loput 50\% kokonaiskustannuksista.
+
+
+%\section{Tutkimusryhmä ja yhteistyötahot}
+
+%Tutkimusryhmän jäsenten ansiot
+%Kansallinen ja kansainvälinen yhteistyö, sen merkitys hankkeen toteuttamiselle (yhteistyökumppanit luetellaan lomakkeen kohdassa Yhteistyökumppanit/Partners)
+%Mahdollinen SHOK-yhteistyö: kuvaus yhteistyöstä ja siitä, miten hanke hyötyy tästä yhteistyöstä (lisätään myös lomakkeen kohtaan Yhteistyökumppanit/Partners)
+
+
+\section{Hakija}
+
+Hakijan kieliteknologian alalle sijoittuva väitöskirja \textit{Kontribuutioita morfologian oppimiseen käyttäen ehdollisia satunnaiskenttiä} hyväksyttiin esitarkastukseen Aalto-yliopistossa 18.12.2015. Tässä tutkimussuunnitelmassa kuvattu hanke sijoittuu samalle tutkimusalalle ja sen tarkoitus on edistää hakijan väitöskirjatyön jälkeistä tutkijanuraa. 
+
+%Tutkijankoulutus sisältäen opetus- ja ohjausjärjestelyt, hankkeessa suoritettavat tutkinnot
+%Hakijan tai muiden rahoitettavien tutkijoiden uran edistäminen
+%Tasa-arvon edistäminen
+
+%\section{Liikkuvuussuunnitelma}
+
+%Selvitys mahdollisesta ulkomaille (tai Suomeen tai Suomessa organisaatioiden välillä) suuntautuvasta tutkijoiden liikkuvuudesta, vierailujen tavoitteista, suunnitellusta kestosta ja siitä, onko vierailuista jo sovittu. Perustelu sille, miten vierailut tai työskentelyjaksot muualla edistävät tutkimussuunnitelman toteuttamista. (Nämä tiedot lisätään myös lomakkeelle kohtaan Liikkuvuus/Mobility).
+
+
+
+
+%Nimentunnistaja kehitetään hyödyntäen modernia tilastollista koneoppimismetodologiaa. Kehitysprosessi jakaantuu kahteen osaan. Ensimmäisessä osassa ihmisasiantuntija paikantaa ja merkitsee nimet tekstiaineistoon. Lähtökohtaisena tekstiaineistona käytetään uutissivusto DigiTodaysta vuosina 2014 ja 2015 haettuja artikkeleita. Toisessa osassa merkittyä aineistoa käytetään tilastollisen tunnistajan opettamiseen. Ihmisen muodostaman opetusaineiston lisäksi tunnistaja hyödyntää Helsingin Yliopistossa aikasemmin kehitettyä tilastollista morfologista suomen kielen jäsennintä, FinnPosia \citep{}, sekä sääntöpohjaista suomen kielen nimentunnistajaa, FiNer:iä \citep{}. Sääntöpohjaisen FiNer-tunnistajan vahvuus piilee sen hyvässä tarkkuudessa (precision) mutta heikkous huonossa kattavuudessa (recall). Menetelmän hyvä tarkkuus merkitsee sitä, että kaikki tunnistetut termit ovat suurella todennäköisyydellä oikeita nimiä. Huono kattavuus taas merkitsee sitä, että suuri osa nimistä jää tunnistamatta suurella todennäköisyydellä. Tilastolliset menetelmät sitä vastoin saavuttavat sekä hyvän tarkkuuden että hyvän kattavuuden. Tämän vuoksi parhaimmat nimentunnistimet, kuten alunperin englannille kehitetty Stanford Named Entity Recognizer \citep{}, hyödyntävät tilastollista koneoppimismetodologiaa. Tilastollista lähestymistapaa hyödyntävää tunnistajaa on myös helpompi laajentaa muihin tekstilajeihin verrattuna sääntöpohjaiseen menetelmään.
+
+
+%Automaattisen kielenkäsittelyn tutkimuksessa nimentunnistus on ollut pitkään kehityksen kohde. Esimerkiksi englannille ensimmäiset modernia tilastollista metodologiaa käyttävät tunnistustyökalut (mm. Stanford Named Entity Recognizer) julkaistiin jo 2000-luvun puolivälissä. On kuitenkin tyypillistä, että pienemmillä kielialueilla kieliresurssien kehittäminen ja julkaiseminen tapahtuu jäljessä. Esimerkiksi ensimmäinen englannin kielisiä resursseja vastaava ruotsinkielinen nimentunnistustyökalu (SweNER) julkaistiin vuonna 2013. Vastaavaa resurssia ei ole julkaistu suomelle.
+
+
+
+\bibliographystyle{plainnat}
+
+\begin{thebibliography}{4}
+
+\bibitem{citizenmindscapes}
+\url{https://tuhat.halvi.helsinki.fi/portal/en/projects/citizen-mindscapes-(41cc84f8-af4f-4b15-8e9d-4a8ce69daf0c).html}
+
+\bibitem{kansalliskirjasto}
+\url{http://digi.kansalliskirjasto.fi/}
+
+\bibitem{huovelin2013}
+Huovelin Juhani, Gross Oskar, Solin Otto, Linden Krister, Maisala Sami Petri Tapio, Oittinen Tero, Toivonen Hannu, Niemi Jyrki ja Silfverberg Miikka.
+2013.
+Software Newsroom – an approach to automation of news search and editing.
+\textit{Journal of Print Media Technology research},
+vol 2,
+no. 3, 
+s. 141-156.
+
+\bibitem{silfverberg2015}
+Silfverberg Miikka, Ruokolainen Teemu, Linden Krister, Kurimo Mikko.
+(hyväksytty).
+FinnPos: an open-source morphological tagging and lemmatization toolkit for Finnish.
+\textit{Journal of Language Resources and Evaluation}.
+
+\bibitem{finnpos}
+\url{https://github.com/mpsilfve/FinnPos}
+
+%\bibitem{manning2005}
+%Finkel Jenny Rose, Grenager Trond ja Manning Christopher. 2005. Incorporating Non-local Information into Information Extraction Systems by Gibbs Sampling. Proceedings of the 43nd Annual Meeting of the Association for Computational Linguistics (ACL 2005), pp. 363-370.
+
+\bibitem{stanfordner}
+\url{http://nlp.stanford.edu/software/CRF-NER.shtml}
+
+\end{thebibliography}
+
+
+\end{document}
+
+
