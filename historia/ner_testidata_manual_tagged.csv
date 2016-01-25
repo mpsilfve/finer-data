@@ -35947,31 +35947,31 @@ la.
 Si		
 len.		
 Kuhmoniemi^pTtöntra!		
-Kuusamo:	loc	
+Kuusamo:	loc	p
 11.	per	
 Määttä.	per	
-Liminka:	loc	
+Liminka:	loc	p
 Fr.	per	
 Pitkänen.	per	
-Muhhos:	loc	
+Muhhos:	loc	p
 S.	per	
 Kauranen.	per	
-Miionionniska:	loc	
+Miionionniska:	loc	p
 Rob.	per	
 Wadenström.	per	
-Nivaia:	loc	
+Nivaia:	loc	p
 J.	per	
 E.	per	
 Petterson.	per	
-Oulainen:	loc	
+Oulainen:	loc	p
 J.	per	
 K.	per	
 Oksa.	per	
-Pudasjärvi:	loc	
+Pudasjärvi:	loc	p
 K.	per	
 Pietarila.	per	
 ökTlTvTlteponen!	per	
-Pyhähäjärvi:	loc	
+Pyhähäjärvi:	loc	p
 Math.	per	
 Loppi	per	
 Raahe	per	
@@ -35979,35 +35979,35 @@ Lackström.	per
 A.	bper	
 H.	per	
 Soini.	per	
-Rovaniemi:	loc	
+Rovaniemi:	loc	p
 Nordlund.	per	
 Hj.	per	
 Malmgren.	per	
-Ruukki:	loc	
+Ruukki:	loc	p
 J.	per	
 Halmetoja.	per	
-Simo:	loc	
+Simo:	loc	p
 M.	per	
 Lahti.	per	
-Sotkamo	loc	
+Sotkamo	loc	p
 Y.	per	
 V.	per	
 Leinonen.	per	
-Säräisniemi:	loc	
+Säräisniemi:	loc	p
 O.	per	
 Kovalainen.	per	
-Tornio:	loc	
+Tornio:	loc	p
 J.	per	
 U.	per	
 Nordberg.	per	
-Vihanti:	loc	
+Vihanti:	loc	p
 M.	per	
 Laakso.	per	
-Ylitornio:	loc	
+Ylitornio:	loc	p
 O|	per	
 K.	per	
 Kiviniemi.	per	
-Ylivieska:	loc	
+Ylivieska:	loc	p
 J.	per	
 Haleikka.	per	
 Arwoisat		
@@ -36023,8 +36023,8 @@ pennistä
 Heikki	per	
 Suomelalta.	per	
 ?äiväliBta:		
-Pohjoismaiden	org	
-osakepankki	org	
+Pohjoismaiden	org	c
+osakepankki	org	c
 k»		
 »«ull		
 Winokel		
@@ -36056,7 +36056,7 @@ lauant.	tim
 j.	tim	
 pp.	tim	
 Sampo		
-Onlun	loc	
+Onlun	loc	p
 kanpnngin		
 ja		
 maalaiskunnan		
@@ -36126,7 +36126,7 @@ ja	tim
 lanvantaina	tim	
 '/,	tim	
 PP.	tim	
-Oulun	loc	
+Oulun	loc	p
 lääkärien		
 vaataanottoajat:		
 V-		
@@ -36139,7 +36139,7 @@ rtelm«o
 Ilii1		
 lii		
 talo.»		
-Kirkkokadun	loc	
+Kirkkokadun	loc	s
 varrella,		
 arki»ai	tim	
 Vlo	tim	
@@ -36160,7 +36160,7 @@ Prnntsi,	per
 raatimies		
 Lundbergin	per	
 taltata		
-Ptkkihuoneentorin	loc	
+Ptkkihuoneentorin	loc	x
 varrella,		
 kl»9?	tim	
 in,	tim	
@@ -36178,7 +36178,7 @@ talossa
 Ka		
 jaaninkadnn		
 ja		
-Itäispitkäukadnn	loc	
+Itäispitkäukadnn	loc	s
 ku!»»«».		
 arkipäivinä	tim	
 9?	tim	
@@ -36204,15 +36204,15 @@ arkipäivinä	tim
 10-12	tim	
 e.	tim	
 pp.	tim	
-Kirkkokatn	loc	
-N.-o	loc	
-3«.	loc	
+Kirkkokatn	loc	s
+N.-o	loc	s
+3«.	loc	s
 Oskar	per	
 Moberg,	per	
 talossa		
 m»		
-Kirkkokatn,	loc	
-27	loc	
+Kirkkokatn,	loc	s
+27	loc	s
 kl.	tim	
 puoli	tim	
 »0	tim	
@@ -36232,9 +36232,9 @@ H.	per
 V.	per	
 Snellmanini	per	
 talossa		
-Kirkkokatu	loc	
-N:o	loc	
-9.	loc	
+Kirkkokatu	loc	s
+N:o	loc	s
+9.	loc	s
 klo	tim	
 9?lo	tim	
 e.	tim	
@@ -36263,9 +36263,9 @@ k!»	tim
 9,50	tim	
 e.	tim	
 pp.	tim	
-Kiimingillä	loc	
+Kiimingillä	loc	p
 ja		
-PidasjirvelU:	loc	
+PidasjirvelU:	loc	p
 .n»,»»»»!!!,,		
 tiistaina,	tim	
 torstaina	tim	
@@ -36274,25 +36274,25 @@ perjantaina	tim
 klo	tim	
 ?«.	tim	
 pp.	tim	
-Ylikiimingille:	loc	
+Ylikiimingille:	loc	p
 tiistaina	tim	
 jat.rstaiia	tim	
 kl«	tim	
 e.	tim	
 pp	tim	
-Taivalkoskelle	loc	
+Taivalkoskelle	loc	p
 ja		
-Kinsamoom	loc	
+Kinsamoom	loc	p
 »n»»»!»!»»		
 ja		
 torstaina	tim	
 klo	tim	
 e.	tim	
 pp.	tim	
-Muhokselle,	loc	
-Utajärvelle	bloc	
+Muhokselle,	loc	p
+Utajärvelle	bloc	p
 ja		
-Pnolangalle:	loc	
+Pnolangalle:	loc	p
 maanantaina,	tim	
 torstaina	tim	
 ja	tim	
@@ -36300,23 +36300,23 @@ lanantaina	tim
 klo	tim	
 10	tim	
 illalla.	tim	
-Suomussalmelle:	loc	
+Suomussalmelle:	loc	p
 maanataiaaja	tim	
 lanaitaina	tim	
 klo	tim	
-Taalaan,	loc	
-Hyrynsalmelle,	bloc	
-Ristijärvelle,	bloc	
-Sotkamoon	bloc	
+Taalaan,	loc	p
+Hyrynsalmelle,	bloc	p
+Ristijärvelle,	bloc	p
+Sotkamoon	bloc	p
 ja		
-Knhmoniemelle:	bloc	
+Knhmoniemelle:	bloc	p
 aaanaataina	tim	
 ja	tim	
 torstaina	tim	
 klo	tim	
 9,30	tim	
 illalla.	tim	
-Kajaaniin,	loc	
+Kajaaniin,	loc	p
 maanantaina	tim	
 ja	tim	
 torstaina	tim	
@@ -36328,7 +36328,7 @@ lanvantaina	tim
 klo	tim	
 9,50	tim	
 aamijnialla		
-lisalmen	loc	
+lisalmen	loc	p
 kantta.		
 Rautatien		
 posti-asema		
@@ -36382,7 +36382,7 @@ Pesti-
 jn		
 sekajma		
 lähte*		
-Oulnsta	loc	
+Oulnsta	loc	p
 joka	tim	
 aamu	tim	
 klo	tim	
@@ -36395,7 +36395,7 @@ illalla	tim
 T«-		
 JlgWPMWi'		
 IHbtre		
-Oulustu	loc	
+Oulustu	loc	p
 joka		
 .'SiESsKJMpIiWii		
 klo	tim	
@@ -36404,7 +36404,7 @@ päivillä	tim
 ja		
 »o».		
 puu		
-Ouluun	loc	
+Ouluun	loc	p
 joka	tim	
 päivä	tim	
 klo	tim	
@@ -36413,61 +36413,61 @@ pp.	tim
 Katiloita		
 H.	per	
 Kaleva,	per	
-Köydenpunckatn	loc	
-8,	loc	
+Köydenpunckatn	loc	s
+8,	loc	s
 llii>kkii»e,		
 talo		
 M.	per	
 Isaksen,	per	
-Kirkkokatn	loc	
-47,	loc	
+Kirkkokatn	loc	s
+47,	loc	s
 Kallisea		
 t»l».		
 H.	per	
 Puranen,	per	
-Iso-Umik	loc	
-7,	loc	
-Waltarin	bloc	
-talo.	loc	
+Iso-Umik	loc	s
+7,	loc	s
+Waltarin	bloc	p
+talo.	loc	p
 S.	per	
 Myllylä,	per	
-Iso-Unsik.	loc	
-55,	loc	
+Iso-Unsik.	loc	s
+55,	loc	s
 Smarinin		
 tul».		
 A.	per	
 Laurila,	per	
-Itäispitkäkatu	loc	
-29.	loc	
-Tnoppalan	bloc	
-talo.	loc	
+Itäispitkäkatu	loc	s
+29.	loc	s
+Tnoppalan	bloc	p
+talo.	loc	p
 8.		
 Piilonen,	per	
-Kirkkok.	loc	
-38,	loc	
-Matilan	bloc	
-talo.	loc	
+Kirkkok.	loc	s
+38,	loc	s
+Matilan	bloc	p
+talo.	loc	p
 S.	per	
 Castren,	per	
-Kajaaninkatu	loc	
-9.	loc	
-Wallinin	bloc	
-talo.	loc	
+Kajaaninkatu	loc	s
+9.	loc	s
+Wallinin	bloc	p
+talo.	loc	p
 L.	per	
 Nordström,	per	
-Iso-Unsikatn	loc	
-37,	loc	
-Sutisin	bloc	
-talo	loc	
+Iso-Unsikatn	loc	s
+37,	loc	s
+Sutisin	bloc	p
+talo	loc	p
 N.	per	
 Hedman,	per	
-Iso-Unsik,	loc	
-22.	loc	
-Pehkosen	bloc	
-talo	loc	
+Iso-Unsik,	loc	s
+22.	loc	s
+Pehkosen	bloc	p
+talo	loc	p
 Synnytyslaitos		
-Itäissyrjäkatn	loc	
-16,	loc	
+Itäissyrjäkatn	loc	s
+16,	loc	s
 Sairaanhoitaja	tit	
 K.	per	
 Elfving,	per	
@@ -36477,17 +36477,17 @@ mmk.
 Ylin		
 talo.		
 Kurssit.		
-Suomen	org	
-Pankki	org	
+Suomen	org	c
+Pankki	org	c
 tammik,	tim	
 z>:u».		
 Myynti-		
 Ost»		
 kurssi,		
 kuissi		
-Pietari	loc	
+Pietari	loc	p
 a'v		
-Lontoo	loc	
+Lontoo	loc	p
 a/v		
 M.		
 p.		
@@ -36501,7 +36501,7 @@ M^p
 ?911.80		
 90		
 kk.		
-Paris	loc	
+Paris	loc	p
 a/v		
 100:		
 «0		
@@ -36509,9 +36509,9 @@ a/v
 9i-5)		
 kk.		
 -^		
-AntTerpen	loc	
+AntTerpen	loc	p
 a/T		
-Herlin	loc	
+Herlin	loc	p
 a'v		
 -^^^^^^^^M		
 9i:90		
@@ -36537,27 +36537,27 @@ H>24
 90		
 123:90		
 121:		
-Frankfnt	loc	
+Frankfnt	loc	p
 am		
 a/v		
 kk.		
-Amsterdam	loc	
+Amsterdam	loc	p
 a/v		
 80«.4ft		
 139:?		
 138:40		
 kk.		
-Tukholma	loc	
+Tukholma	loc	p
 Knutiani»		
 s/t		
-Köpeuhainiim	loc	
+Köpeuhainiim	loc	p
 >/t		
 -H		
 138:		
 (O		
 1«9:?		
 138:40		
-Venäjän	loc	
+Venäjän	loc	p
 rahnn		
 kurni		
 rantateillä,		
@@ -36642,9 +36642,9 @@ m.
 ja		
 neljännekseltä		
 m,		
-Helsinki,	loc	
-Erottaja	bloc	
-4,	loc	
+Helsinki,	loc	p
+Erottaja	bloc	s
+4,	loc	s
 Telefooni		
 1285.		
 Avoinna		
@@ -36668,14 +36668,14 @@ saatavana.
 Postiosoite:		
 Jonas	per	
 Caätrén,	per	
-Helsinki,	loc	
-Erottaja	bloc	
-4	loc	
+Helsinki,	loc	p
+Erottaja	bloc	s
+4	loc	s
 sähkölennätinosoite		
 Jonas	per	
 Castren	per	
-Helsinki.	loc	
-Keski-Suomi	bloc	
+Helsinki.	loc	p
+Keski-Suomi	bloc	g
 w.	tim	
 1900.	tim	
 Täysin		
@@ -36883,7 +36883,7 @@ ja
 omin		
 konnin		
 tutustumaan		
-Keski-Suomen	loc	
+Keski-Suomen	loc	g
 oloihin.		
 Toimittajina		
 pysyivät		
@@ -36934,7 +36934,7 @@ arkipäimä	tim
 £:t0	tim	
 10	tim	
 -2.	tim	
-Pohjoismaiden	loc	
+Pohjoismaiden	loc	g
 of		
 of		
 tentin		
@@ -36970,14 +36970,14 @@ kilo	tim
 ?11	tim	
 ia	tim	
 5?7.	tim	
-Iywaskylan	org	
-Tullikamari	org	
+Iywaskylan	org	c
+Tullikamari	org	c
 «n		
 auki		
 kello	tim	
 9?4	tim	
 patinalla.		
-Pakkahuone	org	
+Pakkahuone		
 tnllausta		
 marten		
 keao	tim	
@@ -36992,7 +36992,7 @@ I»na	tim
 l:l»	tim	
 4?	tim	
 L.		
-Kansankirjasto	org	
+Kansankirjasto		
 «uki		
 sunnuntaina	tim	
 t:lo	tim	
@@ -37098,60 +37098,60 @@ Torstaisin:	tim
 kilo	tim	
 e.	tim	
 pp	tim	
-Muurameen	loc	
+Muurameen	loc	p
 ja		
-Korpilahdelle,	loc	
+Korpilahdelle,	loc	p
 k:lo	tim	
 10	tim	
 j.	tim	
 pp.	tim	
-Sumiaisiin,	loc	
-Konginkankaalle,	bloc	
-Wiitasaarelle,	bloc	
-Pihtiputaalle,	bloc	
+Sumiaisiin,	loc	p
+Konginkankaalle,	bloc	p
+Wiitasaarelle,	bloc	p
+Pihtiputaalle,	bloc	p
 j»		
-Äänekoskelle,	bloc	
+Äänekoskelle,	bloc	p
 l:lo	tim	
 10,z,	tim	
 j.	tim	
 pp.	tim	
-Uurasille	loc	
+Uurasille	loc	p
 ja		
-Saarijännelle.	loc	
+Saarijännelle.	loc	p
 k:lo	tim	
 10	tim	
 j.	tim	
 p».	tim	
-Äänekoskelle.	loc	
+Äänekoskelle.	loc	p
 11	tim	
 Pp.	tim	
-Toiwaklaan,	loc	
-Rutalahdelle,	bloc	
-Leiwonmäelle,	bloc	
-Joutsaan,	bloc	
-Hartolaan,	bloc	
-Sysmään	bloc	
+Toiwaklaan,	loc	p
+Rutalahdelle,	bloc	p
+Leiwonmäelle,	bloc	p
+Joutsaan,	bloc	p
+Hartolaan,	bloc	p
+Sysmään	bloc	p
 ja		
-Nuoramoisiin.	bloc	
+Nuoramoisiin.	bloc	p
 Pcijantlma		
 k:lo	tim	
 e.	tim	
 pp.	tim	
-Muurameen	loc	
+Muurameen	loc	p
 ja		
-Korpilahdelle,	loc	
+Korpilahdelle,	loc	p
 I:l»	tim	
 !«,?	tim	
 j.	tim	
 Pp.	tim	
-Uuraisille	loc	
+Uuraisille	loc	p
 ja		
-S»»rijär»elle.	loc	
+S»»rijär»elle.	loc	p
 Muistutus:		
 Sitäpaitsi		
 lähetetäön		
 »osti		
-Myllymäen	loc	
+Myllymäen	loc	p
 lautta:		
 Uuiaisille		
 tiistain»	tim	
@@ -37159,7 +37159,7 @@ l:lo	tim
 B,^	tim	
 e.	tim	
 pp.,	tim	
-Saali>äiwelle	loc	
+Saali>äiwelle	loc	p
 sunnuntain»,	tim	
 tiistaina,	tim	
 leskinii^lonll	tim	
@@ -37169,7 +37169,7 @@ Ms	tim
 8,	tim	
 e.	tim	
 pp.,	tim	
-Wiitasaarelk	loc	
+Wiitasaarelk	loc	p
 sunnuntaina,	tim	
 leslimiikkon»	tim	
 ja	tim	
@@ -37178,26 +37178,26 @@ l:l»	tim
 8,	tim	
 t.	tim	
 pp.	tim	
-Konginkankaalle	loc	
+Konginkankaalle	loc	p
 leskimiillon»	tim	
 M.	tim	
 8,	tim	
 e.	tim	
 pp.	tim	
 sekä		
-Pihtiputaalle,	loc	
+Pihtiputaalle,	loc	p
 sunnuntain»	tim	
 klo	tim	
 140	tim	
 e.	tim	
 p.	tim	
-Myllymäen	loc	
+Myllymäen	loc	p
 j«		
 perjantain»	tim	
 l:lo	tim	
 8,«	tim	
 »p.	tim	
-Vliwieskan	loc	
+Vliwieskan	loc	p
 lautta,		
 -?irjiel«otifot		
 t«»<»»»,ill«		
@@ -37243,48 +37243,48 @@ pohjsisesta.
 7,	tim	
 e.	tim	
 pp.	tim	
-Laukaasta	loc	
+Laukaasta	loc	p
 ia		
-Suolahdelta	loc	
+Suolahdelta	loc	p
 Sunnuntaina:	tim	
 I:',o	tim	
 7,	tim	
 50	tim	
 e.	tim	
 pp.	tim	
-Äänekoskelta.	loc	
+Äänekoskelta.	loc	p
 ffloanontain»	tim	
 !:lo	tim	
 e.	tim	
 pp.	tim	
-Nuoramoisista,	loc	
-Sylmästä,	bloc	
-Hartolasta,	bloc	
-Joutsasta,	bloc	
-Leiwonmäeltä,	bloc	
-Rutalahdesta	bloc	
+Nuoramoisista,	loc	p
+Sylmästä,	bloc	p
+Hartolasta,	bloc	p
+Joutsasta,	bloc	p
+Leiwonmäeltä,	bloc	p
+Rutalahdesta	bloc	p
 ja		
-Soitoafasta.	loc	
+Soitoafasta.	loc	p
 l:lo	tim	
 7,	tim	
 pp.	tim	
-Sumiaisist»	loc	
+Sumiaisist»	loc	p
 ia		
-Kongmillnkaalta	loc	
+Kongmillnkaalta	loc	p
 se!»		
 k:lo	tim	
 j.	tim	
 pp.	tim	
-Kcrvilahdelta	loc	
+Kcrvilahdelta	loc	p
 j»		
-Muur«-mesta	loc	
+Muur«-mesta	loc	p
 sekä		
-Uuiaisilta.	loc	
+Uuiaisilta.	loc	p
 Tiistaina:	tim	
 I:lo	tim	
 /t0	tim	
 Pp.	tim	
-Äänekoskelta-	loc	
+Äänekoskelta-	loc	p
 K<sliwiikkl,lnll:	tim	
 t:Io	tim	
 7,	tim	
@@ -37296,7 +37296,7 @@ Sumiaiuato,
 SBiitafaa		
 Hrelta		
 ja		
-Pihtiputaalta	loc	
+Pihtiputaalta	loc	p
 ja		
 Sane'		
 ?loäfelto		
@@ -37310,25 +37310,25 @@ Muulllmesta.
 !:lo	tim	
 e.	tim	
 pv-	tim	
-Nuoiamoisista'	loc	
-HSpämäätä,	bloc	
-Hartolasta,	bloc	
+Nuoiamoisista'	loc	p
+HSpämäätä,	bloc	p
+Hartolasta,	bloc	p
 lout-		
 Hfasta,		
-Leiwo!»mäeltä,	bloc	
+Leiwo!»mäeltä,	bloc	p
 Ruta-		
 Blaljbeota		
 ja		
-loiwalasta,	bloc	
+loiwalasta,	bloc	p
 f:		
 [o		
 'M		
 e.		
 pv.		
-Karstulasta,	loc	
+Karstulasta,	loc	p
 Kv-		
 Hr.uiiiriEcltä		
-©aarijänpeltä	loc	
+©aarijänpeltä	loc	p
 ja		
 BUutniulta		
 selä		
@@ -37340,7 +37340,7 @@ pp,
 B':',o		
 j.		
 pp.		
-Korpilahdelta	loc	
+Korpilahdelta	loc	p
 ja		
 BSJJuuranic		
 'ta.		
@@ -37350,89 +37350,89 @@ Lauwantaina	tim
 k:lo	tim	
 e.	tim	
 pp,	tim	
-Nuornnoisista	loc	
-Sysmästä,	bloc	
-Hartolasta,	bloc	
-loutsast»,	bloc	
-Leiwonmäeltä	bloc	
-Nutalahdeita	bloc	
+Nuornnoisista	loc	p
+Sysmästä,	bloc	p
+Hartolasta,	bloc	p
+loutsast»,	bloc	p
+Leiwonmäeltä	bloc	p
+Nutalahdeita	bloc	p
 ja		
-Toiivakasta,	loc	
+Toiivakasta,	loc	p
 t-lo	tim	
 6^,,	tim	
 e.	tim	
 pp.	tim	
-Saarijaiivelta	loc	
+Saarijaiivelta	loc	p
 ja		
-Uuraisilta,	loc	
+Uuraisilta,	loc	p
 iekä		
 7,z,	tim	
 e.	tim	
 p.	tim	
 p.	tim	
-Sumiaisista	loc	
-Konginkankaalta	bloc	
-Äänekoskelta	bloc	
+Sumiaisista	loc	p
+Konginkankaalta	bloc	p
+Äänekoskelta	bloc	p
 j»		
-Viitasaarelta	loc	
+Viitasaarelta	loc	p
 ja		
 k:lo	tim	
 j,	tim	
 vp.	tim	
-Korpilahdella	loc	
+Korpilahdella	loc	p
 ja		
-Muuramesta	loc	
+Muuramesta	loc	p
 Kurssit.		
-Suomen	loc	
+Suomen	loc	p
 pantti		
 Joulut.	tim	
 30	tim	
 p.	tim	
-Pietari	loc	
+Pietari	loc	p
 kontos		
-Variisi	loc	
+Variisi	loc	p
 Nntmerpi		
 3«Mn<		
 SI		
 "ampui!		
 Ä,b"-Ni		
-Frankfurt	loc	
+Frankfurt	loc	p
 a.		
 M,		
-Amsterdam	loc	
-Tukholma	bloc	
-Kristiania	boc	
+Amsterdam	loc	p
+Tukholma	bloc	p
+Kristiania	boc	p
 lunain		
 kulku		
-Iylvästylän?	loc	
-Haapamäen	bloc	
+Iylvästylän?	loc	p
+Haapamäen	bloc	p
 radalla.		
 aamup.		
 pilim.		
 iltap.		
-Iymäslylästä	loc	
+Iymäslylästä	loc	p
 8.40	tim	
 12.40	tim	
 8.40	tim	
-Wesangasta	loc	
-Kintaudelt»	bloc	
-PetäjäwedeUä	bloc	
-Asunnalta	bloc	
-Keuruulta	bloc	
-Haapamäelle	bloc	
-Huapamäeltö	bloc	
-Keuruulta	bloc	
-Asunnalta	bloc	
-Petäjän-edellä	bloc	
-Kintlludtlta.	bloc	
-Wesangasta	bloc	
-Iywäskylään.	bloc	
+Wesangasta	loc	p
+Kintaudelt»	bloc	p
+PetäjäwedeUä	bloc	p
+Asunnalta	bloc	p
+Keuruulta	bloc	p
+Haapamäelle	bloc	p
+Huapamäeltö	bloc	p
+Keuruulta	bloc	p
+Asunnalta	bloc	p
+Petäjän-edellä	bloc	p
+Kintlludtlta.	bloc	p
+Wesangasta	bloc	p
+Iywäskylään.	bloc	p
 ?8.29	tim	
-Iywäskylästä	bloc	
-Leppämedeltä	bloc	
-Laul»«st»	bloc	
-Kuus«sta	bloc	
-Suolahteen	bloc	
+Iywäskylästä	bloc	p
+Leppämedeltä	bloc	p
+Laul»«st»	bloc	p
+Kuus«sta	bloc	p
+Suolahteen	bloc	p
 sli)nnt'lar4't		
 toturift.		
 l.		
@@ -37563,19 +37563,19 @@ ilta?.	tim
 4.00	tim	
 6.34	tim	
 4.39	tim	
-Suolahdesta	loc	
-Kuusaasta	bloc	
-L«ulaasta	bloc	
-Leppämedeltä	bloc	
-Iymiskylään	bloc	
+Suolahdesta	loc	p
+Kuusaasta	bloc	p
+L«ulaasta	bloc	p
+Leppämedeltä	bloc	p
+Iymiskylään	bloc	p
 6.55	tim	
 5.00	tim	
 7.24	tim	
 5.2!)	tim	
 5.55	tim	
 7.50	tim	
-Jyväskylän	loc	
-aseman	loc	
+Jyväskylän	loc	x
+aseman	loc	x
 kaikki		
 toimistot		
 pidetään		
@@ -37596,7 +37596,7 @@ pyhinä	tim
 B?9	tim	
 e.	tim	
 pp.	tim	
-Unkarien	loc	
+Unkarien		
 vastaanottoajat:		
 Tohtori	tit	
 KL	per	
@@ -37646,16 +37646,16 @@ k:Io	tim
 10	tim	
 päivällä.	tim	
 Osoite:		
-rouva	loc	
-Sulinin	loc	
-talo.	loc	
-Jvväskvl».	bloc	
+rouva	loc	p
+Sulinin	loc	p
+talo.	loc	p
+Jvväskvl».	bloc	p
 MARTO		
 STEHIJ,		
-Tikkakosken	loc	
+Tikkakosken	loc	p
 tehtaat,		
-Jyräskylä	bloc	
-Tikkakoski.	bloc	
+Jyräskylä	bloc	p
+Tikkakoski.	bloc	p
 NM-,,-!!,:		
 lie,!!.		
 Kaikenaatuista		
@@ -37757,10 +37757,10 @@ Oskari	per
 maipui		
 kuolon		
 uneen		
-Iymäskylän	loc	
-pitäjässä	loc	
-Oksalan	bloc	
-talossa	loc	
+Iymäskylän	loc	p
+pitäjässä		
+Oksalan	bloc	p
+talossa	loc	p
 m,	tim	
 k.	tim	
 29	tim	
@@ -37812,8 +37812,8 @@ fi£&
 «.		
 mmttl		
 auaallm		
-Hämeenkatu	loc	
-10.	loc	
+Hämeenkatu	loc	s
+10.	loc	s
 Arkkitehti		
 af		
 ÖS		
@@ -37883,16 +37883,16 @@ etelään.
 j.		
 pp.		
 rautateitse		
-Laukaafeen	loc	
+Laukaafeen	loc	p
 ja		
-suolahdelle.	loc	
+suolahdelle.	loc	p
 Suinuntaisin	tim	
 k.lo	tim	
 e.	tim	
 pp.	tim	
-Munrameen	loc	
+Munrameen	loc	p
 ja		
-Koipilahdelle,	loc	
+Koipilahdelle,	loc	p
 l:Io	tim	
 9,	tim	
 j.	tim	
@@ -37900,18 +37900,18 @@ pp,	tim
 ©ctniaiftin,		
 Ko>,ginlllnka«lle		
 ja		
-Äänekoskelle,	loc	
+Äänekoskelle,	loc	p
 Mo	tim	
 11	tim	
 j.	tim	
 pp.-	tim	
-Soiroalfaan,	bloc	
-Rutalshdelle,	bloc	
+Soiroalfaan,	bloc	p
+Rutalshdelle,	bloc	p
 Lei		
 monmäelle,		
-Joutsaan,	loc	
-Hoitolaan,	bloc	
-Sysmään	bloc	
+Joutsaan,	loc	p
+Hoitolaan,	bloc	p
+Sysmään	bloc	p
 ja		
 amoi'		
 siiu.		
@@ -37920,42 +37920,42 @@ Mo	tim
 10	tim	
 j.	tim	
 pp,	tim	
-Äänekoskelle	loc	
+Äänekoskelle	loc	p
 ja		
 ?10,jQ		
 j.		
 pp.		
-Uuraisille.	loc	
+Uuraisille.	loc	p
 t'(o		
 e.		
 pv.		
-Muuramee	loc	
+Muuramee	loc	p
 ja		
 fiorpila^beHe,		
 zk.lo	tim	
 10	tim	
 j.	tim	
 pp,	tim	
-Sumiaisiin,	loc	
-Konginkankaalle,	bloc	
-Viitasaarelle,	bloc	
-Pihtiputaalle	bloc	
+Sumiaisiin,	loc	p
+Konginkankaalle,	bloc	p
+Viitasaarelle,	bloc	p
+Pihtiputaalle	bloc	p
 ja		
-S«ne!osMte	loc	
+S«ne!osMte	loc	p
 liistaism	tim	
 Keikiwii!l«na:	tim	
 11	tim	
 j.	tim	
 pp.	tim	
-Toimalkaan,	loc	
-Rutalahdelle,	bloc	
-Leiwonmäelle,	bloc	
-Joutsaan,	bloc	
+Toimalkaan,	loc	p
+Rutalahdelle,	bloc	p
+Leiwonmäelle,	bloc	p
+Joutsaan,	bloc	p
 Har		
 olaan,		
-Sysmään	loc	
+Sysmään	loc	p
 ja		
-Nuoramoisi^in.	loc	
+Nuoramoisi^in.	loc	p
 lok		
 MW».		
 aliiasiaintoifflisto		
