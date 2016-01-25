@@ -123,16 +123,16 @@ a.	tim
 p.	tim	
 Stormin	loc	ppl
 kautta		
-Sam»	loc	ppl
-maljoelle.	loc	ppl
+Sam»		
+maljoelle.		
 Tiistaina	tim	
 klo	tim	
 i.	tim	
 p.	tim	
 Stormin	loc	ppl
 kautta		
-Kärp	loc	ppl
-palaan.	loc	ppl
+Kärp		
+palaan.		
 Tuorstaina:	tim	
 110	tim	
 a.	tim	
@@ -173,8 +173,8 @@ kanslia
 on		
 arnoin»		
 na		
-joka		
-arlipäimä		
+joka	tim	
+arlipäimä	tim	
 kello	tim	
 10?12	tim	
 päimällä.		
@@ -218,8 +218,8 @@ pp
 6,45		
 Setajun»		
 lähtee		
-joka		
-päimä:		
+joka	tim	
+päimä:	tim	
 kello	tim	
 3,«°	tim	
 j.pp		
@@ -228,16 +228,16 @@ Tulee
 TyrniäullMD	loc	ppl
 on		
 täällä		
-yötä	tim	
+yötä		
 ja		
 lähtee		
-aamulla	tim	
+aamulla		
 Saapuu		
 Tampereelle	loc	ppl
 e.		
 pp		
-9-	tim	
-5,30	tim	
+9-		
+5,30		
 e.		
 pp		
 8,4°		
@@ -251,10 +251,10 @@ Tyrmäälle	loc	ppl
 ,.^^^^^D		
 on		
 täällä		
-yötä	tim	
+yötä		
 ja		
 lähtee		
-aamulla	tim	
+aamulla		
 Lählee		
 Saapuu		
 7.17	tim	
@@ -299,7 +299,7 @@ uudcnwuodenpäiwänä,	tim
 piikäperjllntllina,	tim	
 pääsiäispäimäuä,	tim	
 hclatuorstaina	tim	
->a		
+>a	tim	
 hellunlaipäiwäiiä	tim	
 ei		
 harjoiteta		
@@ -426,7 +426,7 @@ w.	tim
 kuolleet.		
 p:nä		
 Wihattulasta	loc	ppl
-torppari	tit	
+torppari		
 Her>		
 man		
 Wilho	per	
@@ -439,7 +439,7 @@ kk.
 p.		
 p.nä		
 Näntölän	loc	ppl
-kylästä	loc	ppl
+kylästä		
 torppari	tit	
 Inho	per	
 Aleksander	per	
@@ -451,7 +451,7 @@ tt.
 P.		
 p:nä		
 Marttilan	loc	ppl
-kylaslä	loc	ppl
+kylaslä		
 torppari	tit	
 Heitti	per	
 Kustaa	per	
@@ -466,7 +466,7 @@ p.
 pmä		
 Tyrmäänlylä^tä	loc	ppl
 Mätelän	bloc	ppl
-torpan	loc	ppl
+torpan		
 emäntä	tit	
 Maria	per	
 Kristiina	per	
@@ -488,7 +488,7 @@ lt.
 p.		
 p:nä		
 Liuhalan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 työmiehen	tit	
 lylär	tit	
 Ida	per	
@@ -502,7 +502,7 @@ p.
 10		
 p:nä		
 Laukulan	loc	ppl
-lylästä	loc	ppl
+lylästä		
 torppari	tit	
 lisat	per	
 Tuomaanp.	per	
@@ -542,7 +542,7 @@ p.
 14		
 p:nä		
 Lousajan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 työm.	tit	
 Herman	per	
 Viljasen	per	
@@ -567,7 +567,7 @@ p.
 15		
 p:nä		
 Ketolan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 rustitilalliscn	tit	
 Juho	per	
 Paaroo	per	
@@ -579,7 +579,7 @@ tt,
 18		
 p:»a		
 Kaltsilan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 entinen		
 torpp	tit	
 Heitti	per	
@@ -620,7 +620,7 @@ p.
 24		
 p:nä		
 Liuhalan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 torppari	tit	
 Juho	per	
 Herman	per	
@@ -641,10 +641,10 @@ Kuusisto	per
 tt.		
 25		
 p.		
-25		
-p:nä		
+25	tim	
+p:nä	tim	
 Kaukolan	loc	ppl
-Ala-Knaapi»	loc	ppl
+Ala-Knaapi»	bloc	ppl
 Palm,	per	
 Juho	per	
 Wilho	per	
@@ -656,7 +656,7 @@ tk.
 26		
 p:nä		
 Isojärnien	loc	ppl
-kylästä	loc	ppl
+kylästä		
 torpp.	tit	
 Juho	per	
 Paamo	per	
@@ -670,7 +670,7 @@ p.
 27		
 p:nä		
 Lautulan	loc	ppl
-kylästä	loc	ppl
+kylästä		
 torppari	tit	
 Juho	per	
 Kristian	per	
@@ -722,9 +722,9 @@ p.
 29		
 p:»a		
 Houhajäriven	loc	ppl
-kylästä	loc	ppl
+kylästä		
 Lautamäen	bloc	ppl
-torpan	loc	ppl
+torpan		
 maari	tit	
 Juho	per	
 Antinp.	per	
@@ -832,7 +832,7 @@ seuraamassa
 järjestyksessä		
 Tammikuussa:	tim	
 Tiistainsi	tim	
-p:nä		
+p:nä	tim	
 Liuhalan	loc	ppl
 la>		
 hoossa		
@@ -841,33 +841,33 @@ Emännillä.
 Maanantaina	tim	
 15	tim	
 p:nä	tim	
-Hanhijär»	loc	ppl
-wen	loc	ppl
+Hanhijär»		
+wen		
 lahoosfa		
 Ketolan	loc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Tiistaina		
 16		
 p:nä		
 Houhajärmen	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Sammaljoen	bloc	ppl
 Maurialassa.	bloc	ppl
 Keskimillkona	tim	
 17	tim	
 pmä	tim	
 Iso»Illon	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Anttilan	bloc	ppl
-lalossa.	loc	ppl
+lalossa.		
 Tuorstaina	tim	
 18	tim	
 pmä	tim	
 Nautanie»	loc	ppl
-meu	loc	ppl
-lahoossa	loc	ppl
+meu		
+lahoossa		
 Hautamäen	bloc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Perjantaina	tim	
 19	tim	
 pmä	tim	
@@ -875,12 +875,12 @@ Kallion	loc	ppl
 la»		
 hoossa		
 Harjunpään	bloc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Lauantaina	tim	
 20	tim	
 p:nä	tim	
 Sammaljoen	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Kaarle	per	
 Kuutin	per	
 rusti»		
@@ -889,38 +889,38 @@ Maanantaina	tim
 22	tim	
 p:nä	tim	
 Kotajärmen	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Salomäeu	bloc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Tiistaina	tim	
 23	tim	
 p:nä	tim	
 Kolun	loc	ppl
-lahoos»	loc	ppl
+lahoos»		
 >a		
 Pajulahden	loc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Kestimiitkona	tim	
 24	tim	
 p:nä	tim	
 Sahan	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Ahteen	bloc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Tuorstaina	tim	
 25	tim	
 p:nä	tim	
 Myllymäen	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Sankarin	bloc	ppl
-torpassa.	loc	ppl
+torpassa.		
 Perjantaina	tim	
 '<?6	tim	
 p:nä	tim	
 Waununperän	loc	ppl
-lahoossa	loc	ppl
+lahoossa		
 Ojansimun	bloc	
-torpassa.	loc	ppl
+torpassa.		
 Tyrmää	bloc	ppl
 loulutuun	tim	
 23	tim	
@@ -955,7 +955,7 @@ aitaa
 täwel>yä		
 kaunista		
 Dewonshire	loc	gpl
-tasankoa	loc	gpl
+tasankoa		
 Lontoon	bloc	ppl
 ulkopuolella,		
 ja		
@@ -1643,9 +1643,9 @@ puolen
 lyhdyillä		
 »valaistu.		
 Möskanto		
-Tyrmään	loc	xxx
-rauta»	loc	xxx
-tieasemalla	loc	xxx
+Tyrmään	loc	ppl
+rauta»		
+tieasemalla		
 Marraskuulla	tim	
 1899.	tim	
 1,209		
@@ -1800,9 +1800,9 @@ testamentti
 rahastossa		
 8,801:		
 81.		
-Aleksander	per	
-ll:scn	per	
-muistorahastossa		
+Aleksander	org	crp
+ll:scn	org	crp
+muistorahastossa	org	crp
 menoja		
 80		
 ml.,		
@@ -1983,7 +1983,7 @@ n>ii>
 nawerorahaa		
 1,560		
 mk.,		
-Ili-Harl	per	
+Ili-Harl		
 sun		
 palstoista		
 600		
@@ -2297,7 +2297,7 @@ Panssarilaiwa
 Abraksinin		
 haatsirilkopailan		
 luo		
-Suursaarilla	loc	
+Suursaarilla	loc	gpl
 jätetään		
 talwehtimaan		
 komennuskunta,		
@@ -2312,7 +2312,7 @@ tuletuslaiiva
 ?Mo°		
 gulshi"		
 jo		
-Näämelistä	loc	
+Näämelistä	loc	ppl
 wic,,yt		
 muo'		
 namaroja		
@@ -2330,12 +2330,12 @@ taliveksi
 ylläpitä»		
 maan		
 r,htcy!tä		
-Nääwetin	loc	
+Nääwetin	loc	ppl
 ja		
 hauksiritkopaikan		
 wälillä.		
 loulunwietto		
-Saimaalla	loc	
+Saimaalla	loc	gpl
 oli		
 hiukan		
 omituista,		
@@ -2350,24 +2350,24 @@ kirkon
 aikana,		
 tuulimylly		
 täwi		
-Kurittalan	loc	
-kylässä.	loc	
+Kurittalan	loc	ppl
+kylässä.		
 Jäihin		
 hukkui		
 29		
 w,		
 työmies		
-Daalin	loc	
-tehtaalla	loc	
+Daalin	loc	xxx
+tehtaalla	loc	xxx
 Kustaa	per	
 Fridell	per	
 t.		
 t.		
 23		
 p.		
-Huittisten	loc	
-pitäjän	loc	
-Gyltholman	bloc	
+Huittisten	loc	ppl
+pitäjän		
+Gyltholman	bloc	ppl
 kohdalla.		
 Wainaja		
 oli		
@@ -2385,11 +2385,11 @@ myöntänyt
 200,000		
 markan		
 määrärahan		
-Hartolan	loc	
-pitäjässä	loc	
+Hartolan	loc	ppl
+pitäjässä		
 oleman		
-Koskipään	loc	
-tilan	loc	
+Koskipään	loc	ppl
+tilan		
 lunastamiseksi,		
 pals»		
 tuitettawalsi		
@@ -2407,10 +2407,10 @@ myöskin
 tmpparit		
 owat		
 hywätsyncet.		
-Kansaneläke-	org	
-rahastoa	org	
+Kansaneläke-	org	crp
+rahastoa	org	crp
 on		
-Norjassa	loc	
+Norjassa	loc	ppl
 rumettu		
 puuhaamaan.		
 Jokainen		
@@ -2450,7 +2450,7 @@ ryhtyä.
 Uudenwuoden	tim	
 »vastaanotto		
 oli		
-Tampereella	loc	
+Tampereella	loc	ppl
 hymin		
 juhlallinen.		
 Jo		
@@ -2473,7 +2473,7 @@ ihmispar»
 wet		
 kirkon		
 ulkupuolellatin.		
-Kauppatorilla	loc	
+Kauppatorilla		
 taasen		
 oli		
 taaja		
@@ -2491,7 +2491,7 @@ kaksi
 koraalia		
 raatihuoneen		
 rappusilla		
-Wanhassakirkossa	loc	
+Wanhassakirkossa	loc	xxx
 oli		
 ruotsinkielisille		
 rukoushetki.		
@@ -3071,7 +3071,7 @@ juoma-asiassa
 ,a>nam		
 Kiertokirje		
 kaikille		
-Suomen	loc	
+Suomen	loc	ppl
 nuorisoseuroille.		
 Jo		
 monena		
@@ -3083,7 +3083,7 @@ kautta
 koettaneet		
 saada		
 kaikista		
-Suomen	loc	
+Suomen	loc	ppl
 nuorisoseuroista		
 niin		
 tarkkoja		
@@ -3140,7 +3140,7 @@ ilmoittalvat
 siitä		
 meille,		
 osoitteella		
-Laihia.	loc	
+Laihia.	loc	ppl
 Kysymykset		
 olvatsenraawat:		
 1.		
@@ -3290,16 +3290,16 @@ kuluneena
 wuotcna		
 ja		
 julaistaan		
-Pyrkijässä.	org	
-Pyrkijän	borg	
+Pyrkijässä.	org	crp
+Pyrkijän	borg	crp
 toimitus.		
 Maallinen		
 majamme.		
 Mailman		
 mainiossa		
-?Vritish	loc	
-Museumissa	loc	
-Lontoossa	bloc	
+?Vritish	loc	xxx
+Museumissa	loc	xxx
+Lontoossa	bloc	ppl
 säilytetään		
 erästä		
 maljaa,		
@@ -3307,7 +3307,7 @@ joka
 kuudennellatoista		
 satalumnlla		
 löydettiin		
-Rooman	loc	
+Rooman	loc	ppl
 katakombeista		
 (wuoreen		
 hakatnitzta		
@@ -3485,8 +3485,8 @@ ka-
 No:		
 1.		
 IWO.		
-Tyrwään	org	
-Sanomat	org	
+Tyrwään	org	crp
+Sanomat	org	crp
 Tammikuun	tim	
 alkupuolisko.	tim	
 raistuja		
@@ -5088,8 +5088,8 @@ Tammikuun	tim
 jälkipuolisko.	tim	
 N:o		
 1900.	tim	
-Tyrwään	org	
-Sanomat	org	
+Tyrwään	org	crp
+Sanomat	org	crp
 Wraaminen,		
 reunussirllelillä		
 Varustettu		
@@ -5098,14 +5098,14 @@ jauho»
 mylly		
 ja		
 pärehöylä		
-Myllymaassa	loc	
-Sahan	bloc	
-koskessa	loc	
+Myllymaassa	loc	ppl
+Sahan	bloc	gpl
+koskessa	loc	gpl
 noin		
 kilometriä		
 talmitietä		
-Tyrmään	loc	
-asemalta	loc	
+Tyrmään	loc	xxx
+asemalta	loc	xxx
 tarjotaan		
 arwoisan		
 yleisin		
@@ -5130,12 +5130,12 @@ sahauksesta
 penniä		
 keskikokoiselta		
 hirreltä.		
-Tyrwiiän	org	
-Sanomain	org	
+Tyrwiiän	org	crp
+Sanomain	org	crp
 tilaus-		
 ja		
 jatopaikat		
-Tylwäällä	loc	
+Tylwäällä	loc	ppl
 omat		
 paitsi		
 Postikonttoori		
@@ -5147,13 +5147,13 @@ Kauppias	tit
 E.	per	
 S.	per	
 Toimosella	per	
-Vammalassa,	loc	
+Vammalassa,	loc	ppl
 Kauppiailla	tit	
 Frans	per	
 Lehtosella	per	
 ja		
-Nes»	per	
-tori	per	
+Nes»		
+tori		
 Teerellä,	per	
 Leipuri	tit	
 Liljeroos'illa,	per	
@@ -5161,14 +5161,14 @@ Apteekissa,
 Opettaja	tit	
 K.	per	
 Vesalalla	per	
-Sammaljoella,	loc	
+Sammaljoella,	loc	ppl
 Kauppiailla	tit	
 E.	per	
 Nurmilla	per	
 ja		
 Koskisella	per	
-Storminky.	loc	
-lässä,	loc	
+Storminky.	loc	ppl
+lässä,		
 Kirkkomäörtti		
 K.	per	
 Prusilla,	per	
@@ -5182,7 +5182,7 @@ ja
 Kauppias	tit	
 E.	per	
 Puuskalla	per	
-Houhalassa.	loc	
+Houhalassa.	loc	ppl
 Olmtolaupalla		
 joka		
 pidetään		
@@ -5190,9 +5190,9 @@ tiistaina
 Helmikuun	tim	
 27	tim	
 päimänä,	tim	
-Näntölän	loc	
-Ylisten	bloc	
-tor.	loc	
+Näntölän	loc	ppl
+Ylisten	bloc	ppl
+tor.		
 passa,		
 myydään		
 Aleksanter	per	
@@ -5218,7 +5218,7 @@ ja
 aitta,		
 y.		
 m.		
-Tyrmää	loc	
+Tyrmää	loc	ppl
 Tammikuun	tim	
 13	tim	
 p.	tim	
@@ -5233,8 +5233,8 @@ ilmoituksia
 ja		
 kirjoitu!		
 sia		
-Tyrwään	org	
-Sanomia	org	
+Tyrwään	org	crp
+Sanomia	org	crp
 warten		
 joko		
 kirkonkylän		
@@ -5243,7 +5243,7 @@ taikka
 kauppias	tit	
 Frans	per	
 Lehtoselle	per	
-Wammalassa,	loc	
+Wammalassa,	loc	ppl
 Viimeistään		
 lau»		
 w'an		
@@ -5269,8 +5269,8 @@ nelien.
 Konttoon		
 ja		
 kirjapaino		
-läntinen	loc	
-pitkäkatu	loc	
+läntinen	loc	str
+pitkäkatu	loc	str
 I>f:o		
 2Z.		
 'leielooni		
@@ -5405,8 +5405,8 @@ niin
 kauan		
 kuin		
 riiltää.		
-Tyrwään	loc	
-Wammalassa	bloc	
+Tyrwään	loc	ppl
+Wammalassa	bloc	ppl
 Kunnioittaen		
 )lugusti	per	
 Aalto.	per	
@@ -5428,14 +5428,14 @@ Asiamies,
 tapaturmawakuutuksi»		
 wastaan		
 ottaa		
-Tylwäällä	loc	
+Tylwäällä	loc	ppl
 opettaja		
 s.		
 Kunnari.	per	
 s»«N		
 ,UVUWUHMUOM?««W»»		
-Tyrwään	org	
-Sanomain	org	
+Tyrwään	org	crp
+Sanomain	org	crp
 painos		
 on		
 600		
@@ -5449,7 +5449,7 @@ lähetetään
 suo»		
 rastaan		
 kirjapainoon,		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 Sa>		
 nomiin		
 painettllwitsi,		
@@ -5467,8 +5467,8 @@ O.	per
 Söderholm.	per	
 Niitä		
 »Moisia		
-Tyrmään	org	
-Sanomain	org	
+Tyrmään	org	crp
+Sanomain	org	crp
 tilaajia,		
 jotka		
 eimät		
@@ -5513,7 +5513,7 @@ tänä
 muonna		
 karwasen		
 hinnalla.		
-Oulun	loc	
+Oulun	loc	ppl
 pohjanahlaa		
 kymmentä		
 penniä		
@@ -5966,7 +5966,7 @@ Tiistaina:	tim
 110	tim	
 i.	tim	
 p.	tim	
-Stormin	loc	
+Stormin	loc	ppl
 kautta		
 Kärp		
 palaan.		
@@ -5974,20 +5974,20 @@ TuorStaina	tim
 110	tim	
 a.	tim	
 p,	tim	
-Punlalaitumelle	loc	
+Punlalaitumelle	loc	ppl
 ja		
 klo	tim	
 i.	tim	
 p.	tim	
-Stormin	loc	
+Stormin	loc	ppl
 lautta		
-Kärppälään.	loc	
+Kärppälään.	loc	ppl
 Perjantaiua	tim	
 klo	tim	
 10	tim	
 a.	tim	
 p.	tim	
-Stormin	loc	
+Stormin	loc	ppl
 lautta		
 Sam»		
 maljoelle.		
@@ -5995,7 +5995,7 @@ Lauwantaina	tim
 klo	tim	
 i.	tim	
 p.	tim	
-Slormin	loc	
+Slormin	loc	ppl
 kautta		
 Kärp>		
 palaan.		
@@ -6020,7 +6020,7 @@ Postijuna
 lähtee		
 jola		
 päiwä:		
-Porista.	loc	
+Porista.	loc	ppl
 lello	tim	
 ii^^W	tim	
 ?4	tim	
@@ -6028,9 +6028,9 @@ e.	tim
 pp	tim	
 P^		
 Lähtee		
-Tyrwaältä	loc	
+Tyrwaältä	loc	ppl
 Saapuu		
-Tampereelle	loc	
+Tampereelle	loc	ppl
 1,01		
 2,«		
 2,,2		
@@ -6039,16 +6039,16 @@ PoStijuna
 lähtee		
 joka		
 päiwä:		
-Tampereelta	loc	
+Tampereelta	loc	ppl
 kello	tim	
 I,«n	tim	
 j.	tim	
 pp	tim	
 Tulee		
-Tyrmäälle	loc	
+Tyrmäälle	loc	ppl
 3,3?		
 Lähtee		
-Tyrmäältä	loc	
+Tyrmäältä	loc	ppl
 3,«		
 Pei^		
 obiasta		
@@ -6060,7 +6060,7 @@ Stkajuna
 lähtee		
 jola		
 päimä^		
-Porista	loc	
+Porista	loc	ppl
 kello	tim	
 ZD^	tim	
 ,2°	tim	
@@ -6076,7 +6076,7 @@ ja
 lähtee		
 aamulla		
 Saapuu		
-Tampereelle	loc	
+Tampereelle	loc	ppl
 6?		
 e.		
 pp		
@@ -6088,9 +6088,9 @@ Selajuna
 lähtee		
 jola	tim	
 päiwä:	tim	
-Tampereelta	loc	
+Tampereelta	loc	ppl
 Tulee		
-Tyrmäälle	loc	
+Tyrmäälle	loc	ppl
 ..^^^^M		
 on		
 täällä		
@@ -6143,7 +6143,7 @@ uudcnmuodenpäimänä,	tim
 pitkäperjantllina,	tim	
 pääsiäispäimänä,	tim	
 helatuorstaina	tim	
-ja		
+ja	tim	
 hellunlaiuäiivänä	tim	
 ei		
 harjoiteta		
@@ -6205,7 +6205,7 @@ Kirkollisia
 ilmoituksia.		
 Papiston		
 saarnawuorot		
-Tammi»	tim	
+Tammi»		
 kuulla		
 1»U«,		
 S.		
@@ -6215,7 +6215,7 @@ Törnmall	per
 uäimäsaarnan,		
 Kirkkoherra	tit	
 Bäck	per	
-Sammaljoella.	loc	
+Sammaljoella.	loc	ppl
 S.		
 Loppiais.	tim	
 Pastori	tit	
@@ -6223,7 +6223,7 @@ Törnmall	per
 päimäsaarnan		
 Kirkkoherra	tit	
 Bäck	per	
-Kiikussa.	loc	
+Kiikussa.	loc	ppl
 Keruut		
 kirkossa		
 Tammikuulla.	tim	
@@ -6237,8 +6237,8 @@ KMutlls.
 Wuoden	tim	
 1900	tim	
 lukukinkerit		
-Tyrmään	loc	
-emäsmrntunnassa		
+Tyrmään	org	crp
+emäsmrntunnassa	org	crp
 pidetään		
 seuraamassa		
 järjestyksessä:		
@@ -6246,22 +6246,22 @@ Tammikuussa:	tim
 Tuorstaina	tim	
 18	tim	
 p:nä	tim	
-Nautaniemen	loc	
+Nautaniemen	loc	ppl
 lahoossa		
-Hautamäen	loc	
-torpassa	loc	
+Hautamäen	loc	ppl
+torpassa		
 Perjantaina	tim	
 19	tim	
 p:»a	tim	
-Kallion	loc	
+Kallion	loc	ppl
 la>		
 hoossa		
-Harjunpään	loc	
-torpassa.	loc	
+Harjunpään	loc	ppl
+torpassa.		
 Lauantaina	tim	
 20	tim	
 p:nä	tim	
-Sammaljoen	loc	
+Sammaljoen	loc	ppl
 lahoossa		
 Kaarle	per	
 Kuutin	per	
@@ -6270,39 +6270,39 @@ tilalla.
 Maanantain»	tim	
 22	tim	
 p:nä	tim	
-Kotajärwen	loc	
+Kotajärwen	loc	ppl
 lllhoossa		
-Salomäe»	loc	
-torpassa.	loc	
+Salomäe»	loc	ppl
+torpassa.		
 Tiistaina	tim	
 23	tim	
 p:nä	tim	
-Kolun	loc	
+Kolun	loc	ppl
 lahoos»		
 ja		
-Pajulahden	loc	
-torpassa.	loc	
+Pajulahden	loc	ppl
+torpassa.		
 Keskimiitkon»	tim	
 24	tim	
 p:nä	tim	
-Sahan	loc	
+Sahan	loc	ppl
 lahoossa		
-Ahteen	loc	
-torpassa.	loc	
+Ahteen	loc	ppl
+torpassa.		
 Tuorstaina	tim	
 25	tim	
 p:na	tim	
-Myllymäen	loc	
+Myllymäen	loc	ppl
 lahoossa		
-Sankarin	loc	
-torpassa.	loc	
+Sankarin	loc	ppl
+torpassa.		
 Perjantaina	tim	
 p:nä		
-Waununperän	loc	
+Waununperän	loc	ppl
 lahoossa		
-Ojansimun	loc	
-torpnssa.	loc	
-Tyrwää	bloc	
+Ojansimun	loc	ppl
+torpnssa.		
+Tyrwää	bloc	ppl
 lonluluun	tim	
 23	tim	
 p.	tim	
@@ -6318,7 +6318,7 @@ makuuttaneet
 hemosensa		
 minun		
 kauttani		
-Turun	loc	
+Turun	loc	ppl
 hewosnia>		
 luutus		
 yhtiössä,		
@@ -6394,7 +6394,7 @@ ja
 urkurien		
 palkkojen		
 järjestämisestä:		
-Senaatti	org	
+Senaatti		
 on		
 esittänyt		
 mahmistettawaksi		
@@ -6421,12 +6421,12 @@ lisäyksistä
 kirkkolakiin		
 3)		
 määrärahoista		
-Ouluu	loc	
-Tornion,	bloc	
-Kuopion	bloc	
-lisalmen	bloc	
+Ouluu	loc	ppl
+Tornion,	bloc	ppl
+Kuopion	bloc	ppl
+lisalmen	bloc	ppl
 ja		
-Helsingin?Karjan	bloc	
+Helsingin?Karjan	bloc	ppl
 ratojen		
 rakentamista		
 marten		
@@ -6444,7 +6444,7 @@ jota
 seuraa		
 ehdotus		
 asetukseksi		
-Suomessa	loc	
+Suomessa	loc	ppl
 kulkemien		
 tarttumien		
 eläintautien		
@@ -6533,7 +6533,7 @@ muutetaan
 18)		
 marojen		
 määräälnisestä		
-Suomen	loc	
+Suomen	loc	ppl
 sotamäteä		
 marten		
 tarwiltawiin		
@@ -6945,45 +6945,45 @@ että
 kauppawarasto		
 olimat		
 makuutetut.		
-Winkkilän	loc	
-lukutupaan	loc	
+Winkkilän	loc	xxx
+lukutupaan	loc	xxx
 tulee		
 til»		
 nä		
 muonna		
 seuraamat		
 sanomat:		
-Uusi	org	
-Suometar,	org	
-Aamulehti,	borg	
+Uusi	org	crp
+Suometar,	org	crp
+Aamulehti,	borg	crp
 Sa>		
 takunta,		
-Sanomia	org	
-Turusta,	org	
-Uusi	borg	
-Kumalehti,	org	
-Kylälirjaslon	borg	
-Kumalehti	org	
+Sanomia	org	crp
+Turusta,	org	crp
+Uusi	borg	crp
+Kumalehti,	org	rp
+Kylälirjaslon	borg	crp
+Kumalehti	org	crp
 sarja,		
-Lasten	org	
-Kumalehti,	org	
-Meri»	borg	
-miehen	org	
-Istämä,	org	
-Lähetys	borg	
-Sanomat,	org	
-Kirkolliset	borg	
-Sanomat,	org	
-Kansan	borg	
-Lehti,	org	
-Teollisuus	borg	
-Lehti,	org	
-Maanmies,	borg	
+Lasten	org	crp
+Kumalehti,	org	crp
+Meri»	borg	crp
+miehen	org	crp
+Istämä,	org	crp
+Lähetys	borg	crp
+Sanomat,	org	crp
+Kirkolliset	borg	crp
+Sanomat,	org	crp
+Kansan	borg	crp
+Lehti,	org	crp
+Teollisuus	borg	crp
+Lehti,	org	crp
+Maanmies,	borg	crp
 Pel»		
 tomies		
 ia		
-Tyrmään	org	
-Sanomat.	org	
+Tyrmään	org	crp
+Sanomat.	org	crp
 Lukutupa		
 on		
 yleisölle		
@@ -6999,9 +6999,9 @@ p.	tim
 p.	tim	
 Toimikunta.		
 Ilöskanto		
-Tyrmään	loc	
-rautatie»	loc	
-asemalla	loc	
+Tyrmään	loc	ppl
+rautatie»		
+asemalla		
 Joulukuulla	tim	
 muonna	tim	
 1699.	tim	
@@ -7134,8 +7134,8 @@ tekee
 mk.		
 68		
 p.		
-Tyrwiän	org	
-Työwäenyhdistyksen	org	
+Tyrwiän	org	crp
+Työwäenyhdistyksen	org	crp
 tok?uljes>»		
 joulukuun	tim	
 3>	tim	
@@ -7197,7 +7197,7 @@ tilata
 seu°		
 raawlll		
 sanomalehdet:		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 pllatamarasta		
 101		
 kpl.		
@@ -7217,36 +7217,36 @@ N:o2.
 1900	tim	
 Tammikuun	tim	
 jälkipuolisko.	tim	
-Tyrwään	org	
-Sanomat.	org	
+Tyrwään	org	crp
+Sanomat.	org	crp
 Sanomat,		
-Työmies,	org	
-Kansan	borg	
-Lehti	org	
-Päimälehti,	borg	
-Uusi	borg	
-Suometar,	org	
-Uusi	borg	
-Aura,	org	
-Satakunta.	borg	
-Aamulehti	borg	
-Suo»	borg	
-men	org	
-Teollisuuslehti,	org	
-Termeydenhoito»	borg	
-lehti,.	org	
-Kyläkirjaston	borg	
-Kumalehden	org	
+Työmies,	org	crp
+Kansan	borg	crp
+Lehti	org	crp
+Päimälehti,	borg	crp
+Uusi	borg	crp
+Suometar,	org	crp
+Uusi	borg	crp
+Aura,	org	crp
+Satakunta.	borg	crp
+Aamulehti	borg	crp
+Suo»	borg	crp
+men	org	crp
+Teollisuuslehti,	org	crp
+Termeydenhoito»	borg	crp
+lehti,.	org	crp
+Kyläkirjaston	borg	crp
+Kumalehden	org	crp
 ja		
 sarjat,		
-Kylmäjä,	org	
+Kylmäjä,	org	crp
 Uusi		
 Kuw		
 c>		
 lehti		
 ja		
-Lähetys	org	
-Sanomat.	org	
+Lähetys	org	crp
+Sanomat.	org	crp
 Lukutupa		
 on		
 yleisön		
@@ -7290,8 +7290,8 @@ jäsenet
 terwe>		
 tulleet		
 Puheenjohtaja.		
-Sammaljoen	loc	
-lukutupa	loc	
+Sammaljoen	loc	xxx
+lukutupa	loc	xxx
 on		
 nyt		
 täydessä		
@@ -7318,8 +7318,8 @@ Torstaina	tim
 j.	tim	
 p.	tim	
 p.	tim	
-Walolan	org	
-lansaloulun	org	
+Walolan	org	edu
+lansaloulun	org	edu
 pienemmässä		
 luokkahuoneessa.		
 Tässä		
@@ -7423,11 +7423,11 @@ w.
 Taminilunn		
 23	tim	
 p,	tim	
-Kolun	loc	
+Kolun	loc	ppl
 lahmossa		
-Pajulahden	loc	
+Pajulahden	loc	ppl
 tor»		
-Kiikasta.	loc	
+Kiikasta.	loc	ppl
 29	tim	
 p.	tim	
 Leikkuun		
@@ -7448,10 +7448,10 @@ Helmikuun	tim
 p.	tim	
 31	tim	
 p.	tim	
-Haapaniemen	loc	
+Haapaniemen	loc	ppl
 lah>		
 Haapani^		
-Ala-Kololla.	loc	
+Ala-Kololla.	loc	ppl
 lllh»		
 lärwen-		
 pään		
@@ -7463,8 +7463,8 @@ Hmlulmsm
 muuM.		
 Tnrun		
 ja		
-Porin	loc	
-läänin	loc	
+Porin	loc	ppl
+läänin		
 kuwer		
 nööri		
 on		
@@ -7490,9 +7490,9 @@ läänin
 korkeimpana		
 esimiehenä		
 melmoitettuna		
-Turun	loc	
+Turun	loc	ppl
 ja		
-Porin	loc	
+Porin	loc	ppl
 läänin		
 kaikille		
 asukkaille		
@@ -7591,43 +7591,43 @@ setä
 2.985,		
 70		
 108		
-Helsinki	loc	
-Turku	bloc	
-Tampere	bloc	
-Viipuri	bloc	
-Oulu	bloc	
-Pori	bloc	
-Waasa.	bloc	
-Kuopio.	bloc	
-Kotka	bloc	
-Hämeenlinna.	bloc	
-Porwoo	bloc	
-Rauma	bloc	
-Hanko.	bloc	
-Uusikaupunki.	bloc	
-Raahe	bloc	
-Joensuu	bloc	
-Mikkeli	bloc	
-Iywäskyla	bloc	
-Hamina	bloc	
-Kristiinankaup.	bloc	
-Pietarsaari	bloc	
-Lowiisa	bloc	
-Lappeenranta	bloc	
-Tammisaari	bloc	
-Kokkola	bloc	
-Sawonlinna	bloc	
-Sortawala	bloc	
-Heinola	bloc	
-Tornio	bloc	
-Kemi	bloc	
-lisalmi	bloc	
-Kajaani	bloc	
-Käkisalmi.	bloc	
-Uusikaarlepyy	bloc	
-Marianhamina	bloc	
-Kaskinen	bloc	
-Naantali	bloc	
+Helsinki	loc	ppl
+Turku	bloc	ppl
+Tampere	bloc	ppl
+Viipuri	bloc	ppl
+Oulu	bloc	ppl
+Pori	bloc	ppl
+Waasa.	bloc	ppl
+Kuopio.	bloc	ppl
+Kotka	bloc	ppl
+Hämeenlinna.	bloc	ppl
+Porwoo	bloc	ppl
+Rauma	bloc	ppl
+Hanko.	bloc	ppl
+Uusikaupunki.	bloc	ppl
+Raahe	bloc	ppl
+Joensuu	bloc	ppl
+Mikkeli	bloc	ppl
+Iywäskyla	bloc	ppl
+Hamina	bloc	ppl
+Kristiinankaup.	bloc	ppl
+Pietarsaari	bloc	ppl
+Lowiisa	bloc	ppl
+Lappeenranta	bloc	ppl
+Tammisaari	bloc	ppl
+Kokkola	bloc	ppl
+Sawonlinna	bloc	ppl
+Sortawala	bloc	ppl
+Heinola	bloc	ppl
+Tornio	bloc	ppl
+Kemi	bloc	ppl
+lisalmi	bloc	ppl
+Kajaani	bloc	ppl
+Käkisalmi.	bloc	ppl
+Uusikaarlepyy	bloc	ppl
+Marianhamina	bloc	ppl
+Kaskinen	bloc	ppl
+Naantali	bloc	ppl
 19		
 106		
 129		
@@ -7656,7 +7656,7 @@ Naantali	bloc
 876		
 12		
 55		
-Wenäjän	bloc	
+Wenäjän	bloc	ppl
 Keisarin		
 uudcuwuodcn	tim	
 julistus.		
@@ -7679,14 +7679,14 @@ p:nä	tim
 s.		
 t.		
 s.		
-Wenäjän	loc	
+Wenäjän	loc	ppl
 uutena		
 wuo>		
 tenä,		
-Wenäjän	org	
-hallituksen	org	
+Wenäjän	org	crp
+hallituksen	org	crp
 puolelta		
-Haagin	loc	
+Haagin	loc	ppl
 kokouksessa		
 edustettuina		
 olemille		
@@ -8234,7 +8234,7 @@ sanomalehdistämme.
 Naiset		
 ja		
 sota.		
-Hollannin	loc	
+Hollannin	loc	ppl
 naiset		
 omat		
 päättäneet		
@@ -8273,7 +8273,7 @@ kanssa,
 joka		
 parhaillaan		
 raimoaa		
-Etelä-Afrikassa.	loc	
+Etelä-Afrikassa.	loc	ppl
 Täysin		
 »vakuutettuina		
 siitä,		
@@ -8304,7 +8304,7 @@ epäilemättä
 tuottaa		
 uskallamme		
 me		
-Hollannin	loc	
+Hollannin	loc	ppl
 naiset		
 yhdessä		
 koko		
@@ -8329,7 +8329,7 @@ pelottomia
 kansalaisia.		
 Euurbirtannian		
 ja		
-Intian	loc	
+Intian	loc	ppl
 kuningatar!		
 Cllää		
 salliko		
@@ -8384,7 +8384,7 @@ Ojentakaa
 rauhalle		
 kätenne!		
 Osottukoon		
-Englanti	loc	
+Englanti	loc	ppl
 simecllistä		
 suuruuttaan		
 ehdottomalla		
@@ -8426,7 +8426,7 @@ V.
 Bereudsen)	per	
 ylläolemalla		
 otsakkeella		
-Suomesta	loc	
+Suomesta	loc	ppl
 kirjoituksen.		
 Mainiten		
 aluksi		
@@ -8454,7 +8454,7 @@ ja
 itkien		
 kuin		
 israelilaiset		
-Babylonin	loc	
+Babylonin	loc	ppl
 mirtain		
 äärillä.		
 Muutamia		
@@ -8500,7 +8500,7 @@ ja
 pieksuissaan		
 oli		
 saapunut		
-Helsinkiin	loc	
+Helsinkiin	loc	ppl
 käymään		
 »kuninkaan		
 puheilla"		
@@ -8589,8 +8589,8 @@ ta
 siweellistä		
 kannatusta,		
 että		
-Länsi'	loc	
-Eurooppa	loc	
+Länsi'		
+Eurooppa	loc	ppl
 heidän		
 taisteluaan		
 seuraa		
@@ -8652,7 +8652,7 @@ hywäksi,
 joka		
 on		
 kokoontunut		
-Johannesburgiin,	loc	
+Johannesburgiin,	loc	ppl
 He		
 iloitsemat		
 nyt		
@@ -8727,7 +8727,7 @@ isänmaansa
 mapauden		
 puolesta.		
 Useat		
-Englannin	loc	
+Englannin	loc	ppl
 kirkon		
 piispat		
 oivat		
@@ -8740,9 +8740,9 @@ on
 päiwinä		
 rukoiltawa		
 woittoa		
-Englannin	loc	
+Englannin	loc	ppl
 sotajoukolle		
-Etelä-Afrikassa.	loc	
+Etelä-Afrikassa.	loc	ppl
 Tätä		
 wastaan		
 protesteeraa		
@@ -8801,11 +8801,11 @@ puo»
 leen."		
 Gwäät		
 sodassa.		
-Englantiini»	loc	
+Englantiini»	loc	ppl
 sen		
 armeijan		
 ruokamarat		
-Eteläafrikassa	loc	
+Eteläafrikassa	loc	ppl
 on		
 laskettu		
 kestämän		
@@ -8919,7 +8919,7 @@ tonnia
 liisiä.		
 Taistelu		
 yhdistysoikeudesta		
-Ranskassa.	loc	
+Ranskassa.	loc	ppl
 30,000		
 laimostyömies»		
 ta		
@@ -8929,8 +8929,8 @@ tienoilla
 tehnyt		
 työ»		
 lakon		
-St.	loc	
-Ctiennessä,	loc	
+St.	loc	ppl
+Ctiennessä,	loc	ppl
 lun		
 työnantajat		
 eimät		
@@ -8968,7 +8968,7 @@ sitä
 tähänkin		
 asti		
 tehneet.		
-Turussa,	loc	
+Turussa,	loc	ppl
 p.		
 tammikuuta	tim	
 19U0.	tim	
@@ -8977,10 +8977,10 @@ von	per
 Kraemer.	per	
 Kaksi		
 terwaskantoa.		
-Heinijoen	loc	
-pitäjän	loc	
-Kääntymän	bloc	
-kylässä	loc	
+Heinijoen	loc	ppl
+pitäjän		
+Kääntymän	bloc	ppl
+kylässä		
 on		
 kaksi		
 Kanhusla,		
@@ -9073,8 +9073,8 @@ jälkipuolisko.
 N.o		
 2-		
 1900.	tim	
-Tyrwäan	org	
-Sanomat	org	
+Tyrwäan	org	crp
+Sanomat	org	crp
 laajennut		
 niin,		
 että		
@@ -9112,7 +9112,7 @@ puolesta
 on		
 walettu		
 lanris.		
-Ruotsin	loc	
+Ruotsin	loc	ppl
 ammattijärjestö.		
 Ruot»		
 sin		
@@ -9204,7 +9204,7 @@ joka
 oli		
 syntynyt		
 wankaudessa		
-Euroopassa,	loc	
+Euroopassa,	loc	ppl
 hänen		
 pääl»		
 lensä.		
@@ -9263,7 +9263,7 @@ kuolemaan
 tuomitun		
 wiimeinen		
 päiwä.		
-Wienissä	loc	
+Wienissä	loc	ppl
 on		
 äskettäin,		
 ensimäisen		
@@ -9561,7 +9561,7 @@ Julkisella
 uraltahuutokaupalla		
 joka		
 pidetään		
-Urjalassa	loc	
+Urjalassa	loc	ppl
 26:nen		
 Neserwikomppanian		
 »virkahuoneessa		
@@ -9631,7 +9631,7 @@ täyttämiftstä
 26:nen		
 Reserwitomppanian		
 »virkahuoneessa.		
-Urjalassa	loc	
+Urjalassa	loc	ppl
 Tammikuun	tim	
 10	tim	
 p.	tim	
@@ -9656,10 +9656,10 @@ Teurastaja	tit
 Jokisen	per	
 talon		
 lähellä		
-Marttilan	loc	
+Marttilan	loc	ppl
 eli		
-Wammalan	loc	
-kylässä,	loc	
+Wammalan	loc	ppl
+kylässä,		
 myydään		
 erään		
 huoneriwin		
@@ -9687,8 +9687,8 @@ huomattaa!
 Huutokaupalla,		
 joka		
 pidetään		
-Karkun	loc	
-aseman	loc	
+Karkun	loc	xxx
+aseman	loc	xxx
 lähellä		
 palstatilallani		
 Tuomiston	per	
@@ -9745,7 +9745,7 @@ Kruununwerojen
 j»		
 henkirahain		
 ylöstanto		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 kihlakunnassa		
 toimitetaan		
 tänä		
@@ -9759,10 +9759,10 @@ Helmikuun	tim
 19	tim	
 p.,	tim	
 Maanantaina,	tim	
-Kiikoisten	loc	
-kappeli	loc	
-Kuorsumaan	bloc	
-Kankaanhuhdalla	bloc	
+Kiikoisten	loc	xxx
+kappeli	loc	xxx
+Kuorsumaan	bloc	ppl
+Kankaanhuhdalla	bloc	ppl
 Helmikuun	tim	
 20	tim	
 ja	tim	
@@ -9771,8 +9771,8 @@ p.,	tim
 Tiistai	tim	
 ja	tim	
 Keskiwiitko,	tim	
-Lawian	loc	
-pitäjä,	loc	
+Lawian	loc	ppl
+pitäjä,		
 La»		
 »vian		
 kylän		
@@ -9792,10 +9792,10 @@ Helmikuun	tim
 22	tim	
 p.,	tim	
 Tuorstai	tim	
-Suodenniemen	loc	
-kappeli,	loc	
-Luukin	bloc	
-kestitie»varissa	loc	
+Suodenniemen	loc	xxx
+kappeli,	loc	xxx
+Luukin	bloc	xxx
+kestitie»varissa	loc	xxx
 Helmikuun	tim	
 26	tim	
 ja	tim	
@@ -9804,11 +9804,11 @@ p.,	tim
 Maanantai	tim	
 ja	tim	
 Tiistai,	tim	
-Mouhijärmen	loc	
+Mouhijärmen	loc	ppl
 pi>		
 täjä,		
-Häijään	loc	
-kestitiemarissa,	loc	
+Häijään	loc	xxx
+kestitiemarissa,	loc	xxx
 26	tim	
 p.	tim	
 E:stä		
@@ -9822,9 +9822,9 @@ Helmikuun	tim
 28	tim	
 p.,	tim	
 Keskimiilko,	tim	
-Suoniemen	loc	
-kappeli	loc	
-Suoniemen	bloc	
+Suoniemen	loc	xxx
+kappeli	loc	xxx
+Suoniemen	bloc	ppl
 pap>		
 pilassa		
 Maaliskuun	tim	
@@ -9833,9 +9833,9 @@ p.,
 Tuorstai	tim	
 ja	tim	
 Perjantai,	tim	
-Karkun	loc	
-pitäjä,	loc	
-Kärppälän	bloc	
+Karkun	loc	ppl
+pitäjä,		
+Kärppälän	bloc	ppl
 »ttilassa,		
 p.		
 N:sta		
@@ -9852,11 +9852,11 @@ Maanantai,	tim
 Tiistai	tim	
 ja		
 Kestimiitto,	tim	
-Tyrmään	loc	
-pitäjä,	loc	
+Tyrmään	loc	ppl
+pitäjä,		
 tuntahuoneessa		
-Marttilan	loc	
-Hopulla,	loc	
+Marttilan	loc	ppl
+Hopulla,	per	
 p,		
 E:stä		
 L:ään,		
@@ -9873,10 +9873,10 @@ p,,
 Tuorstai	tim	
 ja		
 Perjantai,	tim	
-Kiilan	loc	
-kappeli,	loc	
-Kiikan	bloc	
-Kesliliemarissa,	loc	
+Kiilan	loc	xxx
+kappeli,	loc	xxx
+Kiikan	bloc	xxx
+Kesliliemarissa,	loc	xxx
 p.		
 G:stä		
 N:ään		
@@ -9909,7 +9909,7 @@ maksonsa
 sopimilla		
 rahoilla		
 suorittamaan.		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 lihlakunnan		
 kruunuvmoudin		
 wirknhuo»		
@@ -9930,7 +9930,7 @@ saa
 sen		
 Aatu	per	
 Rantaselta.	per	
-Wammalasji.	loc	
+Wammalasji.	loc	ppl
 Maanantaina	tim	
 tammil.	tim	
 22	tim	
@@ -9965,14 +9965,14 @@ päi>
 hintoihin,		
 Jacob	per	
 Raad,	per	
-Pori,	loc	
+Pori,	loc	ppl
 (5.5.1.10,163.)		
 Kauppias	tit	
 Nestori	per	
 Teereltä	per	
 tilatut		
-Tyrmään	org	
-Sanomat	org	
+Tyrmään	org	crp
+Sanomat	org	crp
 noutaa		
 Kauppias	tit	
 Lehtoselta.	per	
@@ -10022,9 +10022,9 @@ taksoitusta.
 Päätetetään		
 missä		
 pidetään		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 ja		
-Kiikan	loc	
+Kiikan	loc	ppl
 kuntien		
 tlente»		
 towelwollisten		
@@ -10039,14 +10039,14 @@ sen
 haun		
 johdosta,		
 jouka		
-Kiikoisten	loc	
+Kiikoisten	loc	ppl
 kuntalaiset		
 omat		
 tehneet,		
 saadakseen		
 erään		
 tien		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 tientekolahkukllnnan		
 yhteisesti		
 kunnossa		
@@ -10057,11 +10057,11 @@ edusmiehet
 Tyr»		
 wään		
 ja		
-Kiikan	loc	
+Kiikan	loc	ppl
 kuntien		
 yhteiseen		
 kuntakokoukseen.		
-Tyrwäässä	loc	
+Tyrwäässä	loc	ppl
 Tammik.	tim	
 p.	tim	
 1900,	tim	
@@ -10070,7 +10070,7 @@ Prusi.	per
 Kuulutus.		
 Waiwaiswiljan		
 ylöstanto		
-Tyrmään	loc	
+Tyrmään	loc	ppl
 kunnassa		
 pidetään		
 kunnan		
@@ -10132,7 +10132,7 @@ Möslanto
 aljetaan		
 kello		
 aamulla.		
-Tyrmää,	loc	
+Tyrmää,	loc	ppl
 Tammikuun	tim	
 13	tim	
 p.	tim	
@@ -10473,8 +10473,8 @@ N:o
 1900	tim	
 Tammikuun	tim	
 alkupuolisko.		
-Tyrwään	org	
-Vanomat	org	
+Tyrwään	org	crp
+Vanomat	org	crp
 Kuulutus.		
 Aiheutetuista		
 syistä		
@@ -10504,8 +10504,8 @@ raha>laatlltoon.
 Tyrwäällä,	loc	
 Joulukuulla	tim	
 1899.	tim	
-Tyrwään	org	
-TelefoonvYhtiö.	org	
+Tyrwään	org	crp
+TelefoonvYhtiö.	org	crp
 p.		
 p.		
 Otfr.		
@@ -10516,8 +10516,8 @@ Huutokaupalla
 joka		
 pidetään		
 kunnanhuoneessa		
-Hopun	loc	
-tilalla	loc	
+Hopun	loc	ppl
+tilalla		
 maanantaina	tim	
 ensitulewan		
 Tammikuuu	tim	
@@ -10534,7 +10534,7 @@ tämän
 taimen		
 aitana		
 hantittawatsi		
-Muistolan	loc	
+Muistolan	loc	ppl
 tansakouluratennuksiin		
 tarwittawat		
 rakennusaineet,		
@@ -10553,7 +10553,7 @@ hankintaehdoista
 huutokauppatilaifuuoessa		
 litennnin		
 ilmoitetaan.		
-Tyrmää	loc	
+Tyrmää	loc	ppl
 Joulukuun	tim	
 17	tim	
 p.	tim	
@@ -10566,14 +10566,14 @@ saha,
 jauhomylly		
 ja		
 pärehöylä		
-Myllymaassa	loc	
-Sahan	bloc	
-koskessa	loc	
+Myllymaassa	loc	ppl
+Sahan	bloc	gpl
+koskessa	loc	gpl
 noin		
 kilometriä		
 talwitietä		
-Tyrwään	loc	
-asemalta	loc	
+Tyrwään	loc	xxx
+asemalta	loc	xxx
 tarjotaan		
 arnioisan		
 yleisön		
@@ -10598,12 +10598,12 @@ sahauksesta
 penniä		
 keskikokoiselta		
 hirreltä.		
-Tyruiiiiin	org	
-Sanomain	org	
+Tyruiiiiin	org	crp
+Sanomain	org	crp
 tilaus-		
 ja		
 jakopaitat		
-Tyrwäällä	loc	
+Tyrwäällä	loc	c
 owat		
 paitsi		
 Postik^nttoori		
@@ -10615,21 +10615,21 @@ Kmippiad	tit
 E,	per	
 S.	per	
 Toiwosella	per	
-Wammalassa,	loc	
+Wammalassa,	loc	p
 Kauppiailla	tit	
 Frans	per	
 Lehtosella	per	
 ja		
 Nes>		
 tori		
-Teerellä,	loc	
+Teerellä,	loc	p
 Leipuri	tit	
 Liljcroos'!llll,	per	
 Apteekissa,		
 Opettaja	tit	
 K.	per	
 Wesalalla	per	
-Sammaljoella,	loc	
+Sammaljoella,	loc	p
 Kauppiailla	tit	
 E.	per	
 Nurmilla	per	
@@ -10651,10 +10651,10 @@ ja
 Kauppias	tit	
 E.	per	
 Puuskalla	per	
-Houhalassa.	loc	
+Houhalassa.	loc	p
 K.^»MW.		
 l<ir-japaino		
-'lampereella	loc	
+'lampereella	loc	p
 suomittaa		
 kaHe/in/«/«		
 /»		
@@ -10671,8 +10671,8 @@ laipoin
 Hansson	per	
 Konttoori		
 Icir^apaino		
-läntinen	loc	
-pitkäkatu	loc	
+läntinen	loc	s
+pitkäkatu	loc	s
 !^:o		
 2Z.		
 I'elekooni		
@@ -10685,7 +10685,7 @@ O^etta^a
 Os^a»i		
 sötie^oim		
 Metiljoittlllmt		
-Kiilassa	loc	
+Kiilassa	loc	p
 myy		
 hymin		
 haimalla		
@@ -10730,7 +10730,7 @@ ja
 ohjausta		
 opetel>		
 lessaan		
-Englannin	loc	
+Englannin	loc	p
 tieltä,		
 saapi		
 sitä		
@@ -10864,7 +10864,7 @@ Asiamies,
 tapaturnmwllkuutuksia		
 wastaan		
 ottaa		
-Tyrwäällä	loc	
+Tyrwäällä	loc	p
 opettaja	tit	
 S.	per	
 Nunnasi.	per	
@@ -10991,7 +10991,7 @@ jo
 owat		
 maksettawansa		
 suorittaneet.		
-Tyrmää,	loc	
+Tyrmää,	loc	p
 Joulukuun	tim	
 50	tim	
 p.	tim	
@@ -11001,8 +11001,8 @@ F.	per
 Bergroth,	per	
 seurakunnan		
 Lukkari.		
-Tyrwään	org	
-Sanomain	org	
+Tyrwään	org	c
+Sanomain	org	c
 painos		
 on		
 600		
@@ -11017,7 +11017,7 @@ jotka
 lähetetään		
 suorastaan		
 kirjapainoon,		
-Tyrwään	loc	
+Tyrwään	loc	p
 Sa>		
 uomiin		
 painettawilsi,		
@@ -11034,8 +11034,8 @@ D.	per
 Söderholm.	per	
 Niitä		
 amoisia		
-Tyrwään	org	
-Sanomain	org	
+Tyrwään	org	c
+Sanomain	org	c
 tilaajia,		
 jotka		
 eiwät		
@@ -11079,7 +11079,7 @@ tauä
 muonna		
 larwascn		
 hinnalla.		
-Oulun	loc	
+Oulun	loc	p
 pohjanahllia		
 kymmentä		
 penniä		
@@ -11093,8 +11093,8 @@ niinikään
 halwimmalla.		
 S.	per	
 Kepistö.	per	
-Illon	org	
-Nuorisoseuran	org	
+Illon	org	c
+Nuorisoseuran	org	c
 BZuositotous		
 pidetään		
 tämän		
@@ -11378,7 +11378,7 @@ iuuk-a\
 mk.		
 Lehden		
 toimisto		
-Aleksanterinkatu	loc	
+Aleksanterinkatu	loc	s
 m,,		
 19		
 tava-		
@@ -11424,9 +11424,9 @@ mk.
 17		
 p.		
 Konttoon		
-Katariinankatu	loc	
-n:o	loc	
-12	loc	
+Katariinankatu	loc	s
+n:o	loc	s
+12	loc	s
 avoinna		
 .V,-		
 r^.i		
@@ -11564,7 +11564,7 @@ irassa
 ja		
 lehden		
 jaLamisessa.		
-Viipurin	loc	
+Viipurin	loc	p
 Sancmmln		
 Supistus		
 ilmestyy		
@@ -11583,7 +11583,7 @@ ehkäpä
 koko		
 maassa.		
 Tilaushinta:		
-Veaäjäliä:	loc	
+Veaäjäliä:	loc	p
 rupi.		
 rupi.		
 rupi.		
@@ -11596,13 +11596,13 @@ ti
 mk.		
 36		
 p.		
-Vekäjälle	loc	
+Vekäjälle	loc	p
 saa		
 tilata		
 Vmttoorista		
 suorastaan		
 tahi		
-Pietarissa	loc	
+Pietarissa	loc	p
 Lindebergin	per	
 uiolern-		
 H»»t»		
@@ -11653,9 +11653,9 @@ erneri
 West^rdahl,		
 M&fkus		
 LisnfcjneS		
-Weuäjän	loc	
+Weuäjän	loc	p
 kurssi		
-Turkkia	loc	
+Turkkia	loc	p
 Nn		
 tänään	tim	
 Ä:		
@@ -11685,7 +11685,7 @@ lamataan
 10		
 Myyntilurssi,		
 Qöwtuissi		
-Lontoo	loc	
+Lontoo	loc	p
 on		
 Panisi	per	
 Velliini	per	
@@ -11732,12 +11732,12 @@ Pp.
 30.		
 121:		
 60.		
-Amst«dam	loc	
+Amst«dam	loc	p
 a,		
 w,		
-tuHolma	loc	
-Kristiania	bloc	
-Kööpenhamina	bloc	
+tuHolma	loc	p
+Kristiania	bloc	p
+Kööpenhamina	bloc	p
 Paikkoja		
 avoinna.		
 Kokouksia.		
@@ -11760,7 +11760,7 @@ talossa.
 Huom.!		
 Tärkeä		
 asia.		
-Viipurin	loc	
+Viipurin	loc	p
 lllWtluhi		
 utsutaan		
 ylimääräiseen		
@@ -11773,7 +11773,7 @@ klo	tim
 s.	tim	
 ip.	tim	
 Kysyniys		
-Saivonlinnan	loc	
+Saivonlinnan	loc	p
 kaupungin		
 pyynnön		
 johdosta		
@@ -11784,8 +11784,8 @@ taupecllisuudcsta
 mainitun		
 kauoungin		
 ja		
-Eliscmvaaran	loc	
-aseman	loc	
+Eliscmvaaran	loc	x
+aseman	loc	x
 »välille		
 tarjälan		
 radalla.		
@@ -11819,10 +11819,10 @@ M.	per
 Horwelainen	per	
 toimeksi		
 saanut.		
-Terijoen	loc	
-W.		
-P.		
-Km		
+Terijoen	org	c
+W.	org	c
+P.	org	c
+Km	org	c
 ylimääräinen		
 kokous		
 testiwiikkona	tim	
@@ -11944,8 +11944,8 @@ ottamat
 pyydän		
 lähettämään		
 »vastauksen		
-Saktolan	loc	
-postitoimistoon	loc	
+Saktolan	loc	x
+postitoimistoon	loc	x
 nimim,		
 ?Hywät		
 todisnikset		
@@ -11956,8 +11956,8 @@ Tuuri
 ?nifii		
 weto		
 metsissämme.		
-Leluin	loc	
-pitäjässä	loc	
+Leluin	loc	p
+pitäjässä		
 otetaan		
 noin		
 300		
@@ -11969,16 +11969,16 @@ tietoja
 antamat		
 A.	per	
 Hartifaincu	per	
-Keskisenpään	loc	
-kylässä,	loc	
+Keskisenpään	loc	p
+kylässä,		
 E.	per	
 Uroneu	per	
-Nuohialan	loc	
-kylässä	loc	
+Nuohialan	loc	p
+kylässä		
 ja		
 3(ntoniit^		
-Tewalan	loc	
-kylässä.	loc	
+Tewalan	loc	p
+kylässä.		
 Si.		
 Tthhlls.		
 Hengellista		
@@ -11986,27 +11986,27 @@ aikakauskirjallisuutta,
 kv.		
 Sanansaattajaa,		
 Lähetyssanomaa,		
-Kristillisti	org	
-sanomaa,	org	
-Toukomettitä	borg	
-Lastenlehteä,	org	
-Nuorisoystäviä.	borg	
-Kirkollissanomaa	borg	
+Kristillisti	org	c
+sanomaa,	org	c
+Toukomettitä	borg	c
+Lastenlehteä,	org	c
+Nuorisoystäviä.	borg	c
+Kirkollissanomaa	borg	c
 ja		
-Merimiehenystävää	org	
+Merimiehenystävää	org	c
 y.		
 m.		
 KehoitetaaH		
 joutuisasti		
 tilaamaan		
-Luterilaisen	org	
-Rukoushuoneen	org	
-kirjakaupan		
+Luterilaisen	org	c
+Rukoushuoneen	org	c
+kirjakaupan	org	c
 kantta.		
 ?Wiip.		
 Sanolnain"		
 tilauksia		
-Terijoella	loc	
+Terijoella	loc	p
 »vastaanottaa		
 M.	per	
 Intinen.	per	
@@ -12136,13 +12136,13 @@ iv£^)li
 111		
 Osakey		
 tio		
-Puuseppä,	org	
+Puuseppä,		
 Id		
 I^l		
 Postiosoite:		
-Osakeyhtiö		
-PiiusojiinU		
-Kuopio.	loc	
+Osakeyhtiö	org	c
+PiiusojiinU	org	c
+Kuopio.	loc	p
 |wR		
 H.		
 £:tnv		
@@ -12161,7 +12161,7 @@ sKt*
 o%^m		
 Hyvää		
 Kauppaystävillemme		
-Wiipurissa	loc	
+Wiipurissa	loc	p
 Maalla		
 postimakaninecn		
 K»ko		
@@ -12211,20 +12211,20 @@ Rakkolainen	per
 ja		
 M.	per	
 Myl6n	per	
-Elisenmaarassa.	loc	
+Elisenmaarassa.	loc	p
 liikemies	tit	
 E.	per	
 Verkko	per	
 lain		
 en		
-Alholla,	loc	
+Alholla,	loc	p
 kaupanhoitajat	tit	
 N,	per	
 Vepsä	per	
 ja		
 E.	per	
 Hiltunen	per	
-Kurkijoen	loc	
+Kurkijoen	loc	p
 kauppalassa,		
 »neijerinisännöitsijä	tit	
 s).		
@@ -12233,14 +12233,14 @@ meijerillä,
 lautamies	tit	
 A.	per	
 Kaksonen	per	
-Raholassa	loc	
+Raholassa	loc	p
 ja		
 kauppias	tit	
 I.	per	
 Hiitolan	per	
-Mustolassa.	loc	
-Viipurin	org	
-Sanomain	org	
+Mustolassa.	loc	p
+Viipurin	org	c
+Sanomain	org	c
 Telefooninumerot		
 ovat:		
 Konttoriin		
@@ -12262,8 +12262,8 @@ Juhani	per
 öströw,	per	
 o:i		
 myytävänä		
-"Wnpurin	org	
-Sanomain	org	
+"Wnpurin	org	c
+Sanomain	org	c
 konttoorissa		
 ja		
 kaikissa		
@@ -12281,16 +12281,16 @@ Uutta
 Kuvaraamattua		
 saa		
 tilata		
-Luterilaisen	org	
-Rukoushuoneen	org	
-kirjakaupan		
+Luterilaisen	org	c
+Rukoushuoneen	org	c
+kirjakaupan	org	c
 kautta.		
 wiijitlilstll		
 VVttll.		
 Eilen	tim	
 oli		
-Viipurin	org	
-Sauomilla	org	
+Viipurin	org	c
+Sauomilla	org	c
 ominainen		
 mcrtkipäiwä,		
 päiwä,		
@@ -12336,7 +12336,7 @@ niin
 tuoreessa		
 muistossa.		
 Jo		
-muodcn		
+muodcn	tim	
 1884:	tim	
 lopulla,		
 jolloin		
@@ -12348,7 +12348,7 @@ alkamaisillaan,
 ryhtyimät		
 isänmaalliset		
 ja		
-Kaaktois-Karjalan	loc	
+Kaaktois-Karjalan	loc	p
 edistystä		
 harrastamat		
 miehet,		
@@ -12374,8 +12374,8 @@ sanomalehteä,
 jolla		
 tulisi		
 olemaan		
-?Niipurin	org	
-Sanomain"	org	
+?Niipurin	org	c
+Sanomain"	org	c
 nimi.		
 Lehti		
 ilmestyikin		
@@ -12416,8 +12416,8 @@ sanomalehtitarpcen
 tyydyttäjä.		
 Äie		
 jätämme		
-Viipurin	org	
-Sanoman»	org	
+Viipurin	org	c
+Sanoman»	org	c
 »vaiheiden		
 ja		
 sen		
@@ -12490,8 +12490,8 @@ että
 se		
 »valistustyö,		
 joka		
-Viipurin	org	
-Sanomain	org	
+Viipurin	org	c
+Sanomain	org	c
 kautta		
 näin		
 pitkän		
@@ -12499,7 +12499,7 @@ ajan
 kuluessa		
 on		
 tehty		
-Karjalan	loc	
+Karjalan	loc	p
 kansan		
 keskuudessa,		
 se		
@@ -12770,9 +12770,9 @@ hartaasta
 yleisöstä		
 niin.		
 että		
-noin		
-puoli		
-kahdentoista		
+noin		tim
+puoli		tim
+kahdentoista		tim
 aitana		
 kirkkoon		
 aikoivat		
@@ -12788,8 +12788,8 @@ tcrmehdittämän
 uuden		
 »vuoden		
 koittoa.		
-Suomalaisessa	loc	
-kirkossa	loc	
+Suomalaisessa	loc	x
+kirkossa	loc	x
 alutti		
 hartaushetken		
 urkurikuöri		
@@ -12830,8 +12830,8 @@ kirkossa
 samoin		
 hartaushetki,		
 jossa		
-Viipurin	loc	
-pataljoonan		
+Viipurin	org	c
+pataljoonan	org	c
 seitsikko		
 soitti		
 ja		
@@ -13204,14 +13204,14 @@ wäkiluku
 on		
 8,005		
 henkeä.		
-Wiipuri	loc	
-Pietarissa	bloc	
+Wiipuri	loc	p
+Pietarissa	bloc	p
 (tavataan		
 Tiistaina	tim	
 Tammikuun	tim	
 päivänä		
-Viipurin	org	
-Sanomat.	org	
+Viipurin	org	c
+Sanomat.	org	c
 19001-		
 N:o		
 Iliift		
@@ -13234,15 +13234,15 @@ ooni
 OTTO		
 «l»008		
 KIRJAKAUPPA,		
-Wiipuri,	loc	
-Torkkelinkatu	bloc	
+Wiipuri,	loc	s
+Torkkelinkatu	bloc	s
 B.		
 Puhelin		
 876.		
 ss		
 a.		
 Kaupungin		
-Suomen	loc	
+Suomen	loc	p
 seurakunnassa.		
 Syntynyt		
 236		
@@ -13415,7 +13415,7 @@ on
 nyt		
 24,502		
 henkeä.		
-Ruotsin	loc	
+Ruotsin	loc	p
 seurakunta.		
 Syntynyt		
 28		
@@ -13489,7 +13489,7 @@ nyt
 3,493		
 henkeä.		
 Koko		
-Wiipurin	loc	
+Wiipurin	loc	p
 seurakuntien		
 »väkiluku		
 on		
@@ -13513,13 +13513,13 @@ törmäsi
 karille		
 toisiltana		
 matkalla		
-Maarianhaminasta	loc	
-Tukholmaan	bloc	
+Maarianhaminasta	loc	p
+Tukholmaan	bloc	p
 Märän		
 kohdalla		
-Töderarmin	loc	
+Töderarmin	loc	p
 ja		
-Funeundin	loc	
+Funeundin	loc	p
 ivalillä.		
 Matkustajat,		
 joita		
@@ -13583,7 +13583,7 @@ ja
 3-		
 I-		
 Wegclius	per	
-Kurkijoella.	loc	
+Kurkijoella.	loc	p
 Papisto.		
 <Ta>i,ionlinnanj		
 hiippakunta).		
@@ -13610,10 +13610,10 @@ stadius.	per
 Koululaitos.		
 Laulun		
 opettajaksi		
-Wiipurin	org	
-slionialaiseen	org	
-klassilliseen	org	
-lyseoon	org	
+Wiipurin	org	e
+slionialaiseen	org	e
+klassilliseen	org	e
+lyseoon	org	e
 on		
 urkuri	tit	
 E.	per	
@@ -13626,8 +13626,8 @@ saksan
 ja		
 ranskankielen		
 opettajattarelle		
-Joensuun	org	
-tyttökoulussa	org	
+Joensuun	org	e
+tyttökoulussa	org	e
 H.	per	
 Hellmanille	per	
 te»vätlukukaudeksi		
@@ -13673,19 +13673,19 @@ ruoan
 ostoon.		
 Kulkuwäylän		
 wiitoittaminen.		
-Hcinäwedcn	loc	
+Hcinäwedcn	loc	p
 kunta		
 on		
 auouut		
 että		
-Kermanjärwi		
+Kermanjärwi	loc	x
 »viitoitettaisiin		
 laiivaknlkua		
 »varten.		
 Kuollut.		
 Lauantaina	tim	
 kuoli		
-Helsingissä	loc	
+Helsingissä	loc	p
 tollegianasessori		
 etter		
 (t		
@@ -13702,7 +13702,7 @@ laiseen
 sutuuuS		
 ja		
 syntyi		
-Kajaanissa,	loc	
+Kajaanissa,	loc	p
 jossa		
 hänen		
 isänsä		
@@ -13752,7 +13752,7 @@ säilyttäen
 sylvän		
 harrastuksen		
 synnynscutuihinsa.		
-Kajaanin	loc	
+Kajaanin	loc	p
 kaupunki		
 »valitsikin		
 hänet		
@@ -13785,16 +13785,16 @@ tarkastuswaliokunnassa.
 Wainaja		
 teki		
 anomuksia		
-Kajaanin	org	
-kaksiluokkaisen	org	
-reaalilyseon	org	
+Kajaanin	org	e
+kaksiluokkaisen	org	e
+reaalilyseon	org	e
 laajentamisesta		
 nclilnukkaiscksi,		
 kulkukaupan		
 »vapauttamisesta		
 ja		
-Kajaanin	loc	
-wirran	loc	
+Kajaanin	loc	x
+wirran	loc	x
 tanawoimisesta		
 ja		
 jpnhdistamisesta.		
@@ -13811,8 +13811,8 @@ kaipaamaa
 ystäwää		
 jälkeensä.		
 iPchti»		
-Tuomen	org	
-ammattijärjestön	org	
+Tuomen	org	c
+ammattijärjestön	org	c
 Hnstajllin		
 ensimmäinen		
 kokous		
@@ -13861,7 +13861,7 @@ y.
 m.		
 Lähetettiin		
 sähkösanoma		
-Ruotsi»»	loc	
+Ruotsi»»	loc	p
 rautatyöntckiäin		
 kongressiin.		
 Tämän		
@@ -13924,7 +13924,7 @@ tnlewillc
 äänirajoitusasiassa		
 oli		
 saapunut		
-Turun	loc	
+Turun	loc	p
 puoluehallinnolta.		
 Näitä		
 oli		
@@ -14009,7 +14009,7 @@ yleistä
 kosta		
 se		
 ainakin		
-Turun	loc	
+Turun	loc	p
 puoluchalliunon		
 puolelta		
 tulee		
@@ -14051,8 +14051,8 @@ samoin
 enncnmainitulle		
 komitealle.		
 Esitettiin		
-Tuomen	org	
-ammattijärjestön	org	
+Tuomen	org	c
+ammattijärjestön	org	c
 sääntöehdotus,		
 josta		
 hrat	tit	
@@ -14092,8 +14092,8 @@ voin
 kolme		
 »viikkoa		
 sitten		
-Pohjoismaiden	org	
-pankin	org	
+Pohjoismaiden	org	c
+pankin	org	c
 uuden		
 talon		
 rakennuksella		
@@ -14367,7 +14367,7 @@ tirwesmies-ammnttiosnsto
 waltnutettii»		
 pöytätirianotteclla		
 ilmoittamaan		
-Viipurin	loc	
+Viipurin	loc	p
 ynnä		
 muille		
 paikkakunnan		
@@ -14391,8 +14391,8 @@ sunnunt,
 luudenivuoden-aattona»		
 No		
 ip,		
-Viipurin	org	
-työwäenyhdistys	org	
+Viipurin	org	c
+työwäenyhdistys	org	c
 jäsenilleen		
 omalla		
 talollaau,		
@@ -14914,7 +14914,7 @@ aattomme
 voi		
 silloin		
 on		
-'Suomella	loc	
+'Suomella	loc	p
 pyhä:		
 kauniisti		
 taaskihin		
@@ -15058,14 +15058,14 @@ Sotatantereelta.
 Englantilaisilla		
 whoisa		
 hyökkäys		
-Mafetingistä.	loc	
+Mafetingistä.	loc	p
 joulut.		
 !i0		
 p.		
-Mafetingistä	loc	
+Mafetingistä	loc	p
 ilmoitetaan		
 »virallisesti		
-Pretoriaan,	loc	
+Pretoriaan,	loc	p
 että		
 ca,lantilainen		
 puolustuswäki		
@@ -15097,7 +15097,7 @@ i,
 iouluk,		
 ?>0		
 p,		
-Pariisista	loc	
+Pariisista	loc	p
 sähkötetään		
 ?Temsin"		
 saaneet		
@@ -15105,7 +15105,7 @@ seuraamat
 tiedot		
 sisältämän		
 sähkösanoman		
-Lontoosta	loc	
+Lontoosta	loc	p
 Totaministeriö		
 on		
 saanut		
@@ -15117,7 +15117,7 @@ salassa,
 ctä		
 5>0,000		
 akikandcria		
-Kapmaassa	loc	
+Kapmaassa	loc	p
 on		
 'tehnyt		
 kapi		
@@ -15151,14 +15151,14 @@ kaikesta
 yhteytestä		
 muitten		
 kanssa.		
-Dnrlmin	loc	
-Ladysnnthin	loc	
+Dnrlmin	loc	p
+Ladysnnthin	bloc	p
 'linjalla		
 on		
 Vuller	per	
 työiinctty		
 Pietermarit^urgiiu.		
-Ladysniithin	loc	
+Ladysniithin	loc	p
 tila		
 on		
 epätonvoine»,		
@@ -15234,7 +15234,7 @@ Pieniä
 tietoja.		
 Nhteistoiminnallinen		
 tuotanto		
-Englannissa.	loc	
+Englannissa.	loc	p
 Äskettäin		
 julkais		
 tun		
@@ -15247,7 +15247,7 @@ lpuolct
 käytäuuössä		
 olcivista		
 yhdistyksistä)		
-Englannissa	loc	
+Englannissa	loc	p
 0,104		
 henkilöä		
 iuotannon		
@@ -15304,9 +15304,9 @@ Nautatieonncttomundessa,
 mikä		
 toislanantaina		
 sattui		
-Kalsdorffin	loc	
+Kalsdorffin	loc	p
 kohdalla		
-Itä»vallassa.	loc	
+Itä»vallassa.	loc	p
 paloi		
 eräs		
 talva		
@@ -15328,13 +15328,13 @@ jota
 »vuosikausia		
 on		
 raiwonnnt		
-Intiassa,	loc	
+Intiassa,	loc	p
 on		
 nyt		
 ilmestynyt		
 koivin		
 ankarana		
-Austraaliaan	loc	
+Austraaliaan	loc	p
 kuulu		
 »villa		
 Uudeukaledouiau		
@@ -15387,7 +15387,7 @@ ja
 heille		
 palkkion		
 määräämisestä,		
-Viipurissa	loc	
+Viipurissa	loc	p
 28	tim	
 p:nä	tim	
 joulukuuta	tim	
@@ -15418,7 +15418,7 @@ täällä,
 myndään		
 uiäl)inmun		
 niaattjtille		
-Wiipurin	loc	
+Wiipurin	loc	p
 kaupungin		
 suomalaisen		
 scurakuuuau		
@@ -15512,14 +15512,14 @@ kuoressa
 woidaau		
 tehdä		
 allekirjoittaucelle.		
-Witpurissa	loc	
+Witpurissa	loc	p
 29	tim	
 P:uä	tim	
 joulukuuta	tim	
 1899.	tim	
 F/N.		
 Lyly.		
-Viipurin	loc	
+Viipurin	loc	p
 taupuugin		
 nuden		
 suomal		
@@ -15540,7 +15540,7 @@ annetaan
 urakkahuntotaupalla.		
 joka		
 pidetään		
-Muurittalassa	loc	
+Muurittalassa	loc	p
 Erik	per	
 Kiivelän	per	
 talossa		
@@ -15572,8 +15572,8 @@ kiinteää
 onustawat		
 äänilvaltaiset		
 henkilöt		
-Vlunrikkalassa.	loc	
-Miehikkälässä	bloc	
+Vlunrikkalassa.	loc	p
+Miehikkälässä	bloc	p
 p.		
 Tammik.	tim	
 1900,	tim	
@@ -15648,7 +15648,7 @@ takasin
 tuomaan		
 miimeistään		
 ennen		
-ensitulewan		
+ensitulewan	tim	
 helmikuun	tim	
 15	tim	
 päiwää	tim	
@@ -15675,8 +15675,8 @@ ilmoittaa
 saman		
 ajan		
 kuluessa.		
-Viipurin	org	
-Raatihuoneella	org	
+Viipurin	org	c
+Raatihuoneella	org	c
 joulukuun	tim	
 27	tim	
 päiwänä	tim	
@@ -15718,8 +15718,8 @@ kanssa
 hyyrätään		
 nyt		
 heti		
-Maunuukatu	loc	
-N:o		
+Maunuukatu	loc	s
+N:o	loc	s
 tilviratennnkscssa.		
 Ilmoituksia.		
 Ilmoitus.		
@@ -15750,7 +15750,7 @@ cunett
 ensi	tim	
 Tammikuun	tim	
 loppua,	tim	
-ziäkisalmessa	loc	
+ziäkisalmessa	loc	p
 28	tim	
 päimänä	tim	
 Joulukuuta	tim	
@@ -15767,9 +15767,9 @@ Optiken
 IW.trafa.		
 iti		
 .«		
-Mustainveljesten	loc	
-katu	loc	
-14.	loc	
+Mustainveljesten	loc	s
+katu	loc	s
+14.	loc	s
 Telef.		
 176.		
 Optillisia		
@@ -15786,7 +15786,7 @@ Viktor	per
 Nyholm^	per	
 r"		
 \^^		
-Wiipurissa.	loc	
+Wiipurissa.	loc	p
 Pmwälista.		
 KlNiftmigin		
 woulia		
@@ -15975,14 +15975,14 @@ awomn«>
 N«	tim	
 10?	tim	
 päiw.	tim	
-Pohjoismaiden	org	
-osakepankin,	org	
-Kansallispankin	borg	
+Pohjoismaiden	org	c
+osakepankin,	org	c
+Kansallispankin	borg	c
 j»		
-Tuonien	org	
-Maanwiljelys-	org	
-jll	org	
-Teollisuuspankin	org	
+Tuonien	org	c
+Maanwiljelys-	org	c
+jll	org	c
+Teollisuuspankin	org	c
 tonttoorit		
 awoinna		
 klo	tim	
@@ -16099,7 +16099,7 @@ p,,	tim
 8j»	tim	
 9i.	tim	
 P,	tim	
-Neitsytniemellä	loc	
+Neitsytniemellä	loc	p
 klo	tim	
 10,45	tim	
 11,	tim	
@@ -16131,14 +16131,14 @@ kirjakaupan
 ja		
 Zeuratiuoneen		
 luona,		
-Katariinan	loc	
-ja	loc	
-Aleksanterinkatujen	loc	
-kulmassa,	loc	
-Tortkelm	bloc	
-ja	loc	
-Aletsanterintatujen	loc	
-kulmassa	loc	
+Katariinan	loc	s
+ja	loc	s
+Aleksanterinkatujen	loc	s
+kulmassa,	loc	s
+Tortkelm	bloc	s
+ja	loc	s
+Aletsanterintatujen	loc	s
+kulmassa	loc	s
 setä		
 rautatien		
 postiosaston		
@@ -16180,7 +16180,7 @@ lauwantainll	tim
 klo	tim	
 i.	tim	
 P,	tim	
-Sätkijärwelle	loc	
+Sätkijärwelle	loc	p
 tiistllina,	tim	
 torstaina	tim	
 ja	tim	
@@ -16189,7 +16189,7 @@ laumanlaina	tim
 11	tim	
 a.	tim	
 v.	tim	
-Nuraansalmelle	loc	
+Nuraansalmelle	loc	p
 Mllanantaina,	tim	
 lestiwiillona,	tim	
 perjantaina	tim	
@@ -16287,7 +16287,7 @@ G,*
 7,15		
 i.		
 p,		
-Neitsntniemen	loc	
+Neitsntniemen	loc	p
 poBtiajema		
 pidetään		
 arlipaiwinä	tim	
@@ -16340,11 +16340,11 @@ naisten
 jll		
 lasten		
 tauteja.		
-Katariinankatu	loc	
-n:o	loc	
-28,	loc	
-Kaufman'w	bloc	
-talo,	loc	
+Katariinankatu	loc	s
+n:o	loc	s
+28,	loc	s
+Kaufman'w	bloc	p
+talo,	loc	p
 mastapaätä		
 menäläistä		
 tasaimia.		
@@ -16358,8 +16358,8 @@ ja	tim
 7?9	tim	
 i.	tim	
 P.	tim	
-Pyhän	loc	
-Annankatu,	loc	
+Pyhän	loc	s
+Annankatu,	loc	s
 2chaworonk°ff'm		
 tall»,		
 telef,		
@@ -16374,17 +16374,17 @@ No	tim
 10?2	tim	
 i.	tim	
 p.	tim	
-Vaasankatu	loc	
-n:o	loc	
-11,	loc	
+Vaasankatu	loc	s
+n:o	loc	s
+11,	loc	s
 Telefooni		
 754.		
 Asianajajat	tit	
 Lindberg	per	
 ja		
 Rosenqwist	per	
-Katariinantatn	loc	
-37	loc	
+Katariinantatn	loc	s
+37	loc	s
 Telefooni		
 854.		
 Nastaanott,		
@@ -16393,19 +16393,19 @@ ja
 3?5,		
 Uno	per	
 Winter	per	
-Wiipurin	loc	
+Wiipurin	loc	p
 kunnan		
 lääkäri.		
-Pohjolankatu	loc	
+Pohjolankatu	loc	s
 Telefooni		
 784.		
 lunatzlähtewät		
 joka		
 päiwä:		
-Helsingin	loc	
+Helsingin	loc	p
 aita,		
 9Matfu«tajajunat		
-Pietariin:	loc	
+Pietariin:	loc	p
 flo	tim	
 5,13	tim	
 aam.	tim	
@@ -16433,7 +16433,7 @@ i.	tim
 p.	tim	
 (päiwä		
 postijuna).		
-Helsinkiin:	loc	
+Helsinkiin:	loc	p
 klo	tim	
 1,23	tim	
 t)iJHä|		
@@ -16447,7 +16447,7 @@ posliiniin),
 i,	tim	
 P,	tim	
 (yiipoi-tijuua).		
-Kouwolaan	loc	
+Kouwolaan	loc	p
 jo		
 gappeetu-ontaan:		
 kl»	tim	
@@ -16457,7 +16457,7 @@ p,	tim
 imatf.		
 juuaH		
 Rocniuutjun,		
-Imatralle	loc	
+Imatralle	loc	p
 ja		
 Vuoti		
 enf		
@@ -16469,7 +16469,7 @@ p.	tim
 (posti		
 juna).		
 Eottaroalaan,		
-Imatralle	loc	
+Imatralle	loc	p
 jo		
 Wu°l«		
 enn		
@@ -16482,9 +16482,9 @@ i,	tim
 p.	tim	
 (matt.		
 juna).		
-Imatralle	loc	
+Imatralle	loc	p
 ja		
-Vuoksenniskalle:	loc	
+Vuoksenniskalle:	loc	p
 t«ll,	tim	
 8,15	tim	
 i,	tim	
@@ -16550,9 +16550,9 @@ juna),
 i.	tim	
 P-	tim	
 (poStijunai,		
-Koumolasta	loc	
+Koumolasta	loc	p
 ja		
-Lappeenrannasta:!!,	loc	
+Lappeenrannasta:!!,	loc	p
 9,07	tim	
 a.	tim	
 p.	tim	
@@ -16567,17 +16567,17 @@ kk'	tim
 i,	tim	
 P,	tim	
 (poStijuna).		
-Sortawalasta,	loc	
-Nuolsennislalta	bloc	
+Sortawalasta,	loc	p
+Nuolsennislalta	bloc	p
 >«		
-Imatrana:	loc	
+Imatrana:	loc	p
 klo	tim	
 9,45	tim	
 i.	tim	
 p.	tim	
 (matf.		
 juna).		
-Wuotsennislalta	loc	
+Wuotsennislalta	loc	p
 ja		
 3ntattalta:		
 f«H»		
@@ -16586,7 +16586,7 @@ f«H»
 p-	tim	
 (matt.		
 una		
-Imatralta:	loc	
+Imatralta:	loc	p
 No	tim	
 5,25	tim	
 i,	tim	
@@ -16607,10 +16607,10 @@ p.	tim
 l,).		
 J,Koswv	per	
 Huonekalukauppa		
-Viipuri	loc	
-Katariinankatu	bloc	
-n:«	loc	
-34*	loc	
+Viipuri	loc	p
+Katariinankatu	bloc	s
+n:«	loc	s
+34*	loc	s
 «Ut,		
 Pleunan		
 vastassa.		
@@ -16623,7 +16623,7 @@ Palonen	per
 1872.		
 ii.lllli		
 l[|,l.klii.lliii>ill.lJtiii|||liiil^'^^^		
-Viipurissa,	loc	
+Viipurissa,	loc	p
 ©lipuvin		
 Sanomain		
 liii«pau»ss«.		
@@ -16646,7 +16646,7 @@ mmm
 tai-kemmin		
 vasta.		
 maaseudulta.		
-Parikkala.	loc	
+Parikkala.	loc	p
 Mitä		
 s'a		
 ä^t		
@@ -16664,7 +16664,7 @@ jo
 järjestetty,		
 että		
 posti		
-Tyrjälle	loc	
+Tyrjälle	loc	p
 saadaan,		
 kuin		
 suurem		
@@ -16693,7 +16693,7 @@ ei
 »vieläkään		
 ole		
 tilattu		
-Tyrjälle	loc	
+Tyrjälle	loc	p
 yhtään		
 sanomalehteä,		
 Eunen		
@@ -16801,8 +16801,8 @@ sitä
 tanvitsemmetiu.		
 Henning	per	
 Carlsonilla.	per	
-Katarinankatu	loc	
-24.	loc	
+Katarinankatu	loc	s
+24.	loc	s
 6.		
 H.		
 åhrenberg'illa.	per	
@@ -16851,7 +16851,7 @@ L>p3lV3lBSN
 PÄINNIIBSN		
 3-päiväisen		
 painoksen		
-Oulussa:	loc	
+Oulussa:	loc	p
 Postitoi-		
 Uikomistoissa:		
 mailla:		
@@ -16888,7 +16888,7 @@ p:n'ä	tim
 ?.75.		
 1:		
 SANOMIA		
-OULUN	loc	
+OULUN	loc	p
 KAUPUNGISTA		
 JA		
 LaANIST		
@@ -16956,9 +16956,9 @@ ennakkomaksua.
 Konttori		
 ja		
 toimituspaikka		
-Länsipitkäkatu	loc	
-n:o	loc	
-8.	loc	
+Länsipitkäkatu	loc	s
+n:o	loc	s
+8.	loc	s
 Toimittajat,	tit	
 H.	per	
 F.	per	
@@ -16974,10 +16974,10 @@ Pallari.	per
 w.	tim	
 1900.	tim	
 Kaupungissa,		
-Oulussa	loc	
+Oulussa	loc	p
 ja		
-Oulun	loc	
-Piirissä,	loc	
+Oulun	loc	p
+Piirissä,		
 jossa		
 lehti		
 kannetaan		
@@ -17008,9 +17008,9 @@ ja
 muissa		
 kaupungeissa		
 kuin		
-Oulussa	loc	
+Oulussa	loc	p
 on		
-Kaiku		
+Kaiku	org	c
 tilattawa		
 läheisimmästä		
 postikonttorista,		
@@ -17022,7 +17022,7 @@ ennen,
 eikä		
 toimitukselta		
 suorastaan.		
-Postilaitoksen		
+Postilaitoksen	org	c
 kautta		
 tilattaissa		
 on		
@@ -17053,7 +17053,7 @@ palwelusneitsy	tit
 Ida	per	
 dm,		
 molemmat		
-Oulun	loc	
+Oulun	loc	p
 kaupungista.		
 Työmies	tit	
 laallo	per	
@@ -17064,7 +17064,7 @@ neitsy	tit
 Kaisa	per	
 Nyberg,	per	
 molemmat		
-Oulun	loc	
+Oulun	loc	p
 laupungista.		
 Anelleita:		
 Lapsi		
@@ -17107,8 +17107,8 @@ Jaako	per
 Malilla	per	
 lt.		
 Kurssit.		
-Suomen	org	
-Pankin	org	
+Suomen	org	c
+Pankin	org	c
 konttori		
 tammik.	tim	
 p:nä.	tim	
@@ -17119,11 +17119,11 @@ Jat
 100:		
 ta		
 Punt.		
-Pietari	loc	
-Lonto^	loc	
+Pietari	loc	p
+Lonto^	bloc	p
 «.		
 vista		
-Paris	loc	
+Paris	loc	p
 vist»		
 100		
 124		
@@ -17139,13 +17139,13 @@ visra
 40		
 100		
 139		
-Tukholma	loc	
+Tukholma	loc	p
 99		
 138		
 138		
-Kristiania	loc	
+Kristiania	loc	p
 139		
-Köpenham	loc	
+Köpenham	loc	p
 Kuolleita.		
 Surulla		
 ilmoitamme		
@@ -17178,7 +17178,7 @@ leesulien
 we>		
 nseen		
 lunastukseen.		
-Romaniemellä	loc	
+Romaniemellä	loc	p
 joulu»	tim	
 luun		
 25	tim	
@@ -17228,7 +17228,7 @@ minä.
 Ilmoituksia,		
 Lääkärin		
 wirla		
-Oulun?	loc	
+Oulun?	loc	p
 2orntcn		
 rautatierakennusta		
 marlen		
@@ -17247,15 +17247,15 @@ Katsokaa
 lähemmin		
 ilmoitusta		
 tästä		
-Suomen	loc	
-Wiralliseesa		
-Lehdessä		
-Helsingissä,	loc	
+Suomen	org	c
+Wiralliseesa	org	c
+Lehdessä	org	c
+Helsingissä,	loc	p
 2i3>		
 ja		
 wesirakcnnusten		
 y!ihallitul'essa		
-Suomessa.	loc	
+Suomessa.	loc	p
 Joulukuun	tim	
 '20	tim	
 pntä	tim	
@@ -17276,8 +17276,8 @@ Kiiti*
 viinäeztÄ		
 Oilia		
 toivottavat		
-Westerlund	org	
-C:o	org	
+Westerlund	org	c
+C:o	org	c
 arvoisille		
 asia^ystävilleen.		
 (SS,I.		
@@ -17999,8 +17999,8 @@ Näin
 ?er!o?		
 lehti		
 itse.		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 hätäapukomitean		
 lofauliessa		
 30	tim	
@@ -18041,19 +18041,19 @@ suurin".
 M[joien		
 jaaäsa		
 sai		
-Suomuzsalmi	loc	
+Suomuzsalmi	loc	p
 143		
 m.		
 87		
 p.,		
-NlVtijärwi,	loc	
-Siräiöniemi,	bloc	
-Puolaaka,	bloc	
-Kestilä,	bloc	
+NlVtijärwi,	loc	p
+Siräiöniemi,	bloc	p
+Puolaaka,	bloc	p
+Kestilä,	bloc	p
 K'rs2mä!i,		
 XatoalfoSfi		
 ja		
-Kuhmomenu	bloc	
+Kuhmomenu	bloc	p
 fu		
 in		
 100		
@@ -18069,7 +18069,7 @@ erissä
 jauhoina		
 köyhimmille		
 perheille.		
-Pyhäiörwen	loc	
+Pyhäiörwen	loc	p
 funna		
 pyy		
 ttS		
@@ -18110,7 +18110,7 @@ nunnoiden
 oleman		
 ?ep2ebuSi«		
 sia".		
-Paltamon	loc	
+Paltamon	loc	p
 kirlkorantaa^		
 ra^nnet^		
 tavaa		
@@ -18176,7 +18176,7 @@ suostuneet,
 jäi		
 apu		
 saamatta.		
-Paamolan	loc	
+Paamolan	loc	p
 kunla		
 pyysi		
 5.000		
@@ -18321,7 +18321,7 @@ lafaftn
 toralla.		
 Haava		
 meden		
-Ojakylän	loc	
+Ojakylän	loc	p
 maantien		
 sillain		
 kurmossa		
@@ -18335,7 +18335,7 @@ Psä
 tettiia		
 esittää		
 aria		
-Helsingin	loc	
+Helsingin	loc	p
 komitealle		
 ia		
 antaa		
@@ -18344,7 +18344,7 @@ tukseen
 500		
 ra.		
 jos		
-Helsingin	loc	
+Helsingin	loc	p
 komitea		
 puolestaan		
 suostuu		
@@ -18355,7 +18355,7 @@ Hiippakunnan
 sanomia.		
 (Kuv		
 pion).		
-Kuusamon		
+Kuusamon	loc	p
 toisia		
 la-eleetan		
 wirkaa		
@@ -18374,7 +18374,7 @@ I.	per
 Saari,	per	
 lahti.		
 Vaaliehdolle		
-Pyhäjärwen	loc	
+Pyhäjärwen	loc	p
 (O.		
 L.)		
 pitäj.		
@@ -18383,12 +18383,12 @@ wirkaan
 on		
 csetettu:		
 1)		
-Hailuodon	loc	
+Hailuodon	loc	p
 kpl.		
 P.	per	
 Hyttinen,	per	
 2)		
-Haapawed^n	loc	
+Haapawed^n	loc	p
 wt.		
 kkh.		
 K.		
@@ -18424,7 +18424,7 @@ pippismies,	tit
 st		
 Kertonen.	per	
 Määcälyt:		
-Pielaweden	loc	
+Pielaweden	loc	p
 klhran		
 apul.		
 H.	per	
@@ -18440,10 +18440,10 @@ filos,	btit
 land.	tit	
 K.	per	
 lerikonen	per	
-Limingan	loc	
+Limingan	loc	p
 kirkkoherran		
 apul:lsi.		
-Oulun	loc	
+Oulun	loc	p
 wt.		
 tth.		
 I.	per	
@@ -18452,7 +18452,7 @@ Ro	per
 sendahl	per	
 '/,		
 sta		
-Oulun	loc	
+Oulun	loc	p
 wirall.		
 tir.koher		
 ran		
@@ -18463,9 +18463,9 @@ ohessa
 waltiopäirsien		
 aikana		
 hoitamaan		
-Oulun	loc	
+Oulun	loc	p
 kirkkoherranwirkaa.		
-Oulun	loc	
+Oulun	loc	p
 wirall.		
 lihran		
 apul.		
@@ -18483,9 +18483,9 @@ ohessa
 walnopäiwien		
 aitana		
 hoitamaan		
-Alatornion	loc	
+Alatornion	loc	p
 kirlloherranwirkaa.		
-Haapaweden	loc	
+Haapaweden	loc	p
 wt.		
 kth.		
 K.	per	
@@ -18494,9 +18494,9 @@ Simelius	per
 "/,		
 p-Ztä		
 wt.		
-Paawolan	loc	
+Paawolan	loc	p
 knlkoherraksi.		
-Kalajoen	loc	
+Kalajoen	loc	p
 wt.		
 lkh.		
 I.	per	
@@ -18504,10 +18504,10 @@ A.	per
 Hkilala	per	
 '"/>		
 p:?tä		
-Haapawede.ii	loc	
+Haapawede.ii	loc	p
 kirkkuher.		
 ralsi.		
-Kalojoen	loc	
+Kalojoen	loc	p
 lps.		
 I.	per	
 H.	per	
@@ -18518,12 +18518,12 @@ ohessa
 '"/,		
 pistä		
 wt.		
-Kalojoen	loc	
+Kalojoen	loc	p
 iir'koherraksi		
 ja		
 armow.		
 'saarnc:lljalsi.		
-Pyhäiärwen	loc	
+Pyhäiärwen	loc	p
 kkh.		
 I.	per	
 Schmartzberg	per	
@@ -18532,7 +18532,7 @@ wiran
 ohessa		
 '/<		
 p-stä		
-Pyhäjärmen	loc	
+Pyhäjärmen	loc	p
 wt.		
 pit.		
 «apulaiseksi.		
@@ -18555,13 +18555,13 @@ on
 sairauden		
 takia		
 pyytänyt		
-Pudasjärmen	loc	
+Pudasjärmen	loc	p
 piirilääkäri	tit	
 I.	per	
 Stenbäck.	per	
 Passitilastoa.		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 kuwernöörin		
 passia		
 on		
@@ -18569,7 +18569,7 @@ Viime
 fuluneella		
 löuobjUa		
 ennettn:		
-Amerikaan	loc	
+Amerikaan	loc	p
 matkaa		
 warten		
 1,479		
@@ -18812,11 +18812,11 @@ waisi
 ©aituttaa.		
 Siemenkaurain		
 hankinta		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 tarpeeksi.		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 kuw°rnöörin		
 uurastan		
 ilmoitettua		
@@ -18932,8 +18932,8 @@ loiwaa
 laada		
 tuota		
 fteinenlajia		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 tarpeeksi,		
 jota		
 toastoin		
@@ -18965,17 +18965,17 @@ pitämään
 kylänticn,		
 joka		
 alkaa		
-Sotkamosta	loc	
-Rtstijärwelle	bloc	
+Sotkamosta	loc	p
+Rtstijärwelle	bloc	p
 aijotulta		
 maan<		
 tienlinjalta		
-Kaitamsalmesta	loc	
-Ilisotlamon	bloc	
+Kaitamsalmesta	loc	p
+Ilisotlamon	bloc	p
 kylästä		
 mainitun		
 kunnan		
-Sumsan	loc	
+Sumsan	loc	p
 ly»		
 lään.		
 Lääninhallitus.		
@@ -18985,8 +18985,8 @@ että
 l.		
 senaatti		
 myöntää		
-Oulun	loc	
-läänin	loc	
+Oulun	loc	p
+läänin		
 wiinapolttillloiden		
 ja		
 tehtaiden		
@@ -19045,8 +19045,8 @@ K.	per
 A.	per	
 Lind»		
 strömin.		
-Rantsilan	loc	
-pitäjän	loc	
+Rantsilan	loc	p
+pitäjän		
 maanjako-oikeuden		
 jäseneksi		
 on		
@@ -19246,7 +19246,7 @@ wie'ä
 »irtet:		
 ?Herra		
 siunaa		
-Suomen	loc	
+Suomen	loc	p
 ?ansa"		
 ja		
 ZiK-ik'		
@@ -19260,7 +19260,7 @@ ol)tautup.eiila
 fäntSmillä.		
 HOäkiluwnn		
 muutokset.		
-Oulun	loc	
+Oulun	loc	p
 kis		
 rntunn		
 23		
@@ -19367,7 +19367,7 @@ mp,
 NP,		
 yht,		
 15,577.		
-Oulun	loc	
+Oulun	loc	p
 maasc		
 nna		
 Synt.		
@@ -19465,7 +19465,7 @@ nhi.
 20,332		
 henkeä.		
 Alöskanto		
-Oulun	loc	
+Oulun	loc	p
 tuUifarnariäfa		
 temmon		
 1899		
@@ -19503,9 +19503,9 @@ wihittiin
 aii*		
 me		
 perjantaina	tim	
-Oulun	org	
-diakonissa	org	
-kodin	org	
+Oulun	org	c
+diakonissa	org	c
+kodin	org	c
 ent.		
 Johtajatar	tit	
 ja		
@@ -19529,12 +19529,12 @@ päässyt
 irti		
 Ka«epaian		
 maHite^taalla		
-Pikisaarella,	loc	
+Pikisaarella,	loc	p
 mutta		
 saatiin		
 heti		
 tukahdutetuksi.		
-Oulun	loc	
+Oulun	loc	p
 yhdistyksiltäkin,		
 joita		
 lienee		
@@ -19567,10 +19567,10 @@ rooraputjeenjo^tajaift
 pastori	tit	
 O.	per	
 %a--britiuö.		
-Toiminimi	org	
-G.	org	
-(3.	org	
-Bergbomin	org	
+Toiminimi	org	c
+G.	org	c
+(3.	org	c
+Bergbomin	org	c
 puuwwaralule		
 an		
 jarjeötetty		
@@ -19634,13 +19634,13 @@ tulee
 muutaman		
 maa-alan		
 luowuU2mln?n		
-Oulun	loc	
+Oulun	loc	p
 pataliconaHc,		
 tcuppahallitysymyL		
 sela		
 rahojen		
 lanßtminen		
-Tuiran	loc	
+Tuiran	loc	p
 maan		
 kansakoulun		
 rafennuffcen		
@@ -19648,7 +19648,7 @@ sähföVal^iaitotfett
 menoihin^^^^^^W		
 ja		
 erinäisiin		
-Raahen	loc	
+Raahen	loc	p
 uutta		
 satamaa		
 ra*		
@@ -19736,7 +19736,7 @@ ollut
 olu2ta		
 alkaen.		
 Liiko		
-Raahen	loc	
+Raahen	loc	p
 radalla		
 mi		
 ällä		
@@ -19780,14 +19780,14 @@ wiinannhriksi.
 aamulla	tim	
 !ö		
 in		
-Kemissä	loc	
+Kemissä	loc	p
 noin		
 /2		
 !ilome		
 rla		
-Kemin	loc	
+Kemin	loc	p
 fanpugista		
-Rowaviemeen	loc	
+Rowaviemeen	loc	p
 menemän		
 maantien		
 marrelta		
@@ -19839,7 +19839,7 @@ taalta
 ebeHifen		
 päitten		
 iltapuolella		
-Kemin	loc	
+Kemin	loc	p
 kaupunkiin,		
 jossa		
 nautti		
@@ -19875,7 +19875,7 @@ parempaan
 rjöfiaan,		
 sillä		
 täällä		
-Kemilä	loc	
+Kemilä	loc	p
 et		
 ole		
 har!Vin".i3ta		
@@ -19936,12 +19936,12 @@ j.
 pp.		
 Sairans		
 suhteet		
-Oulussa.	loc	
+Oulussa.	loc	p
 23iirre		
 anifon		
 ku!i'.eösa		
 on		
-Oulun	loc	
+Oulun	loc	p
 laa?		
 kare		
 Ile		
@@ -19980,7 +19980,7 @@ pussitautia
 2.		
 3)h!een!ä		
 47.		
-Kemistä:	loc	
+Kemistä:	loc	p
 Ka		
 pung		
 mu?		
@@ -19988,7 +19988,7 @@ oudi
 on		
 maistraatti		
 määrännyt		
-Kernin	loc	
+Kernin	loc	p
 piirin		
 n«-raiSmle^en		
 K.	per	
@@ -20016,7 +20016,7 @@ E.
 3l?rai?in.		
 Konkurssihakemuksen		
 omat		
-Kemin	loc	
+Kemin	loc	p
 PuunialMustcht.		
 puolesta		
 jättäneet		
@@ -20086,7 +20086,7 @@ rahat
 ronwnictncKifen		
 kauppahuoneen		
 afiamie^cQe		
-Kemissä.	loc	
+Kemissä.	loc	p
 Muita		
 talla		
 kertaa		
@@ -20283,7 +20283,7 @@ asumat,
 jalamme		
 näytteeksi		
 tämän		
-Kaiun	org	
+Kaiun	org	c
 I:sen		
 numeron^		
 ilul		
@@ -20354,7 +20354,7 @@ huomaut-
 taa		
 siitä,		
 että		
-Kaiun	org	
+Kaiun	org	c
 joutumisen		
 tähden		
 walmiiksi		
@@ -20396,7 +20396,7 @@ mutta
 meille		
 niin		
 rakkaan		
-Suomen	loc	
+Suomen	loc	p
 kansan		
 Vastaista		
 kohtaloa,		
@@ -20497,7 +20497,7 @@ lahjomattomaksi
 määrääjäkö.		
 Tahdommeko		
 rakkaan		
-Suomen	loc	
+Suomen	loc	p
 kansomme		
 it'e		
 saattaa		
@@ -20594,7 +20594,7 @@ heikon
 ääneni		
 kaikumaan		
 yli		
-Suomen	loc	
+Suomen	loc	p
 salojen		
 ja		
 soiden,		
@@ -70120,7 +70120,7 @@ emäntä,
 kun		
 puoleksi		
 annasi		
-Myllyperän		
+Myllyperän	loc	
 emännän		
 aikeen.		
 ?Tarwitsen		
@@ -70146,7 +70146,7 @@ maan
 tuskin		
 auttaa",		
 sanoi		
-Ollilan		
+Ollilan	loc	
 emäntä,		
 joka		
 oli		
@@ -70164,7 +70164,7 @@ luottanut.
 Ia		
 kertoi		
 sitten		
-Myllyperän		
+Myllyperän	loc	
 emännälle:		
 ?Olen		
 minäkin		
@@ -70298,11 +70298,11 @@ ole
 sitä		
 tehnyt",		
 selitti		
-Ollilan		
+Ollilan	loc	
 emäntä.		
 Närästyksissään		
 läksi		
-Myllyperän		
+Myllyperän	loc	
 emäntä		
 kotiaan.		
 Poikkesi		
@@ -70376,7 +70376,7 @@ pois.
 Sinä		
 kesänä		
 oli		
-Myllyperässä		
+Myllyperässä	loc	
 Les»		
 kisen		
 laiska		
@@ -70426,7 +70426,7 @@ tui
 rnmatusti		
 metsään		
 päin:		
-..Viktori		
+..Viktori	per	
 hoi!		
 Tule		
 pois!"		
@@ -70444,19 +70444,19 @@ waikka
 puo«		
 R:o		
 1.		
-19V0.		
+19V0.	tim	
 Perä.		
 Pohjolainen.		
-Tiistaina		
-Tammikuun		
-p:n3>		
-Naittinssenra		
+Tiistaina	tim	
+Tammikuun	tim	
+p:n3>	tim	
+Naittinssenra	org	
 Toiwo		
 II		
 :n		
 kokouksessa		
-miime		
-sunnuntaina		
+miime	tim	
+sunnuntaina	tim	
 päätettiin		
 seuran		
 lukuhuoneeseen		
@@ -70467,22 +70467,22 @@ seuraamat
 sanomalehdet		
 ja		
 aikakauskirjat:		
-Kaleiva,		
-Kylwäjä,		
-Kylakijaston		
-Kumalehti		
+Kaleiva,	org	
+Kylwäjä,	borg	
+Kylakijaston	borg	
+Kumalehti	org	
 ja		
 sarjat,		
-Lukutupa,		
-Perä-Pohjolainen		
-Pyrkijä,		
-Päimälehti,		
-Termeydenhoitolehti.		
-Uusi		
-Kumaleyti,		
-Nelitulta		
+Lukutupa,	org	
+Perä-Pohjolainen	borg	
+Pyrkijä,	borg	
+Päimälehti,	borg	
+Termeydenhoitolehti.	borg	
+Uusi	borg	
+Kumaleyti,	org	
+Nelitulta	borg	
 ja		
-Wäinamöinen.		
+Wäinamöinen.	org	
 Netiretten		
 teki		
 eilen		
@@ -70490,18 +70490,18 @@ illalla
 joukko		
 kaupungin		
 nuoria		
-Mikkolaan.		
+Mikkolaan.	loc	
 Gnsimmäisen		
 maanwiljelys		
 lainan		
 kuntaansa		
 päättimät		
-Kemin		
+Kemin	loc	
 maalaiskuntalaiset		
-m.		
-k.		
-2?		
-p.nä		
+m.	tim	
+k.	tim	
+2?	tim	
+p.nä	tim	
 pitämässään		
 kokouksessa		
 läänin		
@@ -70525,10 +70525,10 @@ määrätyt.
 Lainaa		
 hakemaan		
 maltuutettiin		
-kokouksen		
-esimies		
-H.		
-Nuoti.		
+kokouksen	tit	
+esimies	tit	
+H.	per	
+Nuoti.	per	
 Rahaston		
 sääntöjen		
 laatiminen		
@@ -70537,24 +70537,24 @@ mastaiseen
 kokoukseen.		
 Kunnallislautakunnan		
 esimieheksi		
-muosiksi		
-1900?1902		
+muosiksi	tim	
+1900?1902	tim	
 on		
-Kemin		
+Kemin	loc	
 kunnassa		
 muuton		
 kautta		
 eronneen		
-taloll.		
-E.		
-Sotisaaren		
+taloll.	tit	
+E.	per	
+Sotisaaren	per	
 sijaan		
 malittu		
-kauppias		
-Kaarlo		
-Henna.		
+kauppias	tit	
+Kaarlo	per	
+Henna.	per	
 Kotitoulupuuhat		
-Kemin		
+Kemin	loc	
 maalaiskunnassakin		
 omat		
 edistyneet		
@@ -70573,11 +70573,11 @@ tässä
 lehdessä		
 näkyy,		
 on		
-ensi		
-sunnuntaina		
+ensi	tim	
+sunnuntaina	tim	
 kokous		
-Pölhön		
-kansakoululla,		
+Pölhön	org	
+kansakoululla,	org	
 johonka		
 toimotaan		
 ei		
@@ -70595,8 +70595,8 @@ saapuman.
 Osuuskunta-aate,		
 jonta		
 herättämiseksi		
-Perä-Pohjolan		
-Maamiesseuran		
+Perä-Pohjolan	org	
+Maamiesseuran	org	
 toimesta		
 tuonein		
 Kemiiokimarrellatin		
@@ -70630,7 +70630,7 @@ Omituisia
 tietoja		
 itsestään		
 omat		
-Kemin		
+Kemin	loc	
 maafeurakuntalaiset		
 sattuman		
 kaupassa		
@@ -70649,7 +70649,7 @@ tum.
 minkä		
 >ni		
 marsinaiseen		
-Kemiin		
+Kemiin	loc	
 kominkaan		
 rnnfaasti		
 lemene,		
@@ -70736,7 +70736,7 @@ taas
 ja		
 yritti		
 herättämään		
-Miinan,		
+Miinan,	per	
 piikansa,		
 joka		
 hesäasunnoksi		
@@ -70754,7 +70754,7 @@ omelle,
 tiesi		
 ennestään,		
 että		
-Miina		
+Miina	per	
 oli		
 karsk		
 siitä,		
@@ -70805,7 +70805,7 @@ rengin
 koti		
 pitäjääseen		
 noutamaan		
-Kropeliima,		
+Kropeliima,	per	
 kuuluisaa		
 tietäjää,		
 taikomaan		
@@ -70827,7 +70827,7 @@ tapansa.
 Monet		
 ihmeet		
 oli		
-Kropeliini		
+Kropeliini	per	
 ennenkin		
 tehnyt.		
 Hänelle		
@@ -70852,7 +70852,7 @@ ilta
 tuliwat		
 säännöllisesti		
 (latk.)		
-Kemijoesta		
+Kemijoesta	loc	
 saatuina		
 jo		
 muutaman		
@@ -70896,7 +70896,7 @@ niin
 kohtuullisia		
 olla.		
 kuin		
-Kemistä		
+Kemistä	loc	
 ja		
 se		
 kaikki		
@@ -70905,11 +70905,11 @@ Sen
 pituinen		
 se.		
 Tapaturma		
-Toppilan		
-sahalla.		
-Lauwantaita		
-masten		
-yöllä		
+Toppilan	org	
+sahalla.	org	
+Lauwantaita	tim	
+masten	tim	
+yöllä	tim	
 menetti		
 mainitulla		
 sahalla		
@@ -70956,12 +70956,12 @@ semmoisissa
 paikoissa,		
 sanoo		
 Louhi.		
-Valtionrautateiden		
+Valtionrautateiden	org	
 pituus		
 oli		
-1898		
-muoden		
-lopussa		
+1898	tim	
+muoden	tim	
+lopussa	tim	
 2,515,^		
 kilometriä,		
 nimittäin		
@@ -70991,46 +70991,46 @@ jakautuu
 waltwnrautateiden		
 pituus		
 seuraawasli:		
-Uudenmaan		
+Uudenmaan	loc	
 lääni		
 250,,.,		
-Hämeen		
+Hämeen	loc	
 lääni		
 389,^,,		
-Viipurin		
+Viipurin	loc	
 lääni		
 616,..,,		
-Turun		
+Turun	loc	
 ja		
-Porin		
+Porin	loc	
 lääni		
 191,^,		
-Waasan		
+Waasan	loc	
 lääni		
 545,«»,		
-Oulun		
+Oulun	loc	
 lääni		
 150....		
-Mikkelit		
+Mikkelit	loc	
 lääni		
 151,		
 y.,		
 ja		
-Kuopion		
+Kuopion	loc	
 lääni		
 185^<		
 tm.,		
 johon		
 tulee		
 lisäksi		
-Wenäjän		
+Wenäjän	loc	
 keisa^		
 rikunnassa		
 olema		
 kappale		
 34,,..		
 km.		
-Valtionrautateiden		
+Valtionrautateiden	org	
 tulot		
 1898		
 tekimät		
@@ -71052,16 +71052,16 @@ teti
 mk.		
 39		
 p.		
-W.		
-1897		
+W.	tim	
+1897	tim	
 oli		
 nettomoitto		
 7,242,815		
 mk.		
 82		
 p.		
-1898		
-muoden		
+1898	tim	
+muoden	tim	
 nettomoitto		
 mastan		
 3,54		
@@ -71077,15 +71077,15 @@ laskettiin
 215,.		
 miljoonaksi		
 markatsi.		
-W.		
-189?		
+W.	tim	
+189?	tim	
 tämä		
 torko		
 teti		
 3,«,		
 pros.		
-Suomen		
-suowiljelysyhdis		
+Suomen	org	
+suowiljelysyhdis	org	
 tyksen		
 neuwojia,		
 jotka		
@@ -71103,17 +71103,17 @@ laatimisella
 y.		
 m.,		
 moidaan		
-muodetsi		
-1900		
+muodetsi	tim	
+1900	tim	
 tilata		
 ennen		
 p.		
 tulemaa		
 maaliskuuta,		
 osotteella		
-Suomen		
-suomiljelysyhdistys,		
-Helsinki,		
+Suomen	org	
+suomiljelysyhdistys,	org	
+Helsinki,	loc	
 ja		
 on		
 samalla,		
@@ -71177,12 +71177,12 @@ sanomalehdillä
 ynnä		
 muutamilla		
 maaseutulehdillätin.		
-Suomi		
+Suomi	loc	
 ulkomaan		
 sanoma		
 lehdissä.		
-..Vossisye		
-Zeitung",		
+..Vossisye	org	
+Zeitung",	org	
 joka		
 miime		
 aikoina		
@@ -71190,7 +71190,7 @@ on
 merialtain		
 tarkalleen		
 seurannut		
-Suomen		
+Suomen	loc	
 asioita		
 ja		
 niistä		
@@ -71200,8 +71200,8 @@ asiallisesti
 puhunut,		
 kertoo		
 jälleen		
-tumernööri		
-Gripenbergin		
+tumernööri	tit	
+Gripenbergin	per	
 mirtaerosta		
 esittäen		
 asian		
@@ -71307,10 +71307,10 @@ keskeytystä
 lehden		
 jakamisessa		
 tapahtuisi.		
-Venäjältä.		
+Venäjältä.	loc	
 Suomalaiset		
 halkoalukset		
-Pietarissa,		
+Pietarissa,	loc	
 jossa		
 niitä		
 kesäiseen		
@@ -71362,14 +71362,14 @@ mahmistettamaksi
 lähetetty.		
 Syysmittauksia		
 toimittamaan		
-Suomen		
+Suomen	loc	
 saaristossa		
 lähti		
-m.		
-k.		
-20		
-p:nä		
-Pietarista		
+m.	tim	
+k.	tim	
+20	tim	
+p:nä	tim	
+Pietarista	loc	
 komissiooni,		
 johon		
 kuuluu		
@@ -71379,7 +71379,7 @@ ja
 matruusia.		
 Työt		
 alotetntii		
-Muraansalmessa.		
+Muraansalmessa.	loc	
 Ainoastaan		
 »venäläisiä		
 kirjaimia.		
@@ -71389,7 +71389,7 @@ annettu
 julistus		
 siitä,		
 ettei		
-wenäjän		
+wenäjän	loc	
 sotalaitoksen		
 asemakartoissa		
 »vastedes		
@@ -71404,14 +71404,14 @@ Ulkomaalta.
 Sotct.		
 Buurien		
 kertomus		
-Colcnson		
+Colcnson	loc	
 tappelusta.		
-Lourenco		
-Marguesista,		
-25		
-p.		
-joulukuuta		
-(Reuter).		
+Lourenco	loc	
+Marguesista,	loc	
+25	tim	
+p.	tim	
+joulukuuta	tim	
+(Reuter).	org	
 Virallisessa		
 sähkösanomassa,		
 jota		
@@ -71419,11 +71419,11 @@ on
 lähetetty		
 buurien		
 päätortteerista		
-Colenson		
+Colenson	loc	
 luota		
-10		
-p.		
-joulukuuta		
+10	tim	
+p.	tim	
+joulukuuta	tim	
 sanotaan:		
 Aitaisin		
 eilisaamuna		
@@ -71431,7 +71431,7 @@ hyöktäsimät
 englantilaiset		
 asemamme		
 kimppuun		
-Tugelan		
+Tugelan	loc	
 luona.		
 Keskustassa		
 oli		
@@ -71477,7 +71477,7 @@ Englantilaiset,
 jotka		
 toimoimat		
 pääsemänsä		
-Tugelan		
+Tugelan	loc	
 sillan		
 yli,		
 joutnimat		
@@ -71556,11 +71556,11 @@ tappio
 on		
 musert		
 »ma.		
-Robinson		
+Robinson	per	
 buurien		
 taktiikasta.		
 Eräs		
-Robinson,		
+Robinson,	per	
 jota		
 suurena		
 taimosten		
@@ -71571,7 +71571,7 @@ johtajain
 hymänä		
 tuttamana		
 on		
-Etelä-Afrikan		
+Etelä-Afrikan	loc	
 olojen		
 parhaita		
 tuntijoita,		
@@ -71614,7 +71614,7 @@ nyt
 yksinomaan		
 nuoria		
 buureja.		
-Robinson		
+Robinson	per	
 ei		
 luule		
 että		
@@ -71708,7 +71708,7 @@ helpompaa,
 kuin		
 kukistaa		
 buurit.		
-Robinson		
+Robinson	per	
 sitä		
 mastoin		
 maittaa:		
@@ -71719,7 +71719,7 @@ järjestää
 ja		
 harjoittaa		
 miljona		
-Etelä-Afrikalaisia		
+Etelä-Afrikalaisia	loc	
 ja		
 warustaa		
 heidät		
@@ -71734,10 +71734,10 @@ yhdeksän
 miljonaa		
 sotamiestä,		
 jotka		
-Ranskan,		
-Saksan		
+Ranskan,	loc	
+Saksan	bloc	
 ja		
-Wenäjän		
+Wenäjän	loc	
 hallitus		
 yhdessä		
 moisimat		
@@ -71769,7 +71769,7 @@ aamistustakaan
 siitä,		
 minkälainen		
 mihollinen		
-Englannilla		
+Englannilla	loc	
 nyt		
 on		
 mastassaan.		
@@ -71782,32 +71782,32 @@ että
 se		
 luultamasti		
 tulee		
-Europantin		
+Europantin	loc	
 armeijain		
 puolustaktiikkaan		
 maikuttamaan.		
 Kapinaliike		
 yhä		
 lewenee.		
-Kapkaupunki,		
-joulut.		
-20		
-p.		
-(Reuter.)		
+Kapkaupunki,	loc	
+joulut.	tim	
+20	tim	
+p.	tim	
+(Reuter.)	org	
 Päimä		
 päimältä		
 lisääntyivät		
 todistukset		
 laajasta		
 kapinaliikkeestä		
-Kapmaassa.		
+Kapmaassa.	loc	
 Siihen		
 ottaa		
 m.		
 m.		
 osaa		
 kolme		
-Kapparlamentin		
+Kapparlamentin	org	
 jäsentä.		
 Yksi		
 heistä		
@@ -71817,7 +71817,7 @@ henkilön
 läsnäollessa		
 upseerille		
 jättänyt		
-Oranjemaltion		
+Oranjemaltion	lc	
 lipun,		
 lausuen		
 toimomuksenaan,		
@@ -71838,24 +71838,24 @@ tytär
 omat		
 julkisesti		
 kantaneet		
-Oranjemaltion		
+Oranjemaltion	loc	
 märejä.		
 Taistelu		
-Ladysmithissä.		
-Lontoo,		
-joulut.		
-26		
-p.		
+Ladysmithissä.	loc	
+Lontoo,	bloc	
+joulut.	tim	
+26	tim	
+p.	tim	
 Wirallisesti		
 ilmoitetaan,		
 että		
-m.		
-t.		
-22		
-p:nä		
+m.	tim	
+t.	tim	
+22	tim	
+p:nä	tim	
 oli		
 taistelu		
-Ladysmithin		
+Ladysmithin	loc	
 luona,		
 jossa		
 englantilaista		
@@ -71867,7 +71867,7 @@ haamoittui
 ja		
 miestä		
 kaatui.		
-Englannin		
+Englannin	loc	
 wapamieliset		
 omat		
 koto		
@@ -71882,7 +71882,7 @@ Joku
 päimä		
 sitten		
 pidettiin		
-Manchesterissa		
+Manchesterissa	loc	
 suuri		
 mapamielisten		
 kokous,		
@@ -71893,7 +71893,7 @@ muosikotous,
 jossa		
 kuten		
 kaikkialla		
-Englannissa		
+Englannissa	loc	
 nykyään		
 alakuloisuus		
 sodan		
@@ -71915,7 +71915,7 @@ yksimieliset
 että		
 sota		
 on		
-Englannin		
+Englannin	loc	
 moitoksi		
 päätettämä		
 ja		
@@ -71923,8 +71923,8 @@ sen
 jälkeen		
 oikeutta		
 harjoitettama		
-Etelä		
-Afriikassa		
+Etelä	loc	
+Afriikassa	loc	
 ilman		
 minkäännäköistä		
 kostoa		
@@ -71951,11 +71951,11 @@ sodan
 jälkeen.		
 Myrskyinen		
 kokous		
-Pariisissa.		
-W.		
-k.		
-22		
-p:nä		
+Pariisissa.	loc	
+W.	tim	
+k.	tim	
+22	tim	
+p:nä	tim	
 oli		
 mielenofotustotous		
 pantu		
@@ -72016,7 +72016,7 @@ Wäkiluwun
 muutokset		
 Rans		
 kassa.		
-Ranskassa		
+Ranskassa	loc	
 on		
 mume		
 muonna		
@@ -72028,12 +72028,12 @@ syntyneiden
 luku		
 mähentynyt		
 15,174:11ä.		
-Yhdyswaltain		
+Yhdyswaltain	loc	
 teollisuus		
 tuotteiden		
 wienti		
 on		
-1898?99		
+1898?99	tim	
 tilimuoden		
 kuluessa		
 lisääntynyt		
@@ -72076,18 +72076,18 @@ tuot»
 teitään		
 miedoksi		
 etupäässä		
-Englantiin		
+Englantiin	loc	
 ja		
-Satsaan.		
+Satsaan.	loc	
 Ksrtoinns		
-Kemin		
-Naiskäsityökoulun		
+Kemin	org	
+Naiskäsityökoulun	org	
 wai-		
 kutuksesta		
-umodelta		
-1899.		
-Tammikuun		
-19		
+umodelta	tim	
+1899.	tim	
+Tammikuun	tim	
+19	tim	
 päimänä		
 alkoi		
 käsityökoulumme		
@@ -72101,13 +72101,13 @@ opettajattarilla
 kuin		
 fyksyllälläkin,		
 nim.		
-neiti		
-Rosa		
-Yrjölä		
+neiti	tit	
+Rosa	per	
+Yrjölä	per	
 ja		
-rouma		
-Emmi		
-Teräksinen,		
+rouma	tit	
+Emmi	per	
+Teräksinen,	per	
 niinmyös		
 samalla		
 johtokunnalla		
@@ -72128,7 +72128,7 @@ markkaan
 alkaen		
 muoden		
 alusta.		
-Kemin		
+Kemin	loc	
 kaupunki,		
 kuultuaan		
 huoneen		
@@ -72143,15 +72143,15 @@ tälle
 muodelle.		
 Syystyökausi		
 alkoi		
-25		
-päimä		
+25	tim	
+päimä	tim	
 syys»		
 kuuta		
 ja		
 loppui		
-15		
-päimä		
-joulukuuta		
+15	tim	
+päimä	tim	
+joulukuuta	tim	
 tamallisella		
 näyttelyllä.		
 Oppilaita		
@@ -72187,36 +72187,36 @@ saimat
 päästötodistuksen.		
 Ensimäinen		
 niistä,		
-Aina		
-Skog,		
+Aina	per	
+Skog,	per	
 sai		
-Tammelanderin		
+Tammelanderin	per	
 kutomakirjan		
 palkinnoksi.		
 Hän		
 jatkaa		
 nyt		
 kutomaoppia		
-Hämeenlinnan		
+Hämeenlinnan	loc	
 kaupungissa		
 malmistuakseen		
 opettajattareksi.		
 Toinen		
 tytär,		
-Karin		
-Wilmi,		
+Karin	per	
+Wilmi,	per	
 sai		
-Hyneenin		
+Hyneenin	per	
 kutomakirjan.		
 Kolme		
 tytärtä		
 olimat		
-Simosta,		
-Termolasta,		
+Simosta,	loc	
+Termolasta,	bloc	
 lista,		
 kaikki		
 muut		
-Kemistä		
+Kemistä	loc	
 sekä		
 maalta		
 että		
@@ -72422,9 +72422,9 @@ No
 l9oft.		
 Perä»		
 Pohjolainen.		
-Tiistaina		
-Tammikuun		
-pmä.		
+Tiistaina	tim	
+Tammikuun	tim	
+pmä.	tim	
 Konlun		
 tulot		
 ja		
@@ -72433,8 +72433,8 @@ owat
 olleet:		
 Tulot:		
 Saldo		
-menneeltä		
-wuodelta		
+menneeltä	tim	
+wuodelta	tim	
 407:		
 44		
 Waltioavu		
@@ -72486,17 +72486,17 @@ Yht.
 Smk.		
 2,909:		
 45		
-Kemissä		
-28		
-p.		
-joulukuuta		
-1899.		
+Kemissä	loc	
+28	tim	
+p.	tim	
+joulukuuta	tim	
+1899.	tim	
 Johtokunnan		
 puolesta:		
-Amalia		
-Appelgren.		
+Amalia	per	
+Appelgren.	per	
 Yleisöltä.		
-?Perä»Pohjolaisen"		
+?Perä»Pohjolaisen"	org	
 arw.		
 Toimitusta		
 pyydetään		
@@ -72506,16 +72506,16 @@ painattamaan
 seuraama		
 Vastalause.		
 Äskettäin		
-,,Perä-Pohjolaisessa"		
-Kuolajärmeltä		
+,,Perä-Pohjolaisessa"	org	
+Kuolajärmeltä	loc	
 lähetetyssä		
 salanimellä		
 Varustetussa		
 kyhäyksessä		
 Kansakoulu»		
-opettaja		
-Armi		
-Kohosta		
+opettaja	tit	
+Armi	per	
+Kohosta	per	
 mustaan		
 tehtyä		
 salaklllvalaa,		
@@ -72593,8 +72593,8 @@ mainitsen
 aiwan		
 nykyisiä		
 tapauksia.		
-Työnjohtaja		
-Juntunen		
+Työnjohtaja	tit	
+Juntunen	per	
 käwi		
 pyytämässä		
 sairaan		
@@ -72640,7 +72640,7 @@ se
 oli		
 ensimäinen		
 sairas		
-Mansikkaniemellä.		
+Mansikkaniemellä.	loc	
 Sitten		
 käytiin		
 konepajalta		
@@ -72746,7 +72746,7 @@ ollut
 tapana		
 kinastella		
 tänne		
-Mansikkaniemelle		
+Mansikkaniemelle	loc	
 lähdöstä,		
 useinkin		
 saatu		
@@ -72830,10 +72830,10 @@ I.
 Ul6n.		
 Toimituksen		
 huomautus.		
-Herrojen		
-Holckin		
+Herrojen	tit	
+Holckin	per	
 ja		
-Mönin		
+Mönin	per	
 pitkällinen		
 kinastus		
 ei		
@@ -72956,16 +72956,16 @@ lehmä
 lvoi		
 tuot		
 taa.		
-Tanskassa		
+Tanskassa	loc	
 on		
 muutamalla		
 karjanomistajalla		
 mustantirjawa		
 lehmä,		
 joka		
-kolmena		
-wiime		
-wuonna		
+kolmena	tim	
+wiime	tim	
+wuonna	tim	
 on		
 wuosittain		
 antanut		
@@ -73052,14 +73052,14 @@ ja
 täyttää		
 hymia		
 sonnia!		
-Pellerwo.		
+Pellerwo.	org	
 Hän		
 luotti		
 keisari»		
 sanaan.		
 Kun		
-keisari		
-Napoleon		
+keisari	tit	
+Napoleon	per	
 erään		
 terran		
 tarkasti		
@@ -73190,17 +73190,17 @@ tentään
 sotia.		
 Hedelmällinen		
 äiti.		
-Marie		
-Anna		
-Helm,		
+Marie	per	
+Anna	per	
+Helm,	per	
 erään		
 köyhän		
 liinaivaatteitten		
 kutojan		
 waimo		
-Naulerchfeldissä		
+Naulerchfeldissä	loc	
 lähellä		
-Wieniä,		
+Wieniä,	loc	
 on		
 neljänkymmenen		
 wuooen		
@@ -73247,9 +73247,9 @@ on.
 Ijän		
 jatkoa		
 paawille.		
-Aq»vila		
+Aq»vila	loc	
 kaupungissa		
-Italiassa		
+Italiassa	loc	
 saapui		
 tässä		
 eräänä		
@@ -73304,7 +73304,7 @@ adressin.
 Matkustimat		
 sitten		
 adressineen		
-Roomaan,		
+Roomaan,	loc	
 paawin		
 luo		
 Paawi		
@@ -73318,9 +73318,9 @@ luokseen,
 maikka		
 sairas		
 olikin.		
-W.		
-k.		
-p:nä		
+W.	tim	
+k.	tim	
+p:nä	tim	
 oliwat		
 tytöt		
 paamin		
@@ -73349,21 +73349,21 @@ kauniista
 uhrauksesta.		
 Suuri		
 wuoreuwyörymä		
-Amalfissa.		
+Amalfissa.	loc	
 Ihanassa		
-Amalfin		
+Amalfin	loc	
 kaupungissa		
-Salernon		
+Salernon	loc	
 lahden		
 rannalla		
-Etelä-Italiassa		
+Etelä-Italiassa	loc	
 tapahtui		
-t.		
-k.		
-22		
-p:nä		
-k:lo		
-12		
+t.	tim	
+k.	tim	
+22	tim	
+p:nä	tim	
+k:lo	tim	
+12	tim	
 aitaan		
 päiwällä		
 surullinen		
@@ -73383,11 +73383,11 @@ pienempiä
 rakennuksia.		
 Muserretuksi		
 tuli		
-Capnccinin		
-hotelli		
+Capnccinin	org	
+hotelli	org	
 puoleksi,		
-Catharinan		
-hotelli		
+Catharinan	org	
+hotelli	org	
 kokonaan.		
 Osa		
 kimilohkareita		
@@ -73441,8 +73441,8 @@ asukkaita,
 jottaspääsilvättin		
 suurimmaksi^osaksi		
 patoon.		
-Capuccinin		
-hotelliin		
+Capuccinin	org	
+hotelliin	org	
 hautaantui		
 kaksi		
 englantilaista		
@@ -73511,18 +73511,18 @@ uusi
 myörymä		
 ole		
 mahdoton.		
-Salernosta,		
-Napolista		
+Salernosta,	loc	
+Napolista	bloc	
 ja		
-Roomasta		
+Roomasta	loc	
 on		
 tullut		
 paljon		
 sotamäkeä		
 apuun.		
-Napolista		
+Napolista	loc	
 on		
-Amalsiin		
+Amalsiin	loc	
 tullut		
 neljä		
 sotalaiwaa,		
@@ -73585,13 +73585,13 @@ metriä.
 Lllbllill		
 oiltickillWti.		
 Kun		
-Labori,		
+Labori,	per	
 salamurhaajan		
 kuulan		
 tapaamana		
 kaatui		
-Rennesin		
-torilla,		
+Rennesin	loc	
+torilla,	loc	
 herätti		
 tapaus		
 kaikissa		
@@ -73619,7 +73619,7 @@ käsiään
 murhayritykselle.		
 Mutta		
 kun		
-Labori		
+Labori	per	
 moimakkaan		
 ruumiinrakennuksensa		
 amulla		
@@ -73633,7 +73633,7 @@ nationalistit
 sen		
 jutun,		
 ettei		
-Laboria		
+Laboria	per	
 oltukaan		
 ammuttu,		
 maan		
@@ -73644,7 +73644,7 @@ oli
 keksitty		
 myötätuntoisuuden		
 herättämiseksi.		
-Labori		
+Labori	per	
 ei		
 tahtonut		
 että		
@@ -73660,8 +73660,8 @@ haastoi
 «valetta		
 lemittäneen		
 lehden,		
-?Libre		
-Parolen"		
+?Libre	org	
+Parolen"	org	
 oikeuteen		
 maatien		
 muodon		
@@ -73679,15 +73679,15 @@ asia
 äskettäin		
 esillä		
 oikeudessa.		
-Labori		
+Labori	org	
 oli		
 haastattanut		
 joukon		
 todistajia,		
 muun		
 muassa		
-öwersti		
-Picquartin,		
+öwersti	tit	
+Picquartin,	per	
 jota		
 oli		
 läsnä		
@@ -73705,12 +73705,12 @@ jotka
 oliwat		
 häntä		
 hoitaneet.		
-..Libre		
-Parole"		
+..Libre	org	
+Parole"	org	
 ei		
 koettanutkaan		
 puolustautua.		
-Picquart		
+Picquart	per	
 kertoi		
 juosseensa		
 murhajan		
@@ -73750,8 +73750,8 @@ oikeus
 istui)		
 tapasin		
 siellä		
-kenraali		
-Mercier'n.		
+kenraali	tit	
+Mercier'n.	per	
 Hän		
 tuijotti		
 kauan		
@@ -73763,8 +73763,8 @@ hänen
 iivallista,		
 riemuitsewaa		
 katsettaan."		
-Libre		
-Parolen"		
+Libre	org	
+Parolen"	org	
 ulosantaja		
 tuomittiin		
 maksamaan		
@@ -73779,7 +73779,7 @@ kustantamaan
 tuomion		
 painatuksen		
 40		
-Pariisin		
+Pariisin	loc	
 ja		
 200:ssa		
 maaseutulehdessä,		
@@ -73859,7 +73859,7 @@ päässyt
 paami		
 taimaaseen.		
 Sowittawaa.		
-Matti:		
+Matti:	per	
 Sinä		
 olet		
 tuhma!		
@@ -73869,7 +73869,7 @@ mutta
 sinä		
 olet		
 tuhma!!		
-Mikko:		
+Mikko:	per	
 Mitä		
 te		
 suotta		
@@ -73961,7 +73961,7 @@ keinon.
 Äiti		
 antoi		
 pikku		
-Hannulle		
+Hannulle	per	
 taksi		
 maalattua		
 sotuiinutkea,		
@@ -73975,10 +73975,10 @@ maali
 moi		
 olla		
 myrkyllistä.		
-Hannu		
+Hannu	per	
 le>lti		
 meljensä		
-Joosepin		
+Joosepin	per	
 kanssa		
 nukeilla.		
 Mutta		
@@ -73996,7 +73996,7 @@ kysyi
 äiti.		
 Sen		
 annoin		
-Joosepille,		
+Joosepille,	per	
 joka		
 sen		
 söi,		
@@ -74060,7 +74060,7 @@ sanasta
 kiinni.		
 Äiti		
 (pikku		
-Hannulle		
+Hannulle	per	
 jota		
 ei		
 tahdo		
@@ -74068,7 +74068,7 @@ syödä
 soppaa):		
 Ai,		
 ai,		
-Hannu!		
+Hannu!	per	
 Minä		
 tiedän,		
 että		
@@ -74082,32 +74082,32 @@ edes
 puoletkaan		
 tästä		
 sopasta."		
-Hannu:		
+Hannu:	per	
 Niin		
 olisin		
 minäkin.		
 Ilnlitnksi».		
 Kuulutus.		
-Tie-		
-ja		
-»vesirakennusten		
-Ilihallituksen		
+Tie-	org	
+ja	org	
+»vesirakennusten	org	
+Ilihallituksen	org	
 ilmoituksen		
 mukaan		
 tulee		
-Oulun		
-Tornion		
+Oulun	loc	
+Tornion	bloc	
 rautatierakennuksen		
 toiseen		
 työpiiriin,		
 jota		
 ulottuu		
-Simon		
-jaKuiivaniemen		
+Simon	loc	
+jaKuiivaniemen	bloc	
 kuntain		
 »välisestä		
 rajasta		
-Tornioon,		
+Tornioon,	loc	
 järjestyksen		
 walwomista		
 warten		
@@ -74131,7 +74131,7 @@ poliisikonstaapelia
 amutsi,		
 jonkv		
 asumavaikatsi		
-Kemin		
+Kemin	loc	
 kaupunki		
 on		
 määrätty,		
@@ -74159,11 +74159,11 @@ joista
 toisen		
 tulee		
 asua		
-Simon		
+Simon	loc	
 pitäjässä		
 ja		
 toisen		
-Tornion		
+Tornion	loc	
 läheisyydessä,		
 75		
 markan		
@@ -74210,27 +74210,27 @@ tarpeellisten
 todiste		
 den		
 seuraamina.		
-Oulun		
+Oulun	loc	
 lääninkanv		
 liassa,		
-joulukuun		
-2?		
-päimänä		
-189^		
-G.		
-L.		
-Pia		
-B.		
-Gm.		
-Liljeblad.		
+joulukuun	tim	
+2?	tim	
+päimänä	tim	
+189^	tim	
+G.	per	
+L.	per	
+Pia	per	
+B.	per	
+Gm.	per	
+Liljeblad.	per	
 3lmiiitiiB		
-Sunnuntaina		
-tammikunn		
-p:nä		
+Sunnuntaina	tim	
+tammikunn	tim	
+p:nä	tim	
 pidetään		
 totous		
-Pölhön		
-kansakoululla,		
+Pölhön	org	
+kansakoululla,	org	
 johonka		
 kehoitetaan		
 saapumaan		
@@ -74257,75 +74257,75 @@ on
 walitw		
 seuraamat		
 henkilöt:		
-Vittori		
-Maunu.		
-Pekka		
-Maunu,		
-Eemeli		
-Marski,		
-Matti		
-Vahtola,		
-Mandi		
-Naara.		
-Pekka		
-Pietilä.		
-Matti		
-Hoikka,		
-Erkki		
-Anttila,		
-Matti		
-Rantamaula,		
-Aappo		
-Ämmä,		
-Arthur		
-Grottelin,		
-Maria		
-Herwa,		
-Kalle		
-Hakala,		
+Vittori	per	
+Maunu.	per	
+Pekka	bper	
+Maunu,	per	
+Eemeli	bper	
+Marski,	per	
+Matti	bper	
+Vahtola,	per	
+Mandi	bper	
+Naara.	per	
+Pekka	bper	
+Pietilä.	per	
+Matti	bper	
+Hoikka,	per	
+Erkki	bper	
+Anttila,	per	
+Matti	bper	
+Rantamaula,	per	
+Aappo	bper	
+Ämmä,	per	
+Arthur	bper	
+Grottelin,	per	
+Maria	bper	
+Herwa,	per	
+Kalle	bper	
+Hakala,	per	
 lanne^Hakala,		
-Hjalmar		
-Laho,		
-Heimo		
-Ala,		
-Matti		
-Knuuti,		
-Aino		
-Niemelä,		
-Fanni		
-Rantaniemi,		
-Matti		
-Yliherma,		
-Matti		
-Kouri,		
-Heikki		
-Henna,		
-Saimi		
-Walmari,		
+Hjalmar	bper	
+Laho,	per	
+Heimo	bper	
+Ala,	per	
+Matti	bper	
+Knuuti,	per	
+Aino	bper	
+Niemelä,	per	
+Fanni	bper	
+Rantaniemi,	per	
+Matti	bper	
+Yliherma,	per	
+Matti	bper	
+Kouri,	per	
+Heikki	bper	
+Henna,	per	
+Saimi	bper	
+Walmari,	per	
 Matö		
 ,^«		
 sila.		
 Maikki		
 Muoti.		
-Matti		
+Matti	per	
 T^.		
 ..°-		
-Otto		
-Atola,		
-Kalle		
-Helistö		
+Otto	per	
+Atola,	per	
+Kalle	bper	
+Helistö	per	
 ja		
 Fr		
 .cit		
-Rautiola.		
+Rautiola.	per	
 Kokoukseen,		
 joka		
 alkaa		
 raamatun		
 selityksellä		
-klo		
-j.		
-pp..		
+klo	tim	
+j.	tim	
+pp..	tim	
 on		
 muukin		
 yleisö,		
@@ -74337,12 +74337,12 @@ toimikuntalaiset,
 termetulleet,		
 Kotikoulutoimitunnan		
 puolesta:		
-Feliks		
-«ujanen.		
-Olli		
-Nalkki.		
-Matti		
-Pentinsaari.		
+Feliks	per	
+«ujanen.	per	
+Olli	bper	
+Nalkki.	per	
+Matti	bper	
+Pentinsaari.	per	
 I:ksi		
 kamarihuone		
 eri		
@@ -74350,17 +74350,17 @@ sisääntäytämallä
 hyyrätään		
 nyt		
 heti		
-Elias		
-Lahden		
-talossa.		
+Elias	loc	
+Lahden	loc	
+talossa.	loc	
 Matkatoveria		
-Ouluun		
+Ouluun	loc	
 halutaan		
-p:nä		
-Tammikuuta		
+p:nä	tim	
+Tammikuuta	tim	
 Lähemmin		
-kauppias		
-Nurman'illa.		
+kauppias	tit	
+Nurman'illa.	per	
 Kirwes		
 pudonnut		
 kaupungille		
@@ -74399,8 +74399,8 @@ mutta
 tarkkaan,		
 tilatkoon		
 to.		
-1900		
-Oulun		
+1900	tim	
+Oulun	loc	
 ensim.		
 6-pHiwasea		
 leh»		
@@ -74422,15 +74422,15 @@ sen
 mk.		
 70		
 pennillä.		
-Matti		
-Tapio.		
+Matti	per	
+Tapio.	per	
 Lautamies.		
-Kemissä,		
-I.		
-E.		
-Nswit'in		
-Kirjapainossa		
-1900.		
+Kemissä,	loc	
+I.	org	
+E.	org	
+Nswit'in	org	
+Kirjapainossa	org	
+1900.	tim	
 Polttakaa		
 Suez		
 ja		
@@ -74463,7 +74463,7 @@ fmummmi^'^-^J^
 No		
 1.		
 Tilaushinta		
-Suomessa:		
+Suomessa:	loc	
 Koko		
 vuodalta		
 rak.		
@@ -74480,18 +74480,18 @@ Yklltylsnumero
 KonUoori3sa		
 Kotiinknnto		
 ilmaiseksi.		
-Venäjänä:		
+Venäjänä:	loc	
 '/,		
 v.		
 '/		
 ruplaa		
-Amerikassa:		
+Amerikassa:	loc	
 i/,		
 i/,		
 doll.		
-Tiistaina		
-Tammikuun		
-p:nä.		
+Tiistaina	tim	
+Tammikuun	tim	
+p:nä.	tim	
 Vastuunalainen		
 toimittaja:		
 0.		
@@ -74499,12 +74499,12 @@ Ansas.
 neljästi		
 viikossa,		
 joKt^rKTtintai.		
-torstai,		
-perjantai		
-ja		
-laur.ntfti		
-l<!o		
-i.		
+torstai,	tim	
+perjantai	tim	
+ja	tim	
+laur.ntfti	tim	
+l<!o	tim	
+i.	tim	
 i>.		
 loimota		
 ja		
@@ -74528,7 +74528,7 @@ Ll
 ftKi-^*^		
 ""*		
 M^		
-1900.		
+1900.	tim	
 »2?		
 |^		
 niitii		
@@ -74562,7 +74562,7 @@ SLa
 tl		
 I»»		
 BÄ?"		
-Pohjalainen		
+Pohjalainen	org	
 ilmestyy		
 tänään		
 kahtena		
@@ -74580,21 +74580,21 @@ sivut
 3?4		
 5?6.		
 Tilaus-iimoiius,		
-POHJALAINEN,		
+POHJALAINEN,	org	
 Sanomia		
-Waasasta		
+Waasasta	loc	
 ja		
-Pohjanmaalta,		
+Pohjanmaalta,	loc	
 tarjoutuu		
 täten		
 tilattavaksi		
-Tuodeksi		
-1900.		
+Tuodeksi	tim	
+1900.	tim	
 No		
 Bjan		
 vaiheet,		
 joissa		
-Suomen		
+Suomen	loc	
 kansa		
 nykyään		
 elää,		
@@ -74623,7 +74623,7 @@ velvollisuuksistaan.
 Tällä		
 peruutuksella		
 lähtee		
-Pobjalainenkin		
+Pobjalainenkin	org	
 jatkamnun		
 työtiilin		
 isänmaallisella		
@@ -74695,7 +74695,7 @@ kaipaa
 mitään		
 vakuuttelemista.		
 Kun		
-Pohjalainen		
+Pohjalainen	org	
 nyt		
 täyttää		
 kymmenennen		
@@ -74746,7 +74746,7 @@ jatkuu
 kuten		
 ennenkin		
 Sähkösanomia.		
-Helsingin		
+Helsingin	loc	
 kirjeitä		
 ja		
 kuvia		
@@ -74789,7 +74789,7 @@ apuneuvoilla
 on		
 ollut		
 tarjona		
-Pohjalainen		
+Pohjalainen	org	
 ilmestyy		
 ensi		
 vuonnakin		
@@ -74800,13 +74800,13 @@ tarpeen
 mukaan		
 Ilmestymispäivät		
 ovat		
-joka		
-arki		
-tiistai,		
-torstai,		
-perjantai		
-ja		
-lauantai		
+joka	tim	
+arki	tim	
+tiistai,	tim	
+torstai,	tim	
+perjantai	tim	
+ja	tim	
+lauantai	tim	
 Hintakin		
 tulee		
 olemaan		
@@ -74839,7 +74839,7 @@ ilmestyviin
 uuden		
 etevän		
 maanvlljelyslehden		
-..Pellervon",		
+..Pellervon",	org	
 jonka		
 hinta		
 yksistään		
@@ -74875,23 +74875,23 @@ vaatimattoman
 kansamme		
 kohtuulliset		
 toivomukset.		
-Waasassa,		
-joulukuun		
-p:nä		
-IS9'J.		
-O.		
-fesas.		
+Waasassa,	loc	
+joulukuun	tim	
+p:nä	tim	
+IS9'J.	tim	
+O.	per	
+fesas.	per	
 Toimittaja.		
-Kari		
-Fazerin		
+Kari	per	
+Fazerin	per	
 tunnettuja		
 karamelleja		
 ja		
 marmslaadeja		
 aina		
 varastossa		
-Alfred		
-Fahlcrilla.		
+Alfred	per	
+Fahlcrilla.	per	
 3023		
 välittää		
 halvimmalla		
@@ -74899,14 +74899,14 @@ palkkiolla
 Kansallis		
 K.		
 Y.		
-Sampo,		
-Waasassa.		
+Sampo,	org	
+Waasassa.	loc	
 95		
 Käärepaperia		
 an		
 nti		
-Pnh:a!aisen		
-kirjapainossa		
+Pnh:a!aisen	org	
+kirjapainossa	org	
 Rautaisia		
 Hautaristejä		
 noin		
@@ -74914,10 +74914,10 @@ noin
 eri		
 mallia,		
 valmistaa		
-Veljekset		
-Friisein		
-Konepaja		
-Kalajoella		
+Veljekset	org	
+Friisein	org	
+Konepaja	org	
+Kalajoella	loc	
 Hintaluetteloita		
 ilmaiseksi		
 pyydct		
@@ -75004,28 +75004,28 @@ voitilejä
 verrattaissa		
 helposti		
 huomaa.		
-Emil		
-Linderborg.		
+Emil	per	
+Linderborg.	per	
 !!!',!'>		
 Lakiasiaintoimisto		
-Vaasassa.		
+Vaasassa.	loc	
 Omistajat:		
-Varatuomarit		
-Gustaf		
-Ignatius,		
-P,		
-A.		
-Pehkonen		
+Varatuomarit	tit	
+Gustaf	per	
+Ignatius,	per	
+P,	bper	
+A.	per	
+Pehkonen	per	
 ja		
-Uno		
-Schmaltz.		
+Uno	per	
+Schmaltz.	per	
 LaMasiaiii-Toiiisto		
-Waasassa.		
-Varatuomari		
-A.		
-W.		
-Heikkilä		
-Waasassa		
+Waasassa.	loc	
+Varatuomari	tit	
+A.	per	
+W.	per	
+Heikkilä	per	
+Waasassa	loc	
 ajaa		
 asioita		
 huolellisesti		
@@ -75033,8 +75033,8 @@ ja
 kohtuullisesta		
 palkkiosta.		
 Osoto:		
-Hovioikeudenpuistikko		
-20		
+Hovioikeudenpuistikko	loc	
+20	loc	
 Telefooni		
 n:<>		
 275.		
@@ -75043,17 +75043,17 @@ tai
 ttS		
 Hovioiköudenkanslisti,		
 Asianajaja		
-Waasassa.		
-Hiotesaarenkatu		
-n:ro		
-3.		
-Varatuomari		
-Tli		
-af		
-Reethin		
-Lakiasiamtoimisfo.		
-WaasKpuiatikko		
-11		
+Waasassa.	loc	
+Hiotesaarenkatu	bloc	
+n:ro	loc	
+3.	loc	
+Varatuomari	org	
+Tli	org	
+af	org	
+Reethin	org	
+Lakiasiamtoimisfo.	org	
+WaasKpuiatikko	loc	
+11	loc	
 Telefooni		
 37		
 7.		
@@ -75061,22 +75061,22 @@ WWHWWiypI
 v^^^^		
 101		
 li		
-Wäinö		
-lirviaeu,		
+Wäinö	per	
+lirviaeu,	per	
 Lääninnotario.		
 Varatuomari,		
 ajaa		
 lakiasioita		
-Waasassa.		
-Osote:		
-Kirkkopuistoko		
-4.		
-Kaario		
-Eelin,		
+Waasassa.	loc	
+Osote:	bloc	
+Kirkkopuistoko	loc	
+4.	loc	
+Kaario	per	
+Eelin,	per	
 Lakiasiain-Toimisto		
-Waasassa		
-Kiuippapuistikko		
-24.		
+Waasassa	loc	
+Kiuippapuistikko	bloc	
+24.	loc	
 Taksa,		
 eis.		
 Hovioikeudessa		
@@ -75096,9 +75096,9 @@ korkeimmat
 feircraat		
 lei|		
 erivoilta		
-TUOH.		
-LAURELL,		
-Weasassa.		
+TUOH.	per	
+LAURELL,	per	
+Weasassa.	loc	
 maksaa		
 TeleTconi		
 |f		
@@ -75136,12 +75136,12 @@ _,^__._
 _rTr,		
 Hoitniat:		
 Nimlt.		
-Hjalmar		
-Kalielin		
+Hjalmar	per	
+Kalielin	per	
 ja		
 'sS#		
 asianajotoimisto		
-Helsingissa		
+Helsingissa	loc	
 v\m\i		
 laku.		
 känd!		
@@ -75181,12 +75181,12 @@ n:ro
 Herrain		
 FreeÉel!		
 Pojan		
-Tampereella		
+Tampereella	loc	
 Paperikomissioonivarasto		
 ?i		
 E.		
 Trummerilla.		
-Mäntän		
+Mäntän	loc	
 Paparltehlß^si		
 erityl3-alaua		
 ovat		
@@ -75209,17 +75209,17 @@ Ilmoltuspaperi.
 "*?		
 030		
 e:		
-G.		
-A.		
-Serlachius,		
+G.	per	
+A.	per	
+Serlachius,	per	
 3"		
 Vappula		
 liantta.		
 16		
-Waasan		
+Waasan	loc	
 Opas,		
 Käsikirja		
-Waasasta,		
+Waasasta,	loc	
 osaksi		
 vanhentuneilla		
 tiedoilla		
@@ -75235,12 +75235,12 @@ hintaan:
 25		
 p.		
 kpl		
-Pohjalaisen		
+Pohjalaisen	org	
 konttoorissa.		
-Tiistaina		
-Tammikuun		
-p:nä		
-POHJALAINEN.		
+Tiistaina	tim	
+Tammikuun	tim	
+p:nä	tim	
+POHJALAINEN.	org	
 1800.		
 k-.o		
 3.		
