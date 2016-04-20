@@ -69,7 +69,7 @@ oikeustaisteluun
 joka	
 voi	
 kestää	
-vuosia	tim
+vuosia	
 .	
 	
 <PARAGRAPH>	
@@ -95,9 +95,9 @@ alle
 kahden	
 prosentin	
 veroa	
-kymmenen	tim
-vuoden	tim
-ajan	tim
+kymmenen	
+vuoden	
+ajan	
 .	
 	
 Irlannin	loc
@@ -283,8 +283,8 @@ operator
 )	
 .	
 	
-15	tim
-vuoden	tim
+15	
+vuoden	
 seurantajakson	
 aikana	
 210	
@@ -456,8 +456,8 @@ otettaan
 kuluttajien	
 elämästä	
 jo	
-toisen	tim
-kerran	tim
+toisen	
+kerran	
 tällä	tim
 viikolla	tim
 .	
@@ -714,7 +714,7 @@ Elon	per
 Musk	per
 ilmoitti	
 keskiviikkona	tim
-Twitter-viestillä	pro
+Twitter-viestillä	misc
 "	
 kansanmallin	
 "	
@@ -827,7 +827,7 @@ Verge	org
 kirjoitti	
 ,	
 että	
-nyt	
+nyt	tim
 tilauksen	
 tekevät	
 joutuvat	
@@ -1219,9 +1219,9 @@ Neighborhoods	pro
 <PARAGRAPH>	
 Korjattu	
 ingressin	
-2003	
+2003	tim
 muotoon	
-2013.	
+2013.	tim
 	
 <HEADLINE>	
 Supercellin	org
@@ -1290,8 +1290,8 @@ markkina-arvoa
 miljardilla	
 dollarilla	
 ,	
-FierceWi	org
-reless	org
+FierceWi	
+reless	
 raportoi	
 .	
 	
@@ -1660,7 +1660,7 @@ käyttäjästä
 kahden	
 euron	
 lisenssimaksua	
-kuukaudessa	tim
+kuukaudessa	
 .	
 	
 Ensi	tim
@@ -1895,8 +1895,8 @@ myös
 takaraja	
 ,	
 ja	
-kaksi	tim
-vuotta	tim
+kaksi	
+vuotta	
 vanhat	
 tallennukset	
 aiotaan	
@@ -2160,8 +2160,8 @@ kehittämistä
 <PARAGRAPH>	
 —	
 Jo	
-vuosien	tim
-ajan	tim
+vuosien	
+ajan	
 toimintaympäristö	
 on	
 muuttunut	
@@ -2250,8 +2250,8 @@ Sanoma-konsernia	org
 .	
 	
 <HEADLINE>	
-10	tim
-päivää	tim
+10	
+päivää	
 vastausaikaa	
 :	
 Myös	
@@ -2270,12 +2270,12 @@ on
 tutkinut	
 Googlen	org
 toimia	
-kolme	tim
-vuotta	tim
+kolme	
+vuotta	
 ja	
 vaatii	
 hakukonejätiltä	
-nyt	
+nyt	tim
 selityksiä	
 .	
 	
@@ -2283,8 +2283,8 @@ Intian	org
 kilpailukomissio	org
 antoi	
 Googlelle	org
-10	tim
-päivää	tim
+10	
+päivää	
 vastausaikaa	
 .	
 	
@@ -2630,7 +2630,7 @@ vuoden	tim
 lopulla	tim
 .	
 	
-Nyt	
+Nyt	tim
 sanfranciscolainen	
 True	org
 Ventures	org
@@ -2704,7 +2704,7 @@ on
 yksi	
 .	
 	
-Nyt	
+Nyt	tim
 saadut	
 rahat	
 käytetään	
@@ -2750,9 +2750,9 @@ jotka
 palaavat	
 pelin	
 ääreen	
-ensimmäisen	tim
-päivän	tim
-jälkeen	tim
+ensimmäisen	
+päivän	
+jälkeen	
 ,	
 on	
 56	
@@ -2778,7 +2778,7 @@ kellottavat
 yli	
 sata	
 sessiota	
-päivässä	tim
+päivässä	
 .	
 	
 <PARAGRAPH>	
@@ -2872,8 +2872,8 @@ mielipiteitä
 –	
 Apple	org
 on	
-kolmessa	tim
-kuukaudessa	tim
+kolmessa	
+kuukaudessa	
 noussut	
 maailman	
 toiseksi	
@@ -3065,7 +3065,7 @@ taustat
 <INGRESS>	
 Google	org
 välittää	
-nyt	
+nyt	tim
 kuluttajien	
 kotona	
 tarvitsemia	
@@ -3086,7 +3086,7 @@ aloitti
 San	loc
 Franciscon	loc
 alueella	
-perjantaina	
+perjantaina	tim
 kotipalvelujen	
 välittämisen	
 .	
@@ -3210,7 +3210,7 @@ maahan
 ulottuvan	
 vastaavan	
 palvelun	
-maaliskuussa	
+maaliskuussa	tim
 .	
 	
 Se	
@@ -3230,8 +3230,8 @@ mukaan
 Angie’s	org
 List	org
 arvioi	
-vuonna	
-2011	
+vuonna	tim
+2011	tim
 ,	
 että	
 kotipalvelumarkkinat	
@@ -3249,7 +3249,7 @@ ja
 tuholaistorjunta	
 .	
 	
-Nyt	
+Nyt	tim
 Googlen	org
 Home	pro
 Services	pro
@@ -3275,7 +3275,7 @@ automaattivideoihin
 <INGRESS>	
 Google	org
 alkaa	
-tiistaina	
+tiistaina	tim
 päivittää	
 Chrome-selaintaan	pro
 versioon	
@@ -3292,7 +3292,7 @@ taustalla
 <PARAGRAPH>	
 Google	org
 kertoi	
-kesäkuussa	
+kesäkuussa	tim
 Flash-rajoituksesta	misc
 ,	
 joka	
@@ -3428,7 +3428,7 @@ kilpailijoita
 <INGRESS>	
 Google	org
 torjui	
-torstaina	
+torstaina	tim
 EU:n	org
 epäilyt	
 kilpailua	
@@ -3451,7 +3451,7 @@ kilpailijoille
 <PARAGRAPH>	
 Google	org
 vastasi	
-torstaina	
+torstaina	tim
 EU:n	org
 syytöksiin	
 omien	
@@ -3679,9 +3679,9 @@ Apple	pro
 Watch	pro
 -älykelloja	pro
 toimitettiin	
-vuoden	
-toisella	
-neljänneksellä	
+vuoden	tim
+toisella	tim
+neljänneksellä	tim
 kaikkiaan	
 3,6	
 miljoonaa	
@@ -3704,7 +3704,7 @@ osoittautuneet
 luotettaviksi	
 ,	
 paljasti	
-torstaina	
+torstaina	tim
 omat	
 lukunsa	
 puettavan	
@@ -3779,7 +3779,7 @@ puettavan
 teknologian	
 markkinat	
 kasvoivat	
-huhti-kesäkuussa	
+huhti-kesäkuussa	tim
 223	
 prosenttia	
 edellisvuoden	
@@ -3802,8 +3802,8 @@ kolminkertaistuivat
 Ranneketoimitukset	
 ja	
 markkinaosuudet	
-huhti-kesäkuussa	
-2015	
+huhti-kesäkuussa	tim
+2015	tim
 |	
 Toimittaja	
 |	
@@ -3996,7 +3996,7 @@ Zuckerbergin	per
 mukaan	
 Facebookissa	pro
 kävi	
-maanantaina	
+maanantaina	tim
 miljardi	
 vierailijaa	
 .	
@@ -4031,7 +4031,7 @@ Facebookiin	pro
 Mark	per
 Zuckerberg	per
 kirjoitti	
-torstaina	
+torstaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -4061,7 +4061,7 @@ rahaa
 Facebookille	org
 .	
 	
-Huhti-kesäkuussa	
+Huhti-kesäkuussa	tim
 Facebookin	org
 76	
 prosenttia	
@@ -4130,7 +4130,7 @@ myöntää
 <PARAGRAPH>	
 Huawei	org
 tuo	
-tänään	
+tänään	tim
 myyntiin	
 Suomessa	loc
 uuden	
@@ -4313,7 +4313,7 @@ sitä
 ollenkaan	
 .	
 	
-Alkukuusta	
+Alkukuusta	tim
 Google	org
 ,	
 LG	org
@@ -4394,8 +4394,8 @@ myöhemmin
 .	
 	
 <HEADLINE>	
-Viime	
-vuoden	
+Viime	tim
+vuoden	tim
 suurimman	
 puhelinflopin	
 seuraus	
@@ -4442,8 +4442,8 @@ lähteiltä
 että	
 Amazon	org
 on	
-viime	
-viikkoina	
+viime	tim
+viikkoina	tim
 antanut	
 lähtöpassit	
 tusinoille	
@@ -4451,8 +4451,8 @@ insinöörejä
 ,	
 jotka	
 työskentelivät	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 julkaistun	
 Fire-älypuhelimen	pro
 parissa	
@@ -4912,7 +4912,7 @@ alueilla
 .	
 	
 <PARAGRAPH>	
-Keskiviikkona	
+Keskiviikkona	tim
 julkistettua	
 sopimusta	
 edelsi	
@@ -5252,8 +5252,8 @@ joukossa
 <PARAGRAPH>	
 Osuuspankki	org
 kärsi	
-tänään	
-iltapäivällä	
+tänään	tim
+iltapäivällä	tim
 verkkopalvelujensa	
 kaatumisesta	
 ja	
@@ -5349,9 +5349,9 @@ Pankkipalvelut
 saatiin	
 pääsääntöisesti	
 kuntoon	
-kello	
-kahdeksaantoista	
-mennessä	
+kello	tim
+kahdeksaantoista	tim
+mennessä	tim
 .	
 	
 <PARAGRAPH>	
@@ -5472,16 +5472,16 @@ ovat
 jääneet	
 odotettua	
 pienemmiksi	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 .	
 	
 Yhtiön	
 mukaan	
 liikevaihto	
 jää	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 tasolle	
 ja	
 tulos	
@@ -5815,7 +5815,7 @@ Yhdysvaltain	loc
 liittovaltion	
 vetoomusoikeus	
 vahvisti	
-maanantaina	
+maanantaina	tim
 ,	
 että	
 Federal	org
@@ -5845,8 +5845,8 @@ asiakastietojaan
 <PARAGRAPH>	
 FTC	org
 haastoi	
-vuonna	
-2012	
+vuonna	tim
+2012	tim
 oikeuteen	
 hotelliketjuja	
 operoivan	
@@ -5860,10 +5860,10 @@ kun
 yritys	
 oli	
 menettänyt	
-vuosina	
-2008	
-ja	
-2009	
+vuosina	tim
+2008	tim
+ja	tim
+2009	tim
 kolmessa	
 eri	
 tietomurrossa	
@@ -6028,9 +6028,9 @@ nousevan
 yli	
 80	
 miljoonaan	
-kolmen	
-vuoden	
-päästä	
+kolmen	tim
+vuoden	tim
+päästä	tim
 .	
 	
 <BODY>	
@@ -6048,14 +6048,14 @@ terveyden
 seurantalaitteiden	
 vuosimyynti	
 kasvaa	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 23	
 miljoonasta	
 82	
 miljoonaan	
-vuonna	
-2019.	
+vuonna	tim
+2019.	tim
 	
 <PARAGRAPH>	
 Markkinatutkimusyrityksen	
@@ -6092,12 +6092,12 @@ kasvavan
 17	
 miljoonaan	
 laitteeseen	
-vuonna	
-2019	
+vuonna	tim
+2019	tim
 .	
 	
-Viime	
-vuonna	
+Viime	tim
+vuonna	tim
 niitä	
 myytiin	
 5,5	
@@ -6115,7 +6115,7 @@ tiedotteessa
 joka	
 liittyy	
 sen	
-syyskuussa	
+syyskuussa	tim
 San	loc
 Diegossa	loc
 isännöimään	
@@ -6171,7 +6171,7 @@ Doug	per
 Duceyn	per
 virasto	
 tiedotti	
-tiistaina	
+tiistaina	tim
 Uberin	org
 ja	
 Arizonan	org
@@ -6223,8 +6223,8 @@ robottiautoja
 .	
 	
 Mutta	
-samana	
-päivänä	
+samana	tim
+päivänä	tim
 kuin	
 optiikan	
 tutkimuksen	
@@ -6244,7 +6244,7 @@ Arizonassa	org
 .	
 	
 <PARAGRAPH>	
-Helmikuussa	
+Helmikuussa	tim
 Uber	org
 ilmoitti	
 yhteistyösopimuksesta	
@@ -6449,9 +6449,9 @@ liikevaihdosta
 Tekes	org
 kertoo	
 rahoittaneensa	
-kymmenen	tim
-vuoden	tim
-aikana	tim
+kymmenen	
+vuoden	
+aikana	
 yli	
 100	
 peliyritystä	
@@ -6543,7 +6543,7 @@ korjattu
 <HEADLINE>	
 Youtube	org
 avaa	
-tänään	
+tänään	tim
 uuden	
 palvelun	
 	
@@ -6612,8 +6612,8 @@ Sen
 on	
 määrä	
 avautua	
-tänään	
-keskiviikkona	
+tänään	tim
+keskiviikkona	tim
 ,	
 Fortune	org
 uutisoi	
@@ -6631,7 +6631,7 @@ dollarilla
 <PARAGRAPH>	
 Youtube	org
 ilmoitti	
-kesäkuussa	
+kesäkuussa	tim
 kehittävänsä	
 oman	
 videopelien	
@@ -6646,9 +6646,9 @@ Sen
 on	
 määrä	
 avautua	
-keskiviikkona	
-kello	
-20	
+keskiviikkona	tim
+kello	tim
+20	tim
 Suomen	loc
 aikaa	
 .	
@@ -6675,7 +6675,7 @@ sovellukset	pro
 tulevat	
 jakeluun	
 jo	
-tänään	
+tänään	tim
 ,	
 mutta	
 vain	
@@ -6710,8 +6710,8 @@ on
 kasvanut	
 75	
 prosenttia	
-viime	
-vuodesta	
+viime	tim
+vuodesta	tim
 .	
 	
 Palvelun	
@@ -6728,8 +6728,8 @@ pelaamiseen
 <PARAGRAPH>	
 Korjattu	
 avautumisaika	
-klo	
-20:ksi	
+klo	tim
+20:ksi	tim
 .	
 	
 <HEADLINE>	
@@ -6914,7 +6914,7 @@ tienaavan
 neljä	
 miljardia	
 dollaria	
-vuodessa	tim
+vuodessa	
 mainoksista	
 ,	
 vaikka	
@@ -7015,10 +7015,10 @@ sen
 pikseleistä	
 on	
 näkyvissä	
-yhtäjaksoisesti	tim
+yhtäjaksoisesti	
 vähintään	
-kaksi	tim
-sekuntia	tim
+kaksi	
+sekuntia	
 .	
 	
 <PARAGRAPH>	
@@ -7050,7 +7050,7 @@ hän
 voi	
 minimoida	
 välilehden	
-ennen	tim
+ennen	
 videon	
 näkymistä	
 .	
@@ -7160,7 +7160,7 @@ tietoturvasta
 <HEADLINE>	
 Instagram	pro
 tunnistaa	
-etukäteen	tim
+etukäteen	
 huippumallien	
 menestyksen	
 	
@@ -7188,7 +7188,7 @@ ennustuksessa
 <PARAGRAPH>	
 Yhteisömediassa	
 on	
-jatkuvasti	tim
+jatkuvasti	
 valtava	
 pöhinä	
 erilaisten	
@@ -7215,7 +7215,7 @@ tutkimus
 jonka	
 vuoden	tim
 2014	tim
-tiedoilla	tim
+tiedoilla	
 ennusti	
 oikein	
 kuusi	
@@ -7274,7 +7274,7 @@ listoille
 	
 <PARAGRAPH>	
 Mallitoimistojen	
-uusien	tim
+uusien	
 nimien	
 listoilta	
 vain	
@@ -7298,7 +7298,7 @@ naismallia
 ,	
 joista	
 valinta	
-myöhemmin	tim
+myöhemmin	
 rajattiin	
 15	
 “uuteen	
@@ -7311,7 +7311,7 @@ kerättyjen
 tietojen	
 perusteella	
 ennustettiin	
-uusien	tim
+uusien	
 mallien	
 menestystä	
 ,	
@@ -7589,7 +7589,7 @@ kuvauksia
 Google	org
 lisää	
 500	
-uutta	tim
+uutta	
 tautia	
 terveyspalveluunsa	
 .	
@@ -7631,7 +7631,7 @@ blogissaan
 että	
 tautikanta	
 on	
-kohta	tim
+kohta	
 kasvatettu	
 900:aan	
 .	
@@ -7805,7 +7805,7 @@ oikeustaisteluun
 joka	
 voi	
 kestää	
-vuosia	tim
+vuosia	
 .	
 	
 <PARAGRAPH>	
@@ -7914,7 +7914,7 @@ vaikeaa
 <PARAGRAPH>	
 Apple	org
 on	
-aikaisemmin	tim
+aikaisemmin	
 kiistänyt	
 harrastavansa	
 veronkiertoa	
@@ -7982,8 +7982,8 @@ dollarin
 lisäpotkun	
 .	
 	
-Samaan	tim
-aikaan	tim
+Samaan	
+aikaan	
 amerikkalainen	
 kilpailija	
 Uber	org

@@ -1,4 +1,4 @@
-
+	
 <HEADLINE>	
 Kuvavuoto	
 :	
@@ -70,9 +70,9 @@ code	org
 mukaan	
 Nokia	org
 aikoo	
-ensi	
-vuoden	
-alussa	
+ensi	tim
+vuoden	tim
+alussa	tim
 jul	
 kaista	
 ensimmäisen	
@@ -95,7 +95,7 @@ C1	pro
 aiottaisiin	
 julkaista	
 jo	
-syyskuussa	
+syyskuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -119,9 +119,9 @@ nimellään
 varustettuja	
 puhelimia	
 vasta	
-vuoden	
-2016	
-lopulla	
+vuoden	tim
+2016	tim
+lopulla	tim
 .	
 	
 <PARAGRAPH>	
@@ -142,9 +142,9 @@ kun
 Nokia	org
 julkaisi	
 Z1-tabletinsa	pro
-lähes	
-vuosi	
-sitten	
+lähes	tim
+vuosi	tim
+sitten	tim
 .	
 	
 Esimerkiksi	
@@ -218,8 +218,8 @@ eivät
 ole	
 .	
 	
-Kesän	
-aikana	
+Kesän	tim
+aikana	tim
 Nokia	org
 on	
 jo	
@@ -253,7 +253,7 @@ uusia
 Android-älypuhelinten	pro
 kehittäjiä	
 .	
-
+	
 <HEADLINE>	
 Android-aukot	misc
 uhkaavat	
@@ -287,8 +287,8 @@ Googlen	org
 Android-käyttöjärjestelmästä	pro
 on	
 löydetty	
-viime	
-aikoina	
+viime	tim
+aikoina	tim
 esiin	
 useita	
 haavoittuvuuksia	
@@ -512,7 +512,7 @@ Android-laitteessa	pro
 jotain	
 tietoturvatuotetta	
 .	
-
+	
 <HEADLINE>	
 Mehustaako	
 Apple	org
@@ -527,8 +527,8 @@ Pro-tabletilla	pro
 Apple	org
 saattaa	
 paljastaa	
-ensi	
-viikolla	
+ensi	tim
+viikolla	tim
 myös	
 kauan	
 huhutun	
@@ -546,8 +546,8 @@ luotettujen
 lähteiden	
 "	
 mukaan	
-9.	
-syyskuuta	
+9.	tim
+syyskuuta	tim
 Apple	org
 paljastaa	
 paitsi	
@@ -621,14 +621,14 @@ Pro	pro
 on	
 tulossa	
 myyntiin	
-marraskuussa	
+marraskuussa	tim
 ,	
 mutta	
 ennakkomyynti	
 alkaa	
 jo	
-lokakuun	
-lopulla	
+lokakuun	tim
+lopulla	tim
 ,	
 9to5Mac	org
 kirjoittaa	
@@ -646,8 +646,8 @@ iPad	pro
 Pron	pro
 erillisessä	
 tilaisuudessa	
-myöhemmin	
-syksyllä	
+myöhemmin	tim
+syksyllä	tim
 .	
 	
 <PARAGRAPH>	
@@ -663,10 +663,10 @@ uutta
 versiota	
 kuin	
 vasta	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 .	
-
+	
 <HEADLINE>	
 Sony	org
 pakkasi	
@@ -711,7 +711,7 @@ huipputarkan
 <PARAGRAPH>	
 Sony	org
 julkaisi	
-eilen	
+eilen	tim
 odotetusti	
 kolme	
 uutta	
@@ -819,15 +819,15 @@ joka
 oli	
 jo	
 yhtiön	
-viime	
-keväänä	
+viime	tim
+keväänä	tim
 julkistamissa	
 Xperia-puhelimissa	pro
 .	
 	
 Hieman	
 erikoisesti	
-kevään	
+kevään	tim
 Xperia-mallin	pro
 nimi	
 oli	
@@ -842,7 +842,7 @@ Z3	pro
 .	
 	
 <PARAGRAPH>	
-Keväällä	
+Keväällä	tim
 Sony	pro
 Xperia	pro
 Z3	pro
@@ -931,20 +931,20 @@ Compact-malli	pro
 tulee	
 myyntiin	
 Suomessa	loc
-syyskuun	
-lopulla	
+syyskuun	tim
+lopulla	tim
 ,	
 Xperia	pro
 Z5	pro
-lokakuussa	
+lokakuussa	tim
 ja	
 Premium-malli	pro
-marraskuussa	
+marraskuussa	tim
 849	
 euron	
 hintaan	
 .	
-
+	
 <HEADLINE>	
 Sony	org
 aiheutti	
@@ -1227,7 +1227,7 @@ Raymond	per
 Wong	per
 tuomitsee	
 .	
-
+	
 <HEADLINE>	
 Golfautosta	
 tuli	
@@ -1321,7 +1321,7 @@ toiselle
 Kutsujärjestelmä	
 voisi	
 laajentua	
-tulevaisuudessa	
+tulevaisuudessa	tim
 palvelemaan	
 vaikka	
 Uberin	org
@@ -1465,7 +1465,7 @@ on
 nähtävissä	
 alla	
 .	
-
+	
 <HEADLINE>	
 Se	
 tapahtui	
@@ -1508,7 +1508,7 @@ mies
 kuoli	
 Houstonissa	bloc
 Yhdysvalloissa	bloc
-tiistaina	
+tiistaina	tim
 ,	
 kun	
 hän	
@@ -1576,8 +1576,8 @@ laatuaan
 .	
 	
 Esimerkiksi	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 meksikolainen	
 mies	
 kuo	
@@ -1593,7 +1593,7 @@ kanssa
 .	
 	
 <PARAGRAPH>	
-Keväällä	
+Keväällä	tim
 venäläinen	
 nainen	
 ampui	
@@ -1611,7 +1611,7 @@ heti
 tapauksen	
 jälkeen	
 .	
-
+	
 <HEADLINE>	
 Huawei	org
 kopioi	
@@ -1769,7 +1769,7 @@ Sikstuksen	loc
 kappelissa	loc
 Vatikaanissa	bloc
 .	
-
+	
 <HEADLINE>	
 Raiskauksesta	
 Uberia	org
@@ -1807,7 +1807,7 @@ vastaan
 Yhdysvalloissa	loc
 .	
 	
-Tammikuussa	
+Tammikuussa	tim
 nostetussa	
 kanteessa	
 nainen	
@@ -1957,7 +1957,7 @@ muun
 muassa	
 Cnet	org
 .	
-
+	
 <HEADLINE>	
 Nähdäänkö	
 tänään	
@@ -1975,7 +1975,7 @@ odotetaan
 julkaisevan	
 uusia	
 huippupuhelimia	
-tänään	
+tänään	tim
 .	
 	
 <BODY>	
@@ -1983,7 +1983,7 @@ tänään
 Sony	org
 valmistautuu	
 julkistamaan	
-tänään	
+tänään	tim
 uusia	
 huippupuhelimiaan	
 Berliinin	loc
@@ -1999,7 +1999,7 @@ kuitenkin
 vuotaa	
 verkkoon	
 jo	
-eilen	
+eilen	tim
 ,	
 kertoo	
 Xperiablog-verkkosivusto	org
@@ -2012,8 +2012,8 @@ edellisen
 Xperia	pro
 Z	pro
 -puhelimensa	pro
-viime	
-keväänä	
+viime	tim
+keväänä	tim
 .	
 	
 Hämmentävästi	
@@ -2054,9 +2054,9 @@ Z5	pro
 een	
 .	
 	
-Tänään	
-viideltä	
-iltapäivällä	
+Tänään	tim
+viideltä	tim
+iltapäivällä	tim
 Suomen	loc
 aikaa	
 alkavassa	
@@ -2192,7 +2192,7 @@ Xperablogin	org
 ve	
 rkkosivuilta	
 .	
-
+	
 <HEADLINE>	
 Uudet	
 iPhonet	pro
@@ -2232,8 +2232,8 @@ uudet
 iPhonet	pro
 erittäin	
 todennäköisesti	
-9.	
-syyskuuta	
+9.	tim
+syyskuuta	tim
 ,	
 eikä	
 ole	
@@ -2528,7 +2528,7 @@ kokosi
 yhteen	
 Forbes	org
 .	
-
+	
 <HEADLINE>	
 Huawei	org
 selvisi	
@@ -2568,8 +2568,8 @@ Huawein	pro
 Honor	pro
 7	pro
 -puhelimen	pro
-viime	
-viikon	
+viime	tim
+viikon	tim
 lanseeraus	
 ei	
 välttämättä	
@@ -2594,7 +2594,7 @@ sivusi
 Honor	pro
 7:ää	pro
 puhuessaan	
-elokuun	
+elokuun	tim
 myydyimmän	
 mallin	
 Huawei	pro
@@ -2609,7 +2609,7 @@ Se
 oli	
 myydyin	
 myös	
-heinäkuussa	
+heinäkuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -2653,13 +2653,13 @@ neljän
 kärki	
 oli	
 muuttumaton	
-elokuussa	
+elokuussa	tim
 .	
 	
 DNA:n	org
 myydyimmät	
 puhelimet	
-heinäkuussa	
+heinäkuussa	tim
 olivat	
 :	
 	
@@ -2745,13 +2745,13 @@ haastajat
 	
 <PARAGRAPH>	
 Soneralla	org
-elokuun	
+elokuun	tim
 myydyin	
 kolmikko	
 oli	
 sama	
 kuin	
-heinäkuussa	
+heinäkuussa	tim
 ,	
 ja	
 Apple	pro
@@ -2785,7 +2785,7 @@ jotka
 eivät	
 mahtuneet	
 mukaan	
-heinäkuussa	
+heinäkuussa	tim
 ollenkaan	
 .	
 	
@@ -2817,7 +2817,7 @@ koulujen
 alkaminen	
 näkyi	
 myös	
-elokuussa	
+elokuussa	tim
 edullisemman	
 pään	
 ja	
@@ -2830,7 +2830,7 @@ myynnissä
 <PARAGRAPH>	
 Soneran	org
 top10	
-elokuussa	
+elokuussa	tim
 oli	
 :	
 	
@@ -2962,7 +2962,7 @@ Elisan	org
 henkilöasiakkaiden	
 myydyimmät	
 puhelimet	
-elokuussa	
+elokuussa	tim
 olivat	
 :	
 	
@@ -3039,7 +3039,7 @@ Compact	pro
 Samsung	pro
 Galaxy	pro
 S6	pro
-
+	
 <HEADLINE>	
 Näin	
 teet	
@@ -3090,10 +3090,10 @@ LG	org
 esittelee	
 Berliinin	loc
 IFA-messuilla	event
-4.	
-–	
-9.	
-syyskuuta	
+4.	tim
+–	tim
+9.	tim
+syyskuuta	tim
 olemassa	
 oleviin	
 kodinkoneisiin	
@@ -3193,7 +3193,7 @@ esineiden	pro
 internet	pro
 -alustaa	pro
 .	
-
+	
 <HEADLINE>	
 Epäpyhä	
 avioliitto	
@@ -3226,7 +3226,7 @@ version
 <BODY>	
 <PARAGRAPH>	
 Googlen	org
-maanantaina	
+maanantaina	tim
 julkistama	
 älykellojärjestelmä	
 ,	
@@ -3319,7 +3319,7 @@ kirjoitti
 	
 <PARAGRAPH>	
 –	
-Tulevaisuudessa	
+Tulevaisuudessa	tim
 kaikki	
 Android	pro
 Wear	pro
@@ -3393,7 +3393,7 @@ Android	pro
 Wear	pro
 -laitteessa	pro
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 yllätti	
@@ -3436,7 +3436,7 @@ esittelee
 kaksi	
 uutta	
 älykelloa	
-torstaina	
+torstaina	tim
 alkavilla	
 elektroniikan	
 IFA-messuilla	event
@@ -3453,7 +3453,7 @@ Tizeniä	pro
 käyttävät	
 laitteet	
 Soulissa	loc
-maanantaina	
+maanantaina	tim
 kertomatta	
 niiden	
 saatavuutta	
@@ -3696,7 +3696,7 @@ Morning	pro
 Herald	pro
 kirjoitti	
 .	
-
+	
 <HEADLINE>	
 Syyte	
 Nokia-puhelinten	pro
@@ -3715,7 +3715,7 @@ InterDigital	org
 koki	
 kirvelevän	
 tappion	
-perjantaina	
+perjantaina	tim
 .	
 	
 ITC:n	org
@@ -3755,8 +3755,8 @@ hallinnollinen
 tuomari	
 päätti	
 alunperin	
-vuonna	
-2007	
+vuonna	tim
+2007	tim
 nostetussa	
 kanteessa	
 InterDigitalin	org
@@ -3850,11 +3850,11 @@ osakkeen
 hinta	
 laski	
 kuitenkin	
-perjantaina	
+perjantaina	tim
 kolme	
 prosenttia	
 .	
-
+	
 <HEADLINE>	
 Viimeinkin	
 testissä	
@@ -4734,7 +4734,7 @@ vastaavaa
 ole	
 toista	
 .	
-
+	
 <HEADLINE>	
 KSML	pro
 :	
@@ -4817,10 +4817,10 @@ paljon
 ongelmia	
 matkapuhelinverkkojensa	
 kanssa	
-viime	
-aikoina	
+viime	tim
+aikoina	tim
 .	
-
+	
 <HEADLINE>	
 Tabletit	
 junakuskeille	
@@ -5044,7 +5044,7 @@ sähköverkkoon
 Vuorinen	per
 selventää	
 .	
-
+	
 <HEADLINE>	
 Pornosovellus	
 ottaa	
@@ -5137,13 +5137,13 @@ käynnistyksellä
 <PARAGRAPH>	
 Intel	org
 Securityn	org
-elokuisen	
+elokuisen	tim
 tiedon	
 mukaan	
 kiristyssovellukset	
 lisääntyivät	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 127	
 prosenttia	
 ,	
@@ -5234,7 +5234,7 @@ pitäisi
 koskaan	
 klikata	
 .	
-
+	
 <HEADLINE>	
 Clash	pro
 of	pro
@@ -5295,7 +5295,7 @@ Luvuista
 kertoo	
 muun	
 muassa	
-Inquisitr	
+Inquisitr	org
 .	
 	
 <PARAGRAPH>	
@@ -5363,8 +5363,8 @@ Strike	pro
 <PARAGRAPH>	
 Peli	
 julkaistiin	
-kesäkuussa	
-2012.	
+kesäkuussa	tim
+2012.	tim
 Myös	
 sitä	
 seurannut	
@@ -5403,12 +5403,12 @@ puolivalmiiden
 peliensä	
 hautaamista	
 .	
-
+	
 <HEADLINE>	
 Samsungin	org
 jättitabletti	
 tulee	
-lokakuussa	
+lokakuussa	tim
 	
 <DATE>	
 7.9.2015 09:26	
@@ -5438,7 +5438,7 @@ varustettu
 Galaxy	pro
 View	pro
 tulee	
-lokakuussa	
+lokakuussa	tim
 .	
 	
 <BODY>	
@@ -5454,7 +5454,7 @@ View	pro
 -taulutietokoneen	pro
 ja	
 sen	
-lokakuisen	
+lokakuisen	tim
 julkistuksen	
 .	
 	
@@ -5595,7 +5595,7 @@ hyvän
 median	
 katselulaitteen	
 .	
-
+	
 <HEADLINE>	
 WhatsApp	org
 rikkoi	
@@ -5614,7 +5614,7 @@ Koum	per
 kertoi	
 uusia	
 käyttäjälukuja	
-perjantaina	
+perjantaina	tim
 .	
 	
 <BODY>	
@@ -5641,7 +5641,7 @@ ilmoitti
 luvun	
 lyhyessä	
 Facebook-viestissä	pro
-perjantaina	
+perjantaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -5660,8 +5660,8 @@ eurolla
 	
 Kaupan	
 toteutuessa	
-lokakuussa	
-2014	
+lokakuussa	tim
+2014	tim
 WhatsAppilla	org
 oli	
 noin	
@@ -5707,13 +5707,13 @@ vieraili
 yli	
 miljardi	
 käyttäjää	
-24	
-\	
+24	tim
+\	tim
+.	tim
+	tim
+elokuuta	tim
 .	
 	
-elokuuta	
-.	
-
 <HEADLINE>	
 Vinha	
 idea	
@@ -5737,7 +5737,7 @@ monessa
 mukana	
 .	
 	
-Torstaina	
+Torstaina	tim
 Yhdysvaltain	org
 patenttivirasto	org
 julkaisi	
@@ -5866,15 +5866,15 @@ vetykaasu
 <PARAGRAPH>	
 Apple	org
 jätti	
-vuonna	
-2011	
+vuonna	tim
+2011	tim
 vastaavan	
 kannettavan	
 laskentalaitteen	
 patenttihakemuksen	
 .	
 	
-Maaliskuussa	
+Maaliskuussa	tim
 patenttivirasto	
 julkaisi	
 Applen	org
