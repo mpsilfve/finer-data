@@ -1,6 +1,6 @@
-
+	
 <HEADLINE>	
-Nyt	
+Nyt	tim
 on	
 pikseleitä	
 :	
@@ -173,7 +173,7 @@ täyskokoinen
 kuva	
 vie	
 .	
-
+	
 <HEADLINE>	
 Google	org
 :	
@@ -335,7 +335,7 @@ matkustajien
 mielenrauhan	
 kannalta	
 .	
-
+	
 <HEADLINE>	
 Pluto-luotaimelle	misc
 löydettiin	
@@ -370,7 +370,7 @@ joustavat
 <BODY>	
 <PARAGRAPH>	
 Pluton	loc
-juuri	
+juuri	tim
 ohittanut	
 avaruusluotain	
 New	pro
@@ -479,8 +479,8 @@ Tiedotteen
 mukaan	
 ehdotus	
 käsitellään	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 ja	
 Nasa	org
 tekee	
@@ -497,10 +497,10 @@ saavuttaisi
 MU69	loc
 :	loc
 n	loc
-1.	
-tammikuuta	
-2019.	
-
+1.	tim
+tammikuuta	tim
+2019.	tim
+	
 <HEADLINE>	
 Uusi	
 Tesla	pro
@@ -567,8 +567,8 @@ parhaan
 testatun	
 auton	
 paikalta	
-vuoden	
-2013	
+vuoden	tim
+2013	tim
 Teslan	pro
 Model	pro
 S:n	pro
@@ -586,8 +586,8 @@ auto
 oli	
 tähän	
 saakka	
-vuoden	
-2014	
+vuoden	tim
+2014	tim
 BMW	pro
 M235i	pro
 98	
@@ -773,7 +773,7 @@ luotettavuudessa
 alan	
 keskitasoa	
 .	
-
+	
 <HEADLINE>	
 Facebookilta	org
 digiavustaja	
@@ -907,7 +907,7 @@ Microsoftin	org
 Cortanan	pro
 toimialuetta	
 on	
-juuri	
+juuri	tim
 laajennettu	
 älypuhelimista	
 Windows	pro
@@ -922,9 +922,9 @@ digiavustajien
 joukkoon	
 raportoi	
 Wired	org
-keskiviikkona	
+keskiviikkona	tim
 .	
-
+	
 <HEADLINE>	
 Postin	org
 robokopteri	
@@ -952,7 +952,7 @@ Posti	org
 kokeilee	
 verkkokauppatoimituksia	
 ilmateitse	
-syyskuussa	
+syyskuussa	tim
 .	
 	
 <BODY>	
@@ -997,13 +997,13 @@ testata
 verkkokauppatoimituksia	
 robottikopterilla	
 Suomenlinnaan	loc
-2	
-.	
-	
-–5	
-.	
-	
-syyskuuta	
+2	tim
+.	tim
+	tim
+–5	tim
+.	tim
+	tim
+syyskuuta	tim
 .	
 	
 <PARAGRAPH>	
@@ -1044,12 +1044,12 @@ lupaa
 lisää	
 tietoa	
 lentoaikataulusta	
-tiistaina	
-1.	
-syyskuuta	
-kello	
-12.00	
-alkaen	
+tiistaina	tim
+1.	tim
+syyskuuta	tim
+kello	tim
+12.00	tim
+alkaen	tim
 .	
 	
 <PARAGRAPH>	
@@ -1085,11 +1085,11 @@ autonomisten
 minikoptereiden	
 avulla	
 .	
-
+	
 <HEADLINE>	
 SpaceX	org
 :	
-Keväällä	
+Keväällä	tim
 pamahtaa	
 	
 <DATE>	
@@ -1139,9 +1139,9 @@ että
 ensilento	
 on	
 kaavailtu	
-ensi	
-vuoden	
-keväälle	
+ensi	tim
+vuoden	tim
+keväälle	tim
 .	
 	
 <PARAGRAPH>	
@@ -1156,11 +1156,11 @@ laukaisemme
 sen	
 joskus	
 aikavälillä	
-myöhäinen	
-huhtikuu	
-–	
-varhainen	
-toukokuu	
+myöhäinen	tim
+huhtikuu	tim
+–	tim
+varhainen	tim
+toukokuu	tim
 ,	
 Rosen	per
 sanoi	
@@ -1185,14 +1185,14 @@ alun
 perin	
 määrä	
 suorittaa	
-vuonna	
-2013	
+vuonna	tim
+2013	tim
 .	
 	
 Viimeisin	
 viivästys	
 koettiin	
-kesäkuussa	
+kesäkuussa	tim
 ,	
 kun	
 Space	org
@@ -1228,8 +1228,8 @@ oli
 tarkoitus	
 koelaukaista	
 vielä	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 .	
 	
 <PARAGRAPH>	
@@ -1269,7 +1269,7 @@ jumbojettiä
 täydellä	
 teholla	
 .	
-
+	
 <HEADLINE>	
 Nämä	
 älypuhelimet	
@@ -1602,7 +1602,7 @@ taulukoilla
 .	
 	
 )	
-
+	
 <HEADLINE>	
 Microsoft	org
 ehti	
@@ -1735,7 +1735,7 @@ keskittyvä
 Declassified	org
 kertoo	
 Microsoftin	org
-viimevuotisesta	
+viimevuotisesta	tim
 patentista	
 ,	
 jossa	
@@ -1762,7 +1762,7 @@ toisi
 sähköshokkitekniikkaansa	
 markkinoille	
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 ei	
@@ -1958,7 +1958,7 @@ myös
 korkeinta	
 oikeutta	
 .	
-
+	
 <HEADLINE>	
 Komeetat	
 löivät	
@@ -2082,7 +2082,7 @@ aikoivat
 lisätä	
 latausasemien	
 määrää	
-tulevaisuudessa	
+tulevaisuudessa	tim
 .	
 	
 Ne	
@@ -2129,7 +2129,7 @@ valtavan
 akkutehtaan	
 pystyttämiseen	
 .	
-
+	
 <HEADLINE>	
 Apple	org
 varasti	
@@ -2182,7 +2182,7 @@ Jamie	per
 Carlson	per
 siirtyi	
 Applelle	org
-elokuussa	
+elokuussa	tim
 tuntemattomaan	
 asemaan	
 erikoisprojektien	
@@ -2219,8 +2219,8 @@ useamman
 robottiautojen	
 osaajan	
 riveihinsä	
-viime	
-aikoina	
+viime	tim
+aikoina	tim
 ja	
 Carlsonin	per
 lisäksi	
@@ -2244,9 +2244,9 @@ kumpaankin
 suuntaan	
 .	
 	
-Aiemmin	
-tänä	
-vuonna	
+Aiemmin	tim
+tänä	tim
+vuonna	tim
 Teslan	org
 Elon	per
 Musk	per
@@ -2261,7 +2261,7 @@ sinne
 menetettyihin	
 työntekijöihin	
 .	
-
+	
 <HEADLINE>	
 Google	org
 X:n	org
@@ -2378,9 +2378,9 @@ kerrottu
 ,	
 kun	
 Google	org
-pari	
-viikkoa	
-sitten	
+pari	tim
+viikkoa	tim
+sitten	tim
 ilmoitti	
 Alphabet	org
 -holding-yhtiön	org
@@ -2405,7 +2405,7 @@ asiasta
 VentureBeat	org
 kirjoitti	
 .	
-
+	
 <HEADLINE>	
 Väitteet	
 asteroiditörmäyksestä	
@@ -2447,20 +2447,20 @@ ole
 iskemässä	
 tuhoisa	
 asteroidi	
-syyskuussa	
+syyskuussa	tim
 .	
 	
 Nettihuhujen	
 mukaan	
 asteroidi	
 törmää	
-15	
-.	
-	
-–18	
-.	
-	
-syyskuuta	
+15	tim
+.	tim
+	tim
+–18	tim
+.	tim
+	tim
+syyskuuta	tim
 Puerto	loc
 Ricon	loc
 lähelle	
@@ -2537,7 +2537,7 @@ komeettaa
 joka	
 olisi	
 törmäämässä	
-lähitulevaisuudessa	
+lähitulevaisuudessa	tim
 .	
 	
 Kaikilla	
@@ -2552,10 +2552,10 @@ prosentin
 todennäköisyys	
 osua	
 Maahan	loc
-seuraavan	
-sadan	
-vuoden	
-aikana	
+seuraavan	tim
+sadan	tim
+vuoden	tim
+aikana	tim
 .	
 	
 <PARAGRAPH>	
@@ -2573,7 +2573,7 @@ pystyy
 tekemään	
 tuollaista	
 tuhoa	
-syyskuussa	
+syyskuussa	tim
 ,	
 olisimme	
 jo	
@@ -2630,8 +2630,8 @@ katastrofia
 .	
 	
 Nimittäin	
-vuonna	
-2012	
+vuonna	tim
+2012	tim
 planeettamme	
 onnistui	
 juuri	
@@ -2660,10 +2660,10 @@ levisivät
 valtoimenaan	
 muun	
 muassa	
-ennen	
-21.	
-joulukuuta	
-2012	
+ennen	tim
+21.	tim
+joulukuuta	tim
+2012	tim
 ,	
 jolloin	
 jotkut	
@@ -2684,8 +2684,8 @@ myös
 yllättävät	
 .	
 	
-Helmikuussa	
-2013	
+Helmikuussa	tim
+2013	tim
 iskenyt	
 kivi	
 ei	
@@ -2705,7 +2705,7 @@ tuhoa
 Venäjän	loc
 Tšeljabinskissä	bloc
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 lego-puhelimen	
@@ -2761,8 +2761,8 @@ Ara	pro
 kokeellinen	
 lanseeraus	
 siirtyi	
-ensi	
-vuoteen	
+ensi	tim
+vuoteen	tim
 .	
 	
 <PARAGRAPH>	
@@ -2847,7 +2847,7 @@ yksinkertaisesti
 puhelinkotelon	
 käyttöä	
 .	
-
+	
 <HEADLINE>	
 Kyllä	
 :	
@@ -2900,8 +2900,8 @@ Japani	loc
 ,	
 joka	
 lähetti	
-keskiviikkona	
-iltapäivällä	
+keskiviikkona	tim
+iltapäivällä	tim
 avaruuteen	
 miehittämättömän	
 HTV-5-avaruusaluksen	pro
@@ -3016,8 +3016,8 @@ piti
 muuttaa	
 ,	
 koska	
-viime	
-aikoina	
+viime	tim
+aikoina	tim
 useamman	
 rahtialuksen	
 laukaisu	
@@ -3035,7 +3035,7 @@ SpaceX	org
 :	org
 n	org
 Dragon-alus	pro
-kesäkuussa	
+kesäkuussa	tim
 .	
 	
 HTV-5	pro
@@ -3047,9 +3047,9 @@ ISS	pro
 llä	pro
 riittää	
 ruokaa	
-tämän	
-vuoden	
-loppuun	
+tämän	tim
+vuoden	tim
+loppuun	tim
 asti	
 .	
 	
@@ -3061,7 +3061,7 @@ kiinnittyä
 avaruusasemaan	
 maanantaina	
 .	
-
+	
 <HEADLINE>	
 Avaruusasemalle	
 vietiin	
@@ -3105,7 +3105,7 @@ Yksi
 erityisen	
 kiinnostava	
 alkoi	
-elokuussa	
+elokuussa	tim
 tehdyn	
 tarviketäydennyksen	
 yhteydessä	
@@ -3121,10 +3121,10 @@ avaruudessa
 .	
 	
 <PARAGRAPH>	
-Viime	
-kuun	
-19.	
-päivä	
+Viime	tim
+kuun	tim
+19.	tim
+päivä	tim
 ISS	pro
 :	pro
 lle	pro
@@ -3230,9 +3230,9 @@ osa
 palaa	
 maahan	
 jo	
-noin	
-vuoden	
-kuluttua	
+noin	tim
+vuoden	tim
+kuluttua	tim
 .	
 	
 Palannutta	
@@ -3303,13 +3303,13 @@ ei
 ole	
 sallittua	
 .	
-
+	
 <HEADLINE>	
 Taisto	
 mobiilimaksamisesta	
 alkaa	
 :	
-Huomenna	
+Huomenna	tim
 aloittavalla	
 Samsungilla	org
 vahvavaltti	
@@ -3321,14 +3321,14 @@ vahvavaltti
 Samsungin	org
 mobiilimaksupalvelu	
 käynnistyy	
-20.	
-elokuuta	
+20.	tim
+elokuuta	tim
 Koreassa	loc
 ja	
 laajenee	
 Yhdysvaltoihin	loc
-28.	
-syyskuuta	
+28.	tim
+syyskuuta	tim
 .	
 	
 <BODY>	
@@ -3374,8 +3374,8 @@ iPhone	pro
 ,	
 Samsung	pro
 Pay	pro
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 julkistetuissa	
 Galaxy	pro
 S6	pro
@@ -3398,8 +3398,8 @@ Sen
 luvataan	
 tulevan	
 myös	
-viime	
-keväänä	
+viime	tim
+keväänä	tim
 julkistettuihin	
 Galaxy	pro
 S6-	pro
@@ -3535,7 +3535,7 @@ Suomeen	loc
 kestää	
 kuukausia	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 robotti	
@@ -3640,7 +3640,7 @@ nopeasti
 sillä	
 aikaisemmin	
 samaa	
-Atlas-kummajaista	
+Atlas-kummajaista	misc
 on	
 esitelty	
 lähinnä	
@@ -3730,12 +3730,12 @@ on
 ollut	
 käyttää	
 robottia	
-tulevaisuudessa	
+tulevaisuudessa	tim
 esimerkiksi	
 katastrofialueiden	
 avustustöissä	
 .	
-
+	
 <HEADLINE>	
 Lego-puhelin	misc
 pulassa	
@@ -3760,8 +3760,8 @@ myöhästyy
 eikä	
 kokeilua	
 aloiteta	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 .	
 	
 <BODY>	
@@ -3832,12 +3832,12 @@ mukaan
 tosielämän	
 kokeilut	
 aloitetaan	
-vuonna	
-2016	
+vuonna	tim
+2016	tim
 ,	
 eikä	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 ,	
 kuten	
 oli	
@@ -3928,7 +3928,7 @@ ollut
 luultua	
 vaikeampaa	
 .	
-
+	
 <HEADLINE>	
 Sovellus	
 panee	
@@ -3983,7 +3983,7 @@ edelleen
 	
 FTC	org
 julkisti	
-maanantaina	
+maanantaina	tim
 teknisen	
 ratkaisuyrityksen	
 automaattisoittojen	
@@ -4113,7 +4113,7 @@ on
 määrä	
 valmistua	
 jo	
-syyskuussa	
+syyskuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -4142,7 +4142,7 @@ kehittäjä	tit
 Ethan	per
 Garrin	per
 .	
-
+	
 <HEADLINE>	
 Muistitko	
 tämän	
@@ -4191,8 +4191,8 @@ Marsia	loc
 kiertävä	
 luotain	
 otti	
-19.	
-heinäkuuta	
+19.	tim
+heinäkuuta	tim
 lähes	
 2000	
 kilometrin	
@@ -4252,8 +4252,8 @@ Luotain
 saapui	
 planeetan	
 luokse	
-syksyllä	
-2014.	
+syksyllä	tim
+2014.	tim
 	
 <PARAGRAPH>	
 Marsia	loc
@@ -4282,7 +4282,7 @@ avaruusluotain
 Mars	pro
 Express	pro
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 lego-puhelimen	
@@ -4397,9 +4397,9 @@ vuoksi
 Lisää	
 tietoa	
 luvattiin	
-nyt	
-alkaneella	
-viikolla	
+nyt	tim
+alkaneella	tim
+viikolla	tim
 .	
 	
 <PARAGRAPH>	
@@ -4420,7 +4420,7 @@ piti
 Puerto	loc
 Ricoa	loc
 vielä	
-tammikuussa	
+tammikuussa	tim
 ihanteellisena	
 testimarkkinana	
 ,	
@@ -4444,8 +4444,8 @@ varhaista
 prototyyppiä	
 esiteltiin	
 videolla	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 .	
 	
 Hankkeen	
@@ -4473,7 +4473,7 @@ aikataulua
 ei	
 kerrottu	
 .	
-
+	
 <HEADLINE>	
 Hakkerit	
 päihittivät	
@@ -4653,16 +4653,16 @@ Volkswagen	org
 haastoi	
 tutkijat	
 oikeuteen	
-vuonna	
-2013	
+vuonna	tim
+2013	tim
 estääkseen	
 haavoittuvuuden	
 julkaisemisen	
 .	
 	
 Mutta	
-tällä	
-viikolla	
+tällä	tim
+viikolla	tim
 tutkimus	
 esitellään	
 Usenix-tapahtumassa	event
@@ -4735,8 +4735,8 @@ murtaminen
 on	
 ollut	
 yksi	
-tämän	
-vuoden	
+tämän	tim
+vuoden	tim
 puhuttuja	
 tietoturva-aiheita	
 .	
@@ -4821,9 +4821,9 @@ se
 todistettiin	
 käytännön	
 kokeessa	
-kesällä	
+kesällä	tim
 .	
-
+	
 <HEADLINE>	
 Guardian	pro
 :	
@@ -4934,7 +4934,7 @@ GoMentum	loc
 Stationin	loc
 edustajat	
 tapasivat	
-toukokuussa	
+toukokuussa	tim
 .	
 	
 Asiasta	
@@ -4965,8 +4965,8 @@ kanssa
 .	
 	
 <PARAGRAPH>	
-Myöhemmin	
-toukokuussa	
+Myöhemmin	tim
+toukokuussa	tim
 GoMentum	loc
 Stationin	loc
 robottiautojen	
@@ -5065,8 +5065,8 @@ Tim	per
 Cook	per
 on	
 tavannut	
-viime	
-kuukausina	
+viime	tim
+kuukausina	tim
 useita	
 autoteollisuuden	
 johtajia	
@@ -5194,7 +5194,7 @@ sen
 tutkimusryhmä	
 saapui	
 paikalle	
-huhtikuussa	
+huhtikuussa	tim
 ,	
 aseistetut	
 sotilaat	
@@ -5235,7 +5235,7 @@ prosessit
 saadaan	
 sovittua	
 .	
-
+	
 <HEADLINE>	
 Tämän	
 robotin	
@@ -5415,9 +5415,9 @@ voi
 kokeilla	
 myös	
 itse	
-muutaman	
-vuoden	
-takaisen	
+muutaman	tim
+vuoden	tim
+takaisen	tim
 mainion	
 selain	
 "	
@@ -5474,7 +5474,7 @@ radalla
 jo	
 pitkälle	
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 ei	
@@ -5581,7 +5581,7 @@ yritysten
 keskinäiseen	
 sopimukseen	
 .	
-
+	
 <HEADLINE>	
 Pelottavatko	
 verinäytteet	
@@ -5733,7 +5733,7 @@ osaisi
 mitata	
 verensokeria	
 .	
-
+	
 <HEADLINE>	
 Galileolle	pro
 kohta	
@@ -5771,8 +5771,8 @@ ja	pro
 ovat	
 lähdössä	
 avaruuteen	
-11.	
-syyskuuta	
+11.	tim
+syyskuuta	tim
 .	
 	
 715-kiloiset	
@@ -5807,8 +5807,8 @@ satelliitista
 ja	
 kuudesta	
 varasatelliitista	
-vuonna	
-2020.	
+vuonna	tim
+2020.	tim
 	
 <PARAGRAPH>	
 Galileo-satelliittien	pro
@@ -5824,8 +5824,8 @@ ongelmitta
 Kaksi	
 niistä	
 joutui	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 väärälle	
 radalle	
 kantoraketin	
