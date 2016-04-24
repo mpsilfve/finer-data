@@ -1,4 +1,4 @@
-
+	
 <HEADLINE>	
 Suomi	loc
 nappasi	
@@ -25,8 +25,8 @@ Venäläinen
 Maksim	per
 Senakh	per
 otettiin	
-elokuun	
-alussa	
+elokuun	tim
+alussa	tim
 säilöön	
 Suomessa	loc
 Yhdysvaltojen	org
@@ -147,7 +147,7 @@ pitää
 hylätä	
 luovutuspyyntö	
 .	
-
+	
 <HEADLINE>	
 Tekes	org
 maksaa	
@@ -168,7 +168,7 @@ enintään
 300	
 työpaikkaa	
 ja	
-Salon-yksikkö	
+Salon-yksikkö	misc
 suljetaan	
 .	
 	
@@ -250,8 +250,8 @@ myöntää
 Samanlaista	
 konseptia	
 kokeiltiin	
-vuosi	
-sitten	
+vuosi	tim
+sitten	tim
 ,	
 kun	
 Oulussa	loc
@@ -270,8 +270,8 @@ Taloussanomille	org
 <PARAGRAPH>	
 Microsoft	org
 sai	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 päätökseen	
 yt-neuvottelut	
 ,	
@@ -383,7 +383,7 @@ uudelleen
 suhteellisen	
 tehokkaasti	
 .	
-
+	
 <HEADLINE>	
 Microsoftilta	org
 potkitut	
@@ -454,8 +454,8 @@ kehitystehtävä
 <PARAGRAPH>	
 Microsoft	org
 päätti	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 irtisanoa	
 jopa	
 2300	
@@ -517,7 +517,7 @@ Tekesistä	org
 toivoo	
 tiedotteessa	
 .	
-
+	
 <HEADLINE>	
 Nimetön	
 vihapuhe	
@@ -552,8 +552,8 @@ toimitusjohtaja	tit
 Chris	per
 Beard	per
 ilmaisi	
-tällä	
-viikolla	
+tällä	tim
+viikolla	tim
 sisäisessä	
 tapaamisessa	
 ,	
@@ -631,8 +631,8 @@ rauhassa
 käyttäjä	
 tilitti	
 Redditissä	pro
-viikko	
-sitten	
+viikko	tim
+sitten	tim
 .	
 	
 <PARAGRAPH>	
@@ -722,8 +722,8 @@ toimitusjohtaja
 joutui	
 luopumaan	
 tehtävistään	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 ,	
 kun	
 selvisi	
@@ -751,7 +751,7 @@ tahran
 Riippumatta	
 siitä	
 onko	
-aioyama	
+aioyama	per
 työntekijämme	
 ,	
 hän	
@@ -771,7 +771,7 @@ tällaista
 Beard	per
 linjasi	
 .	
-
+	
 <HEADLINE>	
 Apple-miljonääri	misc
 oli	
@@ -875,9 +875,9 @@ ole
 sama	
 henkilö	
 kuin	
-25	
-vuotta	
-sitten	
+25	tim
+vuotta	tim
+sitten	tim
 ,	
 Apple	org
 totesi	
@@ -905,8 +905,8 @@ uhreistaan
 kirjoitti	
 kokemastaan	
 hyökkäyksestä	
-vuonna	
-1991	
+vuonna	tim
+1991	tim
 ja	
 nosti	
 esille	
@@ -955,9 +955,9 @@ elämiimme
 ,	
 Dre	per
 sanoi	
-perjantaina	
+perjantaina	tim
 .	
-
+	
 <HEADLINE>	
 Poliisi	
 varoittaa	
@@ -1111,7 +1111,7 @@ helsinginpoliisivaro
 ittaayrityksiameneillaanolevastahuijauksesta38792	
 )	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 vähentää	
@@ -1154,8 +1154,8 @@ työpaikkaa
 ,	
 kuten	
 yhtiö	
-jo	
-heinäkuussa	
+jo	tim
+heinäkuussa	tim
 ennakoi	
 .	
 	
@@ -1196,11 +1196,11 @@ on
 suunniteltu	
 toteutettavaksi	
 asteittain	
-ensi	
-vuoden	
-kesäkuun	
-loppuun	
-mennessä	
+ensi	tim
+vuoden	tim
+kesäkuun	tim
+loppuun	tim
+mennessä	tim
 .	
 	
 <PARAGRAPH>	
@@ -1235,7 +1235,7 @@ siihen
 liittyvistä	
 toiminnoista	
 .	
-
+	
 <HEADLINE>	
 Pomonappi	
 pelasti	
@@ -1290,7 +1290,7 @@ nettiä
 <PARAGRAPH>	
 Tietokoneet	
 yleistyivät	
-80-luvulla	
+80-luvulla	tim
 niin	
 kotikäytössä	
 kuin	
@@ -1396,8 +1396,8 @@ Friendlyware-sovelluskokoelmassa	pro
 ,	
 joka	
 julkaistiin	
-vuonna	
-1982.	
+vuonna	tim
+1982.	tim
 Friendlyware	pro
 sisälsi	
 niin	
@@ -1636,7 +1636,7 @@ nimissä
 yksityistietojen	
 suojeluun	
 .	
-
+	
 <HEADLINE>	
 Terveiset	
 Norjasta	loc
@@ -1707,8 +1707,8 @@ GSMA	org
 :	org
 n	org
 johdossa	
-ensi	
-vuoteen	
+ensi	tim
+vuoteen	tim
 .	
 	
 <PARAGRAPH>	
@@ -1781,13 +1781,13 @@ matkapuhelinten
 valmistajaksi	
 Motorolan	org
 ohitse	
-vuonna	
-1998	
+vuonna	tim
+1998	tim
 .	
 	
 Apple	org
-vuonna	
-2007	
+vuonna	tim
+2007	tim
 julkistama	
 iPhone	pro
 oli	
@@ -1800,7 +1800,7 @@ Samsung	org
 otti	
 älypuhelinten	
 markkinajohtajuuden	
-2012	
+2012	tim
 ja	
 seuraavana	
 vuonna	
@@ -1810,7 +1810,7 @@ myytiin
 Microsoftille	org
 .	
 	
-Heinäkuussa	
+Heinäkuussa	tim
 Microsoft	org
 kirjasi	
 Nokian	org
@@ -1845,7 +1845,7 @@ Norjasta	loc
 Uutena	
 toimitusjohtajana	
 aloittaakin	
-maanantaina	
+maanantaina	tim
 tähän	
 asti	
 Aasian	loc
@@ -1854,7 +1854,7 @@ vetänyt
 Sigve	per
 Brekke	per
 .	
-
+	
 <HEADLINE>	
 Apple	org
 palkkasi	
@@ -1881,8 +1881,8 @@ Cook	per
 tarjoili	
 tuoreita	
 lukuja	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 rekrytoinneista	
 .	
 	
@@ -1894,9 +1894,9 @@ mukaan
 Apple	org
 palkkasi	
 viimeksi	
-kuluneen	
-12	
-kuukauden	
+kuluneen	tim
+12	tim
+kuukauden	tim
 aikana	
 yli	
 11	
@@ -1909,8 +1909,8 @@ mikä
 on	
 65	
 prosenttia	
-edeltävää	
-vuotta	
+edeltävää	tim
+vuotta	tim
 enemmän	
 .	
 	
@@ -1926,8 +1926,8 @@ työntekijää
 kasvua	
 50	
 prosenttia	
-edeltävästä	
-vuodesta	
+edeltävästä	tim
+vuodesta	tim
 .	
 	
 Taustaltaan	
@@ -1970,8 +1970,8 @@ aikana
 Tim	per
 Cook	per
 korosti	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 ,	
 että	
 hän	
@@ -2049,7 +2049,7 @@ Me
 näemme	
 molemmat	
 .	
-
+	
 <HEADLINE>	
 Hillary	per
 Clinton	per
@@ -2351,7 +2351,7 @@ ulkoministeriön	org
 virallisia	
 työkaluja	
 .	
-
+	
 <HEADLINE>	
 Oraclen	org
 johtaja	
@@ -2521,7 +2521,7 @@ linkin
 alkuperäiseen	
 sivuun	
 .	
-
+	
 <HEADLINE>	
 Rovio	org
 nosti	
@@ -2705,7 +2705,7 @@ Rovion	borg
 tiedotteen	
 pohjalta	
 .	
-
+	
 <HEADLINE>	
 Tästä	
 Snowden	per
@@ -2748,7 +2748,7 @@ täältä
 Saksan	loc
 Hannoverissa	bloc
 on	
-tänään	
+tänään	tim
 tarjolla	
 harvinaista	
 herkkua	
@@ -2785,12 +2785,12 @@ lähetyksenä
 	
 Lähetys	
 alkaa	
-kello	
-18	
-Suomen	
-aikaan	
+kello	tim
+18	tim
+Suomen	tim
+aikaan	tim
 .	
-
+	
 <HEADLINE>	
 Marshall-puhelin	pro
 suunniteltiin	
@@ -2836,14 +2836,14 @@ ilmestynyt
 myös	
 kuulokkeisiin	
 ja	
-elokuusta	
-alkaen	
+elokuusta	tim
+alkaen	tim
 myös	
 puhelimiin	
 .	
 	
-Viime	
-viikolla	
+Viime	tim
+viikolla	tim
 Lontoossa	loc
 julkistettua	
 Marshall	pro
@@ -3099,9 +3099,9 @@ otti
 yhteyttä	
 Creoirin	org
 väkeen	
-noin	
-vuosi	
-sitten	
+noin	tim
+vuosi	tim
+sitten	tim
 .	
 	
 Toimeksiantona	
@@ -3347,8 +3347,8 @@ puhelinta
 joka	
 tuli	
 markkinoille	
-vuonna	
-2007.	
+vuonna	tim
+2007.	tim
 	
 <PARAGRAPH>	
 –	
@@ -3408,8 +3408,8 @@ taustan
 takia	
 puhelin	
 tulee	
-syyskuun	
-alkupuolella	
+syyskuun	tim
+alkupuolella	tim
 myyntiin	
 myös	
 Suomessa	loc
@@ -3423,7 +3423,7 @@ saa
 Marshallin	org
 verkkokaupasta	
 .	
-
+	
 <HEADLINE>	
 Hallitus	
 kaivoi	
@@ -3476,7 +3476,7 @@ eurolla
 <PARAGRAPH>	
 Microsoft	org
 vahvisti	
-elokuussa	
+elokuussa	tim
 vähentävänsä	
 2	
 300	
@@ -3492,8 +3492,8 @@ toimipisteensä
 <PARAGRAPH>	
 Valtiovarainministeriö	org
 esittää	
-vuoden	
-2015	
+vuoden	tim
+2015	tim
 kolmannessa	
 lisätalousarviossa	
 lisämäärärahaa	
@@ -3701,19 +3701,19 @@ on
 tarkoitus	
 antaa	
 eduskunnalle	
-17.	
-syyskuussa	
+17.	tim
+syyskuussa	tim
 .	
 	
 Budjettiriihi	
 on	
-syyskuun	
-9.	
-ja	
-10.	
-päivä	
+syyskuun	tim
+9.	tim
+ja	tim
+10.	tim
+päivä	tim
 .	
-
+	
 <HEADLINE>	
 Nokia	org
 kehittää	
@@ -3754,9 +3754,9 @@ alalla
 ,	
 selviää	
 yhtiön	
-reilu	
-viikko	
-sitten	
+reilu	tim
+viikko	tim
+sitten	tim
 julkistamista	
 työpaikkailmoituksista	
 .	
@@ -3972,8 +3972,8 @@ kuntoilutekniikassa
 	
 Yhtiö	
 julkaisi	
-vuonna	
-2004	
+vuonna	tim
+2004	tim
 Sports	pro
 Tracker	pro
 -sovelluksen	pro
@@ -3996,8 +3996,8 @@ avulla
 Yhtiö	
 lopetti	
 palvelun	
-vuonna	
-2010	
+vuonna	tim
+2010	tim
 ,	
 mutta	
 sen	
@@ -4014,10 +4014,10 @@ Amer	org
 Sports	org
 osti	
 yhtiön	
-toukokuun	
-alussa	
+toukokuun	tim
+alussa	tim
 .	
-
+	
 <HEADLINE>	
 Groovesharkista	pro
 muistettu	
@@ -4065,7 +4065,7 @@ menehtyneenä
 sängystä	
 Gainesvillessä	loc
 Floridassa	bloc
-sunnuntaina	
+sunnuntaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -4114,7 +4114,7 @@ jonka
 oikeus	
 pakotti	
 kiinni	
-keväällä	
+keväällä	tim
 vuosikausien	
 taistelun	
 jälkeen	
@@ -4130,7 +4130,7 @@ helpottunut
 kuin	
 masentunut	
 .	
-
+	
 <HEADLINE>	
 Nokia	org
 pisti	
@@ -4171,8 +4171,8 @@ neljännesvuosituloksensa
 <PARAGRAPH>	
 Yhtiö	
 teki	
-kesäkuun	
-lopussa	
+kesäkuun	tim
+lopussa	tim
 päättyneellä	
 vuosineljänneksellä	
 3,2	
@@ -4245,9 +4245,9 @@ kuluja
 <PARAGRAPH>	
 Microsoft	org
 kertoi	
-kaksi	
-viikkoa	
-sitten	
+kaksi	tim
+viikkoa	tim
+sitten	tim
 vähentävänsä	
 puhelinliiketoiminnastaan	
 ja	
@@ -4265,7 +4265,7 @@ Suomesta	loc
 	
 <PARAGRAPH>	
 Jos	
-Nokia-kaupan	
+Nokia-kaupan	misc
 alaskirjaus	
 ja	
 irtisanomisiin	
@@ -4276,7 +4276,7 @@ huomioimatta
 ,	
 yhtiön	
 tulos	
-huhti–kesäkuussa	
+huhti–kesäkuussa	tim
 oli	
 0,62	
 dollaria	
@@ -4357,10 +4357,10 @@ mukaan
 Windows	pro
 10	pro
 julkaistaan	
-heinäkuun	
-lopussa	
+heinäkuun	tim
+lopussa	tim
 .	
-
+	
 <HEADLINE>	
 MTV	pro
 :	
@@ -4381,8 +4381,8 @@ tutkinta
 Nokian	org
 kiristyksestä	
 on	
-tällä	
-hetkellä	
+tällä	tim
+hetkellä	tim
 keskeytetty	
 .	
 	
@@ -4406,15 +4406,15 @@ Uutiset	org
 	
 MTV	org
 kertoi	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 ,	
 että	
 Nokia	org
 maksoi	
-vuosien	
-2007-2008	
-tienoilla	
+vuosien	tim
+2007-2008	tim
+tienoilla	tim
 useita	
 miljoonia	
 euroja	
@@ -4439,8 +4439,8 @@ MTV:lle	org
 että	
 tutkinta	
 on	
-tällä	
-hetkellä	
+tällä	tim
+hetkellä	tim
 keskeytetty	
 .	
 	
@@ -4529,7 +4529,7 @@ kiristäjän
 vaatimuksesta	
 hyväntekeväisyyteen	
 .	
-
+	
 <HEADLINE>	
 Toshibaa	org
 pyöritetään	
@@ -4559,7 +4559,7 @@ talousskandaalista
 <PARAGRAPH>	
 Toshiba	org
 kertoi	
-tiistaina	
+tiistaina	tim
 ,	
 että	
 sen	
@@ -4574,7 +4574,7 @@ Syynä
 on	
 sisäisen	
 tutkinnan	
-tiistaina	
+tiistaina	tim
 julkistettu	
 tulos	
 ,	
@@ -4676,7 +4676,7 @@ sakkoja
 väärästä	
 kirjanpidosta	
 .	
-
+	
 <HEADLINE>	
 Toshiban	org
 taloussekoilu	
@@ -4701,7 +4701,7 @@ vääristelystä
 ,	
 Nikkei-lehti	org
 uutisoi	
-lauantaina	
+lauantaina	tim
 .	
 	
 <BODY>	
@@ -4731,7 +4731,7 @@ Tämä
 voi	
 tapahtua	
 jo	
-syyskuussa	
+syyskuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -4756,8 +4756,8 @@ saa
 omat	
 johtopäätöksensä	
 valmiiksi	
-nyt	
-maanantaina	
+nyt	tim
+maanantaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -4797,7 +4797,7 @@ ennen
 mahdollisia	
 rangaistuksia	
 .	
-
+	
 <HEADLINE>	
 Riita	
 laukkujen	
@@ -4844,7 +4844,7 @@ poistumista
 .	
 	
 <PARAGRAPH>	
-Torstaina	
+Torstaina	tim
 tuomari	tit
 William	per
 Alsup	per
@@ -4863,8 +4863,8 @@ kertoo
 .	
 	
 <PARAGRAPH>	
-Vuonna	
-2013	
+Vuonna	tim
+2013	tim
 nostetussa	
 kanteessa	
 vaaditaan	
@@ -4924,8 +4924,8 @@ työntekijää
 .	
 	
 <PARAGRAPH>	
-Aiemmin	
-kesällä	
+Aiemmin	tim
+kesällä	tim
 kävi	
 ilmi	
 ,	
@@ -4943,7 +4943,7 @@ pääjohtajalle	tit
 Tim	per
 Cookille	per
 .	
-
+	
 <HEADLINE>	
 Toshibasta	org
 paljastui	
@@ -4981,7 +4981,7 @@ Reuters	org
 joka	
 kuuli	
 asiasta	
-Toshiba-tutkinnassa	
+Toshiba-tutkinnassa	misc
 mukana	
 olevalta	
 henkilöltä	
@@ -5024,9 +5024,9 @@ yrityskulttuuria
 .	
 	
 <PARAGRAPH>	
-Aiemmin	
-tällä	
-viikolla	
+Aiemmin	tim
+tällä	tim
+viikolla	tim
 kerrottiin	
 ,	
 että	
@@ -5069,8 +5069,8 @@ jonka
 ongelmat	
 tuotiin	
 julki	
-vuonna	
-2011.	
+vuonna	tim
+2011.	tim
 Toshibassa	org
 skandaali	
 on	
@@ -5092,11 +5092,11 @@ väittävät
 <PARAGRAPH>	
 Toshiba	org
 sanoi	
-perjantaina	
+perjantaina	tim
 saavansa	
 tutkintapaneelin	
 raportin	
-maanantaina	
+maanantaina	tim
 .	
 	
 Yhtiö	
@@ -5110,7 +5110,7 @@ kun
 sotku	
 alkoi	
 purkautua	
-huhtikuussa	
+huhtikuussa	tim
 .	
 	
 Toshiba	org
@@ -5118,9 +5118,9 @@ lupaa
 kertoa	
 tutkinnan	
 tuloksista	
-tiistaina	
+tiistaina	tim
 .	
-
+	
 <HEADLINE>	
 Penkkihakkerin	
 jälkeen	
@@ -5165,7 +5165,7 @@ haavoittuvuuksista
 Se	
 kertoi	
 käytännöstään	
-toukokuussa	
+toukokuussa	tim
 ja	
 nyt	
 se	
@@ -5217,7 +5217,7 @@ haltuunoton
 <PARAGRAPH>	
 Päätös	
 seuraa	
-huhtikuista	
+huhtikuista	tim
 tapausta	
 ,	
 missä	
@@ -5254,7 +5254,7 @@ hallita
 koneen	
 järjestelmiä	
 .	
-
+	
 <HEADLINE>	
 Lisää	
 draamaa	
@@ -5429,7 +5429,7 @@ pitäisi
 olla	
 .	
 	
-Ellen	
+Ellen	per
 Paon	per
 kaudella	
 moni	
@@ -5502,7 +5502,7 @@ yhteisön
 raivon	
 liekkeihin	
 .	
-
+	
 <HEADLINE>	
 Kauniit	
 kasvot	
@@ -5691,7 +5691,7 @@ yhdysvaltalaisessa
 puolustusalan	
 yrityksessä	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 katseenvangitsija	
@@ -5730,11 +5730,11 @@ omien
 sanojen	
 mukaan	
 alkaa	
-1.	
-syyskuuta	
+1.	tim
+syyskuuta	tim
 ,	
 mutta	
-nyt	
+nyt	tim
 julkaisua	
 siirretään	
 .	
@@ -5756,8 +5756,8 @@ varustettuna
 ja	
 ennakkomyynti	
 alkoi	
-heinäkuun	
-alussa	
+heinäkuun	tim
+alussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -5805,8 +5805,8 @@ menestymään
 Emme	
 aloita	
 toimituksia	
-1.	
-syyskuuta	
+1.	tim
+syyskuuta	tim
 ,	
 Microsoft	tit
 Surface	tit
@@ -5814,7 +5814,7 @@ Surface	tit
 Brian	per
 Hall	per
 kirjoitti	
-maanantaina	
+maanantaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -5828,8 +5828,8 @@ mutta
 lupasi	
 lisää	
 tietoa	
-elokuun	
-alkupuolella	
+elokuun	tim
+alkupuolella	tim
 .	
 	
 Ennakkotilauksia	
@@ -5838,7 +5838,7 @@ kuitenkin
 edelleen	
 vastaan	
 .	
-
+	
 <HEADLINE>	
 Syyte	
 :	
@@ -5922,7 +5922,7 @@ kuuden
 vuoden	
 vankeus	
 .	
-
+	
 <HEADLINE>	
 Kaamean	
 tietomurron	
@@ -5950,8 +5950,8 @@ kanteensa
 ,	
 joka	
 syntyi	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 vakavasta	
 tietomurrosta	
 .	
@@ -5979,9 +5979,9 @@ valtavasti
 firman	
 sisäistä	
 dataa	
-viime	
-vuoden	
-lopulla	
+viime	tim
+vuoden	tim
+lopulla	tim
 .	
 	
 <PARAGRAPH>	
@@ -6021,7 +6021,7 @@ vuoksi
 .	
 	
 <PARAGRAPH>	
-Kesäkuussa	
+Kesäkuussa	tim
 tuomari	
 oli	
 torjunut	
@@ -6080,7 +6080,7 @@ sen
 lopulta	
 teattereihin	
 .	
-
+	
 <HEADLINE>	
 Verkon	
 huumekaupalla	
@@ -6120,8 +6120,8 @@ toimineen
 Silk	pro
 Road	pro
 -kauppapaikan	pro
-vuonna	
-2013	
+vuonna	tim
+2013	tim
 ,	
 mutta	
 sen	
@@ -6156,9 +6156,9 @@ edestä
 bitcoineja	
 tililleen	
 kesken	
-Silk	
-Road	
--tutkinnan	
+Silk	misc
+Road	misc
+-tutkinnan	misc
 .	
 	
 Uutistoimisto	
@@ -6201,9 +6201,9 @@ tappamisekseen
 .	
 	
 <PARAGRAPH>	
-Kaksi	
-kuukautta	
-sitten	
+Kaksi	tim
+kuukautta	tim
+sitten	tim
 toinen	
 agentti	
 Yhdysvaltain	loc
@@ -6224,7 +6224,7 @@ yhteydessä
 Ross	per
 Ulbricht	per
 tuomittiin	
-toukokuussa	
+toukokuussa	tim
 elinkautiseen	
 vankeuteen	
 muun	
@@ -6256,7 +6256,7 @@ varmasti
 mieluista	
 kuultavaa	
 .	
-
+	
 <HEADLINE>	
 Minecraft-miljardööri	misc
 tilittää	
@@ -6278,7 +6278,7 @@ julkaisi
 sarjan	
 levottomia	
 tviittejä	
-viikonloppuna	
+viikonloppuna	tim
 .	
 	
 <BODY>	
@@ -6292,7 +6292,7 @@ avoimesti
 ajatuksiaan	
 useissa	
 Twitter-viesteissä	misc
-lauantaina	
+lauantaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -6333,8 +6333,8 @@ Mojangin	org
 1,9	
 miljardilla	
 eurolla	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 .	
 	
 Persson	per
@@ -6459,15 +6459,15 @@ menevät
 ohitse	
 .	
 	
-Lauantain	
-jälkeen	
+Lauantain	tim
+jälkeen	tim
 hänen	
 Twitter-viestinsä	misc
 ovat	
 olleet	
 iloisempia	
 ja	
-maanantaina	
+maanantaina	tim
 hän	
 korosti	
 viettävänsä	
