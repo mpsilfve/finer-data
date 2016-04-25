@@ -1,4 +1,4 @@
-
+	
 <HEADLINE>	
 Lennokki	
 sotki	
@@ -64,8 +64,8 @@ Tapaus
 sattui	
 Los	loc
 Angelesissa	loc
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 .	
 	
 Kaupungin	
@@ -179,7 +179,7 @@ vahingossa
 kopterin	
 tielle	
 .	
-
+	
 <HEADLINE>	
 Amerikkalaisilla	
 verkko-ongelmia	
@@ -332,7 +332,7 @@ tai
 toimimattomista	
 solmukohdista	
 .	
-
+	
 <HEADLINE>	
 Yhä	
 näitä	
@@ -397,14 +397,14 @@ kamera
 sekä	
 radio	
 ja	
-mp3-soitin	pro
+mp3-soitin	misc
 .	
 	
 <PARAGRAPH>	
 Puhelimet	
 tulevat	
 markkinoille	
-syyskuussa	
+syyskuussa	tim
 ja	
 niiden	
 verottomaksi	
@@ -413,7 +413,7 @@ arvioidaan
 37	
 dollaria	
 .	
-
+	
 <HEADLINE>	
 Video	
 :	
@@ -466,7 +466,7 @@ kysymys
 <PARAGRAPH>	
 Sony	org
 kertoi	
-heinäkuussa	
+heinäkuussa	tim
 yhdessä	
 ZMP	org
 :	org
@@ -560,7 +560,7 @@ lennokkeja
 eri	
 tarkoituksiin	
 .	
-
+	
 <HEADLINE>	
 Tätä	
 et	
@@ -737,7 +737,7 @@ jalansija
 pikkulaitteiden	
 verkossa	
 .	
-
+	
 <HEADLINE>	
 115	
 miljoonaa	
@@ -768,7 +768,7 @@ lasketa
 Kuitenkin	
 niitä	
 myytiin	
-huhti—kesäkuussa	
+huhti—kesäkuussa	tim
 yli	
 115	
 miljoonaa	
@@ -780,8 +780,8 @@ Analytiikkatalo
 Gartnerin	org
 luvut	
 kuluttajille	
-toisella	
-vuosineljänneksellä	
+toisella	tim
+vuosineljänneksellä	tim
 myydyistä	
 kännyköistä	
 vahvistavat	
@@ -872,7 +872,7 @@ prosenttiyksikköä
 <PARAGRAPH>	
 Microsoftin	org
 menetys	
-edellisvuodesta	
+edellisvuodesta	tim
 oli	
 3,7	
 prosenttiyksikköä	
@@ -921,7 +921,7 @@ hidastuvaa
 vauhtia	
 .	
 	
-Huhti–kesäkuussa	
+Huhti–kesäkuussa	tim
 myytiin	
 330	
 miljoonaa	
@@ -1121,8 +1121,8 @@ Lähde
 :	
 Gartner	org
 ,	
-elok	
-2015	
+elok	tim
+2015	tim
 Älypuhelinten	
 myynti	
 jatkui	
@@ -1271,9 +1271,9 @@ Lähde
 :	
 Gartner	org
 ,	
-elok	
-2015	
-
+elok	tim
+2015	tim
+	
 <HEADLINE>	
 Ovatko	
 Xbox	pro
@@ -1308,9 +1308,9 @@ Times	org
 <PARAGRAPH>	
 Apple	org
 järjestää	
-ylihuomenna	
-9.	
-syyskuuta	
+ylihuomenna	tim
+9.	tim
+syyskuuta	tim
 julkistustilaisuuden	
 ,	
 jossa	
@@ -1516,7 +1516,7 @@ toimii
 myös	
 pelikoneena	
 .	
-
+	
 <HEADLINE>	
 Apple	org
 löysi	
@@ -1557,13 +1557,13 @@ Plus	pro
 ,	
 jotka	
 myytiin	
-syyskuun	
-2014	
-ja	
-tammikuun	
-2015	
-välisenä	
-aikana	
+syyskuun	tim
+2014	tim
+ja	tim
+tammikuun	tim
+2015	tim
+välisenä	tim
+aikana	tim
 .	
 	
 <PARAGRAPH>	
@@ -1638,7 +1638,7 @@ iTunesiin	pro
 tai	
 iCloudiin	pro
 .	
-
+	
 <HEADLINE>	
 Halvalla	
 hyvää	
@@ -1669,8 +1669,8 @@ onko
 halpa	
 hyvää	
 vielä	
-ensi	
-vuonnakin	
+ensi	tim
+vuonnakin	tim
 ?	
 	
 <BODY>	
@@ -1952,8 +1952,8 @@ Mutta
 riittääkö	
 se	
 myös	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 ?	
 	
 Siitä	
@@ -2374,8 +2374,8 @@ kuinka
 vahvasti	
 T1	pro
 porskuttaa	
-vuonna	
-2018.	
+vuonna	tim
+2018.	tim
 Halpa	
 hinta	
 saattaa	
@@ -2484,7 +2484,7 @@ myös
 mikro-sim	
 )	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 kurimus	
@@ -2526,7 +2526,7 @@ markkinoiden
 selvänä	
 ykkösenä	
 toimittaen	
-huhti–kesäkuussa	
+huhti–kesäkuussa	tim
 89	
 miljoonaa	
 puhelinta	
@@ -2563,8 +2563,8 @@ seuraavilla
 sijoilla	
 .	
 	
-Vuosi	
-sitten	
+Vuosi	tim
+sitten	tim
 Microsoft	org
 nautti	
 markkinakakkosen	
@@ -2650,9 +2650,9 @@ Windows	pro
 10	pro
 -mallien	pro
 julkaisua	
-myöhemmin	
-tänä	
-vuonna	
+myöhemmin	tim
+tänä	tim
+vuonna	tim
 ,	
 tiivistää	
 SA	org
@@ -2687,11 +2687,11 @@ SA	org
 kuvaa	
 surkeaksi	
 verrattuna	
-vuodentakaiseen	
+vuodentakaiseen	tim
 7	
 prosenttiin	
 .	
-
+	
 <HEADLINE>	
 IPhone-omistajat	misc
 pääsevät	
@@ -2866,8 +2866,8 @@ Samsungin	org
 talous	
 on	
 ajautunut	
-viime	
-aikoina	
+viime	tim
+aikoina	tim
 heikompaan	
 happeen	
 .	
@@ -2877,13 +2877,13 @@ Applelta	org
 odotetaan	
 uusia	
 iPhoneja	pro
-syyskuussa	
+syyskuussa	tim
 .	
 	
 Samsung	org
 yritti	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 viedä	
 edes	
 osan	
@@ -2895,9 +2895,9 @@ lippulaivamallinsa
 tavallista	
 aikaisemmin	
 jo	
-elokuussa	
+elokuussa	tim
 .	
-
+	
 <HEADLINE>	
 Microsoftilta	org
 tulossa	
@@ -2916,7 +2916,7 @@ julkaista
 tukun	
 uusia	
 tuotteita	
-lokakuussa	
+lokakuussa	tim
 ja	
 aikoo	
 järjestää	
@@ -2951,7 +2951,7 @@ uutisoinut
 Microsoftin	org
 kaavailevan	
 tuotejulkaisua	
-lokakuussa	
+lokakuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -3053,7 +3053,7 @@ siirtämään
 kuukausilla	
 eteenpäin	
 .	
-
+	
 <HEADLINE>	
 Android-kello	pro
 sai	
@@ -3073,7 +3073,7 @@ käyttöjärjestelmä
 Android	pro
 Wear	pro
 sai	
-torstaina	
+torstaina	tim
 uudistuksen	
 ,	
 joka	
@@ -3181,7 +3181,7 @@ kaikkiin
 Android	pro
 Wear	pro
 -kelloihin	pro
-lähiviikkoina	
+lähiviikkoina	tim
 .	
 	
 <PARAGRAPH>	
@@ -3192,7 +3192,7 @@ esittelevä
 Youtube-video	misc
 alta	
 .	
-
+	
 <HEADLINE>	
 Apple	pro
 Watch	pro
@@ -3229,9 +3229,9 @@ hyllylle
 	
 <BODY>	
 <PARAGRAPH>	
-Neljä	
-kuukautta	
-sitten	
+Neljä	tim
+kuukautta	tim
+sitten	tim
 Apple	org
 alkoi	
 esitellä	
@@ -3370,7 +3370,7 @@ Apple	pro
 Watch	pro
 Edition	pro
 .	
-
+	
 <HEADLINE>	
 Testissä	
 huippuläppäri	
