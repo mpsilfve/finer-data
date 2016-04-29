@@ -82,8 +82,8 @@
 
 \begin{document}
 
-\title{FinnPos: An Open-Source Morphological Tagging and Lemmatization Toolkit for Finnish}
-\author{Miikka Silfverberg \and Teemu Ruokolainen \and Krister Lind\'en \and Mikko Kurimo}
+\title{Building Statistical Named Entity Recognition Resources for Finnish}
+\author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
 
 
 
@@ -91,437 +91,36 @@
 
 
 \begin{abstract}
-\noindent This paper describes FinnPos, an open-source morphological tagging and lemmatization toolkit for Finnish. % The toolkit is readily applicable for tagging and lemmatization of running text with trained models. % while enabling estimation of new models from manually annotated training data.
-The morphological tagging model is based on the conditional random field framework. Given training data, new taggers are estimated in a computationally efficient manner using approximative structured perceptron learning. The lemmatization is performed employing a combination of a rule-based morphological analyzer, OMorFi, and a data-driven lemmatization model. % We evaluate the toolkit on the recently published Finnish Turku Dependency Treebank and Finn Treebank. % The evaluation shows that the toolkit performs favorably to well-established reference toolkits, namely, HunPos, Morfette, and MarMot, in terms of tagging accuracy and computational cost of learning. 
-% Furthremore, the toolkit implements a novel technique for improving CRF model accuracy when the POS labels have a rich inner structure. 
-The toolkit is readily applicable for tagging and lemmatization of running text with models learned from the recently published Finnish Turku Dependency Treebank and Finn Treebank.  Empirical evaluation on these corpora shows that the proposed system performs favorably compared to reference systems in terms of tagging and lemmatization accuracy. In addition, we demonstrate that our system is highly competitive with regard to computational efficiency of learning new models and assigning analyses to novel sentences.
+\noindent 
 
 \end{abstract}
 
 \section{Introduction}
 \label{sec: introduction}
 
-This paper presents FinnPos, an open-source morphological tagging and lemmatization toolkit for Finnish. Our work stems from the recently published Turku Dependency Treebank \citep{haverinen2009,haverinen2013} and FinnTreebank \citep{voutilainen2011}, both of which contain a manually prepared morphology and lemma annotation for word tokens. These data sets are the first treebanks published for Finnish and are freely available for research purposes. Thus, for the first time, it has become possible to study statistical learning of morphological annotation specifically for Finnish. % design statistical morphological annotation toolkits specifically for Finnish and learn them from manually prepared data. 
-
-% This paper presents our recent work on developing open-source syntactic processing toolkits for Finnish. Our work stems from the recently published Finnish treebanks, namely, the Turku Dependency Treebank \cite{haverinen2013} and Finn Treebank \cite{}. Both corpora contain a manually prepared part-of-speech (POS) annotation for word tokens. These data sets are the first treebanks published for Finnish and are freely available for research purposes. Thus, for the first time, it has become possible to design statistical POS taggers specifically for Finnish and learn them from high-quality annotation. 
-
-% We describe FinnPos, an open-source part-of-speech (POS) tagging toolkit for Finnish. Our work stems from the recently published Finnish treebanks, namely, the Turku Dependency Treebank \cite{haverinen2013} and Finn Treebank \cite{}. These corpora are the first treebanks published for Finnish and are freely available for research purposes. % Meanwhile, a great majority of syntactic language processing toolkits for Finnish are commercial. 
-
-The morphological tagging component of the FinnPos system is based on the well-known conditional random field (CRF) model \citep{lafferty2001}. The CRF model parameters are estimated using approximative structured perceptron learning \citep{huang2012}.  
-The approximative learning is necessary since exact model estimation is infeasible given the vast number of morphological labels present in the data.
-Meanwhile, the lemmatization is performed using OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}. In order to lemmatize word forms unknown to OMorFi, FinnPos implements a statistical lemmatization model which learns to perform lemmatization for any given word form in a data-driven manner.
-
-% The CRFs have been successfully applied to POS tagging on a wide variety of languages, including English \cite{}, Bengali \cite{}, and Swedish \cite{}. 
-% The main advantage of the CRF model is its capability to exploit rich, overlapping feature sets which we show are instrumental for gaining substantial improvements in tagging accuracy for Finnish. 
-% Meanwhile, the approximative learning algorithms provide efficient and well-performing means of estimating the CRF model parameters based on the available training data. The approximation approaches are necessary since exact model estimation is infeasible given the vast number of morphological labels present in the data.
-%Meanwhile, the perceptron algorithm provides an efficient and well-performing means of estimating the CRF model parameters based on the available training data. 
-
-Earlier work on morphological analysis of Finnish has employed rule-based methodology, exemplified by the Constraint Grammar approach of \citet{karlsson1990}.  
-However, due to the recentness of the corpora applicable for learning, there exists little work on statistical morphological tagging of Finnish. An exception is the work of \citet{silfverberg2011} who investigated a finite state machine implementation of the classic hidden Markov model tagging approach of \citet{brants2000}. However, their work has two substantial shortcomings. % First, in contrast to CRFs, the HMM framework is incapable of utilizing the versatile feature sets required for high accuracy. % which we show are instrumental for gaining substantial improvements in accuracy. 
-First, their work considers merely morphological tagging while ignoring lemmatization.
-Second, due to lack of proper training data, \citet{silfverberg2011} learned and evaluated their model using newspaper texts with an annotation provided by a commercial morphological tagging toolkit. This setting is problematic since the evaluation essentially measures the ability of the model to learn the errors of the commercial tagger. Meanwhile, in this work, we are able to study learning from manually annotated data.   
-
-% We compare FinnPos with two recently published POS tagging toolkits, namely, Stagger \citep{ostling2012} and MarMot \citep{muller2013}. 
-
-The main contributions of this work are as follows. First, we present the first morphological tagging and lemmatization toolkit designed specifically for Finnish. The presented toolkit, FinnPos, is provided as an open-source implementation. 
-Second, we compare the FinnPos system to three established morphological analysis toolkits, namely, HunPos \citep{halacsy2007}, Morfette \citep{chrupala2008}, and MarMot \citep{muller2013}. The performed empirical evaluation shows that FinnPos performs favorably to the reference systems in terms of tagging and lemmatization accuracy, as well as computational efficiency of learning new models and assigning analyses to novel sentences.
-
-% Second, we compare the FinnPos system empirically with three established POS tagging toolkits, namely, HunPos \citep{halacsy2007}, Stagger \citep{ostling2012} and MarMot \citep{muller2013}. % In the evaluation, the systems are compared from multiple respects, including the choice of learning algorithm, means of exploiting morphological analyzers, and morphological feature extraction. 
-% The performed empirical evaluation shows that FinnPos outperforms the reference systems with respect to tagging accuracy. 
-% \fixme{In addition, we study the effect of improved POS tagging accuracy on the depedency parsing pipeline for Finnish \citep{haverinen2013}.} 
-
-The rest of the paper is organized as follows. In Section \ref{sec: treebanks}, we describe the treebanks employed for training and evaluation of the FinnPos system. The methods implemented by the FinnPos system are discussed in Section \ref{sec: methods}. In Section \ref{sec: experiments}, we present the empirical evaluation. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}. 
 
 
 
 
-\section{Treebanks}
-\label{sec: treebanks}
+\section{Data}
+\label{sec: data}
 
-This section describes the treebanks employed for training and evaluation of the FinnPos system. 
-\paragraph{Turku Dependency Treebank.}
- 
-The Turku Dependency Treebank (TDT) \citep{haverinen2009,haverinen2013} contains text from ten varying domains, such as Wikipedia articles, blog entries, and financial news. 
-%The domains and the respective section sizes are presented in Table \ref{tab: TDT}. 
-%In addition, the treebank contains a publicly non-available test set of 1,554 sentences (21,211 tokens) for evaluation purposes.
-The morphological analyses of word tokens are post-processed outputs of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}. % The post-processing steps reported by \citet[Section 5.2]{haverinen2013} comprise x, y, and z.  
-The resulting TDT annotation for each word token consists of word lemma (base form), part-of-speech (POS), and a list of detailed morphological information, including case, number, tense, and so forth. Table \ref{tab: tdt omorfi} shows the analysis of an exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a} (\emph{(S)he doesn't live in a small village}). We refer to the combination of the POS and the more specific tags as the \emph{morphological label}. % In this work, we design a annotation system which predicts these full analyses for each word token. % In this work, we study learning the fine-grained compound labels, in which the main POS class and the list of more specific information tags are modeled jointly as single entities. Since we are utilizing the OMorfi tool during decoding, we can also predict lemmas.
-% The total amount of compound labels (including POS and other labels) present in the corpus is xx. 
-
-\begin{table}[h!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{llll} 
-\hline
-\noalign{\smallskip}
-word form & lemma & POS & other tags \\
-\hline
-\noalign{\smallskip}
-H\"an & h\"an & Pronoun & pers sg nom up\\
-ei & ei & Verb & neg sg3 act \\
-asu  & asua & Verb & prs ind conneg \\
-pieness\"a   & pieni & Adjective & sg ine pos \\
-kyl\"ass\"a  & kyl\"a & Adverb & sg ine \\
-\end{tabular}
-\end{center}
-%\end{small}
-% \caption{A post-processed and disambiguated OMorFi analysis with Turku Dependency Treebank annotation for an exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a} adapted from \citet{haverinen2013}.}
-\caption{A disambiguated analysis for an exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a} using Turku Treebank annotation adapted from \citet{haverinen2013}.}
-\label{tab: tdt omorfi} 
-\end{table}
+\subsection{Text}
 
 
-%\subsection{FinnTreebank}
-\paragraph{Finn Treebank.}
-
-%The FinnTreebank (FTB) \citep{voutilainen2011} contains 19,121 sentences (162,028 word tokens) with texts from  domain. In addition, the corpus contains a spoken language section. 
-The FinnTreebank (FTB) \citep{voutilainen2011} is a morphologically tagged and dependency parsed collection of example sentences from Iso Suomen Kielioppi, a descriptive grammar of the Finnish language \citep{hakulinen2004}. It contains examples from various domains including newspapers and fiction. The corpus additionally contains a spoken language section. Both the morphological tagging and dependency structures have been manually verified.
- % The domains and the respective section sizes are presented in Table \ref{tab: TDT}. 
-% In addition, the treebank contains a publicly non-available test set of xx sentences (yy tokens) for evaluation purposes.
-Similarly to TDT, the morphological analyses of word tokens in FTB are post-processed outputs of OMorFi \citep{pirinen2008}. However, the post-processing steps applied in TDT and FTB differ resulting in somewhat different annotation schemes. % For the FTB analysis of the exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a}, see Table \ref{tab: tdt omorfi}. % The total amount of compound labels in FTB is xx. 
-Finally, for a summarizing presentation of TDT and FTB, see Table \ref{tab: tdt ftb}.
-
-\begin{table}[h!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{lll} 
-\hline
-\noalign{\smallskip}
- & TDT & FTB \\
-\hline
-\noalign{\smallskip}
-size & 13,572 sent. (183,118 tok.) & 19,121 sent. (162,028 tok.) \\
-\# labels & 2,014 & 1,399 \\
-OMorFi coverage & 94.2\% & 99.0\% \\
-\end{tabular}
-\end{center}
-%\end{small}
-% \caption{A post-processed and disambiguated OMorFi analysis with Turku Dependency Treebank annotation for an exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a} adapted from \citet{haverinen2013}.}
-\caption{Summary of Turku Dependency Treebank (TDT) \citep{haverinen2009,haverinen2013} and Finn Treebank (FTB) \citep{voutilainen2011}. The OMorFi coverage refers to coverage per token.}
-\label{tab: tdt ftb} 
-\end{table}
+\subsection{Named Entities}
 
 
-% The morphological analyses of word tokens in TDT are based on the output of OMorFi, an open source morphological analyzer for Finnish \citep{pirinen}.% Here, we provide an overview of the annotation process and the resulting annotation scheme of \citet{haverinen2013}. 
-% OMorFi performs the analysis without context-based disambiguation, that is, for each input word form, it outputs a list of all the possible morphological analyses. 
-% The OMorFi analysis for each word form consists of \emph{lemma} (basic form), \emph{main POS class}, and a \emph{list of detailed morphological information} including case, number, tense and so forth. However, the OMorfi and TDT annotations do not have a one-to-one mapping because the TDT scheme employs a post-processed version of the OMorFi output \citep[Section 5.2]{haverinen2013}. Table \ref{tab: omorfi} shows the TDT analysis of an exemplar sentence \emph{} (\emph{translation}). In this work, we study learning the fine-grained \emph{compound labels}, in which the main POS class and the list of more specific information tags are modeled jointly as single entities (the lemmas are discarded). 
- 
-% The tagging problem is equivalent to disambiguating the OMorFi output. However, OMorFi does not provide a 100\% lexical coverage. Out of all non-numeral and non-punctutation word tokens in the TDT text, 5.2\% were reported to be unknown to OMorFi by \citet{haverinen2013}. Consequently,  \citet{haverinen2013} tagged the unknown words either manually or using a set of rules. In our tagger, we replace the missing OMorFi outputs for these words with a simple orthography-based guesser estimated from the TDT itself.
+\subsection{Annotation Process}
 
-
-% Currently, there exists two open source morphological analyzers for Finnish, namely, the OMorFi \cite{pirinen} and Voikko \cite{}. Both of these tools perform the analysis without sentential context disambiguation, that is, both return a list of all possible morphological analyses for given word forms. In this work, our focus is on OMorFi which was the basis for morphological analysis in the recently published Turku Dependency Treebank. In addition, there exists several non-free, commercial morphological analyzers for Finnish, including. 
-	
-
-%\begin{table}[h!]
-%\begin{small}
-%\begin{center}
-%\begin{tabular}{lll} 
-%\hline
-%\noalign{\smallskip}
-% & TDT & FTB \\
-%\hline
-%\noalign{\smallskip}
-%training & 12,215 sent. (163,835 tok.) & 17,209 sent. (145,953 tok.)\\
-%test & 1,357 sent. (19,283 tok.) & 1,912 sent. (16,075 tok.)\\
-%\# labels & 2,014 (1,947 in training data) & 1,399 (1,362 in training data)\\
-%OMorFi coverage & 94.2\% & 99.0\% \\
-%\end{tabular}
-%\end{center}
-%\end{small}
-% \caption{A post-processed and disambiguated OMorFi analysis with Turku Dependency Treebank annotation for an exemplar sentence \emph{H\"an ei asu pieness\"a kyl\"ass\"a} adapted from \citet{haverinen2013}.}
-%\caption{Summary of Turku Dependency Treebank (TDT) \citep{haverinen2009,haverinen2013} and Finn Treebank (FTB) \citep{voutilainen2011}.}
-%\label{tab: tdt ftb} 
-%\end{table}
 
 
 
 
 % \section{A Part-of-Speech Tagger for Finnish}
-\section{Methods}
-\label{sec: methods}
+\section{Named Entity Recognizer}
+\label{sec: named entity recognizer}
 
-In the FinnPos system, we regard the morphological tagging and lemmatization tasks as two separate sub-problems. Given a sentence, each word form is assigned a morphological label by the morphological tagger based on the conditional random field (CRF) model \citep{lafferty2001}. Subsequent to assigning the morphological label, selecting the appropriate word lemma is, in principle, straightforward given the set of full analyses (morphological labels and lemmas) provided by the OMorFi analyzer. However, OMorFi does not have full vocabulary coverage, that is, for some word forms no analyses are returned. In these cases, a simple baseline solution would be to simply return the original word form as the lemma. However, a more appealing approach is to learn a lemmatization model in a data-driven manner and apply it to lemmatize the unknown word forms \citep{chrupala2008}. In what follows, we describe the applied CRF tagger and data-driven lemmatizer in Sections \ref{sec: crfs} and \ref{sec: lemmatizer}, respectively.
-
-% In this section, we describe the methods implemented by the FinnPos system.
-
-\subsection{Conditional Random Fields}
-\label{sec: crfs}
-
-In this section, we describe the morphological tagging component based on the conditional random field (CRF) model presented originally for sequence labeling by \citet{lafferty2001}. The issues covered include the model definition, feature extraction, model estimation from training data, and decoding.
-
-\subsubsection{Model Definition}
-
-% In what follows, a vector dot product between vectors $\boldsymbol{a}$ and $\boldsymbol{b}$ is denoted as $\boldsymbol{a} \cdot \boldsymbol{b}$.
-The CRF model \citep{lafferty2001} for a sentence $x = (x_1, \dots, x_{|x|})$ and a morphological label sequence $y = (y_1, \dots, y_{|x|})$ is defined as a conditional probability
-%
-\begin{eqnarray}
-p\,({y} \, | \, x; \boldsymbol{w}) & \propto & \prod_{i=n}^{|x|} \exp\Big( \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \Big) \, ,						
-\label{eq: crf}
-\end{eqnarray}
-%
-where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
-
-%
-%\begin{eqnarray}
-%p\,({y} \, | \, x; \boldsymbol{w}) & \propto & \exp \Big( \boldsymbol{w} \cdot \boldsymbol{\phi}(x,y) \Big) \\
-%						& = & \prod_{i=n}^{|x|} \exp\Big( \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \Big) \, ,
-%\label{eq: crf}
-%\end{eqnarray}
-%
-%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, $\boldsymbol{\phi}$ the global feature extraction function, and $\boldsymbol{\phi}$ the local feature extraction function. % The model parameters $\boldsymbol{\phi}$ are estimated using iterative optimization algorithms described in detail in Section \ref{sec: estimation}). % The CRF model (\ref{eq: crf}) corresponds to a discriminatively trained hidden Markov model (HMM) written as a joint distribution
-%
-%\begin{equation}
-%p(y,x) = \prod_{i=n+1}^{|x|} p(x_i|y_i) p(y_i|y_{i-1}) \dots p(y_i|y_{i-n}, \dots, y_{i-1}) \, .
-%\label{eq: hmm}
-%\end{equation}
-%
-%The individual distributions $p(x_i|y_i)$ and $p(y_i|y_{i-1})$, \dots, $p(y_i|y_{i-n}, \dots, y_{i-1})$ in (\ref{eq: hmm}) are learned from training data using (smoothed) maximum likelihood estimates.
-
-%Due to the applied discriminative learning, the CRFs can naturally incorporate overlapping, interdependent features, in contrast to the HMMs. Additionally, CRFs avoid the label bias problem inherent to the HMM approach \citep{lafferty2001}. As a downside, due to the applied iterative algorithms, estimation of CRFs is computationally much more expensive compared to HMMs. As for the reference tagging systems considered in this study, the Stagger \citep{ostling2012} and MarMot \citep{muller2013} toolkits utilize the CRF framework, whereas the HunPos toolkit \citep{halacsy2007} is based on the HMMs.  
-
-
-\subsubsection{Feature Extraction}
-\label{sec: feature extraction}
-
-The appeal of the CRF model (\ref{eq: crf}) lies in its capability of utilizing rich, overlapping feature sets. The individual features correspond to the elements feature vector of $\boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i)$. In the FinnPos system, the feature extraction scheme follows the \emph{node-observation} presentation of \cite{sutton2011}, in which each label position is associated with  a set of features describing the input. Specifically, we follow the classic work of \citet{ratnaparkhi1996} on morphological tagging and include the following input feature set:
-%
-\begin{itemize}
-\item[1.] Bias (always active irrespective of input).
-\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
-\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
-\item[4.] If the word form $x_i$ contains (one or more) capital letter, hyphen, dash, or digit.
-\end{itemize}
-%
-% Binary functions have a return value of either zero (inactive) or one (active). 
-In addition, we use the following binary functions:
-\begin{itemize}
-\item[5.] The lower-cased word form $x_{i}$.
-\item[6.] The word pairs $(x_{i-1}, x_i)$ and $(x_i, x_{i+1})$.
-\end{itemize}
-When using a morphological analyzer, we also include:
-\begin{itemize}
-\item[7.] Each morphological label of word $x_i$.
-\end{itemize}
-%
-
-In addition, the node-observation scheme utilizes label transition features to capture the fact that some label transitions occur more often than others. For example, the Finnish word {\it asu} could occur with a noun ({\it clothing}) or verb (a negative or imperative form of {\it to live}) label. In the example in Table \ref{tab: tdt omorfi}, it is, however, preceded by a negator ({\it ei}). Therefore, in this context, {\it asu} is more likely to be a verb rather than a noun since in Finnish negators seldom precede nouns and {\it asu}.
-
-The above features treat the morphological labels as single entities. However, they overlook some beneficial dependency information given the rich inner structure of the TDT and FTB labels discussed in Section \ref{sec: treebanks}. Therefore, we follow \citet{silfverberg2014} and utilize an expanded feature set which aims to capture these dependencies. For example, consider the word form \emph{kissat} (\emph{cats}) where the suffix \emph{-t} denotes plural number.  Then, given the feature extraction scheme of \citet{silfverberg2014}, instead of associating the suffix \emph{-t} solely with a compound label (Noun, nominative, plural), we also relate it with the sub-label Plural. This is because one can exploit the suffix \emph{-t} to predict the plural number also in words such as \emph{vihre\"at} (\emph{plural of green}) with an analysis (Adjective, nominative, plural). 
-
-In addition to associating the input to sub-labels as described above, the expanded feature set exploits transitional behavior of the sub-labels. For example, consider the sentence fragment \emph{kissat juovat} (\emph{cats drink}) where the words \emph{kissat} and \emph{juovat} have compound analyses (Noun, nominative, plural) and (Verb, 3rd person, plural, present tense, active), respectively. Then, instead of merely modeling the transitional dependency between the compound labels, we also model the congruence, that is, both analyses need to contain the sub-label denoting plural number. 
-
-
-
-\subsubsection{Estimation from Data}
-\label{sec: estimation}
-
-In this section, we describe the CRF parameter estimation procedure implemented in the FinnPos system.
-
-%\subsubsection{Maximum Likelihood Estimation}
-
-%We begin by discussing CRF estimation using the (conditional) maximum likelihood criterion. This approach was employed in the original work of \citet{lafferty2001}. The maximum likelihood solution is attained by solving a minimization problem 
-%
-%\begin{equation}
-%\boldsymbol{w} = \argmin_{\boldsymbol{w}'}  - \sum_{i = 1}^N \log p(y^{(i)} \,|\, x^{(i)}; \boldsymbol{w}') \, .
-%\label{eq: ml}
-%\end{equation}
-%
-%This minimization problem is convex, that is, it has a unique solution, and can be solved using gradient descent algorithms. While in early work, it was common to apply batch-based algorithms, such as the limited-memory BFGS or conjugate gradient algorithms \citep{malouf2002}, it was soon discovered that the stochastic gradient descent (SGD) methods can speed up learning on large, redundant data sets \citep{vishwanathan2006}. The gradient descent algorithms iteratively perform the forward-backward algorithm \citep{wallach2004} to evaluate the gradient and update the model parameters accordingly. 
-
-%Given an input sequence $x$, the forward-backward algorithm has a time complexity of $O(|x| \times |\mathcal{Y}|^{n+1})$, where $|x|$ denotes the sequence length, $|\mathcal{Y}|$ the label set cardinality, and $n$ the CRF model order. 
-%% Consequently, the complexity of exact maximum likelihood learning is $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ where $T$ is the number of training sentences and $|\bar{x}|$ the average sentence length. 
-%% Performing the gradient descent can become impractically slow, or infeasible, when the label set size $|\mathcal{Y}|$ is increased due to the computational complexity $O(|x| \times |\mathcal{Y}|^{n+1})$ of the forward-backward algorithm. 
-%In consequence, performing the inference and subsequent gradient descent can become impractically slow, or infeasible, when the label set size $|\mathcal{Y}|$ is increased. Therefore, in order to speed up the estimation, we implement the \emph{sparse forward-backward} with \emph{minimum divergence beams} following \citet{pal2006}.  In this approach, the marginal distributions over label configurations are compressed based on fixed Kullback-Leibler divergence between the inferred and the true marginals.
-
-%Lastly, in order to avoid overfitting to training data, the minimized objective function in (\ref{eq: ml}) is augmented with additive $l_1$ or  $l_2$ regularization terms \citep{vail2007}. These penalty terms are associated with a hyper-parameter $C$ which controls the amount of performed regularization.
-
-% Compared to perceptron learning, the maximum likelihood criterion has the advantage of inherently assigning low probabilities for unlikely label sequences. Moreover, the maximum likelihood parameters of the CRF model coincide with the \textbf{maximum entropy} solution \citep{jaynes1957}, which provides additional theoretical appeal for the approach. The equivalence of maximum likelihood and maximum entropy parameters is generally true for models of the log-linear family.}. However, this advantage comes at the cost of added effort in model tuning, most notably because the SGD algorithms can be very sensitive to the choice of learning rate hyper-parameters \citep{vishwanathan2006}. 
-
-
-\paragraph{Averaged Perceptron.}
-
-The fundamental learning mechanism implemented is the 
-%In this section, we describe the estimation the CRF model parameters $\boldsymbol{w}$ using the
-\emph{averaged perceptron algorithm} of \citet{collins2002}. % This learning procedure generalizes the structured perceptron algorithm presented for CRF estimation by \citet{collins2002}. 
-The perceptron algorithm operates by iteratively searching for the highest scoring label sequence for a training instance $x$ and updating the model parameters in case of an incorrect search result. From implementation perspective, the exact search is performed using the standard Viterbi algorithm. 
-  % Compared to maximum likelihood training, perceptron learning is computationally less costly due to the applied sparser parameter updates. 
-% In the FinnPos toolkit, we apply the violation-fixing perceptron algorithm utilizing \emph{exact search} \citep{collins2002} and the faster \emph{beam search} \citep{collins2004,zhang2011,huang2012}. 
-%Employing exact search to obtain the highest scoring label sequences, the violation-fixing perceptron algorithm is equivalent to the structured perceptron algorithm presented by \citet{collins2002}. From implementation perspective, the exact search is performed using the standard Viterbi algorithm. 
-% Given an input sequence $x$, the Viterbi search has identical time complexity to forward-backward algorithm, $O(|x| \times |\mathcal{Y}|^{n+1})$. 
-%% Given an input sequence $x$, the Viterbi search has a time complexity of $O(|x| \times |\mathcal{Y}|^{n+1})$, where $|x|$ denotes the sequence length, $|\mathcal{Y}|$ the label set cardinality, and $n$ the CRF model order. 
-%% Consequently, the complexity of exact perceptron learning is $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ where $T$ is the number of training sentences and $|\bar{x}|$ the average sentence length. 
-%In consequence, similarly to maximum likelihood learning utilizing exact forward-backward algorithm, perceptron learning utilizing exact Viterbi search can become impractical when the label set cardinality is increased. Therefore, in order to speed up the estimation, we implement the perceptron algorithm utilizing \emph{beam search} and \emph{maximum violations} following \citet{huang2012}.  The maximum violation approach was shown to yield a state-of-the-art accuracy
-Inconveniently, however, perceptron learning utilizing exact Viterbi search is impractically slow in presence of large label sets. Therefore, in order to speed up the estimation, we implement the perceptron algorithm utilizing \emph{beam search} and \emph{maximum violations} following \citet{huang2012}.  The maximum violation approach was shown to yield a state-of-the-art accuracy
-%%\footnote{Unfortunately, \citet{huang2012} do not specify their feature set.} 
-of 97.24 on the Penn Treebank \citep{marcus1993} by \citet{huang2012}. The beam search is implemented using \emph{minimum divergence beams} following \citet{pal2006}. Finally, the parameter averaging technique of \citet{freund1999} provides a simple, hyper-parameterless means of model regularization. 
-% We denote the \emph{beam width} as $\beta$. 
-% The beam width, denoted as $\beta$, is considered a hyper-parameter of the learning procedure. The computational complexity of beam search is $O(|x| \times |\mathcal{Y}| \times \log |\mathcal{Y}|)$, where $|x|$ is the sequence length and $|\mathcal{Y}|$ the label set cardinality. Thus, the complexity of perceptron learning is reduced from $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ to $O(T \times |x| \times |\mathcal{Y}| \times \log |\mathcal{Y}|)$.
-
-
-
-%\subsubsection{Pseudo-Likelihood and Pseudo-Perceptron Estimation}
-
-%In this section, we discuss the classic pseudo-likelihood estimation of CRFs \citep{besag1975}. Intuitively, the pseudo-likelihood operates by performing the necessary inference over a single sentence position while keeping the remaining positions fixed to their true values. Formally, the pseudo-likelihood solution is attained by solving an optimization problem
-%
-%\begin{equation}
-% \boldsymbol{w} = \argmin_{\boldsymbol{w}'}  - \sum_{i = 1}^N \log p(y^{(i)} \,|\, x^{(i)}; \boldsymbol{w}') \, .
-%\boldsymbol{w} = \argmax_{\boldsymbol{w}'}   \prod_{t = 1}^T \prod_{i = 1}^{|x^{(t)}|} p(y_i^{(t)} \,|\, y_{-i}^{(t)}, x^{(t)}; \boldsymbol{w}') \, ,
-%\label{eq: pseudo-likelihood}
-%\end{equation}
-%
-%where $y_{-i}$ denotes all the variables in $y$ apart from $y_i$. The appeal of this approach is that, since the inference is performed over single variables, the complexity of learning is reduced to linear in the number of labels in label set. that is, the complexity of pseudo-likelihood learning is $O()$. Similarly to the maximum likelihood objective in Equation (\ref{eq: ml}), the pseudo-likelihood objective (\ref{eq: pseudo-likelihood}) is convex and can be solved using standard gradient descent algorithms. 
-
-%As shown recently by \citet{ruokolainen2014}, the key idea of the pseudo-likelihood learning can be successfully applied also with the perceptron algorithm, resulting in the pseudo-perceptron learning approach. In analogy to pseudo-likelihood, the pseudo-perceptron algorithm obtains the required predictions over single sentence positions while fixing the remaining positions to their true values. In other words, instead of using the Viterbi or beam search search to find the highest scoring label sequence for a sentence $x$, we search for the best guess at each position and update the parameters in case of an incorrect prediction. Similarly to pseudo-likelihood, the time complexity of the pseudo-perceptron learning is $O(|x| \times |\mathcal{Y}|)$, that is, linear in the number of labels in the label set.
-
-
-
-\paragraph{Model Cascade.}
-\label{sec: estimation using cascaded models}
-%\subsubsection{Pre-Pruned Beam Search}
-%\label{sec: pre-pruned search}
-
-In a recent work, \citet{muller2013} presented an approximative high-order CRF estimation technique utilizing a cascade of CRF models of increasing orders. In a general cascade system for structured prediction, one learns a series of increasingly complex models by restricting the search space of each model using the predictions of the less complex models \citep{weiss2010}. 
-% In a straightforward cascade system, one would learn a series of CRF models of increasing order by restricting the label candidates for $c$th-order model according to the $c-1$th-order model. 
- \citet{muller2013} implement this approach for CRFs using a coarse-to-fine decoding technique \citep{charniak2005,rush2012} and show large savings in the computational cost of maximum likelihood training. 
-
-%In the FinnPos system, we implement another cascading variant to further accelerate the perceptron learning described above. In particular, our cascade is based on a series of two models, an orthography-based label guesser and a conventional $n$th-order CRF model. In this approach, the idea is simply to utilize the minimalistic, orthography-based label guesser to narrow down the label search space. In order to apply the cascade, we first learn a label guesser $\mathcal{G}$ from the training data. The guesser ranks morphological tags according to their probability for any given word. Subsequent to learning $\mathcal{G}$, the beam search of the perceptron algorithm discussed above performs the search for the highest scoring label sequence given a sentence $x$ on the ''pre-pruned'' label set $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$ instead of the full set $\mathcal{Y}(x) = \mathcal{Y}(x_1) \times \dots \times \mathcal{Y}(x_{|x|})$. % As for maximum likelihood and violation-fixing perceptron learning, the inference consists of performing the forward-backward algorithm and beam search, respectively.
-
-In the FinnPos system, we implement another cascading variant to further accelerate the perceptron learning described above. In particular, our cascade is based on a series of two models, an orthography-based label guesser and a conventional $n$th-order CRF model. In this approach, the idea is simply to utilize the minimalistic, orthography-based label guesser to narrow down the label search space. In order to apply the cascade, we first learn a label guesser from the training data. The guesser ranks morphological tags according to their probability for any given word form. We then use the guesser to limit the candidate label set for each word $x_i$ in sentence $x$ and, subsequently, use beam search to find the highest scoring label sequence among the limited candidate sequences.
-
-The implemented label guesser is based on the lexical model for OOV
-words used by \cite{brants2000}. It assigns a probability $p(y|x)$ for
-any label $y \in \mathcal{Y}$ and an arbitrary word $x$ based on the
-suffixes of $x$.  Appealingly, the guesser can be trained and applied
-in mere seconds even when using large data sets.
-%More formally, we first compute relative frequencies $\hat{p}(y|s_i)$ of label $y$ given each suffix $s_i$ of $x$ that occurs in the training data. We then recursively combine the frequencies for different suffix lengths into probability estimates $p(y|s_i)$ using successive interpolations
-%$$p(y|s_{i+1}) = \frac{\hat{p}(y|s_{i+1}) + \theta \cdot p(y|s_{i})}{1 + \theta}.$$
-%The base case $p(y|s_0)$, for the empty suffix $s_0$, is given by the overall frequency of
-%label type $y$ in the training data, i.e. $p(y|s_0) = \hat{p}(y)$, and the
-%interpolation coefficient $\theta$ is the variance of
-%the frequencies of label types in the training data
-%$$\theta = \frac{1}{|\mathcal{Y}| - 1} \sum_{y\in \mathcal{Y}} (\hat{p} - \hat{p}(y))^2.$$
-%Here $\hat{p}$ is the average frequency of a label type. Finally, we get $p(y|x) = p(y|s_I)$, where $s_I$ is the
-%longest suffix of $x$ that occurs in the training data. However, we do not use suffixes of length exceeding $10$ in order to
-%avoid over-fitting.
- %Importantly, this type of guesser can be learned from and applied to large data in mere seconds. 
-We use the label guesser to extract the minimal set of highest ranking label guesses $y_i$ whose combined probability mass $\sum_{i = 0}^n p(y_i|x)$ exceeds a threshold $\kappa \in [0,\ 1]$. The threshold is considered a hyper-parameter of the learning procedure, which is tuned on a held-out development set. Essentially, if one employs too small a $\kappa$, the model will underfit the training data, while increasing the threshold results in increasingly accurate approximations of the original perceptron learning problem.  
-%For each word token, our guesser returns the $\kappa$ highest ranking labels. The $\kappa$ is considered a hyper-parameter of the learning procedure to be tuned on a held-out development set. Essentially, if one employs too small $\kappa$, the model will underfit the training data, while increasing the number of guesses results in an increasingly better approximation of the original learning problem.  
-% Essentially, if one employs too small $\kappa$, the model will underfit the training data, while increasing the number of guesses results in an increasingly better approximation of the standard perceptron learning.  
-% For a formal treatment of the violation-fixing perceptron algorithm utilizing pre-pruned search, see Appendix \ref{appendix: pre-pruned search}. The presentation includes proof of convergence and discussion on how the approach relates to exact search.  
-%Appendix \ref{appendix: pre-pruned search} presents a formal treatment of the violation-fixing perceptron algorithm utilizing pre-pruned search. The presentation includes proof of convergence and discussion on how the pre-pruned search relates to the exact search and beam search approaches.  
-% Given $\kappa$, the combined pre-pruning and beam search has a time complexity of $O(|x| \times \kappa \times \log \kappa)$ and, consequently, the complexity of perceptron learning is reduced further to $O(T \times |x| \times \kappa \times \log \kappa)$.
-
-
-
-
-
-
-\subsubsection{Decoding}
-
-Subsequent to parameter estimation using the learning algorithms discussed in Section \ref{sec: estimation}, the resulting CRF model can be applied to any given word sequence. In this decoding stage, the model assigns the highest scoring (most probable) label sequence $z$ to a given word sequence $x$. The search is performed using beam search with the minimum divergence beams following \citet{pal2006}. In addition, since model estimation is performed utilizing a label guesser, the label guesser is also applied during decoding with the same threshold value $\kappa$. Lastly, if a morphological analyzer is available during decoding, the labels of test instances are restricted according to the output of the analyzer.
-
-
-
-\subsection{Lemmatizer}
-\label{sec: lemmatizer}
-
-% In this section, we describe the data-driven lemmatizer employed to assign lemmas for words unknown to the OMorFi analyzer.  
-In order to lemmatize words unknown to the OMorFi analyzer, we follow \citet{chrupala2008} and treat
-the lemmatization problem as a classification task, in which each class corresponds to a {\it suffix edit
-  script}. For example, consider $[ies \rightarrow y]$, which removes a suffix
-``-ies'' from the end of a word form, such as the English word form
-``beauties'', and replaces it with another suffix ``-y'', thus
-producing the lemma ``beauty''. While \citet{chrupala2008} use rather general
-edit scripts which can additionally modify prefixes and infixes of the
-word, we rely on the suffix-based approach because
-Finnish words mostly inflect at the end. The task of the
-lemmatizer is then to find the most appropriate edit script based on
-features extracted from the word form, its morphological label and
-its context. The script is chosen among {\it minimal edit scripts}, where the removed suffix is as
-short as possible \citep{chrupala2008}. 
-
-
-%Given a word form ``beauties'' and lemma ``beauty'', there are several
-%possible suffix edit scripts that lemmatize the word. In order to disambiguate between applicable scripts, we use the
-%unique {\it minimal edit script}, where the suffix that is removed is as
-%short as possible. % The minimal edit script for the above example \emph{''beauties''$\rightarrow$''beauty''} is $[ies
-%\rightarrow y]$. There are typically several minimal edit scripts that can be applied
-%on the same word form. For example, the edit scripts $[ies \rightarrow
-%y]$ and $[es \rightarrow \varepsilon]$, where $\varepsilon$ is the
-%empty string, also applicable because both ``ies'' and ``es'' are suffixes of the word. However, the
-%latter one will give the non-existent lemma "beauti''. The task of the
-%lemmatizer is to find the most appropriate edit script based on
-%features extracted from the word form, its morphological label and
-%its context.
-
-%Given a word form ``beauties'' with a lemma ``beauty'', there are naturally several
-%possible suffix edit scripts that produce the correct lemmatization. We choose the applied script among the {\it minimal edit scripts}, where the suffix that is removed is as
-%short as possible. As examples of minimal edit scripts applicable for the above example \emph{''beauties''$\rightarrow$''beauty''}, consider $[ies
-%  \rightarrow y]$ and $[es \rightarrow \varepsilon]$, where $\varepsilon$ denotes the
-%empty string. The task of the
-%lemmatizer is then to find the most appropriate minimal edit script based on
-%features extracted from the word form, its morphological label and
-%its context.
- 
- 
-\subsection{Implementation Details}
-\label{sec: toolkit}
-
-This section describes low-level details involved in the implementation of the tagging and lemmatization methods discussed above in Sections \ref{sec: crfs} and \ref{sec: lemmatizer}, respectively. The covered issues include hyper-parameter tuning, initialization procedures, and software. 
-
-%\subsection{Feature Extraction}
-\paragraph{Feature Extraction.}
-
-The default feature extraction follows the presentation in Section
-\ref{sec: methods}. However, users can freely define their own
-feature sets.\footnote{See documentation at \url{github.com/mpsilfve/FinnPos/wiki}} The
-toolkit implements CRF label and sub-label transitions discusses in Section \ref{sec: feature extraction} up to second order. The transition
-orders are optimized based on the development set. We use prefixes and suffixes of words up to length 10 ($\delta_{affix} = 10$).
-
-% \subsection{Learning Specifications}
-
-%\paragraph{Stochastic Gradient Descent}
-
-\paragraph{Violation-Fixing Perceptron and Label Guesser.}
-
-The perceptron algorithm initializes model parameters with a zero vector. In order to reduce overfitting, we apply the parameter averaging approach following \citet{collins2002} and an early stopping criterion based on the held-out development set. In early stopping, we apply the averaged parameters to the development set after each pass over the training data and terminate training in case the accuracy has not improved during the previous 3 passes. Subsequently, we apply the best performing parameter setting to the test instances. The label guesser is trained using all words in the training data utilizing all word suffixes up to length 10. 
-
-% The hyper-parameters of beam search and label guesser, that is, the beam width, $\beta$, and the number of label guesses, $\kappa$, are tuned on the development set. In particular, we consider $\beta = 1,2,4,8,16,\dots$ and $\kappa = 1,2,4,8,16,\dots$ until the accuracy does not improve by at least 0.01 (absolute).  
-
-% \paragraph{Label Guesser.}
-
-% We train the label guesser on all words in the training data and utilize all word suffixes up to length 10. % whose length does not exceed $10$.
-
-\paragraph{Lemmatizer.}
-
-Given lemmatized training data, we first extract all minimal suffix
-edit scripts. We then train an averaged perceptron classifier \citep{freund1999} to
-disambiguate between all applicable suffix edit scripts for each word
-form in the training data. % The parameters of the logistic classifier are estimated using the averaged perceptron algorithm. 
-%The training setting is the same as for the morphological tagger, that is,
-%we use early stopping based on held-out development data.
-The classifier uses the following feature set:
-\begin{enumerate}
-\item The word form $w$.
-\item Suffixes of $w$ up to length 10.
-\item The morphological label of $w$ as well as its sub-labels.
-\item If the word form $w$ contains (one or more) capital letters,
-  hyphens, dashes, or digits.
-\end{enumerate}
-Additionally, we use combination features where each feature is
-combined with the morphological label of $w$ and its sub-labels. 
-Overfitting to training data is controlled using parameter averaging and
-early stopping based on the development data.
-
-% \subsection{Implementation}
-
-\paragraph{Implementation.} To guarantee efficient estimation
-and inference, FinnPos is implemented in C++. In order to
-facilitate compilation and avoid clashes between library versions, we
-eliminated most dependencies on external software and
-libraries. Currently, the only required external utility is the lookup
-program for the OMorFi morphological analyzer distributed with the
-HFST library \citep{linden2011}.
 
 
 
@@ -530,172 +129,19 @@ HFST library \citep{linden2011}.
 \section{Experiments}
 \label{sec: experiments}
 
-In this section, we present an empirical evaluation of the FinnPos system on two Finnish treebanks. The evaluation considers tagging and lemmatization accuracy and computational efficiency of learning and decoding. For comparison, we provide results using three reference toolkits.
 
-\subsection{Data}
-
-The experiments are conducted on the Turku Dependecy Treebank \citep{haverinen2009,haverinen2013} and Finn Treebank \citep{voutilainen2011} described in Section \ref{sec: treebanks}. The treebanks do not have default partitions to training and test sets. Therefore, from each 10 consecutive sentences, we assign the 9th and 10th to the development sest and the test sets, respectively. The remaining sentences are assigned to the training sets. 
-
-\subsection{Reference Systems}
-
-%This section describes three HMM/CRF-based, open-source POS tagging toolkits, namely, HunPos \citep{halacsy2007}, Stagger \citep{ostling2012}, and MarMot \citep{muller2013}. These toolkits are employed as reference systems in the experiments.
-% This section summarizes the three HMM/CRF-based POS tagging toolkits used as reference systems, namely, HunPos \citep{halacsy2007}, Stagger \citep{ostling2012}, and MarMot \citep{muller2013}. 
-
-%We compare the FinnPos system to three reference toolkits,  namely, Morfette \citep{chrupala2008}, MarMot \citep{muller2013}, and HunPos \citep{halacsy2007}. Similarly to FinnPos, the Morfette system performs both tagging and lemmatization. Meanwhile, the MarMot toolkit is to our knowledge the currently fastest CRF-based morphological tagging system available. Finally, the HunPos system 
-
-This section summarizes the reference systems, namely, Morfette \citep{chrupala2008}, MarMot \citep{muller2013}, and HunPos \citep{halacsy2007}. 
-
-% HunPos \citep{halacsy2007} is an improved, open-source implementation of the classic TnT tagger of \citet{brants2000}.\footnote{Available at \url{http://code.google.com/p/hunpos/}} In contrast to FinnPos, HunPos is based on the generative HMM framework which makes it sensitive to rich feature sets compared to the discriminatively trained CRFs. During decoding, HunPos employs the outputs of a morphological analyzer as hard constraints. In case of unknown word forms, the . Note that, in any case, HunPos does not consider lemmatization but merely returns the morphological tags.  While the HunPos system was originally designed for POS tagging Hungarian, it is expected to perform well on Finnish due to the relatedness of Hungarian and Finnish languages: Hungarian and Finnish are both agglutinative and morphologically rich languages belonging to the Finno-Ugric family. Indeed, HunPos was utilized by \citet{haverinen2013} during development of the Turku Dependency Treebank. 
-
-\paragraph{Morfette.}
-
-Morfette is a toolkit for learning a morphological tagging and lemmatization model from annotated training data.\footnote{Available at \url{https://sites.google.com/site/morfetteweb/}.} Given a corpus of sentences annotated with lemmas and morphological labels, and optionally a morphological analyzer, Morfette learns to assign analyses for new sentences. The Morfette tagging model is based on the CRF framework utilizing averaged perceptron learning. Meanwhile, lemmatization is handled as a classification task, in which each lemmatization class corresponds to a set of string edit operations required to transform the inflected word form into the corresponding lemma.
-
-\paragraph{MarMot.}
-
-MarMot is a CRF-based morphological tagging toolkit.\footnote{Available at \url{https://code.google.com/p/cistern/wiki/marmot}.} Given a corpus of sentences annotated with morphological labels, and optionally a morphological analyzer, MarMot learns to assign morphological tags for new sentences. The model estimation of MarMot is based on the maximum likelihood criterion utilizing a pruning approach which enables efficient learning of high-order models. In contrast to FinnPos and Morfette systems, MarMot is solely a morphological tagging toolkit and does not perform lemmatization. % Moreover, the system does not enable the use of morphological analyzers as hard 
-
-\paragraph{HunPos.}
-
-HunPos is an improved, open-source implementation of the morphological TnT tagger of \citet{brants2000}.\footnote{Available at \url{http://code.google.com/p/hunpos/}.} Given a corpus of sentences annotated with morphological labels, and optionally a morphological analyzer, HunPos learns to assign morphological tags for new sentences. Similarly to MarMot, HunPos is solely a morphological tagging toolkit and does not perform lemmatization. 
-The HunPos tagger is based on the generative HMM framework which makes it sensitive to rich feature sets compared to the discriminatively trained CRFs. On the other hand, due to the generative estimation procedure and simple feature sets, the system is extremely fast to both train and apply. While the HunPos system was originally designed for morphological tagging of Hungarian, it is a natural choice for a Finnish morphological tagger due to the relatedness of Hungarian and Finnish languages: Hungarian and Finnish are both agglutinative and morphologically rich languages belonging to the Finno-Ugric family. % Indeed, HunPos was utilized by \citet{haverinen2013} during development of the Turku Dependency Treebank. 
-
-
-% Similarly to Morfette and FinnPos systems, MarMot \citep{muller2013} is a CRF-based morphological tagging toolkit.\footnote{Available at \url{https://code.google.com/p/cistern/wiki/marmot.}}. The model estimation of MarMot is based on the maximum likelihood and perceptron criteria utilizing a pruning approach which enables efficient learning of high-order models. Additionally, the MarMot system implements a sub-label dependency feature extraction scheme discussed in Section \ref{sec: feature extraction} . In contast to Morfette and FinnPos, MarMot is solely morphological tagging toolkit and does not perform lemmatization. % Moreover, the system does not enable the use of morphological analyzers as hard contraints during decoding. In consequence, we incorporate the analyzer outputs to the model via feature expansion following \citet{muller2013}.
-
-
-% MarMot \citep{muller2013} is the most recent POS tagging system of the considered reference toolkits.\footnote{Available at \url{https://code.google.com/p/cistern/wiki/marmot.}} Similarly to our work and Stagger \citep{ostling2012}, the MarMot system is based on the CRF model. The model estimation of MarMot is based on the maximum likelihood and perceptron criteria utilizing a pruning approach which enables efficient learning of high-order models. Additionally, the MarMot system implements a sub-label dependency feature extraction scheme as discussed in Section \ref{sec: feature extraction} . The MarMot toolkit does not enable the use of morphological analyzers as hard contraints during decoding. In consequence, we incorporate the analyzer outputs to the model via feature expansion following \citet{muller2013}.
-
-% \citep{muller2013}\footnote{Available at https://code.google.com/p/cistern/wiki/marmot.}
-
-\subsection{Evaluation}
-
-Test performances in tagging and lemmatization (when applicable) are evaluated using \emph{per-label} and \emph{per-lemma} accuracies. These accuracies are reported separately for all words and words not seen in the training data. We establish statistical significance (with confidence level 0.95) using the standard 1-sided Wilcoxon signed-rank test performed on 10 randomly divided, non-overlapping subsets of the complete test sets. 
-
-\subsection{Hardware}
-
-%The experiments are run on a desktop computer (Intel Xeon E5450 with 3.00 GHz and 64 GB of memory).
-The experiments are run on a desktop computer (Intel Core i5-4300U with 1.90 GHz and 16 GB of memory).
-
-\subsection{Results}
-
-Obtained tagging and lemmatization accuracies, training times, and decoding speeds for TDT and FTB are presented in Tables \ref{tab: turku results} and \ref{tab: finn results}, respectively. The tables include results obtained with and without employment of the morphological analyzer. In what follows, we will compare the FinnPos system individually with the reference systems. 
-
-\paragraph{FinnPos versus Morfette.} We begin by comparing FinnPos and Morfette which both perform morphological tagging and lemmatization. We first note that the tagging accuracies of Morfette are substantially lower compared to FinnPos on both treebanks. As for lemmatization, Morfette yields comparable accuracy to FinnPos on FTB but is outperformed on TDT. Compared to FinnPos, the training time of Morfette is substantially higher and decoding speed substantially lower.
-
-\paragraph{FinnPos versus MarMot.} By and large, the MarMot system yields the highest tagging accuracies of all the considered toolkits. However, when employing the morphological analyzer, the differences in tagging accuracies between Marmot and FinnPos are not statistically significant. Compared to FinnPos, the training time of MarMot is substantially higher and decoding speed substantially lower. Finally, MarMot does not perform lemmatization.
-
-\paragraph{FinnPos versus HunPos.} The training time of the HunPos system is substantially lower compared to FinnPos or any other system. While faster to estimate and apply, however, the tagging accuracy of HunPos is substantially lower compared to FinnPos on both data sets. Similarly to MarMot, the HunPos system does not perform lemmatization. 
-
-
-\begin{table}[t!]
-\begin{center}
-\begin{tabular}{cccccccc} 
-%\begin{small}
-%\hline
-%\noalign{\smallskip}
-\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-toolkit & all & OOV & all & OOV & tagger & lemmatizer &  \\
-\hline
-\noalign{\smallskip}
-\multicolumn{8}{l}{\emph{Without Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 90.36 & 63.27 & -  & - & 2 s & - & 19,000 \\
-MarMot & \bf 93.01 &  \bf 78.28 & -  & - & 40 min & - & 1,000 \\
-Morfette & 90.69 & 69.59 & 87.14  & 62.58 & 175 min & 13 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & 92.72 & 74.35 & {\bf 91.65}* & {\bf 63.55} & 5 min & 4 min & 6,000 \\
-% Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}
-\multicolumn{6}{l}{\emph{With Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 91.64 & 76.07 & -  & - & 2 s & - & 101,000 \\
-MarMot & 96.29 &  91.04 & -  & - & 38 min & - & 1,000 \\
-Morfette & 93.91 & 82.19 & 89.33 &  72.04 & 203 min & 16 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & {\bf 96.31} &  {\bf 91.64} & {\bf 93.29}*  &  {\bf 84.28} & 4 min & 5 min & 16,000 \\
-%Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}
-%\end{small}
-\end{tabular}
-\end{center}
-\caption{Results for Turku Dependency Treebank. Significantly higher accuracies (according to the 1-sided Wilcoxon signed-rank test) compared to the competing methods are marked with '*'.}
-\label{tab: turku results}
-\end{table}
-
-
-\begin{table}[t!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{cccccccc} 
-%\hline
-%\noalign{\smallskip}
-\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-toolkit & all & OOV & all & OOV & tagger & lemmatizer & \\
-\hline
-\noalign{\smallskip}
-\multicolumn{8}{l}{\emph{Without Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 91.40 & 70.53 & -  & - & 2 s & - & 29,000  \\
-MarMot & \bf 93.52 &  \bf 80.84 & -  & -  & 22 min & -  & 2,000 \\
-Morfette & 92.06 & 75.73 & 93.27  & 73.93 & 124 min & 8 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & 93.31 & 78.13 & {\bf 94.34} & {\bf 76.18} & 6 min & 3 min & 6,000  \\
-%Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}\multicolumn{6}{l}{\emph{With Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 93.65 & 82.55 & -  & - & 2 s & - & 141,000 \\
-MarMot & 96.21 & 91.46 & -  & - & 24 min & - & 1,000 \\
-Morfette & 95.03 & 86.81 & 95.66 &  83.12 & 128 min & 8 min & 60 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos  & {\bf 96.23} & \bf {\bf 92.34} & {\bf 96.37} & {\bf 89.10} & 3 min & 3 min & 18,000 \\
-%Finnpos (ML) & & & & & & & & \\
-\end{tabular}
-\end{center}
-%\end{small}
-\caption{Results for Finn Treebank.}
-\label{tab: finn results}
-\end{table}
-
-
-
-\subsection{Discussion}
-
-Compared to the reference toolkits, it appears that the FinnPos system hits a type of a sweet spot with respect to model accuracy, extent of analysis, and decoding speed: while the reference systems are competitive against FinnPos in some respects, they all fall short in others. For example, while applicable for morphological tagging with comparable accuracy to FinnPos, the MarMot system is slower to apply and does not provide lemmatization. Meanwhile, the Morfette system provides comparable lemmatization accuracy with FinnPos but a substantially worse tagging accuracy. In addition, the Morfette toolkit is, in practice, rendered useless by its low decoding speed. For example, consider analyzing the Finnish Wikipedia content consisting of roughly 190 million word tokens: using FinnPos this would be accomplished in around 4 hours, while analyzing the same amount of text with Morfette would require around 40 days.\footnote{The Finnish Wikipedia statistic was obtained in October 2014.}
-%For example, consider analyzing the unannotated text section of the Finn Treebank consisting of roughly 1 billion word tokens: using FinnPos this would be accomplished in around 20 hours, while analyzing the same amount of text with Morfette would require around 200 days. 
-% Model cascading using label guesser achieves empirical success. Example of utilizing domain knowledge compared to the generic approach of \citet{muller2013}.
-
-It could seem conceivable that the inclusion of a morhopological analyzer would reduce the difference in tagging accuracy between systems utilizing generative (HunPos) and discriminative (FinnPos, MarMot, Morfette) learning. The discriminative learning, however, benefits substantially more from the use of the analyzer. For example, on TDT, the inclusion of OMorFi improves the overall tagging accuracy of HunPos by 1.28 percentages (absolute) from 90.36 to 91.64, whereas the accuracies of the discriminative systems increase over 3.0 percentages (absolute). 
 
 
 \section{Conclusions}
 \label{sec: conclusions}
 
-We presented FinnPos, an open-source morphological tagging and lemmatization toolkit for Finnish. The toolkit is readily applicable for tagging and lemmatization of running text with models learned from the recently published Finnish Turku Dependency Treebank and Finn Treebank. The performed empirical evaluation showed that FinnPos performs favorably to several reference systems in terms of tagging and lemmatization accuracy, as well as computational efficiency of learning new models and assigning analyses to novel sentences. 
-
-The FinnPos system should be readily applicable for learning taggers for languages closely related to Finnish, such as Hungary and Estonian. On the other hand, the default feature extraction scheme may also perform well on other morphologically rich European languages, such as Czech and Romanian. Therefore, in future work, the toolkit  could be evaluated empirically on multiple languages.
 
 
 %%%%%%%%%%% The bibliography starts:
 \newpage
 %\bibliographystyle{plainnat}
 \bibliographystyle{spbasic}
-\bibliography{finnpos}
+\bibliography{finer}
 
 
 
