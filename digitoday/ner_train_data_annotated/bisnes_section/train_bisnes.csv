@@ -20012,7 +20012,7 @@ teki
 vuodentakaista	
 enemmän	
 voittoa	
-alkuvuonna	
+alkuvuonna	tim
 .	
 	
 <BODY>	
@@ -20028,7 +20028,7 @@ osakekohtaisen
 tuloksen	
 ilman	
 kertaeriä	
-tammi-maaliskuussa	
+tammi-maaliskuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -20122,10 +20122,10 @@ kuva
 .	
 	
 <PARAGRAPH>	
-Vuosi	
-sitten	
-samaan	
-aikaan	
+Vuosi	tim
+sitten	tim
+samaan	tim
+aikaan	tim
 voittoa	
 osaketta	
 kohden	
@@ -20158,7 +20158,7 @@ euroa
 Nokian	org
 liikevaihto	
 jäi	
-vuodentakaista	
+vuodentakaista	tim
 pienemmäksi	
 .	
 	
@@ -20169,8 +20169,8 @@ miljardia
 euroa	
 ,	
 kun	
-vuosi	
-sitten	
+vuosi	tim
+sitten	tim
 sitä	
 kertyi	
 3,1	
@@ -20184,15 +20184,15 @@ NSN	org
 n	org
 liikevaihto	
 oli	
-vuosi	
-sitten	
+vuosi	tim
+sitten	tim
 2,8	
 miljardia	
 euroa	
 .	
 	
 <PARAGRAPH>	
-Tammi-maaliskuun	
+Tammi-maaliskuun	tim
 tulos	
 ennen	
 veroja	
@@ -20200,8 +20200,8 @@ nousi
 230	
 miljoonaan	
 euroon	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 142	
 miljoonasta	
 eurosta	
@@ -20215,8 +20215,8 @@ nousi
 304	
 miljoonaan	
 euroon	
-vuotta	
-aiemmasta	
+vuotta	tim
+aiemmasta	tim
 254	
 miljoonasta	
 eurosta	
@@ -20231,8 +20231,8 @@ oli
 prosenttia	
 ,	
 kun	
-vuotta	
-aiemmin	
+vuotta	tim
+aiemmin	tim
 se	
 oli	
 8,1	
@@ -20243,7 +20243,7 @@ Jatkuvien
 toimintojen	
 liikevaihtoa	
 kertyi	
-tammi-maaliskuussa	
+tammi-maaliskuussa	tim
 2,7	
 miljardia	
 euroa	
@@ -20266,11 +20266,11 @@ heikkeni
 ja	
 liikevoitto	
 kasvoi	
-vuoden	
-ensimmäisellä	
-neljänneksellä	
-vuotta	
-aiempaan	
+vuoden	tim
+ensimmäisellä	tim
+neljänneksellä	tim
+vuotta	btim
+aiempaan	tim
 verrattuna	
 .	
 	
@@ -20280,15 +20280,15 @@ liikevoitto
 ei-IFRS	
 )	
 oli	
-tammi-maaliskuussa	
+tammi-maaliskuussa	tim
 216	
 miljoonaa	
 euroa	
 ,	
 kun	
 se	
-vuotta	
-aiemmin	
+vuotta	tim
+aiemmin	tim
 oli	
 196	
 miljoonaa	
@@ -20302,7 +20302,7 @@ nousi
 koheni	
 9,3	
 prosenttiin	
-edellisvuoden	
+edellisvuoden	tim
 7,0	
 prosentista	
 .	
@@ -20311,7 +20311,7 @@ Liikevaihto
 heikkeni	
 2,3	
 miljardiin	
-edellisvuoden	
+edellisvuoden	tim
 2,8	
 miljardista	
 eurosta	
@@ -20325,10 +20325,10 @@ liiketoimintaamme
 tekivät	
 hyvän	
 tuloksen	
-vuoden	
-2014	
-ensimmäisellä	
-neljänneksellä	
+vuoden	tim
+2014	tim
+ensimmäisellä	tim
+neljänneksellä	tim
 .	
 	
 Olimme	
@@ -20370,8 +20370,8 @@ liikevoittoprosentin
 ei-IFRS	
 )	
 asettuvan	
-kuluvana	
-vuonna	
+kuluvana	tim
+vuonna	tim
 kohti	
 Networksin	org
 pitkän	
@@ -20389,17 +20389,17 @@ arvioi
 Networksin	org
 liikevaihdon	
 kasvavan	
-vuoden	
-jälkimmäisellä	
-puoliskolla	
-edellisen	
-vuoden	
-vastaavaan	
-ajankohtaan	
+vuoden	tim
+jälkimmäisellä	tim
+puoliskolla	tim
+edellisen	btim
+vuoden	tim
+vastaavaan	tim
+ajankohtaan	tim
 verrattuna	
 .	
 	
-Tammi-maaliskuussa	
+Tammi-maaliskuussa	tim
 liikevoittoprosentti	
 (	
 ei-IFRS	
@@ -20416,8 +20416,8 @@ pienemmän
 osuuden	
 Networksin	org
 liikevaihdosta	
-huhti-kesäkuussa	
-tammi-maaliskuuhun	
+huhti-kesäkuussa	tim
+tammi-maaliskuuhun	btim
 verrattuna	
 .	
 	
@@ -20431,8 +20431,8 @@ liikevoittoprosenttiin
 (	
 ei-IFRS	
 )	
-toisella	
-vuosineljänneksellä	
+toisella	tim
+vuosineljänneksellä	tim
 .	
 	
 Here-liiketoiminnan	misc
@@ -20440,8 +20440,8 @@ Nokia	org
 arvioi	
 edelleen	
 investoivan	
-alkaneena	
-vuonna	
+alkaneena	tim
+vuonna	tim
 pitkän	
 aikavälin	
 kasvumahdollisuuksiin	
@@ -20457,8 +20457,8 @@ liikevoittoprosenttiin
 (	
 ei-IFRS	
 )	
-kuluvana	
-vuonna	
+kuluvana	tim
+vuonna	tim
 .	
 	
 Technologies-liiketoiminnan	misc
@@ -20475,9 +20475,9 @@ noin
 600	
 miljoonaan	
 euroon	
-tämän	
-vuoden	
-aikana	
+tämän	tim
+vuoden	tim
+aikana	tim
 Microsoftin	org
 tultua	
 merkittävämmäksi	
@@ -20535,7 +20535,7 @@ ex-toimitusjohtaja	tit
 Stephen	per
 Elop	per
 vastaili	
-tänään	
+tänään	tim
 tunnin	
 ajan	
 Nokian	org
@@ -20630,10 +20630,10 @@ paljon
 tunnetta	
 .	
 	
-Vuosina	
-2010	
-ja	
-2011	
+Vuosina	tim
+2010	tim
+ja	tim
+2011	tim
 arvioimme	
 tarkasti	
 Nokian	org
@@ -20884,8 +20884,8 @@ päätimme
 keskittyä	
 Windows	pro
 Phoneen	pro
-vuonna	
-2011	
+vuonna	tim
+2011	tim
 ,	
 taustalla	
 oli	
@@ -21260,7 +21260,7 @@ Video
 on	
 nähtävissä	
 Nokian	org
-Youtube-kanavalla	pro
+Youtube-kanavalla	misc
 ,	
 joka	
 on	
@@ -21279,8 +21279,8 @@ hallinnoima
 Sijoittaja	
 :	
 Top3	
-vuonna	
-2020	
+vuonna	tim
+2020	tim
 teknologiayrityksissä	
 on	
 tämä	
@@ -21301,9 +21301,9 @@ että
 Apple	
 menettää	
 teknokruununsa	
-vuoteen	
-2020	
-mennessä	
+vuoteen	tim
+2020	tim
+mennessä	tim
 .	
 	
 <BODY>	
@@ -21312,8 +21312,8 @@ Apple
 ei	
 ole	
 enää	
-vuonna	
-2020	
+vuonna	tim
+2020	tim
 maailman	
 suurin	
 teknologiayritys	
@@ -21323,24 +21323,24 @@ mitattuna
 arvioi	
 sijoittaja	
 ja	
-Union	
-Square	
-Venturesin	
-perustaja	
-Fred	
-Wilson	
+Union	org
+Square	org
+Venturesin	org
+perustaja	tit
+Fred	per
+Wilson	per
 .	
 	
-New	
-Yorkin	
-TC	
-Disrupt	
--tilaisuudessa	
+New	loc
+Yorkin	loc
+TC	event
+Disrupt	event
+-tilaisuudessa	event
 puhunut	
-Wilson	
+Wilson	per
 ei	
 näe	
-Applea	
+Applea	org
 edes	
 kolmen	
 suurimman	
@@ -21356,7 +21356,7 @@ heijastelevan
 pelkoja	
 ,	
 että	
-Apple	
+Apple	org
 ei	
 osaa	
 enää	
@@ -21367,11 +21367,11 @@ tuotteita
 	
 Sen	
 sijaan	
-Wilson	
+Wilson	per
 katsoo	
 ,	
 että	
-Apple	
+Apple	org
 ei	
 ole	
 vahva	
@@ -21384,7 +21384,7 @@ pilvipalveluissa
 	
 <PARAGRAPH>	
 Myös	
-Facebookille	
+Facebookille	org
 on	
 ennustettu	
 kurjia	
@@ -21406,21 +21406,21 @@ laskussa
 Tämä	
 ei	
 näytä	
-Wilsonia	
+Wilsonia	per
 mietityttävän	
 ,	
 sillä	
 hän	
 povaa	
-Facebookin	
+Facebookin	org
 olevan	
 yhdessä	
-Googlen	
+Googlen	org
 kanssa	
 yksi	
 top3-yrityksistä	
-vuonna	
-2020.	
+vuonna	tim
+2020.	tim
 Se	
 kolmas	
 on	
@@ -21437,10 +21437,10 @@ kuulleetkaan
 .	
 	
 <PARAGRAPH>	
-Twitter	
+Twitter	org
 puolestaan	
 löytynee	
-Wilsonin	
+Wilsonin	per
 mukaan	
 hyvältä	
 sijalta	
@@ -21460,19 +21460,19 @@ tekemisessä
 	
 <PARAGRAPH>	
 Merkillisesti	
-TechCrunch	
+TechCrunch	org
 ei	
 sanonut	
 ,	
 omistaako	
-Wilson	
+Wilson	per
 yhdenkään	
 mainitsemansa	
 firman	
 osakkeita	
 ,	
 mutta	
-Applea	
+Applea	org
 hän	
 ei	
 ainakaan	
@@ -21483,16 +21483,16 @@ Hän
 luopui	
 omistuksestaan	
 kokonaan	
-vuonna	
-2009.	
+vuonna	tim
+2009.	tim
 	
 <PARAGRAPH>	
-Wilsonin	
-Union	
-Square	
-Ventures	
+Wilsonin	per
+Union	org
+Square	org
+Ventures	org
 mainitsee	
-Twitterin	
+Twitterin	org
 yhtenä	
 nykyisistä	
 sijoituskohteistaan	
@@ -21749,8 +21749,8 @@ Nokia	pro
 X	pro
 -puhelimet	pro
 esiteltiin	
-helmikuun	
-lopussa	
+helmikuun	tim
+lopussa	tim
 Barcelonassa	loc
 mobiilialan	
 vuosittaisilla	
@@ -21803,7 +21803,7 @@ Android-puhelimista	pro
 <HEADLINE>	
 Microsoft	org
 myi	
-loppuvuonna	
+loppuvuonna	tim
 10,5	
 miljoonaa	
 Lumiaa	pro
@@ -21836,8 +21836,8 @@ sisällä
 <PARAGRAPH>	
 Microsoftin	org
 julkistaman	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 viimeisen	
 osavuosikatsauksen	
 mukaan	
@@ -21926,8 +21926,8 @@ ennätys
 .	
 	
 Nokian	org
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 vastaava	
 määrä	
 oli	
@@ -22081,7 +22081,7 @@ Android-käyttöjärjestelmään	pro
 jolla	
 on	
 myös	
-Venäjällä	
+Venäjällä	loc
 hallitseva	
 asema	
 älypuhelimissa	
@@ -22166,8 +22166,8 @@ kilpailijoiden
 kustannuksella	
 .	
 	
-Viime	
-marraskuussa	
+Viime	tim
+marraskuussa	tim
 Euroopan	org
 parlamentti	org
 äänesti	
@@ -22324,7 +22324,7 @@ nosti
 kanteen	
 Typoa	org
 vastaan	
-maanantaina	
+maanantaina	tim
 Kaliforniassa	loc
 .	
 	
@@ -22390,8 +22390,8 @@ uutta
 kannetta	
 ,	
 mutta	
-tähän	
-asti	
+tähän	tim
+asti	tim
 yhtiö	
 ei	
 ole	
@@ -22401,8 +22401,8 @@ kovin
 hyvin	
 .	
 	
-Viime	
-maaliskuussa	
+Viime	tim
+maaliskuussa	tim
 tuomari	
 langetti	
 Typolle	org
@@ -22411,8 +22411,8 @@ llon
 ,	
 ja	
 vain	
-viikkoja	
-sitten	
+viikkoja	tim
+sitten	tim
 Typo	org
 määrättiin	
 maksamaan	
@@ -22587,9 +22587,9 @@ Sony	org
 pyytää	
 japanilaisviranomaisilta	
 lykkäystä	
-tilivuoden	
-kolmannen	
-neljänneksen	
+tilivuoden	tim
+kolmannen	tim
+neljänneksen	tim
 tulostietojen	
 raportointiin	
 .	
@@ -22601,8 +22601,8 @@ anoo
 lykkäystä	
 ,	
 koska	
-viime	
-marraskuun	
+viime	tim
+marraskuun	tim
 rampauttava	
 verkkohyökkäys	
 Sony	org
@@ -22617,17 +22617,17 @@ joitakin
 sen	
 tietojärjestelmiä	
 pimeänä	
-tähän	
-päivään	
-saakka	
+tähän	tim
+päivään	tim
+saakka	tim
 .	
 	
 Ne	
 saadaan	
 pystyyn	
 vasta	
-ensi	
-kuussa	
+ensi	tim
+kuussa	tim
 .	
 	
 <PARAGRAPH>	
@@ -22648,9 +22648,9 @@ it-sovellukset
 eivät	
 palaa	
 toimintaan	
-ennen	
-helmikuun	
-alkupuolta	
+ennen	tim
+helmikuun	tim
+alkupuolta	tim
 johtuen	
 tuhon	
 ja	
@@ -22679,16 +22679,16 @@ Tuloksen
 raportoinnin	
 takaraja	
 on	
-16.	
-helmikuuta	
+16.	tim
+helmikuuta	tim
 .	
 	
 Sony	org
 pyytää	
 lykkäystä	
-maaliskuun	
-loppuun	
-asti	
+maaliskuun	tim
+loppuun	tim
+asti	tim
 .	
 	
 <PARAGRAPH>	
@@ -22703,8 +22703,8 @@ ja
 järjestää	
 tulospuhelun	
 analyytikoille	
-4.	
-helmikuuta	
+4.	tim
+helmikuuta	tim
 ,	
 kuten	
 alun	
@@ -22713,8 +22713,8 @@ oli
 tarkoituskin	
 .	
 	
-Kolmannesta	
-neljänneksestä	
+Kolmannesta	tim
+neljänneksestä	tim
 annetaan	
 silloin	
 ennuste	
@@ -22993,9 +22993,9 @@ saa
 julkaista	
 nimellään	
 puhelimia	
-ennen	
-vuotta	
-2016	
+ennen	tim
+vuotta	tim
+2016	tim
 .	
 	
 Väitteiden	
@@ -23107,12 +23107,12 @@ nimeä
 voi	
 käyttää	
 puhelimissa	
-ennen	
-vuotta	
-2016.	
+ennen	tim
+vuotta	tim
+2016.	tim
 	
 <PARAGRAPH>	
-Tänään	
+Tänään	tim
 tulleen	
 tiedon	
 mukaan	
@@ -23151,7 +23151,7 @@ yhteydenottoja
 valmistajilta	
 .	
 	
-Marraskuussa	
+Marraskuussa	tim
 Nokia	org
 kertoi	
 Digitodaylle	org
@@ -23269,7 +23269,7 @@ kiinalaisten
 noustessa	
 .	
 	
-Huomisen	
+Huomisen	tim
 tähtiä	
 ei	
 vielä	
@@ -23291,8 +23291,8 @@ mahdollista
 ,	
 mutta	
 aikaisintaan	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 .	
 	
 Eikä	
@@ -23367,8 +23367,8 @@ Suoritinvalmistaja
 uskoo	
 mobiiliyksikön	
 pystyvän	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 parempaan	
 .	
 	
@@ -23413,7 +23413,7 @@ alla
 Intelin	org
 mobiiliyksikkö	
 teki	
-loka–joulukuussa	
+loka–joulukuussa	tim
 1,1	
 miljardia	
 dollaria	
@@ -23421,8 +23421,8 @@ tappiota
 ,	
 mikä	
 nosti	
-koko	
-vuoden	
+koko	tim
+vuoden	tim
 tappion	
 4,2	
 miljardiin	
@@ -23492,8 +23492,8 @@ uskoo
 että	
 tukiaisten	
 kutistuminen	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 parantaa	
 yksikön	
 tulosta	
@@ -23505,8 +23505,8 @@ mukaan
 mobiiliyksikön	
 kuluja	
 leikataan	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 800	
 miljoonalla	
 dollarilla	
@@ -23516,13 +23516,13 @@ Yksikön
 yhdistämisestä	
 osaksi	
 pc-yksikköä	
-tämän	
-vuoden	
-alkupuolella	
+tämän	tim
+vuoden	tim
+alkupuolella	tim
 on	
 tiedotettu	
 jo	
-aikaisemmin	
+aikaisemmin	tim
 .	
 	
 <PARAGRAPH>	
@@ -23579,8 +23579,8 @@ App	pro
 Storen	pro
 sovellusten	
 lukumäärässä	
-vuonna	
-2014.	
+vuonna	tim
+2014.	tim
 Googlen	org
 verkkokaupassa	
 on	
@@ -23627,16 +23627,16 @@ Googlelle	org
 .	
 	
 <PARAGRAPH>	
-Viime	
-vuonna	
+Viime	tim
+vuonna	tim
 Google	pro
 Play	pro
 lisäsi	
 talliinsa	
 jo	
-kolmantena	
-peräkkäisenä	
-vuotena	
+kolmantena	tim
+peräkkäisenä	tim
+vuotena	tim
 Applea	org
 enemmän	
 uusia	
@@ -23661,8 +23661,8 @@ kehittäjään
 Amazonin	org
 sovelluskauppa	
 kasvoi	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 90	
 prosenttia	
 ,	
@@ -23692,8 +23692,8 @@ käyttäjälle
 Amazon	org
 kasvatti	
 kehittäjämääräänsä	
-vuoden	
-aikana	
+vuoden	tim
+aikana	tim
 48	
 000:n	
 .	
@@ -24099,13 +24099,13 @@ comilta	org
 	
 <PARAGRAPH>	
 Päivitetty	
-14.1	
-.	
-	
-klo	
-15	
-:	
-58	
+14.1	tim
+.	tim
+	tim
+klo	tim
+15	tim
+:	tim
+58	tim
 :	
 Verkkokauppa	org
 .	org
@@ -24117,8 +24117,8 @@ Seppälän	per
 mukaan	
 yritys	
 ei	
-tällä	
-hetkellä	
+tällä	tim
+hetkellä	tim
 kommentoi	
 asiaa	
 .	
@@ -24172,10 +24172,10 @@ nauttivat
 '	
 prosentin	
 kasvusta	
-vuoden	
-2014	
-viimeisellä	
-neljänneksellä	
+vuoden	tim
+2014	tim
+viimeisellä	tim
+neljänneksellä	tim
 ,	
 kun	
 tablettien	
@@ -24194,7 +24194,7 @@ mukaan
 maailman	
 pc-toimitukset	
 kasvoivat	
-vuodentakaisesta	
+vuodentakaisesta	tim
 yhdellä	
 prosentilla	
 83,7	
@@ -24297,10 +24297,10 @@ oleva
 Dell	org
 kasvattivat	
 osuuttaan	
-vuoden	
-2013	
-viimeisestä	
-neljänneksestä	
+vuoden	tim
+2013	tim
+viimeisestä	tim
+neljänneksestä	tim
 .	
 	
 HP:n	org
@@ -24312,8 +24312,8 @@ selvästi
 .	
 	
 <PARAGRAPH>	
-Viikko	
-sitten	
+Viikko	tim
+sitten	tim
 Gartner	org
 arvioi	
 maailman	
@@ -24366,7 +24366,7 @@ sotaa
 käyneet	
 kyytienvälityspalvelut	
 yllättivät	
-ystävänpäivänä	
+ystävänpäivänä	tim
 ilmoittamalla	
 fuusiosta	
 .	
@@ -24380,11 +24380,11 @@ kummallekin
 	
 <BODY>	
 <PARAGRAPH>	
-Viime	
-vuoden	
-ensimmäisen	
-puoliskon	
-aikana	
+Viime	tim
+vuoden	tim
+ensimmäisen	tim
+puoliskon	tim
+aikana	tim
 Alibaban	org
 tukema	
 Kuaidi	org
@@ -24517,8 +24517,8 @@ taksiyrityksiin
 Kyytivälittäjien	
 kilpailu	
 kiihtyi	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 ,	
 kun	
 molemmat	
@@ -24541,10 +24541,10 @@ poikki
 <PARAGRAPH>	
 Kyytienvälityspalveluita	
 käytti	
-viime	
-vuonna	
-joulukuuhun	
-mennessä	
+viime	tim
+vuonna	tim
+joulukuuhun	tim
+mennessä	tim
 172	
 miljoonaa	
 asiakasta	
@@ -24623,7 +24623,7 @@ perustaneen
 taiwanilaisen	
 siruvalmistaja	
 MediaTekin	org
-joulukuu	
+joulukuu	tim
 sujui	
 iloisissa	
 merkeissä	
@@ -24633,11 +24633,11 @@ myynti
 kasvoi	
 30	
 prosenttia	
-edellisvuodesta	
+edellisvuodesta	tim
 ja	
 veti	
-koko	
-vuoden	
+koko	tim
+vuoden	tim
 myynnin	
 kasvuun	
 .	
@@ -24648,13 +24648,13 @@ MediaTek	org
 ,	
 joka	
 avasi	
-syksyllä	
+syksyllä	tim
 modeemikehitysyksikön	
 Ouluun	loc
 ,	
 onnistui	
 kasvattamaan	
-vuoden	
+vuoden	tim
 myyntilukunsa	
 ennätystasolle	
 213	
@@ -24688,8 +24688,8 @@ ja
 siruille	
 .	
 	
-Vuoden	
-2014	
+Vuoden	tim
+2014	tim
 aikana	
 MediaTek	org
 toimitti	
@@ -24708,7 +24708,7 @@ oli
 .	
 	
 <PARAGRAPH>	
-Joulukuun	
+Joulukuun	tim
 17,08	
 miljardiin	
 Taiwanin	loc
@@ -24721,14 +24721,14 @@ euroon
 kasvaneesta	
 liikevaihdosta	
 huolimatta	
-loka-joulukuun	
+loka-joulukuun	tim
 myynti	
 jäi	
 3,5	
 prosenttia	
-edellisvuoden	
-vastaavasta	
-jaksosta	
+edellisvuoden	tim
+vastaavasta	tim
+jaksosta	tim
 .	
 	
 <PARAGRAPH>	
@@ -24740,8 +24740,8 @@ uhkaa
 yrityksen	
 marginaaleja	
 uhkaa	
-vuonna	
-2015	
+vuonna	tim
+2015	tim
 ,	
 Commercial	org
 Times	org
@@ -24764,7 +24764,7 @@ salakatselua
 Netflixin	pro
 salakatselu	
 jatkunee	
-tulevaisuudessakin	
+tulevaisuudessakin	tim
 .	
 	
 Vpn	
@@ -24789,8 +24789,8 @@ haluja
 	
 <BODY>	
 <PARAGRAPH>	
-Viime	
-viikon	
+Viime	tim
+viikon	tim
 uutiset	
 Netflixin	pro
 ulkomaisten	
