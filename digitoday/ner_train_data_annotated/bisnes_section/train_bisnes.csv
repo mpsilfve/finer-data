@@ -216,8 +216,8 @@ Winamp	pro
 ei	
 kuole	
 ainakaan	
-nähtävissä	tim
-olevassa	tim
+nähtävissä	
+olevassa	
 tulevaisuudessa	tim
 .	
 	
@@ -309,7 +309,7 @@ tarinan
 Uskomme	
 ,	
 että	
-tulevaisuus	
+tulevaisuus	tim
 voi	
 olla	
 loistava	
@@ -1124,8 +1124,8 @@ lukujen
 mukaan	
 Kiinassa	loc
 oli	
-vuoden	
-lopussa	
+vuoden	tim
+lopussa	tim
 lähes	
 kaksi	
 kertaa	
@@ -2194,15 +2194,15 @@ matkapuhelinmarkkinoista
 kun	
 sen	
 markkinaosuus	
-vuotta	
-aiemmin	
+vuotta	tim
+aiemmin	tim
 oli	
 kahdeksan	
 prosenttia	
 ja	
-sitä	
-edellisenä	
-vuonna	
+sitä	tim
+edellisenä	tim
+vuonna	tim
 kymmenen	
 prosenttia	
 .	
@@ -2350,8 +2350,8 @@ valmistavan
 yksikön	
 liikevaihto	
 pysyi	
-loppuvuonna	
-edellisvuoden	
+loppuvuonna	tim
+edellisvuoden	btim
 lukemassa	
 .	
 	
@@ -2381,9 +2381,9 @@ edellisvuodesta	btim
 Kyseessä	
 oli	
 jo	
-seitsemäs	
-peräkkäinen	
-neljännes	
+seitsemäs	tim
+peräkkäinen	tim
+neljännes	tim
 ,	
 jolloin	
 myynti	
@@ -2990,9 +2990,9 @@ miljoonaa
 Jos	
 älylaitteita	
 myytiin	
-koko	
-vuoden	
-aikana	
+koko	tim
+vuoden	tim
+aikana	tim
 yhteensä	
 30	
 miljoonaa	
@@ -3015,7 +3015,7 @@ laitetta
 <PARAGRAPH>	
 Nokia	org
 kertoi	
-loppuvuoden	
+loppuvuoden	tim
 Lumia-myynnistä	misc
 vain	
 sen	
@@ -3023,11 +3023,11 @@ sen
 että	
 älylaitteita	
 myytiin	
-loppuvuodesta	
+loppuvuodesta	tim
 vähemmän	
 kuin	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 heinä–syyskuussa	tim
 ,	
 mutta	
@@ -3344,8 +3344,8 @@ Oman
 lisänsä	
 soppaan	
 tuo	
-vuoden	
-loppu	
+vuoden	tim
+loppu	tim
 .	
 	
 <PARAGRAPH>	
@@ -3470,7 +3470,7 @@ NSN	org
 n	org
 kannattavuuden	
 heikentyvän	
-alkuvuodesta	
+alkuvuodesta	tim
 .	
 	
 <PARAGRAPH>	
@@ -3959,8 +3959,8 @@ Laskua
 tuli	
 kolmasosa	
 edellisvuoden	tim
-vastaavan	
-ajan	
+vastaavan	tim
+ajan	tim
 3,7	
 miljardista	
 eurosta	
@@ -5447,8 +5447,8 @@ Bloombergille	borg
 	
 <PARAGRAPH>	
 Liikevaihtoennakko	
-tälle	
-neljännekselle	
+tälle	tim
+neljännekselle	tim
 pettymys	
 	
 <PARAGRAPH>	
@@ -5477,8 +5477,8 @@ Tulos
 pysyi	
 kutakuinkin	
 edellisvuoden	tim
-vastaavan	
-ajan	
+vastaavan	tim
+ajan	tim
 tasolla	
 ollen	
 13,1	
@@ -5497,15 +5497,15 @@ tulosta
 kertyi	
 14,50	
 dollaria	
-vuodentakaiseen	
+vuodentakaiseen	tim
 13,81	
 dollariin	
 verrattuna	
 .	
 	
 <PARAGRAPH>	
-Meneillään	
-olevan	
+Meneillään	tim
+olevan	tim
 toisen	tim
 neljänneksen	tim
 tulokseksi	
@@ -6173,7 +6173,7 @@ patentit
 Yrityksillä	
 on	
 jo	
-aikaisemmin	
+aikaisemmin	tim
 ollut	
 patenttiyhteistyötä	
 matkapuhelimissa	
@@ -6530,13 +6530,13 @@ noin
 4,9	
 miljardiin	
 euroon	
-vuotta	
-aikaisempaan	
+vuotta	tim
+aikaisempaan	tim
 verrattuna	
 .	
 	
-Edeltävästä	
-neljänneksestä	
+Edeltävästä	tim
+neljänneksestä	tim
 tulos	
 heikkeni	
 11	
@@ -6684,7 +6684,7 @@ Matkapuhelinyksikön
 liiketulos	
 oli	
 suunnilleen	
-vuodentakaisella	
+vuodentakaisella	tim
 tasolla	
 noin	
 3,7	
@@ -6746,8 +6746,8 @@ koheni
 1,3	
 miljardiin	
 euroon	
-vuotta	
-aiemmasta	
+vuotta	tim
+aiemmasta	tim
 vajaasta	
 miljardista	
 eurosta	
@@ -7114,7 +7114,7 @@ kasvoi
 loka–joulukuussa	tim
 63	
 prosenttia	
-edellisvuodesta	
+edellisvuodesta	tim
 2,6	
 miljardiin	
 dollariin	
@@ -7137,8 +7137,8 @@ kasvoi
 523	
 miljoonaan	
 dollariin	
-vuoden	
-takaisesta	
+vuoden	tim
+takaisesta	tim
 64	
 miljoonasta	
 dollarista	
@@ -7173,8 +7173,8 @@ neljänneksellä	tim
 runsaat	
 kolme	
 prosenttia	
-edellisestä	
-neljänneksestä	
+edellisestä	tim
+neljänneksestä	tim
 runsaaseen	
 1,2	
 miljardiin	
@@ -9710,8 +9710,8 @@ Springsissä	loc
 .	
 	
 <PARAGRAPH>	
-Tällä	
-hetkellä	
+Tällä	tim
+hetkellä	tim
 uuden	
 sivun	
 yhdeksään	
@@ -10516,8 +10516,8 @@ euroa
 ,	
 kun	
 se	
-vuotta	
-aikaisemmin	
+vuotta	tim
+aikaisemmin	tim
 oli	
 1,5	
 miljardia	
@@ -11268,7 +11268,7 @@ IBM:n	org
 tavoitteista	
 .	
 	
-Nyt	
+Nyt	tim
 liiketoimintaa	
 kuitenkin	
 laajennetaan	
@@ -11320,7 +11320,7 @@ tarinat
 "	
 ovat	
 historiaa	
-keväällä	
+keväällä	tim
 ,	
 mutta	
 käyttäjien	
@@ -12026,8 +12026,8 @@ johtajan
 etsintä	
 saadaan	
 päätökseen	
-vuoden	
-alkupuolella	
+vuoden	tim
+alkupuolella	tim
 .	
 	
 <PARAGRAPH>	
@@ -14214,8 +14214,8 @@ loppuun
 suhteellisen	
 nopeasti	
 ,	
-90	
-päivässä	
+90	tim
+päivässä	tim
 .	
 	
 <PARAGRAPH>	
@@ -14566,8 +14566,8 @@ laski
 tammikuussa	tim
 ensimmäisen	
 kerran	
-viiteen	
-vuoteen	
+viiteen	tim
+vuoteen	tim
 alle	
 75	
 prosentin	
@@ -30060,9 +30060,9 @@ voivat
 uudet	
 ehdot	
 takautuvasti	
-vuoden	
-alusta	
-lähtien	
+vuoden	tim
+alusta	tim
+lähtien	tim
 .	
 	
 <PARAGRAPH>	
@@ -30206,7 +30206,7 @@ prosenttia
 Applen	org
 mahtavasti	
 sujunut	
-loka-joulukuun	
+loka-joulukuun	tim
 myynti	
 toi	
 sille	
@@ -30262,8 +30262,8 @@ jatkuvan
 niin	
 ,	
 että	
-vuoden	
-2018	
+vuoden	tim
+2018	tim
 1,8	
 miljardista	
 älypuhelimen	
@@ -30353,10 +30353,10 @@ Times	org
 muistutti	
 ,	
 että	
-edellisen	
-vuoden	
-neljännellä	
-vuosineljänneksellä	
+edellisen	tim
+vuoden	tim
+neljännellä	tim
+vuosineljänneksellä	tim
 Applen	org
 osuus	
 älypuhelimista	
@@ -30572,9 +30572,9 @@ katselukin
 lisääntyi	
 40	
 prosenttia	
-vuonna	
-2014	
-edellisvuoteen	
+vuonna	tim
+2014	tim
+edellisvuoteen	btim
 verrattuna	
 .	
 	
@@ -30908,8 +30908,8 @@ Grayta	pro
 Elokuva	
 saapuu	
 Viaplayhin	pro
-vuoden	
-lopulla	
+vuoden	tim
+lopulla	tim
 ,	
 ja	
 Steiberia	per
