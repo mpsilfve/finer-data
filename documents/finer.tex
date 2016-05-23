@@ -136,7 +136,7 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 
 \paragraph{Temporal}
 
-In order to mark temporal expressions, we adopt the TIMEX3 annotation guideline specified for the SemEval-2010: Tempeval-2 evaluation task for English \citep{verhagen2010}.\footnote{The guideline is available at \url{http://www.timeml.org/tempeval2/tempeval2-trial/guidelines/timex3guidelines-072009.pdf}} The guideline contains the following temporal expressions (TIMEXes): 
+In order to mark temporal expressions, we adopt the TIMEX3 annotation guideline specified for the SemEval-2010: Tempeval-2 evaluation task for English \citep{verhagen2010}.\footnote{The TIMEX3 guideline is available at \url{http://www.timeml.org/tempeval2/tempeval2-trial/guidelines/timex3guidelines-072009.pdf}} The guideline contains the following extents (or spans) for temporal expressions (TIMEXes): 
 
 \begin{itemize}
 
@@ -148,9 +148,12 @@ In order to mark temporal expressions, we adopt the TIMEX3 annotation guideline 
 
 \end{itemize}
 
+To be markable, the syntactic head of the expression must be an appropriate lexical trigger. Each lexical trigger is a word or numeric expression whose meaning conveys a temporal unit or concept, such as ''day''
+or ''monthly''. Furthermore, to be a trigger, the referent must be able to be oriented on a timeline, or at least oriented with relation to a time (past, present, future). These instructions are adopted here as presented in the TIMEX2 guideline, an earlier version of the TIMEX3 standard.\footnote{The TIMEX2 guideline is available at \url{https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-timex2-guidelines-v0.1.pdf}.} % In addition to the extents, the TIMEX annotation specifies the . 
+
 %In what follows, we discuss how to adopt the above TIMEX3 scheme to Finnish.
 
-Note that, according to English specifications \citep{verhagen2010}, the expressions can not begin with a Preposition or a clause of any type. Thus, in the following, only the bolded parts are considered valid English TIMEX3 expressions: before \textbf{Thursday}, in \textbf{the morning}, after the strike ended on \textbf{Thursday}, over \textbf{the last 2 years}. As for Finnish, we extend this rule to consider Postpositions as well as Prepositions. Consequently, in the following, only the bolded parts are markable Finnish TIMEX3 expressions: ennen \textbf{torstaita} (before Thursday), \textbf{torstain} j\"alkeen (after Thursday). However, we allow the Prepositions and Postpositions if they are included in the expression via inflection.For example, we consider the following valid Finnish TIMEX3 expressions: torstaina (on Thursday), kes\"all\"a (in the summer).
+Note that, according to English specifications \citep{verhagen2010}, the expressions can not begin with a Preposition or a clause of any type. Thus, in the following, only the bolded parts are considered valid English temporal expressions: before \textbf{Thursday}, in \textbf{the morning}, after the strike ended on \textbf{Thursday}, over \textbf{the last 2 years}. As for Finnish, we extend this rule to consider Postpositions as well as Prepositions. Consequently, in the following, only the bolded parts are markable Finnish temporal expressions: ennen \textbf{torstaita} (before Thursday), \textbf{torstain} j\"alkeen (after Thursday). However, we allow the Prepositions and Postpositions if they are included in the expression via inflection. For example, we consider the following valid Finnish temporal expressions: torstaina (on Thursday), kes\"all\"a (in the summer).
 
 
 
@@ -184,6 +187,7 @@ Note that, according to English specifications \citep{verhagen2010}, the express
 \label{sec: conclusions}
 
 
+Future work: Fine-grained annotation. TIMEX3 anntation: value and type.
 
 
 
