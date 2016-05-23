@@ -98,7 +98,9 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a fundamental information extraction task, in which the aim is to locate and classify expressions in text to pre-defined classes, such as persons, locations, and organizations. 
+Named entity recognition (NER) is a textual information extraction task, in which expressions are located and classified to pre-defined classes, such as persons, locations, and organizations. Where can be used?
+
+
 
 
 
@@ -132,7 +134,7 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 
 \paragraph{Temporal}
 
-The markable temporal expressions are adopted from the TIMEX3 annotation guideline specified for the SemEval-2010: Tempeval-2 evaluation task for English \citep{verhagen2010}.\footnote{The guideline is available at \url{http://www.timeml.org/tempeval2/tempeval2-trial/guidelines/timex3guidelines-072009.pdf}} The guideline specifies the following temporal expressions (timexes): 
+In order to mark temporal expressions, we adopt the TIMEX3 annotation guideline specified for the SemEval-2010: Tempeval-2 evaluation task for English \citep{verhagen2010}.\footnote{The guideline is available at \url{http://www.timeml.org/tempeval2/tempeval2-trial/guidelines/timex3guidelines-072009.pdf}} The guideline contains the following temporal expressions (TIMEXes): 
 
 \begin{itemize}
 
@@ -146,7 +148,7 @@ The markable temporal expressions are adopted from the TIMEX3 annotation guideli
 
 %In what follows, we discuss how to adopt the above TIMEX3 scheme to Finnish.
 
-Note that according to English specifications, the expressions can not begin with a Preposition or a clause of any type. Thus, the following are not allowed as English TIMEX3 expressions: before Thursday, in the morning, after the strike ended on Thursday, over the last 2 years. Meanwhile, each of the previous contain partial markable expressions: before \textbf{Thursday}, in \textbf{the morning}, after the strike ended on \textbf{Thursday}, over \textbf{the last 2 years}. As for Finnish, we extend this rule to apply for Postpositions and well as Prepositions. Thus, the following are not allowed as Finnish TIMEX3 expressions: ennen torstaita (before Thursday), torstain j\"alkeen (after Thursday). However, the Prepositions and Postpositions are allowed if they are incorporated in to the expression via inflection. Therefore, the following are allowed as Finnish TIMEX3 expressions: torstaina (on Thursday), kesällä (in the summer). 
+Note that, according to English specifications \citep{verhagen2010}, the expressions can not begin with a Preposition or a clause of any type. Thus, in the following, only the bolded parts are considered valid English TIMEX3 expressions: before \textbf{Thursday}, in \textbf{the morning}, after the strike ended on \textbf{Thursday}, over \textbf{the last 2 years}. As for Finnish, we extend this rule to consider Postpositions as well as Prepositions. Thus, in the following, only the bolded parts are markable Finnish TIMEX3 expressions: ennen \textbf{torstaita} (before Thursday), \textbf{torstain} j\"alkeen (after Thursday). However, the Prepositions and Postpositions are allowed if they are incorporated in to the expression via inflection. Therefore, the following are allowed as Finnish TIMEX3 expressions: torstaina (on Thursday), kesällä (in the summer).
 
 
 
