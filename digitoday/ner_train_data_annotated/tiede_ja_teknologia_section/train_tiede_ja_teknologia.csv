@@ -1,6 +1,6 @@
-
+	
 <HEADLINE>	
-Nyt	
+Nyt	tim
 sen	
 näkee	
 jo	
@@ -64,15 +64,15 @@ on
 silti	
 pysynyt	
 arvoituksellisena	
-näihin	
-päiviin	
+näihin	tim
+päiviin	tim
 asti	
 .	
 	
 <PARAGRAPH>	
 Dawn	pro
 asettuu	
-maaliskuussa	
+maaliskuussa	tim
 kiertämään	
 Cerestä	loc
 ,	
@@ -157,8 +157,8 @@ Dawn	pro
 otti	
 uudet	
 kuvat	
-12.	
-helmikuuta	
+12.	tim
+helmikuuta	tim
 83	
 000	
 kilometrin	
@@ -208,7 +208,7 @@ Russell	per
 sanailee	
 tiedotteessa	
 .	
-
+	
 <HEADLINE>	
 Rosetta	pro
 huutaa	
@@ -229,7 +229,7 @@ komeettaluotain
 heräsi	
 pitkästä	
 horroksestaan	
-maanantaina	
+maanantaina	tim
 tiedemiesten	
 suureksi	
 helpotukseksi	
@@ -240,7 +240,7 @@ helpotukseksi
 Pitkä	
 jännitys	
 päättyi	
-maanantaina	
+maanantaina	tim
 illalla	
 Suomen	loc
 aikaa	
@@ -258,8 +258,8 @@ yhteyttä
 Maahan	loc
 oltuaan	
 horroksessa	
-31	
-kuukautta	
+31	tim
+kuukautta	tim
 .	
 	
 <PARAGRAPH>	
@@ -284,12 +284,12 @@ ikkuna
 viestin	
 vastaanottamiseksi	
 aukesi	
-kello	
-19.30	
+kello	tim
+19.30	tim
 ja	
 olisi	
 päättynyt	
-tuntia	
+tuntia	tim
 myöhemmin	
 .	
 	
@@ -322,7 +322,7 @@ torkkunappia
 ,	
 ja	
 jännittyneen	
-päivän	
+päivän	tim
 päätteeksi	
 olemme	
 aivan	
@@ -379,7 +379,7 @@ Tehtävän
 tärkein	
 hetki	
 koittaa	
-marraskuussa	
+marraskuussa	tim
 ,	
 jolloin	
 Rosettasta	pro
@@ -418,7 +418,7 @@ Päivitys
 Lisätty	
 tietoja	
 .	
-
+	
 <HEADLINE>	
 Tutkijoiden	
 pyyntö	
@@ -445,7 +445,7 @@ suhteen
 virheellistä	
 tietoa	
 todisteeksi	
-tulevaisuuden	
+tulevaisuuden	tim
 aikamatkustajista	
 .	
 	
@@ -489,8 +489,8 @@ verkkokommunikaatiosta
 	
 Tutkimuksessa	
 etsittiin	
-tulevaisuudesta	
-menneisyyteen	
+tulevaisuudesta	tim
+menneisyyteen	btim
 matkanneita	
 henkilöitä	
 .	
@@ -511,8 +511,8 @@ Franciscuksesta	per
 ennen	
 tämän	
 valintaa	
-maaliskuussa	
-2013	
+maaliskuussa	tim
+2013	tim
 ,	
 sekä	
 tietoa	
@@ -521,17 +521,17 @@ ennen
 sen	
 ensimmäistä	
 havainnointia	
-vuoden	
-2012	
-syyskuussa	
+vuoden	tim
+2012	tim
+syyskuussa	tim
 .	
 	
 <PARAGRAPH>	
 Lisäksi	
 tutkijat	
 pyysivät	
-syyskuussa	
-2013	
+syyskuussa	tim
+2013	tim
 suoraan	
 mahdollisia	
 aikamatkustajia	
@@ -546,8 +546,8 @@ tai
 #	
 ICannotChangeThePast2	
 ennen	
-elokuuta	
-2013.	
+elokuuta	tim
+2013.	tim
 Jälkimmäistä	
 termiä	
 pyydettiin	
@@ -560,7 +560,7 @@ eivät
 uskoneet	
 pystyvänsä	
 muuttamaan	
-menneisyyttä	
+menneisyyttä	tim
 .	
 	
 <PARAGRAPH>	
@@ -583,7 +583,7 @@ todistusaineistosta
 aikamatkustuksen	
 kumoamiseen	
 .	
-
+	
 <HEADLINE>	
 NSA	org
 kilpailee	
@@ -753,8 +753,8 @@ ovat
 ottaneet	
 huomattavia	
 edistysaskelia	
-kuluneen	
-vuosikymmenen	
+kuluneen	tim
+vuosikymmenen	tim
 aikana	
 ja	
 saaneet	
@@ -769,7 +769,7 @@ Washington	org
 Postin	org
 mukaan	
 .	
-
+	
 <HEADLINE>	
 Tutkimus	
 :	
@@ -779,7 +779,7 @@ menettää
 %	
 käyttäjistään	
 1—3	
-vuodessa	
+vuodessa	tim
 	
 <DATE>	
 22.1.2014 11:59	
@@ -808,10 +808,10 @@ menettää
 neljä	
 viidestä	
 käyttäjästään	
-vuosien	
-2015	
+vuosien	tim
+2015	tim
 ja	
-2017	
+2017	tim
 välillä	
 ,	
 kertoo	
@@ -930,7 +930,7 @@ ole
 vertaisarvioitu	
 tieteellisesti	
 .	
-
+	
 <HEADLINE>	
 Hehkuvat	
 värit	
@@ -983,9 +983,9 @@ Amerikkalais-israelilainen
 yritys	
 sai	
 mediahuomiota	
-viime	
-vuoden	
-toukokuussa	
+viime	tim
+vuoden	tim
+toukokuussa	tim
 ,	
 kun	
 se	
@@ -1142,8 +1142,8 @@ kehitystiimin
 .	
 	
 <PARAGRAPH>	
-Vuonna	
-2012	
+Vuonna	tim
+2012	tim
 Stratasys	org
 fuusioitui	
 israelilaisen	
@@ -1162,14 +1162,14 @@ miljardia
 dollaria	
 .	
 	
-Tänään	
+Tänään	tim
 se	
 on	
 5,92	
 miljardia	
 dollaria	
 .	
-
+	
 <HEADLINE>	
 Huhu	
 "	pro
@@ -1229,7 +1229,7 @@ Matt	per
 Margolis	per
 kokosi	
 yhteen	
-viimeaikaisia	
+viimeaikaisia	tim
 tiedonjyviä	
 Seeking	pro
 Alpha	pro
@@ -1343,8 +1343,8 @@ teknologiaa
 jolla	
 Apple	org
 voisi	
-pitkästä	
-aikaa	
+pitkästä	tim
+aikaa	tim
 erottautua	
 kunnolla	
 markkinoilla	
@@ -1429,7 +1429,7 @@ sellaisen
 teknologian	
 parissa	
 .	
-
+	
 <HEADLINE>	
 Vakava	
 ongelma	
@@ -1458,9 +1458,9 @@ vikaan
 <BODY>	
 <PARAGRAPH>	
 Kiinan	loc
-joulukuun	
-puolivälissä	
-Kuuhun	
+joulukuun	tim
+puolivälissä	tim
+Kuuhun	loc
 laskeutunut	
 Yutu-mönkijä	pro
 ei	
@@ -1543,8 +1543,8 @@ juuri
 koittamassa	
 sen	
 toinen	
-kaksiviikkoinen	
-yö	
+kaksiviikkoinen	tim
+yö	btim
 Kuussa	loc
 ,	
 jolloin	
@@ -1595,8 +1595,8 @@ on
 toiminut	
 Mars-planeetalla	loc
 jo	
-kymmenen	
-vuotta	
+kymmenen	tim
+vuotta	tim
 .	
 	
 <PARAGRAPH>	
@@ -1609,10 +1609,10 @@ Yutun	pro
 päätehtävän	
 piti	
 kestää	
-kolme	
-kuukautta	
+kolme	tim
+kuukautta	tim
 .	
-
+	
 <HEADLINE>	
 10	
 vuotta	
@@ -1649,8 +1649,8 @@ Tehtävän
 piti	
 kestää	
 vähintään	
-kolme	
-kuukautta	
+kolme	tim
+kuukautta	tim
 .	
 	
 Sen	
@@ -1675,7 +1675,7 @@ työskentelevänsä
 sen	
 kanssa	
 vielä	
-vuosikymmen	
+vuosikymmen	tim
 myöhemmin	
 .	
 	
@@ -1684,10 +1684,10 @@ Opportunityn	pro
 laskeutumisesta	
 Marsiin	loc
 tuli	
-lauantaina	
+lauantaina	tim
 kuluneeksi	
-kymmenen	
-vuotta	
+kymmenen	tim
+vuotta	tim
 ,	
 mutta	
 tieteen	
@@ -1707,19 +1707,19 @@ ole
 tapahtunut	
 juurikaan	
 muutoksia	
-viimeisen	
-vuoden	
+viimeisen	tim
+vuoden	tim
 aikana	
 .	
 	
 <PARAGRAPH>	
 –	
 Tarkastelemme	
-tällä	
-viikolla	
+tällä	tim
+viikolla	tim
 Opportunityn	pro
 ensimmäisen	
-vuosikymmenen	
+vuosikymmenen	tim
 perintöä	
 ,	
 mutta	
@@ -1756,7 +1756,7 @@ aivan
 kuten	
 tehtävän	
 ensimmäisellä	
-viikolla	
+viikolla	tim
 ,	
 päätiedemies	tit
 Steve	per
@@ -1775,7 +1775,7 @@ kuin
 tyhjästä	
 Opportunityn	pro
 viereen	
-äskettäin	
+äskettäin	tim
 .	
 	
 <PARAGRAPH>	
@@ -1789,8 +1789,8 @@ kilometriä
 mikä	
 tekee	
 siitä	
-kaikkien	
-aikojen	
+kaikkien	tim
+aikojen	tim
 pisimmälle	
 ajaneen	
 avaruu	
@@ -1808,8 +1808,8 @@ hyvin
 pitkään	
 ,	
 eli	
-kuusi	
-vuotta	
+kuusi	tim
+vuotta	tim
 ,	
 kunnes	
 se	
@@ -1897,8 +1897,8 @@ kohtalosta
 päätetään	
 seuraavan	
 kerran	
-ensi	
-keväänä	
+ensi	tim
+keväänä	tim
 .	
 	
 Ei	
@@ -1909,7 +1909,7 @@ saako
 tehtävä	
 jatkorahoituksen	
 .	
-
+	
 <HEADLINE>	
 Ford	org
 esittelee	
@@ -1931,8 +1931,8 @@ aikoo
 esitellä	
 Las	loc
 Vegasissa	loc
-ensi	
-viikolla	
+ensi	tim
+viikolla	tim
 aurinkopaneeleilla	
 varustetun	
 auton	
@@ -2029,13 +2029,13 @@ Fordin	org
 tiedotteen	
 mukaan	
 koko	
-päivän	
+päivän	tim
 lataus	
 tallentaa	
 energiaa	
 akun	
-neljän	
-tunnin	
+neljän	tim
+tunnin	tim
 käyttöön	
 eli	
 kahdeksan	
@@ -2062,7 +2062,7 @@ majakoiden
 valon	
 vahvistamiseen	
 ,	
-nykyään	
+nykyään	tim
 niitä	
 käytetään	
 muissa	
@@ -2106,8 +2106,8 @@ CES	event
 ,	
 joka	
 käynnistyy	
-7.	
-tammikuuta	
+7.	tim
+tammikuuta	tim
 Las	loc
 Vegasissa	loc
 .	
@@ -2156,7 +2156,7 @@ yllä
 akun	
 varausta	
 .	
-
+	
 <HEADLINE>	
 Kyborgiproteesi	
 toi	
@@ -2201,7 +2201,7 @@ joustavuuden
 Roomassa	loc
 suoritetussa	
 operaatiossa	
-36-vuotias	
+36-vuotias	tim
 Dennis	per
 Aabo	per
 Sørensen	per
@@ -2211,9 +2211,9 @@ menetti
 vasemman	
 kätensä	
 ilotuliteonnettomuudessa	
-kymmenisen	
-vuotta	
-sitten	
+kymmenisen	tim
+vuotta	tim
+sitten	tim
 ,	
 sai	
 kädentyngän	
@@ -2231,8 +2231,8 @@ hermoimpulsseiksi
 	
 Impulsseja	
 testattiin	
-pari	
-viikkoa	
+pari	tim
+viikkoa	tim
 ennen	
 kuin	
 älyproteesi	
@@ -2284,8 +2284,8 @@ sai
 käyttää	
 kyborgikättä	
 vain	
-pari	
-viikkoa	
+pari	tim
+viikkoa	tim
 ,	
 jonka	
 jälkeen	
@@ -2412,7 +2412,7 @@ Sanomat	org
 ja	
 BBC	org
 .	
-
+	
 <HEADLINE>	
 Yllättävä	
 löytö	
@@ -2486,8 +2486,8 @@ vakavin
 seurauksin	
 .	
 	
-Viime	
-kuukausina	
+Viime	tim
+kuukausina	tim
 litiumioniakut	
 ovat	
 palaneet	
@@ -2579,10 +2579,10 @@ Sciences	org
 -julkaisun	org
 maksullisessa	
 artikkelissa	
-10.	
-helmikuuta	
+10.	tim
+helmikuuta	tim
 .	
-
+	
 <HEADLINE>	
 Virgin	org
 Atlantic	org
@@ -2626,8 +2626,8 @@ uutta
 teknologiaa	
 ensin	
 Lontoossa	loc
-kuusi	
-viikkoa	
+kuusi	tim
+viikkoa	tim
 kestävässä	
 kokeilussa	
 ,	
@@ -2774,7 +2774,7 @@ virtuaalilaseihin
 tai	
 älykelloon	
 .	
-
+	
 <HEADLINE>	
 Vihdoinkin	
 onnistui	
@@ -2814,8 +2814,8 @@ kaupallinen
 Cygnus-rahtialus	pro
 laukaistiin	
 avaruuteen	
-hetki	
-sitten	
+hetki	tim
+sitten	tim
 Wallops	loc
 Islandista	loc
 Yhdysvaltain	bloc
@@ -2838,8 +2838,8 @@ kokeellinen
 ensilento	
 asemalle	
 tehtiin	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 .	
 	
 <PARAGRAPH>	
@@ -2866,7 +2866,7 @@ itsestään
 	
 <PARAGRAPH>	
 Ensin	
-joulukuun	
+joulukuun	tim
 laukaisun	
 pilasi	
 avaruusaseman	
@@ -2883,12 +2883,12 @@ tuloa
 avaruuskävelyillä	
 .	
 	
-Tällä	
-viikolla	
+Tällä	tim
+viikolla	tim
 laukaisun	
 piti	
 tapahtua	
-tiistaina	
+tiistaina	tim
 ,	
 mutta	
 poikkeuksellisen	
@@ -2899,7 +2899,7 @@ sen
 .	
 	
 <PARAGRAPH>	
-Keskiviikkona	
+Keskiviikkona	tim
 kaikki	
 näytti	
 sään	
@@ -2942,7 +2942,7 @@ nousuvaiheen
 	
 <PARAGRAPH>	
 Viimein	
-torstaina	
+torstaina	tim
 myös	
 avaruussää	
 rauhoittui	
@@ -2999,9 +2999,9 @@ on
 määrä	
 saapua	
 asemalle	
-sunnuntaina	
+sunnuntaina	tim
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 uusin	
@@ -3047,7 +3047,7 @@ kyynelistä
 <PARAGRAPH>	
 Google	org
 paljasti	
-torstaina	
+torstaina	tim
 ,	
 että	
 sen	
@@ -3071,8 +3071,8 @@ annetuista
 rajoista	
 .	
 	
-Tällä	
-hetkellä	
+Tällä	tim
+hetkellä	tim
 verensokeri	
 mitataan	
 verestä	
@@ -3186,7 +3186,7 @@ Prototyyppi
 mittaa	
 verensokeria	
 kerran	
-sekunnissa	
+sekunnissa	tim
 .	
 	
 Tutkijat	
@@ -3221,8 +3221,8 @@ mukaan
 arvioidaan	
 ,	
 että	
-vuoteen	
-2025	
+vuoteen	tim
+2025	tim
 mennessä	
 aikuisten	
 diabetespotilaiden	
@@ -3231,7 +3231,7 @@ kasvaa
 380	
 miljoonaan	
 .	
-
+	
 <HEADLINE>	
 Nasan	org
 ihmevekotin	
@@ -3257,7 +3257,7 @@ Mutta
 laukaisuun	
 on	
 vielä	
-vuosia	
+vuosia	tim
 .	
 	
 <BODY>	
@@ -3306,8 +3306,8 @@ noin
 miljoonaa	
 euroa	
 pelkästään	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 .	
 	
 Presidentti	tit
@@ -3317,8 +3317,8 @@ saattaa
 allekirjoittaa	
 rahoituslain	
 jo	
-tänään	
-keskiviikkona	
+tänään	tim
+keskiviikkona	btim
 .	
 	
 <PARAGRAPH>	
@@ -3350,8 +3350,8 @@ laukaisun
 avaruuteen	
 pitäisi	
 tapahtua	
-vuonna	
-2018.	
+vuonna	tim
+2018.	tim
 	
 <PARAGRAPH>	
 JWST	pro
@@ -3364,7 +3364,7 @@ kruununjalokivi
 joka	
 on	
 korvaamassa	
-vuosikymmeniä	
+vuosikymmeniä	tim
 palvelleen	
 Hubble-avaruuskaukoputken	pro
 .	
@@ -3402,18 +3402,18 @@ myötä
 epävarmuus	
 koko	
 vempaimen	
-tulevaisuudesta	
+tulevaisuudesta	tim
 .	
 	
-Vuonna	
-2011	
+Vuonna	tim
+2011	tim
 koko	
 hanke	
 oli	
 joutua	
 romukoppaan	
 .	
-
+	
 <HEADLINE>	
 Oudossa	
 hotellissa	
@@ -3459,8 +3459,8 @@ Boch	loc
 -teemapuistossa	loc
 .	
 	
-17.	
-heinäkuuta	
+17.	tim
+heinäkuuta	tim
 avautuvan	
 majoituspaikan	
 nimi	
@@ -3629,7 +3629,7 @@ kertaa
 vakiohintaa	
 korkeampi	
 .	
-
+	
 <HEADLINE>	
 Parannusta	
 iPhonen	pro
@@ -3821,7 +3821,7 @@ kuva
 .	
 	
 )	
-
+	
 <HEADLINE>	
 Jännittävä	
 tehtävä	
@@ -3872,7 +3872,7 @@ Nasa	pro
 	
 <PARAGRAPH>	
 –	
-Tulevaisuutta	
+Tulevaisuutta	tim
 ajatellen	
 ,	
 suunnittelemme	
@@ -3883,8 +3883,8 @@ Europa-kuun	loc
 tutkimiseksi	
 valitsemalla	
 tiedelaitteet	
-tänä	
-keväänä	
+tänä	tim
+keväänä	tim
 ja	
 etenemällä	
 työmme	
@@ -3908,8 +3908,8 @@ Nasalle	org
 30	
 miljoonaa	
 dollaria	
-tilivuodelle	
-2016	
+tilivuodelle	tim
+2016	tim
 Europa-tehtävän	pro
 hahmottamiseksi	
 .	
@@ -3922,8 +3922,8 @@ tehtävälle
 100	
 miljoonaa	
 dollaria	
-vuoden	
-2015	
+vuoden	tim
+2015	tim
 budjetissaan	
 .	
 	
@@ -3974,7 +3974,7 @@ Europaan	loc
 on	
 kuitenkin	
 vielä	
-vuosien	
+vuosien	tim
 päässä	
 .	
 	
@@ -3989,8 +3989,8 @@ ollenkaan
 koittaisi	
 todennäköisesti	
 vasta	
-2020-luvun	
-puolella	
+2020-luvun	tim
+puolella	tim
 .	
 	
 <PARAGRAPH>	
@@ -4041,13 +4041,13 @@ Saturnusta	loc
 kiertävä	
 Enceladus	loc
 .	
-
+	
 <HEADLINE>	
 Tesla	org
 käynnistää	
 kotiakkujen	
 tuotannon	
-syksyllä	
+syksyllä	tim
 	
 <DATE>	
 19.2.2015 11:30	
@@ -4069,8 +4069,8 @@ tarkoitettujen
 akkujen	
 tuotannon	
 suunnilleen	
-puolen	
-vuoden	
+puolen	tim
+vuoden	tim
 sisällä	
 .	
 	
@@ -4083,8 +4083,8 @@ kotien
 energiatallennukseen	
 tarkoitetuista	
 litium-ioniakuista	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 yhtiön	
 tulosjulkistuksen	
 yhteydessä	
@@ -4122,8 +4122,8 @@ tuotannon
 pitäisi	
 käynnistyä	
 suunnilleen	
-kuuden	
-kuukauden	
+kuuden	tim
+kuukauden	tim
 päästä	
 .	
 	
@@ -4136,7 +4136,7 @@ julkistusajankohtaa
 se	
 tapahtuu	
 luultavasti	
-kuukauden	
+kuukauden	tim
 tai	
 kahden	
 kuluessa	
@@ -4177,8 +4177,8 @@ varjoon
 	
 Quartz	org
 kirjoitti	
-viime	
-kesäkuussa	
+viime	tim
+kesäkuussa	tim
 Morgan	org
 Stanleyn	org
 arviosta	
@@ -4192,7 +4192,7 @@ kotiakuilla
 kaksi	
 miljardia	
 dollaria	
-vuodessa	
+vuodessa	tim
 .	
 	
 <PARAGRAPH>	
@@ -4284,7 +4284,7 @@ puheenjohtaja
 <PARAGRAPH>	
 Rive	per
 hahmottaa	
-tulevaisuutta	
+tulevaisuutta	tim
 ,	
 jossa	
 akkuihin	
@@ -4293,7 +4293,7 @@ puhdas
 aurinkoenergia	
 voidaan	
 jaella	
-nykyistä	
+nykyistä	tim
 tehokkaammin	
 ja	
 jossa	
@@ -4303,7 +4303,7 @@ hyötyä
 kustannusten	
 laskusta	
 .	
-
+	
 <HEADLINE>	
 Video	
 laskeutuvasta	
@@ -4476,7 +4476,7 @@ saavutus
 .	
 	
 <PARAGRAPH>	
-Tammikuinen	
+Tammikuinen	tim
 koe	
 raketin	
 palauttamiseksi	
@@ -4494,7 +4494,7 @@ ollut
 tarpeeksi	
 hydraulinestettä	
 .	
-
+	
 <HEADLINE>	
 Ensimmäiset	
 digitaaliset	
@@ -4531,7 +4531,7 @@ Delawaren	org
 osavaltion	org
 edustajainhuone	org
 hyväksyi	
-torstaina	
+torstaina	tim
 päätöslauselman	
 ,	
 joka	
@@ -4547,8 +4547,8 @@ digitaalista
 säilytettävää	
 ajokorttia	
 vielä	
-tänä	
-vuonna	
+tänä	tim
+vuonna	tim
 .	
 	
 <PARAGRAPH>	
@@ -4612,7 +4612,7 @@ muassa
 CBS	org
 News	org
 .	
-
+	
 <HEADLINE>	
 Tässä	
 on	
@@ -4801,7 +4801,7 @@ oli
 läheinen	
 ystävä	
 .	
-
+	
 <HEADLINE>	
 "	
 Maapallon	
@@ -4823,7 +4823,7 @@ siitä
 lähtien	
 ,	
 kun	
-nyt	
+nyt	tim
 jo	
 vikaantunut	
 Kepler-kaukoputki	pro
@@ -4971,7 +4971,7 @@ vastaa
 parhaimmillaan	
 auringon	
 kirkkautta	
-tunti	
+tunti	tim
 ennen	
 sen	
 laskua	
@@ -5067,8 +5067,8 @@ kokoisten
 planeettojen	
 löytämiseksi	
 päättyi	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 tekniseen	
 vikaan	
 .	
@@ -5080,7 +5080,7 @@ kerätä
 tutkijoille	
 pengottavaa	
 aineistoa	
-vuosikausiksi	
+vuosikausiksi	tim
 .	
 	
 Lisäksi	
@@ -5092,7 +5092,7 @@ muuta
 tieteellistä	
 käyttöä	
 .	
-
+	
 <HEADLINE>	
 Ohittuuko	
 nettipelaajan	
@@ -5100,7 +5100,7 @@ nettipelaajan
 huippukunto	
 "	
 jo	
-24-vuotiaana	
+24-vuotiaana	tim
 ?	
 	
 <DATE>	
@@ -5117,7 +5117,7 @@ silmä-käsi
 saavuttavat	
 huippunsa	
 viimeistään	
-24-vuotiaana	
+24-vuotiaana	tim
 ,	
 Science	org
 Daily	org
@@ -5127,8 +5127,8 @@ kertoo
 <BODY>	
 <PARAGRAPH>	
 Viimeistään	
-24	
-vuoden	
+24	tim
+vuoden	tim
 jälkeen	
 kognitiiviset	
 motoriset	
@@ -5183,8 +5183,8 @@ pelihistoriat
 Pelaajat	
 olivat	
 iältään	
-16–44	
-vuotiaita	
+16–44	tim
+vuotiaita	tim
 .	
 	
 <PARAGRAPH>	
@@ -5263,7 +5263,7 @@ sanoi
 	
 <PARAGRAPH>	
 Yli	
-24-vuotiaat	
+24-vuotiaat	tim
 esimerkiksi	
 käyttivät	
 nuorempia	
@@ -5271,7 +5271,7 @@ enemmän
 pikakomentoja	
 pelatessaan	
 .	
-
+	
 <HEADLINE>	
 Ei	
 lähde	
@@ -5354,7 +5354,7 @@ Seuraava
 yritys	
 on	
 ajoitettu	
-perjantaille	
+perjantaille	tim
 ,	
 mutta	
 onnistuneeko	
@@ -5365,7 +5365,7 @@ Sää
 ei	
 nimittäin	
 näytä	
-tämänhetkisen	
+tämänhetkisen	tim
 ennusteen	
 mukaan	
 kovin	
@@ -5404,7 +5404,7 @@ jäännöstä
 .	
 	
 <PARAGRAPH>	
-Maanantain	
+Maanantain	tim
 laukaisu	
 oli	
 vaakalaudalla	
@@ -5443,8 +5443,8 @@ senkin
 vuoksi	
 ,	
 että	
-22.	
-huhtikuuta	
+22.	tim
+huhtikuuta	tim
 aiottu	
 avaruuskävely	
 tietokoneen	
@@ -5470,10 +5470,10 @@ yksi
 aiheutti	
 hengenvaarallisen	
 tilanteen	
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 .	
-
+	
 <HEADLINE>	
 Ei	
 mikään	
@@ -5533,8 +5533,8 @@ Jeff	per
 Bezos	per
 korosti	
 jo	
-viime	
-joulukuussa	
+viime	tim
+joulukuussa	tim
 ilmateitse	
 tapahtuvien	
 kuljetusten	
@@ -5542,10 +5542,10 @@ etuja
 ja	
 palasi	
 asiaan	
-nyt	
+nyt	tim
 julkaistussa	
-vuoden	
-2013	
+vuoden	tim
+2013	tim
 kirjeessään	
 osakkeenomistajille	
 .	
@@ -5646,7 +5646,7 @@ oikeuteen
 vempainten	
 tiputtamiseksi	
 .	
-
+	
 <HEADLINE>	
 Auringolla	
 maailman	
@@ -5676,8 +5676,8 @@ määrä
 kulkea	
 maapallon	
 ympäri	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 .	
 	
 <BODY>	
@@ -5688,8 +5688,8 @@ toimiva
 lentokone	
 valmistautuu	
 maailmanympärysmatkaan	
-vuonna	
-2015.	
+vuonna	tim
+2015.	tim
 Solar	org
 Impulse	org
 -niminen	org
@@ -5749,8 +5749,8 @@ pilottia
 pitää	
 vaihtaa	
 enintään	
-kuuden	
-päivän	
+kuuden	tim
+päivän	tim
 välein	
 .	
 	
@@ -5785,7 +5785,7 @@ on
 noin	
 140	
 kilometriä	
-tunnissa	
+tunnissa	tim
 .	
 	
 <PARAGRAPH>	
@@ -5865,11 +5865,11 @@ vaikeasti
 tavoitetuilla	
 alueilla	
 .	
-
+	
 <HEADLINE>	
 Ladattu	
-30	
-sekunnissa	
+30	tim
+sekunnissa	tim
 :	
 Uusi	
 puhelinakku	
@@ -5888,8 +5888,8 @@ matkapuhelinakku
 joka	
 latautuu	
 alle	
-puolessa	
-minuutissa	
+puolessa	tim
+minuutissa	tim
 .	
 	
 Tekniikan	
@@ -5922,7 +5922,7 @@ kestopulma
 Paitsi	
 ,	
 että	
-nyt	
+nyt	tim
 ei	
 ole	
 kyse	
@@ -5977,8 +5977,8 @@ akku
 joka	
 latautuu	
 alle	
-puolessa	
-minuutissa	
+puolessa	tim
+minuutissa	tim
 .	
 	
 <PARAGRAPH>	
@@ -6041,8 +6041,8 @@ Massatuotannon
 on	
 tarkoitus	
 alkaa	
-vuonna	
-2016.	
+vuonna	tim
+2016.	tim
 	
 <PARAGRAPH>	
 Tosin	
@@ -6109,7 +6109,7 @@ ja
 sähköautojen	
 latauksessa	
 .	
-
+	
 <HEADLINE>	
 SGI	org
 :	org
@@ -6275,14 +6275,14 @@ APC	borg
 n	org
 yhteiskäyttöön	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 kuumailmapallo	
 kiersi	
 maapallon	
-22	
-päivässä	
+22	tim
+päivässä	tim
 	
 <DATE>	
 7.4.2014 15:04	
@@ -6307,8 +6307,8 @@ avulla
 onnistui	
 kiertämään	
 maapallon	
-22	
-päivässä	
+22	tim
+päivässä	tim
 .	
 	
 <BODY>	
@@ -6328,8 +6328,8 @@ kuumailmapallo
 Ibis-167	pro
 kiersi	
 maapallon	
-22	
-päivässä	
+22	tim
+päivässä	tim
 ,	
 noin	
 kolmanneksen	
@@ -6402,8 +6402,8 @@ käynnisti
 Project	pro
 Loonin	pro
 Uudessa-Seelannissa	loc
-viime	
-kesäkuussa	
+viime	tim
+kesäkuussa	tim
 ,	
 jolloin	
 se	
@@ -6430,16 +6430,16 @@ Kaliforniasta	loc
 FierceWireless	org
 kirjoitti	
 .	
-
+	
 <HEADLINE>	
 Uusi	
 atomikello	
 toimii	
-sekunnin	
+sekunnin	tim
 tarkkuudella	
-300	
-miljoonaa	
-vuotta	
+300	tim
+miljoonaa	tim
+vuotta	tim
 	
 <DATE>	
 7.4.2014 09:07	
@@ -6465,10 +6465,10 @@ Sen
 aika	
 ei	
 heitä	
-sekuntiakaan	
-300	
-miljoonassa	
-vuodessa	
+sekuntiakaan	tim
+300	btim
+miljoonassa	tim
+vuodessa	tim
 .	
 	
 <BODY>	
@@ -6528,8 +6528,8 @@ NIST-F1	pro
 on	
 ollut	
 käytössä	
-vuodesta	
-1999	
+vuodesta	tim
+1999	tim
 lähtien	
 .	
 	
@@ -6563,7 +6563,7 @@ Atomikelloja
 on	
 ollut	
 käytössä	
-1950-luvulta	
+1950-luvulta	tim
 lähtien	
 .	
 	
@@ -6576,7 +6576,7 @@ Steven	per
 Jeffertsin	per
 mukaan	
 atomikellojen	
-60-vuotinen	
+60-vuotinen	tim
 historia	
 on	
 osoittanut	
@@ -6619,8 +6619,8 @@ cesium
 värähtelyyn	
 .	
 	
-Yksi	
-sekunti	
+Yksi	tim
+sekunti	tim
 saadaan	
 laskemalla	
 9192631770	
@@ -6648,7 +6648,7 @@ käytetään
 atomikellojen	
 keskiarvoa	
 .	
-
+	
 <HEADLINE>	
 Tärkeä	
 eurosatelliitti	
@@ -6845,13 +6845,13 @@ Sojuz-raketilla	pro
 jollaiset	
 eivät	
 ole	
-tällä	
-hetkellä	
+tällä	tim
+hetkellä	tim
 kovassa	
 huudossa	
 Yhdysvalloissa	loc
 .	
-
+	
 <HEADLINE>	
 Nasa	org
 haluaa	
@@ -6983,9 +6983,9 @@ ollut
 Obaman	per
 hallinnon	
 prioriteetti	
-viimeiset	
-viisi	
-vuotta	
+viimeiset	tim
+viisi	tim
+vuotta	tim
 ja	
 ,	
 jos	
@@ -7006,8 +7006,8 @@ tukemat
 työpaikat	
 –	
 Yhdysvaltoihin	loc
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 ,	
 lausunnossa	
 sanotaan	
@@ -7026,8 +7026,8 @@ maaperältä
 näyttäisivät	
 onnistuvan	
 vasta	
-vuonna	
-2017.	
+vuonna	tim
+2017.	tim
 	
 <PARAGRAPH>	
 –	
@@ -7099,7 +7099,7 @@ turvallisen
 toiminnan	
 ylläpitämiseksi	
 .	
-
+	
 <HEADLINE>	
 Tesla	org
 :	
@@ -7176,8 +7176,8 @@ autot
 on	
 varustettu	
 parannuksilla	
-6.	
-maaliskuuta	
+6.	tim
+maaliskuuta	tim
 lukien	
 .	
 	
@@ -7224,8 +7224,8 @@ esille
 ,	
 eivät	
 Pohjois-Amerikassa	loc
-viime	
-vuonna	
+viime	tim
+vuonna	tim
 tapahtuneet	
 200	
 000	
@@ -7309,8 +7309,8 @@ turvallinen
 	
 Mutta	
 koska	
-viime	
-vuodelle	
+viime	tim
+vuodelle	tim
 osui	
 kaksi	
 pohjapanssarin	
@@ -7340,7 +7340,7 @@ henkilövahinkoja
 ,	
 mutta	
 viimeisimmän	
-marraskuussa	
+marraskuussa	tim
 sattuneen	
 palon	
 jälkeen	
@@ -7370,7 +7370,7 @@ Tesloja	pro
 kutsuta	
 takaisin	
 .	
-
+	
 <HEADLINE>	
 Tutka	
 kärysi	
@@ -7450,7 +7450,7 @@ joten
 Suomen	loc
 aikaa	
 ensi	
-maanantaille	
+maanantaille	tim
 aiottua	
 laukaisua	
 on	
@@ -7489,8 +7489,8 @@ e.
 Laukaisun	
 piti	
 tapahtua	
-16.	
-maaliskuuta	
+16.	tim
+maaliskuuta	tim
 ,	
 mutta	
 kapselin	
@@ -7511,7 +7511,7 @@ peitteet
 olivat	
 lentokelpoisia	
 .	
-
+	
 <HEADLINE>	
 Sojuzin	pro
 tietokone	
@@ -7542,7 +7542,7 @@ tarjonnut
 enää	
 lisää	
 draamaa	
-aamuyöllä	
+aamuyöllä	tim
 ,	
 kun	
 se	
@@ -7583,7 +7583,7 @@ piti
 päästä	
 asemalle	
 jo	
-keskiviikkona	
+keskiviikkona	tim
 ,	
 mutta	
 [	
@@ -7639,7 +7639,7 @@ lähestymiseen
 ,	
 mikä	
 oli	
-vuosikausia	
+vuosikausia	tim
 normaali	
 tapa	
 matkustaa	
@@ -7679,9 +7679,9 @@ palaavat
 maahan	
 suunnitelman	
 mukaan	
-syyskuussa	
+syyskuussa	tim
 .	
-
+	
 <HEADLINE>	
 Miehitetty	
 Sojuz	pro
@@ -7708,7 +7708,7 @@ vuoksi
 	
 <BODY>	
 <PARAGRAPH>	
-Keskiyön	
+Keskiyön	tim
 paikkeilla	
 Suomen	loc
 aikaa	
@@ -7810,13 +7810,13 @@ toistaiseksi
 hätää	
 ,	
 sillä	
-tämänhetkinen	
+tämänhetkinen	tim
 suunnitelma	
 toisi	
 heidät	
 perille	
-perjantaina	
-aamuyöllä	
+perjantaina	tim
+aamuyöllä	btim
 .	
 	
 Se	
@@ -7834,8 +7834,8 @@ tapana
 ennen	
 hiljattaista	
 siirtymistä	
-kuuden	
-tunnin	
+kuuden	tim
+tunnin	tim
 pikakyydityksiin	
 .	
 	
@@ -7879,7 +7879,7 @@ ollenkaan
 yhteistyöhön	
 avaruudessa	
 .	
-
+	
 <HEADLINE>	
 DeepFace	pro
 tunnistaa	
@@ -8029,7 +8029,7 @@ aiempiin
 menetelmiin	
 nähden	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 autot	
@@ -8082,7 +8082,7 @@ teknologian
 kehityksestä	
 päivitettyä	
 tietoa	
-maanantaina	
+maanantaina	tim
 .	
 	
 Blogikirjoitusta	
@@ -8106,8 +8106,8 @@ kehitys
 on	
 ollut	
 vauhdikasta	
-viime	
-vuosina	
+viime	tim
+vuosina	tim
 .	
 	
 <PARAGRAPH>	
@@ -8135,9 +8135,9 @@ olisivat
 saaneet	
 meidät	
 häkeltymään	
-kaksi	
-vuotta	
-sitten	
+kaksi	tim
+vuotta	tim
+sitten	tim
 ,	
 pystytään	
 nyt	
@@ -8246,7 +8246,7 @@ miljoonan
 kilometrin	
 verran	
 .	
-
+	
 <HEADLINE>	
 Ääripieni	
 kansikuva	
@@ -8378,8 +8378,8 @@ muassa
 IBM	org
 aikoo	
 aloittaa	
-vuoden	
-loppuun	
+vuoden	tim
+loppuun	tim
 mennessä	
 selvityksen	
 tämän	
@@ -8390,7 +8390,7 @@ transistoreita
 ,	
 jotka	
 pohjautuvat	
-vuosisadan	
+vuosisadan	tim
 ihmeaineeksi	
 kuvaillun	
 grafeenin	
@@ -8407,8 +8407,8 @@ erilaisista
 teknologioista	
 elämää	
 mullistavia	
-viiden	
-vuoden	
+viiden	tim
+vuoden	tim
 sisällä	
 ,	
 mutta	
@@ -8426,21 +8426,21 @@ kuitenkin
 sellainen	
 keksintö	
 ?	
-
+	
 <HEADLINE>	
 Ihme	
 vempain	
 :	
 Piti	
 toimia	
-3	
-kuukautta	
+3	tim
+kuukautta	tim
 ,	
 on	
 toiminut	
 jo	
-11	
-vuotta	
+11	tim
+vuotta	tim
 	
 <DATE>	
 25.1.2015 19:47	
@@ -8451,8 +8451,8 @@ seikkailu
 Marsissa	loc
 on	
 kestänyt	
-yksitoista	
-vuotta	
+yksitoista	tim
+vuotta	tim
 .	
 	
 Vekotin	
@@ -8472,19 +8472,19 @@ Opportunity-mönkijä	pro
 laskeutui	
 Marsiin	loc
 tasan	
-11	
-vuotta	
+11	tim
+vuotta	tim
 sitten	
-25.	
-tammikuuta	
-2004.	
+25.	tim
+tammikuuta	tim
+2004.	tim
 Sen	
 tehtävän	
 oli	
 määrä	
 kestää	
-kolme	
-kuukautta	
+kolme	tim
+kuukautta	tim
 ,	
 tai	
 siihen	
@@ -8501,7 +8501,7 @@ on
 jaksanut	
 painaa	
 yli	
-vuosikymmenen	
+vuosikymmenen	tim
 pidempään	
 tuottaen	
 vakuuttavia	
@@ -8612,9 +8612,9 @@ World	loc
 Trade	loc
 Centerin	loc
 tuhoalueelta	
-11.	
-syyskuuta	
-2001	
+11.	tim
+syyskuuta	tim
+2001	tim
 tapahtuneiden	
 terrori-iskujen	
 jälkeen	
@@ -8625,7 +8625,7 @@ muistetaan
 iskujen	
 uhreja	
 .	
-
+	
 <HEADLINE>	
 Uusi	
 suoritin	
@@ -8679,7 +8679,7 @@ kanssa
 LG	org
 kertoi	
 asiasta	
-torstaina	
+torstaina	tim
 uuden	
 G	pro
 Flex2	pro
@@ -8808,7 +8808,7 @@ kummallisen
 pesukoneriidan	
 vuoksi	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 hololinssi	
@@ -9459,7 +9459,7 @@ Vergen	org
 artikkeli	
 täältä	
 .	
-
+	
 <HEADLINE>	
 Google	org
 ja	
@@ -9477,7 +9477,7 @@ dollarilla
 21.1.2015 10:25	
 	
 <INGRESS>	
-Alkuviikon	
+Alkuviikon	tim
 huhut	
 Googlen	org
 sijoituksesta	
@@ -9493,7 +9493,7 @@ paikkansa
 SpaceX	org
 vahvisti	
 sijoituksen	
-tiistaina	
+tiistaina	tim
 .	
 	
 <BODY>	
@@ -9604,14 +9604,14 @@ ja
 jonka	
 rakentaminen	
 maksaa	
-viiden	
-vuoden	
+viiden	tim
+vuoden	tim
 aikana	
 10	
 miljardia	
 dollaria	
 .	
-
+	
 <HEADLINE>	
 Super-Mario	misc
 sai	
@@ -9778,7 +9778,7 @@ suunnittelemaan
 itse	
 etenemisreittinsä	
 .	
-
+	
 <HEADLINE>	
 Google	org
 ja	
@@ -9875,8 +9875,8 @@ dollariin
 Musk	per
 sanoi	
 aikaisemmin	
-tässä	
-kuussa	
+tässä	tim
+kuussa	tim
 ,	
 että	
 hän	
@@ -10087,7 +10087,7 @@ koko
 maapallon	
 kattava	
 satelliitti-internet	
-2019–2020	
+2019–2020	tim
 .	
 	
 Hankkeen	
@@ -10108,8 +10108,8 @@ perustuvaa
 internet-tukiasemaverkkoa	
 .	
 	
-Viime	
-vuonna	
+Viime	tim
+vuonna	tim
 se	
 osti	
 aloittavan	
@@ -10134,7 +10134,7 @@ myös
 internet-yhteyksien	
 rakentamisessa	
 .	
-
+	
 <HEADLINE>	
 Elon	per
 Musk	per
@@ -10158,7 +10158,7 @@ höyryä
 visioihinsa	
 putkisukkulasta	
 ihmisten	
-tulevana	
+tulevana	tim
 kuljetusmuotona	
 .	
 	
@@ -10174,7 +10174,7 @@ Elon	per
 Musk	per
 ilmoitti	
 Twitterissä	pro
-torstaina	
+torstaina	tim
 hyperloop-testiradan	
 rakentamisesta	
 .	
@@ -10243,8 +10243,8 @@ Konseptin
 mukaan	
 matka	
 taittuisi	
-35	
-minuutissa	
+35	tm
+minuutissa	tim
 ,	
 kun	
 huippunopeus	
@@ -10252,7 +10252,7 @@ olisi
 noin	
 1200	
 kilometriä	
-tunnissa	
+tunnissa	tim
 .	
 	
 Sukkulan	
@@ -10274,7 +10274,7 @@ muun
 muassa	
 Techcrunch	org
 .	
-
+	
 <HEADLINE>	
 Google	org
 lopettaa	
@@ -10301,8 +10301,8 @@ ei
 voi	
 enää	
 tilata	
-ensi	
-viikon	
+ensi	tim
+viikon	tim
 jälkeen	
 .	
 	
@@ -10315,8 +10315,8 @@ radikaaleista
 muutoksista	
 kokeellisessa	
 ,	
-vuonna	
-2013	
+vuonna	tim
+2013	tim
 alkaneessa	
 Glass	pro
 Explorer	pro
@@ -10403,9 +10403,9 @@ tulivat
 yleiseen	
 myyntiin	
 runsaat	
-puoli	
-vuotta	
-sitten	
+puoli	tim
+vuotta	tim
+sitten	tim
 ,	
 mutta	
 aivan	
@@ -10503,8 +10503,8 @@ näin
 <PARAGRAPH>	
 –	
 Vietin	
-pari	
-kuukautta	
+pari	tim
+kuukautta	tim
 pitäen	
 Glass-laseja	pro
 .	
@@ -10544,7 +10544,7 @@ vetoa
 suureen	
 yleisöön	
 .	
-
+	
 <HEADLINE>	
 Jenkit	
 pakenivat	
@@ -10578,7 +10578,7 @@ evakuoimaan
 ja	
 sinetöimään	
 kiinni	
-tiistaina	
+tiistaina	tim
 ,	
 kun	
 asemalla	
@@ -10623,8 +10623,8 @@ kiinni
 	
 <PARAGRAPH>	
 Yli	
-kymmenen	
-tuntia	
+kymmenen	tim
+tuntia	tim
 myöhemmin	
 luukku	
 avattiin	
@@ -10684,7 +10684,7 @@ yhteistyötä
 erimielisyytensä	
 unohtaen	
 .	
-
+	
 <HEADLINE>	
 Hondalta	org
 vetyauto	
@@ -10731,8 +10731,8 @@ sen
 tulevan	
 myyntiin	
 Japanissa	loc
-maaliskuussa	
-2016.	
+maaliskuussa	tim
+2016.	tim
 Toyotan	org
 60	
 000	
@@ -10862,7 +10862,7 @@ Musk	per
 toisti	
 vetykritiikkinsä	
 Detroitissa	loc
-tiistaina	
+tiistaina	tim
 .	
 	
 Hän	
@@ -10898,7 +10898,7 @@ on
 tyhmä	
 valinta	
 .	
-
+	
 <HEADLINE>	
 Rakettirikon	
 syy	
@@ -10917,7 +10917,7 @@ Musk	per
 kehuu	
 tiimiään	
 jo	
-nyt	
+nyt	tim
 mahtavista	
 edistysaskelista	
 .	
@@ -10938,7 +10938,7 @@ vaiheen
 palauttamisessa	
 ehjänä	
 maahan	
-lauantaina	
+lauantaina	tim
 laukaisun	
 jälkeen	
 .	
@@ -11005,7 +11005,7 @@ jonka
 on	
 määrä	
 tapahtua	
-helmikuussa	
+helmikuussa	tim
 .	
 	
 Hydraulinestettä	
@@ -11036,7 +11036,7 @@ rahaa
 	
 Raketti	
 kuljetti	
-lauantaina	
+lauantaina	tim
 avaruuteen	
 miehittämättömän	
 Dragon-rahtialuksen	pro
@@ -11075,7 +11075,7 @@ Te
 kaverit	
 rokkaatte	
 !	
-
+	
 <HEADLINE>	
 Raketti	
 rysähti	
@@ -11118,8 +11118,8 @@ SpaceX	org
 n	org
 erikoinen	
 kokeilu	
-lauantaina	
-aamupäivällä	
+lauantaina	tim
+aamupäivällä	btim
 näytti	
 hyvältä	
 melkein	
@@ -11139,9 +11139,9 @@ suunnitelmia
 SpaceX	org
 yritti	
 palauttaa	
-noin	
-tunti	
-sitten	
+noin	tim
+tunti	tim
+sitten	tim
 laukaistun	
 kantoraketin	
 ensimmäisen	
@@ -11309,13 +11309,13 @@ lähtöä
 oli	
 jouduttu	
 siirtämään	
-parilla	
-päivällä	
+parilla	tim
+päivällä	tim
 teknisen	
 ongelman	
 vuoksi	
 .	
-
+	
 <HEADLINE>	
 Elon	per
 Musk	per
@@ -11353,12 +11353,12 @@ pyörittäjä
 Elon	per
 Musk	per
 lähetti	
-keskiviikkona	
+keskiviikkona	tim
 eriskummallisen	
 viestin	
 Teslojen	org
 latauksesta	
-tulevaisuudessa	
+tulevaisuudessa	tim
 .	
 	
 Musk	per
@@ -11432,8 +11432,8 @@ Vaikka
 Elon	per
 Muskin	per
 tviitti	
-viime	
-syksyltä	
+viime	tim
+syksyltä	tim
 kirvoitti	
 juuri	
 sellaisia	
@@ -11462,10 +11462,10 @@ kanssa
 ,	
 ei	
 vain	
-tulevien	
+tulevien	tim
 mallien	
 .	
-
+	
 <HEADLINE>	
 Erikoinen	
 avaruusalus	
@@ -11495,7 +11495,7 @@ isoimmista
 kappaleista	
 alus	
 on	
-nyt	
+nyt	tim
 lähestymässä	
 sitä	
 kaikkein	
@@ -11510,7 +11510,7 @@ sen
 Dawn-luotaimen	pro
 siirtyneen	
 lähestymisvaiheeseen	
-vuosia	
+vuosia	tim
 kestäneellä	
 matkallaan	
 kohti	
@@ -11530,8 +11530,8 @@ asteroidivyöhykkeellä
 .	
 	
 <PARAGRAPH>	
-Vuonna	
-2007	
+Vuonna	tim
+2007	tim
 laukaistu	
 Dawn	pro
 ennätti	
@@ -11542,18 +11542,18 @@ toiseksi
 suurinta	
 kappaletta	
 Vestaa	loc
-vuosina	
-2011	
+vuosina	tim
+2011	tim
 ja	
-2012.	
+2012.	tim
 Ceresin	loc
 luo	
 Dawn	pro
 on	
 ennättämässä	
-6.	
-maaliskuuta	
-2015.	
+6.	tim
+maaliskuuta	tim
+2015.	tim
 	
 <PARAGRAPH>	
 Kuinka	
@@ -11588,7 +11588,7 @@ lähestyy
 sitä	
 725	
 kilometriä	
-tunnissa	
+tunnissa	tim
 .	
 	
 <PARAGRAPH>	
@@ -11640,8 +11640,8 @@ on
 kertynyt	
 jo	
 yhteensä	
-viisi	
-vuotta	
+viisi	tim
+vuotta	tim
 ,	
 mikä	
 on	
@@ -11707,8 +11707,8 @@ Horizons	pro
 saapumista	
 Pluton	loc
 luokse	
-ensi	
-vuonna	
+ensi	tim
+vuonna	tim
 .	
 	
 Myös	
@@ -11719,7 +11719,7 @@ suurelta
 osin	
 tuntematon	
 .	
-
+	
 <HEADLINE>	
 Nasan	org
 villi	
@@ -11841,10 +11841,10 @@ Venera	pro
 ,	
 joka	
 kesti	
-127	
-minuuttia	
-vuonna	
-1982.	
+127	tim
+minuuttia	tim
+vuonna	btim
+1982.	tim
 	
 <PARAGRAPH>	
 NASA	org
@@ -11989,8 +11989,8 @@ astronauttien
 olisi	
 tarkoitus	
 viettää	
-30	
-päivää	
+30	tim
+päivää	tim
 kiertoradalla	
 .	
 	
@@ -12075,7 +12075,7 @@ Asiasta
 kertoi	
 Engadget	org
 .	
-
+	
 <HEADLINE>	
 Tulinen	
 juova	
@@ -12122,7 +12122,7 @@ Transfer	pro
 Vehicle	pro
 -robottirahtialus	pro
 tuhoutui	
-sunnuntaina	
+sunnuntaina	tim
 illalla	
 ilmakehässä	
 lähdettyään	
@@ -12174,8 +12174,8 @@ paremmin
 	
 <PARAGRAPH>	
 Alkujaan	
-vuonna	
-1987	
+vuonna	tim
+1987	tim
 ideoitu	
 ATV-ohjelma	pro
 oli	
@@ -12241,7 +12241,7 @@ määrä
 käyttää	
 osana	
 Yhdysvaltain	loc
-tulevaa	
+tulevaa	tim
 Orion-avaruusalusta	pro
 .	
 	
@@ -12285,7 +12285,7 @@ miten
 kuvaus	
 onnistui	
 .	
-
+	
 <HEADLINE>	
 Loppu	
 pyöräkolareille	
@@ -12328,8 +12328,8 @@ Volvo	org
 ja	
 POC	org
 esittelevät	
-6.	
-tammikuuta	
+6.	tim
+tammikuuta	tim
 käynnistyvässä	
 suuressa	
 kuluttajaelektroniikkatapahtumassa	
@@ -12459,7 +12459,7 @@ muun
 muassa	
 FierceWireless	org
 .	
-
+	
 <HEADLINE>	
 SpaceX	org
 :	org
@@ -12494,8 +12494,8 @@ sää
 <PARAGRAPH>	
 SpaceX	org
 lähetti	
-viime	
-yönä	
+viime	tim
+yönä	tim
 onnistuneesti	
 avaruuteen	
 uuden	
@@ -12660,7 +12660,7 @@ hydraulinesteen
 loppuessa	
 kesken	
 .	
-
+	
 <HEADLINE>	
 Laskeutuuko	
 Elon	per
@@ -12683,8 +12683,8 @@ SpaceX	org
 yrittää	
 ehkä	
 jo	
-ensi	
-yönä	
+ensi	tim
+yönä	tim
 kantoraketin	
 palauttamista	
 ehjänä	
@@ -12704,7 +12704,7 @@ avaruusyritys
 SpaceX	org
 on	
 laukaisemassa	
-puolenyön	
+puolenyön	tim
 jälkeen	
 Suomen	loc
 aikaa	
@@ -12849,7 +12849,7 @@ piti
 laukaista	
 DSCOVR	pro
 jo	
-sunnuntaina	
+sunnuntaina	tim
 ,	
 mutta	
 ilmavoimien	
@@ -12859,7 +12859,7 @@ esti
 lähdön	
 .	
 	
-Maanantaina	
+Maanantaina	tim
 esteeksi	
 muodostui	
 sää	
