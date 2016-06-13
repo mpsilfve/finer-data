@@ -1,4 +1,4 @@
-
+	
 <HEADLINE>	
 Gemalto	org
 NSA-uhkasta	misc
@@ -16,7 +16,7 @@ Sim-korttien
 suuri	
 valmistaja	
 kommentoi	
-perjantaina	
+perjantaina	tim
 korttien	
 salausavainten	
 suurta	
@@ -34,8 +34,8 @@ varastaneen
 Gemalton	org
 sim-korttien	
 salausavaimet	
-vuosia	
-sitten	
+vuosia	tim
+sitten	tim
 voidakseen	
 vakoilla	
 ihmisiä	
@@ -49,7 +49,7 @@ suostumusta
 <PARAGRAPH>	
 Gemalto	org
 totesi	
-perjantaina	
+perjantaina	tim
 ,	
 ettei	
 se	
@@ -101,12 +101,12 @@ eri
 hyökkäys	
 ]	
 yrityksiä	
-vuosien	
-varrella	
+vuosien	tim
+varrella	tim
 .	
 	
-Tällä	
-hetkellä	
+Tällä	tim
+hetkellä	tim
 emme	
 pysty	
 todistamaan	
@@ -183,7 +183,7 @@ valmistajia
 Gemalton	org
 lisäksi	
 .	
-
+	
 <HEADLINE>	
 Yahoo	org
 esitti	
@@ -193,7 +193,7 @@ mainoksia
 300	
 000	
 klikkausta	
-tunnissa	
+tunnissa	tim
 	
 <DATE>	
 5.1.2014 18:49	
@@ -222,9 +222,9 @@ esitettiin
 vaarallisia	
 mainoksia	
 ainakin	
-30.	
-joulukuuta	
-lukien	
+30.	tim
+joulukuuta	tim
+lukien	tim
 ja	
 ehkä	
 vieläkin	
@@ -246,7 +246,7 @@ jopa
 300	
 000	
 klikkausta	
-tunnissa	
+tunnissa	tim
 .	
 	
 Fox	org
@@ -267,7 +267,7 @@ jopa
 27	
 000	
 tietokonetta	
-tunnissa	
+tunnissa	tim
 .	
 	
 <PARAGRAPH>	
@@ -357,7 +357,7 @@ puuttuneen
 ongelmaan	
 ,	
 sillä	
-perjantaina	
+perjantaina	tim
 liikenne	
 hyökkäystyökaluun	
 laski	
@@ -404,7 +404,7 @@ muille
 verkon	
 rikollisille	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 korjaukset	
@@ -437,7 +437,7 @@ päivitystä
 <BODY>	
 <PARAGRAPH>	
 Yksikään	
-tammikuun	
+tammikuun	tim
 tietoturvapäivityksistä	
 ei	
 ole	
@@ -485,7 +485,7 @@ MS14-002	pro
 puuttuu	
 vihdoin	
 jo	
-marraskuussa	
+marraskuussa	tim
 havaittuun	
 ja	
 niin	
@@ -571,7 +571,7 @@ käyttäjät
 .	
 	
 <PARAGRAPH>	
-Tammikuun	
+Tammikuun	tim
 kolme	
 muuta	
 päivitystä	
@@ -609,8 +609,8 @@ tietoturvapäivityksiään
 julkaisemalla	
 esimerkiksi	
 uusiksi	
-viime	
-vuoden	
+viime	tim
+vuoden	tim
 päivityksen	
 MS13-081	pro
 Windows	pro
@@ -633,7 +633,7 @@ lle	pro
 	
 Alkuperäinen	
 päivitys	
-lokakuulta	
+lokakuulta	tim
 saattoi	
 joissain	
 tapauksissa	
@@ -654,7 +654,7 @@ antaa
 niistä	
 yleiskatsauksen	
 .	
-
+	
 <HEADLINE>	
 Julkkisten	
 Gmail	pro
@@ -682,8 +682,8 @@ asetuksilla
 <PARAGRAPH>	
 Google	org
 ilmoitti	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 ,	
 että	
 se	
@@ -850,7 +850,7 @@ vastaanottajan
 tarkan	
 sähköpostiosoitteen	
 .	
-
+	
 <HEADLINE>	
 Lokaa	
 naamassa	
@@ -873,8 +873,8 @@ se
 sai	
 tietää	
 numerohaavoittuvuudesta	
-kuukausia	
-sitten	
+kuukausia	tim
+sitten	tim
 .	
 	
 <BODY>	
@@ -908,7 +908,7 @@ että
 se	
 jätti	
 jo	
-elokuussa	
+elokuussa	tim
 tiedetyn	
 haavoittuvuuden	
 huomiotta	
@@ -939,9 +939,9 @@ palvelusta
 	
 <PARAGRAPH>	
 –	
-Pian	
-elokuun	
-jälkeen	
+Pian	tim
+elokuun	tim
+jälkeen	tim
 sisällytimme	
 palveluun	
 käytäntöjä	
@@ -979,7 +979,7 @@ ja
 julkaisi	
 sen	
 vuoksi	
-äskettäin	
+äskettäin	tim
 tarkemmat	
 tiedot	
 haavoittuvuudesta	
@@ -1111,7 +1111,7 @@ anteeksi
 tietoturvan	
 pettämistä	
 .	
-
+	
 <HEADLINE>	
 NSA	org
 :	
@@ -1153,7 +1153,7 @@ puolusti
 toimintaansa	
 Wired-lehden	org
 haastattelussa	
-äskettäin	
+äskettäin	tim
 .	
 	
 NSA	org
@@ -1211,8 +1211,8 @@ globaalisti
 –	
 Puhuimme	
 siitä	
-muutaman	
-päivän	
+muutaman	tim
+päivän	tim
 sisäisesti	
 ja	
 päätimme	
@@ -1241,7 +1241,7 @@ voineet
 käyttää	
 sitä	
 hyväksi	
-ikuisesti	
+ikuisesti	tim
 valtavaan	
 määrään	
 kohteita	
@@ -1373,10 +1373,10 @@ protestina
 kaiken	
 osallistumisensa	
 RSA:n	org
-helmikuiseen	
+helmikuiseen	tim
 konferenssiin	
 .	
-
+	
 <HEADLINE>	
 Syyrian	loc
 sähköarmeija	
@@ -1423,7 +1423,7 @@ SEA	org
 hyökkäsi	
 Microsoftia	org
 vastaan	
-viikonloppuna	
+viikonloppuna	tim
 ,	
 muun	
 muassa	
@@ -1520,9 +1520,9 @@ oli
 Microsoftin	org
 kimpussa	
 vain	
-kaksi	
-viikkoa	
-sitten	
+kaksi	tim
+viikkoa	tim
+sitten	tim
 ,	
 kun	
 ohjelmistoyhtiön	
@@ -1561,7 +1561,7 @@ Twitterin	pro
 ulkopuolella	
 .	
 	
-Lokakuussa	
+Lokakuussa	tim
 ryhmä	
 onnistui	
 kaappaamaan	
@@ -1572,7 +1572,7 @@ internetin
 vähäksi	
 aikaa	
 .	
-
+	
 <HEADLINE>	
 WhatsApp	pro
 pc:lle	
@@ -1807,14 +1807,14 @@ tökeröitä
 Kuva	
 :	
 kuvakaappaus	
-
+	
 <HEADLINE>	
 Kauppaketju	
 tiesi	
 ostajien	
 raskauksista	
 —	
-nyt	
+nyt	tim
 tietää	
 murtautujakin	
 ?	
@@ -1973,9 +1973,9 @@ on
 antanut	
 sille	
 perustietojaan	
-useiden	
-vuosien	
-aikana	
+useiden	tim
+vuosien	tim
+aikana	tim
 .	
 	
 <PARAGRAPH>	
@@ -2075,7 +2075,7 @@ ujutettua
 haittaohjelmaa	
 syvempi	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 ei	
@@ -2104,7 +2104,7 @@ XP	pro
 n	pro
 tietoturvapäivitykset	
 päättyvät	
-huhtikuussa	
+huhtikuussa	tim
 .	
 	
 Näin	
@@ -2141,8 +2141,8 @@ XP	pro
 n	pro
 tukiajan	
 päättymistä	
-ensi	
-huhtikuussa	
+ensi	tim
+huhtikuussa	tim
 .	
 	
 Vaikka	
@@ -2168,7 +2168,7 @@ osalta
 .	
 	
 <PARAGRAPH>	
-Huhtikuussa	
+Huhtikuussa	tim
 ei	
 kuitenkaan	
 tule	
@@ -2199,9 +2199,9 @@ oman
 tietoturvaohjelmistonsa	
 päivityksiä	
 aina	
-ensi	
-vuoden	
-heinäkuulle	
+ensi	tim
+vuoden	tim
+heinäkuulle	tim
 .	
 	
 <PARAGRAPH>	
@@ -2212,10 +2212,10 @@ antamaan
 periksi	
 useaan	
 otteeseen	
-kuluneen	
-kahden	
-vuoden	
-aikana	
+kuluneen	tim
+kahden	tim
+vuoden	tim
+aikana	tim
 .	
 	
 Windows	pro
@@ -2237,11 +2237,11 @@ XP	pro
 lle	pro
 piti	
 päättyä	
-8.	
-huhtikuuta	
+8.	tim
+huhtikuuta	tim
 .	
 	
-Nyt	
+Nyt	tim
 taka-askelia	
 on	
 otettu	
@@ -2267,7 +2267,7 @@ XP	pro
 :	pro
 lle	pro
 .	
-
+	
 <HEADLINE>	
 Työväenopisto	
 pyysi	
@@ -2304,8 +2304,8 @@ Helsingin	org
 työväenopisto	org
 pyytää	
 anteeksi	
-viime	
-viikolla	
+viime	tim
+viikolla	tim
 tapahtunutta	
 13	
 600	
@@ -2408,7 +2408,7 @@ käyttöönotossa
 johti	
 virheeseen	
 .	
-
+	
 <HEADLINE>	
 Google	org
 poisti	
@@ -2457,8 +2457,8 @@ ihmisten
 tietokoneille	
 .	
 	
-Viime	
-viikolla	
+Viime	tim
+viikolla	tim
 julkisuuteen	
 nousi	
 kaksi	
@@ -2563,7 +2563,7 @@ yhteen
 .	
 	
 <PARAGRAPH>	
-Joulukuussa	
+Joulukuussa	tim
 Google	org
 päivitti	
 sopimusehtojaan	
@@ -2718,7 +2718,7 @@ seuraa
 käyttäjien	
 selailua	
 .	
-
+	
 <HEADLINE>	
 FireEye	org
 maksoi	
@@ -2837,8 +2837,8 @@ kyberrikostutkija
 Hän	
 perusti	
 Mandiantin	org
-vuonna	
-2004	
+vuonna	tim
+2004	tim
 ,	
 jolloin	
 hän	
@@ -2861,7 +2861,7 @@ työkaluohjelmistonsa
 joiden	
 myynti	
 tuo	
-nyt	
+nyt	tim
 noin	
 puolet	
 yrityksen	
@@ -2881,8 +2881,8 @@ DeWalt	per
 joka	
 on	
 Intelin	org
-vuonna	
-2010	
+vuonna	tim
+2010	tim
 ostaman	
 McAfeen	org
 entinen	
@@ -2976,8 +2976,8 @@ pelkästään
 suojautumiseen	
 .	
 	
-Vuonna	
-2004	
+Vuonna	tim
+2004	tim
 ajatusta	
 ei	
 hyväksytty	
@@ -3016,7 +3016,7 @@ tunnistaa
 rikollisten	
 toimintatapoja	
 .	
-
+	
 <HEADLINE>	
 Esimakua	
 tulevasta	
@@ -3144,8 +3144,8 @@ perinteiset
 nettiin	
 kytketyt	
 tietokoneet	
-muutamassa	
-vuodessa	
+muutamassa	tim
+vuodessa	tim
 .	
 	
 Proofpointin	org
@@ -3198,14 +3198,14 @@ Jääkaappia
 käyttänyt	
 hyökkäys	
 alkoi	
-juuri	
-ennen	
-joulua	
+juuri	tim
+ennen	tim
+joulua	tim
 ja	
 päättyi	
-loppiaisena	
-6.	
-tammikuuta	
+loppiaisena	tim
+6.	btim
+tammikuuta	tim
 .	
 	
 Yli	
@@ -3243,11 +3243,11 @@ valmistajan
 asettamaa	
 oletussalasanaa	
 .	
-
+	
 <HEADLINE>	
 Maksukorttimurto	
 kesti	
-kuukausia	
+kuukausia	tim
 —	
 luksusketju	
 ei	
@@ -3261,15 +3261,15 @@ Neiman	org
 Marcusiin	org
 murtauduttiin	
 jo	
-viime	
-kesänä	
+viime	tim
+kesänä	tim
 ,	
 mutta	
 myymäläketju	
 huomasi	
 asian	
 vasta	
-joulukuussa	
+joulukuussa	tim
 ,	
 The	org
 New	org
@@ -3306,8 +3306,8 @@ Marcus	org
 paljasti	
 murron	
 alkaneen	
-heinäkuun	
-puolivälissä	
+heinäkuun	tim
+puolivälissä	tim
 .	
 	
 <PARAGRAPH>	
@@ -3327,8 +3327,8 @@ murron
 täysin	
 hallintaansa	
 vasta	
-viime	
-sunnuntaina	
+viime	tim
+sunnuntaina	tim
 .	
 	
 <PARAGRAPH>	
@@ -3338,8 +3338,8 @@ huomanneensa
 hyökkäyksen	
 ensi	
 kerran	
-joulukuun	
-puolivälissä	
+joulukuun	tim
+puolivälissä	tim
 .	
 	
 Se	
@@ -3347,8 +3347,8 @@ kuitenkin
 vahvisti	
 murtautumisen	
 vasta	
-viikko	
-sitten	
+viikko	tim
+sitten	tim
 ,	
 kun	
 tietoturva-asiantuntija	tit
@@ -3367,7 +3367,7 @@ arvostelu
 tietojen	
 pimittämisestä	
 ja	
-joulukauden	
+joulukauden	tim
 myyntinsä	
 suojelusta	
 .	
@@ -3501,7 +3501,7 @@ itäisestä
 Euroopasta	loc
 käsin	
 .	
-
+	
 <HEADLINE>	
 Kilroy	org
 oli	
@@ -3542,7 +3542,7 @@ tärkeisiin
 yhteisöpalvelutileihin	
 .	
 	
-Torstaina	
+Torstaina	tim
 se	
 käytti	
 avaimiaan	
@@ -3743,7 +3743,7 @@ aina
 joku	
 hyväuskoinen	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 löysäys	
@@ -3856,8 +3856,8 @@ siis
 haavoittuvuuksien	
 korjaamisen	
 –	
-8.	
-huhtikuuta	
+8.	tim
+huhtikuuta	tim
 .	
 	
 Yhtiö	
@@ -3893,7 +3893,7 @@ XP	pro
 on	
 ollut	
 vielä	
-hiljattain	
+hiljattain	tim
 käytössä	
 varsin	
 monessa	
@@ -3930,7 +3930,7 @@ rikolliset
 eivät	
 jätä	
 käyttämättä	
-huhtikuussa	
+huhtikuussa	tim
 avautuvaa	
 valtavaa	
 ikkunaa	
@@ -3964,7 +3964,7 @@ firman
 hallitseva	
 käyttöjärjestelmä	
 .	
-
+	
 <HEADLINE>	
 Salausguru	
 lupaa	
@@ -4614,7 +4614,7 @@ ja
 laitekomponentteihin	
 ,	
 joita	
-nykyisissä	
+nykyisissä	tim
 puhelimissa	
 on	
 valtava	
@@ -4631,7 +4631,7 @@ on
 nähtävissä	
 alla	
 .	
-
+	
 <HEADLINE>	
 Microsoftin	org
 raju	
@@ -4685,7 +4685,7 @@ näkyä
 .	
 	
 <PARAGRAPH>	
-Nyt	
+Nyt	tim
 yhtiö	
 tekee	
 mahdollisesti	
@@ -4825,9 +4825,9 @@ raju
 ,	
 sillä	
 vielä	
-viime	
-vuoden	
-maaliskuussa	
+viime	tim
+vuoden	tim
+maaliskuussa	tim
 tietojen	
 tallennuspaikan	
 päättäminen	
@@ -4943,7 +4943,7 @@ internet-yhtiöitä
 välineenä	
 käyttäen	
 .	
-
+	
 <HEADLINE>	
 Pelottava	
 paljastus	
@@ -4951,7 +4951,7 @@ paljastus
 Google	pro
 Chrome	pro
 jo	
-kuukausia	
+kuukausia	tim
 puhetta	
 nauhoittavavakoilutyökalu	
 	
@@ -5283,7 +5283,7 @@ vaikkapa
 poimia	
 avainsanoja	
 .	
-
+	
 <HEADLINE>	
 Android-aukko	misc
 romuttaa	
@@ -5472,7 +5472,7 @@ muun
 muassa	
 ZDNet	org
 .	
-
+	
 <HEADLINE>	
 Verizon	org
 paljasti	
@@ -5706,7 +5706,7 @@ Ars	org
 Technica	org
 kirjoitti	
 .	
-
+	
 <HEADLINE>	
 Rosvot	
 kaappaavat	
@@ -5962,7 +5962,7 @@ Pilot-asemalla	bloc
 tapahtunut	
 )	
 .	
-
+	
 <HEADLINE>	
 Joukkokanne	
 vaatii	
@@ -6194,7 +6194,7 @@ yhtiön
 nykyinen	
 markkina-arvo	
 .	
-
+	
 <HEADLINE>	
 CrowdStrike	org
 :	
@@ -6400,7 +6400,7 @@ Washington	org
 Post	org
 -lehti	org
 .	
-
+	
 <HEADLINE>	
 Mikä	
 mättää	
@@ -6583,7 +6583,7 @@ onnistuttiin
 äskettäin	
 tunkeutumaan	
 .	
-
+	
 <HEADLINE>	
 "	
 Katso	
@@ -6915,7 +6915,7 @@ aikaa
 siellä	
 ollut	
 .	
-
+	
 <HEADLINE>	
 Starbucks	org
 vannoo	
@@ -7205,7 +7205,7 @@ pyydettiin
 lopulta	
 anteeksi	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 poisti	
@@ -7502,7 +7502,7 @@ löydetty
 enemmän	
 tietoturva-aukkoja	
 .	
-
+	
 <HEADLINE>	
 NY	org
 Times	org
@@ -7682,7 +7682,7 @@ mainittujen
 tiedusteluorganisaatioiden	
 kanssa	
 .	
-
+	
 <HEADLINE>	
 Michaels	org
 epäilee	
@@ -7934,7 +7934,7 @@ kohteita
 ei	
 sanottu	
 .	
-
+	
 <HEADLINE>	
 Snowden	per
 :	
@@ -8091,7 +8091,7 @@ viime
 vuoden	
 kesäkuussa	
 .	
-
+	
 <HEADLINE>	
 Googlesta	org
 tehtiin	
@@ -8421,7 +8421,7 @@ päätöstä
 sananvapauden	
 loukkaamisesta	
 .	
-
+	
 <HEADLINE>	
 Kytketkö	
 Android-puhelimesi	pro
@@ -8658,7 +8658,7 @@ Windows-pc	misc
 :	misc
 hen	misc
 .	
-
+	
 <HEADLINE>	
 Applen	org
 iTunesissa	pro
@@ -8792,7 +8792,7 @@ on
 ladattavissa	
 täältä	
 .	
-
+	
 <HEADLINE>	
 Pakka	
 sekaisin	
@@ -9107,7 +9107,7 @@ loppumassa
 8.	
 huhtikuuta	
 .	
-
+	
 <HEADLINE>	
 Ei	
 bugi	
@@ -9334,7 +9334,7 @@ putkareissun
 yhdelle	
 käyttäjälle	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 haku	
@@ -9452,7 +9452,7 @@ ilmoittaa
 virheellisiä	
 tietoja	
 .	
-
+	
 <HEADLINE>	
 Kolme	
 kuukautta	
@@ -9643,7 +9643,7 @@ asiakkaan
 muita	
 tietoja	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 patentti	
@@ -9967,7 +9967,7 @@ sitä
 selkeästi	
 mainita	
 .	
-
+	
 <HEADLINE>	
 Kimallekynsilakka	
 —	
@@ -10207,7 +10207,7 @@ muuhun
 mahdolliseen	
 hyökkäyskohteeseen	
 .	
-
+	
 <HEADLINE>	
 Olisiko	
 Rovio	org
@@ -10716,7 +10716,7 @@ Android-laitteilla	pro
 Kuva	
 :	
 Ruutukaappaus	
-
+	
 <HEADLINE>	
 Tekikö	
 NY	org
@@ -11015,7 +11015,7 @@ mainitsi
 F-Secure	org
 blogissaan	
 .	
-
+	
 <HEADLINE>	
 Onko	
 naapurillasi	
@@ -11209,7 +11209,7 @@ tiistaina
 saatuaan	
 tappouhkauksia	
 .	
-
+	
 <HEADLINE>	
 Näin	
 Angry	pro
@@ -11557,7 +11557,7 @@ varmistuksia
 Tikkanen	per
 sanoo	
 .	
-
+	
 <HEADLINE>	
 Katosiko	
 tärkeä	
@@ -11762,7 +11762,7 @@ käyttäjälle
 tuhansia	
 roskaposteja	
 .	
-
+	
 <HEADLINE>	
 Suositun	
 tiedonsiirto-ohjelman	
@@ -11919,7 +11919,7 @@ Firefox-selaimesta	pro
 tuttuun	
 Mozillaan	org
 .	
-
+	
 <HEADLINE>	
 Rovio	org
 :	
@@ -12195,7 +12195,7 @@ yhtiö
 harkitsee	
 jatkotoimia	
 .	
-
+	
 <HEADLINE>	
 Rovio	org
 :	
@@ -12354,7 +12354,7 @@ vakoiluväitteet
 pitävät	
 paikkansa	
 .	
-
+	
 <HEADLINE>	
 Se	
 siitä	
@@ -12672,7 +12672,7 @@ lle	org
 kova	
 pähkinä	
 .	
-
+	
 <HEADLINE>	
 Miljoonamurto	
 tehtiin	
@@ -12873,7 +12873,7 @@ tunnistaakseen
 murtautumisen	
 syyn	
 .	
-
+	
 <HEADLINE>	
 Täystyrmäys	
 väitteille	
@@ -13132,46 +13132,46 @@ paikallista
 sisältöä	
 tuloksissa	
 .	
-
-<HEADLINE>
-
-
-<DATE>
-
-
-<INGRESS>
-
-
-<BODY>
-<PARAGRAPH>
-
-
-<HEADLINE>
-
-
-<DATE>
-
-
-<INGRESS>
-
-
-<BODY>
-<PARAGRAPH>
-
-
-<HEADLINE>
-
-
-<DATE>
-
-
-<INGRESS>
-
-
-<BODY>
-<PARAGRAPH>
-
-
+	
+<HEADLINE>	
+	
+	
+<DATE>	
+	
+	
+<INGRESS>	
+	
+	
+<BODY>	
+<PARAGRAPH>	
+	
+	
+<HEADLINE>	
+	
+	
+<DATE>	
+	
+	
+<INGRESS>	
+	
+	
+<BODY>	
+<PARAGRAPH>	
+	
+	
+<HEADLINE>	
+	
+	
+<DATE>	
+	
+	
+<INGRESS>	
+	
+	
+<BODY>	
+<PARAGRAPH>	
+	
+	
 <HEADLINE>	
 Huh	
 mikä	
@@ -13409,7 +13409,7 @@ tietomurtojen
 kohteiden	
 määrää	
 .	
-
+	
 <HEADLINE>	
 Adobe	org
 teki	
@@ -13562,7 +13562,7 @@ niistä
 ahkerasti	
 aukkoja	
 .	
-
+	
 <HEADLINE>	
 Snowden-asiakirjat	misc
 :	
@@ -13867,7 +13867,7 @@ tekemistä
 Anonymousin	org
 kanssa	
 .	
-
+	
 <HEADLINE>	
 Tekeekö	
 Googlen	org
@@ -14071,7 +14071,7 @@ kannattaa
 hakea	
 nettifoorumeilta	
 .	
-
+	
 <HEADLINE>	
 Pahin	
 Facebook-moka	misc
@@ -14321,7 +14321,7 @@ Forbes	org
 Forbes	
 )	
 .	
-
+	
 <HEADLINE>	
 Murtaja	
 Supercellille	org
@@ -14546,7 +14546,7 @@ lukuja
 Supercellin	org
 liiketoiminnasta	
 .	
-
+	
 <HEADLINE>	
 Sensuroiko	
 Microsoft	org
@@ -14735,20 +14735,20 @@ vakuutti
 The	org
 Registerille	org
 .	
-
-<HEADLINE>
-
-
-<DATE>
-
-
-<INGRESS>
-
-
-<BODY>
-<PARAGRAPH>
-
-
+	
+<HEADLINE>	
+	
+	
+<DATE>	
+	
+	
+<INGRESS>	
+	
+	
+<BODY>	
+<PARAGRAPH>	
+	
+	
 <HEADLINE>	
 Murtaja	
 paljasti	
@@ -15026,7 +15026,7 @@ saksalaiset
 ovat	
 kitsaimpia	
 .	
-
+	
 <HEADLINE>	
 Kummallinen	
 NSA	org
@@ -15162,7 +15162,7 @@ muun
 muassa	
 BBC	org
 .	
-
+	
 <HEADLINE>	
 Snowden	per
 imi	
@@ -15403,7 +15403,7 @@ ei
 jäänyt	
 kiinni	
 ?	
-
+	
 <HEADLINE>	
 Hakkeri	
 iski	
@@ -15813,7 +15813,7 @@ tietoturva-aukko
 on	
 mahdollinen	
 .	
-
+	
 <HEADLINE>	
 Snapchat-aukko	misc
 :	
@@ -16035,7 +16035,7 @@ tietämään
 ongelmasta	
 lisää	
 .	
-
+	
 <HEADLINE>	
 IE-käyttäjät	misc
 joutuivat	
@@ -16301,7 +16301,7 @@ jokunen
 suomalainen	
 käyttäjä	
 .	
-
+	
 <HEADLINE>	
 New	loc
 Yorkin	loc
@@ -16529,7 +16529,7 @@ jo
 vastustamaan	
 virtuaalilaseja	
 .	
-
+	
 <HEADLINE>	
 Tätä	
 Google	org
@@ -16678,7 +16678,7 @@ alapuolella
 fontilla	
 Arial	pro
 13.	pro
-
+	
 <HEADLINE>	
 Microsoftin	org
 turvasoftassa	
@@ -16824,7 +16824,7 @@ ja
 tietojen	
 menettämiseen	
 .	
-
+	
 <HEADLINE>	
 Se	
 niistä	
@@ -17092,7 +17092,7 @@ aivan
 muista	
 syistä	
 .	
-
+	
 <HEADLINE>	
 Snapchat	org
 pyytää	
@@ -17265,7 +17265,7 @@ roskapostittamisen
 niiden	
 kautta	
 .	
-
+	
 <HEADLINE>	
 Koodin	
 ja	
@@ -17458,7 +17458,7 @@ asiakkaille
 aiheutuvaa	
 haittaa	
 .	
-
+	
 <HEADLINE>	
 Yahoon	org
 haittamainokset	
@@ -17668,7 +17668,7 @@ käytetty
 rikollisessa	
 toiminnassa	
 .	
-
+	
 <HEADLINE>	
 Target	org
 löysi	
@@ -17865,7 +17865,7 @@ korttimurron
 paljastumisen	
 jälkeen	
 .	
-
+	
 <HEADLINE>	
 Murto	
 Neiman	org
@@ -18080,7 +18080,7 @@ vähintään
 70	
 miljoonaa	
 .	
-
+	
 <HEADLINE>	
 Kodin	
 reititin	
@@ -18271,7 +18271,7 @@ brändi
 reitittimestä	
 löytyy	
 .	
-
+	
 <HEADLINE>	
 Google	pro
 +	pro
@@ -18512,7 +18512,7 @@ Google	org
 lopetti	
 sen	
 .	
-
+	
 <HEADLINE>	
 Tulihan	
 se	
@@ -18708,7 +18708,7 @@ pr:ssä
 on	
 kysymys	
 .	
-
+	
 <HEADLINE>	
 Virus	
 tarttui	
@@ -18901,7 +18901,7 @@ ei
 uskota	
 vaarantuneen	
 .	
-
+	
 <HEADLINE>	
 Windows-kiristyssovelluksesta	misc
 tuli	
@@ -19142,7 +19142,7 @@ tekemistä
 kiristyksen	
 kanssa	
 .	
-
+	
 <HEADLINE>	
 Google	org
 niskuroi	
@@ -19431,7 +19431,7 @@ ei
 sivuilla	
 näkynyt	
 .	
-
+	
 <HEADLINE>	
 Google	org
 hankki	
@@ -19675,7 +19675,7 @@ paljon
 halpapalkkaisia	
 seuraajia	
 .	
-
+	
 <HEADLINE>	
 Kultakaivos	
 :	
@@ -19928,7 +19928,7 @@ tai
 niiden	
 muutoksista	
 .	
-
+	
 <HEADLINE>	
 Hyökkääjät	
 rakensivat	
@@ -20171,7 +20171,7 @@ jopa
 110	
 miljoonaa	
 .	
-
+	
 <HEADLINE>	
 Suojeli	
 salasanaansa	
@@ -20358,7 +20358,7 @@ mikäli
 tietoa	
 saadaan	
 .	
-
+	
 <HEADLINE>	
 Pahamaineisen	
 hakkeriryhmän	
@@ -20491,7 +20491,7 @@ Qatarin	loc
 valtion	
 verkkoliikenteen	
 .	
-
+	
 <HEADLINE>	
 Ford	org
 tietää	
@@ -20721,7 +20721,7 @@ ne
 on	
 suojattu	
 .	
-
+	
 <HEADLINE>	
 Starbucks	org
 ja	
@@ -20908,7 +20908,7 @@ vapaasti
 luettavassa	
 muodossa	
 .	
-
+	
 <HEADLINE>	
 NSA	org
 soluttautuu	
@@ -21195,7 +21195,7 @@ ei
 uskonut	
 sanaakaan	
 .	
-
+	
 <HEADLINE>	
 Uberin	org
 paniikkinappulasta	
@@ -21399,7 +21399,7 @@ Times	org
 of	org
 India	org
 .	
-
+	
 <HEADLINE>	
 Varo	
 mitä	
@@ -21673,7 +21673,7 @@ myymättä
 sitä	
 ulkopuolisille	
 .	
-
+	
 <HEADLINE>	
 Anthem-troolaus	misc
 alkoi	
@@ -21912,7 +21912,7 @@ aikaisin
 kuin	
 joulukuussa	
 .	
-
+	
 <HEADLINE>	
 80	
 miljoonan	
@@ -22117,7 +22117,7 @@ varastetun
 salasanan	
 avulla	
 .	
-
+	
 <HEADLINE>	
 Tietoturvavaaroilla	
 on	
@@ -22313,7 +22313,7 @@ OpenSSL-salauskirjaston	pro
 Heartbleed-aukkoa	misc
 huhtikuussa	
 .	
-
+	
 <HEADLINE>	
 Lenovo	org
 lopettaa	
@@ -22517,7 +22517,7 @@ jo
 viime	
 kesäkuussa	
 .	
-
+	
 <HEADLINE>	
 Varo	
 karua	
@@ -22734,7 +22734,7 @@ nähty
 versioita	
 aikaisemmin	
 .	
-
+	
 <HEADLINE>	
 Anthemilta	org
 vietiin	
@@ -22912,7 +22912,7 @@ aikovansa
 vaihtaa	
 salasanansa	
 .	
-
+	
 <HEADLINE>	
 Maksatko	
 XP-tuesta	pro
@@ -23171,7 +23171,7 @@ muun
 muassa	
 Neowin	org
 .	
-
+	
 <HEADLINE>	
 Murtamattomista	
 iPhoneista	pro
@@ -23577,7 +23577,7 @@ tullutta
 linkkiä	
 vaaralliseksi	
 .	
-
+	
 <HEADLINE>	
 IE	pro
 :	pro
@@ -23800,7 +23800,7 @@ kaikista
 turhimmat	
 tietoturvamokat	
 .	
-
+	
 <HEADLINE>	
 Poistitko	
 Flashin	pro
@@ -24042,7 +24042,7 @@ Playerin	pro
 poistamista	
 koneelta	
 .	
-
+	
 <HEADLINE>	
 NSA-johtaja	org
 osakkaana	
@@ -24214,7 +24214,7 @@ tai
 Keith	per
 Alexanderiin	per
 .	
-
+	
 <HEADLINE>	
 Iso	
 sairausvakuutusyhtiö	
@@ -24349,7 +24349,7 @@ paikanneensa
 tietojärjestelmän	
 vuotokohdan	
 .	
-
+	
 <HEADLINE>	
 Google	pro
 Play	pro
@@ -24577,7 +24577,7 @@ Playstä	pro
 SlashGear	org
 kirjoitti	
 .	
-
+	
 <HEADLINE>	
 Lenovon	org
 vuoro	
@@ -24882,7 +24882,7 @@ uuden
 vuoden	
 takia	
 .	
-
+	
 <HEADLINE>	
 Jättimurron	
 tekijät	
@@ -25041,7 +25041,7 @@ poistettiin
 haitallisia	
 tiedostoja	
 .	
-
+	
 <HEADLINE>	
 Facebook	org
 uudisti	
@@ -25451,7 +25451,7 @@ muiden
 tietosuojavaltuutettujen	
 kanssa	
 .	
-
+	
 <HEADLINE>	
 Tietokoneille	
 hyökätään	
@@ -25642,7 +25642,7 @@ liitännäisiä
 Viestintävirasto	org
 neuvoo	
 .	
-
+	
 <HEADLINE>	
 Paypal-maksuhuijaukset	misc
 leviävät	
@@ -26397,7 +26397,7 @@ vuoden
 aikana	
 tuplaantunut	
 .	
-
+	
 <HEADLINE>	
 Kiireen	
 syytä	
@@ -26617,7 +26617,7 @@ jo
 ennen	
 julkaisua	
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 taas	
@@ -26849,7 +26849,7 @@ heti
 alusta	
 pitäen	
 .	
-
+	
 <HEADLINE>	
 Hotellijätti	
 luopuu	
@@ -27012,7 +27012,7 @@ asiakkaiden
 wlan-yhteyksien	
 estämisestä	
 .	
-
+	
 <HEADLINE>	
 Suomalaisissa	
 yrityksissä	
@@ -27234,7 +27234,7 @@ asennuksia
 ajoissa	
 tunkiolle	
 .	
-
+	
 <HEADLINE>	
 Pankkiautomaatti	
 Helsingissä	loc
@@ -27532,7 +27532,7 @@ automaateille
 Marviala	per
 sanoo	
 .	
-
+	
 <HEADLINE>	
 Suomi24:n	org
 sähköpostisotku	
@@ -27827,7 +27827,7 @@ kehotuksen
 vaihtaa	
 salasanansa	
 .	
-
+	
 <HEADLINE>	
 AT	org
 &	org
@@ -28114,7 +28114,7 @@ kohdennettujen
 mainosten	
 lähettämisen	
 .	
-
+	
 <HEADLINE>	
 Vakava	
 Linux-aukko	misc
@@ -28399,7 +28399,7 @@ versio	pro
 .	pro
 	pro
 18-1	pro
-
+	
 <HEADLINE>	
 Haamu	
 avaa	
@@ -28616,7 +28616,7 @@ versiosta
 13.10	
 alkaen	
 .	
-
+	
 <HEADLINE>	
 Piste	
 i:n	
@@ -28915,7 +28915,7 @@ Belgia	loc
 ja	
 Brasilia	loc
 .	
-
+	
 <HEADLINE>	
 Kiireellinen	
 Flash-korjaus	pro
@@ -29115,7 +29115,7 @@ saataville
 tällä	
 viikolla	
 .	
-
+	
 <HEADLINE>	
 Kiina	loc
 tehostaa	
@@ -29371,7 +29371,7 @@ maan
 suvereniteetin”	
 ylläpitämiseksi	
 .	
-
+	
 <HEADLINE>	
 Hyppönen	per
 :	
@@ -29566,7 +29566,7 @@ yhtiön
 järjestelmiin	
 asti	
 .	
-
+	
 <HEADLINE>	
 Amerikkalaisautoja	
 seurataan	
@@ -29924,7 +29924,7 @@ huumakauppaa
 käydään	
 paljon	
 .	
-
+	
 <HEADLINE>	
 Kokin	
 tervehdys	
@@ -30118,7 +30118,7 @@ muun
 muassa	
 Neowin	org
 .	
-
+	
 <HEADLINE>	
 Applen	org
 vuoro	
@@ -30304,7 +30304,7 @@ laajan
 ennakkotiedotuksen	
 tietoturvakorjauksistaan	
 .	
-
+	
 <HEADLINE>	
 Raportti	
 :	
@@ -30972,7 +30972,7 @@ huolehdi
 kukaan	
 mukaan	
 .	
-
+	
 <HEADLINE>	
 Voiko	
 salasanan	
@@ -31194,7 +31194,7 @@ kieltäytyivät
 sanomasta	
 salasanaansa	
 .	
-
+	
 <HEADLINE>	
 Helppo	
 tapa	
@@ -31384,7 +31384,7 @@ siihen
 versioon	
 päivittää	
 .	
-
+	
 <HEADLINE>	
 Nyt	
 tarkkana	
@@ -31535,7 +31535,7 @@ julkaisi
 korjauksen	
 torstaina	
 .	
-
+	
 <HEADLINE>	
 Haittaohjelmien	
 kiusaama	
@@ -31781,7 +31781,7 @@ olleet
 heikommin	
 toimivia	
 .	
-
+	
 <HEADLINE>	
 HS:	org
 Haittaohjelmia	
@@ -31920,7 +31920,7 @@ aika
 merkittävästi	
 "	
 .	
-
+	
 <HEADLINE>	
 Nyt	
 tuli	
@@ -32131,7 +32131,7 @@ Softpedia	org
 ja	
 Kyberturvallisuuskeskus	org
 .	
-
+	
 <HEADLINE>	
 Nyt	
 varovaisena	
@@ -32371,7 +32371,7 @@ saapumiseen
 liittyvä	
 ilmoitus	
 .	
-
+	
 <HEADLINE>	
 Olisiko	
 pitänyt	
@@ -32544,7 +32544,7 @@ muun
 muassa	
 ZDNet	org
 .	
-
+	
 <HEADLINE>	
 123456	
 ,	
@@ -32872,7 +32872,7 @@ trustno1
 Lähde	
 :	
 SplashData	org
-
+	
 <HEADLINE>	
 F-Secure	org
 USA:lle	loc
@@ -33118,7 +33118,7 @@ Sony	org
 Pictures	org
 kohtasi	
 .	
-
+	
 <HEADLINE>	
 Video	
 :	
@@ -33364,7 +33364,7 @@ joka
 kiersi	
 MySpace-verkkosivustolla	pro
 .	
-
+	
 <HEADLINE>	
 Uusi	
 Snowden-paljastus	misc
@@ -33646,7 +33646,7 @@ suomalaisen
 mobiilipelin	
 kautta	
 .	
-
+	
 <HEADLINE>	
 Riitelyn	
 jälkeen	
@@ -33892,7 +33892,7 @@ muassa
 Ars	org
 Technica	org
 .	
-
+	
 <HEADLINE>	
 USA	loc
 piilotteli	
@@ -34178,7 +34178,7 @@ on
 kiistänyt	
 syyllisyytensä	
 .	
-
+	
 <HEADLINE>	
 Tämä	
 palvelu	
@@ -34455,7 +34455,7 @@ globaalisti
 toimivaa	
 palvelua	
 .	
-
+	
 <HEADLINE>	
 Sim-vaara	
 otetaan	
@@ -34912,7 +34912,7 @@ siihen
 haetaan	
 ratkaisua	
 .	
-
+	
 <HEADLINE>	
 Fataali	
 bugi	
@@ -35076,7 +35076,7 @@ muassa
 Neowin	org
 _	
 .	
-
+	
 <HEADLINE>	
 Saavatko	
 rikolliset	
@@ -35259,7 +35259,7 @@ The	org
 Hacker	org
 News	org
 .	
-
+	
 <HEADLINE>	
 Kyberguru	
 oli	
@@ -35452,7 +35452,7 @@ skuupit
 	
 Jep	
 .	
-
+	
 <HEADLINE>	
 Tietoturva-ammattilaisia	
 nöyryytettiin	
@@ -35708,7 +35708,7 @@ maksamaan
 palvelusta	
 esikoisellaan	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 korjasi	
@@ -35911,7 +35911,7 @@ osana
 tammikuun	
 pakettia	
 .	
-
+	
 <HEADLINE>	
 Häijy	
 usb-laturi	
@@ -36153,7 +36153,7 @@ perustuvia
 langattomia	
 näppiksiä	
 0	
-
+	
 <HEADLINE>	
 Yhdysvaltain	loc
 asejohto	
@@ -36318,7 +36318,7 @@ muassa
 Isisiä	org
 vastaan	
 .	
-
+	
 <HEADLINE>	
 Luulitko	
 Instagram-tilisi	misc
@@ -36526,7 +36526,7 @@ suoja-
 ja	
 näkyvyysmekanismeja	
 .	
-
+	
 <HEADLINE>	
 Pidä	
 huolta	
@@ -36707,7 +36707,7 @@ osoitteelta
 voisi	
 odottaa	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 kiukkuaa	
@@ -36910,7 +36910,7 @@ muun
 muassa	
 Neowin	org
 .	
-
+	
 <HEADLINE>	
 Lähes	
 miljardi	
@@ -37222,7 +37222,7 @@ käyttöjärjestelmän
 elinkaaren	
 selvästi	
 .	
-
+	
 <HEADLINE>	
 "	
 Microsoft	org
@@ -37468,7 +37468,7 @@ tekee
 Wisniewski	per
 tylyttää	
 .	
-
+	
 <HEADLINE>	
 Lizard	org
 Squadin	org
@@ -37777,7 +37777,7 @@ Krebs	per
 "	
 -tekstin	
 .	
-
+	
 <HEADLINE>	
 Sydänverivuodon	
 jälkeen	
@@ -37887,7 +37887,7 @@ suoraan
 internetin	
 sydämessä	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 korjaa	
@@ -38209,7 +38209,7 @@ tiedonlähde
 paikkauksiin	
 tutustumiseksi	
 .	
-
+	
 <HEADLINE>	
 3	
 kuukautta	
@@ -38398,7 +38398,7 @@ muun
 muassa	
 Softpedia	org
 .	
-
+	
 <HEADLINE>	
 NSA	org
 :	org
@@ -38787,7 +38787,7 @@ Korjattu
 linkki	
 Kasperskyn	org
 tietoihin	
-
+	
 <HEADLINE>	
 FBI	org
 :	
@@ -39167,7 +39167,7 @@ venäjää
 äidinkielenään	
 puhuvia	
 .	
-
+	
 <HEADLINE>	
 Tämän	
 takia	
@@ -39530,7 +39530,7 @@ aikamoinen
 temppu	
 sekin	
 .	
-
+	
 <HEADLINE>	
 Pankeilla	
 yhä	
@@ -39742,7 +39742,7 @@ verkkopankkien
 tapauksessa	
 rahoja	
 .	
-
+	
 <HEADLINE>	
 Liskojen	
 metsästäjällä	
@@ -39941,7 +39941,7 @@ ne
 välillä	
 pimentoon	
 .	
-
+	
 <HEADLINE>	
 Lenovo	org
 nöyränä	
@@ -40130,7 +40130,7 @@ ja
 internetin	
 välissä	
 .	
-
+	
 <HEADLINE>	
 Hotellijätti	
 sammuttaa	
@@ -40335,7 +40335,7 @@ omien
 internet-yhteyksien	
 estämiseksi	
 .	
-
+	
 <HEADLINE>	
 OP	org
 :	org
@@ -40464,7 +40464,7 @@ olleet
 suhteessa	
 pieniä	
 .	
-
+	
 <HEADLINE>	
 Liskon	
 viimeinen	
@@ -40697,7 +40697,7 @@ voi
 olla	
 lähellä	
 .	
-
+	
 <HEADLINE>	
 Rikottu	
 lupaus	
@@ -40966,7 +40966,7 @@ miljardiin
 dollar	
 iin	
 .	
-
+	
 <HEADLINE>	
 Miksi	
 verkkohyökkäys	
@@ -41358,7 +41358,7 @@ on
 myös	
 Suomessa	loc
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 tutkija	
@@ -41514,7 +41514,7 @@ Asiasta
 kertoi	
 Softpedia	org
 .	
-
+	
 <HEADLINE>	
 Nordean	org
 palvelut	
@@ -41643,7 +41643,7 @@ voi
 yhä	
 esiintyä	
 .	
-
+	
 <HEADLINE>	
 Netin	
 rungon	
@@ -41900,7 +41900,7 @@ verkkosivut
 ovat	
 alhaalla	
 .	
-
+	
 <HEADLINE>	
 Lizard	org
 Squadin	org
@@ -42239,7 +42239,7 @@ perjantaina
 vaikeasti	
 tavoitettavissa	
 .	
-
+	
 <HEADLINE>	
 Rikastuuko	
 suomalaisteini	
@@ -42456,7 +42456,7 @@ liittyvää
 väitettä	
 korjattu	
 .	
-
+	
 <HEADLINE>	
 OP	org
 :	org
@@ -42541,7 +42541,7 @@ tiedottaa
 tietoliikennehäiriöstä	
 kello	
 12.	
-
+	
 <HEADLINE>	
 Pornoa	
 Twitter-tilillä	misc
@@ -42670,7 +42670,7 @@ Asiasta
 kertoi	
 Neowin	org
 .	
-
+	
 <HEADLINE>	
 Vuoden	
 tietoturvailmiöt	
@@ -42886,7 +42886,7 @@ erittäin
 merkittävä	
 esimerkki	
 .	
-
+	
 <HEADLINE>	
 Jäikö	
 tärkeä	
@@ -43140,7 +43140,7 @@ käytöstä
 puhelimen	
 asetuksista	
 .	
-
+	
 <HEADLINE>	
 Peliverkkojen	
 kaatajien	
@@ -43414,7 +43414,7 @@ alettu
 poistaa	
 verkosta	
 .	
-
+	
 <HEADLINE>	
 Puhelimiin	
 levitetään	
@@ -43640,7 +43640,7 @@ on
 saanut	
 tartunnan	
 .	
-
+	
 <HEADLINE>	
 USA	loc
 epäilee	
@@ -43844,7 +43844,7 @@ puhuivat
 mahdollisesti	
 venäjää	
 .	
-
+	
 <HEADLINE>	
 Osaisitko	
 varoa	
@@ -44020,7 +44020,7 @@ jäsen
 Michele	per
 Spagnuolo	per
 .	
-
+	
 <HEADLINE>	
 Kädet	
 taskuun	
@@ -44273,7 +44273,7 @@ verisuoniin
 perustuvaa	
 tunnistusta	
 .	
-
+	
 <HEADLINE>	
 F-Securen	org
 Hyppönen	per
@@ -45011,7 +45011,7 @@ holviin
 vertaa	
 Hyppönen	per
 .	
-
+	
 <HEADLINE>	
 Lentokone	
 katosi	
@@ -45166,7 +45166,7 @@ kadottua
 viime	
 maaliskuussa	
 .	
-
+	
 <HEADLINE>	
 Uusi	
 vuoto	
@@ -45395,7 +45395,7 @@ vaikeiden
 salaustekniikoiden	
 purkamisessa	
 .	
-
+	
 <HEADLINE>	
 Kiina	loc
 iski	
@@ -45584,7 +45584,7 @@ kiertää
 suuri	
 palomuuri	
 .	
-
+	
 <HEADLINE>	
 Kohufilmi	
 The	pro
@@ -45918,7 +45918,7 @@ avustamaan
 nettiterrorismin	
 tukahduttamisessa	
 .	
-
+	
 <HEADLINE>	
 Googlen	org
 nollapäiväpoliisi	
@@ -46320,7 +46320,7 @@ Korjattu
 Microsoft-johtajan	misc
 nimi	
 .	
-
+	
 <HEADLINE>	
 Apple	org
 turvautui	
@@ -46469,7 +46469,7 @@ käytetyn
 Mac-tietokoneita	pro
 vastaan	
 .	
-
+	
 <HEADLINE>	
 Pankkirosvot	
 hakkeroivat	
@@ -46741,7 +46741,7 @@ käytettiin
 samaa	
 haittaohjelmaa	
 .	
-
+	
 <HEADLINE>	
 Haittaohjelma	
 tirkistelee	
@@ -47117,7 +47117,7 @@ tehdä
 se	
 mobiililaitteella	
 .	
-
+	
 <HEADLINE>	
 Hakkeroitu	
 Sony	org
@@ -47394,7 +47394,7 @@ The	pro
 Interview	pro
 kertoo	
 .	
-
+	
 <HEADLINE>	
 Hölmöläisten	
 puuhaa	
@@ -47610,7 +47610,7 @@ vaikutus
 on	
 päinvastainen	
 .	
-
+	
 <HEADLINE>	
 Onko	
 läppärissäsi	
@@ -47829,7 +47829,7 @@ heidän
 tietoturvansa	
 kannalta	
 .	
-
+	
 <HEADLINE>	
 Facebook	org
 salli	
@@ -48036,7 +48036,7 @@ valokuvien
 katsomisen	
 kaikille	
 .	
-
+	
 <HEADLINE>	
 Uber	org
 sössi	
@@ -48227,7 +48227,7 @@ oli
 päässyt	
 käymään	
 .	
-
+	
 <HEADLINE>	
 Julkkisten	
 nakukuvat	
@@ -48396,7 +48396,7 @@ kaksivaiheisen
 tunnistuksen	
 käyttöä	
 .	
-
+	
 <HEADLINE>	
 Google	org
 nimitti	
@@ -48613,7 +48613,7 @@ valmiiksi
 saamista	
 varten	
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 sai	
@@ -48837,7 +48837,7 @@ kavahtanut
 Samsungin	org
 käyttösopimusta	
 .	
-
+	
 <HEADLINE>	
 USA	loc
 epäilee	
@@ -49041,7 +49041,7 @@ puhuivat
 mahdollisesti	
 venäjää	
 .	
-
+	
 <HEADLINE>	
 Pelkäätkö	
 tartuntaa	
@@ -49377,7 +49377,7 @@ niistä
 löytynyt	
 haavoittuvuuksia	
 .	
-
+	
 <HEADLINE>	
 Tiukka	
 ohje	
@@ -49548,7 +49548,7 @@ Me
 teemme	
 samoin	
 .	
-
+	
 <HEADLINE>	
 Samsung	org
 veti	
@@ -49808,7 +49808,7 @@ saada
 tiedot	
 tuhottua	
 .	
-
+	
 <HEADLINE>	
 Microsoft	org
 korjasi	
@@ -50045,7 +50045,7 @@ käytössä
 monissa	
 yrityksissä	
 .	
-
+	
 <HEADLINE>	
 Forbes	org
 .	org
@@ -50335,7 +50335,7 @@ verkkoihin
 iSight	org
 sanoo	
 .	
-
+	
 <HEADLINE>	
 Anthemin	org
 megamurto	
@@ -50621,7 +50621,7 @@ sen
 mitä	
 halusivat	
 .	
-
+	
 <HEADLINE>	
 NSA	org
 varasti	
@@ -50856,7 +50856,7 @@ muun
 muassa	
 ZDNetistä	org
 .	
-
+	
 <HEADLINE>	
 Minäkö	
 pornotähtenä	
