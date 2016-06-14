@@ -1,3 +1,55 @@
+nyt
+äskettäin
+hiljattain
+
+eilen
+tänään
+huomenna
+
+maanantai
+tiistai
+keskiviik
+torstai
+perjantai
+lauantai
+sunnuntai
+
+tammiku
+helmiku
+maalisku
+huhtiku
+toukoku
+kesäku
+heinäku
+eloku
+syysku
+lokaku
+marrasku
+jouluku
+
+päivässä
+kuukaudessa
+vuodessa
+
+
+======
+
+viime viikolla
+viime viikon
+tällä viikolla
+tämän viikon
+ensi viikolla
+ensi viikon
+
+viime vuonna
+viime vuoden
+tänä vuonna
+tämän vuoden
+ensi vuonna
+ensi vuoden
+
+tällä hetkellä
+tähän asti
 
 
 Current entity categories:
