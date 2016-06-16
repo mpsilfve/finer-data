@@ -11,7 +11,9 @@ myšhemmin, myšhempi, myšhemmŠt
 aiemmin
 sittemmin
 aikanaan
+aikoinaan
 
+samaan aikaan
 
 =================
 

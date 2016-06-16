@@ -345,8 +345,8 @@ julkaisuun
 olisi 	
 esimerkiksi 	
 ensi 	tim
-kuun 	
-lopussa 	
+kuun 	tim
+lopussa 	tim
 Barcelonassa 	loc
 järjestettävät 	
 telealan 	
@@ -369,8 +369,8 @@ Nokian 	org
 matkapuhelinliiketoiminnan 	
 haltuunsa 	
 maaliskuun 	tim
-loppuun 	
-mennessä 	
+loppuun 	tim
+mennessä 	tim
 , 	
 ja 	
 yhtiö 	
@@ -609,8 +609,8 @@ hetkessä
 <INGRESS> 	
 Siihen 	
 meni 	
-seitsemän 	
-tuntia 	
+seitsemän 	tim
+tuntia 	tim
 . 	
  	
 Uusi 	
@@ -644,9 +644,9 @@ keräsi
 000 	
 dollarin 	
 Kickstarter-tavoitteensa 	misc
-alle 	
-seitsemässä 	
-tunnissa 	
+alle 	tim
+seitsemässä 	tim
+tunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -706,7 +706,7 @@ lyph 	pro
 sai 	
 paljon 	
 kiitosta 	
-vuodenvaihteen 	
+vuodenvaihteen 	tim
 CES-messuilla 	event
 . 	
  	
@@ -794,11 +794,11 @@ vai
 käykö 	
 kuten 	
 virtuaalikypärille 	
-90-luvulla 	
+90-luvulla 	tim
 ? 	
  	
 <HEADLINE> 	
-Jollan 	
+Jollan 	pro
 sisuskalut 	
 paljastuivat 	
 — 	
@@ -812,7 +812,7 @@ toimivuus
 <INGRESS> 	
 Espanjalaiskäyttäjä 	
 avasi 	
-Jollansa 	
+Jollansa 	pro
 ja 	
 paljasti 	
 komponenttivalmistajat 	
@@ -820,48 +820,48 @@ komponenttivalmistajat
  	
 <BODY> 	
 <PARAGRAPH> 	
-Jollan 	
+Jollan 	pro
 espanjalaiskäyttäjä 	
 , 	
 nimimerkki 	
-derpepe 	
+derpepe 	per
 avasi 	
-vuodenvaihteen 	
-tienoilla 	
-Jolla-puhelimensa 	
+vuodenvaihteen 	tim
+tienoilla 	tim
+Jolla-puhelimensa 	pro
 ja 	
 raportoi 	
 löydöksistään 	
-maemo 	
-. 	
- 	
-orgin 	
+maemo 	org
+. 	org
+ 	org
+orgin 	org
 foorumilla 	
 . 	
  	
 <PARAGRAPH> 	
 Muistipiirit 	
 paljastuivat 	
-Micronin 	
+Micronin 	org
 valmistamiksi 	
 , 	
 radiovahvistin 	
 oli 	
-Avago 	
-technologiesin 	
+Avago 	org
+technologiesin 	org
 ja 	
 äänikoodekki 	
 oli 	
-Qualcommilta 	
+Qualcommilta 	org
 . 	
  	
 <PARAGRAPH> 	
-Derpepe 	
+Derpepe 	per
 päätteli 	
 puhelimen 	
 olevan 	
-Truly 	
-electronicsin 	
+Truly 	org
+electronicsin 	org
 valmistama 	
 , 	
 mutta 	
@@ -875,7 +875,7 @@ valmistaja
 . 	
  	
 <PARAGRAPH> 	
-Jolla 	
+Jolla 	org
 ei 	
 ole 	
 kertonut 	
@@ -888,7 +888,7 @@ kokoajana
 . 	
  	
 <PARAGRAPH> 	
-Derpepe 	
+Derpepe 	per
 sanoi 	
 luulleensa 	
 puhelinta 	
@@ -932,11 +932,11 @@ kautta
 Kuvat 	
 ovat 	
 nähtävissä 	
-derpepen 	
-Maemo 	
-. 	
- 	
-orgiin 	
+derpepen 	per
+Maemo 	org
+. 	org
+ 	org
+orgiin 	org
 lähettämässä 	
 viestissä 	
 . 	
@@ -945,9 +945,9 @@ viestissä
 Kuvien 	
 lähettämisen 	
 jälkeen 	
-der 	
-_ 	
-pepelle 	
+der 	per
+_ 	per
+pepelle 	per
 huomautettiin 	
 , 	
 että 	
@@ -958,7 +958,7 @@ operaation
 myötä 	
 mitä 	
 todennäköisimmin 	
-entinen 	
+entinen 	tim
 . 	
  	
 Radiotaajuussuojien 	
@@ -1037,9 +1037,9 @@ Puhelimet
 ovat 	
 tulossa 	
 myyntiin 	
-vuoden 	
-toisella 	
-puoliskolla 	
+vuoden 	tim
+toisella 	tim
+puoliskolla 	tim
 , 	
 mikä 	
 heijastelee 	
@@ -1176,7 +1176,7 @@ Kiinassa
 missä 	
 Apple 	org
 sai 	
-juuri 	
+juuri 	tim
 asiakkaakseen 	
 maan 	
 suurimman 	
@@ -1185,8 +1185,8 @@ China 	org
 Mobilen 	org
 . 	
  	
-Tällä 	
-hetkellä 	
+Tällä 	tim
+hetkellä 	tim
 iPhonen 	pro
 näyttökoko 	
 on 	
@@ -1237,7 +1237,7 @@ käyttökokemuksistaan
 ja 	
 ennusti 	
 Glassin 	pro
-lähitulevaisuutta 	
+lähitulevaisuutta 	tim
 . 	
  	
 Lasien 	
@@ -1267,8 +1267,8 @@ pääse
 alle 	
 500 	
 dollarin 	
-vuonna 	
-2014 	
+vuonna 	tim
+2014 	tim
 , 	
 joten 	
 se 	
@@ -1281,8 +1281,8 @@ tuhoon
 tuomittu 	
 . 	
  	
-Vuonna 	
-2014 	
+Vuonna 	tim
+2014 	tim
 , 	
 tarkentaa 	
 Scoble 	per
@@ -1297,8 +1297,8 @@ Scoble 	per
 sai 	
 Glassin 	pro
 käsiinsä 	
-toisena 	
-päivänä 	
+toisena 	tim
+päivänä 	tim
 sen 	
 jälkeen 	
 , 	
@@ -1341,8 +1341,8 @@ tapahtuu
 hänen 	
 veikkauksensa 	
 mukaan 	
-vuonna 	
-2016. 	
+vuonna 	tim
+2016. 	tim
  	
 <PARAGRAPH> 	
 Edes 	
@@ -1357,8 +1357,8 @@ vannoi
 pitävänsä 	
 Glassia 	pro
 päässään 	
-joka 	
-päivä 	
+joka 	tim
+päivä 	tim
 , 	
 ei 	
 ole 	
@@ -1366,8 +1366,8 @@ enää
 viitsinyt 	
 pukeutua 	
 niihin 	
-koko 	
-ajan 	
+koko 	tim
+ajan 	tim
 . 	
  	
 Syynä 	
@@ -1400,8 +1400,8 @@ hyvin
 heikkoa 	
 . 	
  	
-Tämän 	
-vuoden 	
+Tämän 	tim
+vuoden 	tim
 odotettua 	
 julkaisua 	
 häiritsevät 	
@@ -1628,15 +1628,15 @@ Myontecin 	org
 älyhousuista 	
 jo 	
 kesäkuussa 	tim
-2012. 	
+2012. 	tim
 Sen 	
 mukaan 	
 kuluttajatuote 	
 oli 	
 arviolta 	
-parin 	
-vuoden 	
-päässä 	
+parin 	tim
+vuoden 	tim
+päässä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2489,9 +2489,9 @@ oikeudessa
 . 	
  	
 <PARAGRAPH> 	
-Tämän 	
-kuun 	
-alussa 	
+Tämän 	tim
+kuun 	tim
+alussa 	tim
 poliisi 	
 kuulusteli 	
 Ohiossa 	loc
@@ -2681,10 +2681,10 @@ on
 luvannut 	
 laajempaa 	
 saatavuutta 	
-tämän 	
-kuun 	
-loppuun 	
-mennessä 	
+tämän 	tim
+kuun 	tim
+loppuun 	tim
+mennessä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2736,8 +2736,8 @@ helmikuussa 	tim
 Nokia 	org
 esittelee 	
 vielä 	
-tässä 	
-kuussa 	
+tässä 	tim
+kuussa 	tim
 halvan 	
 Android-älypuhelimen 	pro
 , 	
@@ -2784,7 +2784,7 @@ uutuudesta
 kuultaisiin 	
 vielä 	
 helmikuun 	tim
-aikana 	
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2923,10 +2923,10 @@ juuri
 sellaista 	
 luuria 	
 julkaistavaksi 	
-aikaisintaan 	
-alkaneen 	
-vuoden 	
-puolivälissä 	
+aikaisintaan 	tim
+alkaneen 	tim
+vuoden 	tim
+puolivälissä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2970,7 +2970,7 @@ Phonen 	pro
 kyytiin 	
 . 	
  	
-Lokakuussa 	
+Lokakuussa 	tim
 Bloomberg 	org
 kertoi 	
 Microsoftin 	org
@@ -3053,7 +3053,7 @@ laitteiden
 tekijänä 	
 on 	
 viime 	tim
-vuosina 	
+vuosina 	tim
 kärsinyt 	
 , 	
 sen 	
@@ -3401,8 +3401,8 @@ julki
  	
 <INGRESS> 	
 Vielä 	
-vuosi 	
-sitten 	
+vuosi 	tim
+sitten 	tim
 kenen 	
 tahansa 	
 kukkarolle 	
@@ -3629,7 +3629,7 @@ seuraavan
 tablettisukupolven 	
 sanotaan 	
 tulevan 	
-loppuvuodesta 	
+loppuvuodesta 	tim
 . 	
  	
 <BODY> 	
@@ -3671,7 +3671,7 @@ julkistusajankohta
 olisi 	
 tämän 	tim
 vuoden 	tim
-lopulla 	
+lopulla 	tim
 . 	
  	
 Microsoftin 	org
@@ -3725,9 +3725,9 @@ joka
 saapui 	
 kauppoihin 	
 Suomessa 	loc
-juuri 	
-ennen 	
-joulua 	
+juuri 	tim
+ennen 	tim
+joulua 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -3749,8 +3749,8 @@ LTE-yhteensopivuuteen 	misc
 . 	
  	
 <PARAGRAPH> 	
-Tähän 	
-mennessä 	
+Tähän 	tim
+mennessä 	tim
 julkaistut 	
 Surfacet 	pro
 eivät 	
@@ -3778,11 +3778,11 @@ ihmeeksi
 . 	
  	
 <HEADLINE> 	
-Hyundai 	
+Hyundai 	org
 villinä 	
 : 	
-Google 	
-Glassilla 	
+Google 	pro
+Glassilla 	pro
 auto 	
 käyntiin 	
  	
@@ -3790,14 +3790,14 @@ käyntiin
 3.1.2014 16:05 	
  	
 <INGRESS> 	
-Google 	
-Glass 	
+Google 	pro
+Glass 	pro
 on 	
 vasta 	
 prototyyppi 	
 , 	
 mutta 	
-Hyundai 	
+Hyundai 	org
 aikoo 	
 palvella 	
 sellaisen 	
@@ -3811,8 +3811,8 @@ automallillaan
 <PARAGRAPH> 	
 Päähän 	
 puettavalla 	
-Google 	
-Glassilla 	
+Google 	pro
+Glassilla 	pro
 voi 	
 olla 	
 edessään 	
@@ -3831,7 +3831,7 @@ uskominen
 Mutta 	
 eteläkorealainen 	
 autovalmistaja 	
-Hyundai 	
+Hyundai 	org
 on 	
 jo 	
 vempaimesta 	
@@ -3839,11 +3839,11 @@ innoissaan
 . 	
  	
 <PARAGRAPH> 	
-Hyundai 	
+Hyundai 	org
 tiedotti 	
-vuoden 	
-2015 	
-Genesis-mallista 	
+vuoden 	tim
+2015 	tim
+Genesis-mallista 	pro
 , 	
 johon 	
 käyttäjät 	
@@ -3855,9 +3855,9 @@ tietotekniikalla
 . 	
  	
 Valmistajan 	
-Blue 	
-Link 	
--alusta 	
+Blue 	pro
+Link 	pro
+-alusta 	pro
 mahdollistaa 	
 mainostekstin 	
 mukaan 	
@@ -3869,8 +3869,8 @@ ovien
 avaamisen 	
 ja 	
 lukitsemisen 	
-Google 	
-Glassin 	
+Google 	pro
+Glassin 	pro
 ja 	
 muiden 	
 vastaavien 	
@@ -3902,20 +3902,20 @@ kaivaa
 esiin 	
 . 	
  	
-Hyundai 	
+Hyundai 	org
 aikoo 	
 julkaista 	
-Blue 	
-Link 	
-Glassware 	
--sovelluksen 	
+Blue 	pro
+Link 	pro
+Glassware 	pro
+-sovelluksen 	pro
 ensi 	tim
 vuonna 	tim
 uuden 	
-2015 	
-Genesis 	
-- 	
-sedanin 	
+2015 	pro
+Genesis 	pro
+- 	pro
+sedanin 	pro
 kanssa 	
 , 	
 yhtiö 	
@@ -3924,7 +3924,7 @@ tiedotteessa
 . 	
  	
 <PARAGRAPH> 	
-Glassia 	
+Glassia 	pro
 ei 	
 sentään 	
 voi 	
@@ -3945,7 +3945,7 @@ kortteina
 jotka 	
 on 	
 optimoitu 	
-Glassin 	
+Glassin 	pro
 pienelle 	
 ruudulle 	
 vaikkapa 	
@@ -3965,7 +3965,7 @@ tavalla
  	
 <PARAGRAPH> 	
 Vaikka 	
-Hyundain 	
+Hyundain 	org
 suunnitelmat 	
 kuulostavat 	
 erikoisilta 	
@@ -3988,7 +3988,7 @@ aikeita
 on 	
 muun 	
 muassa 	
-Nissanilla 	
+Nissanilla 	org
 , 	
 joka 	
 liittyi 	
@@ -3998,7 +3998,7 @@ syksyllä
 julkistamalla 	
 kuljettajaa 	
 tukevan 	
-Nismo-laitteen 	
+Nismo-laitteen 	pro
 . 	
  	
 <HEADLINE> 	
@@ -4093,7 +4093,7 @@ volttia
 Yellow 	org
 Jacketin 	org
 mukaan 	
-sekunnin 	
+sekunnin 	tim
 tai 	
 parin 	
 kosketus 	
@@ -4104,8 +4104,8 @@ pistoa
 , 	
 kun 	
 taas 	
-viisi 	
-sekuntia 	
+viisi 	tim
+sekuntia 	tim
 voi 	
 saada 	
 kohteen 	
@@ -4606,8 +4606,8 @@ euroon
 . 	
  	
 <HEADLINE> 	
-Xbox 	
-One 	
+Xbox 	pro
+One 	pro
 ilman 	
 levyasemaa 	
 ? 	
@@ -4625,36 +4625,36 @@ Digitaalisen
 jakelun 	
 lumo 	
 johdatti 	
-Microsoftin 	
+Microsoftin 	org
 vaarallisille 	
 vesille 	
 , 	
-Official 	
-Xbox 	
-Magazine 	
+Official 	org
+Xbox 	org
+Magazine 	org
 kertoo 	
 . 	
  	
 <BODY> 	
 <PARAGRAPH> 	
-Microsoftin 	
+Microsoftin 	org
 omistaman 	
 pelitalon 	
-Microsoft 	
-Studiosin 	
-pomo 	
-Phil 	
-Spencer 	
+Microsoft 	org
+Studiosin 	org
+pomo 	tit
+Phil 	per
+Spencer 	per
 avautui 	
-Xbox 	
-Onen 	
+Xbox 	pro
+Onen 	pro
 kehityskaaresta 	
-Official 	
-Xbox 	
-Magazinelle 	
+Official 	org
+Xbox 	org
+Magazinelle 	org
 . 	
  	
-Spencerin 	
+Spencerin 	per
 mukaan 	
 idea 	
 ilman 	
@@ -4667,27 +4667,27 @@ jopa
 vielä 	
 viime 	tim
 vuoden 	tim
-puolivälissä 	
+puolivälissä 	tim
 , 	
 eli 	
 vain 	
-kuukausia 	
-ennen 	
-syksyn 	
+kuukausia 	tim
+ennen 	tim
+syksyn 	tim
 julkaisua 	
 . 	
  	
 <PARAGRAPH> 	
 Pahin 	
 kilpailija 	
-Playstation 	
-4 	
+Playstation 	pro
+4 	pro
 sisältää 	
 levyaseman 	
 ja 	
 jälkikäteen 	
 katsottuna 	
-Microsoft 	
+Microsoft 	org
 olisi 	
 saattanut 	
 ampua 	
@@ -4698,8 +4698,8 @@ puhtaasti
 pelien 	
 digitaaliseen 	
 jakeluun 	
-Xbox 	
-Onessa 	
+Xbox 	pro
+Onessa 	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -4711,8 +4711,8 @@ keskustelu
 siitä 	
 , 	
 pitäisikö 	
-Xbox 	
-Onessa 	
+Xbox 	pro
+Onessa 	pro
 olla 	
 optinen 	
 levyasema 	
@@ -4737,11 +4737,11 @@ siitä
 syntyy 	
 ongelmia 	
 , 	
-Spencer 	
+Spencer 	per
 kertoi 	
-Official 	
-Xbox 	
-Magazinelle 	
+Official 	org
+Xbox 	org
+Magazinelle 	org
 . 	
  	
 Siksi 	
@@ -4753,8 +4753,8 @@ blu-ray-asema
 . 	
  	
 <PARAGRAPH> 	
-Xbox 	
-Onen 	
+Xbox 	pro
+Onen 	pro
 lanseeraus 	
 oli 	
 ilman 	
@@ -4763,7 +4763,7 @@ melkoista
 vuoristorataa 	
 , 	
 kun 	
-Microsoft 	
+Microsoft 	org
 ensin 	
 säikäytti 	
 pelaajia 	
@@ -4772,7 +4772,7 @@ uudistuksilla
 vain 	
 muuttaakseen 	
 mielensä 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 Esimerkkinä 	
@@ -4813,7 +4813,7 @@ jälkeen
  	
 <BODY> 	
 <PARAGRAPH> 	
-Joulukuussa 	
+Joulukuussa 	tim
 myyntiin 	
 tullut 	
 Mac 	pro
@@ -5061,12 +5061,12 @@ itse
 laitteisto 	
 . 	
  	
-Vuonna 	
-2012 	
+Vuonna 	tim
+2012 	tim
 syntynyt 	
 idea 	
 on 	
-nyt 	tim
+nyt 	
 materialisoitunut 	
 prototyypiksi 	
 . 	
@@ -5387,7 +5387,7 @@ on
 luvassa 	
 myyntiin 	
 puhelinvalmistajille 	
-myöhemmin 	
+myöhemmin 	tim
 tänä 	tim
 vuonna 	tim
 . 	
@@ -5454,7 +5454,7 @@ saattaisi
 yrittää 	
 safiirilla 	
 uudestaan 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5841,7 +5841,7 @@ Philae 	per
 saattaa 	
 herätä 	
 aikaisintaan 	
-myöhään 	
+myöhään 	tim
 maaliskuussa 	tim
 , 	
 mutta 	
@@ -6350,7 +6350,7 @@ ilmaiseksi
 Raspberryn 	pro
 käyttäjien 	
 saataville 	
-myöhemmin 	
+myöhemmin 	tim
 tänä 	tim
 vuonna 	tim
 Windows 	pro
@@ -7037,7 +7037,7 @@ tullut
 nihkeästi 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 se 	
 näyttää 	
 saaneen 	
@@ -7122,7 +7122,7 @@ vuodesta
 lähtien 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 markkinoille 	
 tunkee 	
 tusinoittain 	
@@ -7281,7 +7281,7 @@ sen
 todellinen 	
 potentiaali 	
 nähdään 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7951,7 +7951,7 @@ rajoituksista
 . 	
  	
 <PARAGRAPH> 	
-Maanantaina 	
+Maanantaina 	tim
 Glass-blogi 	org
 kertoi 	
 kalenterin 	
@@ -8067,7 +8067,7 @@ pelastus
 . 	
  	
 <PARAGRAPH> 	
-Toistaiseksi 	
+Toistaiseksi 	tim
 ei 	
 ole 	
 vielä 	
@@ -8849,7 +8849,7 @@ tälläkin
 kertaa 	
 . 	
  	
-Helmikuussa 	
+Helmikuussa 	tim
 julkistettu 	
 Galaxy 	pro
 S5 	pro
@@ -9594,14 +9594,14 @@ taakse
  	
 <PARAGRAPH> 	
 Kuten 	
-tähänkin 	tim
-asti 	tim
+tähänkin 	
+asti 	
 on 	
 tapahtunut 	
 , 	
 Samsung 	org
 tuo 	
-myöhemmin 	
+myöhemmin 	tim
 osan 	
 S5 	pro
 : 	pro
@@ -9973,7 +9973,7 @@ helposti
 . 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 laitetta 	
 saa 	
 kauppojen 	
@@ -10230,7 +10230,7 @@ Youtube 	pro
 , 	
 Google 	pro
 Playn 	pro
-elokuvavuokraamo 	tim
+elokuvavuokraamo 	
 , 	
 Netflix 	pro
 , 	
@@ -10326,7 +10326,7 @@ lähettää
 telkkarille 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 tv:n 	
 ruudulla 	
 näkyy 	
@@ -11201,7 +11201,7 @@ Kuvien
 perusteella 	
 puhelimesta 	
 tuli 	
-entinen 	
+entinen 	tim
 , 	
 vaikka 	
 luoti 	
@@ -11307,8 +11307,8 @@ Näin
 kerrottiin 	
 tapahtuneen 	
 ainakin 	
-vuonna 	
-2008 	
+vuonna 	tim
+2008 	tim
 Yhdys 	loc
 valloissa 	loc
 . 	
@@ -11369,7 +11369,7 @@ myös
 tv-boksia 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 voi 	
 vihdoin 	
 olla 	
@@ -11497,7 +11497,7 @@ ilmainen
 Amazonin 	org
 kääriessä 	
 rahat 	
-myöhemmin 	
+myöhemmin 	tim
 puhelimeen 	
 kytkettävien 	
 palvelujen 	
@@ -11546,8 +11546,8 @@ Nokian 	org
 tabletti 	
 voinut 	
 onnistua 	
-vuonna 	
-2001 	
+vuonna 	tim
+2001 	tim
 ? 	
  	
 <DATE> 	
@@ -11659,8 +11659,8 @@ ja
 wlan-yhteys 	
 . 	
  	
-Vuonna 	
-2001 	
+Vuonna 	tim
+2001 	tim
 , 	
 jolloin 	
 ei 	
@@ -11674,7 +11674,7 @@ Mark 	per
 Zuckerbergkin 	per
 oli 	
 vasta 	
-16-vuotias 	
+16-vuotias 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -11699,7 +11699,7 @@ tutuksi
 ovat 	
 syntyneet 	
 vasta 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -11743,7 +11743,7 @@ ekosysteemin
 ? 	
  	
 <PARAGRAPH> 	
-Nykyisin 	
+Nykyisin 	tim
 älylaite 	
 on 	
 yhtä 	
@@ -11754,8 +11754,8 @@ toimivat
 sovellukset 	
 . 	
  	
-Vuonna 	
-2001 	
+Vuonna 	tim
+2001 	tim
 appeja 	
 eli 	
 mobiilisovelluksia 	
@@ -11816,7 +11816,7 @@ millaisen
 App 	pro
 Store 	pro
 niistä 	
-myöhemmin 	
+myöhemmin 	tim
 teki 	
 . 	
  	
@@ -11824,8 +11824,8 @@ teki
 Messiaslaite 	
 tuli 	
 vasta 	
-vuonna 	
-2007 	
+vuonna 	tim
+2007 	tim
 , 	
 kun 	
 Apple 	org
@@ -11839,7 +11839,7 @@ seurasi
 vanavedessä 	
 kolme 	
 vuotta 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 Laitteista 	
@@ -11949,8 +11949,8 @@ laitteissa
 . 	
  	
 Linux 	pro
-vuonna 	
-2001 	
+vuonna 	tim
+2001 	tim
 oli 	
 vielä 	
 melkoinen 	
@@ -12021,8 +12021,8 @@ arvon
  	
 Yhtiö 	
 lanseerasi 	
-vuonna 	
-2005 	
+vuonna 	tim
+2005 	tim
 Nokia 	pro
 770:n 	pro
 mutta 	
@@ -12624,7 +12624,7 @@ tavoin
 muualle 	
 . 	
  	
-Nykyisin 	
+Nykyisin 	tim
 hän 	
 työskentelee 	
 Networker-nimisessä 	misc
@@ -13081,7 +13081,7 @@ oli
 Maemo 	pro
 , 	
 joka 	
-myöhemmin 	
+myöhemmin 	tim
 jalostui 	
 Meegoksi 	pro
 . 	
@@ -13387,7 +13387,7 @@ Nokia 	org
 on 	
 jo 	
 ottanut 	
-ensi 	tim
+ensi 	
 askeleensa 	
 Googlen 	org
 kehittämän 	
@@ -13424,7 +13424,7 @@ myös
 Superman 	pro
 voi 	
 liittyä 	
-elokuviin 	tim
+elokuviin 	
 . 	
  	
 Sekä 	
@@ -13821,8 +13821,8 @@ Samsung 	org
  	
 <BODY> 	
 <PARAGRAPH> 	
-Viime 	
-vuonna 	
+Viime 	tim
+vuonna 	tim
 puettava 	
 teknologia 	
 sai 	
@@ -13937,7 +13937,7 @@ Googleen 	org
 . 	
  	
 <PARAGRAPH> 	
-Viime 	
+Viime 	tim
 kuussa 	
 Google 	org
 julkisti 	
@@ -13953,8 +13953,8 @@ puettavaan
 teknologiaan 	
 . 	
  	
-Viime 	
-viikolla 	
+Viime 	tim
+viikolla 	tim
 Nike 	org
 tiedotti 	
 uudesta 	
@@ -14094,7 +14094,7 @@ myynti
 käynnistyy 	
 kello 	
 kuudelta 	
-aamulla 	
+aamulla 	tim
 länsirannikon 	
 aikaa 	
 . 	
@@ -14156,7 +14156,7 @@ kuitenkin
 kaikille 	
 . 	
  	
-Tiistain 	
+Tiistain 	tim
 kampanjailmoittautumisen 	
 kaavakkeessa 	
 kysellään 	
@@ -14238,7 +14238,7 @@ amerikkalaista
 lehdistöä 	
 pienimuotoiseen 	
 tapahtumaan 	
-myöhemmin 	
+myöhemmin 	tim
 toukokuussa 	tim
 . 	
  	
@@ -14870,7 +14870,7 @@ on
 millimetriä 	
 , 	
 kun 	
-nykyinen 	
+nykyinen 	tim
 iPhone 	pro
 5s 	pro
 on 	
@@ -14893,7 +14893,7 @@ suurempi
 malli 	
 tulisi 	
 kauppoihin 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -15337,7 +15337,7 @@ uuden
 tähden 	
 . 	
  	
-Eilen 	
+Eilen 	tim
 aloittanut 	
 3d-tulostimia 	
 kuluttajakäyttöön 	
@@ -15411,7 +15411,7 @@ heti
 kättelyssä 	
 . 	
  	
-Toistaiseksi 	
+Toistaiseksi 	tim
 300 	
 dollarin 	
 tulostimia 	
@@ -16036,8 +16036,8 @@ arvioi
 , 	
 että 	
 jo 	
-vuonna 	
-2012 	
+vuonna 	tim
+2012 	tim
 palveluilla 	
 oli 	
 yhteensä 	
@@ -16206,7 +16206,7 @@ vasta
 " 	
 useita 	
 kuukausia 	
-myöhemmin 	
+myöhemmin 	tim
 " 	
 . 	
  	
@@ -16855,7 +16855,7 @@ korjattu
 <PARAGRAPH> 	
 Facebook-sovellus 	pro
 ei 	
-aamupäivällä 	
+aamupäivällä 	tim
 toiminut 	
 DNA:n 	org
 kiinteissä- 	
@@ -16866,7 +16866,7 @@ mobiililaajakaistoissa
 Häiriö 	
 havaittiin 	
 tänä 	tim
-aamuna 	
+aamuna 	tim
 klo 	
 8.50 	
 . 	
@@ -17244,7 +17244,7 @@ sitten
 ei 	
 . 	
  	
-Joulukuussa 	
+Joulukuussa 	tim
 huhuttiin 	
 Nokian 	org
 älykellosta 	
@@ -17492,7 +17492,7 @@ WWDC-kehittäjätapaaminen 	event
 alkaa 	
 vain 	
 viikkoa 	
-myöhemmin 	
+myöhemmin 	tim
 – 	
 San 	loc
 Franciscossa 	loc
@@ -18233,7 +18233,7 @@ iOS 	pro
 n 	pro
 versiota 	pro
 6. 	pro
-Toistaiseksi 	
+Toistaiseksi 	tim
 vain 	
 Android-sovellus 	misc
 on 	
@@ -20536,7 +20536,7 @@ puettavan
 teknologian 	
 kauppaan 	
 voi 	
-myöhemmin 	
+myöhemmin 	tim
 tulla 	
 myös 	
 Narrativen 	org
@@ -20741,7 +20741,7 @@ Samsungilla 	org
 ei 	
 ollut 	
 antaa 	
-aamupäivällä 	
+aamupäivällä 	tim
 paikallista 	
 tietoa 	
 , 	
@@ -20755,7 +20755,7 @@ kunhan
 Ruotsissakin 	loc
 herätään 	
 " 	
-aamuun 	
+aamuun 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -21039,7 +21039,7 @@ aloituksesta
 28.1.2015 07:19 	
  	
 <INGRESS> 	
-Viime 	
+Viime 	tim
 syyskuussa 	tim
 julkistettu 	
 Applen 	org
@@ -21161,8 +21161,8 @@ omaa
 työtään 	
 . 	
  	
-Tähän 	
-asti 	
+Tähän 	tim
+asti 	tim
 he 	
 ovat 	
 voineet 	
@@ -21399,7 +21399,7 @@ tallettaa
 näytteitä 	
 , 	
 jotka 	
-myöhemmin 	
+myöhemmin 	tim
 paikalle 	
 saapuva 	
 mönkijä 	
@@ -21408,7 +21408,7 @@ kerätä
 . 	
  	
 <PARAGRAPH> 	
-Toistaiseksi 	
+Toistaiseksi 	tim
 teknologia 	
 on 	
 kuitenkin 	
@@ -21493,7 +21493,7 @@ heti
  	
 <BODY> 	
 <PARAGRAPH> 	
-Maaliskuulle 	
+Maaliskuulle 	tim
 povatusta 	
 Apple 	pro
 Watchista 	pro
@@ -21703,7 +21703,7 @@ Surface 	pro
 Hub 	pro
 tulee 	
 saataville 	
-myöhemmin 	
+myöhemmin 	tim
 tänä 	tim
 vuonna 	tim
 kahdessa 	
@@ -21908,7 +21908,7 @@ Euroopassa 	loc
 euroa 	
 . 	
  	
-Maaliskuussa 	
+Maaliskuussa 	tim
 niitä 	
 voi 	
 ostaa 	
@@ -23523,7 +23523,7 @@ neljässä
 minuutissa 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 myydyn 	
 toisen 	
 valmistuserän 	
@@ -24186,8 +24186,8 @@ prosenttia
  	
 Älytermostaattitaloja 	
 on 	
-vuonna 	
-2019 	
+vuonna 	tim
+2019 	tim
 38,2 	
 miljoonaa 	
 . 	
@@ -24608,7 +24608,7 @@ sinne
 päin 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 Lumia 	pro
 535 	pro
 kisaa 	
@@ -24890,7 +24890,7 @@ N1 	pro
 . 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 kyseinen 	
 tablet-tietokone 	
 tuli 	
@@ -24976,7 +24976,7 @@ tuoda
 lisää 	
 laitteita 	
 tilattavaksi 	
-myöhemmin 	
+myöhemmin 	tim
 tammikuussa 	tim
 . 	
  	
@@ -25067,7 +25067,7 @@ akku
 . 	
  	
 <PARAGRAPH> 	
-Toistaiseksi 	
+Toistaiseksi 	tim
 laitteen 	
 julkaisusta 	
 muilla 	
@@ -25230,7 +25230,7 @@ toimitusten
 on 	
 tarkoitus 	
 alkaa 	
-myöhemmin 	
+myöhemmin 	tim
 tänä 	tim
 vuonna 	tim
 . 	
@@ -26226,7 +26226,7 @@ toimisi
 toivotusti 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 se 	
 on 	
 vasta 	
@@ -26238,7 +26238,7 @@ Lopullinen
 tuomio 	
 tulee 	
 siis 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 Sitä 	
@@ -26458,7 +26458,7 @@ oikeita
 etuvaloja 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 on 	
 . 	
  	
@@ -26929,7 +26929,7 @@ uusi
 ohjelmisto 	
 paljastetaan 	
 vasta 	
-myöhemmin 	
+myöhemmin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -27359,8 +27359,8 @@ menestyjä
 . 	
  	
 <PARAGRAPH> 	
-Viime 	
-vuonna 	
+Viime 	tim
+vuonna 	tim
 toimitettiin 	
 yhteensä 	
 720 	
