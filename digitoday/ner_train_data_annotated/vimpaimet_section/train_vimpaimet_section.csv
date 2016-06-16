@@ -5350,8 +5350,8 @@ jonka
 yhtiö 	
 esitteli 	
 vasta 	
-marrask 	
-uussa 	
+marrask 	tim
+uussa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5840,7 +5840,7 @@ että
 Philae 	per
 saattaa 	
 herätä 	
-aikaisintaan 	
+aikaisintaan 	tim
 myöhään 	tim
 maaliskuussa 	tim
 , 	
@@ -6016,8 +6016,8 @@ myytyä
 kappaletta 	
 viime 	tim
 vuoden 	tim
-viimeisenä 	
-päivänä 	
+viimeisenä 	tim
+päivänä 	tim
 , 	
 The 	org
 Verge 	org
@@ -6192,8 +6192,8 @@ on
 yhtiön 	
 mukaan 	
 jopa 	
-seitsemän 	
-päivää 	
+seitsemän 	tim
+päivää 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6201,8 +6201,8 @@ Applen 	org
 kelloa 	
 saa 	
 ladata 	
-joka 	
-päivä 	
+joka 	tim
+päivä 	tim
 . 	
  	
 <HEADLINE> 	
@@ -6641,7 +6641,7 @@ lennä
 kauppojen 	
 hyllyille 	
 ainakaan 	
-lähiaikoina 	
+lähiaikoina 	tim
 . 	
  	
 <HEADLINE> 	
@@ -7058,7 +7058,7 @@ pyörittäjä
 Alibaba 	org
 sijoitti 	
 viime 	tim
-kuussa 	
+kuussa 	tim
 10 	
 miljoonaa 	
 dollaria 	
@@ -7116,9 +7116,9 @@ vuonna 	tim
 Konsolit 	
 olivat 	
 kieltolistalla 	
-vuodesta 	
-2 	
-000 	
+vuodesta 	tim
+2 	tim
+000 	tim
 lähtien 	
 . 	
  	
@@ -7152,8 +7152,8 @@ keräsi
 Kickstarterissa 	pro
 miljoona 	
 dollaria 	
-kahdeksassa 	
-tunnissa 	
+kahdeksassa 	tim
+tunnissa 	tim
 . 	
  	
 Sadan 	
@@ -7165,9 +7165,9 @@ ja
 sitä 	
 on 	
 myyty 	
-vuodesta 	
-2013 	
-lähtien 	
+vuodesta 	tim
+2013 	tim
+lähtien 	tim
 laajoissa 	
 jakelukanavissa 	
 . 	
@@ -7330,8 +7330,8 @@ super-supernopeasti
 Ohjelmistosovelluksia 	
 on 	
 kehitettävä 	
-joitakin 	
-vuosia 	
+joitakin 	tim
+vuosia 	tim
 , 	
 jotta 	
 tästä 	
@@ -7397,8 +7397,8 @@ kontrolloiduissa
 olosuhteissa 	
 ja 	
 vain 	
-vähän 	
-aikaa 	
+vähän 	tim
+aikaa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7459,9 +7459,9 @@ Gates 	per
 uskoo 	
 teknologian 	
 kehittyvän 	
-seuraavassa 	
-30 	
-vuodessa 	
+seuraavassa 	tim
+30 	tim
+vuodessa 	tim
 enemmän 	
 kuin 	
 koskaan 	
@@ -7592,11 +7592,11 @@ koneet
 on 	
 myyty 	
 helmikuun 	tim
-2011 	
-ja 	
+2011 	tim
+ja 	tim
 joulukuun 	tim
-2013 	
-välillä 	
+2013 	tim
+välillä 	tim
 . 	
  	
 Ne 	
@@ -7624,11 +7624,11 @@ lukien
 ja 	
 muissa 	
 maissa 	
-viikon 	
-päästä 	
-27. 	
+viikon 	tim
+päästä 	tim
+27. 	btim
 helmikuuta 	tim
-alkaen 	
+alkaen 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7807,9 +7807,9 @@ voisi
 tulla 	
 käyttöön 	
 joskus 	
-viiden 	
-vuoden 	
-päästä 	
+viiden 	tim
+vuoden 	tim
+päästä 	tim
 . 	
  	
 Järjestelmän 	
@@ -7918,7 +7918,7 @@ iPhone- 	misc
 ja 	
 iPad-käyttäjät 	misc
 saavat 	
-lähipäivinä 	
+lähipäivinä 	tim
 päivityksen 	
 , 	
 joka 	
@@ -7961,7 +7961,7 @@ Glassware-sovelluksiin 	misc
  	
 Kalenteri 	
 ilmestyy 	
-lähiaikoina 	
+lähiaikoina 	tim
 käyttäjän 	
 kotisivun 	
 vasempaan 	
@@ -8208,8 +8208,8 @@ varsinainen
 yhteys 	
 syntyi 	
 vasta 	
-runsaan 	
-varttitunnin 	
+runsaan 	tim
+varttitunnin 	tim
 ja 	
 keskivahvan 	
 kiroilun 	
@@ -8472,7 +8472,7 @@ noin
 bpm 	
 ( 	
 iskua 	
-minuutissa 	
+minuutissa 	tim
 ) 	
 Galaxy 	pro
 S5 	pro
@@ -8514,8 +8514,8 @@ latauspiuhan
 Kello 	
 kestää 	
 käyttöä 	
-kolmisen 	
-päivää 	
+kolmisen 	tim
+päivää 	tim
 ennen 	
 hyytymistä 	
 . 	
@@ -8822,9 +8822,9 @@ on
 lähestynyt 	
 ongelmaa 	
 jo 	
-useamman 	
-vuoden 	
-ajan 	
+useamman 	tim
+vuoden 	tim
+ajan 	tim
 työntämällä 	
 uusiin 	
 Galaxy 	pro
@@ -9257,7 +9257,7 @@ käsiksi
 . 	
  	
 <PARAGRAPH> 	
-Kevät 	
+Kevät 	tim
 tuli 	
 , 	
 lumi 	
@@ -9594,8 +9594,8 @@ taakse
  	
 <PARAGRAPH> 	
 Kuten 	
-tähänkin 	
-asti 	
+tähänkin 	tim
+asti 	tim
 on 	
 tapahtunut 	
 , 	
@@ -9889,8 +9889,8 @@ sitä
 Windows 	pro
 Media 	pro
 Centerillään 	pro
-vuosikymmen 	
-sitten 	
+vuosikymmen 	tim
+sitten 	tim
 , 	
 mutta 	
 kuluttajat 	
