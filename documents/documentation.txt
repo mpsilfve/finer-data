@@ -6,10 +6,11 @@ awk 'FNR==1{print ""}1' *.csv | python ../../bin/tag_crude.py
 lyhyet adjektiivit ja adverbit??
 
 ajoittain, ajoittainen, ajoittaiset
-aikaisemmin, aikaisempi, aikaisemmat
+aikaisemmin, aikaisempi, aikaisemmat, aiemmat
 myšhemmin, myšhempi, myšhemmŠt
 aiemmin
-
+sittemmin
+aikanaan
 
 
 =================
