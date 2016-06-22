@@ -1,5 +1,11 @@
 awk 'FNR==1{print ""}1' *.csv | python ../../bin/tag_crude.py
 
+
+==================
+
+tarkista: myšhemmin
+tarkista: elokuva* 
+
 ==================
 
 
@@ -14,7 +20,7 @@ aikanaan, aikoinaan
 jatkossa
 hetkittŠinen, hetkit*
 
-samaan aikaan
+samaan aikaan, sillŠ vŠlin
 
 =================
 

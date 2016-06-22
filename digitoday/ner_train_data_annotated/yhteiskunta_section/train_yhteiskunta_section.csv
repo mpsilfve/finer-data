@@ -44,8 +44,8 @@ tietovuotaja 	tit
 Edward 	per
 Snowdenin 	per
 puolesta 	
-seitsemän 	
-kuukautta 	
+seitsemän 	tim
+kuukautta 	tim
 sen 	
 jälkeen 	
 , 	
@@ -194,7 +194,7 @@ artikkeleita
 viime 	tim
 vuoden 	tim
 kesäkuusta 	tim
-lukien 	
+lukien 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -261,7 +261,7 @@ tuotantoon
  	
 <BODY> 	
 <PARAGRAPH> 	
-Vuosia 	
+Vuosia 	tim
 on 	
 esitetty 	
 väitettä 	
@@ -282,10 +282,10 @@ musiikin
 määrää 	
 . 	
  	
-Viimeisen 	
-15 	
-vuoden 	
-aikana 	
+Viimeisen 	tim
+15 	tim
+vuoden 	tim
+aikana 	tim
 lähes 	
 60 	
 prosenttia 	
@@ -542,8 +542,8 @@ haittaohjelmien 	pro
 tekijöinä 	pro
 ) 	pro
 -puheensa 	pro
-27.2 	
-. 	
+27.2 	tim
+. 	tim
  	
 San 	loc
 Franciscossa 	loc
@@ -681,10 +681,10 @@ tekemään
 tyhjiksi 	
 lentokonekaapparien 	
 suunnitelmat 	
-11.9 	
-. 	
- 	
-2001:n 	
+11.9 	event
+. 	event
+ 	event
+2001:n 	event
 varalle 	
 . 	
  	
@@ -696,9 +696,9 @@ olisi
 ollut 	
 olemassa 	
 ennen 	
-9 	
-/ 	
-11-iskuja 	
+9 	event
+/ 	event
+11-iskuja 	event
 , 	
 uskon 	
 , 	
@@ -706,9 +706,9 @@ että
 se 	
 olisi 	
 estänyt 	
-9 	
-/ 	
-11:n 	
+9 	event
+/ 	event
+11:n 	event
 . 	
  	
 Ja 	
@@ -785,9 +785,9 @@ itse
 myöntänyt 	
 , 	
 että 	
-9 	
-/ 	
-11 	
+9 	event
+/ 	event
+11 	event
 oli 	
 itsessään 	
 merkittävä 	
@@ -961,7 +961,7 @@ miljardeittain
 viattomien 	
 kansalaisten 	
 viestintää 	
-päivittäin 	
+päivittäin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -1012,7 +1012,7 @@ suurvakoilua
 poikki 	
 viime 	tim
 kesäkuusta 	tim
-lukien 	
+lukien 	tim
 , 	
 ja 	
 tänään 	tim
@@ -1198,7 +1198,7 @@ voivat
 luottaa 	
 huomattavasti 	
 enemmän 	
-päivittäiseen 	
+päivittäiseen 	tim
 viestintäänsä 	
 , 	
 Snowden 	per
@@ -1313,7 +1313,7 @@ Oversight 	org
 Board 	org
 on 	
 julkaisemassa 	
-myöhemmin 	
+myöhemmin 	tim
 torstaina 	tim
 laajan 	
 tiedusteluvirasto 	
@@ -1482,7 +1482,7 @@ Obama 	per
 linjasi 	
 teletietojen 	
 keruuta 	
-äskettäisessä 	
+äskettäisessä 	tim
 puheessaan 	
 . 	
  	
@@ -1566,8 +1566,8 @@ nettiosoitteista
 saattoi 	
 lakata 	
 toimimasta 	
-ainakin 	
-tunniksi 	
+ainakin 	tim
+tunniksi 	tim
 . 	
  	
 Muitakin 	
@@ -1736,9 +1736,9 @@ verkossa
 Tietovuotaja 	
 vastailee 	
 kysymyksiin 	
-huomisiltana 	
-tunnin 	
-ajan 	
+huomisiltana 	tim
+tunnin 	btim
+ajan 	tim
 . 	
  	
 <BODY> 	
@@ -1771,18 +1771,18 @@ huomenna 	tim
 torstaina 	tim
 yleisön 	
 kysymyksiin 	
-tunnin 	
-ajan 	
+tunnin 	tim
+ajan 	tim
 sivustolla 	
 . 	
  	
 Vastaussessio 	
 alkaa 	
-illalla 	
-klo 	
-22 	
-Suomen 	
-aikaa 	
+illalla 	tim
+klo 	tim
+22 	tim
+Suomen 	tim
+aikaa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -1822,7 +1822,7 @@ verkkourkintaa
 <HEADLINE> 	
 Älä 	
 mene 	
-elokuviin 	tim
+elokuviin 	
 älylasit 	
 päässäsi 	
  	
@@ -1843,7 +1843,7 @@ ja
 määräsi 	
 tämän 	
 ulos 	
-elokuvateatterista 	tim
+elokuvateatterista 	
 kesken 	
 esityksen 	
 . 	
@@ -1867,7 +1867,7 @@ sijaitsevassa
 AMC 	org
 : 	org
 n 	org
-elokuvateatterissa 	tim
+elokuvateatterissa 	
 vaimonsa 	
 kanssa 	
 Jack 	pro
@@ -1927,7 +1927,7 @@ huoneissa
  	
 Häntä 	
 syytettiin 	
-elokuvan 	tim
+elokuvan 	
 laittomasta 	
 kopioinnista 	
 . 	
@@ -2035,13 +2035,13 @@ takana
 , 	
 joka 	
 liittyi 	
-elokuvan 	tim
+elokuvan 	
 laittomaan 	
 elektroniseen 	
 kopiointiin 	
 . 	
  	
-Elokuvapiratismi 	tim
+Elokuvapiratismi 	
 kuuluu 	
 ICE 	org
 : 	org
@@ -2066,7 +2066,7 @@ yksityisten
 ihmisten 	
 piraattijahdista 	
 tunnetun 	
-elokuvateollisuuden 	tim
+elokuvateollisuuden 	
 järjestön 	
 MPAA 	org
 : 	org
@@ -2097,9 +2097,9 @@ n 	org
 edustaja 	
 oli 	
 teatterissa 	
-kello 	
-kymmenen 	
-illalla 	
+kello 	tim
+kymmenen 	tim
+illalla 	tim
 , 	
 asiasta 	
 uutisoinut 	
@@ -2152,8 +2152,8 @@ päätös
 Espoon 	org
 käräjäoikeus 	org
 oli 	
-syksyllä 	
-2012 	
+syksyllä 	tim
+2012 	tim
 määrännyt 	
 kolme 	
 ylläpitäjää 	
@@ -2283,8 +2283,8 @@ tuomittiin
 vuonna 	tim
 2012 	tim
 tekijänoikeusrikoksesta 	
-4–6 	
-kuukauden 	
+4–6 	tim
+kuukauden 	tim
 ehdollisiin 	
 vankeusrangaistuksiin 	
 ja 	
@@ -2354,9 +2354,9 @@ perimistä
 jäsenyytensä 	
 peruuttaneilta 	
 , 	
-Kilpailu- 	
-ja 	
-kuluttajavirasto 	
+Kilpailu- 	org
+ja 	org
+kuluttajavirasto 	org
 kertoo 	
 . 	
  	
@@ -2536,7 +2536,7 @@ tiloihin
 Helsingin 	loc
 Katajanokalla 	bloc
 murtaudutun 	
-uudenvuodenyönä 	
+uudenvuodenyönä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2611,10 +2611,10 @@ tapauksella
 olevan 	
 mitään 	
 yhteyttä 	
-syksyllä 	
+syksyllä 	tim
 laajasti 	
 puhuttaneeseen 	
-ulkoministeriön 	
+ulkoministeriön 	org
 tietoverkkomurtoon 	
 . 	
  	
@@ -2758,9 +2758,9 @@ sopimustyöntekijöitä
  	
 <PARAGRAPH> 	
 – 	
-Sadan 	
-vuoden 	
-ikäinen 	
+Sadan 	tim
+vuoden 	tim
+ikäinen 	tim
 laki 	
 , 	
 jonka 	
@@ -3072,8 +3072,8 @@ väitettiin
  	
 <PARAGRAPH> 	
 – 	
-Ennen 	
-vanhaan 	
+Ennen 	tim
+vanhaan 	tim
 puhuttiin 	
 sosialisoinnista 	
 . 	
@@ -3112,9 +3112,9 @@ sanoo
 MB-lehden 	org
 ( 	
 MB 	
-2 	
-/ 	
-2014 	
+2 	tim
+/ 	tim
+2014 	tim
 ) 	
 haastattelussa 	
 . 	
@@ -3163,7 +3163,7 @@ kunnille
 . 	
  	
 <PARAGRAPH> 	
-Nykyisessä 	
+Nykyisessä 	tim
 julkisen 	
 talouden 	
 tilanteessa 	
@@ -3573,8 +3573,8 @@ toimintaa
 , 	
 sai 	
 rauhanpalkinnon 	
-vuonna 	
-2009. 	
+vuonna 	tim
+2009. 	tim
  	
 <HEADLINE> 	
 Putkimiehet 	
@@ -3649,7 +3649,7 @@ uudistui
 eilen 	tim
 . 	
  	
-Vuosikausien 	
+Vuosikausien 	tim
 neuvottelujen 	
 ja 	
 valmistelevan 	
@@ -3723,7 +3723,7 @@ tuotemerkeille
 varattu 	
 ennakkohaku 	
 päättyi 	
-24. 	
+24. 	tim
 tammikuuta 	tim
 . 	
  	
@@ -3736,7 +3736,7 @@ tulossa
 Ensi 	tim
 viikolla 	tim
 , 	
-5. 	
+5. 	tim
 helmikuuta 	tim
 Donuts 	org
 aktivoi 	
@@ -3780,8 +3780,8 @@ tulvan
 , 	
 joka 	
 jatkuu 	
-koko 	
-vuoden 	
+koko 	tim
+vuoden 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -4106,7 +4106,7 @@ keskinopeus
 on 	
 12,5 	
 megabittiä 	
-sekunnissa 	
+sekunnissa 	tim
 . 	
  	
 Suomessa 	loc
@@ -4114,7 +4114,7 @@ se
 on 	
 8,5 	
 megabittiä 	
-sekunnissa 	
+sekunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -4159,8 +4159,8 @@ Internetin
 keskinopeus 	
 kasvoi 	
 Suomessa 	loc
-vuoden 	
-aikana 	
+vuoden 	tim
+aikana 	tim
 25 	
 prosenttia 	
 . 	
@@ -4184,8 +4184,8 @@ tilaa
 luotaavan 	
 viime 	tim
 vuoden 	tim
-kolmannen 	
-neljänneksen 	
+kolmannen 	tim
+neljänneksen 	tim
 katsauksen 	
 . 	
  	
@@ -4219,7 +4219,7 @@ keskiarvonopeus
 on 	
 3,6 	
 megabittiä 	
-sekunnissa 	
+sekunnissa 	tim
 , 	
 mikä 	
 on 	
@@ -4227,15 +4227,15 @@ on
 prosenttia 	
 enemmän 	
 kuin 	
-toisella 	
-vuosineljänneksellä 	
+toisella 	tim
+vuosineljänneksellä 	tim
 ja 	
 29 	
 prosenttia 	
 enemmän 	
 kuin 	
-vuotta 	
-aikaisemmin 	
+vuotta 	tim
+aikaisemmin 	tim
 . 	
  	
 Egyptissä 	loc
@@ -4246,7 +4246,7 @@ vaivaiset
 prosenttia 	
 1,2 	
 megabittiin 	
-sekunnissa 	
+sekunnissa 	tim
 , 	
 kun 	
 se 	
@@ -4257,7 +4257,7 @@ nopeutui
 prosenttia 	
 6,8 	
 megabittiin 	
-sekunnissa 	
+sekunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -4296,10 +4296,10 @@ keskinopeus
 oli 	
 22,1 	
 megabittiä 	
-sekunnissa 	
+sekunnissa 	tim
 . 	
  	
-Vuodessa 	
+Vuodessa 	tim
 nopeus 	
 oli 	
 noussut 	
@@ -4458,8 +4458,8 @@ Korman 	per
 hylkäsi 	
 Aclun 	org
 kanteen 	
-vuodelta 	
-2010 	
+vuodelta 	tim
+2010 	tim
 täysin 	
 , 	
 muun 	
@@ -4566,15 +4566,15 @@ selliin
 ja 	
 häntä 	
 kuulusteltiin 	
-tuntikausia 	
+tuntikausia 	tim
 . 	
  	
 Hänen 	
 kannettavansa 	
 otettiin 	
 talteen 	
-puoleksitoista 	
-viikoksi 	
+puoleksitoista 	tim
+viikoksi 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -4656,9 +4656,9 @@ oppikirjasta
 <PARAGRAPH> 	
 Tuomioistuimen 	
 Hollannissa 	loc
-kaksi 	
-vuotta 	
-sitten 	
+kaksi 	tim
+vuotta 	tim
+sitten 	tim
 määräämät 	
 Pirate 	pro
 Bay 	pro
@@ -4891,9 +4891,9 @@ voidaan
 kieltää 	
 kertomasta 	
 tietopyynnöistä 	
-kahden 	
-vuoden 	
-ajan 	
+kahden 	tim
+vuoden 	tim
+ajan 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5010,8 +5010,8 @@ kertoi
 saaneensa 	
 viime 	tim
 vuoden 	tim
-ensimmäisellä 	
-puoliskolla 	
+ensimmäisellä 	tim
+puoliskolla 	tim
 0–249 	
 kansallisen 	
 turvallisuuden 	
