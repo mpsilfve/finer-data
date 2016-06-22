@@ -529,7 +529,7 @@ lle 	org
 . 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 Hyppönen 	per
 pitää 	
 Governments 	pro
@@ -598,7 +598,7 @@ tapahtumassa
 ovat 	
 mukana 	
 EFF:n 	org
-entinen 	
+entinen 	tim
 lakimies 	tit
 Marcia 	per
 Hofmann 	per
@@ -621,7 +621,7 @@ Moss 	per
 . 	
  	
 <HEADLINE> 	
-Entinen 	
+Entinen 	tim
 CIA-pomo 	misc
 : 	
 NSA-vakoilu 	misc
@@ -634,7 +634,7 @@ WTC-iskut 	event
  	
 <INGRESS> 	
 CIA:n 	org
-entinen 	
+entinen 	tim
 kakkosmies 	
 otti 	
 rohkeasti 	
@@ -650,7 +650,7 @@ tv-haastattelussa
 Yhdysvaltain 	org
 keskustiedustelupalvelu 	org
 CIA:n 	borg
-entinen 	
+entinen 	tim
 varajohtaja 	tit
 Mike 	per
 Morell 	per
@@ -672,7 +672,7 @@ tiedusteluvirasto
 NSA 	org
 : 	org
 n 	org
-nykyinen 	
+nykyinen 	tim
 kyvykkyys 	
 olisi 	
 ollut 	
@@ -838,7 +838,7 @@ George 	per
 W. 	per
 Bush 	per
 valittiin 	
-ensi 	tim
+ensi 	
 kertaa 	
 presidentiksi 	
 . 	
@@ -2041,7 +2041,7 @@ elektroniseen
 kopiointiin 	
 . 	
  	
-Elokuvapiratismi 	
+Elokuvapiratismi 	tim
 kuuluu 	
 ICE 	org
 : 	org
@@ -2280,8 +2280,8 @@ ylläpitäneet
 kolme 	
 miestä 	
 tuomittiin 	
-vuonna 	
-2012 	
+vuonna 	tim
+2012 	tim
 tekijänoikeusrikoksesta 	
 4–6 	
 kuukauden 	
@@ -3237,7 +3237,7 @@ yli
 kannattajaa 	
 kovalla 	
 kampanjalla 	
-viime 	tim
+viime 	
 tingassa 	
 . 	
  	
@@ -3584,7 +3584,7 @@ sinkut
 huomio 	
 ! 	
  	
-Nyt 	
+Nyt 	tim
 voitte 	
 hakea 	
 omaa 	
@@ -3733,8 +3733,8 @@ on
 tulossa 	
 . 	
  	
-Ensi 	
-viikolla 	
+Ensi 	tim
+viikolla 	tim
 , 	
 5. 	
 helmikuuta 	tim
@@ -4599,7 +4599,7 @@ ulkomailta
 . 	
  	
 <PARAGRAPH> 	
-Viime 	
+Viime 	tim
 maaliskuussa 	tim
 rajatarkastajien 	
 oikeuksia 	
@@ -4925,7 +4925,7 @@ kappaleen
 erissä 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 yhtiöt 	
 saavat 	
 paljastaa 	
@@ -5975,7 +5975,7 @@ tehty
 Ross 	per
 Ulbricht 	per
 pidätettiin 	
-viime 	tim
+viime 	
 syksynä 	
 Silk 	pro
 Roadin 	pro
@@ -6518,7 +6518,7 @@ välillä
 harhaan 	
 , 	
 väittää 	
-entinen 	
+entinen 	tim
 lentäjä 	
 uudelle 	
 The 	org
@@ -6552,7 +6552,7 @@ kuolemia
 , 	
 kertoo 	
 armeijan 	
-entinen 	
+entinen 	tim
 lennokkilentäjä 	
 . 	
  	
@@ -6864,7 +6864,7 @@ Meri-Lapin 	loc
 poliisi 	
 kertoo 	
 saaneensa 	
-viime 	tim
+viime 	
 päivinä 	
 useita 	
 ilmoituksia 	
@@ -7196,8 +7196,8 @@ alun
 perin 	
 tarkoitus 	
 jatkaa 	
-vuoden 	
-2017 	
+vuoden 	tim
+2017 	tim
 loppuun 	
 saakka 	
 , 	
@@ -7278,8 +7278,8 @@ ja
 radiorahastoon 	
 . 	
  	
-Viime 	
-vuoden 	
+Viime 	tim
+vuoden 	tim
 lopussa 	
 tämä 	
 summa 	
@@ -7689,7 +7689,7 @@ sitten
 voimassa 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 siis 	
 sähköposti- 	
 tai 	
@@ -7786,7 +7786,7 @@ monitori
 . 	
  	
 <PARAGRAPH> 	
-Torstaina 	
+Torstaina 	tim
 San 	loc
 Diegon 	loc
 oikeuden 	
@@ -7948,8 +7948,8 @@ vaatii
  	
 <BODY> 	
 <PARAGRAPH> 	
-Tällä 	
-hetkellä 	
+Tällä 	tim
+hetkellä 	tim
 lainsäädäntö 	
 internet-puhelujen 	
 ja 	
@@ -8019,7 +8019,7 @@ oikeuksien
 takia 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 kaikkia 	
 todisteita 	
 , 	
@@ -8384,7 +8384,7 @@ lisännyt
 läsnäoloaan 	
 sosiaalisessa 	
 mediassa 	
-viime 	tim
+viime 	
 vuosina 	
 . 	
  	
@@ -8539,8 +8539,8 @@ kenties
 asua 	
 Valkoisessa 	loc
 talossa 	loc
-vuoden 	
-2016 	
+vuoden 	tim
+2016 	tim
 jälkeen 	
 . 	
  	
@@ -9366,7 +9366,7 @@ huijata
 heitä 	
 , 	
 Ubisoftin 	org
-entinen 	
+entinen 	tim
 asiakas 	
 slump3r 	per
 kirjoittaa 	
@@ -9718,7 +9718,7 @@ CNBC 	org
  	
 <BODY> 	
 <PARAGRAPH> 	
-Maaliskuussa 	
+Maaliskuussa 	tim
 maailmassa 	
 oli 	
 176 	
@@ -10021,7 +10021,7 @@ Turkin 	loc
 ulkopuolella 	
 . 	
  	
-Sunnuntain 	
+Sunnuntain 	tim
 estot 	
 tehtiin 	
 joitakin 	
@@ -10546,7 +10546,7 @@ parhaiden
 pilvipalveluosaajien 	
 apua 	
 vielä 	
-viime 	tim
+viime 	
 metreillä 	
 . 	
  	
@@ -10613,8 +10613,8 @@ n 	org
 mukaan 	
 Obamacare-lain 	pro
 ansiosta 	
-vuonna 	
-2014 	
+vuonna 	tim
+2014 	tim
 sairausvakuutuksen 	
 piiriin 	
 tulee 	
@@ -10733,11 +10733,11 @@ ihmistä
 , 	
 ensi 	tim
 vuonna 	tim
-36 	
+36 	tim
 miljoonaa 	
 ja 	
-vuonna 	
-2016 	
+vuonna 	tim
+2016 	tim
 30 	
 miljoonaa 	
 amerikkalaista 	
@@ -11205,8 +11205,8 @@ Post 	org
 Auernheimer 	per
 oli 	
 osallisena 	
-vuoden 	
-2010 	
+vuoden 	tim
+2010 	tim
 tempauksessa 	
 , 	
 jossa 	
@@ -11965,8 +11965,8 @@ lakeihin
 EU-tuomioistuin 	org
 on 	
 mitätöinyt 	
-vuonna 	
-2006 	
+vuonna 	tim
+2006 	tim
 säädetyn 	
 direktiivin 	
 , 	
@@ -12381,7 +12381,7 @@ perustuslain
 vastaista 	
 . 	
  	
-Keskiviikkoisen 	
+Keskiviikkoisen 	tim
 päätöksen 	
 mukaan 	
 kielto 	
@@ -12408,7 +12408,7 @@ estettyyn
 Twitteriin 	pro
 . 	
  	
-Toistaiseksi 	
+Toistaiseksi 	tim
 tilanne 	
 ei 	
 kuitenkaan 	
@@ -12862,7 +12862,7 @@ kaupaksi
 Norjassa 	loc
 . 	
  	
-Maaliskuussa 	
+Maaliskuussa 	tim
 myydyistä 	
 autoista 	
 joka 	
@@ -12961,8 +12961,8 @@ sitoutunut
 ympäristöystävällisten 	
 autojen 	
 tukiaisiin 	
-vuoden 	
-2017 	
+vuoden 	tim
+2017 	tim
 loppuun 	
 saakka 	
 tai 	
@@ -12979,8 +12979,8 @@ nousee
 een 	
 . 	
  	
-Tällä 	
-hetkellä 	
+Tällä 	tim
+hetkellä 	tim
 Norjassa 	loc
 on 	
 rekisteröity 	
@@ -13032,7 +13032,7 @@ Hollannissa 	loc
 . 	
  	
 <PARAGRAPH> 	
-Maaliskuussa 	
+Maaliskuussa 	tim
 Tesla 	org
 Motors 	org
 tiedotti 	
@@ -14154,7 +14154,7 @@ Monet
 heräsivät 	
 asiaan 	
 vasta 	
-viime 	tim
+viime 	
 päivinä 	
 , 	
 ja 	
@@ -14335,8 +14335,8 @@ eteenpäin
 Määräys 	
 perustuu 	
 jo 	
-vuonna 	
-2008 	
+vuonna 	tim
+2008 	tim
 säädettyyn 	
 lakiin 	
 , 	
@@ -14438,8 +14438,8 @@ loukkaantumista
 . 	
  	
 <PARAGRAPH> 	
-Vuoden 	
-2012 	
+Vuoden 	tim
+2012 	tim
 autoissa 	
 44 	
 prosentissa 	
@@ -14448,8 +14448,8 @@ peruutuskamera
 vakiovarusteena 	
 . 	
  	
-Tämän 	
-vuoden 	
+Tämän 	tim
+vuoden 	tim
 malleissa 	
 85 	
 prosentissa 	
@@ -14460,8 +14460,8 @@ tai
 optiona 	
 . 	
  	
-Vuonna 	
-2005 	
+Vuonna 	tim
+2005 	tim
 peruutuskamera 	
 oli 	
 saatavissa 	
@@ -14530,7 +14530,7 @@ viime 	tim
 vuonna 	tim
 . 	
  	
-Lauantaina 	
+Lauantaina 	tim
 tuli 	
 kuluneeksi 	
 saman 	
@@ -15025,8 +15025,8 @@ väärinkäytöksiin
 . 	
  	
 <PARAGRAPH> 	
-Viime 	
-viikolla 	
+Viime 	tim
+viikolla 	tim
 al-Sisi 	per
 nimitti 	
 maan 	
@@ -15960,7 +15960,7 @@ hanketta
  	
 <PARAGRAPH> 	
 – 	
-Tänään 	
+Tänään 	tim
 kerromme 	
 joitakin 	
 yksityiskohtia 	
@@ -15989,7 +15989,7 @@ torstaina 	tim
 . 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 julkistettu 	
 Connectivity 	org
 Lab 	org
@@ -16251,8 +16251,8 @@ tietopyyntöraportin
 mukaan 	
 suomalaisviranomaiset 	
 hakivat 	
-vuoden 	
-2013 	
+vuoden 	tim
+2013 	tim
 toisella 	
 puoliskolla 	
 tietoja 	
@@ -16541,8 +16541,8 @@ salaisia
 pyyntöjä 	
 Yahoo 	org
 sai 	
-vuoden 	
-2013 	
+vuoden 	tim
+2013 	tim
 ensimmäisellä 	
 puoliskolla 	
 0 	
@@ -16561,8 +16561,8 @@ tiliä
 . 	
  	
 <PARAGRAPH> 	
-Viime 	
-vuoden 	
+Viime 	tim
+vuoden 	tim
 kuuden 	
 ensimmäisen 	
 kuukauden 	
@@ -17184,8 +17184,8 @@ noudatettiin
 <PARAGRAPH> 	
 Taannoisen 	
 EMIn 	org
-vuonna 	
-2007 	
+vuonna 	tim
+2007 	tim
 käynnistämä 	
 oikeusjuttu 	
 on 	
@@ -17902,7 +17902,7 @@ Dotcomin 	per
 valitukselle 	
 . 	
  	
-Torstaisen 	
+Torstaisen 	tim
 päätöksen 	
 mukaan 	
 hän 	
@@ -17946,8 +17946,8 @@ takavarikoitiin
 ja 	
 vietiin 	
 ulkomaille 	
-vuoden 	
-2012 	
+vuoden 	tim
+2012 	tim
 alun 	
 ratsiassa 	
 hänen 	
@@ -18752,7 +18752,7 @@ korvausvaade
 2.5.2014 10:45 	
  	
 <INGRESS> 	
-27-vuotias 	
+27-vuotias 	tim
 amerikkalaismies 	
 tallensi 	
 ja 	
@@ -18763,7 +18763,7 @@ vapaaottelutapahtumaa
 piraattisivustoilla 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 häneltä 	
 vaaditaan 	
 miljoonakorvauksia 	
@@ -18794,7 +18794,7 @@ Torrentfreak-verkkosivusto 	org
 <PARAGRAPH> 	
 Secludedly-käyttäjänimellä 	misc
 tunnettu 	
-27-vuotias 	
+27-vuotias 	tim
 mies 	
 välitti 	
 tallenteensa 	
@@ -19104,7 +19104,7 @@ hedelmistä
 Euroopan 	org
 parlamentti 	org
 hyväksyi 	
-viime 	tim
+viime 	
 vii 	
 kolla 	
 melkein 	
@@ -19821,8 +19821,8 @@ luoksesi
 19.3.2014 16:20 	
  	
 <INGRESS> 	
-Tänä 	
-kesänä 	
+Tänä 	tim
+kesänä 	tim
 San 	
 Franciscolainen 	
 QuiQui 	org
@@ -20291,7 +20291,7 @@ muistuttivat
 , 	
 että 	
 Applen 	org
-entinen 	
+entinen 	tim
 pääjohtaja 	tit
 Steve 	per
 Jobs 	per
@@ -20540,8 +20540,8 @@ kansanryhmiä
 kiinnosta 	
 . 	
  	
-Viime 	
-aikoina 	
+Viime 	tim
+aikoina 	tim
 moniin 	
 suorana 	
 lähetettäviin 	
@@ -20783,7 +20783,7 @@ turvallisuudessa
 28.1.2015 12:50 	
  	
 <INGRESS> 	
-Maanantaisesta 	
+Maanantaisesta 	tim
 lennokkiepisodista 	
 tihkuu 	
 uutta 	
@@ -22338,8 +22338,8 @@ Sen
 määräys 	
 perustui 	
 suoraan 	
-vuoden 	
-1935 	
+vuoden 	tim
+1935 	tim
 liikennelakiin 	
 , 	
 mutta 	
@@ -22451,7 +22451,7 @@ perustaja
 , 	
 niin 	
 ikään 	
-26-vuotias 	
+26-vuotias 	tim
 mies 	
 " 	per
 Defcon 	per
@@ -22588,8 +22588,8 @@ Silk 	pro
 Road 	pro
 pakotettiin 	
 kiinni 	
-vuonna 	
-2013 	
+vuonna 	tim
+2013 	tim
 , 	
 mutta 	
 uusi 	
@@ -23644,7 +23644,7 @@ Yhdysvaltain 	loc
 ulkopuolella 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 lippuja 	
 ei 	
 enää 	
@@ -24028,7 +24028,7 @@ niitä
 uudelleen 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 Turkin 	org
 hallinnossa 	org
 huudellaan 	
@@ -24092,10 +24092,10 @@ Syyriaan 	loc
 . 	
  	
 Maan 	
-entinen 	
+entinen 	tim
 pääministeri 	tit
 ja 	
-nykyinen 	
+nykyinen 	tim
 presidentti 	tit
 Recep 	per
 Tayyip 	per
@@ -24303,8 +24303,8 @@ uutta
 . 	
  	
 Esimerkiksi 	
-vuonna 	
-2005 	
+vuonna 	tim
+2005 	tim
 yksi 	
 palkintoraatiin 	
 kuulunut 	
@@ -24367,8 +24367,8 @@ vastaan
 . 	
  	
 <PARAGRAPH> 	
-Tämän 	
-vuoden 	
+Tämän 	tim
+vuoden 	tim
 ehdokkaista 	
 eniten 	
 luvatta 	
@@ -24596,7 +24596,7 @@ kirves
 heilahti 	
 taas 	
 : 	
-Nyt 	
+Nyt 	tim
 putosi 	
 deittipalveluita 	
  	
@@ -25191,8 +25191,8 @@ mukaan
 FBI 	org
 pääsi 	
 jo 	
-vuonna 	
-2008 	
+vuonna 	tim
+2008 	tim
 seuraamaan 	
 NSA 	org
 : 	org
@@ -25218,8 +25218,8 @@ laitonta
 . 	
  	
 <PARAGRAPH> 	
-Vuoden 	
-2009 	
+Vuoden 	tim
+2009 	tim
 lokakuussa 	tim
 FBI 	org
 alkoi 	
@@ -25232,8 +25232,8 @@ analysoida
 niitä 	
 . 	
  	
-Vuoden 	
-2012 	
+Vuoden 	tim
+2012 	tim
 huhtikuussa 	tim
 FBI 	org
 alkoi 	
@@ -25544,7 +25544,7 @@ kärsimästä
 palvelunestohyökkäyksestä 	
 , 	
 joka 	
-ensi 	tim
+ensi 	
 alkuun 	
 esti 	
 pahasti 	
@@ -26112,7 +26112,7 @@ välittömästi
 . 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 yli 	
 viikko 	
 OP-hyökkäyksen 	misc
@@ -27535,7 +27535,7 @@ omaan
 taskuunsa 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 japanilainen 	
 lehti 	
 Yomiuri 	org
@@ -27974,7 +27974,7 @@ lopulla
 . 	
  	
 <PARAGRAPH> 	
-Elokuvan 	
+Elokuvan 	tim
 levittäminen 	
 Pohjois-Koreaan 	loc
 saisi 	
@@ -28151,7 +28151,7 @@ että
 hyökkäyksen 	
 teki 	
 Sonyn 	org
-entinen 	
+entinen 	tim
 työntekijä 	
 . 	
  	
@@ -28602,8 +28602,8 @@ prosenttia
 . 	
  	
 <PARAGRAPH> 	
-Vuonna 	
-2011 	
+Vuonna 	tim
+2011 	tim
 liittovaltion 	
 Centers 	org
 for 	org
@@ -28636,8 +28636,8 @@ peruuttaminen
 Kaliforniassa 	loc
 on 	
 meneillään 	
-vuonna 	
-2010 	
+vuonna 	tim
+2010 	tim
 aloitettu 	
 kokeiluohjelma 	
 , 	
@@ -28669,8 +28669,8 @@ oli
 esillä 	
 Kaliforniassa 	loc
 jo 	
-vuonna 	
-2013 	
+vuonna 	tim
+2013 	tim
 , 	
 mutta 	
 silloin 	
@@ -28859,7 +28859,7 @@ hyvin
 ongelmallinen 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 hyökkääjät 	
 saivat 	
 juuri 	
@@ -28914,7 +28914,7 @@ haluaa
 Dotcomin 	per
 oikeuteen 	
 vastaamaan 	
-entisen 	
+entisen 	tim
 Megaupload-palvelun 	pro
 väitetyistä 	
 tekijänoikeusrikoksista 	
@@ -29983,7 +29983,7 @@ naisia
 ! 	
  	
 <PARAGRAPH> 	
-Nyt 	
+Nyt 	tim
 Turkin 	loc
 sosiaaliministeri 	tit
 Aysenur 	per
@@ -30298,7 +30298,7 @@ teinistä
 <BODY> 	
 <PARAGRAPH> 	
 Yhdysvaltalainen 	
-16-vuotias 	
+16-vuotias 	tim
 poika 	
 on 	
 saanut 	
@@ -30373,7 +30373,7 @@ todistusaineisto
 Kuvan 	
 etualalla 	
 näkyi 	
-16-vuotias 	
+16-vuotias 	tim
 epäilty 	
 ottamassa 	
 kuvaa 	
@@ -30454,7 +30454,7 @@ tietyissä
 tilanteissa 	
 . 	
  	
-Nyt 	
+Nyt 	tim
 paneeli 	
 luovutti 	
 pitkän 	
@@ -30489,7 +30489,7 @@ hakuyhtiön
 kanssa 	
 , 	
 että 	
-nykyinen 	
+nykyinen 	tim
 unohduskäytäntö 	
 on 	
 riittävä 	
