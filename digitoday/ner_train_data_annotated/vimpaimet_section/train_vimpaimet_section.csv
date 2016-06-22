@@ -25083,11 +25083,11 @@ tieto
 on 	
 Nokian 	org
 kertoma 	
-" 	
+" 	tim
 tämän 	tim
 vuoden 	tim
-aikana 	
-" 	
+aikana 	tim
+" 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -25882,8 +25882,8 @@ kannattaa
 vielä 	
 pitää 	
 boksissa 	
-pari 	
-päivää 	
+pari 	tim
+päivää 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -26097,10 +26097,10 @@ yllätyksiä
 Akkukin 	
 kestää 	
 peruskäytöllä 	
-pitkälle 	
-toisen 	
-vuorokauden 	
-puolelle 	
+pitkälle 	tim
+toisen 	tim
+vuorokauden 	tim
+puolelle 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -26499,7 +26499,7 @@ mukaan
 yhtiössä 	
 on 	
 toukokuun 	tim
-jälkeen 	
+jälkeen 	tim
 työstetty 	
 prototyyppien 	
 prototyyppejä 	
@@ -26583,7 +26583,7 @@ voi
 bongata 	
 ensi 	tim
 vuoden 	tim
-puolella 	
+puolella 	tim
 . 	
  	
 Silloin 	
@@ -26653,7 +26653,7 @@ julkaisi
 Yotaphone 	pro
 2:n 	pro
 joulukuun 	tim
-alussa 	
+alussa 	tim
 . 	
  	
 Venäläisyhtiön 	
@@ -26785,7 +26785,7 @@ luvassa
 <INGRESS> 	
 Pebble 	org
 laskee 	
-päiviä 	
+päiviä 	tim
 jonkinlaiseen 	
 julkistukseen 	
 . 	
@@ -26806,12 +26806,12 @@ uutisen
 tekohetkellä 	
 oli 	
 jäljellä 	
-noin 	
-neljä 	
-päivää 	
-ja 	
-neljä 	
-tuntia 	
+noin 	tim
+neljä 	tim
+päivää 	tim
+ja 	tim
+neljä 	tim
+tuntia 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -26910,8 +26910,8 @@ epäilee
 uuden 	
 kellon 	
 julkistusta 	
-näin 	
-aikaisin 	
+näin 	tim
+aikaisin 	tim
 tänä 	tim
 vuonna 	tim
 . 	
@@ -27030,10 +27030,10 @@ toiminto
 näpäyttää 	
 " 	
 käyttäjäänsä 	
-kymmenen 	
-minuuttia 	
-ennen 	
-tasatuntia 	
+kymmenen 	tim
+minuuttia 	tim
+ennen 	tim
+tasatuntia 	tim
 , 	
 jotta 	
 liiallisen 	
@@ -27047,8 +27047,8 @@ ehkäistä
 <PARAGRAPH> 	
 – 	
 Kesti 	
-vähän 	
-aikaa 	
+vähän 	tim
+aikaa 	tim
 , 	
 että 	
 siihen 	
@@ -27349,9 +27349,9 @@ Moto 	pro
 älykello 	pro
 oli 	
 silti 	
-vuoden 	
-viimeisen 	
-neljänneksen 	
+vuoden 	tim
+viimeisen 	tim
+neljänneksen 	tim
 Android 	pro
 Wear 	pro
 -laitteiden 	pro
@@ -27378,8 +27378,8 @@ kuusi
 eri 	
 älykelloa 	
 14 	
-kuukauden 	
-aikana 	
+kuukauden 	tim
+aikana 	tim
 , 	
 on 	
 edelleen 	
@@ -27460,8 +27460,8 @@ kappaletta
 jotka 	
 tulivat 	
 markkinoille 	
-vuona 	
-2013. 	
+vuona 	tim
+2013. 	tim
 Canalys 	org
 näkee 	
 Pebblen 	org
@@ -27474,7 +27474,7 @@ sovelluskaupan
 kasvavan 	
 tuotetarjonnan 	
 ja 	
-syksyiset 	
+syksyiset 	tim
 hinnanalennukset 	
 . 	
  	
@@ -27596,7 +27596,7 @@ ja
 se 	
 parantuu 	
 huomattavasti 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 . 	
  	
 <HEADLINE> 	
@@ -27934,9 +27934,9 @@ raudassa
 Olemme 	
 julkaisseet 	
 korjauksen 	
-23. 	
+23. 	tim
 joulukuuta 	tim
-2014 	
+2014 	tim
 , 	
 jonka 	
 pitäisi 	
