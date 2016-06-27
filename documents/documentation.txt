@@ -12,14 +12,18 @@ tarkista: elokuva*
 lyhyet adjektiivit ja adverbit??
 
 ajoittain, ajoittainen, ajoittaiset
-aikaisemmin, aikaisempi, aikaisemmat, aiemmat, aiemman
+aikaisemmin, aikaisemminkin, aikaisempi, aikaisemmat, aiemmat, aiemman
 myšhemmin (on nyt merkattu), myšhempi, myšhemmŠt
 aiemmin
 sittemmin
 aikanaan, aikoinaan
 jatkossa
 hetkittŠinen, hetkit*
+taannoin
+jŠlkikŠteen
+tuolloin
 
+kaikkien aikojen
 samaan aikaan, sillŠ vŠlin
 
 =================

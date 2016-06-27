@@ -5083,8 +5083,8 @@ tekstiä
 . 	
  	
 <HEADLINE> 	
-Tunti 	
-aikaa 	
+Tunti 	tim
+aikaa 	tim
 tietosuojachattiin 	
 — 	
 mukana 	
@@ -5115,9 +5115,9 @@ pro
 fi 	pro
 järjestää 	
 tänään 	tim
-kello 	
-13 	
-alkaen 	
+kello 	btim
+13 	tim
+alkaen 	tim
 suoran 	
 verkkochatin 	
 , 	
@@ -5136,18 +5136,18 @@ Chatti
 liittyy 	
 tänään 	tim
 vietettävään 	
-eurooppalaiseen 	
-tietosuojapäivään 	
+eurooppalaiseen 	tim
+tietosuojapäivään 	tim
 , 	
 ja 	
 keskustelulle 	
 on 	
 varattu 	
 aikaa 	
-aina 	
-kello 	
-16:een 	
-asti 	
+aina 	tim
+kello 	tim
+16:een 	tim
+asti 	tim
 . 	
  	
 Aarnion 	per
@@ -5611,17 +5611,17 @@ olin
 käyttänyt 	
 ajasta 	
 jo 	
-reilut 	
-kaksi 	
-minuuttia 	
+reilut 	tim
+kaksi 	tim
+minuuttia 	tim
 , 	
 ja 	
 puheenvuoron 	
 pituus 	
 oli 	
 määrätty 	
-kolmeksi 	
-minuutiksi 	
+kolmeksi 	tim
+minuutiksi 	tim
 . 	
  	
 <HEADLINE> 	
@@ -5733,7 +5733,7 @@ jogurttivalmistaja
 Chobani 	org
 julkaisivat 	
 torstaina 	tim
-kesällä 	
+kesällä 	btim
 voimaan 	
 tullutta 	
 lakia 	
@@ -5902,9 +5902,9 @@ jopa
 elinkautinen 	
 , 	
 mutta 	
-vähintään 	
-kymmenen 	
-vuotta 	
+vähintään 	tim
+kymmenen 	tim
+vuotta 	tim
 vankeutta 	
 . 	
  	
@@ -5919,8 +5919,8 @@ elinkautisen
 mutta 	
 vähimmäisrangaistus 	
 on 	
-20 	
-vuotta 	
+20 	tim
+vuotta 	tim
 vankeutta 	
 . 	
  	
@@ -5928,13 +5928,13 @@ Rahanpesusta
 voidaan 	
 antaa 	
 enintään 	
-20 	
-vuoden 	
+20 	tim
+vuoden 	tim
 tuomio 	
 ja 	
 tietokonemurrosta 	
-viisi 	
-vuotta 	
+viisi 	tim
+vuotta 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5975,8 +5975,8 @@ tehty
 Ross 	per
 Ulbricht 	per
 pidätettiin 	
-viime 	
-syksynä 	
+viime 	tim
+syksynä 	tim
 Silk 	pro
 Roadin 	pro
 sulkemisen 	
@@ -6148,7 +6148,7 @@ tasolle
 . 	
  	
 <PARAGRAPH> 	
-Kaksivuotisessa 	
+Kaksivuotisessa 	tim
 projektissa 	
 pyritään 	
 tarjoamaan 	
@@ -6176,7 +6176,7 @@ lupaa
 kaksi 	
 miljardia 	
 dollaria 	
-vuodessa 	
+vuodessa 	tim
 siihen 	
 . 	
  	
@@ -6254,10 +6254,10 @@ laajakaistan
 000 	
 vähävaraiselle 	
 koululaiselle 	
-seuraavan 	
-neljän 	
-vuoden 	
-aikana 	
+seuraavan 	tim
+neljän 	tim
+vuoden 	tim
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6702,7 +6702,7 @@ Kun
 pommi 	
 laskeutuu 	
 tai 	
-yöllinen 	
+yöllinen 	tim
 rynnäkkö 	
 tapahtuu 	
 , 	
@@ -6747,8 +6747,8 @@ edes
 maan 	
 etujen 	
 mukainen 	
-pitkällä 	
-aikavälillä 	
+pitkällä 	tim
+aikavälillä 	tim
 . 	
  	
 Lentäjä 	
@@ -6849,7 +6849,7 @@ jo
 ainakin 	
 viime 	tim
 syksyn 	tim
-alussa 	
+alussa 	tim
 , 	
 aiheuttavat 	
 edelleen 	
@@ -6864,8 +6864,8 @@ Meri-Lapin 	loc
 poliisi 	
 kertoo 	
 saaneensa 	
-viime 	
-päivinä 	
+viime 	tim
+päivinä 	tim
 useita 	
 ilmoituksia 	
 ja 	
@@ -7028,8 +7028,8 @@ enimmäismäärät
 joita 	
 kuluttajilta 	
 voidaan 	
-Suomen 	loc
-perintälain 	
+Suomen 	pro
+perintälain 	pro
 mukaan 	
 periä 	
 . 	
@@ -7158,9 +7158,9 @@ maksamatta
 olevia 	
 televisiomaksuja 	
 perittäisi 	
-kuluvan 	
-vuoden 	
-jälkeen 	
+kuluvan 	tim
+vuoden 	tim
+jälkeen 	tim
 . 	
  	
 Muutos 	
@@ -7172,10 +7172,10 @@ hyväksyy
 , 	
 tulisi 	
 voimaan 	
-1.1 	
-. 	
- 	
-2015 	
+1.1 	tim
+. 	tim
+ 	tim
+2015 	tim
 osana 	
 uudistettavaa 	
 valtion 	
@@ -7185,9 +7185,9 @@ radiorahastolakia
 . 	
  	
 <PARAGRAPH> 	
-Ennen 	
-vuotta 	
-2013 	
+Ennen 	tim
+vuotta 	tim
+2013 	tim
 erääntyneiden 	
 televisiomaksujen 	
 perintää 	
@@ -7198,12 +7198,12 @@ tarkoitus
 jatkaa 	
 vuoden 	tim
 2017 	tim
-loppuun 	
-saakka 	
+loppuun 	tim
+saakka 	tim
 , 	
 mutta 	
-kuluvana 	
-vuonna 	
+kuluvana 	tim
+vuonna 	tim
 toiminnasta 	
 aiheutuvat 	
 kustannukset 	
@@ -7225,7 +7225,7 @@ tv-maksuja
 oli 	
 viime 	tim
 vuoden 	tim
-lopussa 	
+lopussa 	tim
 11,6 	
 miljoonaa 	
 euroa 	
@@ -7237,7 +7237,7 @@ on
 että 	
 tämän 	tim
 vuoden 	tim
-lopussa 	
+lopussa 	tim
 summa 	
 on 	
 laskenut 	
@@ -7280,7 +7280,7 @@ radiorahastoon
  	
 Viime 	tim
 vuoden 	tim
-lopussa 	
+lopussa 	tim
 tämä 	
 summa 	
 oli 	
@@ -7296,7 +7296,7 @@ olevan
 euroa 	
 tämän 	tim
 vuoden 	tim
-lopussa 	
+lopussa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7333,9 +7333,9 @@ varten
 Palauttamisyrityksiä 	
 jatketaan 	
 vielä 	
-koko 	
-kuluvan 	
-vuoden 	
+koko 	tim
+kuluvan 	tim
+vuoden 	tim
 . 	
  	
 <HEADLINE> 	
@@ -7371,7 +7371,7 @@ fi 	pro
 Kyberturvallisuuskeskus 	org
 aloitti 	
 toimintansa 	
-vuodenvaihteessa 	
+vuodenvaihteessa 	tim
 ja 	
 samalla 	
 monien 	
@@ -7391,7 +7391,7 @@ muutos
 näkyy 	
 nyt 	tim
 keskiviikosta 	tim
-alkaen 	
+alkaen 	tim
 Cert-fi 	org
 : 	org
 n 	org
@@ -7498,7 +7498,7 @@ syypää
 jenkkimiehen 	
 putkareissuun 	
 ja 	
-tulevaan 	
+tulevaan 	tim
 oikeudenkäyntiin 	
 ? 	
  	
@@ -8014,7 +8014,7 @@ tekojensa
 tutkiminen 	
 on 	
 vaikeampaa 	
-nykyisten 	
+nykyisten 	tim
 oikeuksien 	
 takia 	
 . 	
@@ -8134,10 +8134,10 @@ pohti
 Ulbrichtin 	per
 kohtaloa 	
 vain 	
-kolme 	
-ja 	
-puoli 	
-tuntia 	
+kolme 	tim
+ja 	tim
+puoli 	tim
+tuntia 	tim
 Manhattanilla 	loc
 New 	bloc
 Yorkissa 	loc
@@ -8384,8 +8384,8 @@ lisännyt
 läsnäoloaan 	
 sosiaalisessa 	
 mediassa 	
-viime 	
-vuosina 	
+viime 	tim
+vuosina 	tim
 . 	
  	
 Pioneerina 	
@@ -8408,7 +8408,7 @@ rikosasioista
 kertovan 	
 Twitter-tilin 	misc
 helmikuussa 	tim
-2011. 	
+2011. 	tim
  	
 <HEADLINE> 	
 Senaattori 	
@@ -8435,8 +8435,8 @@ tekisi
 , 	
 jos 	
 hän 	
-jonain 	
-päivänä 	
+jonain 	tim
+päivänä 	tim
 asuisi 	
 Valkoisessa 	loc
 talossa 	loc
@@ -8541,7 +8541,7 @@ Valkoisessa 	loc
 talossa 	loc
 vuoden 	tim
 2016 	tim
-jälkeen 	
+jälkeen 	tim
 . 	
  	
 Mutta 	
@@ -8678,7 +8678,7 @@ kantaa
 myös 	
 tekoälyyn 	
 Reddit-tuokiossaan 	misc
-aiemmin 	
+aiemmin 	tim
 tällä 	tim
 viikolla 	tim
 . 	
@@ -8743,8 +8743,8 @@ mukaan
 <PARAGRAPH> 	
 – 	
 Kuitenkin 	
-muutama 	
-vuosikymmen 	
+muutama 	tim
+vuosikymmen 	tim
 sen 	
 jälkeen 	
 älykkyys 	
@@ -8826,8 +8826,8 @@ mahdollista
 , 	
 Horvitz 	per
 sanoi 	
-äsket 	
-täin 	
+äsket 	tim
+täin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -8988,9 +8988,9 @@ valtuutetun
 kanssa 	
 on 	
 tapahtunut 	
-sitten 	
-vuoden 	
-2012. 	
+sitten 	tim
+vuoden 	tim
+2012. 	tim
 Mutta 	
 sieltä 	
 löytyy 	
@@ -9023,8 +9023,8 @@ sitoutuu
 tekemään 	
 muutokset 	
 kesäkuun 	tim
-loppuun 	
-mennessä 	
+loppuun 	tim
+mennessä 	tim
 . 	
  	
 Muutokset 	
@@ -9139,7 +9139,7 @@ Pääosa
 ostoksista 	
 on 	
 tehty 	
-24. 	
+24. 	tim
 tammikuuta 	tim
 , 	
 ja 	
@@ -9147,9 +9147,9 @@ ne
 on 	
 veloitettu 	
 sekä 	
-26. 	
+26. 	tim
 että 	
-29. 	
+29. 	tim
 tammikuuta 	tim
 . 	
  	
@@ -9168,7 +9168,7 @@ kortinhaltijoiden
 tileillä 	
 pääosin 	
 jo 	
-tänäään 	
+tänäään 	tim
 , 	
 Netsin 	org
 varatoimitusjohtaja 	tit
@@ -9195,7 +9195,7 @@ vastaavat
 riskit 	
 voidaan 	
 välttää 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -9205,7 +9205,7 @@ korttimaksujen
 häiriöistä 	
 viimeksi 	
 tammikuun 	tim
-alussa 	
+alussa 	tim
 , 	
 jolloin 	
 maksuja 	
@@ -9603,7 +9603,7 @@ Markkinaoikeus
 antoi 	
 asiassa 	
 ratkaisun 	
-24.3 	
+24.3 	tim
 . 	
  	
 ja 	
@@ -9702,7 +9702,7 @@ Mobiililaitteista
 riippuvaisten 	
 määrä 	
 on 	
-vuodessa 	
+vuodessa 	tim
 yli 	
 kaksinkertaistunut 	
 , 	
@@ -9735,8 +9735,8 @@ kaksi
 kertaa 	
 enemmän 	
 kuin 	
-vuosi 	
-sitten 	
+vuosi 	tim
+sitten 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -9779,7 +9779,7 @@ sovelluksen
 yli 	
 60 	
 kertaa 	
-päivässä 	
+päivässä 	tim
 . 	
  	
 Se 	
@@ -9875,7 +9875,7 @@ riippuvaisista
 28 	
 prosenttia 	
 on 	
-35–54-vuotiaita 	
+35–54-vuotiaita 	tim
 , 	
 mutta 	
 kaikista 	
@@ -9952,7 +9952,7 @@ näyttää
 tulleen 	
 vastaan 	
 jo 	
-viikkoja 	
+viikkoja 	tim
 kestäneessä 	
 kiistassa 	
 Turkissa 	loc
@@ -10024,8 +10024,8 @@ ulkopuolella
 Sunnuntain 	tim
 estot 	
 tehtiin 	
-joitakin 	
-päiviä 	
+joitakin 	tim
+päiviä 	tim
 sen 	
 jälkeen 	
 , 	
@@ -10062,10 +10062,10 @@ purettiin
 oikeuden 	
 määräyksellä 	
 jo 	
-yli 	
-kaksi 	
-viikkoa 	
-sitten 	
+yli 	tim
+kaksi 	tim
+viikkoa 	tim
+sitten 	tim
 . 	
  	
 Tosin 	
@@ -10116,7 +10116,7 @@ Heartbleed-hyökkäyksestä 	misc
 17.4.2014 12:39 	
  	
 <INGRESS> 	
-19-vuotiasta 	
+19-vuotiasta 	tim
 epäillään 	
 Heartbleed-haavoittuvuuden 	misc
 käyttämisestä 	
@@ -10136,7 +10136,7 @@ kiinni
 ja 	
 asettaneensa 	
 syytteeseen 	
-19-vuotiaan 	
+19-vuotiaan 	tim
 ontariolaismiehen 	
 epäiltynä 	
 Heartbleed-aukon 	misc
@@ -10184,8 +10184,8 @@ poliisi
 on 	
 paiskinut 	
 töitä 	
-neljä 	
-päivää 	
+neljä 	tim
+päivää 	tim
 analysoiden 	
 dataa 	
 , 	
@@ -10215,7 +10215,7 @@ määrä
 esiintyä 	
 oikeudessa 	
 heinäkuun 	tim
-puolivälissä 	
+puolivälissä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -10249,8 +10249,8 @@ vuoksi
 sulkemaan 	
 verkkopalvelunsa 	
 kokonaan 	
-vähäksi 	
-aikaa 	
+vähäksi 	tim
+aikaa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -10439,7 +10439,7 @@ dollarin
 hintaan 	
 pysähdystä 	
 kohden 	
-päivässä 	
+päivässä 	tim
 . 	
  	
 Hinta 	
@@ -10669,8 +10669,8 @@ että
 vakuutukset 	
 vaihtuvat 	
 toisiin 	
-vuoden 	
-aikana 	
+vuoden 	tim
+aikana 	tim
 muun 	
 muassa 	
 työpaikkojen 	
@@ -10689,9 +10689,9 @@ tai
 antaa 	
 vakuutuksen 	
 raueta 	
-myöhemmin 	
-vuoden 	
-aikana 	
+myöhemmin 	tim
+vuoden 	tim
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -11120,8 +11120,8 @@ siirtämään
 todistuksen 	
 antamisen 	
 toukokuun 	tim
-5:nteen 	
-päivään 	
+5:nteen 	tim
+päivään 	tim
 , 	
 mutta 	
 ei 	
@@ -11183,9 +11183,9 @@ Auernheimerin 	per
 jo 	
 käynnissä 	
 oleva 	
-yli 	
-kolmen 	
-vuoden 	
+yli 	tim
+kolmen 	tim
+vuoden 	tim
 vankeustuomio 	
 kumottiin 	
 vetoomusoikeudessa 	
@@ -11939,8 +11939,8 @@ muutettava
  	
 <INGRESS> 	
 Teletunnistetietojen 	
-kahden 	
-vuoden 	
+kahden 	tim
+vuoden 	tim
 tallennusta 	
 operaattoreilta 	
 vaativa 	
@@ -11976,10 +11976,10 @@ operaattoreita
 tallentamaan 	
 kansalaisten 	
 teletunnistetietoja 	
-enintään 	
-kahden 	
-vuoden 	
-ajan 	
+enintään 	tim
+kahden 	tim
+vuoden 	tim
+ajan 	tim
 viranomaisia 	
 varten 	
 . 	
@@ -12402,7 +12402,7 @@ hallituksen 	org
 on 	
 palautettava 	
 pääsy 	
-20. 	
+20. 	tim
 marraskuuta 	tim
 estettyyn 	
 Twitteriin 	pro
@@ -12437,9 +12437,9 @@ Toinen
 oikeus 	
 oli 	
 jo 	
-useita 	
-päiviä 	
-sitten 	
+useita 	tim
+päiviä 	tim
+sitten 	tim
 puoltanut 	
 Twitterin 	pro
 sallimista 	
@@ -12646,8 +12646,8 @@ tilanne
 on 	
 muun 	
 muassa 	
-17-vuotiaan 	
-viikonloppusuunnitelmien 	tim
+17-vuotiaan 	tim
+viikonloppusuunnitelmien 	
 urkkiminen 	
 sekä 	
 sen 	
@@ -12760,10 +12760,10 @@ kärkeen
 ja 	
 rikkoi 	
 ennätyksen 	
-lähes 	
-30 	
-vuoden 	
-takaa 	
+lähes 	tim
+30 	tim
+vuoden 	tim
+takaa 	tim
 . 	
  	
 <BODY> 	
@@ -12812,10 +12812,10 @@ Journal 	org
 Kyseessä 	
 on 	
 Norjan 	loc
-kaikkien 	
-aikojen 	
-yhden 	
-kuukauden 	
+kaikkien 	tim
+aikojen 	tim
+yhden 	btim
+kuukauden 	tim
 myyntiennätys 	
 . 	
  	
@@ -12832,11 +12832,11 @@ myytiin
 1 	
 454 	
 kappaletta 	
-yhden 	
-kuukauden 	
-aikana 	
-vuonna 	
-1986. 	
+yhden 	tim
+kuukauden 	tim
+aikana 	tim
+vuonna 	btim
+1986. 	tim
 Teslan 	org
 Model 	pro
 S 	pro
@@ -12963,8 +12963,8 @@ autojen
 tukiaisiin 	
 vuoden 	tim
 2017 	tim
-loppuun 	
-saakka 	
+loppuun 	tim
+saakka 	tim
 tai 	
 siihen 	
 saakka 	
@@ -13090,8 +13090,8 @@ pelkää
 että 	
 tekoäly 	
 tulee 	
-tällä 	
-vuosisadalla 	
+tällä 	tim
+vuosisadalla 	tim
 yllätyksenä 	
 ihmisille 	
 eikä 	
@@ -13104,7 +13104,7 @@ Hän
 otti 	
 asiaan 	
 kantaa 	
-Independent-lehden 	
+Independent-lehden 	org
 mielipidekirjoituksessa 	
 , 	
 jonka 	
@@ -13323,8 +13323,8 @@ ymmärtämään
 Siinä 	
 missä 	
 tekoälyn 	
-lyhyen 	
-aikavälin 	
+lyhyen 	tim
+aikavälin 	tim
 vaikutus 	
 riippuu 	
 siitä 	
@@ -13333,8 +13333,8 @@ kuka
 sitä 	
 hallinnoi 	
 , 	
-pitkän 	
-aikavälin 	
+pitkän 	tim
+aikavälin 	tim
 vaikutus 	
 riippuu 	
 siitä 	
@@ -13436,8 +13436,8 @@ johtaja 	tit
 Charles 	per
 Bolden 	per
 sanoi 	
-kuukausi 	
-sitten 	
+kuukausi 	tim
+sitten 	tim
 , 	
 että 	
 " 	
@@ -13476,8 +13476,8 @@ melkein
 kaikki 	
 suhteensa 	
 Venäjään 	loc
-Krimin 	bloc
-kriisin 	
+Krimin 	event
+kriisin 	event
 vuoksi 	
 . 	
  	
@@ -13583,9 +13583,9 @@ tavalla
  	
 <PARAGRAPH> 	
 Vain 	
-joitakin 	
-päiviä 	
-sitten 	
+joitakin 	tim
+päiviä 	tim
+sitten 	tim
 Boldenilta 	per
 tivattiin 	
 Yhdysvaltain 	org
@@ -13732,7 +13732,7 @@ Facebook-profiileilla 	misc
 <PARAGRAPH> 	
 Kiristys 	
 johti 	
-17-vuotiaan 	
+17-vuotiaan 	tim
 skotlantilaispojan 	
 itsemurhaan 	
 viime 	tim
@@ -13891,7 +13891,7 @@ mietintönsä
 Mietintö 	
 on 	
 luettavissa 	
-oikeusministeriön 	
+oikeusministeriön 	org
 sivuilta 	
 tiivistelmänä 	
 tai 	
@@ -13952,8 +13952,8 @@ voisi
 saada 	
 vankeutta 	
 enimmillään 	
-viisi 	
-vuotta 	
+viisi 	tim
+vuotta 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -14121,8 +14121,8 @@ miljoonan
 vakuutetun 	
 tavoitteen 	
 maaliskuun 	tim
-loppuun 	
-mennessä 	
+loppuun 	tim
+mennessä 	tim
 . 	
  	
 Välillä 	
@@ -14146,16 +14146,16 @@ hankittava
 itselleen 	
 sairausvakuutus 	
 maaliskuun 	tim
-loppuun 	
-mennessä 	
+loppuun 	tim
+mennessä 	tim
 . 	
  	
 Monet 	
 heräsivät 	
 asiaan 	
 vasta 	
-viime 	
-päivinä 	
+viime 	tim
+päivinä 	tim
 , 	
 ja 	
 liittovaltion 	
@@ -14183,8 +14183,8 @@ osoittaa
 yrittäneensä 	
 hankkia 	
 vakuutuksen 	
-määräaikaan 	
-mennessä 	
+määräaikaan 	tim
+mennessä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -14194,8 +14194,8 @@ sairausvakuutusten
 hankkijoista 	
 selviää 	
 vasta 	
-viikkojen 	
-kuluttua 	
+viikkojen 	tim
+kuluttua 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -14247,8 +14247,8 @@ hakijat
  	
 Vakuutusyhtiöiden 	
 suosimien 	
-alle 	
-35-vuotiaiden 	
+alle 	tim
+35-vuotiaiden 	tim
 osuus 	
 on 	
 noussut 	
@@ -14281,9 +14281,9 @@ kuorma-autoissa
 on 	
 oltava 	
 peruutuskamera 	
-viimeistään 	
-vuonna 	
-2018. 	
+viimeistään 	tim
+vuonna 	tim
+2018. 	tim
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -14322,7 +14322,7 @@ Peruutuskameramääräys
 on 	
 tehnyt 	
 tuloaan 	
-vuosikausia 	
+vuosikausia 	tim
 , 	
 mutta 	
 sitä 	
@@ -14355,13 +14355,13 @@ on
 alettava 	
 asentaa 	
 peruutuskamera 	
-vuodesta 	
-2016 	
-alkaen 	
+vuodesta 	tim
+2016 	tim
+alkaen 	tim
 ja 	
-kahden 	
-vuoden 	
-päästä 	
+kahden 	tim
+vuoden 	tim
+päästä 	tim
 sellainen 	
 on 	
 oltava 	
@@ -14403,7 +14403,7 @@ Liikenneturvallisuusviraston
 mukaan 	
 peruutusonnettomuuksissa 	
 loukkaantuu 	
-vuosittain 	
+vuosittain 	tim
 15 	
 000 	
 ihmistä 	
@@ -14426,7 +14426,7 @@ Virasto
 ennustaa 	
 peruutuskameran 	
 vähentävän 	
-vuosittain 	
+vuosittain 	tim
 13 	
 – 	
 15 	
@@ -14479,9 +14479,9 @@ kirjoitti
  	
 <HEADLINE> 	
 Torrentti 	
-kymmenen 	
-vuoden 	
-takaa 	
+kymmenen 	tim
+vuoden 	tim
+takaa 	tim
 : 	
 Top 	pro
 Secret 	pro
@@ -14508,8 +14508,8 @@ säilyneen
 torrentin 	
 julkaisusta 	
 jo 	
-kymmenen 	
-vuotta 	
+kymmenen 	tim
+vuotta 	tim
 . 	
  	
 <BODY> 	
@@ -14524,9 +14524,9 @@ The 	pro
 Pirate 	pro
 Bay 	pro
 täytti 	
-10 	
-vuotta 	
-viime 	tim
+10 	tim
+vuotta 	tim
+viime 	btim
 vuonna 	tim
 . 	
  	
@@ -14539,8 +14539,8 @@ vanhimmasta
 palveluun 	
 ladatusta 	
 ja 	
-tähän 	
-päivään 	
+tähän 	tim
+päivään 	tim
 selvinneestä 	
 torrentista 	
 . 	
@@ -14681,7 +14681,7 @@ myös
 englannin 	
 . 	
  	
-Nykyisellään 	
+Nykyisellään 	tim
 sivusto 	
 osaa 	
 keskustella 	
@@ -14800,9 +14800,9 @@ tietoja
 EU-tuomioistuin 	org
 antoi 	
 päätöksensä 	
-Itävallan 	
-korkeimman 	
-oikeuden 	
+Itävallan 	org
+korkeimman 	org
+oikeuden 	org
 pyynnöstä 	
 . 	
  	
