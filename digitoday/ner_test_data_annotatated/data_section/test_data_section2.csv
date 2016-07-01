@@ -3190,11 +3190,11 @@ kuljettavilta
 radiosignaaleilta 	
 kuluu 	
 myös 	
-yli 	
-neljä 	
-ja 	
-puoli 	
-tuntia 	
+yli 	tim
+neljä 	tim
+ja 	tim
+puoli 	tim
+tuntia 	tim
 kulkea 	
 koko 	
 matka 	
@@ -3227,8 +3227,8 @@ koko
 data-aarteen 	
 lähettämiseen 	
 kuluu 	
-noin 	
-vuosi 	
+noin 	tim
+vuosi 	tim
 . 	
  	
 Se 	
@@ -3343,16 +3343,16 @@ päivityksen
 voi 	
 tehdä 	
 joskus 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 . 	
  	
 Tähän 	
 voi 	
 mennä 	
-päiviä 	
+päiviä 	tim
 tai 	
 jopa 	
-viikkoja 	
+viikkoja 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -3549,9 +3549,9 @@ koneellasi
  	
 Tarkasta 	
 Updatea 	
-parin 	
-tunnin 	
-välein 	
+parin 	tim
+tunnin 	tim
+välein 	tim
 — 	
 latauksen 	
 kesto 	
@@ -3947,7 +3947,7 @@ exe
 _ 	
  	
 <HEADLINE> 	
-Päivä 	
+Päivä 	tim
 julki 	
 — 	
 Applelta 	org
@@ -4043,7 +4043,7 @@ kysyttäessä
 kertonut 	
 mitään 	
 olennaista 	
-tulevasta 	
+tulevasta 	tim
 tapahtumasta 	
 . 	
  	
@@ -4724,9 +4724,9 @@ tarjotaan
 ilmaiseksi 	
 . 	
  	
-Ensimmäisen 	
-kuukauden 	
-aikana 	
+Ensimmäisen 	tim
+kuukauden 	tim
+aikana 	tim
 sitä 	
 on 	
 ladattu 	
@@ -4786,7 +4786,7 @@ päivitysten
 kautta 	
 , 	
 joten 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 ei 	
 pitäisi 	
 olla 	
@@ -4945,7 +4945,7 @@ kello 	tim
 21 	tim
 Suomen 	tim
 aikaa 	tim
-keskiviikkona 	btim
+keskiviikkona 	tim
 . 	
  	
 Huonon 	
@@ -5157,7 +5157,7 @@ levottomuudet
 rauhoittuvat 	
 . 	
  	
-Äskettäin 	
+Äskettäin 	tim
 Intia 	org
 harjoitti 	
 ankaraa 	
@@ -5314,7 +5314,7 @@ ja
 on 	
 ollut 	
 jo 	
-vuosia 	
+vuosia 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5452,10 +5452,10 @@ käyttänyt
 puolta 	
 autojen 	
 teknologioista 	
-ensimmäisen 	
-kolmen 	
-kuukauden 	
-aikana 	
+ensimmäisen 	tim
+kolmen 	tim
+kuukauden 	tim
+aikana 	tim
 , 	
 JD 	org
 Power 	org
@@ -5853,9 +5853,9 @@ Kaspersky 	per
 ilmoitti 	
 korjaavansa 	
 ongelman 	
-alle 	
-24 	
-tunnissa 	
+alle 	tim
+24 	tim
+tunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6269,8 +6269,8 @@ voida
 katsoa 	
 poikaani 	
 silmiin 	
-jonain 	
-päivänä 	
+jonain 	tim
+päivänä 	tim
 , 	
 teknologiajohtaja 	
 totesi 	
@@ -6480,7 +6480,7 @@ Sirille 	pro
 jonka 	
 kanssa 	
 se 	
-kohta 	
+kohta 	tim
 kilpailee 	
 iPhone-puhelimissa 	pro
 . 	
@@ -7078,9 +7078,9 @@ Nykyisellään
 prosessi 	
 voi 	
 kestää 	
-viikkoja 	
+viikkoja 	tim
 tai 	
-kuukausia 	
+kuukausia 	tim
 . 	
  	
 Uuden 	
@@ -7090,8 +7090,8 @@ on
 määrä 	
 mennä 	
 läpi 	
-viidessä 	
-päivässä 	
+viidessä 	tim
+päivässä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7553,10 +7553,10 @@ uusitun
 sovellusversion 	
 jakelun 	
 alkavan 	
-" 	tim
+" 	
 lähiviikkojen 	tim
 aikana 	tim
-" 	tim
+" 	
 . 	
  	
 <PARAGRAPH> 	
@@ -7591,7 +7591,7 @@ ja
 kehittää 	
 henkilökohtaisia 	
 sovelluksia 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 " 	
 . 	
  	
@@ -7669,7 +7669,7 @@ monilla
 amerikkalaisyhtiöillä 	
 arkipäivää 	
 jo 	
-pitkään 	
+pitkään 	tim
 . 	
  	
 <HEADLINE> 	
@@ -8518,8 +8518,8 @@ rajoitti
 matkatietojen 	
 linkkien 	
 elinajan 	
-48 	
-tuntiin 	
+48 	tim
+tuntiin 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -8890,9 +8890,9 @@ televisionäyttöä
 LSST 	pro
 kuvaa 	
 etelätaivasta 	
-kymmenen 	
-vuoden 	
-ajan 	
+kymmenen 	tim
+vuoden 	tim
+ajan 	tim
 . 	
  	
 Sen 	
@@ -8902,8 +8902,8 @@ kuuden
 miljoonan 	
 gigatavun 	
 tietokanta 	
-joka 	
-vuosi 	
+joka 	tim
+vuosi 	tim
 . 	
  	
 Kahdeksan 	
@@ -8914,9 +8914,9 @@ ottaa
 800 	
 000 	
 kuvaa 	
-vuoden 	
-jokaisena 	
-päivänä 	
+vuoden 	tim
+jokaisena 	tim
+päivänä 	tim
 saman 	
 pikselimäärän 	
 saavuttamiseksi 	
@@ -8983,7 +8983,7 @@ aloitettua
 Vuoden 	tim
 2010 	tim
 elokuun 	tim
-puolivälissä 	
+puolivälissä 	tim
 Yhdysvaltain 	org
 tiedeakatemia 	org
 valitsi 	
@@ -9030,8 +9030,8 @@ vuonna 	tim
 ja 	
 jatkaa 	
 niitä 	
-kymmenen 	
-vuotta 	
+kymmenen 	tim
+vuotta 	tim
 . 	
  	
 Sinä 	
