@@ -584,9 +584,9 @@ paras
 testattu 	
 auto 	
 oli 	
-tähän 	
-saakka 	
-vuoden 	tim
+tähän 	tim
+saakka 	tim
+vuoden 	btim
 2014 	tim
 BMW 	pro
 M235i 	pro
@@ -638,8 +638,8 @@ nollasta
 60 	
 mailin 	
 tuntinopeuteen 	
-5,6 	
-sekunnissa 	
+5,6 	tim
+sekunnissa 	tim
 , 	
 mutta 	
 P85D 	pro
@@ -657,8 +657,8 @@ mailin
 kilometrin 	
 ) 	
 tuntinopeuden 	
-3,5 	
-sekunnissa 	
+3,5 	tim
+sekunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -1149,13 +1149,13 @@ keväälle 	tim
 Siitä 	
 tulee 	
 loistava 	
-päivä 	
+päivä 	tim
 , 	
 kun 	
 laukaisemme 	
 sen 	
 joskus 	
-aikavälillä 	
+aikavälillä 	tim
 myöhäinen 	tim
 huhtikuu 	tim
 – 	tim
@@ -1175,7 +1175,7 @@ mukaan
 <PARAGRAPH> 	
 Raketti 	
 on 	
-vuosia 	
+vuosia 	tim
 myöhässä 	
 . 	
  	
@@ -1244,7 +1244,7 @@ sitten
 Saturn 	pro
 5 	pro
 -kuuraketin 	pro
-1970-luvulla 	
+1970-luvulla 	tim
 . 	
  	
 Se 	
@@ -1322,8 +1322,8 @@ Sen
 akun 	
 latausaste 	
 kiipesi 	
-viidessä 	
-minuutissa 	
+viidessä 	tim
+minuutissa 	tim
 viiden 	
 prosentin 	
 lähtötilasta 	
@@ -1333,8 +1333,8 @@ latausasteeseen
 . 	
  	
 <PARAGRAPH> 	
-Viidessä 	
-minuutissa 	
+Viidessä 	tim
+minuutissa 	tim
 Google 	pro
 Nexus 	pro
 6 	pro
@@ -1378,8 +1378,8 @@ S6 	pro
  	
 Siihen 	
 meni 	
-48 	
-minuuttia 	
+48 	tim
+minuuttia 	tim
 . 	
  	
 Tähän 	
@@ -1422,17 +1422,17 @@ Zenfone 	pro
 joka 	
 oli 	
 nopein 	
-5 	
-minuutin 	
+5 	tim
+minuutin 	tim
 ja 	
-15 	
-minuutin 	
+15 	tim
+minuutin 	tim
 latauksissa 	
 ja 	
 jakoi 	
 voiton 	
-30 	
-minuutin 	
+30 	tim
+minuutin 	tim
 latauksissa 	
 Galaxy 	pro
 S6 	pro
@@ -1442,8 +1442,8 @@ kanssa
 . 	
  	
 <PARAGRAPH> 	
-Puolen 	
-tunnin 	
+Puolen 	tim
+tunnin 	tim
 latauksessa 	
 Zenfone 	pro
 2 	pro
@@ -1454,8 +1454,8 @@ ovat
 nopeimmat 	
 Akun 	
 lataustaso 	
-30 	
-minuutin 	
+30 	tim
+minuutin 	tim
 jälkeen 	
 | 	
 Asus 	pro
@@ -2456,10 +2456,10 @@ asteroidi
 törmää 	
 15 	tim
 . 	tim
-tim 	
+	
 –18 	tim
 . 	tim
-tim 	
+	
 syyskuuta 	tim
 Puerto 	loc
 Ricon 	loc
@@ -2509,8 +2509,8 @@ taivaallinen
 kappale 	
 osuisi 	
 Maahan 	loc
-noina 	
-päivämäärinä 	
+noina 	tim
+päivämäärinä 	tim
 , 	
 Nasan 	org
 asteroidivahdin 	
@@ -2690,7 +2690,7 @@ iskenyt
 kivi 	
 ei 	
 ollut 	
-etukäteen 	
+etukäteen 	tim
 tiedossa 	
 , 	
 mutta 	
@@ -2870,7 +2870,7 @@ kansainvälistä
 avaruusasemaa 	
 — 	
 mikä 	
-viimeaikaisten 	
+viimeaikaisten 	tim
 tapahtumien 	
 valossa 	
 ei 	
@@ -2957,9 +2957,9 @@ vedenkäsittelylaitetta
 Se 	
 tekee 	
 " 	
-eilisen 	
+eilisen 	tim
 kahvista 	
-huomisen 	
+huomisen 	tim
 kahvia 	
 " 	
 – 	
@@ -3148,8 +3148,8 @@ tutkimustarkoituksiin
 Lasti 	
 saapui 	
 perille 	
-viittä 	
-päivää 	
+viittä 	tim
+päivää 	tim
 myöhemmin 	tim
 . 	
  	
@@ -3222,9 +3222,9 @@ on
 määrä 	
 viettää 	
 avaruudessa 	
-yli 	
-kaksi 	
-vuotta 	
+yli 	tim
+kaksi 	tim
+vuotta 	tim
 , 	
 osa 	
 palaa 	
@@ -3533,7 +3533,7 @@ sovelluksen
 tulo 	
 Suomeen 	loc
 kestää 	
-kuukausia 	
+kuukausia 	tim
 . 	
  	
 <HEADLINE> 	
@@ -4088,8 +4088,8 @@ keräystä
 on 	
 jäljellä 	
 enää 	
-19 	
-päivää 	
+19 	tim
+päivää 	tim
 ja 	
 kasassa 	
 on 	
@@ -4321,10 +4321,10 @@ tee
 se 	
 itse 	
 -puhelin 	
-" 	pro
+" 	
 Project 	pro
 Ara 	pro
-" 	pro
+" 	
 oli 	
 tarkoitus 	
 tuoda 	
@@ -4601,8 +4601,8 @@ force
 <PARAGRAPH> 	
 Temppuun 	
 meni 	
-puoli 	
-tuntia 	
+puoli 	tim
+tuntia 	tim
 . 	
  	
 VW 	org
@@ -4756,7 +4756,7 @@ heikkouksia
 . 	
  	
 <PARAGRAPH> 	
-Äskettäin 	
+Äskettäin 	tim
 eräs 	
 tietoturvatutkija 	
 julkisti 	
@@ -5844,7 +5844,7 @@ pelastamaan
 <PARAGRAPH> 	
 Galileo 	pro
 on 	
-vuosia 	
+vuosia 	tim
 myöhässä 	
 , 	
 ja 	
