@@ -229,9 +229,9 @@ G
 Data 	org
 julkaisee 	org
 raporttinsa 	
-kaksi 	
-kertaa 	
-vuodessa 	
+kaksi 	tim
+kertaa 	tim
+vuodessa 	tim
 . 	
  	
 Uuden 	
@@ -1527,8 +1527,8 @@ kuuluva
 roskapostihäirikkö 	
 saattaa 	
 joutua 	
-kolmeksi 	
-vuodeksi 	
+kolmeksi 	tim
+vuodeksi 	tim
 vankilaan 	
 . 	
  	
@@ -1624,7 +1624,7 @@ pahamaineinen
 ura 	
 roskapostittajana 	
 alkoi 	
-jo 	tim
+jo 	
 90-luvulla 	tim
 , 	
 jolloin 	
@@ -1697,7 +1697,7 @@ vuosikymmentä 	tim
 <PARAGRAPH> 	
 Wallace 	per
 väitti 	
-jo 	tim
+jo 	
 vuonna 	tim
 1998 	tim
 jäävänsä 	
@@ -1760,7 +1760,7 @@ kuin
 George 	per
 Orwellin 	per
 kuuluisassa 	
-tulevaisuuden 	
+tulevaisuuden 	tim
 valvontayhteiskunnasta 	
 kertovassa 	
 Vuonna 	pro
@@ -1786,7 +1786,7 @@ karkuun
 . 	
  	
 Tänä 	tim
-päivänä 	
+päivänä 	tim
 Englannin 	loc
 maaseuduilla 	
 on 	
@@ -2430,9 +2430,9 @@ rangaistus
 on 	
 sakkoa 	
 tai 	
-enintään 	
-kaksi 	
-vuotta 	
+enintään 	tim
+kaksi 	tim
+vuotta 	tim
 vankeutta 	
 . 	
  	
@@ -2651,7 +2651,7 @@ John 	per
 McAfee 	per
 kertoo 	
 voivansa 	
-vuosikymmenien 	
+vuosikymmenien 	tim
 kyberturvallisuuskokemuksensa 	
 perusteella 	
 sanomaan 	
@@ -2825,7 +2825,7 @@ tekemä
 Samaan 	
 lopputulemaan 	
 tuli 	
-jo 	tim
+jo 	
 heinäkuussa 	tim
 julkaistun 	
 näytteen 	
@@ -2963,8 +2963,8 @@ että
 tietovuotaja 	
 kutsuu 	
 erityisesti 	
-ystävänpäivän 	
-jälkeen 	
+ystävänpäivän 	tim
+jälkeen 	tim
 seuraa 	
 etsinyttä 	
 käyttäjää 	
@@ -2985,7 +2985,7 @@ sitä
 mieltä 	
 , 	
 että 	
-ystävänpäivästä 	
+ystävänpäivästä 	tim
 välittävät 	
 lähinnä 	
 naiset 	
@@ -3000,7 +3000,7 @@ kiinnosta
 . 	
  	
 Niinpä 	
-ystävänpäivän 	
+ystävänpäivän 	tim
 jälkeen 	
 pettäminen 	
 on 	
@@ -3456,8 +3456,8 @@ Wikipedian 	pro
 sivut 	
 olivat 	
 avoinna 	
-muutama 	
-tunti 	
+muutama 	tim
+tunti 	tim
 päätöksen 	
 julkistamisen 	
 jälkeen 	
@@ -3502,7 +3502,7 @@ pro
 run 	pro
 estäminen 	
 tulee 	
-viikkoa 	
+viikkoa 	tim
 ennen 	
 kuin 	
 uusi 	
@@ -4221,9 +4221,9 @@ Windows 	pro
 yksityisyysongelmista 	
 on 	
 kirjoitettu 	
-useamman 	
-viikon 	
-ajan 	
+useamman 	tim
+viikon 	tim
+ajan 	tim
 kiivaasti 	
 . 	
  	
@@ -5435,8 +5435,8 @@ ole
 jakautuneet 	
 suhteellisen 	
 tasaisesti 	
-kautta 	
-vuoden 	
+kautta 	tim
+vuoden 	tim
 kuten 	
 näin 	
 suuressa 	
@@ -5483,7 +5483,7 @@ ovatkaan
 mutta 	
 kuitenkin 	
 vähintään 	
-18-vuotiana 	
+18-vuotiana 	tim
 . 	
  	
 Ashley 	pro
@@ -5496,8 +5496,8 @@ ilmoitti
 syntymävuodekseen 	
 1978. 	tim
 Onkohan 	
-tuona 	
-vuonna 	
+tuona 	tim
+vuonna 	tim
 syntyneissä 	
 jotain 	
 erityistä 	
@@ -5551,9 +5551,9 @@ selittää
 vuosivalinnan 	
 , 	
 mutta 	
-kuun 	
-ensimmäisen 	
-päivän 	
+kuun 	tim
+ensimmäisen 	tim
+päivän 	tim
 valinnan 	
 syntymäpäiväksi 	
 selittänee 	
@@ -6476,7 +6476,7 @@ näistä
 Gozi 	pro
 , 	
 ilmestyi 	
-jo 	tim
+jo 	
 vuonna 	tim
 2007 	tim
 ja 	
@@ -6521,8 +6521,8 @@ Mies
 on 	
 jo 	
 viettänyt 	
-kymmenen 	
-kuukautta 	
+kymmenen 	tim
+kuukautta 	tim
 vankilassa 	
 Latviassa 	loc
 . 	
@@ -6540,9 +6540,9 @@ vankeustuomiota
 joka 	
 on 	
 kestoltaan 	
-enintään 	
-kaksi 	
-vuotta 	
+enintään 	tim
+kaksi 	tim
+vuotta 	tim
 . 	
  	
 Tuomio 	
@@ -6693,7 +6693,7 @@ julkaisi
 aukon 	
 paikkaavan 	
 korjaustiedoston 	
-välittömästi 	
+välittömästi 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6767,8 +6767,8 @@ palveluihin
 omalla 	
 kustannuksellaan 	
 ja 	
-kahdessa 	
-viikossa 	
+kahdessa 	tim
+viikossa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6816,7 +6816,7 @@ Bay 	pro
 oikeuden 	
 määräyksellä 	
 jo 	
-pitkään 	
+pitkään 	tim
 . 	
  	
 Sama 	
@@ -6896,7 +6896,7 @@ arvontaan
 . 	
  	
 <PARAGRAPH> 	
-Eilisiltana 	
+Eilisiltana 	tim
 kuvaa 	
 oli 	
 jaettu 	
@@ -7163,7 +7163,7 @@ oikeuksilla
 jos 	
 käyttäjä 	
 on 	
-samanaikaisesti 	
+samanaikaisesti 	tim
 kirjautuneena 	
 johonkin 	
 verkkopalveluun 	
