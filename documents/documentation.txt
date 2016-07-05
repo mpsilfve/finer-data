@@ -31,7 +31,8 @@ tällöin (ei ole tällä hetkellä)
 kaikkien aikojen
 samaan aikaan, sillä välin
 tämän jälkeen, tätä ennen, sitä ennen? (ei ole tällä hetkellä)
-edelleen, yhä (ei ole tällä hetkellä)
+edelleen, yhä (ei ole tällä hetkellä) (pois “niin edelleen”)
+
 
 
 =================

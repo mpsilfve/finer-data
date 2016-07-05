@@ -1309,7 +1309,7 @@ Times 	org
 Apple 	org
 järjestää 	
 ylihuomenna 	tim
-9. 	tim
+9. 	btim
 syyskuuta 	tim
 julkistustilaisuuden 	
 , 	
@@ -1736,8 +1736,8 @@ sillä
 yhtiö 	
 kehuu 	
 myyneensä 	
-kesän 	
-aikana 	
+kesän 	tim
+aikana 	tim
 varastot 	
 tyhjiksi 	
 Suomessa 	loc
@@ -2074,7 +2074,7 @@ kymmentuumainen
 ruutu 	
 sopii 	
 hyvin 	
-elokuvien 	tim
+elokuvien 	
 katseluun 	
 . 	
  	
@@ -2355,11 +2355,11 @@ ostaminen
 on 	
 harvemmin 	
 sijoitus 	
-tulevaisuuteen 	
+tulevaisuuteen 	tim
 , 	
 mutta 	
-kolmen 	
-vuoden 	
+kolmen 	tim
+vuoden 	tim
 palvelusaikaa 	
 olisi 	
 kohtuullista 	
@@ -2538,7 +2538,7 @@ kuitenkin
 miljoonia 	
 vähemmän 	
 kuin 	
-vuotta 	
+vuotta 	tim
 aiemmin 	tim
 , 	
 ja 	
@@ -2842,8 +2842,8 @@ jos
 kokeilukappaletta 	
 ei 	
 palauteta 	
-kuukauden 	
-jälkeen 	
+kuukauden 	tim
+jälkeen 	tim
 , 	
 testaajalta 	
 peritään 	
@@ -3050,7 +3050,7 @@ Microsoft 	org
 on 	
 joutunut 	
 siirtämään 	
-kuukausilla 	
+kuukausilla 	tim
 eteenpäin 	
 . 	
  	
@@ -3686,8 +3686,8 @@ varsin
 riittävä 	
 . 	
  	
-Viidessä 	
-päivässä 	
+Viidessä 	tim
+päivässä 	tim
 akku 	
 ladattiin 	
 täyteen 	
