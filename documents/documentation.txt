@@ -13,7 +13,7 @@ lyhyet adjektiivit ja adverbit??
 
 ajoittain, ajoittainen, ajoittaiset
 aikaisemmin, aikaisemminkin, aikaisempi, aikaisemmat, aiemmat, aiemman
-myöhemmin (on nyt merkattu), myöhempi, myöhemmät
+myöhemmin, myöhempi, myöhemmät
 aiemmin
 sittemmin
 aikanaan, aikoinaan
@@ -22,10 +22,17 @@ hetkittäinen, hetkit*
 taannoin
 jälkikäteen
 tuolloin
-pian
+pian, 
+heti, heti perään (ei ole tällä hetkellä)
+aina (ei ole tällä hetkellä)
+tällöin (ei ole tällä hetkellä)
+
 
 kaikkien aikojen
 samaan aikaan, sillä välin
+tämän jälkeen, tätä ennen, sitä ennen? (ei ole tällä hetkellä)
+edelleen, yhä (ei ole tällä hetkellä)
+
 
 =================
 
