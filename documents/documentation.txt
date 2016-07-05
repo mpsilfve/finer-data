@@ -22,16 +22,18 @@ hetkittäinen, hetkit*
 taannoin
 jälkikäteen
 tuolloin
-pian, 
-heti, heti perään (ei ole tällä hetkellä)
-aina (ei ole tällä hetkellä)
-tällöin (ei ole tällä hetkellä)
-
-
+pian
 kaikkien aikojen
 samaan aikaan, sillä välin
-tämän jälkeen, tätä ennen, sitä ennen? (ei ole tällä hetkellä)
-edelleen, yhä (ei ole tällä hetkellä) (pois “niin edelleen”)
+
+
+etukäteen, jälkikäteen (ei ole tällä hetkellä)
+jatkuva, jatkuvasti (ei ole tällä hetkellä)
+aina (ei ole tällä hetkellä)
+tällöin, silloin (ei ole tällä hetkellä)
+heti, heti perään (ei ole tällä hetkellä)
+tämän jälkeen, tätä ennen, sitä ennen, sen jälkeen? (ei ole tällä hetkellä)
+edelleen, yhä (ei ole tällä hetkellä) (pois “niin edelleen”), tsekkaa “yhä”:n eri merkitykset käsin
 
 
 
