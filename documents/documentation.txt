@@ -27,17 +27,26 @@ kaikkien aikojen
 samaan aikaan, sillä välin
 
 
-etukäteen, jälkikäteen (ei ole tällä hetkellä)
-jatkuva, jatkuvasti (ei ole tällä hetkellä)
-aina (ei ole tällä hetkellä)
-tällöin, silloin (ei ole tällä hetkellä)
-heti, heti perään (ei ole tällä hetkellä)
-usein (ei ole tällä hetkellä)
-tämän jälkeen, tätä ennen, sitä ennen, sen jälkeen? (ei ole tällä hetkellä)
-edelleen, yhä (ei ole tällä hetkellä) (pois “niin edelleen”), (tsekkaa “yhä”:n eri merkitykset käsin, esim. yhä enemmän)
-hetki, hetkittäinen, hetkittäin, hetkittäisesti, hetkinen, hetkisen (ei ole tällä hetkellä), (tsekkaa hetkisen eri merkitykset käsin)
+ei ole tällä hetkellä:
+
+etukäteen, jälkikäteen
+jatkuva, jatkuvasti 
+aina
+tällöin, silloin
+heti, heti perään
+usein
+tämän jälkeen, tätä ennen, sitä ennen, sen jälkeen? 
+edelleen, yhä (pois “niin edelleen”), (tsekkaa “yhä”:n eri merkitykset käsin, esim. yhä enemmän)
+hetki, hetkittäinen, hetkittäin, hetkittäisesti, hetkinen, hetkisen (tsekkaa hetkisen eri merkitykset käsin)
 siitä lähtien, tästä lähtien
-yhtä aikaa 
+yhtä aikaa
+joskus
+enää
+aikaisin
+saman tien
+vielä (pitäisi tehdä käsin, esim. “vielä enemmän”)
+pitkä (pitäisi tehdä käsin)
+
 
 =================
 
