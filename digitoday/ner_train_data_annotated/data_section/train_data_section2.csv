@@ -21,8 +21,8 @@ ilmaisuutta
 puskee 	
 paitsi 	
 kilpailijoiden 	
-viime 	
-aikaiset 	
+viime 	tim
+aikaiset 	tim
 siirrot 	
 , 	
 myös 	
@@ -45,13 +45,13 @@ katsottava
 eteenpäin 	
 . 	
  	
-" 	pro
+" 	
 Windows 	pro
 9:llä 	pro
-" 	pro
+" 	
 ei 	
 ole 	
-tulevaisuutta 	
+tulevaisuutta 	tim
 , 	
 mikäli 	
 Microsoft 	org
@@ -221,8 +221,8 @@ huhtikuun 	tim
 Build-konferenssissa 	event
 . 	
  	
-Siihen 	
-saakka 	
+Siihen 	tim
+saakka 	tim
 kaikki 	
 on 	
 huhupuhetta 	
@@ -454,7 +454,7 @@ streaming-palvelu
 Netflix 	org
 kertoo 	
 saavansa 	
-vihdoin 	
+vihdoin 	tim
 aisoihin 	
 pulman 	
 , 	
@@ -1267,7 +1267,7 @@ mukaisesti
 <PARAGRAPH> 	
 SteamOS 	pro
 on 	
-aiemminkin 	
+aiemminkin 	tim
 ollut 	
 saatavilla 	
 non-uefi-järjestelmille 	misc
@@ -1509,10 +1509,10 @@ tulevat
 koodekin 	
 piiriin 	
 nyt 	tim
-tämän 	tim
+tämän 	btim
 vuoden 	tim
-alusta 	
-alkaen 	
+alusta 	tim
+alkaen 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -1526,7 +1526,7 @@ mukavaa
 vaihtelua 	
 käyttäjille 	
 yhtiön 	
-viimeaikaisiin 	
+viimeaikaisiin 	tim
 edesottamuksiin 	
 verrattuna 	
 . 	
@@ -1538,7 +1538,7 @@ lukuisat
 käyttäjät 	
 raivostuivat 	
 Googlelle 	org
-aivan 	
+aivan 	tim
 hiljattain 	tim
 , 	
 kun 	
@@ -1608,8 +1608,8 @@ Windows 	pro
 <INGRESS> 	
 Kun 	
 Mozilla-johtaja 	misc
-vuosia 	
-sitten 	
+vuosia 	tim
+sitten 	tim
 ennakoi 	
 projektista 	
 mittavaa 	
@@ -1640,7 +1640,7 @@ Mozilla 	org
 on 	
 jälleen 	
 lykännyt 	
-tuonnemmaksi 	
+tuonnemmaksi 	tim
 Firefox-selaimensa 	pro
 versiota 	
 , 	
@@ -1685,7 +1685,7 @@ ilmestymässä
 18 	tim
 \ 	tim
 . 	tim
-tim 	
+	tim
 maaliskuuta 	tim
 . 	
  	
@@ -1738,7 +1738,7 @@ laaja
 projekti 	
 . 	
  	
-Viimeisin 	
+Viimeisin 	tim
 viivästys 	
 näyttää 	
 johtuvan 	
@@ -1757,7 +1757,7 @@ bugeja
 Firefox 	pro
 on 	
 kyllä 	
-pitkään 	
+pitkään 	tim
 toiminut 	
 Windows 	pro
 8:ssa 	pro
@@ -1971,7 +1971,7 @@ tarjota
 muun 	
 muassa 	
 lähes 	
-tosiaikaista 	
+tosiaikaista 	tim
 ja 	
 ultra 	misc
 hd 	misc
@@ -2079,7 +2079,7 @@ punainen
 vaate 	
 tv-sarjoja 	
 ja 	
-elokuvia 	tim
+elokuvia 	
 suoratoistona 	
 tarjoavalle 	
 Netflixille 	org
@@ -2668,7 +2668,7 @@ sijaan
 kehon 	
 toimintaa 	
 tarkkaillaan 	
-ympärivuorokauden 	
+ympärivuorokauden 	tim
 , 	
 ja 	
 älypuhelimet 	
@@ -2788,19 +2788,19 @@ Calendarissa 	pro
 eivät 	
 päässeet 	
 sisään 	
-noin 	
-25 	
-minuuttiin 	
+noin 	tim
+25 	tim
+minuuttiin 	tim
 . 	
  	
 Joka 	
 kymmenes 	
 kärsi 	
 viasta 	
-jopa 	
-noin 	
-tunnin 	
-ajan 	
+jopa 	tim
+noin 	tim
+tunnin 	tim
+ajan 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -2858,10 +2858,10 @@ lähti
 linjalla 	
 oleviin 	
 palveluihin 	
-seuraavan 	
-15 	
-minuutin 	
-aikana 	
+seuraavan 	tim
+15 	tim
+minuutin 	tim
+aikana 	tim
 jättäen 	
 käyttäjien 	
 pyynnöt 	
@@ -2904,9 +2904,9 @@ kunnollista
 konfiguraatiota 	
 . 	
  	
-Noin 	
-puoli 	
-tuntia 	
+Noin 	tim
+puoli 	tim
+tuntia 	tim
 ongelmien 	
 alkamisesta 	
 suurin 	
@@ -2934,7 +2934,7 @@ väärien
 asetusten 	
 lähtemisen 	
 jakeluun 	
-vastedes 	
+vastedes 	tim
 . 	
  	
 <HEADLINE> 	
@@ -2982,8 +2982,8 @@ illalla
 merkillisen 	
 laajan 	
 ja 	
-melko 	
-pitkäkestoisen 	
+melko 	tim
+pitkäkestoisen 	tim
 toimintahäiriön 	
 , 	
 joka 	
@@ -3057,13 +3057,13 @@ vähän
 kello 	tim
 21 	tim
 jälkeen 	tim
-Suomen 	loc
-aikaa 	
+Suomen 	tim
+aikaa 	tim
 ja 	
 päättyivät 	
-noin 	
-22.30 	
-mennessä 	
+noin 	tim
+22.30 	tim
+mennessä 	tim
 . 	
  	
 Erikoista 	
@@ -3291,7 +3291,7 @@ sillä
 että 	
 yhtiö 	
 ajattelee 	
-tulevaisuutta 	
+tulevaisuutta 	tim
 ja 	
 se 	
 vaatii 	
@@ -3332,14 +3332,14 @@ voimassa
 28. 	tim
 tammikuuta 	tim
 alkaen 	tim
-aina 	
+aina 	tim
 19. 	tim
 joulukuuta 	tim
 2014 	tim
 saakka 	tim
 . 	
  	
-Nykyisille 	
+Nykyisille 	tim
 asiakkaille 	
 se 	
 lupaa 	
@@ -3429,9 +3429,9 @@ mukaan
 se 	
 suoltaa 	
 hakutulokset 	
-alle 	
-kahdessa 	
-sekunnissa 	
+alle 	tim
+kahdessa 	tim
+sekunnissa 	tim
 riippumatta 	
 haun 	
 monimutkaisuudesta 	
@@ -3743,7 +3743,7 @@ ruutukaappauksia
 vuotanut 	
 Wzor 	org
 veikkaa 	
-varhaisempaa 	
+varhaisempaa 	tim
 julkaisua 	
 . 	
  	
@@ -3798,10 +3798,10 @@ tapahtuman
 yhteydessä 	
 oletetusti 	
 esiteltävään 	
-" 	pro
+" 	
 Windows 	pro
 9:ään 	pro
-" 	pro
+" 	
 . 	
  	
 <PARAGRAPH> 	
@@ -3831,7 +3831,7 @@ jolloin
 Microsoft 	org
 julkaisee 	
 myös 	
-kuukausittaiset 	
+kuukausittaiset 	tim
 tietoturvapäivitykset 	
 . 	
  	
@@ -3859,8 +3859,8 @@ kautta
 . 	
  	
 <PARAGRAPH> 	
-Samoihin 	
-aikoihin 	
+Samoihin 	tim
+aikoihin 	tim
 Windows 	pro
 8.1 	pro
 update 	pro
@@ -4096,8 +4096,8 @@ tutkimusten
 rahoittaja 	
 , 	
 mutta 	
-tähän 	
-saakka 	
+tähän 	tim
+saakka 	tim
 suuri 	
 osa 	
 sen 	
@@ -4315,7 +4315,7 @@ Windows 	pro
 7:ään 	pro
 , 	
 sillä 	
-pitkään 	
+pitkään 	tim
 palvelleen 	
 Windows 	pro
 XP 	pro
@@ -4524,9 +4524,9 @@ pitäen
  	
 <BODY> 	
 <PARAGRAPH> 	
-Yli 	
-vuoden 	
-ikäinen 	
+Yli 	tim
+vuoden 	tim
+ikäinen 	tim
 ja 	
 oikeusministeriön 	org
 ylläpitämä 	
@@ -4804,7 +4804,7 @@ vauhdittavan
 erästä 	
 vuoden 	tim
 upeimman 	
-elokuvan 	tim
+elokuvan 	
 tuotantoprosessia 	
 , 	
 Hein 	per
@@ -4824,7 +4824,7 @@ uskomattomilla
 erikoistehosteillaan 	
 . 	
  	
-Elokuva 	tim
+Elokuva 	
 tulleekin 	
 kahmimaan 	
 suuren 	
@@ -4834,7 +4834,7 @@ Oscar-pystejä 	misc
  	
 <PARAGRAPH> 	
 – 	
-Elokuvan 	tim
+Elokuvan 	
 erikoistehosteista 	
 pitkälti 	
 vastannut 	
@@ -4845,7 +4845,7 @@ Framestore 	org
 on 	
 työskennellyt 	
 jo 	
-pitkään 	
+pitkään 	tim
 Gravityn 	pro
 parissa 	
 , 	
@@ -4940,8 +4940,8 @@ versiota
 <BODY> 	
 <PARAGRAPH> 	
 Useat 	
-vuosien 	
-ajan 	
+vuosien 	tim
+ajan 	tim
 muuttumattomina 	
 pysyneet 	
 käyttöliittymät 	

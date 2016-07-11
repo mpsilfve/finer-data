@@ -9,7 +9,7 @@ tarkista: elokuva*
 ==================
 
 
-lyhyet adjektiivit ja adverbit??
+on tŠllŠ hetkellŠ:
 
 ajoittain, ajoittainen, ajoittaiset
 aikaisemmin, aikaisemminkin, aikaisempi, aikaisemmat, aiemmat, aiemman
@@ -36,17 +36,23 @@ tŠllšin, silloin
 heti, heti perŠŠn
 usein
 tŠmŠn jŠlkeen, tŠtŠ ennen, sitŠ ennen, sen jŠlkeen? 
-edelleen, yhŠ (pois Òniin edelleenÓ), (tsekkaa ÒyhŠÓ:n eri merkitykset kŠsin, esim. yhŠ enemmŠn)
-hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen (tsekkaa hetkisen eri merkitykset kŠsin)
 siitŠ lŠhtien, tŠstŠ lŠhtien
 yhtŠ aikaa
 joskus
 enŠŠ
 aikaisin
 saman tien
+siihen saakka
+vihdoin
+yhtŠkkiŠ
+viimeisin
+vastedes
+varhainen
+
 vielŠ (pitŠisi tehdŠ kŠsin, esim. ÒvielŠ enemmŠnÓ)
 pitkŠ (pitŠisi tehdŠ kŠsin)
-
+edelleen, yhŠ (pois Òniin edelleenÓ), (tsekkaa ÒyhŠÓ:n eri merkitykset kŠsin, esim. yhŠ enemmŠn)
+hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen (tsekkaa hetkisen eri merkitykset kŠsin)
 
 =================
 
