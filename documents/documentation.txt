@@ -9,7 +9,7 @@ tarkista: elokuva*
 ==================
 
 
-on tŠllŠ hetkellŠ:
+*** on tŠllŠ hetkellŠ:
 
 ajoittain, ajoittainen, ajoittaiset
 aikaisemmin, aikaisemminkin, aikaisempi, aikaisemmat, aiemmat, aiemman
@@ -27,7 +27,7 @@ kaikkien aikojen
 samaan aikaan, sillŠ vŠlin
 
 
-ei ole tŠllŠ hetkellŠ:
+*** ei ole tŠllŠ hetkellŠ:
 
 etukŠteen, jŠlkikŠteen
 jatkuva, jatkuvasti 
@@ -35,24 +35,38 @@ aina
 tŠllšin, silloin
 heti, heti perŠŠn
 usein
-tŠmŠn jŠlkeen, tŠtŠ ennen, sitŠ ennen, sen jŠlkeen? 
+tŠmŠn jŠlkeen, tŠtŠ ennen, sitŠ ennen, sen jŠlkeen
 siitŠ lŠhtien, tŠstŠ lŠhtien
 yhtŠ aikaa
 joskus
-enŠŠ
 aikaisin
 saman tien
 siihen saakka
 vihdoin
 yhtŠkkiŠ
 viimeisin
-vastedes
+vastedes, vastaisuudessa
 varhainen
+koskaan, ei koskaan
+ikinŠ, ei ikinŠ
+ajoissa
+vŠlittšmŠsti
+vŠliaikainen, vŠliaikaiset, vŠliaikaisesti
+ikuinen, ikuisesti
+Suomen aikaa
+uusi, uudet, uudemmat, uuteen, uusiin, uusia, uusista, uutta, uudenkin, uusienkin, uudempien
+vanha, vanhat, vanhemmat, vanhaan, vanhoihin, vanhoja, vanhoista, vanhaa, vanhankin, vanhojenkin, vanhempien
+hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen
 
-vielŠ (pitŠisi tehdŠ kŠsin, esim. ÒvielŠ enemmŠnÓ)
-pitkŠ (pitŠisi tehdŠ kŠsin)
-edelleen, yhŠ (pois Òniin edelleenÓ), (tsekkaa ÒyhŠÓ:n eri merkitykset kŠsin, esim. yhŠ enemmŠn)
-hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen (tsekkaa hetkisen eri merkitykset kŠsin)
+*** kŠy lŠpi kŠsin:
+
+enŠŠ
+vielŠ (tsekkaa eri merkitykset, esim. ÒvielŠ enemmŠnÓ)
+pitkŠ
+edelleen, yhŠ (pois Òniin edelleenÓ), (tsekkaa ÒyhŠÓ:n eri merkitykset, esim. ÒyhŠ enemmŠnÓ)
+hetkinen (monimerkityksellinen)
+samalla (monimerkityksellinen)
+ennen
 
 =================
 
