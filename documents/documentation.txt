@@ -72,7 +72,7 @@ edelleen (pois “niin edelleen”)
 yhä (tsekkaa eri merkitykset, esim. “yhä enemmän”)
 hetkinen (monimerkityksellinen)
 samalla (monimerkityksellinen, voisi poistaa kokonaan ehkä)
-ennen
+ennen, jälkeen (adpositiot, monitulkintaisuus)
 aikana (käytetään postpositiona, saattaa olla jääny merkkaamatta)
 vihdoin
 
