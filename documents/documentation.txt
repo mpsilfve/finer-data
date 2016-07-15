@@ -48,30 +48,34 @@ viimeisin
 vastedes, vastaisuudessa
 varhainen
 koskaan, ei koskaan
-ikinŠ, ei ikinŠ
 ajoissa
 vŠlittšmŠsti
 vŠliaikainen, vŠliaikaiset, vŠliaikaisesti
 ikuinen, ikuisesti
 hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen
 useimmiten
-uusi, uudet, uudemmat, uuteen, uusiin, uusia, uusista, uutta, uudenkin, uusienkin, uudempien, uusimmissa, uusissa, uudempiin, uuden, uudesta, uudemmista
-vanha, vanhat, vanhemmat, vanhaan, vanhoihin, vanhoja, vanhoista, vanhaa, vanhankin, vanhojenkin, vanhempien, vanhemmissa, vanhoissa, vanhempiin, vanhan, vanhasta, vanhemmista
+uusi, uudet, uudemmat, uuteen, uusiin, uusia, uusista, uutta, uudenkin, uusienkin, uudempien, uusimmissa, uusissa, uudempiin, uuden, uudesta, uudemmista, uusille
+vanha, vanhat, vanhemmat, vanhaan, vanhoihin, vanhoja, vanhoista, vanhaa, vanhankin, vanhojenkin, vanhempien, vanhemmissa, vanhoissa, vanhempiin, vanhan, vanhasta, vanhemmista, vanhoille
 
-*** oma koodi:
+*** oma koodi nŠille:
 
 Suomen aikaa
 
 
 *** kŠy lŠpi kŠsin:
 
+ikinŠ (monimerkityksellisyyttŠ Òei ikinŠÓ kohdalla?)
 enŠŠ
 vielŠ (tsekkaa eri merkitykset, esim. ÒvielŠ enemmŠnÓ)
 pitkŠ
-edelleen, yhŠ (pois Òniin edelleenÓ), (tsekkaa ÒyhŠÓ:n eri merkitykset, esim. ÒyhŠ enemmŠnÓ)
+edelleen (pois Òniin edelleenÓ)
+yhŠ (tsekkaa eri merkitykset, esim. ÒyhŠ enemmŠnÓ)
 hetkinen (monimerkityksellinen)
 samalla (monimerkityksellinen, voisi poistaa kokonaan ehkŠ)
 ennen
+aikana (kŠytetŠŠn postpositiona, saattaa olla jŠŠny merkkaamatta)
+vihdoin
+
 
 =================
 
@@ -134,6 +138,31 @@ tŠmŠn vuoden
 tŠllŠ hetkellŠ
 tŠhŠn asti
 
+
+********************
+
+Ilmaukset kuten ÒtŠmŠn jŠlkeenÓ tai ÒsitŠ ennenÓ merkataan, jos ne on eksplisiittisiŠ kontekstin perusteella, esim: 
+
+Nokia irtisanoi 5000 yhtišn tyšntekijŠŠ [joulun alla]. [TŠmŠn jŠlkeen] sen osakkeiden hinta nousi.
+
+JŠtetŠŠn merkkaamatta, jos ne mŠŠritellŠŠn alisteisen sivulauseen avulla, esim:
+
+Nokian osakkeiden hinta nousi sen jŠlkeen, kun 5000 yhtišn tyšntekijŠŠ irtisanottiin [joulun alla].
+
+Samoin jŠtetŠŠn merkkaamatta adverbiaalilauseet:
+
+Microsoft pystyy tarjoamaan kŠyttŠjŠlle tietoja ja palveluita ennen kuin asiakas tietŠŠ itse niitŠ tarvitsevansa.
+
+Òadverbiaalilause
+Adverbiaalilause on adverbiaalikonjunktion sisŠltŠvŠ adverbiaalina toimiva lause, esim. Lapsi sŠikŠhti, kun hŠn nŠki joulupukin; Vaikka sataisi kaatamalla, lŠhden joka tapauksessa lenkille (È ¤ 1111Ğ).Ó
+
+
+
+
+
+
+
+============================
 
 Current entity categories:
 

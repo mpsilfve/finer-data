@@ -5025,7 +5025,7 @@ X. 	pro
 Mutta 	
 julkaistaanko 	
 sitä 	
-ikinä 	
+ikinä 	tim
 ? 	
  	
 <BODY> 	
@@ -5123,7 +5123,7 @@ matkaviestinlaitteissa
 ennen 	tim
 31.12 	tim
 . 	tim
-tim 	
+	tim
 2015 	tim
 . 	
  	
@@ -5158,7 +5158,7 @@ internetissä
 mutta 	
 laitteita 	
 ei 	
-ikinä 	
+ikinä 	tim
 nähdä 	
 . 	
  	
@@ -5206,7 +5206,7 @@ siirtyminen
 Nokialta 	org
 Microsoftille 	borg
 on 	
-parhaillaan 	
+parhaillaan 	tim
 käynnissä 	
 . 	
  	
@@ -6168,7 +6168,7 @@ myynti
 säilyy 	
 DNA:lla 	org
 ”ainakin 	
-toistaiseksi” 	
+toistaiseksi” 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6398,7 +6398,7 @@ Nokian 	org
 pitäisi 	
 ylittää 	
 kvartaalin 	tim
-aikana 	
+aikana 	tim
 10 	
 miljoonan 	
 raja 	
@@ -6792,7 +6792,7 @@ hyppäsi
 hänen 	
 silmilleen 	
 heti 	
-aamutuimaan 	
+aamutuimaan 	tim
 . 	
  	
 Nokian 	org
@@ -6827,8 +6827,8 @@ kääntyi
 kalliista 	
 älypuhelimista 	
 edullisiin 	
-kesän 	
-korvilla 	
+kesän 	tim
+korvilla 	tim
 . 	
  	
 <BODY> 	
@@ -6920,8 +6920,8 @@ S3 	pro
 <PARAGRAPH> 	
 Korven 	
 mukaan 	
-yhä 	
-useammin 	
+yhä 	tim
+useammin 	tim
 kuluttajien 	
 valinta 	
 osuu 	
@@ -7222,7 +7222,7 @@ S4 	pro
 + 	pro
  	
 <HEADLINE> 	
-Vihdoinkin 	
+Vihdoinkin 	tim
 kilpailua 	
 — 	
 satelliittimokkula 	
@@ -7235,7 +7235,7 @@ puhelinverkkojenulkopuolelle
  	
 <INGRESS> 	
 Satelliittiyritys 	
-Iridium 	
+Iridium 	org
 ei 	
 halua 	
 jättää 	
@@ -7370,8 +7370,8 @@ esimerkiksi
 150 	
 sähköpostia 	
 , 	
-15 	
-puheminuuttia 	
+15 	tim
+puheminuuttia 	tim
 ja 	
 tietyn 	
 määrän 	
@@ -7897,7 +7897,7 @@ Asha-laiteperheeseen 	pro
  	
 Nokia 	org
 on 	
-pitkään 	
+pitkään 	tim
 painottanut 	
 kontekstiriippuvuutta 	
 matkapuhelinten 	
@@ -8314,7 +8314,7 @@ syyskuuta 	tim
 alkaen 	tim
 hinta 	
 tippuu 	
-nykyisestä 	
+nykyisestä 	tim
 2,8 	
 sentistä 	
 minuutilta 	tim
@@ -8830,9 +8830,9 @@ päästä 	tim
 Tietojen 	
 pelastamiseen 	
 on 	
-saman 	
-verran 	
-aikaa 	
+saman 	tim
+verran 	tim
+aikaa 	tim
 . 	
  	
 <BODY> 	
