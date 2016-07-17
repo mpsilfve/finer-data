@@ -26,9 +26,6 @@ pian
 kaikkien aikojen
 samaan aikaan, sillŠ vŠlin
 
-
-*** ei ole tŠllŠ hetkellŠ:
-
 etukŠteen, jŠlkikŠteen
 jatkuva, jatkuvasti 
 aina
@@ -57,6 +54,15 @@ useimmiten
 uusi, uudet, uudemmat, uuteen, uusiin, uusia, uusista, uutta, uudenkin, uusienkin, uudempien, uusimmissa, uusissa, uudempiin, uuden, uudesta, uudemmista, uusille
 vanha, vanhat, vanhemmat, vanhaan, vanhoihin, vanhoja, vanhoista, vanhaa, vanhankin, vanhojenkin, vanhempien, vanhemmissa, vanhoissa, vanhempiin, vanhan, vanhasta, vanhemmista, vanhoille
 
+ajoissa
+aikansa
+parhaillaan
+
+
+*** ei ole tŠllŠ hetkellŠ:
+
+
+
 *** oma koodi nŠille:
 
 Suomen aikaa
@@ -75,6 +81,8 @@ samalla (monimerkityksellinen, voisi poistaa kokonaan ehkŠ)
 ennen, jŠlkeen (adpositiot, monitulkintaisuus)
 aikana (kŠytetŠŠn postpositiona, saattaa olla jŠŠny merkkaamatta)
 vihdoin
+kohta (monitulk.)
+hetki*
 
 
 =================
