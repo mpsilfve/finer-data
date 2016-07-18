@@ -58,10 +58,11 @@ ajoissa
 aikansa
 parhaillaan
 
+silloin tällöin
 
 *** ei ole tällä hetkellä:
 
-silloin tällöin
+
 
 
 *** oma koodi näille:
