@@ -80,11 +80,12 @@ edelleen (pois “niin edelleen”)
 yhä (tsekkaa eri merkitykset, esim. “yhä enemmän”)
 hetkinen (monimerkityksellinen)
 samalla (monimerkityksellinen, voisi poistaa kokonaan ehkä)
-ennen, jälkeen (adpositiot, monitulkintaisuus)
-aikana (käytetään postpositiona, saattaa olla jääny merkkaamatta)
-vihdoin
-kohta (monitulk.)
+ennen, jälkeen, alla (adpositiot, monitulkintaisuus)
+aikana, ajan, mennessä, sisällä, saakka, päästä, lähtien (käytetään postpositiona, saattaa olla jääny merkkaamatta)
+vihdoin (en ehkä merkkaisi sittenkään, vert. “lopultakin”, “vihdoin ja viimein”)
+kohta, juuri (monitulk.)
 hetki*
+elokuv*
 
 
 =================

@@ -25172,9 +25172,9 @@ kirjoitti
 <HEADLINE> 	
 Oulussa 	loc
 suunniteltu 	
-" 	misc
+" 	
 Putin-puhelin 	misc
-" 	misc
+" 	
 YotaPhone 	pro
 tulee 	
 Suomeen 	loc
@@ -25601,7 +25601,7 @@ toimitettiin
 miljoonaa 	
 matkapuhelinta 	
 vuoden 	tim
-aikana 	
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -26048,7 +26048,7 @@ hetkellä 	tim
 se 	
 pystyttää 	
 4G-tukiasemia 	
-kesällä 	
+kesällä 	tim
 myönnetyn 	
 fdd 	
 / 	
@@ -26463,7 +26463,7 @@ käsittelyaikaa
 helmikuun 	tim
 5. 	tim
 päivää 	tim
-saakka 	
+saakka 	tim
 , 	
 johon 	
 mennessä 	
@@ -27185,7 +27185,7 @@ Facebookin 	org
 sponsoroima 	
 Internet 	org
 . 	org
-org 	
+	org
 org 	org
 . 	
  	
@@ -27199,7 +27199,7 @@ maa
 jossa 	
 Internet 	org
 . 	org
-org 	
+	org
 orgin 	org
 palvelu 	
 avataan 	
@@ -27221,7 +27221,7 @@ maassa
 <PARAGRAPH> 	
 Internet 	org
 . 	org
-org 	
+	org
 org 	org
 tähtää 	
 internetin 	
@@ -27255,10 +27255,10 @@ datamaksuja
 . 	
  	
 <PARAGRAPH> 	
-Internet 	pro
-. 	pro
-pro 	
-orgin 	pro
+Internet 	org
+. 	org
+	org
+orgin 	org
 sovellus 	
 tuo 	
 käyttäjien 	
@@ -27313,7 +27313,7 @@ kertomaan
 missä 	
 Internet 	pro
 . 	pro
-pro 	
+pro 	pro
 orgin 	pro
 sovellus 	
 otetaan 	
@@ -27326,10 +27326,10 @@ Zuckerberg 	per
 ennusti 	
 , 	
 että 	
-tulevaisuudessa 	
+tulevaisuudessa 	tim
 Internet 	pro
 . 	pro
-pro 	
+	pro
 orgin 	pro
 kaltaisesta 	
 sovelluksesta 	
@@ -27369,7 +27369,7 @@ tiedot
 että 	
 se 	
 havittelisi 	
-takavuosien 	
+takavuosien 	tim
 puhelinsuosikkia 	
 valmistanutta 	
 Blackberryä 	org
@@ -27661,7 +27661,7 @@ tänään 	tim
  	
 Se 	
 kääntää 	
-reaaliajassa 	
+reaaliajassa 	tim
 sekä 	
 puhetta 	
 että 	
@@ -27714,7 +27714,7 @@ erityisesti
 sovelluksen 	
 kykyä 	
 toimia 	
-reaaliaikaisena 	
+reaaliaikaisena 	tim
 tulkkina 	
 kahden 	
 ihmisen 	
@@ -28130,7 +28130,7 @@ joka 	tim
 kuukausi 	tim
 puolen 	btim
 vuoden 	tim
-ajan 	
+ajan 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -28626,7 +28626,7 @@ on
 määrä 	
 vastata 	
 huomenna 	tim
-keskiviikkona 	btim
+keskiviikkona 	tim
 lahjuskysymyksiin 	
 valtion 	
 valvontakomitean 	
@@ -28917,7 +28917,7 @@ sata
 miljoonaa 	
 tammikuun 	tim
 loppuun 	tim
-mennessä 	
+mennessä 	tim
 . 	
  	
 Kasvua 	
@@ -29139,7 +29139,7 @@ palautettavissa
 " 	
 kahden 	tim
 viikon 	tim
-ajan 	
+ajan 	tim
 , 	
 mikäli 	
 niistä 	
@@ -29194,7 +29194,7 @@ samalla
 tavalla 	
 kahden 	tim
 viikon 	tim
-sisällä 	
+sisällä 	tim
 sähköisen 	
 kuitin 	
 vastaanottamisesta 	
@@ -29232,7 +29232,7 @@ pelata
 läpi 	
 kahden 	tim
 viikon 	tim
-aikana 	
+aikana 	tim
 ja 	
 silti 	
 saada 	
@@ -29266,7 +29266,7 @@ voisi
 koskea 	
 muun 	
 muassa 	
-elokuvia 	tim
+elokuvia 	
 ja 	
 musiikkia 	
 . 	
@@ -29293,8 +29293,8 @@ tuotteeseen
 , 	
 ei 	
 siitä 	
-pitkällä 	
-aikavälillä 	
+pitkällä 	tim
+aikavälillä 	tim
 tule 	
 mitään 	
 . 	
@@ -29958,7 +29958,7 @@ voi
 olla 	
 parin 	tim
 vuoden 	tim
-päästä 	
+päästä 	tim
 historiaa 	
 . 	
  	
@@ -30192,9 +30192,9 @@ Ben 	per
 Wood 	per
 varoittaa 	
 luottamasta 	
-liian 	
-aikaisin 	
-uusiin 	
+liian 	tim
+aikaisin 	tim
+uusiin 	btim
 akkukeksintöihin 	
 . 	
  	
@@ -30342,7 +30342,7 @@ jo
 syyskuun 	tim
 11. 	tim
 päivään 	tim
-mennessä 	
+mennessä 	tim
 , 	
 mutta 	
 Time 	org
@@ -30357,7 +30357,7 @@ toimitti
 ne 	
 juuri 	
 joulun 	tim
-alla 	
+alla 	tim
 . 	
  	
 FCC 	org
@@ -30795,7 +30795,7 @@ ne
 ovat 	
 hakeneet 	
 150 	tim
-– 	
+– 	tim
 200 	tim
 päivää 	tim
 lisäaikaa 	
@@ -30841,7 +30841,7 @@ mukaan
 siitä 	
 seuraisi 	
 kuukauden 	tim
-mittainen 	
+mittainen 	tim
 hullunmylly 	
 , 	
 kun 	
@@ -31625,7 +31625,7 @@ yhteyksiään
 kertaa 	
 12 	tim
 vuoden 	tim
-aikana 	
+aikana 	tim
 ja 	
 tarjoavan 	
 yhteyksiään 	
@@ -31952,8 +31952,8 @@ viikon 	tim
 ajan 	tim
 . 	
  	
-Tuona 	
-aikana 	
+Tuona 	tim
+aikana 	tim
 moni 	
 on 	
 ehtinyt 	
@@ -32337,7 +32337,7 @@ SAE 	misc
  	
 <PARAGRAPH> 	
 Infoneticsin 	org
-viimevuotisessa 	
+viimevuotisessa 	tim
 globaalien 	
 palvelutoimittajien 	
 kyselyssä 	
@@ -32499,10 +32499,10 @@ kirjoitti
 . 	
  	
 <PARAGRAPH> 	
-360 	pro
-. 	pro
-pro 	
-here-yritysblogin 	pro
+360 	org
+. 	org
+	org
+here-yritysblogin 	org
 mukaan 	
 päivityksessä 	
 on 	
@@ -32667,12 +32667,12 @@ avaa
 ensimmäisen 	
 Mi 	pro
 . 	pro
-pro 	
+	pro
 com-verkkokauppansa 	pro
 Yhdysvalloissa 	loc
 muutaman 	tim
 kuukauden 	tim
-sisällä 	
+sisällä 	tim
 . 	
  	
 Ensin 	
@@ -32904,7 +32904,7 @@ kirjoitti
 Samsung 	org
 on 	
 jo 	
-pitkään 	
+pitkään 	tim
 tukenut 	
 nfc-teknologiaa 	
 , 	
@@ -33109,7 +33109,7 @@ kestävän
 vettä 	
 30 	tim
 minuutin 	tim
-ajan 	
+ajan 	tim
 metrin 	
 syvyydessä 	
 sekä 	
@@ -33266,7 +33266,7 @@ matkapuhelinten
 omistajat 	
 saivat 	
 eilen 	tim
-keskiviikkona 	btim
+keskiviikkona 	tim
 laillisen 	
 oikeuden 	
 vapautua 	
@@ -33485,7 +33485,7 @@ vasta
 helmikuun 	tim
 19. 	tim
 päivän 	tim
-jälkeen 	
+jälkeen 	tim
 julkistetuista 	
 puhelimista 	
 . 	
@@ -33633,7 +33633,7 @@ paikkeilla
 Meillä 	
 oli 	
 syksyn 	tim
-aikana 	
+aikana 	tim
 muutamia 	
 hinnoitteluun 	
 liittyviä 	
@@ -33689,7 +33689,7 @@ on
 parin 	tim
 viime 	tim
 kuukauden 	tim
-aikana 	
+aikana 	tim
 järjestänyt 	
 kampanjoita 	
 , 	
@@ -33829,8 +33829,8 @@ toimituksien
 on 	
 tarkoitus 	
 alkaa 	
-ensi 	
-vuoden 	tmi
+ensi 	tim
+vuoden 	tim
 huhti—kesäkuussa 	tim
 . 	
  	
@@ -33848,7 +33848,7 @@ kymmenes
 päivitys 	
 julkistettiin 	
 joulun 	tim
-alla 	
+alla 	tim
 . 	
  	
 <HEADLINE> 	
@@ -33991,7 +33991,7 @@ myynti
 alkaa 	
 maaliskuun 	tim
 loppuun 	tim
-mennessä 	
+mennessä 	tim
 ja 	
 Pohjois-Amerikassa 	loc
 , 	
@@ -34333,7 +34333,7 @@ etenee
 Facebookin 	org
 Internet 	borg
 . 	org
-org 	
+	org
 org 	org
 auki 	
 Intiassa 	loc
@@ -34346,7 +34346,7 @@ Facebookin 	org
 tukema 	
 Internet 	org
 . 	org
-org 	
+	org
 org 	org
 on 	
 laajentanut 	
@@ -34368,7 +34368,7 @@ Intiassa 	loc
 Facebookin 	org
 Internet 	borg
 . 	org
-org 	
+	org
 orgin 	org
 yhteistyöoperaattori 	
 on 	
@@ -34444,7 +34444,7 @@ Telecom 	org
 <PARAGRAPH> 	
 Internet 	org
 . 	org
-org 	
+	org
 org 	org
 avasi 	
 ensimmäisen 	
