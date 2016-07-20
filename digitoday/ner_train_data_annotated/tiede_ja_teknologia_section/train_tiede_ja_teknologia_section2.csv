@@ -11301,8 +11301,8 @@ ISS-avaruusasemalle 	pro
 – 	
 alkoi 	
 mainiosti 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 lähtöä 	
@@ -11417,9 +11417,9 @@ että
 kommentoijat 	
 eivät 	
 ainakaan 	
-tämän 	
-uutisen 	
-kirjoitushetkellä 	
+tämän 	tim
+uutisen 	tim
+kirjoitushetkellä 	tim
 olleet 	
 kaivaneet 	
 kommentista 	
@@ -11544,7 +11544,7 @@ kappaletta
 Vestaa 	loc
 vuosina 	tim
 2011 	tim
-ja 	
+ja 	tim
 2012. 	tim
 Ceresin 	loc
 luo 	
@@ -11622,14 +11622,14 @@ vähäinen
 ja 	
 kiihdytys 	
 kestää 	
-kauan 	
+kauan 	tim
 , 	
 mutta 	
 moottoria 	
 voi 	
 käyttää 	
 ratkaisevasti 	
-pidempään 	
+pidempään 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -11639,7 +11639,7 @@ työntöaikaa
 on 	
 kertynyt 	
 jo 	
-yhteensä 	
+yhteensä 	tim
 viisi 	tim
 vuotta 	tim
 , 	
@@ -11647,8 +11647,8 @@ mikä
 on 	
 Nasan 	org
 mukaan 	
-paljon 	
-enemmän 	
+paljon 	tim
+enemmän 	tim
 kuin 	
 yhdelläkään 	
 toisella 	
@@ -11830,7 +11830,7 @@ Venuksen 	loc
 pinnalle 	
 lähetetyistä 	
 luotaimista 	
-pisimpään 	
+pisimpään 	tim
 polttavassa 	
 kuumuudessa 	
 on 	
@@ -12123,7 +12123,7 @@ Vehicle 	pro
 -robottirahtialus 	pro
 tuhoutui 	
 sunnuntaina 	tim
-illalla 	
+illalla 	tim
 ilmakehässä 	
 lähdettyään 	
 ISS-avaruusasemalta 	pro
@@ -12705,9 +12705,9 @@ SpaceX 	org
 on 	
 laukaisemassa 	
 puolenyön 	tim
-jälkeen 	
-Suomen 	loc
-aikaa 	
+jälkeen 	tim
+Suomen 	btim
+aikaa 	tim
 raketin 	
 . 	
  	
