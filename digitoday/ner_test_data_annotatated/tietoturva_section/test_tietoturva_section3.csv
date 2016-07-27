@@ -437,10 +437,7 @@ on
 päivittänyt 	
 web-palvelunsa 	
 versionumeroon 	
-0.1 	
-. 	
- 	
-4481 	
+0.1.4481	pro
 , 	
 jossa 	
 aukko 	
@@ -518,8 +515,7 @@ että
 palvelun 	
 uusista 	btim
 käyttäjistä 	
-87 	
-896 	
+87 896	
 on 	
 naisia 	
 . 	
@@ -535,8 +531,8 @@ on
 ollut 	
 julkisuudessa 	
 runsaasti 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 tietomurtautujat 	
@@ -753,10 +749,7 @@ oleva
 F-Secure  	pro
 Gatekeeper  	pro
 -ajuri  	pro
-fsgk  	bpro
-.  	pro
-pro 	
-sys  	pro
+fsgk.sys	bpro
 . 	
  	
 Haavoittuvuuden 	
@@ -778,10 +771,7 @@ kautta
 Ajuri 	
 päivittyy 	
 versioon 	
-10.80 	
-. 	
- 	
-110.65 	
+10.80.110.65	
 . 	
  	
 <PARAGRAPH> 	
@@ -1008,8 +998,7 @@ siltä
 oli 	
 murrettu 	
 noin 	
-50 	
-000 	
+50 000	
 kuljettajan 	
 henkilökohtaiset 	
 tiedot 	
@@ -1084,10 +1073,7 @@ tueksi
 Hyökkäyssivusto 	
 käytti 	
 domain-nimeä 	
-electronicfrontierfoundation  	pro
-.  	pro
-pro 	
-org  	pro
+electronicfrontierfoundation.org	pro
 , 	
 kun 	
 amerikkalaisen 	
@@ -1095,10 +1081,7 @@ organisaation
 virallinen 	
 nettiosoite 	
 on 	
-eff  	pro
-.  	pro
-pro 	
-org  	pro
+eff.org	pro
 . 	
  	
 Näppäinnauhuria 	
@@ -1450,9 +1433,7 @@ eroon
 Kaikkia 	
 muiden 	
 valmistajien 	
-libuTP  	pro
-:  	pro
-tä  	pro
+libuTP:tä	pro
 käyttäviä 	
 sovelluksia 	
 ei 	
@@ -1486,9 +1467,7 @@ Tixati  	pro
 ja 	
 Transmission  	pro
 käyttävät 	
-libuTP  	pro
-:  	pro
-tä  	pro
+libuTP:tä	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -1578,8 +1557,7 @@ ja
 ottaa 	
 haltuunsa 	
 peräti 	
-500 	
-000 	
+500 000	
 Facebook-tiliä 	
 vuosien  	tim
 2008  	tim
@@ -1593,19 +1571,17 @@ Wallace  	per
 voi 	
 maksimissaan 	
 saada 	
-kolmen 	
-vuoden 	
+kolmen 	tim
+vuoden 	tim
 vankeusrangaistuksen 	
 ja 	
 joutua 	
 maksamaan 	
-250 	
-000 	
+250 000	
 dollaria 	
 ( 	
 noin 	
-220 	
-000 	
+220 000	
 euroa 	
 ) 	
 sakkoja 	
@@ -2143,9 +2119,6 @@ pykälä
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Luitko 	
 listaa 	
 ? 	
@@ -2293,9 +2266,7 @@ Yritykset
 jotka 	
 käyttävät 	
 suomalaisia 	
-. 	
- 	
-fi-sähköposteja 	
+.fi-sähköposteja 	
 markkinointiin 	
 , 	
 syyllistyvät 	
@@ -2331,9 +2302,6 @@ yrityksiä
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Levititkö 	
 listaa 	
 ? 	
@@ -2366,9 +2334,7 @@ että
 oikeus 	
 voi 	
 tulkita 	
-. 	
- 	
-torrent-tiedoston 	
+.torrent-tiedoston 	
 levittämisen 	
 loukkaavaksi 	
 , 	
@@ -3071,14 +3037,12 @@ Life  	org
 Media  	org
 aikoo 	
 maksaa 	
-500 	
-000 	
+500 000	
 Kanadan  	loc
 dollaria 	
 ( 	
 noin 	
-327 	
-000 	
+327 000	
 euroa 	
 ) 	
 murtautujien 	
@@ -3366,10 +3330,7 @@ määräsi
 teleoperaattorit 	
 estämään 	
 kokonaan 	
-Wikipedia  	pro
-.  	pro
-pro 	
-ru-sivut  	pro
+Wikipedia.ru-sivut	pro
 , 	
 koska 	
 sivuston 	
@@ -3496,10 +3457,7 @@ hallintoa
 . 	
  	
 <PARAGRAPH> 	
-Wikipedia  	pro
-.  	pro
-pro 	
-run  	pro
+Wikipedia.run	pro
 estäminen 	
 tulee 	
 viikkoa  	tim
@@ -4083,9 +4041,7 @@ päivitetty
 . 	
  	
 <PARAGRAPH> 	
-KB3080149  	pro
-:  	pro
-n  	pro
+KB3080149:n	pro
 lisätiedoissa 	
 kerrotaan 	
 , 	
@@ -4659,9 +4615,7 @@ Noel  	per
 you 	
 can 	
 admit 	
-it 	
-' 	
-s 	
+it's	
 real 	
 now 	
 ( 	
@@ -4965,7 +4919,8 @@ Madison  	pro
 laajeni 	
 Suomeen  	loc
 vuonna  	tim
-2012.  	tim
+2012	tim
+.	
  	
 <PARAGRAPH> 	
 Tämä 	
@@ -4979,10 +4934,7 @@ sillä
 tähän 	
 lukeutuvat 	
 vain 	
-. 	
- 	
-fi 	
--päätettä 	
+.fi-päätettä	
 käyttävät 	
 osoitteet 	
 . 	
@@ -4994,13 +4946,8 @@ Gmailin  	pro
 Hotmailin  	pro
 tai 	
 muiden 	
-. 	
- 	
-com- 	
-ja 	
-. 	
- 	
-net-päätteisten 	
+com-	
+.net-päätteisten	
 sähköpostien 	
 käyttäjät 	
 eivät 	
@@ -5021,8 +4968,7 @@ liikkuu
 tällä  	tim
 hetkellä  	tim
 noin 	
-370 	
-000 	
+370 000	
 salasanaa 	
 sisältävä 	
 lista 	
@@ -5482,7 +5428,7 @@ ovatkaan
 , 	
 mutta 	
 kuitenkin 	
-vähintään 	
+vähintään 	tim
 18-vuotiana  	tim
 . 	
  	
@@ -5494,7 +5440,9 @@ joka
 12 	
 ilmoitti 	
 syntymävuodekseen 	
-1978.  	tim
+1978	tim
+.	
+	
 Onkohan 	
 tuona  	tim
 vuonna  	tim
@@ -5642,8 +5590,7 @@ tuhansia
 suomalaisnimiä 	
 , 	
 kertoo 	
-Viestintävirast  	org
-o  	org
+Viestintävirasto	org
 . 	
  	
 <PARAGRAPH> 	
@@ -5929,15 +5876,10 @@ Tietokannasta
 löytyy 	
 muun 	
 muassa 	
-15 	
-000 	
-. 	
- 	
-gov- 	
+15 000	
+.gov-	
 ja 	
-. 	
- 	
-mil-päätteistä 	
+.mil-päätteistä	
 osoitetta 	
 , 	
 jotka 	
@@ -6414,11 +6356,8 @@ Bluetooth  	pro
 Smart  	pro
 Ready  	pro
 , 	
-802.15  	pro
-.  	pro
-pro 	
-4  	pro
-ja 	
+802.15.4	pro
+ja	
 Weave  	pro
 -protokollia  	pro
 . 	
@@ -6619,9 +6558,7 @@ Microsoft  	org
 rikkoi 	
 säännöllisen 	
 päivityssyklinsä 	
-IE  	pro
-:  	pro
-n  	pro
+IE:n	pro
 pikapaikalla 	
 . 	
  	
@@ -6916,8 +6853,7 @@ Sivutykkäyksiä
 oli 	
 kertynyt 	
 yli 	
-12 	
-000 	
+12 000	
 . 	
  	
 <PARAGRAPH> 	
@@ -6929,8 +6865,7 @@ viime  	tim
 kuussa  	tim
 nähdystä 	
 Tekniikkamaailman  	misc
-arvonn 	
-asta 	
+arvonnasta	
 . 	
  	
 Arvonnan 	
@@ -6956,18 +6891,21 @@ kampanja
 keräsi 	
 sivulle 	
 yli 	
-24 	
-000 	
+24 000	
 tykkääjää 	
 . 	
  	
 <PARAGRAPH> 	
 Kuten 	
-”Tekniikkamaailman”  	misc
+“	
+Tekniikkamaailman	org
+“	
 tapauksessa 	
 , 	
 myöskään 	
-”Tekniikkakeskus”  	misc
+“	
+Tekniikkakeskus	org
+“	
 ei 	
 ilmoita 	
 ylläpitäjiensä 	
@@ -7021,8 +6959,10 @@ ihmisiä
 osallistumaan 	
 KitchenAid-tuotepaketin  	pro
 , 	
-”täydellisen 	
-Apple-paketin”  	misc
+“	
+täydellisen	
+Apple-paketin	misc
+“	
 , 	
 Samsungin  	org
 älytelevision 	
@@ -7103,8 +7043,7 @@ langattomasta
 Belkin  	pro
 N600  	pro
 dual-band  	pro
-N  	pro
-+  	pro
+N+	pro
 -reitittimestä  	pro
 , 	
 josta 	
@@ -7211,10 +7150,7 @@ sen
 laiteohjelmiston 	
 versio 	
 on 	
-2.10 	
-. 	
- 	
-17 	
+2.10.17	
 tai 	
 mahdollisesti 	
 aikaisempi  	tim
@@ -7450,7 +7386,7 @@ käyttömukavuuden
 kehitysohjelmaan 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 käyttäjän 	
 tietokone 	
 lähettää 	
