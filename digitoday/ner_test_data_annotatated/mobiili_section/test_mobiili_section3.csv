@@ -1476,9 +1476,7 @@ kädessään
 ase 	
 , 	
 joka 	
-KPRC-TV  	org
-:  	org
-n  	org
+KPRC-TV:n	org
 mukaan 	
 laukesi 	
 vahingossa 	
@@ -1529,8 +1527,7 @@ viime  	tim
 vuonna  	tim
 meksikolainen 	
 mies 	
-kuo 	
-li 	
+kuoli	
 , 	
 kun 	
 hän 	
@@ -1612,8 +1609,8 @@ IFA-kulutuselektroniikkamessuilla  	event
 <PARAGRAPH> 	
 Julkistustilaisuudessa 	
 yhtiön 	
-kuluttajaliiketoiminnan 	
-johtaja 	
+kuluttajaliiketoiminnan 	tit
+johtaja 	tit
 Richard  	per
 Yu  	per
 vertasi 	
@@ -1980,8 +1977,7 @@ sen
 nimeksi 	
 tuli 	
 Xperia  	pro
-Z3  	pro
-+  	pro
+Z3+	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -1993,20 +1989,16 @@ aikoo
 ilmeisesti 	
 loikata 	
 Euroopassakin  	loc
-Z4  	pro
-:  	pro
-n  	pro
+Z4:n	pro
 yli 	
 suoraan 	
-Z5  	pro
-: 	
-een 	
+Z5:een	pro
 . 	
  	
 Tänään  	tim
 viideltä  	tim
 iltapäivällä  	tim
-Suomen  	tim
+Suomen  	btim
 aikaa  	tim
 alkavassa 	
 tilaisuudessa 	
@@ -2138,8 +2130,7 @@ löytyy
 muun 	
 muassa 	
 Xperablogin  	org
-ve 	
-rkkosivuilta 	
+verkkosivuilta	
 . 	
  	
 <HEADLINE> 	
@@ -2240,17 +2231,13 @@ akku
  	
 " 	
 IPhone  	pro
-6S  	pro
-:  	pro
-ssä  	pro
+6S:ssä	pro
 " 	
 on 	
 huhun 	
 mukaan 	
 1715 	
-mAh 	
-: 	
-n 	
+mAh:n	
 akku 	
 , 	
 kun 	
@@ -2259,9 +2246,7 @@ iPhone  	pro
 6:ssa  	pro
 on 	
 1810 	
-mAh 	
-: 	
-n 	
+mAh:n	
 akku 	
 . 	
  	
@@ -2272,9 +2257,7 @@ Plussassa  	pro
 " 	
 olisi 	
 2750 	
-mAh 	
-: 	
-n 	
+mAh:n	
 akku 	
 , 	
 kun 	
@@ -2284,9 +2267,7 @@ iPhone  	pro
 Plussassa  	pro
 on 	
 2910 	
-mAh 	
-: 	
-n 	
+mAh:n	
 akku 	
 . 	
  	
@@ -2339,9 +2320,7 @@ väittää
 saaneensa 	
 haltuunsa 	
 iPhone  	pro
-6S  	pro
-:  	pro
-n  	pro
+6S:n	pro
 etukotelon 	
 ja 	
 mittasi 	
@@ -2547,9 +2526,7 @@ elokuun  	tim
 myydyimmän 	
 mallin 	
 Huawei  	pro
-Y330  	pro
-:  	pro
-n  	pro
+Y330:n	pro
 jatkuvasta 	
 suosiosta 	
 . 	
@@ -2613,72 +2590,61 @@ olivat
 : 	
  	
 <PARAGRAPH> 	
-1 	
-\ 	
-. 	
+1.	
  	
 Huawei  	pro
 Y330  	pro
-2 	
-\ 	
-. 	
+	
+2.	
  	
 Samsung  	pro
 Galaxy  	pro
 J1  	pro
-3 	
-\ 	
-. 	
+	
+3.	
  	
 Apple  	pro
 iPhone  	pro
 6  	pro
-4 	
-\ 	
-. 	
+	
+4.	
  	
 Samsung  	pro
 Galaxy  	pro
 A3  	pro
-5 	
-\ 	
-. 	
+	
+5.	
  	
 Sony  	pro
 Xperia  	pro
 M4  	pro
 Aqua  	pro
-6 	
-\ 	
-. 	
+	
+6.	
  	
 Samsung  	pro
 Galaxy  	pro
 S6  	pro
-7 	
-\ 	
-. 	
+	
+7.	
  	
 Samsung  	pro
 Galaxy  	pro
 A5  	pro
-8 	
-\ 	
-. 	
+	
+8.	
  	
 Sony  	pro
 Z3  	pro
 Compact  	pro
-9 	
-\ 	
-. 	
+	
+9.	
  	
 Microsoft  	pro
 Lumia  	pro
 435  	pro
-10 	
-\ 	
-. 	
+	
+10.	
  	
 Samsung  	pro
 Galaxy  	pro
@@ -2716,9 +2682,7 @@ Kiinnostavampaa
 on 	
 , 	
 mitä 	
-top10 	
-: 	
-ssä 	
+top10:ssä	
 tapahtui 	
 kärjen 	
 alapuolella 	
@@ -2740,9 +2704,7 @@ ollenkaan
  	
 Samsung  	pro
 Galaxy  	pro
-S6  	pro
-:  	pro
-n  	pro
+S6:n	pro
 lisäksi 	
 ne 	
 ovat 	
@@ -2784,74 +2746,63 @@ oli
 : 	
  	
 <PARAGRAPH> 	
-1 	
-\ 	
-. 	
+1.	
  	
 Apple  	pro
 iPhone  	pro
 6  	pro
-2 	
-\ 	
-. 	
+	
+2.	
  	
 Samsung  	pro
 Galaxy  	pro
 Ace  	pro
 4  	pro
-3 	
-\ 	
-. 	
+	
+3.	
  	
 Apple  	pro
 iPhone  	pro
 5s  	pro
-4 	
-\ 	
-. 	
+	
+4.	
  	
 Sony  	pro
 Xperia  	pro
 M4  	pro
 Aqua  	pro
-5 	
-\ 	
-. 	
+	
+5.	
  	
 Samsung  	pro
 Galaxy  	pro
 A3  	pro
-6 	
-\ 	
-. 	
+	
+6.	
  	
 Samsung  	pro
 Galaxy  	pro
 S6  	pro
-7 	
-\ 	
-. 	
+	
+7.	
  	
 Nokia  	pro
 Lumia  	pro
 635  	pro
-8 	
-\ 	
-. 	
+	
+8.	
  	
 Samsung  	pro
 Galaxy  	pro
 J5  	pro
-9 	
-\ 	
-. 	
+	
+9.	
  	
 Microsoft  	pro
 Lumia  	pro
 640  	pro
-10 	
-\ 	
-. 	
+	
+10	
  	
 Samsung  	pro
 Galaxy  	pro
@@ -2916,74 +2867,63 @@ olivat
 : 	
  	
 <PARAGRAPH> 	
-1 	
-\ 	
-. 	
+1.	
  	
 Apple  	pro
 iPhone  	pro
 6  	pro
-2 	
-\ 	
-. 	
+	
+2.	
  	
 Samsung  	pro
 Galaxy  	pro
 S4  	pro
 Mini  	pro
-3 	
-\ 	
-. 	
+	
+3.	
  	
 Samsung  	pro
 Galaxy  	pro
 J1  	pro
-4 	
-\ 	
-. 	
+	
+4.	
  	
 Samsung  	pro
 Galaxy  	pro
 A3  	pro
-5 	
-\ 	
-. 	
+	
+5.	
  	
 Nokia  	pro
 Lumia  	pro
 635  	pro
-6 	
-\ 	
-. 	
+	
+6.	
  	
 Samsung  	pro
 Galaxy  	pro
 Trend  	pro
 Plus  	pro
-7 	
-\ 	
-. 	
+	
+7.	
  	
 Nokia  	pro
 215  	pro
-8 	
-\ 	
-. 	
+	
+8.	
  	
 Huawei  	pro
 P8  	pro
 Lite  	pro
-9 	
-\ 	
-. 	
+	
+9.	
  	
 Sony  	pro
 Xperia  	pro
 Z3  	pro
 Compact  	pro
-10 	
-\ 	
-. 	
+	
+10.	
  	
 Samsung  	pro
 Galaxy  	pro
@@ -3024,12 +2964,12 @@ ominaisuuksia
 . 	
  	
 Mutta 	
-vanhoihinkin 	
+vanhoihinkin 	tim
 laitteisiin 	
 voi 	
 lisätä 	
 älyä 	
-uusilla 	
+uusilla 	tim
 antureilla 	
 . 	
  	
@@ -3214,9 +3154,7 @@ myyntiä
  	
 <PARAGRAPH> 	
 Applen  	org
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 ja 	
 Googlen  	org
 Androidin  	pro
@@ -3307,7 +3245,7 @@ uudempia
 . 	
  	
 <PARAGRAPH> 	
-Cnet  	pro
+Cnet  	org
 ennätti 	
 tutkia 	
 kuinka 	
@@ -3649,9 +3587,7 @@ kirjoitti
 <HEADLINE> 	
 Syyte 	
 Nokia-puhelinten  	pro
-3g  	bpro
-:  	pro
-stä  	pro
+3g:stä	
 nurin 	
  	
 <DATE> 	
@@ -3895,10 +3831,7 @@ kirjoittaessa
 Tablet  	pro
 on 	
 versiossa  	pro
-1.1  	pro
-.  	pro
-pro 	
-9.26  	pro
+1.1.9.26	pro
 "  	bpro
 Eineheminlampi  	pro
 "  	pro
@@ -4084,9 +4017,6 @@ mobiilikäyttöjärjestelmissä
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Rauta 	
 riittää 	
  	
@@ -4144,9 +4074,9 @@ on
 kuvasuhteeltaan 	
 iPadista  	pro
 tuttu 	
-4 	
-: 	
-3. 	
+4:3	
+.	
+	
 Testaajan 	
 silmät 	
 ovat 	
@@ -4234,24 +4164,6 @@ päivää  	tim
 yhdellä 	
 latauksella 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-80510 	
-) 	
  	
 <PARAGRAPH> 	
 Jolla  	pro
@@ -4348,9 +4260,6 @@ osallistua
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Sovelluksia 	
 vailla 	
  	
@@ -4531,10 +4440,7 @@ sovelluksia
 jotka 	
 vaativat 	
 Android  	pro
-4.4  	pro
-.  	pro
-pro 	
-4:n  	pro
+4.4.4:n	pro
 . 	
  	
 Jollan  	org
@@ -4584,9 +4490,6 @@ testilaitteeseen
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Jolla  	org
 , 	
 jolla 	
@@ -4733,9 +4636,7 @@ yrittäessä
 , 	
 eikä 	
 pelkkää 	
-4g 	
-: 	
-tä 	
+4g:tä	
 käyttävillä 	
 puhelimilla 	
 ja 	
@@ -4855,9 +4756,7 @@ Toughpad  	pro
 FZ-G1  	pro
 . 	
  	
-VR  	org
-:  	org
-ää  	org
+VR:ää	org
 varten 	
 niihin 	
 asennettiin 	
@@ -4897,9 +4796,7 @@ liittymättömään
 <PARAGRAPH> 	
 – 	
 Noudatamme 	
-VR  	org
-:  	org
-n  	org
+VR:n	org
 tietoturvapolitiikkaa 	
 . 	
  	
@@ -5313,7 +5210,9 @@ Strike  	pro
 Peli 	
 julkaistiin 	
 kesäkuussa  	tim
-2012.  	tim
+2012	tim
+.	
+	
 Myös 	
 sitä 	
 seurannut 	
@@ -5524,8 +5423,7 @@ pyörittämistä
 varten 	
 laitteessa 	
 on 	
-5 	
-700 	
+5 700	
 milliampeeritunnin 	
 akku 	
 . 	
@@ -5656,11 +5554,8 @@ vieraili
 yli 	
 miljardi 	
 käyttäjää 	
-24  	tim
-\  	tim
-.  	tim
- 	
-elokuuta  	tim
+24.	tim
+elokuuta.	tim
 . 	
  	
 <HEADLINE> 	
