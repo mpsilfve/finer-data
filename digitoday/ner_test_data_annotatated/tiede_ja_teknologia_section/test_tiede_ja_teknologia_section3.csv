@@ -433,9 +433,7 @@ halkaisijaltaan
 Se 	
 on 	
 siis 	
-0 	
-, 	
-5–1 	
+0,5-1	
 prosenttia 	
 Pluton  	loc
 koosta 	
@@ -494,9 +492,7 @@ Horizons  	pro
 -luotain  	pro
 saavuttaisi 	
 2014  	loc
-MU69  	loc
-:  	loc
-n  	loc
+MU69:n	loc
 1.  	tim
 tammikuuta  	tim
 2019.  	tim
@@ -975,20 +971,7 @@ Yhdysvalloissa  	loc
 <PARAGRAPH> 	
 Verkkosivu 	
 < 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-posti 	
-. 	
- 	
-fi 	
-/ 	
-lennot 	
-/ 	
+http://www.posti.fi/lennot/	
 > 	
 paljastaa 	
 Postin  	org
@@ -997,12 +980,7 @@ testata
 verkkokauppatoimituksia 	
 robottikopterilla 	
 Suomenlinnaan  	loc
-2  	tim
-.  	tim
-tim 	
-–5  	tim
-.  	tim
-tim 	
+2.-5.	tim
 syyskuuta  	tim
 . 	
  	
@@ -1011,18 +989,12 @@ Kaikesta
 päätellen 	
 kumppanina 	
 on 	
-Verkkokauppa  	org
-.  	org
-org 	
-com  	org
+Verkkokauppa.com	org
 , 	
 koska 	
 lähtöpaikkana 	
 on 	
-Verkkokauppa  	org
-.  	org
-org 	
-comin  	org
+Verkkokauppa.comin	org
 kattoterassi 	
 Tyynenmerenkatu  	loc
 11:ssä  	loc
@@ -1167,8 +1139,7 @@ sanoi
 Space  	event
 2015  	event
 -konferenssissa  	event
-Spacen  	org
-ewsin  	org
+Spacenewsin	org
 mukaan 	
 . 	
  	
@@ -1303,10 +1274,8 @@ eroja
  	
 <BODY> 	
 <PARAGRAPH> 	
-Tom  	org
-'  	org
-s  	org
-Guide  	org
+Tom's 	org
+Guide	org
 testasi 	
 älypuhelimien 	
 latausnopeuksia 	
@@ -1317,7 +1286,9 @@ pikalataaja
 oli 	
 Asus  	pro
 Zenfone  	pro
-2.  	pro
+2	pro
+.	
+	
 Sen 	
 akun 	
 latausaste 	
@@ -1391,9 +1362,7 @@ laitteessa
 on 	
 2 	
 550 	
-mAh 	
-: 	
-n 	
+mAh:n	
 akku 	
 , 	
 kun 	
@@ -1402,11 +1371,8 @@ muut
 testatut 	
 älypuhelimet 	
 käyttävät 	
-3 	
-000 	
-mAh 	
-: 	
-n 	
+3 000	
+mAh:n	
 akkua 	
 . 	
  	
@@ -1435,9 +1401,7 @@ voiton
 minuutin  	tim
 latauksissa 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-n  	pro
+S6:n	pro
 kanssa 	
 . 	
  	
@@ -1452,56 +1416,7 @@ Galaxy  	pro
 S6  	pro
 ovat 	
 nopeimmat 	
-Akun 	
-lataustaso 	
-30  	tim
-minuutin  	tim
-jälkeen 	
-| 	
-Asus  	pro
-Zenfone  	pro
-2  	pro
-| 	
-53 	
---- 	
-| 	
---- 	
-Samsung  	pro
-Galaxy  	pro
-S6  	pro
-| 	
-53  	pro
-Google  	pro
-Nexus  	pro
-6 	
-| 	
-44  	pro
-LG  	pro
-G4  	pro
-| 	
-42 	
-Motorola  	pro
-Droid  	pro
-Turbo  	pro
-| 	
-38 	
-Apple  	pro
-iPhone  	pro
-6  	pro
-| 	
-36 	
-OnePlus  	pro
-2  	pro
-| 	
-34 	
-! 	
- 	
-Lähde 	
-: 	
-Tom  	pro
-'  	pro
-s  	pro
-Guide  	pro
+	
 Toiseksi 	
 nopeimman 	
 latautujan 	
@@ -1509,9 +1424,7 @@ titteli
 menee 	
 Samsung  	pro
 Galaxy  	pro
-S6  	pro
-:  	pro
-lle  	pro
+S6:lle	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -1526,82 +1439,6 @@ nopeiten
 toisia 	
 pienemmällä 	
 akulla 	
-Aika 	
-joka 	
-kului 	
-80 	
-prosentin 	
-lataustason 	
-saavuttamiseen 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S6  	pro
-| 	
-0 	
-: 	
-48 	
---- 	
-| 	
---- 	
-Asus  	pro
-Zenfone  	pro
-2  	pro
-| 	
-0 	
-: 	
-56 	
-Google  	pro
-Nexus  	pro
-6  	pro
-| 	
-1 	
-: 	
-00 	
-LG  	pro
-G4  	pro
-| 	
-1 	
-: 	
-02 	
-Motorola  	pro
-Droid  	pro
-Turbo  	pro
-| 	
-1 	
-: 	
-12 	
-Apple  	pro
-iPhone  	pro
-6  	pro
-| 	
-1 	
-: 	
-15 	
-OnePlus  	pro
-2  	pro
-| 	
-1 	
-: 	
-25 	
-! 	
- 	
-Lähde 	
-: 	
-Tom  	org
-'  	org
-s  	org
-Guide  	org
-( 	
-Päivitys 	
-: 	
-Grafiikan 	
-kuva 	
-korvattu 	
-taulukoilla 	
-. 	
- 	
-) 	
  	
 <HEADLINE> 	
 Microsoft  	org
@@ -1937,14 +1774,15 @@ yrittivät
 vaikuttaa 	
 vetoomustuomioistuimeen 	
 omalla 	
-“oikeuden 	
-ystävä” 	
+“	
+oikeuden	
+ystävä	
+“	
 -lausunnollaan 	
 . 	
  	
 Press  	org
-Exami  	org
-ner  	org
+Examiner	org
 -julkaisun  	org
 mukaan 	
 on 	
@@ -2287,8 +2125,7 @@ ryhmä
 omaksi 	
 yhtiökseen 	
 uuden 	btim
-Alphabet  	org
--holdingyhtiön  	org
+Alphabet-holdingyhtiön	org
 alle 	
 . 	
  	
@@ -2454,12 +2291,7 @@ Nettihuhujen
 mukaan 	
 asteroidi 	
 törmää 	
-15  	tim
-.  	tim
- 	
-–18  	tim
-.  	tim
- 	
+15.-18.	tim
 syyskuuta  	tim
 Puerto  	loc
 Ricon  	loc
@@ -2915,9 +2747,7 @@ tonnia
 tavaraa 	
 kansainväliselle 	
 avaruusasemalle 	
-ISS  	pro
-:  	pro
-lle  	pro
+ISS:lle	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -3031,9 +2861,7 @@ epäonnistunut
  	
 Viimeksi 	
 tuhoutui 	
-SpaceX  	org
-:  	org
-n  	org
+SpaceX:n	org
 Dragon-alus  	pro
 kesäkuussa  	tim
 . 	
@@ -3042,9 +2870,7 @@ HTV-5  	pro
 varmistaa 	
 , 	
 että 	
-ISS  	pro
-:  	pro
-llä  	pro
+ISS:llä	pro
 riittää 	
 ruokaa 	
 tämän  	tim
@@ -3125,9 +2951,7 @@ Viime  	tim
 kuun  	tim
 19.  	tim
 päivä  	tim
-ISS  	pro
-:  	pro
-lle  	pro
+ISS:lle	pro
 kansanväliselle 	
 avaruusasemalle 	
 ( 	
@@ -3157,10 +2981,7 @@ Asiasta
 kirjoittaa 	
 muun 	
 muassa 	
-Space  	org
-.  	org
-org 	
-com  	org
+Space.com	org
 . 	
  	
 <PARAGRAPH> 	
@@ -3210,9 +3031,7 @@ säilytetään
 Japanin  	loc
 avaruushallinnon 	
 isännöimässä 	
-ISS  	pro
-:  	pro
-n  	pro
+ISS:n	pro
 Kibo-moduulissa  	bpro
 . 	
  	
@@ -3689,9 +3508,7 @@ englanniksi
  	
 <PARAGRAPH> 	
 – 	
-We 	
-' 	
-re 	
+We're	
 making 	
 pretty 	
 good 	
@@ -3703,9 +3520,7 @@ so
 it 	
 has 	
 mobility 	
-that 	
-' 	
-s 	
+that's	
 sort 	
 of 	
 within 	
@@ -4002,8 +3817,7 @@ robottisoittojen
 estosta 	
 , 	
 antoi 	
-25 	
-000 	
+25 000	
 dollarin 	
 ensimmäisen 	
 palkinnon 	
@@ -4037,8 +3851,8 @@ robottipuhelut
 perusteella 	
 . 	
  	
-Tämän 	btim
-jälkeen 	tim
+Tämän 	
+jälkeen 	
 se 	
 ohjaa 	
 ne 	
@@ -4103,8 +3917,7 @@ dollaria
  	
 Kokonaistavoite 	
 on 	
-75 	
-000 	
+75 000	
 dollaria 	
 . 	
  	
@@ -4253,7 +4066,8 @@ saapui
 planeetan 	
 luokse 	
 syksyllä  	tim
-2014.  	tim
+2014	tim
+.	
  	
 <PARAGRAPH> 	
 Marsia  	loc
@@ -4539,9 +4353,7 @@ käytetään
 ajonestolaitteissa 	
 . 	
  	
-VW  	org
-:  	org
-n  	org
+VW:n	org
 merkeistä 	
 sitä 	
 käytetään 	
@@ -4580,10 +4392,7 @@ potentiaalisten
 avainten 	
 määrää 	
 noin 	
-200 	
-000 	
-: 	
-een 	
+200 000:een	
 , 	
 jolloin 	
 oikean 	
@@ -4667,10 +4476,7 @@ tutkimus
 esitellään 	
 Usenix-tapahtumassa  	event
 Washington  	loc
-D  	loc
-.  	loc
-loc 	
-C:ssä  	loc
+D.C:ssä	loc
 . 	
  	
 Tämä 	
@@ -4678,9 +4484,7 @@ on
 mahdollista 	
 , 	
 koska 	
-VW  	org
-:  	org
-n  	org
+VW:n	org
 mukaan 	
 riita 	
 ratkaistiin 	
@@ -5547,9 +5351,7 @@ patentteja
 Tämä 	
 tuomari  	tit
 Lucy  	per
-Koh  	per
-'  	per
-n  	per
+Koh'n	per
 johtamassa 	
 Kalifornian  	loc
 piirin 	
@@ -5808,7 +5610,8 @@ ja
 kuudesta 	
 varasatelliitista 	
 vuonna  	tim
-2020.  	tim
+2020	tim
+.	
  	
 <PARAGRAPH> 	
 Galileo-satelliittien  	pro
