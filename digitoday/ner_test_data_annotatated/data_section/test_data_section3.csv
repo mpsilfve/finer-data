@@ -652,9 +652,7 @@ enemmän
  			
 <PARAGRAPH> 			
 Lisäksi 			
-top-20 		x	
-: 			
-n 			
+top-20:n		x	
 ulkopuolella 			
 oli 			
 huomattavan 			
@@ -795,7 +793,9 @@ se
 tiedettiin 			
 jo 			
 vuonna  	tim		
-1996.  	tim	x	
+1996	tim	x	
+.			
+			
 Mutta 			
 vasta 			
 nyt  	tim		
@@ -1522,7 +1522,7 @@ ja
 viestinnässä 			
 yleensä 			
 on 			
-jatkuvassa 			
+jatkuvassa 	tim		
 kasvussa 			
 . 			
  			
@@ -1633,9 +1633,7 @@ Apache  	pro
 ja 			
 se 			
 toimii 			
-W3C  	org	x	
-:  	org	x	
-n  	org	x	
+W3C:n	org	x	
 patenttisääntöjen 			
 alaisuudessa 			
 . 			
@@ -1684,8 +1682,7 @@ signaalia
 . 			
  			
 <HEADLINE> 			
-225 		x	
-000 		x	
+225 000		x	
 Apple-tiliä  	misc		
 varastettu 			
 — 			
@@ -1729,8 +1726,7 @@ lainaa
 . 			
  			
 Jopa 			
-225 		x	
-000 		x	
+225 000		x	
 Apple-tiliä  	misc		
 on 			
 varastettu 			
@@ -1845,8 +1841,7 @@ Sovellusta
 oli 			
 ladattu 			
 noin 			
-20 		x	
-000 		x	
+20 000		x	
 kappaletta 			
 tiistaina  	tim		
 , 			
@@ -2146,9 +2141,6 @@ täyttämiseen
 . 			
  			
 <PARAGRAPH> 			
-# 		x	
-# 		x	
-# 		x	
 Tietoja 			
 myös 			
 suomalaisista 			
@@ -2205,9 +2197,7 @@ edellyttämät
 datapankit 			
 , 			
 kertoo 			
-SOK  	org		
-:  	org		
-n  	org		
+SOK:n	org		
 Venäjän  	loc		
 liiketoimintojen 			
 toimitusjohtaja  	tit		
@@ -2442,16 +2432,7 @@ aina
 samaan 			
 paikkaan 			
 ( 			
-/ 		x	
-/ 		x	
-. 		x	
- 		x	
-dom0o7b1i1le 		x	
-/ 		x	
-dont 		x	
-_ 		x	
-remove 		x	
-/ 		x	
+//.dom0o7b1i1le/dont_remove/		x	
 ) 			
 . 			
  			
@@ -2613,10 +2594,7 @@ on
 ohitettu 			
 , 			
 väittää 			
-Myce  	org	x	
-.  	org	x	
-org 		x	
-com  	org	x	
+Myce.com	org	x	
 , 			
 joka 			
 nojaa 			
@@ -2644,10 +2622,7 @@ ongelman
 uusimmassa 			
 Flash-versiossa  	pro		
 eli 			
-18.0  	pro	x	
-.  	pro	x	
-pro 		x	
-0.232:ssa  	pro	x	
+18.0.0.232:ssa	pro	x	
 , 			
 vaara 			
 ei 			
@@ -2722,10 +2697,7 @@ joka
 iskee 			
 ohjelmiston 			
 versiossa 			
-18.0  	pro	x	
-.  	pro	x	
-pro 		x	
-0.209  	pro	x	
+18.0.0.209	pro	x	
 olevaan 			
 haavoittuvuuteen 			
 . 			
@@ -2746,10 +2718,7 @@ bottiverkkoa
 . 			
  			
 <PARAGRAPH> 			
-Myce  	org	x	
-.  	org	x	
-org 		x	
-comin  	org	x	
+Myce.comin	org	x	
 mukaan 			
 äskettäisten  	tim		
 päivitysten 			
@@ -2874,13 +2843,7 @@ Gobi  	pro
 -moduuli  	pro		
 ja 			
 versiota 			
-12.500  	pro	x	
-.  	pro	x	
-pro 		x	
-00.15  	pro	x	
-.  	pro	x	
-pro 		x	
-1803  	pro	x	
+12.500.00.15.1803	pro	x	
 vanhempi 	btim		
 firmware 			
 . 			
@@ -2957,9 +2920,7 @@ etäkomentoon
 <PARAGRAPH> 			
 Ongelma 			
 johtuu 			
-AMT  	pro	x	
-:  	pro	x	
-n  	pro	x	
+AMT:n	pro	x	
 oletussalasanasta 			
 . 			
  			
@@ -3156,9 +3117,7 @@ data
 valuu 			
 Maahan  	loc		
 vain 			
-1 		x	
-– 		x	
-4 		x	
+1–4		x	
 kilobitin 			
 sekuntivauhtia 			
 . 			
@@ -3463,12 +3422,7 @@ juureen
 tehtyyn 			
 piilohakemistoon 			
 nimeltä 			
-$ 		x	
-windows 		x	
-. 		x	
- 		x	
-~ 		x	
-BT 		x	
+$windows.~BT		x	
 . 			
  			
 <PARAGRAPH> 			
@@ -3515,12 +3469,7 @@ Resurssienhallinnassa
 Jos 			
 näet 			
 kansion 			
-$ 		x	
-windows 		x	
-. 		x	
- 		x	
-~ 		x	
-BT 		x	
+$windows.~BT		x	
 , 			
 voit 			
 lopettaa 			
@@ -3561,9 +3510,6 @@ nopeudesta
 . 			
  			
 <PARAGRAPH> 			
-# 		x	
-# 		x	
-# 		x	
 Tai 			
 sitten 			
 käsipelillä 			
@@ -3591,11 +3537,7 @@ cmd
  			
 Klikkaa 			
 löytynyttä 			
-cmd 		x	
-. 		x	
- 		x	
-exe 		x	
--sovellusta 		x	
+cmd.exe-sovellusta		x	
 oikealla 			
 hiirennapilla 			
 ja 			
@@ -3615,12 +3557,7 @@ oikeuksilla
 Kirjoita 			
 ikkunaan 			
 komento 			
-wuaclt 		x	
-. 		x	
- 		x	
-exe 		x	
-/ 		x	
-updatenow 		x	
+wuaclt.exe/updatenow		x	
 ja 			
 paina 			
 enteriä 			
@@ -3670,24 +3607,6 @@ muokkauksen
 Windowsin  	pro		
 rekisteriin 			
 . 			
- 			
-<PARAGRAPH> 			
-! 		x	
- 		x	
-[ 		x	
-] 		x	
-( 		x	
-/ 		x	
-showImage 		x	
-. 		x	
- 		x	
-php 		x	
-? 		x	
- 		x	
-imageId 		x	
-= 		x	
-80488 		x	
-) 		x	
  			
 <PARAGRAPH> 			
 Näin 			
@@ -3750,11 +3669,7 @@ hakukenttään
 regedit 			
 ja 			
 klikkaamalla 			
-regedit 		x	
-. 		x	
- 		x	
-exe 		x	
-. 			
+regedit.exe		x	
  			
 Käyttöoikeuksistasi 			
 ja 			
@@ -3864,7 +3779,8 @@ arvoksi
 , 			
 ja 			
 klikkaa 			
-ok. 		x	
+ok		x	
+.			
  			
 <PARAGRAPH> 			
 Oikeassa 			
@@ -3881,10 +3797,7 @@ REGDWORD
 ja 			
 sisältää 			
 arvon 			
-0x00000001 		x	
-( 		x	
-1 		x	
-) 		x	
+0x00000001(1)		x	
 . 			
  			
 <PARAGRAPH> 			
@@ -3921,10 +3834,7 @@ aloittamista
 <PARAGRAPH> 			
 Virhe 			
 komennossa 			
-wuaclt 		x	
-. 		x	
- 		x	
-exe 		x	
+wuaclt.exe		x	
 korjattu 			
 . 			
  			
@@ -3938,13 +3848,8 @@ jossa
 komento 			
 oli 			
 muodossa 			
-wuaclit 		x	
-. 		x	
- 		x	
-exe 		x	
+wuaclt.exe		x	
 . 			
- 			
-_ 		x	
  			
 <HEADLINE> 			
 Päivä  	tim		
@@ -4186,8 +4091,7 @@ naisia
 ollutkaan 			
 , 			
 kertoo 			
-Gi  	org	x	
-zmodo  	org	x	
+Gizmodo	org	x	
 . 			
  			
 <PARAGRAPH> 			
@@ -4233,10 +4137,7 @@ palvelun
 työntekijöille 			
 tarjolla 			
 olevia 			
-ashleymadison 		x	
-. 		x	
- 		x	
-com-osoitteita 		x	
+ashleymadison.com-osoitteita	misc	x	
 . 			
  			
 <PARAGRAPH> 			
@@ -4327,7 +4228,8 @@ käyttänyt
 mutta 			
 naisprofiileista 			
 vain 			
-2409. 		x	
+2409		x	
+.			
  			
 <PARAGRAPH> 			
 Vuodetuista 			
@@ -4338,8 +4240,8 @@ viitteitä
 suoranaisiin 			
 petoksiin 			
 : 			
-Ashley  	pro		
-Madison  	pro		
+Ashley  	org		
+Madison  	org		
 veloitti 			
 tilin 			
 sulkemisesta 			
@@ -4358,8 +4260,7 @@ toista
 . 			
  			
 <PARAGRAPH> 			
-173 		x	
-838 		x	
+173 838		x	
 miesten 			
 tiliä 			
 oli 			
@@ -4371,8 +4272,7 @@ naisten
 vastaavia 			
 tilejä 			
 oli 			
-12 		x	
-108 		x	
+12 108		x	
 . 			
  			
 Nämä 			
@@ -4413,8 +4313,8 @@ jälkeen
  			
 <PARAGRAPH> 			
 – 			
-Ashley  	pro		
-Madisonin  	pro		
+Ashley  	org		
+Madisonin  	org		
 työntekijät 			
 tekivät 			
 hyvää 			
@@ -4455,7 +4355,8 @@ että
 se 			
 toteaa 			
 käyttöehdoissaan 			
-”osan 		x	
+“			
+osan		x	
 käyttäjistä 			
 käyttävän 			
 palvelua 			
@@ -4467,7 +4368,8 @@ eikä
 aio 			
 edetä 			
 viestimistä 			
-pidemmälle” 		x	
+pidemmälle		x	
+“			
 . 			
  			
 <PARAGRAPH> 			
@@ -4558,14 +4460,10 @@ vahvistama
 ongelma 			
 on 			
 korjattu 			
-iOS  	pro	x	
-:  	pro	x	
-n  	pro	x	
+iOS:n	pro	x	
 versiossa  	pro		
-8.4  	pro	x	
-.  	pro	x	
-pro 		x	
-1.  	pro	x	
+8.4.1	pro	x	
+.			
  			
 <PARAGRAPH> 			
 Haavoittuvuus 			
@@ -4940,9 +4838,7 @@ internetissä
 Pudotus 			
 tapahtuu 			
 kello  	tim		
-20  	tim	x	
-–  	tim	x	
-21  	tim	x	
+20–21	tim	x	
 Suomen  	btim		
 aikaa  	tim		
 keskiviikkona  	btim		
@@ -5213,8 +5109,7 @@ Corporationin  	org
 Darkmatters-sivusto  	borg		
 bongasi 			
 uuden 	btim		
-variant 		x	
-in 		x	
+variantin		x	
 vaarallisesta 			
 Zeus-haittaohjelmasta  	pro		
 . 			
@@ -5342,12 +5237,7 @@ komento
 ja 			
 ohjaus 			
 ( 			
-C 		x	
-& 		x	
-amp 		x	
-; 		x	
-C 		x	
-; 		x	
+C&amp;C;		x	
 ) 			
 ei 			
 ole 			
@@ -5460,8 +5350,7 @@ aikana  	tim
 JD  	org		
 Power  	org		
 selvitti 			
-Yhdysva 		x	
-lloissa 		x	
+Yhdysvalloissa	loc	x	
 . 			
  			
 <PARAGRAPH> 			
@@ -5691,12 +5580,8 @@ asetuksissa
 Haavoittuvuus 			
 koskee 			
 asetusta 			
-" 			
-PermitRootLogin 		x	kaikki yhteen
-= 		x	
-prohibit-password 		x	
-/ 		x	
-without-password 		x	
+" 			kaikki yhteen
+PermitRootLogin=prohibit-password/without-password		x	
 " 			
 . 			
  			
@@ -5721,9 +5606,7 @@ sivustolta
 . 			
  			
 <PARAGRAPH> 			
-OpenSSH  	pro		x
-:  	pro		x
-ta  	pro		x
+OpenSSH:ta	pro		x
 käytetään 			
 erityisesti 			
 palvelimien 			
@@ -5898,11 +5781,8 @@ liitti
 todisteeksi 			
 löydöksestään 			
 osia 			
-kohdejärjestelmän 			
-/ 			x
-etc 			x
-/ 			x
-passwd-tiedostosta 			x
+kohdejärjestelmän 			x
+/etc/passwd-tiedostosta			x
 . 			
  			
 Hermansen  	per		
@@ -6000,8 +5880,7 @@ voi
 olla 			
 mikä 			
 tahansa 			
-389 		x	
-112:sta 		x	
+389 112:sta		x	
 yhdistelmästä 			
 , 			
 mutta 			
@@ -6210,10 +6089,7 @@ Aiheena
 oli 			
 kilpaileva 			
 deittisivusto 			
-Nerve  	pro	x	
-.  	pro	x	
-pro 		x	
-com  	pro	x	
+Never.com	pro	x	
 , 			
 josta 			
 Bhatia  	per		
@@ -6332,10 +6208,7 @@ väärin
 tulkita 			
 Bidermanin  	per		
 halunneen 			
-Nerve  	pro	x	
-.  	pro	x	
-pro 		x	
-comin  	pro	x	
+Nerve.comin	pro	x	
 käyttäjien 			
 sähköpostit 			
 . 			
@@ -6347,10 +6220,7 @@ keskustelu
 liittyi 			
 mahdollisuuteen 			
 ostaa 			
-Nerve  	pro	x	
-.  	pro	x	
-pro 		x	
-com  	pro	x	
+Nerve.com	pro	x	
 , 			
 jolloin 			
 oli 			
@@ -6394,10 +6264,7 @@ murtaa
 varastaa 			
 tai 			
 käyttää 			
-Nerve  	pro	x	
-.  	pro	x	
-pro 		x	
-comin  	pro	x	
+Nerve.comin	pro	x	
 omistamaa 			
 dataa 			
 , 			
@@ -6560,8 +6427,10 @@ ei
 voi 			
 puhutella 			
 sanomalla 			
-“Hey 			
-Cortana”  	pro		
+“			
+Hey			
+Cortana	pro		
+“			
 , 			
 joka 			
 on 			
@@ -7067,9 +6936,7 @@ määrä
 nopeutua 			
 uuden 	btim		
 WebExtensions  	pro		
-API  	pro	x	
-:  	pro	x	
-n  	pro	x	
+API:n	pro	x	
 tulessa 			
 käyttöön 			
 . 			
@@ -7177,10 +7044,7 @@ päivittynyt
 . 			
  			
 Uudesta 	btim		
-2.12  	pro	x	
-.  	pro	x	
-pro 		x	
-112.0-versiosta  	pro	x	
+2.12.112.0-versiosta	pro	x	
 kertoo 			
 muun 			
 muassa 			
@@ -7744,8 +7608,7 @@ Phone  	pro
 -sovelluskaupasta  	pro		
 , 			
 tiedottaa 			
-Microsof  	org	x	
-t  	org	x	
+Microsoft	org	x	
 , 			
 eikä 			
 Microsoft  	org		
@@ -7920,9 +7783,8 @@ Kesällä  	tim
 Microsoft  	org		
 ilmoitti 			
 vähentävänsä 			
-12 		x	
-500 		x	
-entistä 			
+12 500		x	
+entistä 	tim		
 Nokian  	org		
 työntekijää 			
 , 			
@@ -8074,11 +7936,8 @@ Digitodaylle  	org
 Tietokannassa 			
 on 			
 yli 			
-16 		x	
-900 		x	
-. 		x	
- 		x	
-fi-päätteistä 		x	
+16 900		x	
+.fi-päätteistä		x	
 sähköpostiosoitetta 			
 . 			
  			
@@ -8112,13 +7971,9 @@ tilejä
 joiden 			
 osoite 			
 päätyy 			
-. 		x	
- 		x	
-com- 		x	
-tai 		x	
-. 		x	
- 		x	
-net-tunnukseen 		x	
+.com-		x	
+tai		x	
+.net-tunnukseen		x	
 , 			
 Hyppönen  	per		
 toteaa 			
@@ -8132,8 +7987,7 @@ löytyvän
 palvelusta 			
 kaikkiaan 			
 yli 			
-20 		x	
-000 		x	
+20 000		x	
 . 			
  			
 <PARAGRAPH> 			
@@ -8251,10 +8105,7 @@ useita
 tietoturva-aukkoja 			
 , 			
 varoittaa 			
-Cert  	org	x	
-.  	org	x	
-org 		x	
-org  	org	x	
+Cert.org	org	x	
 . 			
  			
 <PARAGRAPH> 			
@@ -8317,12 +8168,7 @@ hyökkääjälle
 upload-oikeudet 			
 jakohakemistoksi 			
 tarkoitettuun 			
-/ 		x	
-media 		x	
-/ 		x	
-sda2 		x	
-: 		x	
-een 		x	
+/media/sda2:een		x	
 . 			
  			
 <PARAGRAPH> 			
@@ -8374,13 +8220,7 @@ Haavoittuvuudet
 on 			
 korjattu 			
 levyjen 			
-3.4  	pro	x	
-.  	pro	x	
-pro 		x	
-1  	pro	x	
-.  	pro	x	
-pro 		x	
-105-firmware-päivityksessä  	pro	x	
+3.4.1.105-firmware-päivityksessä	pro	x	
 . 			
  			
 Päivityksen 			
@@ -8477,13 +8317,7 @@ etunimet
 . 			
  			
 Saittikohtainen 			
-trips 		x	
-. 		x	
- 		x	
-uber 		x	
-. 		x	
- 		x	
-com 		x	
+trips.uber.com		x	
 haku 			
 toimi 			
 Yhdysvaltojen  	loc		
@@ -8881,8 +8715,7 @@ kuvan
 näyttämiseen 			
 kerralla 			
 tarvittaisiin 			
-1 			
-500 			
+1 500			
 televisionäyttöä 			
 . 			
  			
@@ -8911,8 +8744,7 @@ megapikselin
 digipokkarilla 			
 pitäisi 			
 ottaa 			
-800 		x	
-000 		x	
+800 000		x	
 kuvaa 			
 vuoden  	tim		
 jokaisena  	tim		
@@ -8956,7 +8788,9 @@ peili
 valettiin 			
 jo 			
 vuonna  	tim		
-2008.  	tim	x	
+2008	tim	x	
+.			
+			
 Tämän 			
 mahdollistivat 			
 Bill  	per		
@@ -8965,9 +8799,7 @@ ja
 Charles  	per		
 Simonyin  	per		
 yhteensä 			
-23 		x	
-000 		x	
-000 		x	
+23 000 000		x	
 euron 			
 arvoiset 			
 lahjoitukset 			
@@ -9020,9 +8852,7 @@ maista
 . 			
  			
 <PARAGRAPH> 			
-LSST  	pro	x	
-:  	pro	x	
-n  	pro	x	
+LSST:n	pro	x	
 aloittaa 			
 kuvaukset 			
 vuonna  	tim		
@@ -9034,8 +8864,8 @@ kymmenen  	tim
 vuotta  	tim		
 . 			
  			
-Sinä 			
-aikana 			
+Sinä 	tim		
+aikana 	tim		
 se 			
 kuvaa 			
 enemmän 			
@@ -9272,4 +9102,5 @@ oli
 perässään 			
 password 			
 ja 			
-12345. 		x	
+12345		x	
+.			
