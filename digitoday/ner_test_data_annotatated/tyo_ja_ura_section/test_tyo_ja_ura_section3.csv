@@ -164,8 +164,7 @@ miksi
 Microsoftilta  	org
 katoaa 	
 enintään 	
-2 	
-300 	
+2 300	
 työpaikkaa 	
 ja 	
 Salon-yksikkö  	misc
@@ -279,8 +278,7 @@ joiden
 tuloksena 	
 vähennetään 	
 enintään 	
-2 	
-300 	
+2 300	
 työpaikkaa 	
 Suomesta  	loc
 ja 	
@@ -560,7 +558,7 @@ tapaamisessa
 että 	
 Reddit-käyttäjä  	misc
 nimimerkillä 	
-aioyama 	
+aioyama 	per
 meni 	
 liian 	
 pitkälle 	
@@ -636,8 +634,8 @@ sitten  	tim
 . 	
  	
 <PARAGRAPH> 	
-Tämän 	btim
-jälkeen 	tim
+Tämän 	
+jälkeen 	
 aioyama 	
 puolusti 	
 kommenttejaan 	
@@ -805,9 +803,9 @@ pääjohtaja  	tit
 Tim  	per
 Cook  	per
 ylisti 	
-vähän 	
-aikaa 	
-sitten 	
+vähän 	tim
+aikaa 	tim
+sitten 	tim
 yhtiönsä 	
 saavutuksia 	
 naisten 	
@@ -919,7 +917,7 @@ hyökkäysten
 täydellisen 	
 puuttumisen 	
 Dren  	per
-elämäkertaelokuvasta 	btim
+elämäkertaelokuvasta 	
 Straight  	pro
 Outta  	pro
 Compton  	pro
@@ -1087,28 +1085,7 @@ Siltamäki  	per
 tiedotteessa 	
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-poliisi 	
-. 	
- 	
-fi 	
-/ 	
-tietoapoliisista 	
-/ 	
-tiedotteet 	
-/ 	
-1 	
-/ 	
-1 	
-/ 	
-helsinginpoliisivaro 	
-ittaayrityksiameneillaanolevastahuijauksesta38792 	
+http://www.poliisi.fi/tietoapoliisista/tiedotteet/1/1/helsinginpoliisivaroittaayrityksiameneillaanolevastahuijauksesta38792	
 ) 	
 . 	
  	
@@ -1148,13 +1125,12 @@ Suomessa  	loc
  	
 Yhtiö 	
 vähentää 	
-2 	
-300 	
+2 300	
 työpaikkaa 	
 , 	
 kuten 	
 yhtiö 	
-jo  	tim
+jo  	
 heinäkuussa  	tim
 ennakoi 	
 . 	
@@ -1225,8 +1201,7 @@ amerikkalaisyhtiö
 aikoo 	
 vähentää 	
 enintään 	
-7 	
-800 	
+7 800	
 henkilöä 	
 pääasiassa 	
 puhelinliiketoiminnasta 	
@@ -1397,7 +1372,9 @@ Friendlyware-sovelluskokoelmassa  	pro
 joka 	
 julkaistiin 	
 vuonna  	tim
-1982.  	tim
+1982	tim
+.	
+	
 Friendlyware  	pro
 sisälsi 	
 niin 	
@@ -1409,8 +1386,7 @@ pelejäkin
 Kun 	
 pelissä 	
 painoi 	
-F10 	
--nappia 	
+F10-nappia	
 , 	
 näytölle 	
 ilmestyi 	
