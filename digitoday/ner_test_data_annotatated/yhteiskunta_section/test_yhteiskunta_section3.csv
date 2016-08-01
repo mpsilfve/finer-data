@@ -183,9 +183,7 @@ miljoonalla
 kasvu 	
 jäi 	
 jälkeen 	
-lte 	
-: 	
-stä 	
+lte:stä	
 . 	
  	
 Perus-gsm-liittymien 	
@@ -409,7 +407,9 @@ valvontaan
 keskittynyt 	
 Tekijänoikeus  	org
 Adultia  	org
-Oy.  	org
+Oy	org
+.	
+	
 Se 	
 on 	
 toiminut 	
@@ -425,8 +425,8 @@ Jos
 maksua 	
 ei 	
 suoriteta 	
-määräpäivään 	
-mennessä 	
+määräpäivään 	tim
+mennessä 	tim
 , 	
 vastaanottajaa 	
 uhataan 	
@@ -495,7 +495,7 @@ valvojat
 ovat 	
 tänä  	tim
 vuonna  	tim
-elokuun  	tim
+elokuun  	btim
 loppuun  	tim
 mennessä  	tim
 tehneet 	
@@ -512,7 +512,8 @@ vuonna  	tim
 hakemuksia 	
 oli 	
 yhteensä 	
-73. 	
+73	
+.	
  	
 <PARAGRAPH> 	
 Vaadittujen 	
@@ -549,9 +550,6 @@ jakajia
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Seuraava 	
 vaihe 	
 : 	
@@ -654,7 +652,7 @@ on
 jakanut 	
 vain 	
 yhtä 	
-elokuvaa 	btim
+elokuvaa 	
 . 	
  	
 Summa 	
@@ -703,8 +701,8 @@ näitä
 vaatimuksia 	
 markkinaoikeudelle 	
 ja 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 huomautuskirjeitä 	
 ulos 	
 . 	
@@ -804,7 +802,7 @@ määräävä
 viranomainen 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 on 	
 riskinä 	
 , 	
@@ -831,7 +829,7 @@ laittomaan
 tiedostonjakeluun 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 asiaa 	
 kannattaa 	
 kuitenkin 	
@@ -841,9 +839,6 @@ kanssa
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 " 	
 Luulen 	
 , 	
@@ -1442,9 +1437,7 @@ kun
 FBI:n  	org
 johtaja  	tit
 James  	per
-B  	per
-.  	per
-per 	
+B.	per
 Comey  	per
 ilmoitti 	
 senaatin 	
@@ -1482,8 +1475,8 @@ Comeylle  	per
 joka 	
 on 	
 kohta  	tim
-vuoden 	
-ajan 	
+vuoden 	btim
+ajan 	tim
 innokkaasti 	
 ja 	
 toistuvasti 	
@@ -1578,9 +1571,7 @@ poliisiviranomaisille
 Yhdysvaltain  	org
 kansallisen  	org
 tiedusteluviraston  	org
-NSA  	borg
-:  	org
-n  	org
+NSA:n	borg
 johto 	
 on 	
 tukenut 	
@@ -1610,9 +1601,7 @@ tietojen
 perusteella 	
 , 	
 että 	
-NSA  	org
-:  	org
-lla  	org
+NSA:lla	org
 on 	
 menetelmiä 	
 , 	
@@ -2009,9 +1998,6 @@ pisteisiin
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 ACLU  	org
 : 	
 " 	
@@ -2197,8 +2183,7 @@ Suomi  	pro
 on 	
 ladattu 	
 noin 	
-250 	
-000 	
+250 00	
 kertaa 	
 ensimmäisen  	tim
 kolmen  	tim
@@ -2555,7 +2540,7 @@ Kyytipalvelu
 on 	
 ollut 	
 useasti 	
-ennenkin 	
+ennenkin 	tim
 silmätikkuna 	
 väitettyjen 	
 seksirikosten 	
@@ -2729,8 +2714,8 @@ ja
 lennokin 	
 on 	
 oltava 	
-koko 	
-ajan 	
+koko 	tim
+ajan 	tim
 ohjattavissa 	
 . 	
  	
@@ -2897,8 +2882,7 @@ Trafin  	org
 pääjohtaja  	tit
 Kari  	per
 Wihlman  	per
-tiedo 	
-tteessa 	
+tiedotteessa	
 . 	
  	
 <PARAGRAPH> 	
@@ -3196,9 +3180,7 @@ ehdottama
 EE:n  	org
 osto 	
 ja 	
-3UK  	org
-:  	org
-n  	org
+3UK:n	org
 ja 	
 O2:n  	org
 fuusio 	
@@ -3218,8 +3200,7 @@ pidetty
 puhe 	
 julkaistiin 	
 Ofcomin  	org
-verk 	
-kopalvelussa 	
+verkkopalvelussa	
 , 	
 Total  	org
 Telecom  	org
@@ -3459,8 +3440,7 @@ Samuelsson  	per
 aikoo 	
 todeta 	
 tiedotteen 	
-muka 	
-an 	
+mukaan	
 . 	
  	
 Samuelsson  	per
@@ -3895,7 +3875,9 @@ vähän
 ihmisiä 	
 , 	
 noin 	
-50. 	
+50	
+.	
+	
 Heistä 	
 yli 	
 90 	
@@ -3951,8 +3933,7 @@ seuraavaksiPong  	pro
 20.8.2015 16:00 	
  	
 <INGRESS> 	
-50 	
-000 	
+50 000	
 euroa 	
 on 	
 kasassa 	
@@ -4000,8 +3981,7 @@ perustamiseksi
 on 	
 saavuttanut 	
 minimitavoitteensa 	
-50 	
-000 	
+50 000	
 euroa 	
 joukkorahoituspalvelu 	
 Mesenaatissa  	pro
@@ -4105,13 +4085,13 @@ Se
 avautuu 	
 yleisölle 	
 loppiaisena  	tim
-2017.  	tim
+2017	tim
+.	
  	
 <PARAGRAPH> 	
 Nyt  	tim
 tavoitellaan 	
-100 	
-000 	
+100 000	
 euroa 	
 , 	
 kun 	
@@ -4161,8 +4141,7 @@ ruotsinlaivalla
  	
 <PARAGRAPH> 	
 Täysi 	
-100 	
-000 	
+100 000	
 euroa 	
 takaa 	
 museoon 	
@@ -4644,9 +4623,7 @@ ryhmän
 nimen 	
 puheenparreksi 	
 ( 	
-ruots 	
-. 	
- 	
+ruots.	
 talesätt 	
 ) 	
 , 	
@@ -4750,10 +4727,7 @@ osa
 " 	
 ei 	
 liity 	
-AshleyMadison  	pro
-.  	pro
-pro 	
-comiin  	pro
+AshleyMadison.comiin	pro
 " 	
 . 	
  	
@@ -5002,7 +4976,7 @@ ja
 siellä 	
 on 	
 jo 	
-pitkään 	
+pitkään 	tim
 toiminut 	
 langattomaan 	
 tiedonsiirtoon 	
@@ -5100,8 +5074,8 @@ on
 määrä 	
 alkaa 	
 tammikuussa  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Saksan  	org
@@ -5423,8 +5397,7 @@ Smart  	org
 City  	org
 Holdings  	org
 -yritystä  	org
-750 	
-000 	
+750 000	
 dollaria 	
 julkisten 	
 wlan-yhteyksien 	
@@ -5461,15 +5434,12 @@ omia
 henkilökohtaisia 	
 wlan-palvelupisteitään 	
 , 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 toimeenpanoyksikön 	
 johtaja  	tit
 Travis  	per
 LeBlanc  	per
-t 	
-iedotteessa 	
+tiedotteessa	
 . 	
  	
 <PARAGRAPH> 	
@@ -5516,8 +5486,8 @@ City  	org
 lopetti 	
 wlan-estot 	
 lokakuussa  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 kun 	
 asiaa 	
 ryhdyttiin 	
@@ -5555,8 +5525,7 @@ netin
 puhdistusta 	
 ? 	
  	
-15 	
-000 	
+15 000	
 pidätettiin 	
 Kiinassa  	loc
  	
@@ -5588,7 +5557,7 @@ Kiina  	loc
 käynnisti 	
 viime  	tim
 kuussa  	tim
-puolivuotisen 	
+puolivuotisen 	btim
 kampanjan 	
 koodinimellä 	
 " 	
@@ -5603,8 +5572,7 @@ sanoo
 pidättäneensä 	
 jopa 	
 noin 	
-15 	
-000 	
+15 000	
 ihmistä 	
 rikoksista 	
 , 	
@@ -5732,11 +5700,9 @@ Tämä
 johti 	
 tuoreeltaan 	
 yli 	
-60 	
-000 	
+60 000	
 käyttäjätilin 	
-poistamisee 	
-n 	
+poistamiseen	
 suosituista 	
 verkkopalveluista 	
 . 	
@@ -5840,9 +5806,6 @@ toimenpiteisiin
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Järjestelmä 	
 käyttöön 	
 vuosina  	tim
@@ -6102,9 +6065,7 @@ No  	pro
 Distribute  	pro
 -skannaussivustolla  	pro
 olevan 	
-0 	
-/ 	
-35-tuloksen 	
+0/35-tuloksen	
 . 	
  	
 <PARAGRAPH> 	
@@ -6288,8 +6249,7 @@ viikolla  	tim
 Rahaa 	
 kertyi 	
 lähes 	
-86 	
-000 	
+86 000	
 euroa 	
 . 	
  	
@@ -6297,8 +6257,7 @@ euroa
 Jo 	
 aiemmin  	tim
 varmistunut 	
-50 	
-000 	
+50 000	
 euron 	
 minimitavoite 	
 takasi 	
@@ -6351,12 +6310,12 @@ mukaan
 Heitä 	
 kertyi 	
 yhteensä 	
-1121. 	
+1121	
+.	
  	
 <PARAGRAPH> 	
 Huimaan 	
-100 	
-000 	
+100 000	
 euroon 	
 ei 	
 ihan 	
@@ -6584,7 +6543,8 @@ ennen
 oikeudenkäynnin 	
 alkamista 	
 vuonna  	tim
-2009.  	tim
+2009	tim
+.	
  	
 <PARAGRAPH> 	
 WARF  	org
@@ -6710,9 +6670,7 @@ kirjoitti
 . 	
  	
 <PARAGRAPH> 	
-EFA  	org
-:  	org
-n  	org
+EFA:n	org
 toiminnanjohtaja  	tit
 Jon  	per
 Lawrence  	per
@@ -6773,8 +6731,8 @@ kuussa  	tim
 gigatavuun 	
 asti 	
 ja 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 neljä 	
 senttiä 	
 megatavulta 	
@@ -6788,7 +6746,7 @@ nopeus
 on 	
 kaksi 	
 megabittiä 	
-sekunnissa 	
+sekunnissa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -7064,7 +7022,7 @@ Brown  	per
 allekirjoitti 	
 lain 	
 torstaina  	tim
-.  	tim
+.  	
  	
 <PARAGRAPH> 	
 Lain 	
@@ -7410,7 +7368,6 @@ ei
 tueta 	
 alueellasi 	
 . 	
- 	
 ) 	
  	
 <PARAGRAPH> 	
