@@ -43,8 +43,7 @@ ovat
 käyneet 	
 aivan 	
 liian 	
-lä 	
-hellä 	
+lähellä	
 lukuisia 	
 matkustajakoneita 	
 , 	
@@ -108,18 +107,14 @@ maassa
 osuu 	
 , 	
 tv-asema 	
-ABC7  	org
-:  	org
-n  	org
+ABC7:n	org
 haastattelema 	
 pilotti 	
 sanoi 	
 . 	
  	
 <PARAGRAPH> 	
-ABC7  	org
-:  	org
-n  	org
+ABC7:n	org
 mukaan 	
 kopteri 	
 joutui 	
@@ -159,9 +154,7 @@ kuulusteluihin
 , 	
 myös 	
 ilmailuviranomaisen 	
-FAA  	org
-:  	org
-n  	org
+FAA:n	org
 tentattavaksi 	
 . 	
  	
@@ -468,9 +461,7 @@ Sony  	org
 kertoi 	
 heinäkuussa  	tim
 yhdessä 	
-ZMP  	org
-:  	org
-n  	org
+ZMP:n	org
 kanssa 	
 perustettavasta 	
 Aerosense-yrityksestä  	org
@@ -569,9 +560,7 @@ odottanut
 Intel  	org
 lähtee 	
 tekemään 	
-tosi-tv 	
-: 	
-tä 	
+tosi-tv:tä	
  	
 <DATE> 	
 25.8.2015 14:06 	
@@ -605,9 +594,7 @@ suunnittelun
 . 	
  	
 <PARAGRAPH> 	
-America  	pro
-'  	pro
-s  	pro
+America's	pro
 Greatest  	pro
 Makers  	pro
 tosi-tv-sarjassa 	
@@ -818,7 +805,9 @@ että
 Nokialta  	org
 Microsoftille  	borg
 siirtyneitä 	
-“tavallisia” 	
+“	
+tavallisia	
+“	
 ja 	
 feature-matkapuhelimia 	
 myydään 	
@@ -933,7 +922,7 @@ on
 prosenttia 	
 enemmän 	
 kuin 	
-vuotta 	
+vuotta 	tim
 aikaisemmin  	tim
 . 	
  	
@@ -947,182 +936,7 @@ kolmantena
 Kaikkien 	
 matkapuhelinten 	
 markkinaosuudet 	
-Q2 	
-2015 	
-| 	
-Toimittaja 	
-| 	
-2Q15 	
-, 	
-tuhansia 	
-| 	
-2Q15 	
-, 	
-osuus- 	
-% 	
-| 	
-2Q14 	
-, 	
-tuhansia 	
-| 	
-2Q14 	
-, 	
-osuus- 	
-% 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-Samsung  	org
-| 	
-88 	
-739 	
-| 	
-19.9 	
-| 	
-97 	
-418 	
-| 	
-21.9 	
-Apple  	org
-| 	
-48 	
-086 	
-| 	
-10.8 	
-| 	
-35 	
-345 	
-| 	
-8.0 	
-Microsoft  	org
-| 	
-27 	
-690 	
-| 	
-6.2 	
-| 	
-43 	
-814 	
-| 	
-9.9 	
-Huawei  	org
-| 	
-26 	
-119 	
-| 	
-5.9 	
-| 	
-18 	
-219 	
-| 	
-4.1 	
-LG 	
-Electronics  	org
-| 	
-17 	
-622 	
-| 	
-4.0 	
-| 	
-18 	
-310 	
-| 	
-4.1 	
-Lenovo  	org
-+ 	
-Motorola  	org
-) 	
-| 	
-16 	
-626 	
-| 	
-3.7 	
-| 	
-19 	
-266 	
-| 	
-4.3 	
-Xiaomi  	org
-| 	
-16 	
-065 	
-| 	
-3.6 	
-| 	
-12 	
-541 	
-| 	
-2.8 	
-TCL  	org
-Communication  	org
-| 	
-15 	
-733 	
-| 	
-3.5 	
-| 	
-13 	
-923 	
-| 	
-3.1 	
-ZTE  	org
-| 	
-14 	
-560 	
-| 	
-3.3 	
-| 	
-12 	
-629 	
-| 	
-2.8 	
-Micromax  	org
-| 	
-9 	
-884 	
-| 	
-2.2 	
-| 	
-8 	
-578 	
-| 	
-1.9 	
-Others 	
-| 	
-164 	
-635 	
-| 	
-36.9 	
-| 	
-164 	
-148 	
-| 	
-37.0 	
-Total 	
-| 	
-445 	
-759 	
-| 	
-100.0 	
-| 	
-444 	
-190 	
-| 	
-100.0 	
-! 	
- 	
-Lähde 	
-: 	
-Gartner  	org
-, 	
-elok  	tim
-2015  	tim
+	
 Älypuhelinten 	
 myynti 	
 jatkui 	
@@ -1149,130 +963,6 @@ Samsung  	org
 kutistui 	
 kasvavilla 	
 markkinoilla 	
-Älypuhelinten 	
-toimitukset 	
-ja 	
-markkinaosuudet 	
-Q2 	
-2015 	
-| 	
-Toimittaja 	
-| 	
-2Q15 	
-, 	
-tuhansia 	
-| 	
-2Q15 	
-, 	
-osuus- 	
-% 	
-| 	
-2Q14 	
-, 	
-tuhansia 	
-| 	
-2Q14 	
-, 	
-osuus- 	
-% 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-Samsung  	org
-| 	
-72 	
-073 	
-| 	
-21.9 	
-| 	
-76 	
-129 	
-| 	
-26.2 	
-Apple  	org
-| 	
-48 	
-086 	
-| 	
-14.6 	
-| 	
-35 	
-345 	
-| 	
-12.2 	
-Huawei  	org
-| 	
-25 	
-826 	
-| 	
-7.8 	
-| 	
-17 	
-658 	
-| 	
-6.1 	
-Lenovo  	org
-( 	
-+ 	
-Motorola  	org
-) 	
-| 	
-16 	
-406 	
-| 	
-5.0 	
-| 	
-19 	
-081 	
-| 	
-6.6 	
-Xiaomi  	org
-| 	
-16 	
-065 	
-| 	
-4.9 	
-| 	
-12 	
-541 	
-| 	
-4.3 	
-Muut 	
-| 	
-151 	
-222 	
-| 	
-45.9 	
-| 	
-129 	
-630 	
-| 	
-44.6 	
-Yhteensä 	
-| 	
-329 	
-676 	
-| 	
-100.0 	
-| 	
-290 	
-384 	
-| 	
-100.0 	
-! 	
- 	
-Lähde 	
-: 	
-Gartner  	org
-, 	
-elok  	tim
-2015  	tim
  	
 <HEADLINE> 	
 Ovatko 	
@@ -1385,9 +1075,7 @@ sovelluskaupan
 . 	
  	
 <PARAGRAPH> 	
-NYT  	org
-:  	org
-n  	org
+NYT:n	org
 haastatteleman 	
 Jackdaw  	org
 Researchin  	org
@@ -1414,9 +1102,7 @@ johtaja  	tit
 James  	per
 Gwertzman  	per
 sanoi 	
-NYT  	org
-:  	org
-lle  	org
+NYT:lle	org
 , 	
 että 	
 Applella  	org
@@ -1728,9 +1414,7 @@ on
 valinnut 	
 Huawein  	org
 Mediapad  	pro
-T1  	pro
-:  	pro
-n  	pro
+T1:n	pro
 , 	
 sillä 	
 yhtiö 	
@@ -1786,9 +1470,6 @@ pintaan
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Kuulostaa 	
 hyvältä 	
 , 	
@@ -1839,9 +1520,7 @@ UI  	pro
 -käyttöliittymä  	pro
 lainailee 	
 ronskisti 	
-iOS  	pro
-:  	pro
-ltä  	pro
+iOS:ltä	pro
 . 	
  	
 Käyttö 	
@@ -1892,24 +1571,6 @@ hyvin
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-80279 	
-) 	
- 	
-<PARAGRAPH> 	
 Tabletin 	
 takapuoli 	
 on 	
@@ -1926,9 +1587,7 @@ Kärkkäinen  	per
 Tehokkaita 	
 laitteita 	
 käyttäneille 	
-T1  	pro
-:  	pro
-n  	pro
+T1:n	pro
 käyttö 	
 vaikuttaa 	
 hieman 	
@@ -1986,33 +1645,7 @@ päivityksiä
 Stagefright-haavoittuvuuden 	
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-digitoday 	
-. 	
- 	
-fi 	
-/ 	
-tietoturva 	
-/ 	
-2015 	
-/ 	
-07 	
-/ 	
-28 	
-/ 	
-tietoturvayhtio-android-puhelin 	
-- 	
-kaapattavissa-omistajan-nukkuessa 	
-/ 	
-20159491 	
-/ 	
-66 	
+http://www.digitoday/2015/07/28/tietoturvayhtio-android-puhelin-kaapattavissa-omistajan-nukkuessa/20159491/66	
 ) 	
 julkistuksen 	
 jälkeen 	
@@ -2035,7 +1668,7 @@ siitä
 että 	
 muun 	
 kuin 	
-lippulaiva-Androidin 	
+lippulaiva-Androidin 	misc
 ostaja 	
 saattaa 	
 jäädä 	
@@ -2049,10 +1682,7 @@ nojaan
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
-Elokuvakone  	tim
+Elokuvakone  	
 – 	
 vaan 	
 entä 	
@@ -2068,13 +1698,11 @@ viihdekäytössä
 , 	
 sillä 	
 kymmentuumainen 	
-16 	
-: 	
-9-kuvasuhteen 	
+16:9-kuvasuhteen	
 ruutu 	
 sopii 	
 hyvin 	
-elokuvien 	btim
+elokuvien 	
 katseluun 	
 . 	
  	
@@ -2179,24 +1807,6 @@ käyttää
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-80278 	
-) 	
- 	
-<PARAGRAPH> 	
 Huawein  	org
 Android  	pro
 on 	
@@ -2278,9 +1888,6 @@ hintaan
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Vastinetta 	
 rahalle 	
 ? 	
@@ -2300,9 +1907,7 @@ ei
 . 	
  	
 Eniten 	
-T1  	pro
-:  	pro
-ssä  	pro
+T1:ssä	pro
 askarruttaa 	
 sen 	
 päivittyminen 	
@@ -2375,7 +1980,9 @@ vahvasti
 T1  	pro
 porskuttaa 	
 vuonna  	tim
-2018.  	tim
+2018	tim
+.	
+	
 Halpa 	
 hinta 	
 saattaa 	
@@ -2386,103 +1993,6 @@ ostaa
 uusi 	btim
 tabletti 	
 aikaisemmin  	tim
-. 	
- 	
-<PARAGRAPH> 	
-Huawei  	pro
-Mediapad  	pro
-T1  	pro
-10  	pro
-tekniset 	
-tiedot 	
-| 	
-Käyttöjärjestelmä 	
-| 	
-Android  	pro
-4.4  	pro
-. 	
- 	
-4  	pro
-+  	pro
-Emotion  	pro
-UI  	pro
-3.0  	pro
---- 	
-| 	
---- 	
-Suoritin 	
-| 	
-Qualcomm  	pro
-MSM8916  	pro
-1,2  	pro
-GHz  	pro
-neliydinsuoritin  	pro
-Keskusmuisti 	
-| 	
-1 	
-Gt 	
-Massamuisti 	
-| 	
-16 	
-Gt 	
-Näyttö 	
-| 	
-9,6 	
-tuumaa 	
-, 	
-1280 	
-x 	
-800 	
-Pääkamera 	
-| 	
-5 	
-MP 	
-, 	
-f 	
-/ 	
-2,2 	
-, 	
-led-salama 	
-Kakkoskamera 	
-| 	
-2 	
-MP 	
-Koko 	
-| 	
-24,9 	
-x 	
-15,0 	
-x 	
-0,8 	
-cm 	
-Paino 	
-| 	
-450 	
-g 	
-Akku 	
-| 	
-4800 	
-mAh 	
-Muistikorttipaikka 	
-| 	
-mikro-sd 	
-, 	
-maks. 	
-64 	
-Gt 	
-Liitännät 	
-| 	
-kuuloke 	
-, 	
-mikro-usb 	
-Muuta 	
-| 	
-saatavilla 	
-myös 	
-4g-versiona 	
-( 	
-mikro-sim 	
-) 	
 . 	
  	
 <HEADLINE> 	
@@ -2655,13 +2165,10 @@ tänä  	tim
 vuonna  	tim
 , 	
 tiivistää 	
-SA  	org
-:  	org
-n  	org
+SA:n	org
 Neil  	per
 Mawston  	per
-tie 	
-dotteessa 	
+tiedotteessa	
 . 	
  	
 <PARAGRAPH> 	
@@ -2739,8 +2246,8 @@ kokeilla
 yhtä 	
 useammasta 	
 Galaxy-mallista  	pro
-kuukauden 	
-ajan 	
+kuukauden 	tim
+ajan 	tim
 yhtä 	
 dollaria 	
 vastaan 	
@@ -2750,22 +2257,15 @@ Kokeilija
 voi 	
 valita 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-n  	pro
+S6:n	pro
 , 	
 Galaxy  	pro
 S6  	pro
-Edge  	pro
-:  	pro
-n  	pro
+Edge:n	pro
 , 	
 Galaxy  	pro
 S6  	pro
-Edge  	pro
-+  	pro
-:  	pro
-n  	pro
+Edge+:n	pro
 tai 	
 Galaxy  	pro
 Note  	pro
@@ -2892,7 +2392,7 @@ lanseeraamalla
 omat 	
 uudet 	btim
 lippulaivamallinsa 	
-tavallista 	
+tavallista 	tim
 aikaisemmin  	tim
 jo 	
 elokuussa  	tim
@@ -2939,8 +2439,8 @@ nimettömät
 lähteet 	
 The  	org
 Vergelle  	org
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 kiinalainen 	
@@ -3362,8 +2862,7 @@ Apple  	pro
 Watch  	pro
 ja 	
 yli 	
-10 	
-000 	
+10 000	
 dollaria 	
 maksava 	
 Apple  	pro
@@ -3587,9 +3086,6 @@ hyvin
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Riemukas 	
 näyttö 	
  	
@@ -3777,103 +3273,3 @@ kauas
 pois 	
 . 	
  	
-<PARAGRAPH> 	
-HP  	pro
-EliteBook  	pro
-Folio  	pro
-1020  	pro
-Tekniset 	
-tiedot 	
-| 	
-Hinta 	
-: 	
-| 	
-1900 	
-euroa 	
---- 	
-| 	
---- 	
-Suoritin 	
-: 	
-| 	
-Intel  	pro
-Core  	pro
-M-5Y51  	pro
-1,3  	pro
-GHz  	pro
-Näytönohjain 	
-: 	
-| 	
-Intel  	pro
-HD  	pro
-Graphics  	pro
-5300  	pro
-Näyttö 	
-: 	
-| 	
-2560 	
-* 	
-1440 	
-, 	
-12 	
-tuumaa 	
-Muisti 	
-: 	
-| 	
-8 	
-Gt 	
-Massamuisti 	
-: 	
-| 	
-180 	
-Gt 	
-SSD 	
-Liittimet 	
-: 	
-| 	
-hdmi 	
-, 	
-2 	
-* 	
-usb 	
-, 	
-3,5 	
-mm 	
-kuulokemikrofoniyhdistelmäliitin 	
-, 	
-micro-sd 	
-kortinlukija 	
-, 	
-laajennusportti 	
-Laajennusportin 	
-liittimet 	
-: 	
-| 	
-vga 	
-, 	
-1 	
-Gbit 	
-ethernet 	
-Käyttöjärjestelmä 	
-: 	
-| 	
-Windows  	pro
-8  	pro
-. 	
- 	
-1 	
-Pro 	
-Koko 	
-: 	
-| 	
-31 	
-* 	
-21 	
-* 	
-1,57 	
-cm 	
-Paino 	
-: 	
-| 	
-1,2 	
-kg 	
