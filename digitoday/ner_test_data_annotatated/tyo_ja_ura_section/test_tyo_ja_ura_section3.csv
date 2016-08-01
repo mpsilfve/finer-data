@@ -1238,8 +1238,8 @@ tuppaavat
 syömään 	
 työajasta 	
 minuutin  	tim
-jos 	
-toisenkin 	
+jos 	tim
+toisenkin 	tim
 . 	
  	
 Mutta 	
@@ -1392,9 +1392,13 @@ näytölle
 ilmestyi 	
 palkkigraafeja 	
 otsikoilla 	
-”tuottavuus” 	
+“	
+tuottavuus	
+“	
 ja 	
-”ajankäyttö” 	
+“	
+ajankäyttö	
+“	
 . 	
  	
 Vastaavia 	
@@ -1679,9 +1683,7 @@ Nokiaksi  	org
 Baksaas  	per
 jatkaa 	
 operaattorijärjestö 	
-GSMA  	org
-:  	org
-n  	org
+GSMA:n	org
 johdossa 	
 ensi  	tim
 vuoteen  	tim
@@ -1875,8 +1877,7 @@ kuluneen  	tim
 kuukauden  	tim
 aikana  	tim
 yli 	
-11 	
-000 	
+11 000	
 naista 	
 kautta 	
 maailman 	
@@ -2525,9 +2526,7 @@ medialiiketoiminnan
 johtajan 	
 DreamWorks  	org
 Animation  	org
-SKG  	org
-:  	org
-ltä  	org
+SKG:ltä	org
 . 	
  	
 Tuomo  	per
@@ -2637,8 +2636,8 @@ kansainvälisestä
 tv-myynnistä 	
 . 	
  	
-Sitä 	btim
-ennen 	tim
+Sitä 	
+ennen 	
 hän 	
 oli 	
 kuusi  	tim
@@ -2763,7 +2762,7 @@ Lähetys
 alkaa 	
 kello  	tim
 18  	tim
-Suomen  	tim
+Suomen  	btim
 aikaan  	tim
 . 	
  	
@@ -3324,7 +3323,8 @@ joka
 tuli 	
 markkinoille 	
 vuonna  	tim
-2007.  	tim
+2007	tim
+.	
  	
 <PARAGRAPH> 	
 – 	
@@ -3454,8 +3454,7 @@ Microsoft  	org
 vahvisti 	
 elokuussa  	tim
 vähentävänsä 	
-2 	
-300 	
+2 300	
 työpaikkaa 	
 yt-neuvottelujen 	
 seurauksena 	
@@ -3571,15 +3570,13 @@ palkkaamiseksi
 <PARAGRAPH> 	
 TE-toimistoille 	
 esitetään 	
-400 	
-000 	
+400 000	
 euroa 	
 seitsemän 	
 työntekijän 	
 ja 	
 ely-keskuksille 	
-130 	
-000 	
+130 000	
 euroa 	
 kahden 	
 työntekijän 	
@@ -3587,9 +3584,6 @@ palkkaamiseksi
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Koulutustukea 	
 erityisesti 	
 Salon  	loc
@@ -4211,9 +4205,6 @@ kasvoi
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Jätti-irtisanomiset 	
 toivat 	
 kuluja 	
@@ -4284,9 +4275,6 @@ vahvuus
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Windows  	pro
 10:n  	pro
 julkaisu 	
@@ -4761,7 +4749,7 @@ arvioi
 kärsivänsä 	
 kuusi  	tim
 vuotta  	tim
-kestäneestä 	
+kestäneestä 	tim
 väärästä 	
 kirjanpidostaan 	
 jopa 	
@@ -4891,8 +4879,7 @@ Joukkokanteen
 piirissä 	
 on 	
 yli 	
-12 	
-000 	
+12 000	
 nykyistä 	
 ja 	
 entistä 	
@@ -5014,17 +5001,13 @@ miljardin
 jenin 	
 , 	
 eli 	
-2 	
-, 	
-2–3 	
-, 	
-0 	
+2,2-3,0	
 miljardin 	
 euron 	
 vahingon 	
 kuusi  	tim
 vuotta  	tim
-kestäneen 	
+kestäneen 	tim
 väärän 	
 tilinpidon 	
 vuoksi 	
@@ -5038,15 +5021,16 @@ vakavin
 kirjanpitosotku 	
 sitten 	
 kameravalmistaja 	
-Olympukse  	org
-n  	org
+Olympuksen	org
 , 	
 jonka 	
 ongelmat 	
 tuotiin 	
 julki 	
 vuonna  	tim
-2011.  	tim
+2011	tim
+.	
+	
 Toshibassa  	org
 skandaali 	
 on 	
@@ -5079,8 +5063,8 @@ Yhtiö
 palkkasi 	
 tutkijat 	
 töihin 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 sotku 	
@@ -5496,7 +5480,7 @@ Mystinen
 nainen 	
 lähestyi 	
 tietoturva-ammattilaisia 	
-LinkedIn-yhteisössä  	misc
+LinkedIn-yhteisössä  	org
 . 	
  	
 Lähentelyyn 	
@@ -5534,9 +5518,9 @@ panee
 merkille 	
 , 	
 että 	
-"  	per
+"  	
 Jennifer  	per
-"  	per
+"  	
 kertoi 	
 olevansa 	
 kiinnostunut 	
@@ -5722,8 +5706,7 @@ esitystaulun
 hinta 	
 on 	
 enimmillään 	
-20 	
-000 	
+20 000	
 dollaria 	
 84-tuumaisella 	
 ruudulla 	
@@ -6047,7 +6030,7 @@ johtajaa
 Sony  	org
 perui 	
 ensin 	
-elokuvan 	btim
+elokuvan 	
 julkaisun 	
 , 	
 mutta 	
@@ -6125,8 +6108,7 @@ yhteydessä
 <PARAGRAPH> 	
 Agentti 	
 siirsi 	
-800 	
-000 	
+800 000	
 dollarin 	
 edestä 	
 bitcoineja 	
