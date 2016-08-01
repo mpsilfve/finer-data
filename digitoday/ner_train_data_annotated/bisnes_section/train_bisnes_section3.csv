@@ -23617,10 +23617,7 @@ viilattu
 Työpaikkailmoitus 	
 paljastaa 	
 : 	
-Verkkokauppa  	org
-.  	org
-org 	
-com  	org
+Verkkokauppa.com	org
 avaa 	
 huutokauppasivuston 	
  	
@@ -23644,10 +23641,7 @@ myynnillä
 internetissä 	
 aikanaan  	tim
 aloittanut 	
-Verkkokauppa  	org
-.  	org
-org 	
-com  	org
+Verkkokauppa.com	org
 aikoo 	
 laajentaa 	
 palveluitaan 	
@@ -23692,12 +23686,7 @@ muun
 muassa 	
 Huuto.netin  	org
 ja 	
-Tori  	org
-.  	org
-org 	
-fi  	org
-:  	org
-n  	org
+Tori.fi:n	org
 tontille 	
 . 	
  	
@@ -23721,26 +23710,16 @@ on
 pyytänyt 	
 hankkeesta 	
 lisätietoja 	
-Verkkokauppa  	org
-.  	org
-org 	
-comilta  	org
+Verkkokauppa.comilta	org
 . 	
  	
 <PARAGRAPH> 	
 Päivitetty 	
-14.1  	tim
-.  	tim
-tim 	
+14.1.	tim
 klo  	tim
-15  	tim
-:  	tim
-58  	tim
+15:58	tim
 : 	
-Verkkokauppa  	org
-.  	org
-org 	
-comin  	org
+Verkkokauppa.comin	org
 toimitusjohtajan  	tit
 Samuli  	per
 Seppälän  	per
@@ -23844,7 +23823,7 @@ parannukseen
 yli  	tim
 kaksi  	tim
 vuotta  	tim
-kestäneen 	
+kestäneen 	tim
 vajoamisen 	
 jälkeen 	
 . 	
@@ -23855,8 +23834,8 @@ Pc-markkina
 on 	
 hiljalleen 	
 vakautumassa 	
-sen  	tim
-jälkeen  	tim
+sen  	
+jälkeen  	
 , 	
 kun 	
 asennuskanta 	
@@ -23949,8 +23928,7 @@ arvioi
 maailman 	
 tablettimyynnin 	
 romahtaneen 	
-huolestutta 	
-vasti 	
+huolestuttavasti	
 . 	
  	
 Tutkimuslaitoksen 	
@@ -24397,9 +24375,7 @@ jatkunee
 tulevaisuudessakin  	tim
 . 	
  	
-Vpn 	
-: 	
-ää 	
+Vpn:ää	
 ja 	
 käyttäjätunnusten 	
 lainaamista 	
@@ -24593,15 +24569,13 @@ kuitenkaan
 myöskään 	
 lyödä 	
 rumpua 	
-vpn 	
-: 	
-n 	
+vpn:n	
 puolesta 	
 , 	
 sillä 	
 se 	
 suututtaisi 	
-elokuvastudiot 	btim
+elokuvastudiot 	
 . 	
  	
 <PARAGRAPH> 	
@@ -24629,9 +24603,7 @@ sulkisi
 pois 	
 kaikki 	
 tietoturvasyistä 	
-vpn 	
-: 	
-ää 	
+vpn:ää	
 käyttävät 	
 asiakkaat 	
 . 	
@@ -24729,7 +24701,9 @@ HKL:lle  	org
 tavoitteen 	
 mukaisesti 	
 elokuussa  	tim
-2016.  	tim
+2016	tim
+.	
+	
 Tämä 	
 edellyttää 	
 , 	
@@ -25214,9 +25188,7 @@ kestää
 . 	
  	
 Paina 	
-X 	
-: 	
-ää 	
+X:ää	
 kunnioittaaksesi 	
 vainajaa 	
 . 	
@@ -25297,9 +25269,7 @@ niin
 ikään 	
 Ubisoftin  	org
 viimeisin 	btim
-Assassin  	pro
-'  	pro
-s  	pro
+Assassin's	pro
 Creed  	pro
 -seikkailu  	pro
 , 	
@@ -25349,9 +25319,7 @@ Robinia  	per
 Grand  	pro
 Theft  	pro
 Auto  	pro
-V  	pro
-:  	pro
-n  	pro
+V:n	pro
 julkaisu 	
 uusille 	btim
 konsoleille 	
@@ -25407,12 +25375,12 @@ antaa
 oma 	
 arvionsa 	
 päättyneestä 	
-pelivuodesta 	
+pelivuodesta 	tim
 . 	
  	
 <PARAGRAPH> 	
 – 	
-Pelivuosi 	
+Pelivuosi 	tim
 2014  	tim
 täydensi 	
 pelikonsolien 	
@@ -25471,30 +25439,23 @@ vuonna  	tim
 : 	
  	
 <PARAGRAPH> 	
-1 	
-\ 	
-. 	
- 	
+1.	
 NHL  	pro
 15  	pro
 ( 	
 Electronic  	org
 Arts  	org
 ) 	
-2 	
-\ 	
-. 	
- 	
+	
+2.	
 FIFA  	pro
 15  	pro
 ( 	
 Electronic  	org
 Arts  	org
 ) 	
-3 	
-\ 	
-. 	
- 	
+	
+3.	
 Minecraft  	pro
 ( 	
 Sony  	org
@@ -25502,10 +25463,8 @@ CEE  	org
 / 	
 Microsoft  	org
 ) 	
-4 	
-\ 	
-. 	
- 	
+	
+4.	
 Call  	pro
 of  	pro
 Duty  	pro
@@ -25515,39 +25474,31 @@ Warfare  	pro
 ( 	
 Activision-Blizzard  	org
 ) 	
-5 	
-\ 	
-. 	
- 	
+	
+5.	
 Far  	pro
 Cry  	pro
 4  	pro
 ( 	
 Ubisoft  	org
 ) 	
-6 	
-\ 	
-. 	
- 	
+	
+6.	
 Watch  	pro
 Dogs  	pro
 ( 	
 Ubisoft  	org
 ) 	
-7 	
-\ 	
-. 	
- 	
+	
+7.	
 SingStar  	pro
 Suomibileet  	pro
 ( 	
 Sony  	org
 CEE  	org
 ) 	
-8 	
-\ 	
-. 	
- 	
+	
+8.	
 Grand  	pro
 Theft  	pro
 Auto  	pro
@@ -25556,10 +25507,8 @@ V  	pro
 Take  	org
 2  	org
 ) 	
-9 	
-\ 	
-. 	
- 	
+	
+9.	
 LEGO  	pro
 Movie  	pro
 :  	pro
@@ -25568,10 +25517,8 @@ Videogame  	pro
 ( 	
 Warner  	org
 ) 	
-10 	
-\ 	
-. 	
- 	
+	
+10.	
 Destiny  	pro
 ( 	
 Activision-Blizzard  	org
@@ -25785,7 +25732,9 @@ Beatsin  	org
 osakkeistaan 	
 lopullisesti 	
 syyskuussa  	tim
-2013.  	tim
+2013	tim
+.	
+	
 Hän 	
 katsoo 	
 joutuneensa 	
@@ -26175,7 +26124,8 @@ iCar-nimellä  	misc
 jo 	
 ainakin 	
 vuonna  	tim
-2007.  	tim
+2007	tim
+.	
  	
 <PARAGRAPH> 	
 Tällä  	tim
@@ -26435,9 +26385,7 @@ Sony  	org
 teki 	
 sopimukset 	
 The  	pro
-Interview  	pro
-'  	pro
-n  	pro
+Interview'n	pro
 esittämisestä 	
 erinäisissä 	
 pienemmissä 	
@@ -26449,32 +26397,7 @@ kanavissa
 . 	
  	
 <PARAGRAPH> 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-digitoday 	
-. 	
- 	
-fi 	
-/ 	
-yhteiskunta 	
-/ 	
-2014 	
-/ 	
-12 	
-/ 	
-18 	
-/ 	
-se-siita-sitten-sony-peruutti-t 	
-he-interviewn 	
-/ 	
-201417379 	
-/ 	
-66 	
+http://www.digitoday.fi/yhteiskunta/2014/12/18/se-siita-sitten-sony-peruutti-the-interviewn/201417379/66	
  	
 <HEADLINE> 	
 Kuritettu 	
@@ -26523,7 +26446,9 @@ sitten
 sen 	
 julkaisun 	
 syksyllä  	tim
-2013.  	tim
+2013	tim
+.	
+	
 Pelkästään 	
 juuri  	tim
 päättyneellä  	tim
@@ -26621,9 +26546,7 @@ Times  	org
 varoittaa 	
 vähättelemästä 	
 enää 	
-PS4  	pro
-:  	pro
-n  	pro
+PS4:n	pro
 pääkilpailijaa 	
 Xbox  	pro
 Onea  	pro
@@ -26632,9 +26555,7 @@ joka
 itse 	
 asiassa 	
 myi 	
-PS4  	pro
-:  	pro
-ää  	pro
+PS4:ää	pro
 enemmän 	
 marraskuussa  	tim
 Yhdysvalloissa  	loc
@@ -26658,9 +26579,7 @@ Xbox  	pro
 Onen  	pro
 kurovan 	
 umpeen 	
-PS4  	pro
-:  	pro
-n  	pro
+PS4:n	pro
 kaulaa 	
 . 	
  	
@@ -26945,9 +26864,7 @@ Samsung  	org
 on 	
 käyttänyt 	
 todisteena 	
-LG  	org
-:  	org
-tä  	org
+LG:tä	org
 vastaan 	
 . 	
  	
@@ -27040,9 +26957,7 @@ myös
 katsoo 	
 , 	
 että 	
-Jo  	per
-'  	per
-n  	per
+Jo'n	per
 käytös 	
 messuilla 	
 rikkoi 	
@@ -27146,9 +27061,7 @@ loka-joulukuun  	tim
 lukuja 	
 , 	
 mutta 	
-ABI  	org
-:  	org
-n  	org
+ABI:n	org
 mukaan 	
 sen 	
 myynti 	
@@ -27177,9 +27090,7 @@ taulutietokoneiden
 toimittaja 	
 . 	
  	
-ABI  	org
-:  	org
-n  	org
+ABI:n	org
 lukujen 	
 mukaan 	
 iPadeja  	pro
@@ -27224,9 +27135,7 @@ nousi
 54 	
 prosenttiin 	
 Applen  	org
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 41 	
 prosenttia 	
 vastaan 	
@@ -27276,8 +27185,7 @@ oli
 52 	
 prosenttia 	
 , 	
-MarketW  	org
-atch  	org
+MarketWatch	org
 kirjoitti 	
 . 	
  	
@@ -27515,12 +27423,10 @@ kehittämistä
 laitteista 	
 kunnostautui 	
 Lumia  	pro
-520.  	pro
+520	pro
+.	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Pukinkonttiin 	
 omenoita 	
  	
@@ -27536,7 +27442,9 @@ kohosi
 Applen  	org
 uutuusmalli 	
 iPhone  	pro
-6.  	pro
+6	pro
+.	
+	
 Se 	
 ponnisti 	
 Suomen  	loc
@@ -27664,9 +27572,7 @@ kotiinkuljetuksissa
 jos 	
 Yhdysvaltain  	org
 ilmailuviranomaisen  	org
-FAA  	borg
-:  	org
-n  	org
+FAA:n	borg
 ja 	
 maan 	
 liikenneministeriön 	
@@ -28087,7 +27993,7 @@ joulukuun  	tim
 ja  	tim
 25.  	tim
 päivän  	tim
-välillä 	
+välillä 	tim
 aktivoiduista 	
 puhelimista 	
 ja 	
@@ -28572,13 +28478,10 @@ hyvä
 menestys 	
 Yhdysvalloissa  	loc
 näkyy 	
-ITG  	org
-:  	org
-n  	org
+ITG:n	org
 marraskuuta  	tim
 koskevassa 	
-ra 	
-portissa 	
+raportissa	
 . 	
  	
 Se 	
@@ -29048,8 +28951,7 @@ juoksi
 10.2.2015 16:51 	
  	
 <INGRESS> 	
-3 	
-000 	
+3 000	
 sijoittajan 	
 palvelussa 	
 epäillään 	
@@ -29095,8 +28997,7 @@ Mercedes-Benz  	pro
  	
 <PARAGRAPH> 	
 Noin 	
-3 	
-000 	
+3 000	
 käyttäjän 	
 palvelussa 	
 on 	
@@ -29207,8 +29108,8 @@ Nokian  	org
 puhelimet 	
 . 	
  	
-Tämän 	btim
-jälkeen 	tim
+Tämän 	
+jälkeen 	
 Samsung  	org
 kieltäytyi 	
 lisenssien 	
@@ -29233,7 +29134,8 @@ ostavansa
 Nokian  	org
 puhelintoiminnan 	
 loppuvuodesta  	tim
-2013.  	tim
+2013	tim
+.	
  	
 <HEADLINE> 	
 Sprint  	org
@@ -29411,8 +29313,7 @@ on
 sopinut 	
 myyvänsä 	
 korkeintaan 	
-2 	
-400 	
+2 400	
 kauppaansa 	
 Standard  	org
 General  	org
@@ -29420,8 +29321,7 @@ hedgefundille
 . 	
  	
 Loput 	
-4 	
-000 	
+4 000	
 kaupasta 	
 on 	
 määrä 	
@@ -29433,8 +29333,7 @@ Huutokaupan
 kallis 	
 lasku 	
 : 	
-11 	
-000 	
+11 000	
 työntekijää 	
 ja 	
 mastoa 	
@@ -29466,8 +29365,7 @@ dollarilla
  	
 Kaupassa 	
 siirtyy 	
-11 	
-000 	
+11 000	
 työntekijää 	
 . 	
  	
@@ -29504,8 +29402,7 @@ summan
 Frontier  	org
 saa 	
 kaupassa 	
-11 	
-000 	
+11 000	
 työntekijää 	
 ja 	
 kiinteät 	
@@ -29566,8 +29463,7 @@ jolle
 siirtyy 	
 vuokraoikeus 	
 yli 	
-11 	
-000 	
+11 000	
 mastoon 	
 ja 	
 omistusoikeus 	
@@ -29674,9 +29570,7 @@ varsinainen
 ratkaisu 	
 oli 	
 Qualcommin  	org
-3g 	
-/ 	
-4g-essentiaalipatenttien 	
+3g/4g-essentiaalipatenttien 	
 jakaminen 	
 muihin 	
 lisensseihin 	
@@ -30014,24 +29908,6 @@ yhteensä
 tappiota 	
 . 	
  	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-75124 	
-) 	
- 	
 <HEADLINE> 	
 Netflixin  	org
 varjosta 	
@@ -30230,24 +30106,6 @@ sanoo
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-75110 	
-) 	
- 	
-<PARAGRAPH> 	
 Rikard  	per
 Steiber  	per
 . 	
@@ -30408,9 +30266,6 @@ sanoo
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Uusi 	btim
 on 	
 12  	tim
@@ -30560,9 +30415,6 @@ elokuvasta 	btim
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Suomi  	loc
 , 	
 lapset 	
