@@ -1973,9 +1973,7 @@ korkealla
 <PARAGRAPH> 	
 – 	
 Kun 	
-ISS  	pro
-:  	pro
-n  	pro
+ISS:n	pro
 kaapelointiongelma 	
 on 	
 nyt  	tim
@@ -1993,9 +1991,7 @@ pääjohtaja  	tit
 Scott  	per
 Larson  	per
 sanoi 	
-eCanadaNow  	org
-'  	org
-n  	org
+eCanadaNow'n	org
 mukaan 	
 . 	
  	
@@ -2022,8 +2018,7 @@ kumpikin
 kamera 	
 toimii 	
 sittenkin 	
-kunnoll 	
-a 	
+kunnolla	
 . 	
  	
 <HEADLINE> 	
@@ -2591,7 +2586,7 @@ hengityksestä
 lämpötilasta 	
 ja 	
 aktiivisuudesta 	
-vanhempien 	btim
+vanhempien 	
 älypuhelimiin 	
 . 	
  	
@@ -2759,10 +2754,7 @@ käyttäjistä
 esimerkiksi 	
 Gmailissa  	pro
 , 	
-Google  	pro
-+  	pro
-:  	pro
-ssa  	pro
+Google+:ssa	pro
 tai 	
 Calendarissa  	pro
 eivät 	
@@ -3037,7 +3029,7 @@ vähän
 kello  	tim
 21  	tim
 jälkeen  	tim
-Suomen  	tim
+Suomen  	btim
 aikaa  	tim
 ja 	
 päättyivät 	
@@ -3599,24 +3591,7 @@ kirjoitti
 tiistaina  	tim
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-blog 	
-. 	
- 	
-urthecast 	
-. 	
- 	
-com 	
-/ 	
-updates 	
-/ 	
-urthecast-cameras-successfully-installed-on 	
-- 	
-international-space-station 	
-/ 	
+http://blog.urthecast.com/updates/urthecast-cameras-successfully-installed-on-international-space-station/	
 ) 	
 . 	
  	
@@ -3995,33 +3970,8 @@ mukaan
 tarkoitus 	
 julkaista 	
 keväällä  	tim
-2015.  	tim
- 	
-<HEADLINE> 	
- 	
- 	
-<DATE> 	
- 	
- 	
-<INGRESS> 	
- 	
- 	
-<BODY> 	
-<PARAGRAPH> 	
- 	
- 	
-<HEADLINE> 	
- 	
- 	
-<DATE> 	
- 	
- 	
-<INGRESS> 	
- 	
- 	
-<BODY> 	
-<PARAGRAPH> 	
- 	
+2015	tim
+.	
  	
 <HEADLINE> 	
 Pentagon  	org
@@ -4217,9 +4167,7 @@ matching
 <HEADLINE> 	
 Canalys  	org
 : 	
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 kuolema 	
 jättää 	
 Windows  	pro
@@ -4298,9 +4246,7 @@ sillä
 pitkään  	tim
 palvelleen 	
 Windows  	pro
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 tukiaika 	
 päättyy 	
 huhtikuussa  	tim
@@ -4419,9 +4365,7 @@ ovatkin
 päättäneet 	
 pysytellä 	
 Windows  	pro
-XP  	pro
-:  	pro
-ssä  	pro
+XP:ssä	pro
 , 	
 sillä 	
 päivitys 	
@@ -4446,9 +4390,7 @@ uutisia
 , 	
 sillä 	
 Windows  	pro
-XP  	pro
-:  	pro
-llä  	pro
+XP:llä	pro
 varustetut 	
 tietokoneet 	
 altistuvat 	
@@ -4478,12 +4420,7 @@ maksetaan
 5.2.2014 11:06 	
  	
 <INGRESS> 	
-Kansalaisaloite  	pro
-.  	pro
-pro 	
-fi  	pro
-:  	pro
-n  	pro
+Kansalaisaloite.fi:n	pro
 tietoturvaongelmista 	
 voi 	
 saada 	
@@ -4511,10 +4448,7 @@ ja
 oikeusministeriön  	org
 ylläpitämä 	
 aloitepalvelu 	
-Kansalaisaloite  	pro
-.  	pro
-pro 	
-fi  	pro
+Kansalaisaloite.fi	pro
 muuttui 	
 avoimeksi 	
 lähdekoodiksi 	
@@ -4705,7 +4639,7 @@ viime  	tim
 vuoden  	tim
 visuaalisesti 	
 upeimmista 	
-elokuvista  	tim
+elokuvista  	
 . 	
  	
 <BODY> 	
@@ -4713,9 +4647,7 @@ elokuvista  	tim
 Linuxille  	pro
 suunnitellun 	
 työpöytäympäristö 	
-KDE  	pro
-:  	pro
-n  	pro
+KDE:n	pro
 oheisohjelmistoja 	
 kehittävä 	
 Eike  	per
@@ -4735,9 +4667,7 @@ on
 tuotettu 	
 suurelta 	
 osin 	
-KDE  	pro
-:  	pro
-tä  	pro
+KDE:tä	pro
 käyttävillä 	
 Linux-työasemilla  	pro
 . 	
@@ -4757,7 +4687,7 @@ koneita
 erilaisissa 	
 tv-sarjoissa 	
 , 	
-elokuvissa  	tim
+elokuvissa  	
 , 	
 julkisissa 	
 päätteissä 	
@@ -4784,7 +4714,7 @@ vauhdittavan
 erästä 	
 vuoden  	tim
 upeimman 	
-elokuvan 	btim
+elokuvan 	
 tuotantoprosessia 	
 , 	
 Hein  	per
@@ -4804,7 +4734,7 @@ uskomattomilla
 erikoistehosteillaan 	
 . 	
  	
-Elokuva 	btim
+Elokuva 	
 tulleekin 	
 kahmimaan 	
 suuren 	
@@ -4814,7 +4744,7 @@ Oscar-pystejä  	misc
  	
 <PARAGRAPH> 	
 – 	
-Elokuvan 	btim
+Elokuvan 	
 erikoistehosteista 	
 pitkälti 	
 vastannut 	
@@ -4853,9 +4783,7 @@ alalaidassa
 , 	
 Hein  	per
 kertoo 	
-KDE  	pro
-:  	pro
-n  	pro
+KDE:n	pro
 virallisessa 	
 blogissa 	
 . 	
@@ -4875,9 +4803,7 @@ sillä
 hän 	
 on 	
 bongannut 	
-KDE  	pro
-:  	pro
-n  	pro
+KDE:n	pro
 olevan 	
 käytössä 	
 niin 	
@@ -5328,7 +5254,8 @@ alareunaan
 - 	
 Täppää 	
 kohtaa 	
-“Apple  	misc
+“	
+Apple	misc
 ID  	misc
 : 	
 [ 	
@@ -5340,9 +5267,11 @@ sähköposti
 <PARAGRAPH> 	
 - 	
 Täppää 	
-“Näytä 	
+“	
+Näytä	
 Apple  	misc
-ID”  	misc
+ID	misc
+“	
  	
 <PARAGRAPH> 	
 - 	
@@ -5355,9 +5284,9 @@ Etsi
 ja 	
 täppää 	
 kohtaa 	
-“Maa 	
-/ 	
-alue” 	
+“	
+Maa/alue	
+“	
  	
 <PARAGRAPH> 	
 - 	
@@ -5367,17 +5296,22 @@ kohtaa
 Vaihda 	
 maata 	
 tai 	
-aluetta” 	
+aluetta	
+“	
  	
 <PARAGRAPH> 	
 - 	
 Vaihda 	
 kohdasta 	
-“Store 	
-Suomi”  	loc
+“	
+Store	
+Suomi	loc
+“	
 maaksi 	
-“United  	loc
-States”  	loc
+“	
+United	loc
+States	loc
+“	
 . 	
  	
 Se 	
@@ -5399,8 +5333,10 @@ Tietysti
 - 	
 Valitse 	
 maksuvälineeksi 	
-“None” 	
- 	
+“	
+None	
+“	
+	
 <PARAGRAPH> 	
 - 	
 Pääsit 	
@@ -5415,8 +5351,7 @@ joko
 hakusanalla 	
 tai 	
 tämän 	
-lin 	
-kin 	
+linkin	
 kautta 	
 . 	
  	
@@ -5438,7 +5373,9 @@ ohjeita
 mutta 	
 valitsemalla 	
 maaksi 	
-“Suomi”  	loc
+“	
+Suomi	loc
+“	
 ja 	
 laittamalla 	
 maksuvälineeksi 	
@@ -5722,9 +5659,7 @@ Microsoftin  	org
 käyttöjärjestelmävanhuksen 	
 , 	
 Windows  	pro
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 , 	
 letkut 	
 irrotetaan 	
@@ -5864,8 +5799,7 @@ hakukoneensa
 ranskalaisella 	
 etusivulla 	
 ilmoitus 	
-150 	
-000 	
+150 000	
 euron 	
 sakoista 	
 . 	
@@ -5887,7 +5821,7 @@ fontiltaan
 vähintään 	
 koon 	
 13 	
-Arial  	misc
+Arial  	pro
 . 	
  	
 Mutta 	
@@ -6042,7 +5976,9 @@ on
 lopulliselta 	
 nimeltään 	
 Windows  	pro
-9.  	pro
+9	pro
+.	
+	
 Tällä 	
 tavalla 	
 Microsoft  	org
@@ -6173,7 +6109,9 @@ Thurrottin  	per
 mukaan 	
 valittu 	
 huhtikuu  	tim
-2015.  	tim
+2015	tim
+.	
+	
 Windows  	pro
 8.1:n  	pro
 ensimmäisen 	
@@ -6203,10 +6141,7 @@ hallitus
 potkii 	
 CGI:n  	org
 pellolle 	
-Healthcare  	pro
-.  	pro
-pro 	
-govista  	pro
+Healthcare.govista	pro
  	
 <DATE> 	
 13.1.2014 14:53 	
@@ -6238,10 +6173,7 @@ Services  	org
 ilmoitti 	
 lauantaina  	tim
 vaihtavansa 	
-Healthcare  	pro
-.  	pro
-pro 	
-gov-verkkosivuston  	pro
+Healthcare.gov-verkkosivuston	pro
 pääasiallista 	
 toimittajaa 	
 . 	
@@ -6291,10 +6223,7 @@ sairausvakuutusuudistuksen
 keskiössä 	
 oleva 	
 verkkoportaali 	
-Healthcare  	pro
-.  	pro
-pro 	
-gov  	pro
+Healthcare.gov	pro
 käynnistyi 	
 lokakuussa  	tim
 ja 	
@@ -6330,10 +6259,7 @@ pilata
 Valkoisen  	org
 talon  	org
 nimittämä 	
-Healthcare  	pro
-.  	pro
-pro 	
-govin  	pro
+Healthcare.govin	pro
 korjausjohtaja 	
 arvioi 	
 joulukuun  	tim
@@ -6355,8 +6281,8 @@ töitä
 on 	
 toki 	
 tehty 	
-sen  	tim
-jälkeenkin  	tim
+sen  	
+jälkeenkin  	
 . 	
  	
 Mutta 	
@@ -6507,9 +6433,9 @@ poistetut
 ja 	
 aikaisemmat  	tim
 tiedostoversiot 	
-30 	
-päivän 	
-ajaksi 	
+30 	tim
+päivän 	tim
+ajaksi 	tim
 . 	
  	
 Palvelu 	
@@ -6556,9 +6482,7 @@ Microsoftin  	org
 harras 	
 toive 	
 Windows  	pro
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 alasajosta 	
 näyttää 	
 saavan 	
@@ -6595,9 +6519,7 @@ Applications  	org
 mittasi 	
 . 	
  	
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 osuudeksi 	
 tietokoneiden 	
 käyttöjärjestelmissä 	
@@ -6614,9 +6536,7 @@ sijaan
  	
 Tätä 	btim
 ennen 	tim
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 osuus 	
 oli 	
 pysytellyt 	
@@ -6751,9 +6671,7 @@ laskussa
  	
 StatCounterin  	org
 mukaan 	
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 osuus 	
 putosi 	
 joulukuussa  	tim
@@ -6795,9 +6713,7 @@ on
 kampanjoinut 	
 käyttäjiä 	
 eroon 	
-XP  	pro
-:  	pro
-stä  	pro
+XP:stä	pro
 , 	
 koska 	
 sen 	
@@ -6822,9 +6738,7 @@ internetille
  	
 Ja 	
 vaikka 	
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 käyttö 	
 vähenee 	
 , 	
@@ -7029,7 +6943,8 @@ naulan
 kantaan 	
 , 	
 että 	
-”nimenomaan 	
+“	
+nimenomaan	
 tuon 	
 maksajan 	
 informoiminen 	
@@ -7052,7 +6967,8 @@ totea
 että 	
 verkkokauppa 	
 ei 	
-toimi” 	
+toimi	
+“	
 . 	
  	
 Paytrailin  	org
@@ -7122,11 +7038,7 @@ palvelu
 pelaa 	
 verrattuna 	
 edullisempaan 	
-Checkout  	pro
-.  	pro
-pro 	
-fi  	pro
--palveluun  	pro
+Checkout.fi-palveluun	pro
 , 	
 kertoo 	
 yksi 	
@@ -7294,9 +7206,7 @@ toimivat
 Windows  	pro
 10:tä  	pro
 ajavissa 	
-pöytä-pc 	
-: 	
-issä 	
+pöytä-pc:issä	
 ja 	
 kannettavissa 	
 ja 	
@@ -7609,16 +7519,13 @@ esityksen
  	
 <BODY> 	
 <PARAGRAPH> 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 puheenjohtaja  	tit
 Tom  	per
 Wheeler  	per
 paljasti 	
 keskiviikkona  	tim
-Wired-julkaisuss  	pro
-a 	
+Wired-julkaisussa	pro
 pääosat 	
 ehdotuksestaan 	
 internetin 	
@@ -7632,9 +7539,7 @@ esitellä
 suunnitelma 	
 kokonaisuudessaan 	
 viisihenkiselle 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 komissiolle 	
 tänään  	tim
 torstaina  	tim
@@ -7693,9 +7598,7 @@ toiseen
 kategoriaan 	
 , 	
 jossa 	
-FCC  	org
-:  	org
-llä  	org
+FCC:llä	org
 on 	
 suuret 	
 valtuudet 	
@@ -7720,12 +7623,7 @@ viittasi
 sääntelyyn 	
 , 	
 jossa 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 määrättiin 	
 hyväksymään 	
 myös 	
@@ -7759,9 +7657,7 @@ oikeusjutussa
 , 	
 jonka 	
 mukaan 	
-FCC  	org
-:  	org
-llä  	org
+FCC:llä	org
 ei 	
 ollut 	
 oikeutta 	
@@ -7809,9 +7705,7 @@ Suuria
 verkko-operaattoreita 	
 edustava 	
 , 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 entinen  	tim
 puheenjohtaja  	tit
 Michael  	per
@@ -7899,9 +7793,7 @@ osansa
 maailman 	
 suosituimmasta 	
 " 	
-mini-pc 	
-: 	
-stä 	
+mini-pc:stä	
 " 	
 , 	
 minkä 	
@@ -8088,8 +7980,7 @@ Nexus  	pro
 sekä 	
 Nexus  	pro
 9  	pro
--  	pro
-tablet-tietokoneeseen  	pro
+-tablet-tietokoneeseen  	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -8160,8 +8051,8 @@ JellyBean-versio  	pro
 joka 	
 kattaa 	
 versionumerot 	
-4.1:stä 	
-4.3:een 	
+4.1:stä 	pro
+4.3:een 	bpro
 . 	
  	
 JellyBeanin  	pro
@@ -8349,8 +8240,7 @@ siivottua
 romppeensa 	
 pois 	
 nykyisistä 	
-120 	
-000 	
+120 000	
 neliömetrin 	
 tiloista 	
 . 	
@@ -8647,11 +8537,9 @@ pysty
 toimittamaan 	
 Lollipop-päivitystä  	pro
 One  	bpro
-M7  	pro
-- 	
+M7-	pro
 ja 	
-M8  	pro
--puhelimiin  	pro
+M8-puhelimiin	pro
 ajoissa 	btim
 . 	
  	
@@ -8752,7 +8640,7 @@ koskee
 siis 	
 HTC  	pro
 One  	pro
-M7  	pro
+M7-	pro
 -  	pro
 ja 	
 M8  	pro
@@ -8803,9 +8691,7 @@ on
 tuonut 	
 Lollipopin  	pro
 Galaxy  	bpro
-S4  	pro
-:  	pro
-n  	pro
+S4:n	pro
 venäläisille 	
 käyttäjille 	
 . 	
@@ -8819,9 +8705,7 @@ jo
 laajasti 	
 saatavilla 	
 Galaxy  	pro
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 omistajille 	
 maailmalla 	
 . 	
@@ -8914,10 +8798,7 @@ eilen  	tim
 tai 	
 tänään  	tim
 uuteen 	btim
-8.3  	pro
-.  	pro
- 	
-5.0-versioon  	pro
+8.3.5.0-versioon	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -9192,7 +9073,7 @@ vaikutelma
 Ylläpidon 	
 vastaus 	
 nimimerkki 	
-Ykskamun 	
+Ykskamun 	per
 viestiin 	
 tuli 	
 tosiaan 	
@@ -9468,9 +9349,7 @@ juuri
 ison 	
 esteen 	
 uuden 	btim
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 tieltä 	
 ? 	
  	
@@ -9507,10 +9386,7 @@ Apple  	org
 alkoi 	
 jakaa 	
 iOS  	pro
-8.1  	pro
-.  	pro
-pro 	
-3  	pro
+8.1.3	pro
 -käyttöjärjestelmää  	pro
 mobiililaitteisiinsa 	
 kuten 	
@@ -9847,24 +9723,6 @@ Israel  	loc
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74772 	
-) 	
- 	
-<PARAGRAPH> 	
 Tilastot 	
 eivät 	
 kerro 	
@@ -9954,8 +9812,7 @@ maailmassa
 on 	
 digitaalista 	
 tietoa 	
-5 	
-200 	
+5 200	
 gigatavua 	
 jokaista 	
 ihmistä 	
@@ -9989,8 +9846,7 @@ uudelle
 nauhakasetille 	
 voi 	
 tallentaa 	
-185 	
-000 	
+185 000	
 gigatavua 	
 dataa 	
 . 	
@@ -10033,8 +9889,7 @@ Yhdelle
 kasetille 	
 voisi 	
 tallentaa 	
-3 	
-700 	
+3 700	
 blu-ray-levyä 	
 . 	
  	
@@ -10123,10 +9978,7 @@ X  	pro
 Mavericksin  	pro
 OS  	bpro
 X  	pro
-10.9  	pro
-.  	pro
-pro 	
-3  	pro
+10.9.3	pro
 -betaversion  	pro
 tiistaina  	tim
 ja 	
@@ -10407,9 +10259,7 @@ sisältäisi
 myös 	
 uusia 	btim
 Modern  	pro
-UI  	pro
-:  	pro
-n  	pro
+UI:n	pro
 käyttötiiliä 	
 ja 	
 tehokkaan 	
@@ -10505,10 +10355,7 @@ epäonnistuessa
  	
 Myös 	
 verkko-osoite 	
-Samsung  	pro
-.  	pro
-pro 	
-com  	pro
+Samsung.com	pro
 lakkasi 	
 toimimasta 	
 . 	
@@ -10622,9 +10469,7 @@ kyseenalaiseksi
 oman 	
 tunnuslauseensa 	
 " 	
-Don 	
-' 	
-t 	
+Don't 	
 be 	
 evil 	
 " 	
@@ -10837,7 +10682,8 @@ lienee
 Microsoftin  	org
 uusi 	btim
 Windows  	pro
-8.  	pro
+8	pro
+.	
  	
 <PARAGRAPH> 	
 Nyt  	tim
@@ -10917,8 +10763,7 @@ lisäksi
 uuden 	btim
 ulkoasun 	
 saavat 	
-Google  	pro
-+  	pro
+Google+	pro
 , 	
 Calendar  	pro
 , 	
@@ -11000,9 +10845,7 @@ naamioituu
 tarvittaessa 	
 vaikka 	
 Windows  	pro
-XP  	pro
-:  	pro
-ksi  	pro
+XP:ksi	pro
 . 	
  	
 <BODY> 	
@@ -11044,9 +10887,7 @@ on
 hyödyntänyt 	
 sitä 	
 vältellessään 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 lonkeroita 	
 . 	
  	
@@ -11080,9 +10921,7 @@ System  	pro
  	
 <PARAGRAPH> 	
 Tails  	pro
-OS  	pro
-:  	pro
-ää  	pro
+OS:ää	pro
 ei 	
 ole 	
 koskaan 	btim
@@ -11163,9 +11002,7 @@ naamioitua
 muistuttamaan 	
 ulkonäöltään 	
 Windows  	pro
-XP  	pro
-:  	pro
-tä  	pro
+XP:tä	pro
 . 	
  	
 Tällä 	
@@ -11202,7 +11039,7 @@ ja
 kantaa 	
 nyt  	tim
 versionumeroa 	
-1.0 	
+1.0 	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -11547,9 +11384,7 @@ kuitenkaan
 mukaan 	
 antaudu 	
 enemmän 	
-iOS  	pro
-:  	pro
-ää  	pro
+iOS:ää	pro
 muistuttavalle 	
 käyttökokemukselle 	
 . 	
@@ -11589,9 +11424,7 @@ Nokian  	org
 aikeet 	
 Androidille  	pro
 ja 	
-iOS  	pro
-:  	pro
-lle  	pro
+iOS:lle	pro
  	
 <DATE> 	
 5.5.2014 09:08 	
@@ -11659,9 +11492,7 @@ olleet
 käytettävissä 	
 Androidilla  	pro
 ja 	
-iOS  	pro
-:  	pro
-llä  	pro
+iOS:llä	pro
 selaimen 	
 kautta 	
 , 	
@@ -11721,9 +11552,7 @@ muassa
 kehittyneiden 	
 paikkatietosovellusten 	
 kehittäminen 	
-iOS  	pro
-:  	pro
-lle  	pro
+iOS:lle	pro
 ja 	
 Androidille  	pro
 , 	
