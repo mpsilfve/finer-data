@@ -11645,10 +11645,7 @@ jäljellä
  	
 <BODY> 	
 <PARAGRAPH> 	
-1  	tim
-\  	tim
-.  	tim
-tim 	
+1.	tim
 toukokuuta  	tim
 1964  	tim
 tapahtui 	
@@ -11703,9 +11700,7 @@ opetusta
  	
 Basic  	pro
 ( 	
-Beginner  	pro
-'  	pro
-s  	pro
+Beginner's	pro
 All-purpose  	pro
 Symbolic  	pro
 Instruction  	pro
@@ -11907,9 +11902,7 @@ kun
 saataisiin 	
 lisää 	
 Raspberry  	pro
-Pi  	pro
-:  	pro
-n  	pro
+Pi:n	pro
 kaltaisia 	
 vempeleitä 	
 , 	
@@ -12419,13 +12412,11 @@ nettipalveluista
 <PARAGRAPH> 	
 KPN  	org
 sai 	
-250 	
-000 	
+250 000	
 euron 	
 ja 	
 Vodafone  	org
-200 	
-000 	
+200 000	
 euron 	
 sakon 	
 , 	
@@ -13008,10 +12999,7 @@ web-teknologioilla
 kuten 	
 React  	pro
 ja 	
-Node  	pro
-. 	
- 	
-js 	
+Node.js	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -13143,8 +13131,7 @@ paikkansa
 hakkeriryhmä 	
 Lizard  	org
 Squadin  	org
-väitttee 	
-t 	
+väitteet	
 palvelun 	
 kaatamisesta 	
 ovat 	
@@ -13158,7 +13145,7 @@ kaatui
 tiistaina  	tim
 Suomen  	btim
 aikaa  	tim
-aamukahdeksan  	tim
+aamukahdeksan  	btim
 jälkeen  	tim
 ja 	
 oli 	
@@ -13260,7 +13247,7 @@ Hipcat  	pro
 olivat 	
 nurin 	
 tiistaiaamuna  	tim
-Suomen  	tim
+Suomen  	btim
 aikaa  	tim
 . 	
  	
@@ -13312,19 +13299,17 @@ Tinder  	pro
 AIM  	pro
 , 	
 Hipchat  	pro
-# 	
-offline 	
-# 	
-LizardSquad— 	
+#offline	
+#LizardSquad— 	
 Lizard 	
 Squad 	
 ( 	
 @ 	
 LizardMafia 	
 ) 	
-January  	tim
-27  	tim
-,  	tim
+January  	
+27  	
+,  	
 2015  	tim
  	
 <PARAGRAPH> 	
