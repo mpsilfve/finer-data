@@ -13996,13 +13996,9 @@ Ylivoimaisesti
 suurimmat 	
 domain-päätteet 	
 ovat 	
-. 	
- 	
-com 	
+.com	
 ja 	
-. 	
- 	
-net 	
+.net	
 . 	
  	
 Niiden 	
@@ -14014,8 +14010,7 @@ oli
 miljoonaa 	
 . 	
  	
-. 	
-com-päätteitä 	
+.com-päätteitä	
 oli 	
 kaikkiaan 	
 114,9 	
@@ -14037,8 +14032,7 @@ System  	pro
 ( 	
 DNS  	pro
 ) 	
-- 	
-tdl-kyselyjä 	
+-tdl-kyselyjä	
 tehtiin 	
 päivittäin  	tim
 keskimäärin 	
@@ -14076,9 +14070,7 @@ pelaajille
 23.1.2015 15:27 	
  	
 <INGRESS> 	
-DirectX  	pro
-:  	pro
-n  	pro
+DirectX:n	pro
 lisäksi 	
 Microsoft  	org
 kertoi 	
@@ -14183,7 +14175,8 @@ hetkellä  	tim
 markkinoita 	
 dominoiva 	
 DirectX  	pro
-11.  	pro
+11	pro
+.	
  	
 <PARAGRAPH> 	
 Tilaisuudessa 	
@@ -14209,7 +14202,8 @@ DirectX  	misc
 , 	
 toisessa 	
 DirectX  	misc
-12.  	misc
+12	misc
+.	
  	
 <PARAGRAPH> 	
 Kun 	
@@ -14400,15 +14394,15 @@ Windows  	pro
 voi 	
 päivittää 	
 maksutta 	
-vuoden 	
-ajan 	
+vuoden 	tim
+ajan 	tim
 sen 	
 ilmestymisestä 	
 . 	
  	
 Mutta 	
 entä 	
-ensimmäisen 	
+ensimmäisen 	tim
 vuoden  	tim
 jälkeen  	tim
 ? 	
@@ -14501,7 +14495,8 @@ päättyy
 sen 	
 tukiaika 	
 vuonna  	tim
-2025.  	tim
+2025	tim
+.	
  	
 <PARAGRAPH> 	
 Sen 	
@@ -14779,11 +14774,9 @@ on
 ilmainen 	
 päivitys 	
 Windows  	misc
-7  	misc
-- 	
+7-	misc
 ja 	
-8.1  	misc
--käyttäjille  	misc
+8.1-käyttäjille	misc
 . 	
  	
 <PARAGRAPH> 	
@@ -14791,8 +14784,8 @@ Tarjous
 on 	
 voimassa 	
 vuoden  	tim
-siitä  	tim
-hetkestä  	tim
+siitä  	
+hetkestä  	
 , 	
 kun 	
 Windows  	pro
@@ -14843,8 +14836,7 @@ tarjonneet
 Microsoftille  	org
 yhteensä 	
 jo 	
-800 	
-000 	
+800 000	
 kehitysehdotusta 	
 ja 	
 virheraporttia 	
@@ -15028,7 +15020,8 @@ määrä
 olla 	
 valmis 	
 vuonna  	tim
-2017.  	tim
+2017	tim
+.	
  	
 <PARAGRAPH> 	
 Osapuolille 	
@@ -15370,7 +15363,7 @@ väärti
 . 	
  	
 <PARAGRAPH> 	
-HowToGeek-verkkosivusto  	misc
+HowToGeek-verkkosivusto  	pro
 testasi 	
 , 	
 mitä 	
@@ -15378,10 +15371,7 @@ tapahtuu
 , 	
 kun 	
 lataussivusto 	
-Download  	pro
-.  	pro
-pro 	
-comista  	pro
+Download.comista	pro
 ladataan 	
 ja 	
 asennetaan 	
@@ -15392,10 +15382,7 @@ Windows-ilmaisohjelmaa  	misc
 . 	
  	
 <PARAGRAPH> 	
-Download  	pro
-.  	pro
-pro 	
-com  	pro
+Download.com	pro
 valittiin 	
 kohteeksi 	
 siitä 	
@@ -15551,10 +15538,8 @@ kuten
 Linuxia  	pro
 tai 	
 Mac  	pro
-OS  	pro
-X  	pro
-:  	pro
-ää  	pro
+OS	pro
+X:ää	pro
 . 	
  	
 Erityisesti 	
@@ -15642,9 +15627,7 @@ iPhone  	pro
 , 	
 kertoo 	
 taiwanilainen 	
-Technews  	org
--  	org
-sivusto  	org
+Technews-sivusto	org
 . 	
  	
 <PARAGRAPH> 	
@@ -15785,9 +15768,6 @@ kameraa
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Uutuus 	
 käy 	
 kalliiksi 	
@@ -15802,8 +15782,8 @@ hintoja
 entisestään 	
 , 	
 sillä 	
-LPDDR4  	misc
-ram-muistit  	misc
+LPDDR4  	pro
+ram-muistit  	pro
 ovat 	
 35 	
 prosenttia 	
@@ -16015,8 +15995,7 @@ ilmoittavien
 ) 	
 osuus 	
 on 	
-29 	
-% 	
+29%	
 . 	
  	
 Pienin 	
@@ -16028,8 +16007,7 @@ Saksassa  	loc
 jossa 	
 se 	
 on 	
-13 	
-% 	
+13%	
 . 	
  	
 <PARAGRAPH> 	
@@ -16322,9 +16300,8 @@ luettavissa
 esimerkiksi 	
 MB-lehden  	pro
 numerosta  	pro
-1  	pro
-/  	pro
-2015.  	pro
+1/2015	pro
+.	
  	
 <PARAGRAPH> 	
 Microsoftin  	org
@@ -16523,9 +16500,7 @@ vapaasti
 <PARAGRAPH> 	
 Palvelusta 	
 uutisoineiden 	
-Re  	org
-/  	org
-coden  	org
+Re/coden	org
 ja 	
 Techcrunchin  	org
 mukaan 	
@@ -16608,9 +16583,7 @@ mobiilisovelluksella
 jollainen 	
 on 	
 olemassa 	
-iOS  	pro
-:  	pro
-lle  	pro
+iOS:lle	pro
 ja 	
 Androidille  	pro
 . 	
@@ -16754,9 +16727,7 @@ kertoo
 , 	
 jonka 	
 mukaan 	
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 bluetooth-asetuksista 	
 löytyy 	
 uusi 	btim
@@ -16920,10 +16891,7 @@ Desktop  	pro
 Yhtiö 	
 kertoo 	
 asiasta 	
-Google  	pro
-+  	pro
-:  	pro
-ssa  	pro
+Google+:ssa	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -17056,11 +17024,11 @@ että
 seuraava 	
 mobiilikäyttöjärjestelmä 	
 , 	
-"  	pro
+"  	
 Windows  	pro
 10  	pro
 Mobile  	pro
-"  	pro
+"  	
 , 	
 on 	
 jo 	
@@ -17076,9 +17044,7 @@ ympärillä
 . 	
  	
 <PARAGRAPH> 	
-NPU  	org
-:  	org
-n  	org
+NPU:n	org
 mukaan 	
 Windows  	pro
 Phone  	pro
@@ -17251,11 +17217,9 @@ piiriin
 Jatkettu 	
 tuki 	
 päättyy 	
-14.1  	tim
-.  	tim
-tim 	
-2020.  	tim
- 	
+14.1.2020	tim
+.	
+	
 <PARAGRAPH> 	
 Muutos 	
 tarkoittaa 	
@@ -17351,7 +17315,9 @@ Windows  	pro
 mainstream-tuki 	
 päättyy 	
 tammikuussa  	tim
-2018.  	tim
+2018	tim
+.	
+	
 Microsoft  	org
 jättää 	
 välistä 	
@@ -17387,12 +17353,7 @@ Fiber  	pro
 pelottaa 	
 ? 	
  	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 avasi 	
 kilpailevan 	
 gigayhteyden 	
@@ -17416,12 +17377,7 @@ perinteisiä
 teleoperaattoreita 	
 . 	
  	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ryhtyi 	
 tarjoamaan 	
 omaa 	
@@ -17439,12 +17395,7 @@ ensiasennuksesta
  	
 <BODY> 	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 tarjoaa 	
 omaa 	
 GigaPower-palveluaan  	pro
@@ -17478,14 +17429,7 @@ mainoksia
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-llä  	org
+AT&amp;T;:llä	org
 on 	
 kuitenkin 	
 etulyöntiasema 	
@@ -17532,12 +17476,7 @@ pylväisiin
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ei 	
 toki 	
 ole 	
@@ -17872,8 +17811,8 @@ mutta
 se 	
 ei 	
 tapahdu 	
-ihan 	
-heti 	btim
+ihan 	tim
+heti 	tim
 . 	
  	
 Viikonoppu  	tim
@@ -18056,8 +17995,8 @@ valmiina
 odottamassa 	
 . 	
  	
-Tämän  	tim
-jälkeen  	tim
+Tämän  	
+jälkeen  	
 hänen 	
 tarvitsee 	
 vain 	
@@ -18549,9 +18488,7 @@ että
 olisimme 	
 muuttaneet 	
 linjaustamme 	
-vpn  	pro
-:  	pro
-n  	pro
+vpn:n	pro
 suhteen 	
 , 	
 ovat 	
@@ -18589,9 +18526,7 @@ Uutisissa
 puhuttiin 	
 muun 	
 muassa 	
-UnoDNS  	org
-:  	org
-n  	org
+UnoDNS:n	org
 , 	
 Unblockusin  	org
 ja 	
@@ -18600,16 +18535,13 @@ havainneen
 pienen 	
 määrän 	
 epätavallisia 	
-vp  	misc
-n-estoja  	misc
+vpn-estoja	misc
 Netflixin  	pro
 yhteyksissä 	
 . 	
  	
 <PARAGRAPH> 	
-Vpn  	pro
-:  	pro
-n  	pro
+Vpn:n	pro
 käyttö 	
 on 	
 ollut 	
@@ -18658,9 +18590,7 @@ Ihmiset
 , 	
 jotka 	
 käyttävät 	
-vpn  	pro
-:  	pro
-ää  	pro
+vpn:ää	pro
 päästäkseen 	
 palveluumme 	
 [ 	
@@ -18804,14 +18734,7 @@ Laitteessa
 on 	
 myös 	
 langattomat 	
-802  	misc
-.  	misc
-misc 	
-11b  	misc
-/  	misc
-g  	misc
-/  	misc
-n  	misc
+802.11b/g/n	misc
 wlan-  	misc
 sekä 	
 bluetooth  	misc
@@ -19023,10 +18946,8 @@ paljon
 Applen  	org
 Macbookien  	pro
 Mac  	bpro
-OS  	pro
-X  	pro
-:  	pro
-ää  	pro
+OS	pro
+X:ää	pro
 . 	
  	
 Käyttöjärjestelmän 	
@@ -19069,9 +18990,7 @@ yleisimmin
 tietokoneilla 	
 käytetään 	
 Windows  	pro
-XP  	pro
-:  	pro
-tä  	pro
+XP:tä	pro
 . 	
  	
 Chaos  	event
@@ -19400,9 +19319,7 @@ Jeep-maastoautosta  	pro
 yhdessä 	
 Blackberryn  	org
 tytäryhtiön 	
-QNX  	org
-:  	org
-n  	org
+QNX:n	org
 kanssa 	
 . 	
  	
@@ -19410,9 +19327,7 @@ kanssa
 Autoissa 	
 demotaan 	
 esimerkiksi 	
-EB  	org
-:  	org
-n  	org
+EB:n	org
 navigointisoftaa 	
 ja 	
 toista 	
@@ -19426,9 +19341,7 @@ havainnoida
 liikennemerkkejä 	
 . 	
  	
-EB  	org
-:  	org
-n  	org
+EB:n	org
 tavoitteena 	
 on 	
 olla 	
@@ -19461,9 +19374,7 @@ Tarkoitus
 on 	
 " 	
 syventää 	
-EB  	org
-:  	org
-n  	org
+EB:n	org
 , 	
 autovalmistajien 	
 ja 	
@@ -19494,9 +19405,7 @@ yrityskumppaneita
 jotka 	
 voisivat 	
 täydentää 	
-EB  	org
-:  	org
-n  	org
+EB:n	org
 ohjelmistoja 	
 omalla 	
 teknologiallaan 	
@@ -19524,9 +19433,7 @@ Kajaanin  	loc
 ja 	
 Tampereen  	loc
 toimipisteissä 	
-EB  	org
-:  	org
-n  	org
+EB:n	org
 keskittäessä 	
 toimintaa 	
 Ouluun  	loc
@@ -19857,21 +19764,17 @@ on
 useimmiten 	btim
 asetukset 	
 sekä 	
-LAN  	misc
-:  	misc
-lle  	misc
+LAN:lle	pro
 että 	
-WAN  	misc
-:  	misc
-lle  	misc
+WAN:lle	pro
 . 	
  	
-LAN  	misc
+LAN  	pro
 tarkoittaa 	
 omaa 	
 sisäverkkoa 	
 , 	
-WAN  	misc
+WAN  	pro
 taas 	
 internetiä 	
 . 	
@@ -19899,9 +19802,7 @@ tai
 Ota 	
 käyttöön 	
 vain 	
-LAN  	misc
-:  	misc
-ssa  	misc
+LAN:ssa	pro
 " 	
 . 	
  	
@@ -19942,9 +19843,6 @@ kokonaan
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Vaihda 	
 salasana 	
 ja 	
@@ -20126,9 +20024,6 @@ päälle
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Turvallisuus 	
 usein 	btim
 käyttäjien 	
@@ -20533,14 +20428,7 @@ joka
 sai 	
 tutkan 	
 näkemään 	
-Exploit  	pro
-:  	pro
-JS  	pro
-/  	pro
-HuanJuanEK  	pro
-.  	pro
-pro 	
-A-nimisen  	pro
+Exploit:JS/HuanJuanEK.A-nimisen	pro
 haitan 	
 " 	
 usean 	
@@ -20681,9 +20569,7 @@ suositumpia
 kilpailijoita 	
 Androidia  	pro
 ja 	
-iOS  	pro
-:  	pro
-ää  	pro
+iOS:ää	pro
 . 	
  	
 Niille 	
@@ -20953,8 +20839,7 @@ että
 se 	
 jäi 	
 monelta 	
-asentama 	
-tta 	
+asentamatta	
 juuri 	
 siksi 	
 , 	
@@ -21022,10 +20907,7 @@ nurin
 korttimaksut 	
 eivät 	
 onnistu 	
-. 	
- 	
-. 	
-. 	
+...	
  	
 OP-ryhmällä  	org
 näyttää 	
@@ -21085,10 +20967,7 @@ toimi
 ja 	
 ylipäätään 	
 koko 	
-op  	pro
-.  	pro
-pro 	
-fi-verkkosivusto  	pro
+op.fi-verkkosivusto	pro
 kieltäytyi 	
 avautumasta 	
 Digitodayn  	org
@@ -21123,9 +21002,7 @@ tietoliikennehäiriö
 . 	
  	
 <PARAGRAPH> 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 Twitter-tilin  	misc
 mukaan 	
 " 	
@@ -21133,9 +21010,7 @@ laaja
 tietoliikennehäiriö 	
 vaikuttaa 	
 kaikkiin 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 palveluihin 	
 . 	
  	
@@ -21278,7 +21153,7 @@ kanssa
 Hakkerit 	
 olisivat 	
 julkaisseet 	
-elokuvia 	btim
+elokuvia 	
 laittomasti 	
 . 	
  	
@@ -22006,9 +21881,7 @@ Spartanin  	pro
 on 	
 määrä 	
 käyttää 	
-IE  	pro
-:  	pro
-stä  	pro
+IE:stä	pro
 tuttua 	
 JavaScript-moottoria  	misc
 nimeltä 	
@@ -22064,10 +21937,10 @@ jää
 esiintyykö 	
 tämä 	
 mystinen 	
-"  	misc
-Spartan  	misc
-"  	misc
--selain  	misc
+"  	
+Spartan  	pro
+"  	
+-selain  	
 sielläkin 	
 . 	
  	
@@ -22246,9 +22119,7 @@ esimerkiksi
 Skypen  	pro
 olevan 	
 avoin 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 vakoilulle 	
 . 	
  	
@@ -22647,9 +22518,7 @@ pelaajat
 valittivat 	
 vielä 	
 sunnuntaina  	tim
-PSN  	pro
-:  	pro
-n  	pro
+PSN:n	pro
 olevan 	
 tavoittamattomissa 	
 . 	
@@ -22703,7 +22572,8 @@ kaikki
 menikään 	
 pieleen 	
 vuonna  	tim
-2014.  	tim
+2014	tim
+.	
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -22767,9 +22637,7 @@ reagoimaan
  	
 Year  	pro
 in  	pro
-Review  	pro
-'  	pro
-n  	pro
+Review'n	pro
 tuotejohtaja  	tit
 Jonathan  	per
 Gheller  	per
@@ -22879,7 +22747,7 @@ johtajan
 salamurhasta 	
 tulee 	
 sittenkin 	
-elokuvateattereihin 	btim
+elokuvateattereihin 	
 . 	
  	
 <BODY> 	
@@ -22903,7 +22771,7 @@ kertoi
 tutkivansa 	
 mahdollisuuksia 	
 levittää 	
-elokuvaa  	tim
+elokuvaa  	
 laajemmin 	
 ja 	
 eri 	
@@ -22931,7 +22799,7 @@ uhkasi
 vastatoimilla 	
 , 	
 jos 	
-elokuva  	tim
+elokuva  	
 tulee 	
 levitykseen 	
 . 	
@@ -22959,7 +22827,7 @@ Sony  	org
 kertoi 	
 aiemmin  	tim
 hyllyttävänsä 	
-elokuvan 	btim
+elokuvan 	
 , 	
 mutta 	
 sekin 	
@@ -22983,7 +22851,7 @@ ei
 olisi 	
 pitänyt 	
 vetää 	
-elokuvaa 	btim
+elokuvaa 	
 pois 	
 levityksestä 	
 . 	
@@ -23049,12 +22917,11 @@ saatetaan
 tehdä 	
 samaan  	tim
 aikaan  	tim
-"  	pro
+"  	
 Galaxy  	pro
 S6  	pro
-"  	pro
-:  	pro
-n  	pro
+"  	
+:n	
 kanssa 	
 1.  	tim
 maaliskuuta  	tim
@@ -23231,8 +23098,8 @@ kirjoittaa
 kuun 	
 muassa 	
 The  	org
-Verg  	org
-e.  	org
+Verge	org
+.	org
  	
 <PARAGRAPH> 	
 Ominaisuus 	
@@ -23899,8 +23766,7 @@ Fredrikson  	per
 sanoi 	
 kertoi 	
 viikolla  	tim
-Dig  	org
-itodaylle  	org
+Digitodaylle	org
 F-Securen  	borg
 vastaavan 	
 toistaiseksi  	tim
@@ -24133,9 +23999,7 @@ Apple  	org
 ei 	
 kommentoinut 	
 asiaa 	
-WSJ  	org
-:  	org
-lle  	org
+WSJ:lle	org
 . 	
  	
 <HEADLINE> 	

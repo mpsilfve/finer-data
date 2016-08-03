@@ -159,6 +159,7 @@ Markable organizations include:
 \item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, X, Helsingin Sanomat, X, X, X 
 \item[1.] Television network/station/channel: e.g. MTV3, FOX
 \item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
+\item[1.] Websites (not single web-links, see below): e.g.
 
 \end{itemize}
 
@@ -195,11 +196,10 @@ Markable products include:
 \item[1.] Platforms: e.g. Google Play, Kickstarter
 \item[1.] Projects/Programs: e.g.
 \item[1.] Protocols: e.g. pop3, imap
-\item[1.] Services: e.g. Apple Store, Google Play
+\item[1.] Services/Platforms: e.g. Apple Store, Google Play
 \item[1.] Software: e.g. Windows 10
 \item[1.] Space probes: e.g. Opportunity
 \item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
-\item[1.] Websites (not single web-links): e.g.
 \item[1.] Works: e.g. Tuntematon Sotilas 
 
 \end{itemize}
@@ -235,6 +235,9 @@ Markable events include:
 According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. According to the above criteria, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example, "". 
 
 
+
+\paragraph{URL} Markable 
+
 %In general, temporal expressions refer to expressions denoting, for example, a certain point in time, a duration, or a frequency. In the following, we address some more detailed aspects concerning their annotation. 
 
 %First, to be markable, the syntactic head of the expression must be an appropriate lexical trigger. A lexical trigger is a word or numeric expression, the meaning of which conveys a temporal unit or concept, such as ''day'', ''month'', or ''year''. Additionally, one must be able to orient the trigger on a timeline, or at least orient it with relation to a time (past, present, future). As for related work, this general guideline is identical with the TIMEX3 annotation standard \citep{verhagen2010}.
@@ -260,13 +263,14 @@ According to our definition, temporal expressions may contain adpositions. For e
 \subsection{Annotation Process}
 
 
+
 \subsection{Comments and Known Issues}
 
-\pararaph{Organization versus Product}. For example, consider the two related but distinct meanings of Youtube in "Katsoa videoita Youtubesta" ja "Youtube on Googlen omistama yhtiš".
+\paragraph{Organization versus Product} 1) For example, consider the two related but distinct meanings of Youtube in "Katsoa videoita Youtubesta" ja "Youtube on Googlen omistama yhti\"o". These are disambiguated according to context. 2) Websites are most often used in organisation-sense (Amazon.com, Verkkokauppa.com) but can be also used in product-sense ("Amazon.com-sivusto kaatui keskiy\"oll\"a."). The product-sense is chosen if appropriate.
 
-\pararaph{Organization versus Location}. For example, consider India as a geographical location in "" and India as a governmental organization in "".
+\paragraph{Organization versus Location} For example, consider India as a geographical location in "" and India as a governmental organization in "".
 
-\pararaph{Explicit naming}. For example, consider "Nokia N1-niminen puhelin".
+\paragraph{Explicit naming} For example, consider "Nokia N1-niminen puhelin".
 
 
 
