@@ -13718,11 +13718,7 @@ Kun
 asia 	
 tuli 	
 julkisuuteen 	
-Elliott  	pro
-.  	pro
-pro 	
-org  	pro
--blogissa  	pro
+Elliot.org-blogissa	pro
 , 	
 kävi 	
 ilmi 	
@@ -13892,8 +13888,8 @@ julkisuuteen
 vain 	
 muutama  	tim
 päivä  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Comcastin  	org
@@ -13964,8 +13960,10 @@ asiakaspalvelusta
 tulee 	
 yksi 	
 yrityksen 	
-“parhaista 	
-tuotteista” 	
+“	
+parhaista	
+tuotteista	
+“	
 . 	
  	
 <PARAGRAPH> 	
@@ -14123,12 +14121,7 @@ dollaria
 Maan 	
 suurimmat 	
 operaattorit 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ja 	
 Verizon  	org
 ovat 	
@@ -14154,12 +14147,7 @@ varainhankintatietojen
 perusteella 	
 , 	
 että 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ostaa 	
 taajuuksia 	
 20–22 	
@@ -14324,9 +14312,7 @@ Nopeusrajan
 muutos 	
 johtaa 	
 sellaiseen 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 tulkintaan 	
 , 	
 että 	
@@ -14344,9 +14330,7 @@ kirjoitti
 . 	
  	
 <PARAGRAPH> 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 2015  	pro
 Broadband  	pro
 Progress  	pro
@@ -14744,7 +14728,8 @@ Nokialle  	org
 paluun 	
 puhelinmarkkinoille 	
 vuonna  	tim
-2016.  	tim
+2016	tim
+.	
  	
 <PARAGRAPH> 	
 – 	
@@ -15044,13 +15029,7 @@ kahden  	tim
 vuoden  	tim
 ajan  	tim
 työskennellyt 	
-R 	
-& 	
-amp 	
-; 	
-D 	
-; 	
--johtajana 	
+R&amp;D;-johtajana	misc
 yhtiön 	
 Oulun  	loc
 tutkimuskeskuksesta 	
@@ -15258,9 +15237,6 @@ alla
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Todellinen 	
 selfie-puhelin 	
  	
@@ -15588,9 +15564,7 @@ prosenttia
 . 	
  	
 Applen  	org
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 markkinaosuus 	
 nousi 	
 14,9 	
@@ -15667,164 +15641,6 @@ Samsung  	org
 ja 	
 Microsoft  	org
 vikisevät 	
-Länsi-Euroopan  	loc
-äly- 	
-ja 	
-featurepuhelinten 	
-toimitukset 	
-2014  	tim
-| 	
-Toimittaja 	
-| 	
-2014  	tim
-kpl 	
-, 	
-milj. 	
-| 	
-2014  	tim
-osuus 	
-| 	
-2013  	tim
-kpl 	
-, 	
-milj. 	
-| 	
-2013  	tim
-osuus 	
-| 	
-2014  	tim
-/ 	
-2013  	tim
-muutos 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-1 	
-\ 	
-. 	
- 	
-Samsung  	org
-| 	
-61.4 	
-| 	
-35.30 	
-% 	
-| 	
-77.7 	
-| 	
-42.30 	
-% 	
-| 	
-- 	
-21 	
-% 	
-2 	
-\ 	
-. 	
- 	
-Apple  	org
-| 	
-30.9 	
-| 	
-17.70 	
-% 	
-| 	
-26.9 	
-| 	
-14.60 	
-% 	
-| 	
-14.90 	
-% 	
-3 	
-\ 	
-. 	
- 	
-Nokia  	org
-/ 	
-Microsoft  	org
-| 	
-19.7 	
-| 	
-11.30 	
-% 	
-| 	
-25.9 	
-| 	
-14.10 	
-% 	
-| 	
-- 	
-23.90 	
-% 	
-4 	
-\ 	
-. 	
- 	
-Sony  	org
-| 	
-15.2 	
-| 	
-8.70 	
-% 	
-| 	
-14.8 	
-| 	
-8.10 	
-% 	
-| 	
-2.70 	
-% 	
-5 	
-\ 	
-. 	
- 	
-LG  	org
-Electronics  	org
-| 	
-8.7 	
-| 	
-5 	
-% 	
-| 	
-8.1 	
-| 	
-4.40 	
-% 	
-| 	
-7.40 	
-% 	
-6 	
-\ 	
-. 	
- 	
-Others 	
-| 	
-38.2 	
-| 	
-22 	
-% 	
-| 	
-30.3 	
-| 	
-16.50 	
-% 	
-| 	
-26.10 	
-% 	
-! 	
- 	
-Lähde 	
-: 	
-IDC  	org
 Älypuhelimissa 	
 Nokia-Microsoft  	org
 6,9 	
@@ -15873,162 +15689,7 @@ voittivat
 , 	
 Blackberry  	pro
 romahti 	
-Länsi-Euroopan  	loc
-älypuhelinten 	
-käyttöjärjestelmätoimitukset 	
-2014  	tim
-| 	
-Toimittaja 	
-| 	
-2014  	tim
-kpl 	
-, 	
-milj. 	
-| 	
-2014  	tim
-osuus 	
-| 	
-2013  	tim
-kpl 	
-, 	
-milj. 	
-| 	
-2013  	tim
-osuus 	
-| 	
-2014  	tim
-/ 	
-2013  	tim
-muutos 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-1 	
-\ 	
-. 	
- 	
-Android  	pro
-| 	
-103.8 	
-| 	
-71.20 	
-% 	
-| 	
-97 	
-| 	
-70.80 	
-% 	
-| 	
-7 	
-% 	
-2 	
-\ 	
-. 	
- 	
-iOS  	pro
-| 	
-30.9 	
-| 	
-21.20 	
-% 	
-| 	
-26.9 	
-| 	
-19.60 	
-% 	
-| 	
-14.90 	
-% 	
-3 	
-\ 	
-. 	
- 	
-Windows  	pro
-Phone  	pro
-| 	
-9.9 	
-| 	
-6.80 	
-% 	
-| 	
-8.2 	
-| 	
-6 	
-% 	
-| 	
-20.70 	
-% 	
-4 	
-\ 	
-. 	
- 	
-BlackBerry  	pro
-OS  	pro
-| 	
-1 	
-| 	
-0.70 	
-% 	
-| 	
-4.7 	
-| 	
-3.40 	
-% 	
-| 	
-- 	
-78.70 	
-% 	
-5 	
-\ 	
-. 	
- 	
-Firefox  	pro
-OS  	pro
-| 	
-0.1 	
-| 	
-0.07 	
-% 	
-| 	
-0.1 	
-| 	
-0.10 	
-% 	
-| 	
-0 	
-% 	
-6 	
-\ 	
-. 	
- 	
-muut 	
-| 	
-0.1 	
-| 	
-0.07 	
-% 	
-| 	
-0.1 	
-| 	
-0.10 	
-% 	
-| 	
-0 	
-% 	
-! 	
- 	
-Lähde 	
-: 	
-IDC  	org
- 	
+	
 <HEADLINE> 	
 Luvut 	
 julki 	
@@ -16128,7 +15789,8 @@ kärjessä
 edellisen 	
 kerran 	
 vuonna  	tim
-2011.  	tim
+2011	tim
+.	
  	
 <PARAGRAPH> 	
 Samsung  	org
@@ -16140,8 +15802,8 @@ markkinaosuudestaan
 kymmenen 	
 prosenttiyksikköä 	
 verrattuna 	
-vastavaan 	
-aikaan 	
+vastavaan 	tim
+aikaan 	tim
 vuonna  	tim
 2013  	tim
 . 	
@@ -16543,9 +16205,7 @@ Krait-suoritinta  	pro
  	
 810-piirisarjassa  	pro
 käytettiin 	
-ARM  	org
-:  	org
-lta  	org
+ARM:lta	org
 lisensoitua 	
 suoritinta 	
 , 	
@@ -16573,10 +16233,7 @@ korjaus
 IPhone-puhelimille  	pro
 julkaistu 	
 iOS  	pro
-7.1  	pro
-.  	pro
-pro 	
-1  	pro
+7.1.1	pro
 -päivitys  	pro
 vähentää 	
 ilmeisesti 	
@@ -16611,10 +16268,7 @@ reilusti
  	
 Uusin 	
 iOS  	pro
-7.1  	pro
-.  	pro
-pro 	
-1  	pro
+7.1.1	pro
 -päivitys  	pro
 kääntää 	
 ilmeisesti 	
@@ -16731,10 +16385,7 @@ jälkeen
 <PARAGRAPH> 	
 Uusi 	btim
 iOS  	pro
-7.1  	pro
-.  	pro
-pro 	
-1  	pro
+7.1.1	pro
 -päivitys  	pro
 on 	
 taas 	
@@ -16789,10 +16440,7 @@ kestoon
 Applen  	org
 mukaan 	
 iOS  	pro
-7.1  	pro
-.  	pro
-pro 	
-1  	pro
+7.1.1	pro
 tuo 	
 parannuksia 	
 iPhone  	pro
@@ -17781,7 +17429,7 @@ valikossa
 taaksepäin 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 palaaminen 	
 alkuperäiseen 	
 ohjelman 	
@@ -18184,19 +17832,15 @@ televisioita
 vahvistimia 	
 , 	
 kaiuttimia 	
-. 	
- 	
-.. 	
- 	
+...	
+	
 <PARAGRAPH> 	
 Samaa 	
 valtavirtaa 	
 vastaan 	
 kahlaa 	
 myös 	
-Microsoft  	org
-/  	org
-Nokia  	org
+Microsoft/Nokia	org
 Windows-puhelimillaan  	pro
 . 	
  	
@@ -18399,9 +18043,7 @@ S5  	pro
 . 	
  	
 <PARAGRAPH> 	
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 menestys 	
 ei 	
 silti 	
@@ -18528,312 +18170,9 @@ turhasta
 selitti 	
 Korpi  	per
 . 	
- 	
+	
 <PARAGRAPH> 	
-Huhtikuun  	tim
-myydyimmät 	
-puhelimet 	
-2014  	tim
-| 	
-Sija 	
-| 	
-DNA  	org
-| 	
-Sonera  	org
-| 	
-Elisa  	org
-yksityisasiakkaat 	
-| 	
-Elisa  	org
-yritysasiakkaat 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-| 	
---- 	
-1. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-Trend  	pro
-Plus  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S5  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-Trend  	pro
-Plus  	pro
-| 	
-Nokia  	pro
-301  	pro
-2. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S5  	pro
-| 	
-Apple  	pro
-iPhone  	pro
-5S  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-520  	pro
-| 	
-Nokia  	pro
-301  	pro
-3. 	
-| 	
-Apple  	pro
-iPhone  	pro
-4s  	pro
-| 	
-Apple  	pro
-iPhone  	pro
-4S  	pro
-| 	
-Apple  	pro
-Iphone  	pro
-5s  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-625  	pro
-4. 	
-| 	
-Apple  	pro
-iPhone  	pro
-5s  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-925  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-Mini  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-925  	pro
-5. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-4G  	pro
-+  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-520  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S5  	pro
-| 	
-Apple  	pro
-iPhone  	pro
-5S  	pro
-6. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-mini  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-625  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-520  	pro
-7. 	
-| 	
-Nokia  	pro
-Lumia  	pro
-520  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-Trend  	pro
-Plus  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-1020  	pro
-| 	
-Samsung  	pro
-Xcover  	pro
-271  	pro
-8. 	
-| 	
-Nokia  	pro
-208  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-Mini  	pro
-| 	
-Nokia  	pro
-301  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S5  	pro
-9. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-Ace  	pro
-3  	pro
-4G  	pro
-| 	
-Nokia  	pro
-301  	pro
-| 	
-Apple  	pro
-Iphone  	pro
-4s  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-1320  	pro
-10. 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S  	pro
-III  	pro
-4G  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S4  	pro
-4G  	pro
-+  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-625  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-Xcover  	pro
-2  	pro
-11. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-Ace  	pro
-3  	pro
-| 	
-Nokia  	pro
-Lumia  	pro
-1020  	pro
-12. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Nokia  	pro
-Lumia  	pro
-925  	pro
-| 	
-Jablocom  	pro
-Gdp-04i  	pro
-3g  	pro
-13. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S  	pro
-Iii  	pro
-4g  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S  	pro
-4  	pro
-+  	pro
-14. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-Xcover  	pro
-Ii  	pro
-| 	
-Apple  	pro
-Iphone  	pro
-4S  	pro
-15. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Htc  	pro
-One  	pro
-M8  	pro
-| 	
-Samsung  	pro
-Galaxy  	pro
-S  	pro
-4  	pro
-Active  	pro
-16. 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-ei 	
-ilmoitettu 	
-| 	
-Samsung  	pro
-Galaxy  	pro
-S  	pro
-4  	pro
-Mini  	pro
+ 	
 Alla 	
 ovat 	
 operaattorien 	
@@ -18942,8 +18281,7 @@ LTE  	pro
 Network  	pro
 Infrastructure  	pro
 2014  	pro
--  	pro
-arvioinnissa  	pro
+-arvioinnissa	pro
 Nokian  	org
 ja 	
 Ericssonin  	org
@@ -18968,9 +18306,9 @@ Samsungin  	org
 , 	
 Ciscon  	org
 ja 	
-NEC  	org
-:  	org
-n.  	org
+NEC:n	org
+.	
+	
 Johtajat 	
 eroavat 	
 visionääreistä 	
@@ -19138,12 +18476,7 @@ seuraavaksi
 eniten 	
 asiakkaita 	
 lisännyt 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 sai 	
 kasaan 	
 , 	
@@ -19234,14 +18567,7 @@ kovakouraisesta
 haastamisesta 	
 kuten 	
 esimerkiksi 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 ja 	
 Blackberryn  	org
 johtajat 	
@@ -19283,14 +18609,7 @@ Se
 on 	
 enemmän 	
 kuin 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 Randall  	per
 Stephensonin  	per
 23 	
@@ -19486,14 +18805,7 @@ estämisaikeista
 Aikaisemmin  	tim
 ne 	
 tyrmäsivät 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 ja 	
 T-Mobilen  	org
 39 	
@@ -19667,21 +18979,11 @@ riskisijoittajien
 edustajia 	
 ja 	
 lisäksi 	
-NSN  	org
-:  	org
-n  	org
+NSN:n	org
 johtoa 	
 ja 	
 päätöksentekijöitä 	
 . 	
- 	
- 	
- 	
- 	
- 	
- 	
- 	
- 	
  	
 <HEADLINE> 	
 Ericsson  	org
@@ -19815,14 +19117,12 @@ jotka
 ovat 	
 elintärkeitä 	
 matkalla 	
-5G 	
-: 	
-hen 	
+5G:hen	
 . 	
  	
 <PARAGRAPH> 	
 Jakautuvan 	
-verkkoliiketoimintayksikön  	tit
+verkkoliiketoimintayksikön  	
 johtaja  	tit
 Johan  	per
 Wibergh  	per
@@ -19880,25 +19180,7 @@ saakka  	tim
 . 	
  	
 <HEADLINE> 	
- 	
- 	
-<DATE> 	
- 	
- 	
-<INGRESS> 	
- 	
- 	
-<BODY> 	
-<PARAGRAPH> 	
- 	
- 	
-<HEADLINE> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 lähtee 	
 kilpailuun 	
 lentomatkustajien 	
@@ -19911,12 +19193,7 @@ lentomatkustajien
 Suuri 	
 yhdysvaltalainen 	
 teleoperaattori 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 rakentaa 	
 lentomatkustajille 	
 oman 	
@@ -19934,16 +19211,12 @@ olevien
 tukiasemien 	
 välille 	
 vuodeksi  	tim
-2015.  	tim
+2015	tim
+.	
  	
 <BODY> 	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ilmoitti 	
 maanantaina  	tim
 aikeistaan 	
@@ -19968,14 +19241,7 @@ tukiasemaverkon
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;	org
 hanke 	
 haastaa 	
 jo 	
@@ -19998,12 +19264,7 @@ kirjoitti
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 huomautti 	
 , 	
 että 	
@@ -20027,12 +19288,7 @@ kanssa
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 saa 	
 tehdä 	
 kovasti 	
@@ -20053,13 +19309,11 @@ ja
 viihdepalvelut 	
 toimivat 	
 jo 	
-2 	
-000 	
+2 000	
 kaupallisessa 	
 lentokoneessa 	
 ja 	
-6 	
-000 	
+6 000	
 yksityiskoneessa 	
 . 	
  	
@@ -20465,33 +19719,26 @@ international
 operator 	
 launch 	
 of 	
-Finland  	loc
-'  	loc
-s  	loc
+Finland's	
 only 	
 mobile 	
 manufacturer 	
 today 	
 in 	
-# 	
-Tallinn  	loc
+#Tallin	
 , 	
-# 	
-Estonia  	loc
+#Estonia	
 , 	
-# 	
-Elisa  	org
-< 	
-3— 	
+#Elisa	
+<3— 	
 Marc  	per
 Dillon  	per
 ( 	
-@ 	
-MarcDillonDotFi 	
+@MarcDillonDotFi	
 ) 	
-April  	tim
-28  	tim
-,  	tim
+April  	
+28  	
+,  	
 2014  	tim
  	
 <HEADLINE> 	
@@ -20653,8 +19900,7 @@ aasialaisia
  	
 Viimeisimpänä 	
 mukaan 	
-liittyivä 	
-t 	
+liittyivät	
 LG  	org
 , 	
 Lenovo  	org
@@ -20999,29 +20245,6 @@ keskihintaisiin
 puhelimiin 	
 . 	
  	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69831 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Ruutukaappaus 	
- 	
 <HEADLINE> 	
 Google  	org
 maksaa 	
@@ -21151,8 +20374,7 @@ ostajia
 ehti 	
 kertyä 	
 arviolta 	
-30 	
-000 	
+30 000	
 . 	
  	
 Näin 	
@@ -21164,8 +20386,7 @@ maksaa
 yhtiölle 	
 kaikkinensa 	
 lähes 	
-200 	
-000 	
+200 000	
 euroa 	
 , 	
 kun 	
@@ -21200,7 +20421,7 @@ näkynyt
  	
 <HEADLINE> 	
 Asiakkaiden 	
-wlaneista 	
+wlaneista 	pro
 nuivaillut 	
 hotelliketju 	
 sai 	
@@ -21255,7 +20476,7 @@ estävät
 kuluttajia 	
 käyttämästä 	
 omia 	
-wlan-palveluita 	
+wlan-palveluita 	misc
 tiloissaan 	
 , 	
 FCC  	org
@@ -21264,9 +20485,7 @@ verkkosivuillaan
 . 	
  	
 <PARAGRAPH> 	
-FCC  	org
-:  	org
-n  	org
+FCC:n	org
 varoituksessa 	
 viitataan 	
 suoraan 	
@@ -21297,8 +20516,7 @@ Marriott  	org
 on 	
 suostunut 	
 maksamaan 	
-600 	
-000 	
+600 000	
 dollarin 	
 sakot 	
 Tennesseen  	loc
@@ -21318,7 +20536,7 @@ luvan
 estää 	
 vieraiden 	
 omat 	
-wlan-yhteydet 	
+wlan-yhteydet 	misc
 . 	
  	
 <PARAGRAPH> 	
@@ -21333,7 +20551,7 @@ on
 Se 	
 voi 	
 toimia 	
-wlan-palvelupisteenä 	
+wlan-palvelupisteenä 	misc
 usealle 	
 tietokoneelle 	
 , 	
@@ -21780,24 +20998,6 @@ sanoo
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74706 	
-) 	
- 	
-<PARAGRAPH> 	
 Janne  	per
 Knuutinen  	per
  	
@@ -21882,10 +21082,7 @@ Benchmark  	org
 perustanut 	
 mies 	
 ylläpitää 	
-Devicereception  	pro
-.  	pro
-pro 	
-com-nimistä  	pro
+Devicereception.com-nimistä	pro
 verkkosivustoa  	pro
 ja 	
 aikoo 	
@@ -21894,10 +21091,7 @@ kevään  	tim
 aikana  	tim
 myös 	
 suomenkielisen 	
-Kuuluuko  	pro
-.  	pro
-pro 	
-fi-sivuston  	pro
+Kuuluuko.fi-sivuston	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -21977,9 +21171,6 @@ tulossa
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Lumiat  	pro
 laahaavat 	
 jäljessä 	
@@ -22080,9 +21271,7 @@ hyvin
 edullisemmasta 	
 päästä 	
 olevaa 	
-5c  	pro
-:  	pro
-tä  	pro
+5c:tä	pro
 lukuun 	
 ottamatta 	
 . 	
@@ -22166,24 +21355,6 @@ kumpaan
 tahansa 	
 suuntaan 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74707 	
-) 	
  	
 <PARAGRAPH> 	
 Testitilanteessa 	
@@ -22321,7 +21492,6 @@ ei
 toimi 	
 puhelimena 	
 . 	
- 	
 " 	
  	
 <HEADLINE> 	
@@ -22442,9 +21612,7 @@ Samsungin  	org
 tulevaan 	
 lippulaivamalliin 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-een  	pro
+S6:een	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -22547,10 +21715,7 @@ että
 kaikki 	
 Windows  	misc
 Phone  	misc
-8  	misc
-.  	misc
-misc 	
-x  	misc
+8.x	misc
 -käyttäjät  	misc
 voivat 	
 päivittää 	
@@ -22730,12 +21895,7 @@ Neowin  	org
 . 	
  	
 <HEADLINE> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 menee 	
 ryminällä 	
 Meksikoon  	loc
@@ -22748,12 +21908,7 @@ Yhdysvaltain  	loc
 toiseksi 	
 suurin 	
 matkapuhelinoperaattori 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ei 	
 aikaillut 	
 Meksikon  	loc
@@ -22779,12 +21934,7 @@ jälkeen
  	
 <BODY> 	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 aikoo 	
 luoda 	
 Yhdysvaltain  	loc
@@ -22836,12 +21986,7 @@ välillä
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 osti 	
 meksikolaisen 	
 Iusacellin 	
@@ -22903,9 +22048,7 @@ Kiinan  	org
 teollisuus-  	org
 ja  	org
 informaatioministeriön  	org
-MIIT  	borg
-:  	org
-n  	org
+MIIT:n	borg
 julkaisemien 	
 lukujen 	
 mukaan 	
@@ -23078,7 +22221,8 @@ vuonna  	tim
 ja 	
 kaupallisessa 	
 kuosissa 	
-2020.  	tim
+2020	tim
+.	
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -23180,14 +22324,13 @@ jo
 ensimmäistä 	
 Cloud  	pro
 vRAN  	pro
--  	pro
-virtuaalitukiasemaa  	pro
+-virtuaalitukiasemaa	pro
 , 	
 joka 	
 kehitettiin 	
 osapuolien 	
 ensimmäisen 	
-5g-yhteistoimintasopimuksen 	
+5g-yhteistoimintasopimuksen 	misc
 alaisuudessa 	
 . 	
  	
@@ -23207,7 +22350,7 @@ Etelä-Korean  	loc
 matkapuhelinmarkkinoista 	
 , 	
 rakentavat 	
-5g-testiympäristön 	
+5g-testiympäristön 	misc
 operaattorin 	
 tutkimuskeskukseen 	
 Bundangiin  	loc
@@ -23237,9 +22380,7 @@ Moiin  	per
 <HEADLINE> 	
 Samsung  	pro
 Galaxy  	pro
-S6  	pro
-:  	pro
-n  	pro
+S6:n	pro
 tiedot 	
 vuotivat 	
 - 	
@@ -23433,9 +22574,7 @@ Galaxy  	pro
 S6  	pro
 -puhelin  	pro
 on 	
-BGR  	pro
-:  	pro
-n  	pro
+BGR:n	pro
 mukaan 	
 päältä 	
 metallia 	
@@ -23446,9 +22585,7 @@ lasia
 <PARAGRAPH> 	
 Samsung  	org
 on 	
-BGR  	pro
-:  	pro
-n  	pro
+BGR:n	pro
 mukaan 	
 ottamassa 	
 kuitenkin 	
@@ -23555,7 +22692,9 @@ solmittiin
 alun 	
 perin 	
 vuonna  	tim
-2010.  	tim
+2010	tim
+.	
+	
 Sopimus 	
 kattaa 	
 mobiili- 	
@@ -23617,8 +22756,7 @@ on
 30 	
 prosenttia 	
 , 	
-FierceWire  	org
-less  	org
+FierceWireless	org
 kirjoitti 	
 . 	
  	
@@ -23965,8 +23103,8 @@ Googlen  	org
 tapauksessa 	
 tähtäimessä 	
 on 	
-lähes 	
-aina 	
+lähes 	tim
+aina 	tim
 mainosmyynnin 	
 kohderyhmien 	
 kasvattaminen 	
@@ -24251,9 +23389,6 @@ julkaisua
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Analytiikalla 	
 voidaan 	
 etsiä 	
@@ -24491,9 +23626,6 @@ pelaajille
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Liian 	
 tylsä 	
 kohta 	
@@ -24822,7 +23954,7 @@ yhtiöltä
 matkapuhelinmastoja 	
 ja 	
 valokuituverkkoa 	
-4G-palvelun 	
+4G-palvelun 	misc
 perustaksi 	
 . 	
  	
@@ -24899,9 +24031,7 @@ hylkää
 parjatun 	
 sormenjälkilukijansa 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-ssa  	pro
+S6:ssa	pro
  	
 <DATE> 	
 21.1.2015 17:27 	
@@ -24911,8 +24041,7 @@ Samsung  	org
 odotettu 	
 Galaxy  	pro
 S6  	pro
--  	pro
-älypuhellin  	pro
+-älypuhellin	pro
 luopuu 	
 arvostellusta 	
 pyyhkäisyyn 	
@@ -24927,9 +24056,7 @@ Samsungin  	org
 tulevassa  	tim
 lippulaivapuhelimessa 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-ssa  	pro
+S6:ssa	pro
 on 	
 uusia 	btim
 maksuominaisuuksia 	
@@ -24970,9 +24097,7 @@ edellisessä
 huippupuhelimessaan 	
 eli 	
 Galaxy  	pro
-S5  	pro
-:  	pro
-ssä  	pro
+S5:ssa	pro
 käytetystä 	
 ja 	
 tuntumaltaan 	
@@ -24987,9 +24112,7 @@ sormenjälkitunnistimesta
 Sen 	
 sijaan 	
 Galaxy  	pro
-S6  	pro
-:  	pro
-ssa  	pro
+S6:ssa	pro
 olisi 	
 kosketukseen 	
 perustuva 	
@@ -25395,9 +24518,6 @@ nähtäväksi
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Venäläistaustainen 	
 maailmanpuhelin 	
  	
@@ -25465,7 +24585,7 @@ joiden
 henkilökunta 	
 koostuu 	
 etupäässä 	
-entistä 	
+entistä 	tim
 blackberryläisistä 	
 sekä 	
 motorolalaisista 	
@@ -25530,7 +24650,9 @@ noin
 miljoonaa 	
 älypuhelinta 	
 vuonna  	tim
-2014.  	tim
+2014	tim
+.	
+	
 Se 	
 on 	
 kahdeksan 	
@@ -25546,9 +24668,7 @@ Kiinan  	org
 teollisuus-  	org
 ja  	org
 informaatioministeriön  	org
-MIIT  	borg
-:  	org
-n  	org
+MIIT:n	borg
 julkaisemien 	
 tietojen 	
 mukaan 	
@@ -25579,9 +24699,7 @@ raportoi
 . 	
  	
 <PARAGRAPH> 	
-MIIT  	org
-:  	org
-n  	org
+MIIT:n	org
 luvuista 	
 selviää 	
 myös 	
@@ -25663,9 +24781,7 @@ Uutistoimisto
 Xinhua  	org
 raportoi 	
 aikaisemmin  	tim
-MIIT  	org
-:  	org
-n  	org
+MIIT:n	org
 luvuista 	
 vuoden  	tim
 2014  	tim
@@ -26050,9 +25166,7 @@ pystyttää
 4G-tukiasemia 	
 kesällä  	tim
 myönnetyn 	
-fdd 	
-/ 	
-td-lte-hybridiverkon 	
+fdd/td-lte-hybridiverkon 	misc
 kokeiluluvan 	
 perusteella 	
 . 	
@@ -26131,12 +25245,7 @@ huhut
  	
 <BODY> 	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 , 	
 Verizon  	org
 ja 	
@@ -26233,8 +25342,7 @@ patentit
 suhteet 	
 operaattoreihin 	
 ja 	
-200 	
-000 	
+200 000	
 vähittäiskauppaa 	
 , 	
 jotka 	
@@ -26321,14 +25429,7 @@ siitä
 Etulyöntiasema 	
 kuuluu 	
 kuitenkin 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-lle  	org
+AT&amp;T;:lle	org
 tai 	
 Verizonille  	org
 , 	
@@ -26362,10 +25463,8 @@ kilpailuviranomaiselle  	org
 saadakseen 	
 luvan 	
 ostaa 	
-Tele2  	org
-:  	org
-n  	org
-Norjan-toiminnot 	
+Tele2:n	org
+Norjan-toiminnot 	misc
 . 	
  	
 <BODY> 	
@@ -26531,8 +25630,7 @@ nyt  	tim
 tarjolla 	
 yhteensä 	
 yli 	
-560 	
-000 	
+560 000	
 sovellusta 	
 . 	
  	
@@ -26556,13 +25654,11 @@ luku
 oli 	
 marraskuun  	tim
 puolivälissä  	tim
-525 	
-000 	
+525 000	
 ja 	
 kesäkuun  	tim
 lopussa  	tim
-400 	
-000 	
+400 000	
 sovellusta 	
 . 	
  	
@@ -26581,32 +25677,7 @@ suuremman
 osuuden 	
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-digitoday 	
-. 	
- 	
-fi 	
-/ 	
-bisnes 	
-/ 	
-2014  	tim
-/ 	
-11 	
-/ 	
-21 	
-/ 	
-mita-jarkea-microsoft-omii-lisaa-ra 	
-haa-sovellusmyynnista 	
-/ 	
-201416192 	
-/ 	
-66 	
+http://www.digitoday.fi/bisnes/2014/11/21/mita-jarkea-microsoft-omii-lisaa-rahaa-sovellusmyynnista/201416192/66	
 ) 	
 maksullisten 	
 sovellusten 	
@@ -26621,7 +25692,7 @@ astui
 voimaan 	
 vasta 	
 nyt  	tim
-tammikuussa  	btim
+tammikuussa  	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -26720,15 +25791,12 @@ ja
 Windows  	pro
 8:n  	pro
 yhteenlaskettu 	
-560 	
-000 	
+560 000	
 sovellusta 	
 kalpenee 	
 Androidin  	pro
 ja 	
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 reippaasti 	
 yli 	
 miljoonan 	
@@ -26813,8 +25881,8 @@ pitää
 maksetut 	
 sovellukset 	
 laitteessa 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 ne 	
@@ -27029,8 +26097,7 @@ viestintäkomissio
 FCC  	org
 sakotti 	
 Marriottia  	org
-600 	
-000 	
+600 000	
 dollaria 	
 wlan-yhteyksien 	
 estämisestä 	
@@ -27083,9 +26150,7 @@ kokoustiloissa
 . 	
  	
 <PARAGRAPH> 	
-Re  	org
-/  	org
-coden  	org
+Re/coden	org
 mukaan 	
 Marriott  	org
 ei 	
@@ -27093,9 +26158,7 @@ kuitenkaan
 ole 	
 vetänyt 	
 pois 	
-FCC  	org
-:  	org
-lle  	org
+FCC:lle	org
 yhdessä 	
 American  	org
 Hospitality  	org
@@ -27183,10 +26246,7 @@ takana
 on 	
 Facebookin  	org
 sponsoroima 	
-Internet  	org
-.  	org
-org 	
-org  	org
+Internet.org	org
 . 	
  	
 <BODY> 	
@@ -27197,10 +26257,7 @@ neljäs
 maa 	
 , 	
 jossa 	
-Internet  	org
-.  	org
-org 	
-orgin  	org
+Internet.orgin	org
 palvelu 	
 avataan 	
 . 	
@@ -27219,10 +26276,7 @@ maassa
 . 	
  	
 <PARAGRAPH> 	
-Internet  	org
-.  	org
-org 	
-org  	org
+Internet.org	org
 tähtää 	
 internetin 	
 tuomiseen 	
@@ -27255,10 +26309,7 @@ datamaksuja
 . 	
  	
 <PARAGRAPH> 	
-Internet  	org
-.  	org
-org 	
-orgin  	org
+Internet.orgin	org
 sovellus 	
 tuo 	
 käyttäjien 	
@@ -27311,10 +26362,7 @@ myöskään
 kertomaan 	
 , 	
 missä 	
-Internet  	pro
-.  	pro
-pro  	pro
-orgin  	pro
+Internet.orgin	org
 sovellus 	
 otetaan 	
 seuraavaksi 	
@@ -27327,10 +26375,7 @@ ennusti
 , 	
 että 	
 tulevaisuudessa  	tim
-Internet  	pro
-.  	pro
-pro 	
-orgin  	pro
+Internet.orgin	pro
 kaltaisesta 	
 sovelluksesta 	
 tulee 	
@@ -27962,9 +27007,7 @@ Z-puhelimen  	pro
  	
 <PARAGRAPH> 	
 Vaikka 	
-Z1  	pro
-:  	pro
-n  	pro
+Z1:n	pro
 tuominen 	
 ensin 	
 Intian  	loc
@@ -28048,9 +27091,7 @@ mobiililaitteisiin
  	
 <PARAGRAPH> 	
 Intiassa  	loc
-Z1  	pro
-:  	pro
-lle  	pro
+Z1:lle	pro
 riittää 	
 saman 	
 hintaluokan 	
@@ -28359,8 +27400,7 @@ Lumia  	pro
 435  	pro
 &  	pro
 532  	pro
-\ 	
-. 	
+.	
  	
 Mid 	
 & 	
@@ -28388,7 +27428,7 @@ fjeronimo
 January 	
 14 	
 , 	
-2015 	
+2015 	tim
  	
 <HEADLINE> 	
 Apple  	org
@@ -28722,9 +27762,7 @@ kerrottu
 FierceWireless  	org
 kirjoitti 	
 viitaten 	
-E24  	org
-:  	org
-n  	org
+E24:n	org
 uutiseen 	
 . 	
  	
@@ -28938,8 +27976,7 @@ China  	org
 Mobilella  	org
 on 	
 nyt  	tim
-700 	
-000 	
+700 000	
 4G-tukiasemaa 	
 , 	
 joiden 	
@@ -28992,8 +28029,7 @@ prosenttia
 on 	
 hinnoiteltu 	
 alle 	
-1 	
-300 	
+1 300	
 juanin 	
 , 	
 noin 	
@@ -29066,8 +28102,7 @@ Zone  	pro
 , 	
 joilla 	
 hoidettiin 	
-45 	
-000 	
+45 000	
 katsojan 	
 langaton 	
 liikenne 	
@@ -29266,7 +28301,7 @@ voisi
 koskea 	
 muun 	
 muassa 	
-elokuvia 	btim
+elokuvia 	
 ja 	
 musiikkia 	
 . 	
@@ -29314,8 +28349,8 @@ ladatun
 sisällön 	
 käyttäjän 	
 laitteelta 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 rahat 	
@@ -29449,7 +28484,9 @@ vuonna  	tim
 ja 	
 Samsungin  	org
 vuonna  	tim
-2022.  	tim
+2022	tim
+.	
+	
 RCR  	org
 Wirelessin  	org
 mukaan 	
@@ -29508,13 +28545,15 @@ Softbank  	org
 , 	
 tähtää 	
 Spark-hankkeessa  	pro
-“tokiomaiseen 	
-verkkopeittoon” 	
+“	
+tokiomaiseen	
+verkkopeittoon	
+“	
 . 	
  	
 Alun 	
 perin 	
-Sparkin  	org
+Sparkin  	pro
 piti 	
 kattaa 	
 myös 	
@@ -29643,7 +28682,9 @@ jonka
 ne 	
 solmivat 	
 vuonna  	tim
-2014.  	tim
+2014	tim
+.	
+	
 Kaupan 	
 jälkeen 	
 Samsung  	org
@@ -29759,9 +28800,7 @@ maailmalla
 <PARAGRAPH> 	
 Verkkolaitevalmistajien 	
 yhdistyksen 	
-GSA  	org
-:  	org
-n  	org
+GSA:n	org
 tiedotteen 	
 mukaan 	
 viime  	tim
@@ -30070,7 +29109,9 @@ valmis
 tuotantoon 	
 vasta 	
 vuonna  	tim
-2017.  	tim
+2017	tim
+.	
+	
 Puhelimien 	
 nykyisiin 	
 litiumioniakkuihin 	
@@ -30214,7 +29255,7 @@ lupailtu
 niin 	
 monta 	
 kertaa 	
-aiemminkin 	
+aiemminkin 	tim
 , 	
 eikä 	
 ratkaisua 	
@@ -30236,8 +29277,7 @@ Warner  	org
 Cable  	org
 unohti 	
 toimittaa 	
-38 	
-000 	
+38 000	
 asiakirjaa 	
  	
 <DATE> 	
@@ -30264,8 +29304,7 @@ että
 regulaattorille 	
 unohtui 	
 toimittaa 	
-38 	
-000 	
+38 000	
 dokumenttia 	
 . 	
  	
@@ -30279,7 +29318,7 @@ jolla
 on 	
 180  	tim
 päivää  	tim
-aikaa 	
+aikaa 	tim
 tutkia 	
 Comcastin  	org
 ja 	
@@ -30296,7 +29335,9 @@ tutkinta-aikaa
 mittaavan 	
 kellon 	
 päivään  	tim
-104.  	tim
+104	tim
+.	
+	
 Syynä 	
 oli 	
 se 	
@@ -30312,19 +29353,16 @@ siltä
 oli 	
 jäänyt 	
 toimittamatta 	
-38 	
-000 	
+38 000	
 asiakirjaa 	
 . 	
  	
 Niistä 	
-31 	
-000 	
+31 000	
 oli 	
 unohtunut 	
 ja 	
-7 	
-000 	
+7 000	
 oli 	
 jätetty 	
 toimittamatta 	
@@ -30441,16 +29479,9 @@ prosenttiin
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ja 	
-DirecTV  	org
-:  	org
-n  	org
+DirecTV:n	org
 välinen 	
 50 	
 miljardin 	
@@ -30798,7 +29829,7 @@ hakeneet
 –  	tim
 200  	tim
 päivää  	tim
-lisäaikaa 	
+lisäaikaa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -31057,15 +30088,12 @@ kuin
 Windows  	pro
 8.1  	pro
 , 	
-FierceWirele  	org
-ss  	org
+FierceWireless	org
 kirjoitti 	
 . 	
  	
 Technical  	pro
-Preview  	pro
-'  	pro
-sta  	pro
+Preview'sta	pro
 puuttuu 	
 suuri 	
 joukko 	
@@ -31208,9 +30236,7 @@ Marriott-hotelliketju  	org
 hakee 	
 Yhdysvaltain  	org
 viestintäkomissio  	org
-FCC  	borg
-:  	org
-lle  	org
+FCC:lle	borg
 hakemuksen 	
 hallinnoida 	
 vapaasti 	
@@ -31236,8 +30262,7 @@ Hotel  	org
 Convention  	org
 Center  	org
 tuomittiin 	
-600 	
-000 	
+600 000	
 dollarin 	
 sakkoihin 	
 , 	
@@ -31490,8 +30515,7 @@ tosin
 vain 	
 vain 	
 noin 	
-30 	
-000 	
+30 000	
 taloutta 	
 , 	
 mutta 	
@@ -31559,9 +30583,7 @@ dollaria
 kuukaudessa  	tim
 maksavaan 	
 10 	
-gbps 	
-: 	
-n 	
+gbps:n	
 palveluun 	
 , 	
 sillä 	
@@ -31692,9 +30714,7 @@ kaikki
 patenttinsa 	
 patenttien 	
 välityspalvelu 	
-RPX  	org
-:  	org
-lle  	org
+RPX:lle	org
 900 	
 miljoonalla 	
 dollarilla 	
@@ -31706,8 +30726,7 @@ hallinnoimaan
 vararikkoon 	
 ajautuneen 	
 Nortelin  	org
-6 	
-000 	
+6 000	
 patenttia 	
 , 	
 joiden 	
@@ -31720,22 +30739,16 @@ dollaria
 . 	
  	
 <PARAGRAPH> 	
-RPX  	org
-:  	org
-n  	org
+RPX:n	org
 ei 	
 tarvitse 	
 pelätä 	
 nostavan 	
 uusia 	btim
 patenttikanteita 	
-HTC  	org
-:  	org
-tä  	org
+HTC:tä	org
 , 	
-LG  	org
-:  	org
-tä  	org
+LG:tä	org
 ja 	
 Samsungia  	org
 vastaan 	
@@ -32087,19 +31100,10 @@ korjaavan
 järjestelmäversion 	
 numero 	
 on 	
-8.10  	pro
-.  	pro
-pro 	
-14219.341  	pro
+8.10.14219.34	pro
 ja 	
 laiteohjelmistoversio 	
-02054.00000  	pro
-.  	pro
-pro 	
-14485  	pro
-.  	pro
-pro 	
-370xx  	pro
+02054.00000.14485.370xx	pro
 . 	
  	
 Kun 	
@@ -32368,8 +31372,7 @@ ilman
 mitään 	
 aikatavoitteita 	
 , 	
-FierceWire  	org
-less  	org
+FierceWireless	org
 kirjoitti 	
 . 	
  	
@@ -32499,10 +31502,7 @@ kirjoitti
 . 	
  	
 <PARAGRAPH> 	
-360  	org
-.  	org
-org 	
-here-yritysblogin  	org
+360.here-yritysblogin	org
 mukaan 	
 päivityksessä 	
 on 	
@@ -32665,10 +31665,7 @@ että
 yritys 	
 avaa 	
 ensimmäisen 	
-Mi  	pro
-.  	pro
-pro 	
-com-verkkokauppansa  	pro
+Mi.com-verkkokauppansa	pro
 Yhdysvalloissa  	loc
 muutaman  	tim
 kuukauden  	tim
@@ -32741,7 +31738,7 @@ vähentämässä
 tukiaisiaan 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 kuluttaja 	
 kohtaa 	
 Applen  	org
@@ -32831,9 +31828,7 @@ muassa
 Alibaban  	org
 perustajan  	tit
 Jack  	per
-Ma  	per
-'  	per
-n  	per
+Ma'n	per
 sijoitusyhtiöltä 	
 . 	
  	
@@ -32906,7 +31901,7 @@ on
 jo 	
 pitkään  	tim
 tukenut 	
-nfc-teknologiaa 	
+nfc-teknologiaa 	pro
 , 	
 mutta 	
 sen 	
@@ -32924,7 +31919,7 @@ kuitenkin
 menestyvän 	
 hyvin 	
 oman 	
-nfc-perustaisen 	
+nfc-perustaisen 	misc
 Apple  	pro
 Pay  	pro
 -järjestelmän  	pro
@@ -32953,7 +31948,7 @@ uusimaan
 maksupäätteitään 	
 , 	
 joten 	
-nfc-pohjaisiin 	
+nfc-pohjaisiin 	misc
 maksujärjestelmiin 	
 jää 	
 suuria 	
@@ -32966,9 +31961,7 @@ Samsung  	org
 voisi 	
 tukea 	
 sekä 	
-nfc 	
-: 	
-n 	
+nfc:n	misc
 että 	
 magneettijuovaan 	
 perustuvia 	
@@ -33051,9 +32044,9 @@ mobiilimaksusovellus
 joka 	
 mahdollistaa 	
 sekä 	
-nfc- 	
-että 	
-magneettijuovamaksut 	
+nfc- 	misc
+että 	misc
+magneettijuovamaksut 	misc
 . 	
  	
 <HEADLINE> 	
@@ -33093,8 +32086,7 @@ Insmat  	pro
 Rock  	pro
 V50  	pro
 LTE  	pro
--  	pro
-nimisen  	pro
+-nimisen	pro
 Android-puhelimen  	pro
 . 	
  	
@@ -33464,14 +32456,7 @@ ei
 halua 	
 käyttäjien 	
 siirtyvän 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 tai 	
 T-Mobilen  	org
 asiakkaiksi 	
@@ -33963,7 +32948,7 @@ Puhelimessa
 on 	
 mukana 	
 joukko 	
-e-mustenäytölle 	
+e-mustenäytölle 	pro
 sovitettuja 	
 suosituimpia 	
 kiinalaisia 	
@@ -34067,7 +33052,7 @@ Applen  	org
 iPhone  	pro
 6  	pro
 -mallien  	pro
-nfc-pohjaisen 	
+nfc-pohjaisen 	misc
 maksusovelluksen 	
 marssia 	
 Kiinan  	loc
@@ -34198,7 +33183,7 @@ ympäristöön
 UnionPaylla  	org
 on 	
 ollut 	
-nfc-päätteet 	
+nfc-päätteet 	misc
 yhdistävä 	
 järjestelmä 	
 jo 	
@@ -34331,10 +33316,7 @@ netti
 etenee 	
 : 	
 Facebookin  	org
-Internet  	borg
-.  	org
-org 	
-org  	org
+Internet.org	borg
 auki 	
 Intiassa  	loc
  	
@@ -34344,10 +33326,7 @@ Intiassa  	loc
 <INGRESS> 	
 Facebookin  	org
 tukema 	
-Internet  	org
-.  	org
-org 	
-org  	org
+Internet.org	org
 on 	
 laajentanut 	
 toimintansa 	
@@ -34366,10 +33345,7 @@ ilmaiseksi
 <PARAGRAPH> 	
 Intiassa  	loc
 Facebookin  	org
-Internet  	borg
-.  	org
-org 	
-orgin  	org
+Internet.orgin	borg
 yhteistyöoperaattori 	
 on 	
 Reliance  	org
@@ -34424,13 +33400,7 @@ Browser  	pro
 -  	pro
 selaimella  	pro
 osoitteessa 	
-www 	
-. 	
- 	
-internet 	
-. 	
- 	
-org 	
+www.internet.org	
 . 	
  	
 Asiasta 	
@@ -34442,10 +33412,7 @@ Telecom  	org
 . 	
  	
 <PARAGRAPH> 	
-Internet  	org
-.  	org
-org 	
-org  	org
+Internet.org	org
 avasi 	
 ensimmäisen 	
 palvelunsa 	
