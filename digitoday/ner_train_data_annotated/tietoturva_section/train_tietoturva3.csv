@@ -20448,8 +20448,7 @@ ongelma
  	
 Yritys 	
 sanoo 	
-Computerworldi 	org
-n 	
+Computerworldin	org
 kirjoituksessa 	
 ryhtyneensä 	
 toimiin 	
@@ -20621,9 +20620,7 @@ kertoo
 <PARAGRAPH> 	
 Yhdysvaltain 	loc
 tiedusteluviraston 	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 vakoiluhankkeista 	
 saatiin 	
 taas 	
@@ -20643,8 +20640,7 @@ kirjoittaa
 viraston 	
 saastuttaneen 	
 lähes 	
-100 	
-000 	
+100 000	
 tietokonetta 	
 ympäri 	
 maailmaa 	
@@ -20678,8 +20674,7 @@ vuoteen 	tim
 2008 	tim
 mennessä 	tim
 iskenyt 	
-50 	
-000 	
+50 000	
 kohteeseen 	
 eri 	
 puolilla 	
@@ -21018,8 +21013,7 @@ Asiasta
 kirjoittaneen 	
 Wall 	org
 Street 	org
-J 	org
-ournalin 	org
+Journalin	org
 mukaan 	
 Uber 	org
 lisää 	
@@ -21673,9 +21667,7 @@ edustaja 	tit
 Kristin 	per
 Binns 	per
 kertoi 	
-WSJ 	org
-: 	org
-lle 	org
+WSJ:lle	org
 , 	
 että 	
 tiedot 	
@@ -22561,8 +22553,7 @@ ja
 Boeingin 	org
 puolustusteollisuushaaran 	
 Missourin 	org
-15 	
-000 	
+15 000	
 työntekijää 	
 . 	
  	
@@ -22604,9 +22595,7 @@ enemmän
 Microsoft 	org
 nostaa 	
 Windows 	pro
-XP 	pro
-: 	pro
-n 	pro
+XP:n	pro
 tukimaksut 	
 kaksinkertaisiksi 	
 huhtikuussa 	tim
@@ -22615,9 +22604,7 @@ huhtikuussa 	tim
 <BODY> 	
 <PARAGRAPH> 	
 Windows 	pro
-XP 	pro
-: 	pro
-n 	pro
+XP:n	pro
 useaan 	
 kertaan 	
 jatkettu 	
@@ -22676,16 +22663,14 @@ vastaan
 kriittisiä 	
 tietoturvapäivityksiä 	
 Windows 	pro
-XP 	pro
-: 	pro
-lle 	pro
+XP:lle	pro
 , 	
 joskin 	
 ne 	
 on 	
 tarkoitettu 	
 vain 	
-tilapäiseksi 	
+tilapäiseksi 	tim
 turvatoimeksi 	
 . 	
  	
@@ -22708,20 +22693,18 @@ per
 tietokone 	
 tai 	
 vaihtoehtoisesti 	
-250 	
-000 	
+250 000	
 dollaria 	
 eli 	
 noin 	
-166 	
-000 	
+166 000	
 euroa 	
-vuositasolla 	
+vuositasolla 	tim
 . 	
  	
 <PARAGRAPH> 	
 Huhtikuusta 	tim
-eteenpäin 	
+eteenpäin 	tim
 summa 	
 on 	
 kuitenkin 	
@@ -22807,9 +22790,7 @@ markkinaosuudellaan
 <PARAGRAPH> 	
 Vastaisuudessa 	
 Windows 	pro
-XP 	pro
-: 	pro
-ssä 	pro
+XP:ssä	pro
 pysyttelevät 	
 yritykset 	
 joutuvat 	
@@ -22819,16 +22800,13 @@ tietoturvapäivityksistä
 peräti 	
 400 	
 dollaria 	
-pc 	
-: 	
-tä 	
+pc:tä	
 kohden 	
 tai 	
 vaihtoehtoisesti 	
-500 	
-000 	
+500 000	
 dollaria 	
-vuositasolla 	
+vuositasolla 	tim
 . 	
  	
 Pienemmille 	
@@ -23102,12 +23080,12 @@ joka
 on 	
 tietoturvayhtiön 	
 tutkiman 	
-" 	pro
+" 	
 Operation 	pro
 Pawn 	pro
 Storm 	pro
-" 	pro
--vakoiluoperaation 	pro
+" 	
+-vakoiluoperaation 	
 takana 	
 . 	
  	
@@ -23253,9 +23231,7 @@ vaaralliseksi
 . 	
  	
 <HEADLINE> 	
-IE 	pro
-: 	pro
-ssä 	pro
+IE:ssä	pro
 paha 	
 aukko 	
 : 	
@@ -23291,8 +23267,7 @@ Explorer 	pro
 10 	pro
 ja 	pro
 11 	pro
-- 	pro
-selaimissa 	pro
+-selaimissa	pro
 on 	
 korjaamaton 	
 haavoittuvuus 	
@@ -23445,9 +23420,7 @@ vastaan
 <PARAGRAPH> 	
 Ottamatta 	
 kantaa 	
-IE 	pro
-: 	pro
-n 	pro
+IE:n	pro
 haavoittuvuuteen 	
 , 	
 xss-tyyppisiä 	misc
@@ -23536,8 +23509,7 @@ kuitenkin
 jaossa 	
 , 	
 Viestintävirasto 	org
-ke 	
-rtoo 	
+kertoo	
 , 	
 ja 	
 asetuksista 	
@@ -23648,10 +23620,10 @@ tilanteensa
 voi 	
 selvittää 	
 vierailemalla 	
-Flash 	pro
-Player 	pro
-Help 	pro
--sivulla 	pro
+Flash 	misc
+Player 	misc
+Help 	misc
+-sivulla 	misc
 . 	
  	
 Siellä 	
@@ -23667,9 +23639,9 @@ mikä
 tarjoaa 	
 tiedot 	
 oman 	
-Flash 	pro
-Player 	pro
--asennuksen 	pro
+Flash 	misc
+Player 	misc
+-asennuksen 	misc
 tilanteesta 	
 . 	
  	
@@ -23735,9 +23707,7 @@ omistajiin
 kuuluu 	
 muun 	
 muassa 	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 johtaja 	
 . 	
  	
@@ -23757,9 +23727,7 @@ löytyy
 yhteys 	
 Yhdysvaltojen 	org
 turvallisuusvirasto 	org
-NSA 	borg
-: 	org
-han 	org
+NSA:han	borg
 . 	
  	
 F-Secure 	org
@@ -23798,9 +23766,7 @@ Alexander 	per
 , 	
 joka 	
 toimi 	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 johtajana 	
 2005—2014 	tim
 , 	
@@ -23840,8 +23806,7 @@ vuonna 	tim
 2008 	tim
 Synchronossin 	org
 osakkeita 	
-50 	
-000 	
+50 000	
 dollarilla 	
 . 	
  	
@@ -23854,9 +23819,7 @@ yhdysvaltalaisille
 operaattoreille 	
 . 	
  	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 on 	
 väitetty 	
 murtautuneen 	
@@ -23881,9 +23844,7 @@ olisi
 ollut 	
 mitään 	
 yhteyttä 	
-NSA 	org
-: 	org
-han 	org
+NSA:han	org
 tai 	
 Keith 	per
 Alexanderiin 	per
@@ -24437,7 +24398,7 @@ loppupuolella 	tim
 että 	
 Superfish 	pro
 on 	
-väliaikaisesti 	
+väliaikaisesti 	tim
 poistettu 	
 kuluttajakannettavista 	
 . 	
@@ -24492,9 +24453,7 @@ jälkeen
 , 	
 kun 	
 tiedusteluelin 	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 kerrottiin 	
 muun 	
 muassa 	
@@ -24626,7 +24585,9 @@ historiallisen
 suuren 	
 Target-murron 	misc
 vuonna 	tim
-2013. 	tim
+2013	tim
+.	
+	
 Sen 	
 lisäksi 	
 sama 	
@@ -24644,8 +24605,7 @@ ovat
 OneStopParking 	org
 ja 	
 Park 	org
-' 	org
-N 	org
+'N	org
 Fly 	org
 . 	
  	
@@ -25298,7 +25258,7 @@ selainliitännäinen
 , 	
 joka 	
 estää 	
-Flash-sisältöjä 	
+Flash-sisältöjä 	misc
 käynnistymästä 	
 ilman 	
 erillistä 	
@@ -25356,11 +25316,7 @@ myyntisivustoille
  	
 <BODY> 	
 <PARAGRAPH> 	
-Tori 	pro
-. 	pro
-pro 	
-fi 	pro
--verkkopalvelussa 	pro
+Tori.fi-verkkopalvelussa	pro
 sohvaansa 	
 myyvä 	
 helsinkiläismies 	
@@ -25438,10 +25394,10 @@ fund
 <PARAGRAPH> 	
 Tuotteesta 	
 kiinnostunut 	
-" 	per
+" 	
 Pedro 	per
 Willson 	per
-" 	per
+" 	
 kertoi 	
 siis 	
 olevansa 	
@@ -25507,7 +25463,8 @@ automyyntisivustoilla
 . 	
  	
 <PARAGRAPH> 	
-—Vaikka 	
+—	
+Vaikka	
 Kanadasta 	loc
 saatetaan 	
 ottaa 	
@@ -25544,8 +25501,7 @@ Kanadaan 	loc
 Ostaja 	
 kertoo 	
 lähettävänsä 	
-10 	
-000 	
+10 000	
 dollaria 	
 , 	
 josta 	
@@ -25616,8 +25572,7 @@ tämän
 jälkeen 	
 he 	
 saavat 	
-10 	
-000 	
+10 000	
 dollarin 	
 summan 	
 välittäneeltä 	
@@ -25723,9 +25678,6 @@ saanut
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Näin 	
 Paypal-huijaus 	misc
 etenee 	
@@ -25739,10 +25691,10 @@ sijasta
 muualle 	
 . 	
  	
-" 	per
+" 	
 Pedro 	per
 Willsonin 	per
-" 	per
+" 	
 kanssa 	
 sohvakauppa 	
 olisi 	
@@ -25967,9 +25919,6 @@ osoitetta
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Maksuvälinepetokset 	
 kovassa 	
 kasvussa 	
@@ -26039,8 +25988,7 @@ ilmoitettiin
 viime 	tim
 vuonna 	tim
 noin 	
-8 	
-000 	
+8 000	
 erilaista 	
 maksuvälinepetosta 	
 , 	
@@ -26543,9 +26491,7 @@ kovapäisesti
 saada 	
 Yhdysvaltain 	org
 viestintäkomissiolta 	org
-FCC 	borg
-: 	org
-ltä 	org
+FCC:ltä	borg
 luvan 	
 estää 	
 asiakkaita 	
@@ -26579,15 +26525,15 @@ perjantaina 	tim
  	
 Marriott 	org
 vetää 	
-FCC 	org
-: 	org
-n 	org
+FCC:n	org
 käsittelystä 	
 hakemuksensa 	
 , 	
 jossa 	
 haettiin 	
-“selvennystä” 	
+“	
+selvennystä	
+“	
 sääntöihin 	
 , 	
 joiden 	
@@ -26613,9 +26559,7 @@ hän
 ole 	
 vieläkään 	
 sisäistänyt 	
-FCC 	org
-: 	org
-n 	org
+FCC:n	org
 viime 	tim
 viikolla 	tim
 antamaa 	
@@ -26652,15 +26596,18 @@ When
 the 	
 ' 	
 Right 	
-Thing’ 	
+Thing	
+'	
 Is 	
 the 	
 Wrong 	
 Approach 	
 ( 	
 Kun 	
-“oikea 	
-asia” 	
+“	
+oikea	
+asia	
+”	
 on 	
 väärä 	
 lähestymistapa 	
@@ -26678,8 +26625,7 @@ TechTimes 	org
 Marriottia 	org
 sakotettiin 	
 aikaisemmin 	tim
-600 	
-000 	
+600 000	
 dollaria 	
 konferenssikeskuksen 	
 asiakkaiden 	
@@ -26812,7 +26758,7 @@ kova
 kiire 	
 päivittää 	
 johonkin 	
-uudempaan 	
+uudempaan 	tim
 järjestelmään 	
 . 	
  	
@@ -26821,7 +26767,7 @@ totesi
 jo 	
 viime 	tim
 vuoden 	tim
-puolella 	
+puolella 	tim
 ( 	
 Youtube-video 	misc
 ) 	
@@ -26932,9 +26878,7 @@ perustuu
 edelleen 	
 vanhentuneeseen 	
 Windows 	pro
-XP 	pro
-: 	pro
-hen 	pro
+XP:hen	pro
 . 	
  	
 Automatian 	org
@@ -26951,7 +26895,7 @@ Keskiviikkona 	tim
 rahannostoa 	
 yrittäneitä 	
 tervehti 	
-hetkellisesti 	
+hetkellisesti 	tim
 outo 	
 näky 	
 Kampin 	loc
@@ -27042,14 +26986,12 @@ kaksi
 vanhinta 	
 perustuu 	
 vielä 	
-XP 	pro
-: 	pro
-hen 	pro
+XP:hen	pro
 . 	
  	
-Vanhimpien 	
+Vanhimpien 	tim
 päivitys 	
-uusiin 	
+uusiin 	tim
 on 	
 odotettavissa 	
 3—4 	tim
@@ -27057,9 +26999,9 @@ vuoden 	tim
 sisällä 	tim
 ja 	
 käyttöjärjestelmäpäivityksiä 	
-jo 	
-sitä 	
-ennen 	
+jo 	tim
+sitä 	tim
+ennen 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -27337,22 +27279,9 @@ sähköpostiin
 <PARAGRAPH> 	
 Esimerkiksi 	
 tunnukset 	
-matti 	
-. 	
- 	
-virtanen 	
-@ 	
-suomi24 	
-. 	
- 	
-fi 	
+matti.virtanen@suomi24.fi	
 ja 	
-mattivirtanen 	
-@ 	
-suomi24 	
-. 	
- 	
-fi 	
+mattivirtanen@suomi24.fi	
 saattoivat 	
 mennä 	
 järjestelmässä 	
@@ -27367,9 +27296,6 @@ salasana
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Mahdollinen 	
 lakirikkomus 	
  	
@@ -27470,7 +27396,9 @@ näitä
 tunnuksia 	
 oli 	
 noin 	
-50. 	
+50	
+.	
+	
 Ennen 	
 kuin 	
 virhe 	
@@ -27503,12 +27431,7 @@ salasanansa
 . 	
  	
 <HEADLINE> 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 keksi 	
 laskuttaa 	
 yksityisyydestä 	
@@ -27520,15 +27443,10 @@ erikseen
 <INGRESS> 	
 Yhdysvaltalainen 	
 telejätti 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 on 	
 löytänyt 	
-uuden 	
+uuden 	tim
 tavan 	
 rokottaa 	
 asiakkaita 	
@@ -27538,12 +27456,7 @@ yksityisyysmaksun
  	
 <BODY> 	
 <PARAGRAPH> 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 tarjoaa 	
 huippunopean 	
 GigaPower-palvelun 	pro
@@ -27562,12 +27475,7 @@ kuukaudessa 	tim
 . 	
  	
 <PARAGRAPH> 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 kertoo 	
 asiasta 	
 suoraan 	
@@ -27650,14 +27558,7 @@ Mayer 	per
 arveli 	
 , 	
 että 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
-: 	org
-n 	org
+AT&amp;T;:n	org
 kalliin 	
 yksityisyysmaksun 	
 tarkoitus 	
@@ -27671,14 +27572,7 @@ piirissä
 . 	
  	
 <PARAGRAPH> 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
-: 	org
-n 	org
+AT&amp;T;:n	org
 sakkomaksu 	
 yksityisyydestä 	
 näyttäisi 	
@@ -27703,12 +27597,7 @@ joka
 paikkaan 	
 . 	
  	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 lupasi 	
 luopua 	
 marraskuussa 	tim
@@ -27769,12 +27658,7 @@ New 	org
 York 	org
 Timesin 	org
 mukaan 	
-AT 	org
-& 	org
-amp 	org
-; 	org
-T 	org
-; 	org
+AT&amp;T;	org
 ei 	
 kuitenkaan 	
 takaa 	
@@ -27864,7 +27748,7 @@ pitää
 päivittää 	
 korjattuun 	
 versioon 	
-mahdollisimman 	
+mahdollisimman 	tim
 pian 	tim
 , 	
 ja 	
@@ -27873,7 +27757,7 @@ tulee
 seurata 	
 tilannetta 	
 mahdollisten 	
-uusien 	
+uusien 	tim
 haavoittuvien 	
 ohjelmistojen 	
 varalta 	
@@ -27897,7 +27781,7 @@ alttiita
 ohjelmistoja 	
 voi 	
 löytyä 	
-lähitulevaisuudessa 	
+lähitulevaisuudessa 	tim
 lisää 	
 , 	
 tiedotteessa 	
@@ -27984,38 +27868,20 @@ Enterprise 	pro
 Linux 	pro
 ) 	
 versiot 	pro
-5 	pro
-. 	pro
-pro 	
-x 	pro
-, 	pro
-6 	pro
-. 	pro
-pro 	
-x 	pro
-ja 	pro
-7 	pro
-. 	pro
-pro 	
-x 	pro
-* 	
-CentOS 	bpro
+5.x	pro
+,	
+6.x	pro
+ja	
+7.x	pro
+*	
+CentOS 	pro
 Linux 	pro
 versiot 	pro
-5 	pro
-. 	pro
-pro 	
-x 	pro
+5.x	pro
 , 	pro
-6 	pro
-. 	pro
-pro 	
-x 	pro
+6.x	pro
 & 	pro
-7 	pro
-. 	pro
-pro 	
-x 	pro
+7.x	pro
 * 	
 Ubuntu 	bpro
 Linux 	pro
@@ -28028,10 +27894,7 @@ LTS 	pro
 Debian 	bpro
 Linux 	pro
 versio 	pro
-7 	pro
-. 	pro
-pro 	
-x 	pro
+7.x	pro
 * 	
 Linux 	bpro
 Mint 	pro
@@ -28067,12 +27930,9 @@ Arch 	bpro
 Linux 	pro
 glibc 	pro
 versio 	pro
-< 	pro
-= 	pro
-2 	pro
-. 	pro
-pro 	
-18-1 	pro
+<=	pro
+2.18-1	pro
+.	
  	
 <HEADLINE> 	
 Haamu 	
@@ -28151,18 +28011,16 @@ salasanoja
 <PARAGRAPH> 	
 Haavoittuvuus 	
 koskee 	
-C- 	pro
+C-	pro
 ja 	
-C 	pro
-+ 	pro
-+ 	pro
+C++	pro
 -kielillä 	pro
 kirjoitettuja 	
 GNU 	pro
 C 	pro
 -kirjaston 	pro
 eli 	
-glibc’n 	
+glibc’n 	pro
 vanhempia 	
 versioita 	
 . 	
@@ -28170,7 +28028,7 @@ versioita
 Uudemmissa 	
 versioissa 	
 alkaen 	
-glibc’stä 	
+glibc’stä 	pro
 , 	
 joka 	
 julkaistiin 	
@@ -28279,15 +28137,15 @@ haavoittuvuutta
 ei 	
 enää 	
 ole 	
-versiosta 	
-20 	
+versiosta 	pro
+20 	pro
 eteenpäin 	
 , 	
 ei 	
 myöskään 	
 Ubuntussa 	pro
-versiosta 	
-13.10 	
+versiosta 	bpro
+13.10 	pro
 alkaen 	
 . 	
  	
@@ -28308,9 +28166,7 @@ Hätkähdyttävän
 osaava 	
 Regin-haittaohjelma 	pro
 on 	
-NSA 	org
-: 	org
-n 	org
+NSA:n	org
 tekosia 	
 , 	
 Kaspersky 	org
@@ -28373,9 +28229,7 @@ julkaissut
 lähdekoodin 	
 Yhdysvaltain 	org
 tiedusteluvirasto 	org
-NSA 	borg
-: 	org
-n 	org
+NSA:n	borg
 haittaohjelmasta 	
 , 	
 joka 	
@@ -28674,13 +28528,10 @@ ohjelmiston
 version 	
 tulisi 	
 olla 	
-16.0 	pro
-. 	pro
-pro 	
-0.296 	pro
+16.0.0.296	pro
 sekä 	
 Windows- 	pro
-että 	
+että 	pro
 Mac-ympäristössä 	pro
 . 	
  	
@@ -28749,10 +28600,7 @@ julkaistu
 myös 	
 Flashin 	pro
 vanhemmille 	
-13 	pro
-. 	pro
-pro 	
-x-versioille 	pro
+13.x-versioille	pro
 sekä 	
 Linuxille 	pro
 . 	
