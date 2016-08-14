@@ -13,7 +13,7 @@ tarkista: myšhemmin, hetki
 tarkista: elokuva*
 kŠy lŠpi ORG versus PRO -ongelma sŠŠnnšllŠ ÒepŠselvŠt tapaukset on ORGÓ
 
-bluetooth, wlan, 2g(G), 3g(G), 4g(G), 5g(G), e-ink, lte, gps, nfc, vpn, pc, ftp, sql, http, html -> PRO 
+bluetooth, wlan, 2g(G), 3g(G), 4g(G), 5g(G), e-ink, lte, gps, nfc, vpn, pc, ftp, sql, http, html, ip -> PRO 
 
 
 edelleen
