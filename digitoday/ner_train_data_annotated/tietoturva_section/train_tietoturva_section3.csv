@@ -30158,9 +30158,6 @@ kiinalaisyhtiöille
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Suomen  	loc
 suojautuminen 	
 heikkoa 	
@@ -30813,15 +30810,12 @@ koskee
 Androidin  	pro
 perussähköpostin  	pro
 versiota  	pro
-4.2  	pro
-.  	pro
-pro 	
-2.0200  	pro
+4.2.2.0200	pro
 ja 	
 ilmeisesti 	
 myös 	
 sitä 	
-vanhempia 	
+vanhempia 	tim
 versioita 	
 . 	
  	
@@ -30829,10 +30823,7 @@ Ongelmaa
 ei 	
 ole 	
 versiossa  	pro
-4.2  	pro
-.  	pro
-pro 	
-2.0400  	pro
+4.2.2.0400	pro
 , 	
 mutta 	
 kaikkia 	
@@ -30908,7 +30899,7 @@ Adobe  	org
 Systems  	org
 kertoi 	
 torstaina  	tim
-illalla 	
+illalla 	tim
 avonaisesta 	
 aukosta 	
 , 	
@@ -30930,8 +30921,7 @@ sitä
 on 	
 hyödynnetty 	
 Internet  	pro
-Explorer  	pro
--  	pro
+Explorer-	pro
 ja 	
 Firefox-selainten  	pro
 kautta 	
@@ -30963,7 +30953,9 @@ ennakoi
 korjaavansa 	
 haavoittuvuuden 	
 viikolla  	tim
-5.  	tim
+5	tim
+.	
+	
 Kyseessä 	
 on 	
 siis 	
@@ -31242,7 +31234,8 @@ toimivia
 . 	
  	
 <HEADLINE> 	
-HS:  	org
+HS	org
+:	
 Haittaohjelmia 	
 levittänyt 	
 ongelmaoperaattori 	
@@ -31343,7 +31336,8 @@ alkoivat
 kasautua 	
 jo 	
 vuonna  	tim
-2011.  	tim
+2011	tim
+.	
  	
 <PARAGRAPH> 	
 Elisan  	org
@@ -31458,7 +31452,7 @@ päivitykset
 heti 	btim
 . 	
  	
-Aiempien 	
+Aiempien 	tim
 päivitysten 	
 jälkeen 	
 on 	
@@ -31691,8 +31685,8 @@ kahdeksan
 bitcoinia 	
 , 	
 mikä 	
-tämän 	
-hetkisen 	btim
+tämän 	tim
+hetkisen 	tim
 kurssin 	
 mukaan 	
 vastaa 	
@@ -31775,10 +31769,7 @@ esimerkkiviestissä
 liitetiedoston 	
 nimi 	
 on 	
-cuteys 	
-. 	
- 	
-zip 	
+cuteys.zip	
 , 	
 mutta 	
 muita 	
@@ -31786,34 +31777,20 @@ tavattuja
 nimiä 	
 ovat 	
 esimerkiksi 	
-banjoes 	
-. 	
- 	
-zip 	
+banjoes.zip	misc
 , 	
-disgruntled 	
-. 	
- 	
-zip 	
+disgruntled.zip	misc
 , 	
-facto 	
-. 	
- 	
-zip 	
+facto.zip	misc
 ja 	
-tutty 	
-. 	
- 	
-zip 	
+tutty.zip	misc
 . 	
  	
 Lisäksi 	
 on 	
 havaittu 	
 useita 	
-. 	
- 	
-scr- 	
+.scr-	
 ja 	
 exe-päätteisiä 	
 nimiä 	
@@ -31886,15 +31863,10 @@ raportoi
  	
 Aukot 	
 koskevat 	
-VLC  	pro
-:  	pro
-n  	pro
-viimeisintä 	
-versiota 	
-2.1  	pro
-.  	pro
-pro 	
-5  	pro
+VLC:n	pro
+viimeisintä 	pro
+versiota 	pro
+2.1.5	pro
 ja 	
 sallivat 	
 muistin 	
@@ -31928,9 +31900,7 @@ marraskuuta  	tim
 . 	
  	
 <PARAGRAPH> 	
-VLC  	pro
-:  	pro
-stä  	pro
+VLC:stä	pro
 vastaava 	
 VideoLan-projekti  	pro
 sai 	
@@ -31980,9 +31950,7 @@ ja
 Microsoftin  	org
 hylkäämän 	
 Windows  	pro
-XP  	pro
-:  	pro
-n  	pro
+XP:n	pro
 käyttäjiä 	
 , 	
 mutta 	
@@ -32008,9 +31976,7 @@ ZDNet  	org
 123456 	
 , 	
 password 	
-. 	
- 	
-.. 	
+...	
 — 	
 kurjassa 	
 salasanalistassa 	
@@ -32111,8 +32077,9 @@ tarjoaa
 niin 	
 ikään 	
 uusi 	btim
-696969. 	
- 	
+696969	
+.	
+	
 <PARAGRAPH> 	
 Lista 	
 on 	
@@ -32328,6 +32295,7 @@ superman
 batman 	
 25. 	
 trustno1 	
+	
 Lähde 	
 : 	
 SplashData  	org
@@ -32381,15 +32349,11 @@ kirjoituksensa
 F-Securen  	org
 blogissa 	
 " 	
-USA  	loc
-' 	
-s 	
+USA's	
 Double 	
 Standard 	
 : 	
-Don 	
-' 	
-t 	
+Don't	
 Hack 	
 Like 	
 the 	
@@ -32846,9 +32810,7 @@ kertovat
 kiinalaisten 	
 vieneen 	
 amerikkalaisen 	
-F-35  	pro
-:  	pro
-n  	pro
+F-35:n	pro
 hävittäjän  	pro
 täydet 	
 tiedot 	
@@ -32896,9 +32858,7 @@ tiedoista
 Lehden 	
 artikkeli 	
 keskittyy 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 suunnitelmiin 	
 tulevasta 	
 kybersodasta 	
@@ -32952,14 +32912,6 @@ otteessa
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Ruutukaappaus 	
- 	
-<PARAGRAPH> 	
 Tavallisia 	
 käyttäjiä 	
 kiinnostanee 	
@@ -32981,11 +32933,11 @@ and  	pro
 survey  	pro
 system  	pro
 ) 	
--niminen  	pro
+-niminen  	
 ( 	
 pdf 	
 ) 	
-ohjelma  	pro
+ohjelma  	
 urkki 	
 matkapuhelinten 	
 mainosverkkoja 	
@@ -33197,7 +33149,7 @@ jälleen
 ilmaantunut 	
 julkisuuteen 	
 kahdella 	
-uudella 	
+uudella 	tim
 nollapäivähaavoittuvuudella 	
 . 	
  	
@@ -33294,8 +33246,8 @@ päivitystiistain  	tim
 yhteydessä 	
 , 	
 mutta 	
-viime 	
-hetkellä 	
+viime 	tim
+hetkellä 	tim
 ilmennyt 	
 yhteensopivuusongelma 	
 sai 	
@@ -33415,46 +33367,15 @@ York  	org
 Times  	org
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-nytimes 	
-. 	
- 	
-com 	
-/ 	
-2015 	
-/ 	
-01 	
-/ 	
-19 	
-/ 	
-world 	
-/ 	
-asia 	
-/ 	
-nsa-tapped-into-north-korean-net 	
-works-before-sony-attack-officials-say 	
-. 	
- 	
-html 	
-? 	
- 	
-r 	
-= 	
-0 	
+http://www.nytimes.com/2015/01/19/world/asia/nsa-tapped-into-north-korean-networks-before-sony-attack-officias-say.html?r=0	
 ) 	
 kertoo 	
-entisten 	
+entisten 	tim
 virkailijoiden 	
 antamien 	
 tietojen 	
 ja 	
-vasta 	
+vasta 	tim
 paljastetun 	
 NSA-asiakirjan  	misc
 avulla 	
@@ -33800,8 +33721,7 @@ hakkereilta
  	
 New  	org
 York  	org
-Times  	org
-in  	org
+Timesin	org
 mukaan 	
 ruotsalaismies 	
 on 	
@@ -34509,23 +34429,16 @@ d00fy  	per
 kertoi 	
 menettäneensä 	
 koko 	
-/ 	
-home-järjestelmän 	
+/home-järjestelmän	
 sisällön 	
 yrittäessään 	
 käynnistää 	
 Linux-Steamin  	pro
 asennusohjelman 	
-steam  	pro
-.  	pro
-pro 	
-sh  	pro
-:  	pro
-n  	pro
+steam.sh:n	pro
 parametrilla 	
-STEAMDEBUG 	
-= 	
-1. 	
+STEAMDEBUG=1	
+.	
  	
 <PARAGRAPH> 	
 Asiasta 	
@@ -34584,9 +34497,9 @@ vaikeampi
 virkavallalle 	
 , 	
 nimimerkkiä 	
-"  	per
+"  	
 Kafeine  	per
-"  	per
+"  	
 käyttävä 	
 tietoturvatutkija 	
 selvitti 	
@@ -34777,9 +34690,7 @@ puolella  	tim
 . 	
  	
 <PARAGRAPH> 	
-Park  	org
-'  	org
-N  	org
+Park'N	org
 Fly  	org
 ilmoitti 	
 tiedotteessaan 	
@@ -34806,10 +34717,7 @@ koskee
 <PARAGRAPH> 	
 Toinen 	
 yritys 	
-OneStopParking  	org
-.  	org
-org 	
-com  	org
+OneStopParking.com	org
 kertoi 	
 Krebsille  	per
 tämän 	
@@ -35179,7 +35087,8 @@ Google-aukon  	misc
 — 	
 mutta 	
 missä 	
-onInternet  	pro
+on	
+Internet	pro
 Explorer  	pro
 ? 	
  	
@@ -35942,9 +35851,7 @@ vuoden  	tim
 aktiiviseen 	
 yksityisyyden 	
 suojaprojektiin 	
-FTC  	org
-:  	org
-n  	org
+FTC:n	org
 kanssa 	
 tekemässään 	
 sopimuksessa 	
@@ -36358,8 +36265,8 @@ että
 ne 	
 tuodaan 	
 julki 	
-ennen 	
-aikojaan 	
+ennen 	tim
+aikojaan 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -36458,8 +36365,7 @@ kirjoittanut
 muun 	
 muassa 	
 talouslehti 	
-Fo  	org
-rbes  	org
+Forbes	org
 . 	
  	
 <PARAGRAPH> 	
@@ -36480,15 +36386,13 @@ Google  	org
 kannustaa 	
 ohjeissaan 	
 sovelluskehittäjiä 	
-WebView  	pro
-'  	pro
-n  	pro
+WebView'n	pro
 käyttöön 	
 . 	
  	
 KitKat-Androidissa  	pro
 eli 	
-4.4:ssä 	
+4.4:ssä 	pro
 ja 	
 myöhemmissä 	
 tilalla 	
@@ -36530,9 +36434,7 @@ hakevat
 käytännössä 	
 aukkoja 	
 vain 	
-WebView  	pro
-'  	pro
-sta  	pro
+WebView'sta	pro
 , 	
 sillä 	
 se 	
@@ -36547,9 +36449,7 @@ Metasploit-hyökkäystyökalu  	pro
 sisältää 	
 hyökkäykset 	
 11 	
-WebView  	pro
-'  	pro
-n  	pro
+WebView'n	pro
 eri 	
 aukkoon 	
 . 	
@@ -36611,7 +36511,7 @@ Android-laitteista  	pro
 . 	
  	
 Näistä 	
-4.4:n 	
+4.4:n 	pro
 eli 	
 KitKatin  	pro
 osuus 	
@@ -36645,13 +36545,8 @@ puhelinta
 jotka 	
 edustavat 	
 Android-versioita  	pro
-2  	pro
-.  	pro
-pro 	
-3—4  	pro
-.  	pro
-pro 	
-3.  	pro
+2.3—4.3	pro
+.	pro
  	
 <PARAGRAPH> 	
 Metasploit-blogi  	org
@@ -36821,10 +36716,10 @@ joiden
 on 	
 sitten 	
 varsinaisena 	
-paikkaustiistaina  	tim
+paikkaustiistaina  	misc
 tai 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 mahdollista 	
 ajaa 	
 korjaukset 	
@@ -37043,13 +36938,10 @@ reitittimiin
 oletussalasanoin 	
 , 	
 kuten 	
-admin 	
-/ 	
-admin 	
+admin/admin	
 tai 	
-root 	
-/ 	
-12345. 	
+root/12345	
+.	
  	
 <PARAGRAPH> 	
 Vaikka 	
@@ -37163,8 +37055,8 @@ tekosia
  	
 Tämä 	
 tapahtui 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Krebs  	per
@@ -37326,9 +37218,7 @@ myös
 viime  	tim
 kevään  	tim
 Heartbleed-haavoittuvuutta  	misc
-OpenSSL  	pro
-:  	pro
-stä  	pro
+OpenSSL:stä	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -37351,11 +37241,7 @@ sydämessä
 Microsoft  	org
 korjaa 	
 tiistaina  	tim
-. 	
- 	
-. 	
-. 	
- 	
+...	
 jaa 	
 eipäs 	
 kerrokaan 	
@@ -37859,9 +37745,7 @@ Softpedia  	org
 . 	
  	
 <HEADLINE> 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 urkintakoodi 	
 asuu 	
 sinunkin 	
@@ -37875,9 +37759,7 @@ syvyyksissä
 Yhdysvaltain  	org
 kansallisen  	org
 tiedustelupalvelun  	org
-NSA  	borg
-:  	org
-n  	org
+NSA:n	borg
 urkintamenetelmät 	
 ulottuvat 	
 vieläkin 	
@@ -37914,9 +37796,7 @@ Lab  	org
 kertoi 	
 maanantaina  	tim
 löytäneensä 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 piilokoodia 	
 kaikkien 	
 suurimpien 	
@@ -38140,11 +38020,12 @@ ovat
 olleet 	
 toiminnassa 	
 jo 	
-niin 	
-aikaisin 	btim
-kuin 	
+niin 	tim
+aikaisin 	tim
+kuin 	tim
 vuonna  	tim
-2001.  	tim
+2001	tim
+.	
  	
 <PARAGRAPH> 	
 Kasperskyn  	org
@@ -38630,9 +38511,7 @@ puhuvia
 <HEADLINE> 	
 Tämän 	
 takia 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 verkkohyökkäys 	
 esti 	
 myös 	
@@ -38642,9 +38521,7 @@ korttimaksut
 8.1.2015 06:02 	
  	
 <INGRESS> 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 pankkikortit 	
 olisivat 	
 toimineet 	
@@ -38683,9 +38560,7 @@ osuuspankkien
 pankkikorteilla 	
 . 	
  	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 mukaan 	
 pankkikortit 	
 toimivat 	
@@ -38767,9 +38642,7 @@ nostoa
 varten 	
 , 	
 sanoo 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 viestintäjohtaja  	tit
 Carina  	per
 Geber-Teir  	per
@@ -38800,9 +38673,6 @@ toimenpiteitä
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 " 	
 Pitäisi 	
 eriyttää 	
@@ -39051,9 +38921,7 @@ olla
 yhä 	
 vaikeuksia 	
 päästä 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 verkkopalveluun 	
 . 	
  	
@@ -39443,8 +39311,7 @@ vieläkin
 pidemmälle 	
 uutistoimisto 	
 Bloombergin  	org
-haa 	
-stattelussa 	
+haastattelussa	
 . 	
  	
 <PARAGRAPH> 	
@@ -39610,9 +39477,7 @@ Marriottin  	org
 mukaan 	
 sen 	
 anomus 	
-FCC  	org
-:  	org
-lle  	org
+FCC:lle	org
 ymmärrettiin 	
 väärin 	
 . 	
@@ -39779,8 +39644,7 @@ Hotel  	org
 Convention  	org
 Center  	org
 tuomittiin 	
-600 	
-000 	
+600 000	
 dollarin 	
 sakkoihin 	
 , 	
@@ -39796,9 +39660,7 @@ estämiseksi
 . 	
  	
 <HEADLINE> 	
-OP  	org
-:  	org
-lla  	org
+OP:lla	org
 jo 	
 päivien 	
 kurimus 	
@@ -39823,7 +39685,7 @@ mutta
 ne 	
 alkoivat 	
 uudestaan 	
-tunteja 	
+tunteja 	tim
 myöhemmin  	tim
 . 	
  	
@@ -39906,8 +39768,8 @@ on
 kärsinyt 	
 hyökkäyksestä 	
 jo 	
-uudenvuodenaatosta 	
-lukien 	
+uudenvuodenaatosta 	tim
+lukien 	tim
 . 	
  	
 Myös 	
@@ -39959,7 +39821,7 @@ hyökkäys
 on 	
 jatkunut 	
 jo 	
-pitkään 	
+pitkään 	tim
 . 	
  	
 <BODY> 	
@@ -39976,10 +39838,7 @@ verkkorikollisia
 nimineen 	
 kaikkineen 	
 verkko-osoitteessaan 	
-KrebsOnSecurity  	pro
-.  	pro
-pro 	
-com  	pro
+KrebsOnSecurity.com	pro
 . 	
  	
 Nyt  	tim
@@ -39994,9 +39853,9 @@ on
 ollut 	
 ajoittain  	tim
 alhaalla 	
-ainakin 	
+ainakin 	tim
 perjantaista  	tim
-lukien 	
+lukien 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -40007,9 +39866,9 @@ tätä
 uutista 	
 kirjoitettaessa 	
 lauantaina  	tim
-puolen 	
-päivän 	
-jälkeen 	
+puolen 	tim
+päivän 	tim
+jälkeen 	tim
 . 	
  	
 Perjantaina  	tim
@@ -40055,7 +39914,7 @@ ja
 Microsoftin  	pro
 Xbox  	pro
 Liven  	pro
-jouluna 	
+jouluna 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -40087,13 +39946,13 @@ alkoi
 jo 	
 itse 	
 asiassa 	
-yli 	
-40 	
-päivää 	
-sitten 	
+yli 	tim
+40 	tim
+päivää 	tim
+sitten 	tim
 . 	
  	
-Vasta 	
+Vasta 	tim
 nyt  	tim
 hyökkääjät 	
 onnistuivat 	
@@ -40234,8 +40093,8 @@ lähetetyt
 kuvat 	
 häviävät 	
 pian  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 ne 	
@@ -40314,7 +40173,7 @@ muun
 muassa 	
 sopimukseen 	
 kuuluvan 	
-20-vuotisen 	
+20-vuotisen 	tim
 seurannan 	
 . 	
  	
@@ -40354,9 +40213,7 @@ Daniel  	per
 J.  	per
 Soloven  	per
 mukaan 	
-FTC  	org
-:  	org
-n  	org
+FTC:n	org
 valtuudet 	
 sakottaa 	
 yrityksiä 	
@@ -40376,8 +40233,7 @@ voi
 sakottaa 	
 yritystä 	
 jopa 	
-16 	
-000 	
+16 000	
 dollarilla 	
 jokaista 	
 rikkomuksen 	
@@ -40422,8 +40278,7 @@ yhtiön
 peräti 	
 kymmeneen 	
 miljardiin 	
-dollar 	
-iin 	
+dollariin	
 . 	
  	
 <HEADLINE> 	
@@ -40442,9 +40297,7 @@ OP  	org
 <INGRESS> 	
 Palvelunestohyökkäys 	
 kohdistui 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 verkkopalveluihin 	
 , 	
 mutta 	
@@ -40489,9 +40342,7 @@ estämällä
 verkkoliikennettä 	
 , 	
 kertoo 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 tietojärjestelmistä 	
 vastaavan 	
 Tiedon  	org
@@ -40621,9 +40472,7 @@ alkanut
 hyökkäys 	
 kohdistui 	
 etupäässä 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 verkkopalveluihin 	
 , 	
 mutta 	
@@ -40641,9 +40490,7 @@ Vaikka
 pankkiautomaattien 	
 tietoliikenne 	
 kulkee 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 Nikkasen  	per
 mukaan 	
 eri 	
@@ -40755,8 +40602,8 @@ kuitenkaan
 riittänyt 	
 turvaamaan 	
 OP-pankkia  	org
-uutena 	
-vuotena 	
+uutena 	tim
+vuotena 	tim
 . 	
  	
 OP  	org
@@ -40783,10 +40630,7 @@ vaikea
 selvittää 	
 . 	
  	
-OP  	org
-.  	org
-org 	
-n  	org
+OP.n	org
 hyökkäys 	
 on 	
 toteutettu 	
@@ -40805,9 +40649,7 @@ kaapatut
 tietokoneet 	
 . 	
  	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 tapauksissa 	
 osa 	
 hyökkäykseen 	
@@ -40838,9 +40680,9 @@ tiennyt
 Windows  	pro
 8.1:n  	pro
 haavoittuvuudesta 	
-viime 	
-syksystä 	
-lukien 	
+viime 	tim
+syksystä 	tim
+lukien 	tim
 , 	
 tutkija 	
 väittää 	
@@ -40857,9 +40699,9 @@ joka
 käyttää 	
 vain 	
 nimimerkkiä 	
-"  	per
+"  	
 forshaw  	per
-"  	per
+"  	
 . 	
  	
 <PARAGRAPH> 	
@@ -40894,9 +40736,7 @@ aukon
 olemassaolosta 	
 . 	
  	
-Forshaw  	per
-'  	per
-n  	per
+Forshaw'n	per
 mukaan 	
 myös 	
 Microsoft  	org
@@ -40905,7 +40745,7 @@ tiennyt
 haavoittuvuudesta 	
 jo 	
 syyskuusta  	tim
-lähtien 	
+lähtien 	tim
 , 	
 mutta 	
 toistaiseksi  	tim
@@ -40978,14 +40818,12 @@ Softpedia  	org
 Nordean  	org
 palvelut 	
 horjuvat 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 vanavedessä 	
  	
 <DATE> 	
 2.1.2015 12:34 (päivitetty 13:36) 	
- 	
+	
 <INGRESS> 	
 Nordean  	org
 verkkopankki 	
@@ -41061,8 +40899,8 @@ myöhemmin  	tim
 Finanssiryhmä 	
 OP  	org
 tiedotti 	
-uudenvuoden 	
-aattona 	
+uudenvuoden 	tim
+aattona 	tim
 , 	
 että 	
 sen 	
@@ -41076,8 +40914,8 @@ Palvelunestohyökkäykset
 ovat 	
 jatkuneet 	
 myös 	
-vuodenvaihteen 	
-jälkeen 	
+vuodenvaihteen 	tim
+jälkeen 	tim
 ja 	
 niiden 	
 lähdettä 	
@@ -41116,10 +40954,7 @@ haittaohjelma
 2.1.2015 11:49 	
  	
 <INGRESS> 	
-ISC  	pro
-.  	pro
-pro 	
-org  	pro
+ISC.org	org
 varoittaa 	
 verkkovierailijoitaan 	
 mahdollisesta 	
@@ -41149,10 +40984,7 @@ uutisia
 vuodenvaihteessa 	
 . 	
  	
-ISC  	pro
-.  	pro
-pro 	
-org-verkkosivu  	pro
+ISC.org-verkkosivu	pro
 saattoi 	
 olla 	
 haittaohjelmasta 	
@@ -41192,26 +41024,12 @@ WordPress-blogialustaan  	pro
 eikä 	
 se 	
 vaikuta 	
-ftp  	pro
-.  	pro
-pro 	
-isc  	pro
-.  	pro
-pro 	
-orgiin  	pro
+ftp.isc.orgiin	pro
 , 	
-kb  	pro
-.  	pro
-pro 	
-isc  	pro
-.  	pro
-pro 	
-orgiin  	pro
+kb.isc.orgiin	pro
 tai 	
 muihin 	
-ISC  	org
-:  	org
-n  	org
+ISC:n	org
 verkkoresursseihin 	
 . 	
  	
@@ -41254,9 +41072,7 @@ vaan
 se 	
 saastutti 	
 vain 	
-ISC  	org
-:  	org
-n  	org
+ISC:n	org
 palvelimen 	
 . 	
  	
@@ -41351,10 +41167,8 @@ kaappaamisen
 . 	
  	
 <PARAGRAPH> 	
-Kirjoitushetkellä 	
-ISN  	org
-:  	org
-n  	org
+Kirjoitushetkellä 	tim
+ISN:n	org
 verkkosivut 	
 ovat 	
 alhaalla 	
@@ -41420,7 +41234,7 @@ pidättänyt
 hakkeriryhmä 	
 Lizard  	org
 Squadin  	org
-22-vuotiaan 	
+22-vuotiaan 	tim
 jäsenen 	
 , 	
 joka 	
@@ -41442,7 +41256,7 @@ Playstation-  	pro
 ja 	
 Xbox-pelikonsoliverkkojen  	pro
 kaatumisen 	
-joulupäivänä 	
+joulupäivänä 	tim
 palvelunestohyökkäyksellä 	
 . 	
  	
@@ -41451,9 +41265,9 @@ Pidätyksestä
 kertoo 	
 muun 	
 maussa 	
-Crave  	pro
-Online  	pro
--verkkosivusto  	pro
+Crave  	org
+Online  	org
+-verkkosivusto  	org
 . 	
  	
 <PARAGRAPH> 	
@@ -41471,7 +41285,7 @@ peliverkkojen
 kaatamiseen 	
 , 	
 vaan 	
-aiempiin 	
+aiempiin 	tim
 rikosepäilyihin 	
 . 	
  	
@@ -41496,9 +41310,9 @@ päästetty
 vapauteen 	
 takuita 	
 vastaan 	
-10. 	
+10. 	tim
 maaliskuuta  	tim
-asti 	
+asti 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -41512,9 +41326,9 @@ että
 Lizard  	org
 Squadin  	org
 suomalaisjäsen 	
-"  	per
+"  	
 Ryan  	per
-"  	per
+"  	
 olisi 	
 pidätetty 	
 . 	
@@ -41571,9 +41385,7 @@ teksti
 " 	
 Switching 	
 servers 	
-. 	
- 	
-.. 	
+...	
 will 	
 be 	
 back 	
@@ -41815,7 +41627,9 @@ Post  	org
 viittasi 	
 myös 	
 suomalaisen 	
-“Ryanin”  	per
+“	
+Ryanin	per
+”	
 haastatteluun 	
 . 	
  	
@@ -41917,9 +41731,7 @@ korjattu
 . 	
  	
 <HEADLINE> 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 katko 	
 johtui 	
 hyökkäyksestä 	
@@ -41928,15 +41740,13 @@ hyökkäyksestä
 1.1.2015 11:09 	
  	
 <INGRESS> 	
-OP  	org
-:  	org
-n  	org
+OP:n	org
 verkkopalveluiden 	
 ja 	
 maksukorttien 	
 käytössä 	
 ilmeni 	
-uudenvuodenaattona 	
+uudenvuodenaattona 	tim
 ongelmia 	
 . 	
  	
@@ -41945,7 +41755,7 @@ ongelmia
 Finanssiryhmä 	
 OP  	org
 joutui 	
-uudenvuodenaattona 	
+uudenvuodenaattona 	tim
 palvelunestohyökkäyksen 	
 kohteeksi 	
 , 	
@@ -41972,7 +41782,7 @@ verkkosivuston
 ja 	
 maksukorttien 	
 toiminnassa 	
-uudenvuodenaattona 	
+uudenvuodenaattona 	tim
 . 	
  	
 OP  	org
@@ -41998,8 +41808,9 @@ edelleen
 OP  	org
 tiedottaa 	
 tietoliikennehäiriöstä 	
-kello 	
-12. 	
+kello	
+12	
+.	
  	
 <HEADLINE> 	
 Pornoa 	
@@ -42099,9 +41910,7 @@ talvessa
 näistä 	
 saappaista 	
 ! 	
- 	
-# 	
-ThonglessThursday 	
+#ThonglessThursday	
 . 	
  	
 <PARAGRAPH> 	
@@ -42166,8 +41975,8 @@ salauksen
 pettäminen 	
 oli 	
 yksi 	
-kuluneen 	
-vuoden 	
+kuluneen 	tim
+vuoden 	tim
 kantavia 	
 teemoja 	
 tietoturvassa 	
@@ -42325,7 +42134,7 @@ yksittäistapaus
 ja 	
 se 	
 tapahtui 	
-loppuvuonna 	
+loppuvuonna 	tim
 . 	
  	
 Raportissa 	
@@ -42678,7 +42487,7 @@ sekä
 jopa 	
 kokonaisia 	
 julkaisemattomia 	
-elokuvia  	tim
+elokuvia  	
 . 	
  	
 <PARAGRAPH> 	
@@ -42687,11 +42496,11 @@ Washington  	org
 Post  	org
 -sanomalehden  	org
 haastattelussa 	
-"  	per
+"  	
 Ryan  	per
 Cleary  	per
-"  	per
--nimeä  	per
+"  	
+-nimeä  	
 käyttänyt 	
 Lizard  	org
 Squadin  	org
@@ -42727,7 +42536,7 @@ varten
 . 	
  	
 <PARAGRAPH> 	
-Aiemmissa 	
+Aiemmissa 	tim
 Lizard  	org
 Squad  	org
 -ryhmän  	org
@@ -42739,11 +42548,11 @@ muassa
 ryan  	per
 "  	per
 ja 	
-"  	per
+"  	
 Ryan  	per
 Cleary  	per
-"  	per
--nimiä  	per
+"  	
+-nimiä  	
 on 	
 käyttänyt 	
 ryhmän 	
@@ -42762,7 +42571,7 @@ ja
 Xbox-pelikonsoleiden  	pro
 verkkopalvelujen 	
 kaatamisesta 	
-joulupäivänä 	
+joulupäivänä 	tim
 . 	
  	
 Helsingin  	org
@@ -42782,10 +42591,10 @@ kaatamisessa
 . 	
  	
 <PARAGRAPH> 	
-"  	per
+"  	
 Ryan  	per
 Clearyn  	per
-"  	per
+"  	
 mukaan 	
 suurin 	
 osa 	
@@ -42826,9 +42635,9 @@ Tor-verkon  	pro
 kimppuun 	
 . 	
  	
-"  	per
+"  	
 Ryanin  	per
-"  	per
+"  	
 mukaan 	
 ryhmä 	
 pystyy 	
@@ -42853,7 +42662,7 @@ kehittäjät
 kiistivät 	
 ryhmän 	
 väitteet 	
-Tapaninpäivänä 	
+Tapaninpäivänä 	tim
 . 	
  	
 Heidän 	
@@ -42951,7 +42760,7 @@ jolla
 kansainvälisen 	
 kiistan 	
 aiheuttaneen 	
-elokuvan  	tim
+elokuvan  	
 voi 	
 ladata 	
 katsottavaksi 	
@@ -43057,7 +42866,7 @@ haluavat
 katsoa 	
 Pohjois-Koreaa  	loc
 pilkkaavan 	
-elokuvan  	tim
+elokuvan  	
 . 	
  	
 Todennäköisesti 	
@@ -43092,8 +42901,7 @@ palvelimelle
 , 	
 ja 	
 noin 	
-20 	
-000 	
+20 000	
 puhelinta 	
 on 	
 saanut 	
@@ -43243,7 +43051,7 @@ on
 ylipäätään 	
 nykyään  	tim
 kyseenalainen 	
-lähihistorian 	
+lähihistorian 	tim
 eri 	
 tapahtumien 	
 vuoksi 	
@@ -43412,12 +43220,10 @@ puretaan
 Unzip-ohjelmalla  	pro
 käyttämällä 	
 parametria 	
-- 	
-t 	
+-t	
 ( 	
-unzip 	
-- 	
-t 	
+unzip	
+-t	
 ) 	
 . 	
  	
@@ -43567,7 +43373,7 @@ Chaos  	event
 Communication  	event
 Congressissa  	event
 viikonlopun  	tim
-aikana 	
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -43662,9 +43468,9 @@ on
 kritisoitu 	
 niiden 	
 käytön 	
-ensimmäisistä 	
-päivistä 	
-lähtien 	
+ensimmäisistä 	tim
+päivistä 	tim
+lähtien 	tim
 . 	
  	
 Mutta 	
@@ -43681,10 +43487,10 @@ yleistyä
 laajaan 	
 käyttöön 	
 vasta 	
-parin 	
+parin 	tim
 viime  	tim
 vuoden  	tim
-aikana 	
+aikana 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -43758,7 +43564,7 @@ Microsoftin  	org
 Xbox-pelikonsolien  	pro
 verkkopalvelujen 	
 kaataminen 	
-jouluna 	
+jouluna 	tim
 oli 	
 monella 	
 tapaa 	
@@ -43813,8 +43619,8 @@ verkkopalvelut
 . 	
  	
 <PARAGRAPH> 	
-Joulun 	
-aikaan 	
+Joulun 	tim
+aikaan 	tim
 tehty 	
 hyökkäys 	
 oli 	
@@ -44023,11 +43829,8 @@ huvikseen
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
-Script 	
-kidit 	
+Script 	misc
+kidit 	misc
 eivät 	
 ole 	
 kadonneet 	
@@ -44039,10 +43842,10 @@ Lizard  	org
 Squadin  	org
 jäseniä 	
 nimitetään 	
-"  	misc
+"  	
 script  	misc
 kideiksi  	misc
-"  	misc
+"  	
 . 	
  	
 Nimityksellä 	
@@ -44078,8 +43881,8 @@ halu
  	
 <PARAGRAPH> 	
 Vielä 	
-viime 	
-vuosikymmenellä 	
+viime 	tim
+vuosikymmenellä 	tim
 script  	misc
 kidejä  	misc
 pidettiin 	
@@ -44217,9 +44020,9 @@ Squad  	org
 muistuttaa 	
 Hyppösen  	per
 mielestä 	
-parin 	
-vuoden 	
-takaista 	
+parin 	tim
+vuoden 	tim
+takaista 	tim
 LulzSec-ryhmää  	org
 , 	
 joka 	
@@ -44258,9 +44061,6 @@ tavalla
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Kaikki 	
 palvelut 	
 ovat 	
@@ -44335,8 +44135,10 @@ palvelunestohyökkäyksellä
 Tosin 	
 se 	
 oli 	
-vuonna 	
-2009. 	
+vuonna 	tim
+2009	tim
+.	
+	
 Jos 	
 Googlen  	org
 voi 	
@@ -44644,17 +44446,10 @@ käsiksi
 <INGRESS> 	
 PGP  	misc
 on 	
-NSA  	org
-:  	org
-lle  	org
+NSA:lle	org
 kuin 	
-M  	per
-.  	per
-per 	
-A  	per
-.  	per
-per 	
-Nummisen  	per
+M.A.	per
+Nummisen	per
 laulun 	
 kuuluisa 	
 kookospähkinä 	
@@ -44720,18 +44515,14 @@ Messaging  	pro
 on 	
 kestänyt 	
 hyvin 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 kourissa 	
 . 	
  	
 <PARAGRAPH> 	
 Asiakirjojen 	
 mukaan 	
-NSA  	org
-:  	org
-lla  	org
+NSA:lla	org
 on 	
 ollut 	
 myös 	
@@ -44742,17 +44533,14 @@ anonyymiverkko
 Torissa  	pro
 , 	
 vaikka 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 on 	
 epäilty 	
 olevan 	
 jopa 	
 mukana 	
 Torin  	pro
-ke 	
-hittämisessä 	
+kehittämisessä	
 . 	
  	
 Hyvin 	
@@ -44773,9 +44561,7 @@ TrueCryptillä  	pro
 salatut 	
 tiedostot 	
 olivat 	
-NSA  	org
-:  	org
-lle  	org
+NSA:lle	org
 niin 	
 ikään 	
 vaikeita 	
@@ -44805,9 +44591,7 @@ että
 PGP  	pro
 on 	
 aiheuttanut 	
-NSA  	org
-:  	org
-lle  	org
+NSA:lle	org
 päänvaivaa 	
 . 	
  	
@@ -44837,8 +44621,8 @@ Spiegelin  	org
 raportoimat 	
 asiakirjat 	
 ovat 	
-vuodelta 	
-2012 	
+vuodelta 	tim
+2012 	tim
 , 	
 mutta 	
 valistuneen 	
@@ -44908,13 +44692,13 @@ alkoi
 uutistoimisto 	
 Reutersin  	org
 mukaan 	
-Tiananmenin  	event
+Tiananmenin  	loc
 25. 	
 vuosipäivän 	
 alla 	
-viime  	tim
+viime  	btim
 kesäkuun  	tim
-alussa 	
+alussa 	tim
 . 	
  	
 Gmail-viestit  	misc
@@ -44939,8 +44723,8 @@ lähettäjälle
 . 	
  	
 <PARAGRAPH> 	
-Tähän 	
-saakka 	
+Tähän 	tim
+saakka 	tim
 Gmailiin  	pro
 on 	
 päässyt 	
@@ -44976,10 +44760,7 @@ avulla
 Kiinan  	loc
 nettisensuuria 	
 seuraava 	
-GreatFire  	org
-.  	org
-org 	
-org  	org
+GreatFire.org	org
 ilmoitti 	
 , 	
 että 	
@@ -45012,10 +44793,7 @@ jyrkästi
 . 	
  	
 <PARAGRAPH> 	
-GreatFire  	org
-.  	org
-org 	
-orgin  	org
+GreatFire.orgin	org
 mukaan 	
 Gmailin  	pro
 täysi 	
@@ -45064,8 +44842,8 @@ The  	pro
 Interview  	pro
 -elokuva  	pro
 nousi 	
-neljässä 	
-päivässä 	
+neljässä 	tim
+päivässä 	tim
 Sony  	org
 Picturesin  	org
 kaikkien  	tim
@@ -45082,11 +44860,11 @@ julkaisi
 The  	pro
 Interview  	pro
 -elokuvan  	pro
-jouluaattona 	
+jouluaattona 	tim
 . 	
  	
-Neljässä 	
-päivässä 	
+Neljässä 	tim
+päivässä 	tim
 sitä 	
 ostettiin 	
 tai 	
@@ -45186,7 +44964,7 @@ teoksi
 . 	
  	
 <PARAGRAPH> 	
-Elokuva  	tim
+Elokuva  	
 ei 	
 anna 	
 mairittelevaa 	
@@ -45201,7 +44979,7 @@ ovat
 vastanneet 	
 loukkaukseksi 	
 kokemaansa 	
-elokuvaan  	tim
+elokuvaan  	
 rasistisella 	
 nimittelyllä 	
 . 	
@@ -45223,7 +45001,7 @@ on
 kehottanut 	
 Sonya  	org
 julkaisemaan 	
-elokuvan  	tim
+elokuvan  	
 hyökkäyksestä 	
 huolimatta 	
 . 	
@@ -45234,7 +45012,7 @@ Sony  	org
 päätti 	
 olla 	
 julkaisematta 	
-elokuvaa  	tim
+elokuvaa  	
 kyberhyökkääjien 	
 vaatimusten 	
 mukaisesti 	
@@ -45256,7 +45034,7 @@ verkkoon
 ja 	
 rajalliseen 	
 määrään 	
-elokuvateattereita  	tim
+elokuvateattereita  	
 . 	
  	
 Nettijulkaisu 	
@@ -45304,10 +45082,10 @@ Pohjois-Korean  	loc
 verkkoyhteydet 	
 maailmaan 	
 katkesivat 	
-pari 	
-päivää 	
-sen 	btim
-jälkeen 	tim
+pari 	tim
+päivää 	tim
+sen 	
+jälkeen 	
 kun 	
 Obama  	per
 lupasi 	
@@ -45399,8 +45177,8 @@ ilmoitti
 joustavansa 	
 hieman 	
 jyrkästä 	
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 aikarajasta 	
 . 	
  	
@@ -45418,8 +45196,8 @@ yrityksille
 lisäaikaa 	
 , 	
 jos 	
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 korjausaikaraja 	
 osuu 	
 viikonlopuksi  	tim
@@ -45429,9 +45207,9 @@ korjaus
 on 	
 tulossa 	
 jakeluun 	
-14 	
-päivän 	
-kuluessa 	
+14 	tim
+päivän 	tim
+kuluessa 	tim
 takarajan 	
 päättymisestä 	
 . 	
@@ -45458,8 +45236,8 @@ löytämistään
 haavoittuvuuksista 	
 ohjelmien 	
 kehittäjille 	
-90 	
-päivää 	
+90 	tim
+päivää 	tim
 ennen 	
 kuin 	
 se 	
@@ -45509,8 +45287,8 @@ eivät
 ole 	
 korjanneet 	
 haavoittuvuuksia 	
-90 	
-päivässä 	
+90 	tim
+päivässä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -45529,8 +45307,8 @@ johon
 oli 	
 tulossa 	
 korjaus 	
-kaksi 	
-päivää 	
+kaksi 	tim
+päivää 	tim
 takarajan 	
 päättymisen 	
 jälkeen 	
@@ -45567,8 +45345,8 @@ ja
 sen 	
 takia 	
 lisänneen 	
-kahden 	
-viikon 	
+kahden 	tim
+viikon 	tim
 armonajan 	
 niille 	
 , 	
@@ -45594,8 +45372,8 @@ että
 Project  	org
 Zeron  	org
 asettama 	
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 aikaraja 	
 on 	
 mielivaltainen 	
@@ -45664,25 +45442,23 @@ suhteen
 <PARAGRAPH> 	
 Blogissa 	
 perustellaan 	
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 julkistustakarajaa 	
 viittaamalla 	
 alan 	
 käytäntöön 	
 . 	
  	
-CERT  	org
-:  	org
-llä  	org
+CERT:llä	org
 on 	
-45 	
-päivän 	
+45 	tim
+päivän 	tim
 armonaika 	
 ja 	
 Yahoolla  	org
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 . 	
  	
 Zero  	org
@@ -45691,8 +45467,8 @@ Initiative  	org
 eli 	
 ZDI  	org
 antaa 	
-120 	
-päivää 	
+120 	tim
+päivää 	tim
 ennen 	
 kuin 	
 kertoo 	
@@ -45719,8 +45495,8 @@ Niistä
 prosentissa 	
 korjaukset 	
 tulivat 	
-90 	
-päivän 	
+90 	tim
+päivän 	tim
 aikarajan 	
 sisällä 	
 . 	
@@ -45737,9 +45513,9 @@ ne
 kaikki 	
 on 	
 paikattu 	
-90 	
-päivän 	
-sisällä 	
+90 	tim
+päivän 	tim
+sisällä 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -45750,7 +45526,7 @@ yhtään
 nollapäivähaavoittuvuuden 	
 julkistusta 	
 helmikuun  	tim
-aikana 	
+aikana 	tim
 . 	
  	
 Tilanne 	
@@ -45799,9 +45575,9 @@ Apple  	org
 löysi 	
 vihdoin 	btim
 käyttöä 	
-kaksi 	
-vuotta 	
-vanhalle 	
+kaksi 	tim
+vuotta 	tim
+vanhalle 	tim
 järjestelmälleen 	
 automaattisten 	
 päivitysten 	
@@ -45869,9 +45645,9 @@ jonka
 se 	
 pystytti 	
 jo 	
-kaksi 	
-vuotta 	
-sitten 	
+kaksi 	tim
+vuotta 	tim
+sitten 	tim
 , 	
 mutta 	
 jota 	
@@ -45880,9 +45656,9 @@ ei
 ollut 	
 käyttänyt 	
 kertaakaan 	
-ennen 	
-tätä 	
-hetkeä 	
+ennen 	tim
+tätä 	tim
+hetkeä 	tim
 . 	
  	
 Syynä 	
@@ -45954,8 +45730,7 @@ niin
 että 	
 automaatti 	
 antoi 	
-5 	
-000 	
+5 000	
 ruplan 	
 seteleitä 	
 10-ruplaisten 	
@@ -45982,9 +45757,7 @@ järjestelmiin
 KrebsonSecurity-blogi  	pro
 kirjoittaa 	
 hollantilaisen 	
-Fox-IT  	org
-:  	org
-n  	org
+Foc-IT:n	org
 ja 	
 venäläisen 	
 Group-IB  	org
@@ -46053,9 +45826,9 @@ he
 pääsivät 	
 vapaaksi 	
 jo 	
-muutaman 	
-tunnin 	
-kuluttua 	
+muutaman 	tim
+tunnin 	tim
+kuluttua 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -46148,8 +45921,7 @@ seteliä
 he 	
 saivatkin 	
 kymmenen 	
-5 	
-000 	
+5 000	
 ruplan 	
 seteliä 	
 . 	
@@ -46207,7 +45979,7 @@ tirkistelee
 ja 	
 urkkii 	
 tietoja 	
-uudella 	
+uudella 	tim
 tavalla 	
  	
 <DATE> 	
@@ -46342,13 +46114,7 @@ Kaspersky  	org
 käyttää 	
 haittaohjelmasta 	
 nimeä 	
-Trojan-Banker  	pro
-.  	pro
-pro 	
-Win32  	pro
-.  	pro
-pro 	
-Chthonic  	pro
+Trojan-Banker.Win32.Chthonic	pro
 tai 	
 vaan 	
 lyhyesti 	
@@ -46687,8 +46453,7 @@ Sonya  	org
 jurppivat 	
 erityisesti 	
 käyttäjän 	
-@  	per
-bikinirobotarmy  	per
+@bikinirobotarmy  	per
 paljastukset 	
 , 	
 joissa 	
@@ -46723,8 +46488,7 @@ Equalizer  	pro
 . 	
  	
 <PARAGRAPH> 	
-@  	per
-bikinirobotarmyn  	per
+@bikinirobotarmyn  	per
 viestit 	
 löytyvät 	
 ainakin 	
@@ -46804,7 +46568,7 @@ vuodetuista
 seitsemästä 	
 vielä 	
 julkaisemattomasta 	
-elokuvasta  	tim
+elokuvasta  	
 . 	
  	
 <PARAGRAPH> 	
@@ -46819,9 +46583,7 @@ Obamalta  	per
 koska 	
 se 	
 suostui 	
-GOP  	org
-:  	org
-n  	org
+GOP:n	org
 kiristykseen 	
 ja 	
 perui 	
@@ -46832,7 +46594,7 @@ olevan
 The  	pro
 Interview  	pro
 -elokuvan  	pro
-jouluksi 	
+jouluksi 	tim
 suunnitellun 	
 ensi-illan 	
 . 	
@@ -47093,8 +46855,8 @@ jos
 Google  	org
 kuuntelee 	
 sinua 	
-muutaman 	
-sekunnin 	
+muutaman 	tim
+sekunnin 	tim
 ennen 	
 hakua 	
 ? 	
@@ -47138,11 +46900,11 @@ versiota
 on 	
 testattu 	
 jo 	
-kuukausia 	
+kuukausia 	tim
 . 	
  	
-Jonain 	
-päivänä 	
+Jonain 	tim
+päivänä 	tim
 se 	
 saattaa 	
 olla 	
@@ -47209,8 +46971,8 @@ tällöin 	btim
 se 	
 nappaa 	
 myös 	
-muutaman 	
-sekunnin 	
+muutaman 	tim
+sekunnin 	tim
 verran 	
 puhetta 	
 ennen 	
@@ -47240,7 +47002,7 @@ Onko
 " 	
 muutama 	
 " 	
-sekunti 	
+sekunti 	tim
 sinusta 	
 ok 	
 , 	
@@ -47376,7 +47138,7 @@ aukosta
 Facebookille  	org
 . 	
  	
-Tunteja 	
+Tunteja 	tim
 myöhemmin  	tim
 aukko 	
 oli 	
@@ -47386,8 +47148,7 @@ ja
 mies 	
 oli 	
 rikastunut 	
-12 	
-500 	
+12 500	
 dollarilla 	
 , 	
 jotka 	
@@ -47618,7 +47379,7 @@ kielteisesti
 . 	
  	
 Pian  	tim
-sen 	btim
+sen 	tim
 jälkeen 	tim
 kävi 	
 ilmi 	
@@ -47642,8 +47403,7 @@ tapaamiseen
 , 	
 tietoturvayhtiö 	
 Sophos  	org
-mui 	
-stuttaa 	
+muistuttaa	
 . 	
  	
 <PARAGRAPH> 	
@@ -47666,8 +47426,8 @@ Uber  	org
 esti 	
 pääsyn 	
 sivulle 	
-pari 	
-tuntia 	
+pari 	tim
+tuntia 	tim
 uutisen 	
 jälkeen 	
 . 	
@@ -47831,7 +47591,7 @@ Palvelu
 pyytää 	
 lisätunnistusta 	
 usein 	btim
-silloin 	btim
+silloin 	
 , 	
 kun 	
 käyttäjä 	
@@ -47900,8 +47660,8 @@ uhkavaatimuksen
 korjatkaa 	
 ohjelmistojenne 	
 tietoturva 	
-90 	
-päivässä 	
+90 	tim
+päivässä 	tim
 tai 	
 julkistamme 	
 ne 	
@@ -47944,7 +47704,7 @@ on
 toiminut 	
 viime  	tim
 kesäkuusta  	tim
-asti 	
+asti 	tim
 . 	
  	
 Kimmokkeena 	
@@ -47953,9 +47713,7 @@ perustamiselle
 toimi 	
 Heartbleed-aukko 	
 ja 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 sen 	
 kautta 	
 tekemä 	
@@ -48117,8 +47875,8 @@ ehkä
 ajatellaan 	
 vihollisleirissä 	
 LG:ssä  	org
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Samsungin  	org
@@ -48227,9 +47985,7 @@ Olen
 huolissani 	
 , 	
 että 	
-Samsung  	org
-/ 	
-LG  	org
+Samsung/LG	org
 ei 	
 tällä  	tim
 hetkellä  	tim
@@ -48241,9 +47997,7 @@ sen
 ymmärtämiseksi 	
 , 	
 miten 	
-Samsung  	org
-/ 	
-LG  	org
+Samsung/LG	org
 tai 	
 kolmannet 	
 osapuolet 	
@@ -48281,8 +48035,8 @@ kuuntelusta
 jo 	
 viime  	tim
 lokakuussa  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Brennan  	org
@@ -48440,7 +48194,7 @@ on
 ylipäätään 	
 nykyään  	tim
 kyseenalainen 	
-lähihistorian 	
+lähihistorian 	tim
 eri 	
 tapahtumien 	
 vuoksi 	
@@ -48579,12 +48333,12 @@ väliintulohyökkäyksiä
 tai 	
 kalastelua 	
 ja 	
-cross 	
-site 	
-scripting 	
--haavoittuvuuden 	
+cross 	misc
+site 	misc
+scripting 	misc
+-haavoittuvuuden 	misc
 ( 	
-xss 	
+xss 	misc
 ) 	
 avulla 	
 ohittaa 	
@@ -48730,9 +48484,9 @@ on
 kasvanut 	
 66 	
 prosenttia 	
-kahdeksan 	
-vuoden 	
-aikana 	
+kahdeksan 	tim
+vuoden 	tim
+aikana 	tim
 . 	
  	
 Ja 	
@@ -48945,9 +48699,7 @@ muun
 muassa 	
 Androidille  	pro
 sekä 	
-iOS  	pro
-:  	pro
-lle  	pro
+iOS:lle	pro
 . 	
  	
 Outlookin  	pro
@@ -49277,7 +49029,7 @@ aukkoa
 mutta 	
 ei 	
 pahaa 	
-IE-virhettä 	
+IE-virhettä 	misc
  	
 <DATE> 	
 11.2.2015 11:49 	
@@ -49301,7 +49053,7 @@ julkaisi
 rutkasti 	
 paikkauksia 	
 tiistaina  	tim
-illalla 	
+illalla 	tim
 . 	
  	
 Helmikuun  	tim
@@ -49414,8 +49166,7 @@ liittyvät
 muistinkäsittelyvirheisiin 	
 Internet  	pro
 Explorer  	pro
--  	pro
-selaimessa  	pro
+-selaimessa	pro
 , 	
 kirjasintyyppien 	
 käsittelyyn 	
@@ -49449,8 +49200,8 @@ ryhmäkäytäntöjen
 kriittiseen 	
 aukkoon 	
 vei 	
-yli 	
-vuoden 	
+yli 	tim
+vuoden 	tim
 , 	
 koska 	
 se 	
@@ -49506,10 +49257,7 @@ yrityksissä
 . 	
  	
 <HEADLINE> 	
-Forbes  	org
-.  	org
-org 	
-comin  	org
+Forbes.comin	org
 " 	
 Päivän 	
 ajatus 	
@@ -49568,8 +49316,8 @@ Tietoturvatutkijat
 , 	
 joiden 	
 mukaan 	
-Päivän 	
-ajatus 	
+Päivän 	pro
+ajatus 	pro
 oli 	
 saastutettu 	
 marraskuussa  	tim
@@ -49587,9 +49335,9 @@ Hyökkäys
 , 	
 joka 	
 tapahtui 	
-Päivän 	
-ajatus 	
--esisivun 	
+Päivän 	pro
+ajatus 	pro
+-esisivun 	pro
 kautta 	
 , 	
 oli 	
@@ -49682,13 +49430,13 @@ tapahtuma
  	
 Se 	
 sattui 	
-28. 	
+28. 	tim
 marraskuuta  	tim
 , 	
 ja 	
 siihen 	
 reagoitiin 	
-1. 	
+1. 	tim
 joulukuuta  	tim
 . 	
  	
@@ -49750,34 +49498,22 @@ aikaisemmin  	tim
 olleet 	
 hongkongilainen 	
 ajatushautomo 	
-Cefc  	org
-.  	org
-org 	
-com  	org
-.  	org
-org 	
-hk  	org
+Cefc.com.hk	org
 ja 	
 kiinalaisiin 	
 uiguurivähemmistöryhmiin 	
 keskittyneet 	
-Turkkonseyi  	org
-.  	org
-org 	
-com  	org
+Turkkonseyi.com	org
 ja 	
-Gokbayrak  	org
-.  	org
-org 	
-com  	org
+Gokbayrak.com	org
 . 	
  	
 Codoso  	org
 on 	
 tunkeutunut 	
-vuodesta 	
-2010 	
-lähtien 	
+vuodesta 	tim
+2010 	tim
+lähtien 	tim
 energia- 	
 ja 	
 talousalan 	
@@ -49799,7 +49535,7 @@ sanoo
 Anthemin  	org
 megamurto 	
 kesti 	
-kuukausia 	
+kuukausia 	tim
 — 	
 puhtaat 	
 yritysverkot 	
@@ -49835,8 +49571,8 @@ menetti
 miljoonan 	
 asiakkaan 	
 tiedot 	
-pitkään 	
-kestäneen 	
+pitkään 	tim
+kestäneen 	tim
 ja 	
 huomaamattoman 	
 verkkohyökkäyksen 	
@@ -49882,8 +49618,8 @@ hyökkäys
 saattoi 	
 alkaa 	
 jo 	
-kolme 	
-kuukautta 	
+kolme 	tim
+kuukautta 	tim
 ennen 	
 kuin 	
 se 	
@@ -49976,8 +49712,7 @@ raporttiamme
 varten 	
 tietoturvatietoja 	
 yli 	
-10 	
-000 	
+10 000	
 organisaatiosta 	
 kautta 	
 maailman 	
@@ -49998,8 +49733,8 @@ yli
 puolet 	
 enemmän 	
 kuin 	
-edellisenä 	
-vuonna 	
+edellisenä 	tim
+vuonna 	tim
 . 	
  	
 77 	
@@ -50007,10 +49742,10 @@ prosenttia
 boteista 	
 toimi 	
 aktiivisesti 	
-yli 	
-neljän 	
-viikon 	
-ajan 	
+yli 	tim
+neljän 	tim
+viikon 	tim
+ajan 	tim
 . 	
  	
 Tyypillinen 	
@@ -50018,9 +49753,9 @@ botti
 oli 	
 yhteydessä 	
 isäntäänsä 	
-joka 	
-kolmas 	
-minuutti 	
+joka 	tim
+kolmas 	tim
+minuutti 	tim
 , 	
 Check  	org
 Pointin  	org
@@ -50058,8 +49793,8 @@ moni
 isku 	
 on 	
 tehty 	
-kuukausien 	
-aikajänteellä 	
+kuukausien 	tim
+aikajänteellä 	tim
 , 	
 ja 	
 tapahtumien 	
@@ -50142,7 +49877,7 @@ noin
 kaksi 	
 miljardia 	
 sim-korttia 	
-vuodessa 	
+vuodessa 	tim
 450 	
 matkapuhelinoperaattorille 	
 , 	
@@ -50184,9 +49919,7 @@ selviää
 , 	
 että 	
 Yhdysvaltain  	loc
-NSA  	borg
-:  	org
-n  	org
+NSA:n	borg
 ja 	
 Britannian  	loc
 GCHQ:n  	borg
@@ -50267,9 +50000,9 @@ perustuu
 <PARAGRAPH> 	
 Vakoiluorganisaatiot 	
 keräsivät 	
-vuodesta 	
-2010 	
-lähtien 	
+vuodesta 	tim
+2010 	tim
+lähtien 	tim
 salausavaimia 	
 . 	
  	
@@ -50295,9 +50028,9 @@ Interceptin  	org
 julkaisemasta 	
 24-sivuisesta 	
 , 	
-27. 	
+27. 	tim
 huhtikuuta  	tim
-2010 	
+2010 	tim
 päivätystä 	
 asiakirjasta 	
 . 	
@@ -50388,7 +50121,7 @@ aiemmat  	tim
  	
 <PARAGRAPH> 	
 Tammikuun  	tim
-lopulla 	
+lopulla 	tim
 käynnistynyt 	
 huijauskampanja 	
 väittää 	
@@ -50442,8 +50175,7 @@ Huijaukseen
 on 	
 langennut 	
 ainakin 	
-110 	
-000 	
+110 000	
 ihmistä 	
 ympäri 	
 maailman 	
