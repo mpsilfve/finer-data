@@ -1,4 +1,4 @@
- 	
+	
 <HEADLINE> 	
 Nvidia  	org
 poisti 	
@@ -29,9 +29,7 @@ kun
 kortin 	
 saisi 	
 myyntiin 	
-. 	
- 	
-.. 	
+...	
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -509,10 +507,8 @@ flash-asema
 InFocus  	pro
 New  	pro
 tab  	pro
-F1  	pro
-:  	pro
-ksi  	pro
-ristityn  	pro
+F1:ksi	pro
+ristityn  	
 Firefox-tabletin  	pro
 näyttönä 	
 toimii 	
@@ -531,11 +527,11 @@ valmistamasta
 laitteesta 	
 löytyy 	
 myös 	
-wi-fi- 	
+wi-fi- 	pro
 , 	
-microsd- 	
+microsd- 	pro
 , 	
-microusb- 	
+microusb- 	pro
 sekä 	
 kuulokeliitäntä 	
 . 	
@@ -616,8 +612,7 @@ tuntia  	tim
 Uusi 	btim
 virtuaalisilmikko 	
 keräsi 	
-250 	
-000 	
+250 000	
 dollaria 	
 , 	
 mutta 	
@@ -640,8 +635,7 @@ kun
 Avegant  	pro
 Glyph  	pro
 keräsi 	
-250 	
-000 	
+250 000	
 dollarin 	
 Kickstarter-tavoitteensa  	misc
 alle  	tim
@@ -832,10 +826,7 @@ Jolla-puhelimensa  	pro
 ja 	
 raportoi 	
 löydöksistään 	
-maemo  	org
-.  	org
-org 	
-orgin  	org
+maemo.orgin	org
 foorumilla 	
 . 	
  	
@@ -933,11 +924,7 @@ Kuvat
 ovat 	
 nähtävissä 	
 derpepen  	per
-Maemo  	org
-.  	org
-org 	
-orgiin  	org
-lähettämässä 	
+Maemo.orgiin	org
 viestissä 	
 . 	
  	
@@ -945,9 +932,7 @@ viestissä
 Kuvien 	
 lähettämisen 	
 jälkeen 	
-der  	per
-_  	per
-pepelle  	per
+derpepelle	per
 huomautettiin 	
 , 	
 että 	
@@ -1046,7 +1031,7 @@ heijastelee
 aiempia 	
 uutisia 	
 Applen  	org
-entistä 	
+entistä 	tim
 isommista 	
 iPhoneista  	pro
 . 	
@@ -1125,7 +1110,7 @@ on
 linjassa 	
 IHS  	org
 iSupplin  	org
-taannoisen 	
+taannoisen 	tim
 arvion 	
 kanssa 	
 , 	
@@ -1165,9 +1150,7 @@ muuttua
 <PARAGRAPH> 	
 Phabletit 	
 ovat 	
-WSJ  	org
-:  	org
-n  	org
+WSJ:n	org
 mukaan 	
 erityisen 	
 suosittuja 	
@@ -1228,7 +1211,7 @@ Glass  	pro
 -laitetta  	pro
 viime  	tim
 huhtikuusta  	tim
-lukien 	
+lukien 	tim
 käyttänyt 	
 Robert  	per
 Scoble  	per
@@ -1299,8 +1282,8 @@ Glassin  	pro
 käsiinsä 	
 toisena  	tim
 päivänä  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 lasit 	
@@ -1342,7 +1325,8 @@ hänen
 veikkauksensa 	
 mukaan 	
 vuonna  	tim
-2016.  	tim
+2016	tim
+.	
  	
 <PARAGRAPH> 	
 Edes 	
@@ -1489,8 +1473,8 @@ mies
 katselee 	
 väärää 	
 naista 	
-liian 	
-pitkään 	
+liian 	tim
+pitkään 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -1591,9 +1575,7 @@ tuotetta
 maasta 	
 . 	
  	
-ISPO  	org
-:  	org
-n  	org
+ISPO:n	org
 verkkosivuilla 	
 on 	
 julkistettu 	
@@ -1628,7 +1610,9 @@ Myontecin  	org
 älyhousuista 	
 jo 	
 kesäkuussa  	tim
-2012.  	tim
+2012	tim
+.	
+	
 Sen 	
 mukaan 	
 kuluttajatuote 	
@@ -2219,10 +2203,12 @@ vastaan
 Sony  	pro
 Walkman  	pro
 NWZ-F886  	pro
+	
 Hinta 	
 : 	
 350 	
 euroa 	
+	
 Liitännät 	
 : 	
 USB 	
@@ -2235,46 +2221,52 @@ liitin
 3,5 	
 mm 	
 kuuloke 	
+	
 Muistin 	
 koko 	
 : 	
 32 	
 Gt 	
+	
 Näyttö 	
 : 	
 4” 	
 854 	
 x 	
 480 	
+	
 Käyttöjärjestelmä 	
 : 	
 Android  	pro
 4.1  	pro
 Ääniformaatit 	
 : 	
-mp3 	
+mp3 	pro
 , 	
-flac 	
+flac 	pro
 , 	
-aac 	
+aac 	pro
 , 	
-wma 	
+wma 	pro
 , 	
-lpcm 	
+lpcm 	pro
+	
 Videoformaatit 	
 : 	
-mpeg4 	
+mpeg4 	pro
 , 	
-avc 	
+avc 	pro
 , 	
-wmv9 	
+wmv9 	pro
+	
 Muuta 	
 : 	
 nappikuulokkeet 	
 , 	
-fm-viritin 	
+fm-viritin 	misc
 , 	
 vastamelutoiminto 	
+	
 Mitat 	
 : 	
 5,9 	
@@ -2499,7 +2491,7 @@ miestä
 , 	
 joka 	
 oli 	
-elokuvissa  	tim
+elokuvissa  	
 Google-lasit  	misc
 päässään 	
 , 	
@@ -2507,7 +2499,7 @@ sillä
 hänen 	
 epäiltiin 	
 tallentavan 	
-elokuvaa  	tim
+elokuvaa  	
 laittomasti 	
 . 	
  	
@@ -2575,19 +2567,6 @@ käyttö
 on 	
 kielletty 	
 . 	
- 	
-<HEADLINE> 	
- 	
- 	
-<DATE> 	
- 	
- 	
-<INGRESS> 	
- 	
- 	
-<BODY> 	
-<PARAGRAPH> 	
- 	
  	
 <HEADLINE> 	
 Google  	org
@@ -2715,10 +2694,8 @@ Nexus  	pro
 5  	pro
 arvioitiin 	
 Digitodayssa  	org
-5.12 	
-. 	
- 	
-2013. 	
+5.12.2013	tim
+.	
  	
 <HEADLINE> 	
 WSJ  	org
@@ -2842,9 +2819,7 @@ Microsoft  	org
 ovat 	
 kieltäytyneet 	
 kommentoimasta 	
-WSJ  	org
-:  	org
-n  	org
+WSJ:n	org
 tietoja 	
 , 	
 kertoo 	
@@ -3021,9 +2996,7 @@ Sonyn  	org
 lisäksi 	
 ainakin 	
 kiinalaista 	
-ZTE  	org
-:  	org
-tä  	org
+ZTE:tä	org
 ja 	
 on 	
 valmis 	
@@ -3252,7 +3225,7 @@ ovat
 huomanneet 	
 saaneensa 	
 vaihdossa 	
-entistä 	
+entistä 	tim
 nopeamman 	
 Surface  	pro
 Pro  	pro
@@ -3361,7 +3334,7 @@ sillä
 yhtiö 	
 tekee 	
 rutiininomaisesti 	
-ajoittaisia 	
+ajoittaisia 	tim
 muutoksia 	
 laitteidensa 	
 sisäisiin 	
@@ -4085,8 +4058,7 @@ tuikkaamalla
 kohde 	
 saa 	
 maistaa 	
-650 	
-000 	
+650 000	
 volttia 	
 . 	
  	
@@ -4094,8 +4066,8 @@ Yellow  	org
 Jacketin  	org
 mukaan 	
 sekunnin  	tim
-tai 	
-parin 	
+tai 	tim
+parin 	tim
 kosketus 	
 vastaa 	
 kivultaan 	
@@ -4111,7 +4083,7 @@ saada
 kohteen 	
 maahan 	
 ja 	
-hetkellisesti 	
+hetkellisesti 	tim
 sekaisin 	
 . 	
  	
@@ -4326,9 +4298,8 @@ ollut
 Samsung  	pro
 Galaxy  	pro
 TabPRO  	pro
-12  	pro
-,  	pro
-2on  	pro
+12,2”	pro
+on	
 astetta 	
 järeämpi 	
 . 	
@@ -4346,9 +4317,7 @@ tarkasteltuna
 Samsung  	pro
 Galaxy  	pro
 TabPRO  	pro
-12  	pro
-,  	pro
-2”  	pro
+12,2”	pro
 näyttää 	
 ensisilmäyksellä 	
 aivan 	
@@ -4463,15 +4432,6 @@ onnistunut
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Kai  	per
-Taipale  	per
- 	
-<PARAGRAPH> 	
 Toinen 	
 ilonaihe 	
 TabPROssa  	pro
@@ -4584,8 +4544,7 @@ akun
 kapasiteetti 	
 on 	
 kelvollinen 	
-9 	
-500 	
+9 500	
 milliampeerituntia 	
 . 	
  	
@@ -4673,7 +4632,7 @@ eli
 vain 	
 kuukausia  	tim
 ennen  	tim
-syksyn  	tim
+syksyn  	btim
 julkaisua 	
 . 	
  	
@@ -4804,7 +4763,7 @@ enää
 nähdä 	
 Mac  	pro
 Prota  	pro
-entiseen 	
+entiseen 	tim
 tapaan 	
 tämän 	
 tuotoksen 	
@@ -4844,8 +4803,8 @@ on
 mobiilipuolella 	
 kaivattu 	
 jo 	
-pidemmän 	
-aikaa 	
+pidemmän 	tim
+aikaa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -4959,7 +4918,6 @@ saksalainen
 vai 	
 itävaltalainen 	
 ? 	
- 	
 ) 	
 tee 	
 se 	
@@ -4970,10 +4928,7 @@ ja
 tuloksista 	
 julkaistiin 	
 kuvia 	
-tonymacx86  	pro
-.  	pro
-pro 	
-comissa  	pro
+tonymacx86.comissa	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -5036,9 +4991,9 @@ softaan
 <INGRESS> 	
 Hakkeri  	tit
 Andrew  	per
-"  	per
+"  	
 Bunny  	per
-"  	per
+"  	
 Huangin  	per
 kannettava 	
 tietokone 	
@@ -5115,9 +5070,9 @@ Linux  	pro
  	
 <PARAGRAPH> 	
 Andrew  	per
-"  	per
+"  	
 Bunny  	per
-"  	per
+"  	
 Huangille  	per
 tämä 	
 ei 	
@@ -5211,9 +5166,7 @@ tahansa
 suorittimesta 	
 , 	
 sillä 	
-iMX6  	pro
-:  	pro
-n  	pro
+iMX6:n	pro
 lähes 	
 täydellinen 	
 ohjelmointikäsikirja 	
@@ -5245,13 +5198,15 @@ Novenan  	pro
 on 	
 rakentanut 	
 Sean  	per
-“xobs”  	per
+“	
+xobs	per
+”	
 Cross  	per
 yhdessä 	
 Andrew  	per
-"  	per
+"  	
 Bunny  	per
-"  	per
+"  	
 Huangin  	per
 kanssa 	
 . 	
@@ -5350,8 +5305,7 @@ jonka
 yhtiö 	
 esitteli 	
 vasta 	
-marrask  	tim
-uussa  	tim
+marraskuussa	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -5642,8 +5596,8 @@ Jatkajien
 välillä 	
 pitää 	
 vaihdella 	
-koko 	
-ajan 	
+koko 	tim
+ajan 	tim
 , 	
 mikä 	
 rokottaa 	
@@ -5755,9 +5709,7 @@ Ehkä
 <BODY> 	
 <PARAGRAPH> 	
 Komeetta 	
-67P  	loc
-/  	loc
-Churyumov–Gerasimenkoa  	loc
+67P/Churyumov–Gerasimenkoa  	loc
 kiertävä 	
 Rosetta-luotain  	pro
 vapautti 	
@@ -6046,8 +5998,7 @@ kuin
 viime  	tim
 maaliskuussa  	tim
 ilmoitettu 	
-400 	
-000 	
+400 000	
 kappaletta 	
 . 	
  	
@@ -6256,10 +6207,7 @@ mikä
 vastaa 	
 edellisen 	
 Model  	pro
-B  	pro
-+  	pro
-:  	pro
-n  	pro
+B+:n	pro
 hintaa 	
 . 	
  	
@@ -6283,7 +6231,7 @@ tarjoaa
 noin 	
 kuusinkertaisen 	
 suorituskyvyn 	
-aiempaan 	
+aiempaan 	tim
 verrattuna 	
 . 	
  	
@@ -6318,9 +6266,7 @@ voi
 ajaa 	
 paitsi 	
 ARM  	pro
-GNU  	pro
-/  	pro
-Linux-jakeluita  	pro
+GNU/Linux-jakeluita	pro
 , 	
 myös 	
 Microsoftin  	org
@@ -6406,9 +6352,9 @@ linkit
 verkkokauppoihin 	
 eivät 	
 toimineet 	
-uutisen 	
-kirjoittamisen 	
-aikaan 	
+uutisen 	tim
+kirjoittamisen 	tim
+aikaan 	tim
 . 	
  	
 Syytä 	
@@ -6540,8 +6486,8 @@ pysähtymään
 ja 	
 nollaamaan 	
 strategiansa 	
-ajan 	
-kanssa 	
+ajan 	tim
+kanssa 	tim
 , 	
 kuten 	
 hiljattain  	tim
@@ -6713,8 +6659,7 @@ myi
 edellisellä 	
 kierroksella 	
 runsaat 	
-13 	
-000 	
+13 000	
 tablettia 	
 ja 	
 keräsi 	
@@ -6893,9 +6838,7 @@ pc-tietokoneen
  	
 <PARAGRAPH> 	
 Doro  	pro
-EasyPC  	pro
-:  	pro
-ksi  	pro
+EasyPC:ksi	pro
 nimetyn 	
 laitteen 	
 käyttöliittymää 	
@@ -6967,8 +6910,7 @@ perustuu
 Intelin  	org
 Celeron  	pro
 N2840  	pro
--  	pro
-halpaprosessoriin  	pro
+-halpaprosessoriin  	pro
 , 	
 4 	
 gigatavuun 	
@@ -7117,9 +7059,8 @@ Konsolit
 olivat 	
 kieltolistalla 	
 vuodesta  	tim
-2  	tim
-000  	tim
-lähtien 	
+2 000	tim
+lähtien 	tim
 . 	
  	
 Nyt  	tim
@@ -7343,8 +7284,7 @@ Gates  	per
 sanoi 	
 muun 	
 muassa 	
-Ga  	org
-meSpotin  	org
+GameSpotin	org
 mukaan 	
 . 	
  	
@@ -7692,9 +7632,7 @@ on
 ottanut 	
 testikäyttöön 	
 Oculus  	org
-VR  	org
-:  	org
-n  	org
+VR:n	org
 tekemiä 	
 virtuaalisilmikoita 	
 , 	
@@ -7840,8 +7778,8 @@ ahkerasti
 esillä 	
 mediassa 	
 varsinkin 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Facebook  	org
@@ -8004,12 +7942,10 @@ Glass  	pro
 lopultakin 	
 kertomaan 	
 minulle 	
-monesko 	
-päivä 	
-tänään  	tim
+monesko 	tim
+päivä 	tim
+tänään  	btim
 on 	
-? 	
- 	
 ? 	
  	
 <HEADLINE> 	
@@ -8188,9 +8124,7 @@ lasketaan
 <PARAGRAPH> 	
 Bluetooth-paritus 	
 Galaxy  	pro
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 kanssa 	
 ei 	
 tahtonut 	
@@ -8245,53 +8179,6 @@ tuntuu
 kohtuullisen 	
 hyvältä 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sh 	
-owImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69691 	
-) 	
- 	
-<PARAGRAPH> 	
-Puhelinsoitot 	
-ja 	
-viesti-ilmoitukset 	
-saa 	
-värinähälytyksinä 	
-ranteeseen 	
-. 	
- 	
-Näin 	
-tulee 	
-huomattua 	
-monta 	
-viestiä 	
-, 	
-joita 	
-ei 	
-taskussa 	
-olevasta 	
-puhelimesta 	
-noteeraisi 	
-. 	
- 	
-Kuva 	
-: 	
-Henrik  	per
-Kärkkäinen  	per
  	
 <PARAGRAPH> 	
 Laitteelta 	
@@ -8415,37 +8302,6 @@ antaa
 väliaikatietoja 	
 etenemisestä 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-s 	
-howImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69692 	
-) 	
- 	
-<PARAGRAPH> 	
-Askelmittariin 	
-voi 	
-jäädä 	
-koukkuun 	
-. 	
- 	
-Kuva 	
-: 	
-Henrik  	per
-Kärkkäinen  	per
  	
 <PARAGRAPH> 	
 Myös 	
@@ -8757,9 +8613,7 @@ ostopäätöstä
 Testi 	
 : 	
 Galaxy  	pro
-S5  	pro
-:  	pro
-ssä  	pro
+S5:ssä	pro
 on 	
 kaksi 	
 todellista 	
@@ -8881,7 +8735,7 @@ kuvioinnilla
 , 	
 joka 	
 istuu 	
-aiempaa 	
+aiempaa 	tim
 paremmin 	
 käteen 	
 . 	
@@ -8932,9 +8786,7 @@ on
 tehty 	
 pieniä 	
 parannuksia 	
-S4  	pro
-:  	pro
-ään  	pro
+S4:ään	pro
 verrattuna 	
 . 	
  	
@@ -9102,9 +8954,7 @@ puhelimen
 tulos 	
 on 	
 5 	
-bpm 	
-: 	
-ää 	
+bpm:ää	
 vähemmän 	
 kuin 	
 samaan 	btim
@@ -9135,8 +8985,7 @@ ovat
 sen 	
 jo 	
 ehtineet 	
-mu 	
-rtaa 	
+murtaa	
 , 	
 mutta 	
 harvan 	
@@ -9229,7 +9078,7 @@ hieman
 sivuttain 	
 . 	
  	
-Tällöin 	btim
+Tällöin 	
 sormen 	
 ei 	
 tarvitse 	
@@ -9269,9 +9118,7 @@ puli
 puli 	
  	
 <PARAGRAPH> 	
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 ehkä 	
 merkittävin 	
 uudistus 	
@@ -9289,7 +9136,7 @@ paniikki
 , 	
 mutta 	
 puhelimen 	
-IP67-luokituksen 	
+IP67-luokituksen 	misc
 mukaan 	
 se 	
 on 	
@@ -9314,38 +9161,6 @@ ja
 kahvikuppitesteistämme 	
 moksiskaan 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-p 	
-hp 	
-? 	
- 	
-imageId 	
-= 	
-69677 	
-) 	
- 	
-<PARAGRAPH> 	
-Hei 	
-, 	
-se 	
-kestää 	
-vettä 	
-! 	
- 	
-Kuva 	
-: 	
-Perttu  	per
-Pitkänen  	per
  	
 <PARAGRAPH> 	
 Ellei 	
@@ -9513,50 +9328,6 @@ sovelluskaupastaan
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sho 	
-wImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69678 	
-) 	
- 	
-<PARAGRAPH> 	
-Puhelimessa 	
-on 	
-tiedostojen 	
-piilotustoiminto 	
-. 	
- 	
-Ainoastaan 	
-oikean 	
-sormenjäljen 	
-( 	
-tai 	
-salasanan 	
-) 	
-omistaja 	
-saa 	
-jemmatut 	
-tiedostot 	
-näkyviin 	
-. 	
- 	
-Kuva 	
-: 	
-kuvakaappaus 	
- 	
-<PARAGRAPH> 	
 Puhelin 	
 on 	
 työnnetty 	
@@ -9603,16 +9374,12 @@ Samsung  	org
 tuo 	
 myöhemmin  	tim
 osan 	
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 ohjelmallisesti 	
 toteutetuista 	
 ominaisuuksista 	
 myös 	
-S4  	pro
-:  	pro
-ään  	pro
+S4:ään	pro
 ja 	
 mahdollisesti 	
 vanhempiinkin 	
@@ -9657,9 +9424,7 @@ ole
 parannettu 	
 . 	
  	
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 tekstinsyöttö 	
 ja 	
 automaattikorjaus 	
@@ -9776,9 +9541,7 @@ menettelee
  	
 <PARAGRAPH> 	
 Ainakaan 	
-S4  	pro
-:  	pro
-stä  	pro
+S4:stä	pro
 ei 	
 kenenkään 	
 kannata 	
@@ -9814,9 +9577,7 @@ hinta-laatusuhde
 . 	
  	
 <PARAGRAPH> 	
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 hinta 	
 on 	
 noin 	
@@ -10076,46 +9837,6 @@ kuvalähde
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69637 	
-) 	
- 	
-<PARAGRAPH> 	
-Telkkariin 	
-kytketty 	
-Chromecast  	pro
-ei 	
-ole 	
-varsinaisesti 	
-kaunis 	
-. 	
- 	
-Virtapiuha 	
-vie 	
-usb-porttiin 	
-tai 	
-pistorasiaan 	
-. 	
- 	
-Kuva 	
-: 	
-Henrik  	per
-Kärkkäinen  	per
- 	
-<PARAGRAPH> 	
 Chromecast  	pro
 ja 	
 Android-laite  	pro
@@ -10277,67 +9998,6 @@ pitäisi
 toistaa 	
 . 	
  	
-Chromecast  	pro
-. 	
- 	
-Valinnan 	
-jälkeen 	
-ohjelma 	
-alkaa 	
-pyöritä 	
-telkkarin 	
-ruudulla 	
-. 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sho 	
-wImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69638 	
-) 	
- 	
-<PARAGRAPH> 	
-Chromecastia  	pro
-tukevissa 	
-sovelluksissa 	
-on 	
-letysnappi 	
-( 	
-värjätty 	
-punaiseksi 	
-) 	
-, 	
-jolla 	
-sisällöt 	
-voi 	
-lähettää 	
-telkkarille 	
-. 	
- 	
-Nyt  	tim
-tv:n 	
-ruudulla 	
-näkyy 	
-valmiuskuva 	
-. 	
- 	
-Kuva 	
-: 	
-Henrik  	per
-Kärkkäinen  	per
- 	
 <PARAGRAPH> 	
 Kyseessä 	
 ei 	
@@ -10374,44 +10034,6 @@ oman
 levyraadin 	
 pitämisen 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sho 	
-wImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69639 	
-) 	
- 	
-<PARAGRAPH> 	
-Chromecast  	pro
-toistaa 	
-itsenäisesti 	
-videota 	
-ja 	
-tabletilla 	
-voi 	
-halutessaan 	
-katsella 	
-muita 	
-videoita 	
-. 	
- 	
-Kuva 	
-: 	
-Henrik  	per
-Kärkkäinen  	per
  	
 <PARAGRAPH> 	
 Android-laitteen  	pro
