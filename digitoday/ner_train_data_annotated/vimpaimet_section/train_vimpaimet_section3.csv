@@ -10165,39 +10165,6 @@ asetusvalikosta
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sho 	
-wImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69664 	
-) 	
- 	
-<PARAGRAPH> 	
-Asetusvalikkoon 	
-pääsee 	
-klikkaamalla 	
-Chromecast-appsissa  	pro
-näkyvää 	
-omaa 	
-laitetta 	
-. 	
- 	
-Kuva 	
-: 	
-kuvakaappaus 	
- 	
-<PARAGRAPH> 	
 Vaikka 	
 valinta 	
 on 	
@@ -10315,7 +10282,6 @@ hirveästi
 lisäarvoa 	
 elämään 	
 ? 	
- 	
 ) 	
 , 	
 mutta 	
@@ -10537,8 +10503,7 @@ kaikkiaan
 ohjeistus 	
 koskee 	
 noin 	
-30 	
-000 	
+30 000	
 laturia 	
 . 	
  	
@@ -10722,9 +10687,7 @@ verkkosivulla
 <PARAGRAPH> 	
 ( 	
 Päivitys 	
-17.4  	tim
-. 	
- 	
+17.4.	tim
 klo  	tim
 15.49  	tim
 : 	
@@ -10931,8 +10894,7 @@ tapahtuneen
 ainakin 	
 vuonna  	tim
 2008  	tim
-Yhdys  	loc
-valloissa  	loc
+Yhdysvalloissa	loc
 . 	
  	
 <HEADLINE> 	
@@ -10972,10 +10934,7 @@ esitettävä
 <BODY> 	
 <PARAGRAPH> 	
 Verkkokauppa 	
-Amazon  	org
-.  	org
-org 	
-com  	org
+Amazon.com	org
 on 	
 myynyt 	
 omalla 	
@@ -11331,9 +11290,7 @@ ekosysteemiä
 ? 	
  	
 <PARAGRAPH> 	
-M510  	pro
-:  	pro
-n  	pro
+M510:n	pro
 kehityksessä 	
 mukana 	
 ollut 	
@@ -11421,8 +11378,8 @@ perusti
  	
 Sovelluksia 	
 alkoi 	
-ennen 	
-pitkää 	
+ennen 	tim
+pitkää 	tim
 tulla 	
 Symbian-puhelimille  	pro
 , 	
@@ -11482,9 +11439,7 @@ Olisiko
 Nokia  	org
 resursseillaan 	
 ehtinyt 	
-M510  	pro
-:  	pro
-n  	pro
+M510:n	pro
 ja 	
 Applen  	org
 iOS-laitteiden  	pro
@@ -11810,7 +11765,9 @@ tuhannen
 kappaleen 	
 erä 	
 vuonna  	tim
-2001.  	tim
+2001	tim
+.	
+	
 Yhtiön 	
 teettämän 	
 markkinatutkimuksen 	
@@ -11855,31 +11812,8 @@ jäänyttä
 Nokian  	org
 tablettia 	
 vuonna  	tim
-2001.  	tim
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69579 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
+2001	tim
+.	
  	
 <PARAGRAPH> 	
 Yliruusin  	per
@@ -11935,7 +11869,9 @@ suunnitelmat
 tablettivalmistuksen 	
 aloittamiseksi 	
 vuonna  	tim
-2001.  	tim
+2001	tim
+.	
+	
 Tämä 	
 oli 	
 yhdeksän  	tim
@@ -11953,8 +11889,7 @@ keskeytettiin
 minuuttia  	tim
 ennen 	
 tuotannon 	
-aloittamist 	
-a 	
+aloittamista	
 . 	
  	
 Väite 	
@@ -11994,9 +11929,7 @@ Yliruusi  	per
 työskenteli 	
 tablettiprojektissa 	
 vuodenvaihteesta  	tim
-2000  	tim
-/  	tim
-2001  	tim
+2000/2001	tim
 hankkeen 	
 lopettamiseen 	
 asti 	
@@ -12012,45 +11945,6 @@ tabletin
 verkkoyhteyksien 	
 testaaminen 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showIm 	
-age 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69581 	
-) 	
- 	
-<PARAGRAPH> 	
-Tabletin  	pro
-näppäinasettelu 	
-oli 	
-symmetrinen 	
-vasenkätisiä 	
-ajatellen 	
-. 	
- 	
-( 	
-Klikkaa 	
-isomaksi 	
-. 	
- 	
-) 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
  	
 <PARAGRAPH> 	
 – 	
@@ -12124,37 +12018,6 @@ vielä
 kuluttajien 	
 hyväksyttävissä 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-sho 	
-wImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69582 	
-) 	
- 	
-<PARAGRAPH> 	
-M510  	pro
-:  	pro
-n  	pro
-liittimet 	
-. 	
- 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
  	
 <PARAGRAPH> 	
 Yliruusi  	per
@@ -12268,39 +12131,6 @@ suunniteltu
 laite 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showI 	
-mage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69585 	
-) 	
- 	
-<PARAGRAPH> 	
-Muistilappusovellus 	
-. 	
- 	
-Kuva 	
-laitteen 	
-ohjekirjasta 	
-. 	
- 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
- 	
-<PARAGRAPH> 	
 Nokian  	org
 varhainen 	btim
 tabletti 	
@@ -12318,9 +12148,7 @@ ei
 löydä 	
 mainintoja 	
 Nokia  	pro
-M510  	pro
-:  	pro
-stä  	pro
+M510:stä	pro
 – 	
 ainakaan 	
 ennen  	tim
@@ -12370,45 +12198,6 @@ vaikkapa
 keittiön 	
 pöydällä 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImag 	
-e 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69584 	
-) 	
- 	
-<PARAGRAPH> 	
-Sähköpostisovellus 	
-. 	
- 	
-Ohjekirjan 	
-kuvaan 	
-nimettiin 	
-mailin 	
-lähettäjä 	
-kieli 	
-ilmeisen 	
-syvällä 	
-poskessa 	
-. 	
- 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
  	
 <PARAGRAPH> 	
 Laite 	
@@ -12525,51 +12314,7 @@ tulevaisuuteen  	tim
 ? 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImag 	
-e 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69583 	
-) 	
- 	
-<PARAGRAPH> 	
-Laite 	
-ei 	
-tullut 	
-markkinoille 	
-, 	
-mutta 	
-ohjekirja 	
-oli 	
-tehty 	
-valmiiksi 	
-. 	
- 	
-Kuvassa 	
-manuaalin 	
-kansi 	
-. 	
- 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
- 	
-<PARAGRAPH> 	
-M510  	pro
-:  	pro
-n  	pro
+M510:n	pro
 aika 	
 ei 	
 tullut 	
@@ -12616,9 +12361,7 @@ näkee
 silti 	
 , 	
 että 	
-M510  	pro
-:  	pro
-stä  	pro
+M510:stä	pro
 siirtyi 	
 jotain 	
 Nokian  	org
@@ -12655,45 +12398,6 @@ käyttöjärjestelmä
 valittiin 	
 oikein 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showIma 	
-ge 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69586 	
-) 	
- 	
-<PARAGRAPH> 	
-Laitteen 	
-suunniteltu 	
-kohderyhmä 	
-olivat 	
-kuluttajat 	
-ja 	
-perheet 	
-, 	
-mistä 	
-ohjekirjan 	
-takakansi 	
-kertoo 	
-. 	
- 	
-Kuva 	
-: 	
-Seppo  	per
-Kärki  	per
  	
 <PARAGRAPH> 	
 Nokia  	pro
@@ -12793,113 +12497,12 @@ ostan
  	
 <PARAGRAPH> 	
 Nokia  	pro
-M510  	pro
-:  	pro
-n  	pro
+M510:n	pro
 videoesittely 	
 on 	
 katsottavissa 	
 Ilta-Sanomissa  	pro
 . 	
- 	
-<PARAGRAPH> 	
-Nokia  	pro
-M510  	pro
-web  	pro
-tablet  	pro
-numeroina 	
-| 	
-Käyttöjärjestelmä 	
-| 	
-Epoc  	pro
-( 	
-Symbianin  	pro
-varhainen 	btim
-versio 	
-) 	
---- 	
-| 	
---- 	
-Ohjelmistot 	
-| 	
-sähköposti 	
-, 	
-kalenteri 	
-, 	
-Opera-nettiselain  	pro
-, 	
-muistilappusovellus 	
-Ohjaustapa 	
-| 	
-kosketusohjaus 	
-kynällä 	
-tai 	
-sormella 	
-, 	
-ohjausnäppäimet 	
-, 	
-mahdollisuus 	
-ulkoisen 	
-näppäimistön 	
-kiinnittämiseen 	
-Muisti 	
-| 	
-32 	
-Mt 	
-sdram 	
-+ 	
-32 	
-Mt 	
-flash 	
-Näyttö 	
-| 	
-10 	
-tuuman 	
-lcd-kosketusnäyttö 	
-, 	
-800 	
-x 	
-600 	
-kuvapistettä 	
-Paino 	
-| 	
-1876 	
-grammaa 	
-Akkukesto 	
-| 	
-4 	
-h 	
-Liitännät 	
-| 	
-usb 	
-, 	
-ps 	
-/ 	
-2 	
-, 	
-kuuloke 	
-Langaton 	
-verkko 	
-| 	
-Nokia  	pro
-C111  	pro
-, 	
-11 	
-Mbit/s 	
-( 	
-802 	
-. 	
- 	
-11b 	
-) 	
-, 	
-kantama 	
-300 	
-m 	
-ulkona 	
-20 	
-m 	
-sisätiloissa 	
  	
 <HEADLINE> 	
 Koko 	
@@ -13244,9 +12847,7 @@ helpotuksen
  	
 <INGRESS> 	
 Oculus  	org
-VR  	org
-:  	org
-n  	org
+VR:n	org
 myynti 	
 Facebookille  	org
 on 	
@@ -13275,8 +12876,7 @@ Rift  	pro
 kehittävästä 	
 Oculus  	org
 VR  	org
--  	org
-startupista  	org
+-startupista	org
 on 	
 tulossa 	
 Facebookin  	org
@@ -13299,9 +12899,7 @@ mainoskoneistossa
  	
 <PARAGRAPH> 	
 Oculus  	org
-VR  	org
-:  	org
-n  	org
+VR:n	org
 perustaja  	tit
 Palmer  	per
 Luckey  	per
@@ -13398,8 +12996,7 @@ VR  	org
 alkoi 	
 hiljattain  	tim
 myydä 	
-virtuaalisilm 	
-ikon 	
+virtuaalisilmikon	
 toisen 	
 sukupolven 	
 kehittäjäversiota 	
@@ -13520,7 +13117,8 @@ myynnin
 miljoonaan 	
 kappaleeseen 	
 vuonna  	tim
-2018.  	tim
+2018	tim
+.	
  	
 <PARAGRAPH> 	
 Raportin 	
@@ -13622,7 +13220,9 @@ suosiossa
 puoliälykkäät 	
 vempaimet 	
 vuonna  	tim
-2018.  	tim
+2018	tim
+.	
+	
 Puettavan 	
 älylaitteen 	
 erottaa 	
@@ -13679,8 +13279,7 @@ virtuaalilaseista  	pro
 , 	
 teillä 	
 on 	
-1 	
-500 	
+1 500	
 dollaria 	
 ylimääräistä 	
 rahaa 	
@@ -13787,8 +13386,7 @@ kuitenkin
 miksi 	
 haluaa 	
 maksaa 	
-1 	
-500 	
+1 500	
 dollaria 	
 ja 	
 verot 	
@@ -14605,30 +14203,6 @@ millimetriä
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69498 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Nokia  	org
-Press  	org
- 	
-<PARAGRAPH> 	
 Puhelimesta 	
 tulee 	
 myyntiin 	
@@ -14968,8 +14542,7 @@ M3D  	org
 on 	
 kerännyt 	
 jo 	
-800 	
-000 	
+800 000	
 dollaria 	
 . 	
  	
@@ -14985,8 +14558,7 @@ Kicks  	pro
 tarterissa  	pro
 nimelliseksi 	
 tavoitteeksi 	
-50 	
-000 	
+50 000	
 dollaria 	
 . 	
  	
@@ -15005,8 +14577,7 @@ saanut
 kasaan 	
 jo 	
 yli 	
-800 	
-000 	
+800 000	
 dollaria 	
 . 	
  	
@@ -15015,8 +14586,7 @@ ja
 tilaajia 	
 on 	
 yli 	
-3 	
-000 	
+3 000	
 . 	
  	
 <PARAGRAPH> 	
@@ -15125,8 +14695,7 @@ että
 MakerBotin  	pro
 laite 	
 maksaa 	
-1 	
-375 	
+1 375	
 dollaria 	
 . 	
  	
@@ -15191,9 +14760,7 @@ lehtihuhuissa
 <PARAGRAPH> 	
 Niin 	
 kutsutun 	
-iTV  	pro
-:  	pro
-n  	pro
+iTV:n	pro
 haasteena 	
 on 	
 Korea  	org
@@ -15207,10 +14774,8 @@ jonka
 Apple  	org
 haluaa 	
 vaihtaa 	
-lcd 	
-: 	
-stä 	
-oled-tekniikkaan 	
+lcd:stä	pro
+oled-tekniikkaan 	bpro
 . 	
  	
 Mahdollinen 	
@@ -15219,7 +14784,7 @@ on
 siksi 	
 viivästymässä 	
 edelleen 	
-aina 	
+aina 	tim
 ensi  	tim
 vuoteen  	tim
 asti  	tim
@@ -15244,9 +14809,7 @@ teettävän
 65-tuumaisia 	
 oled-ruutuja 	
 näytekappaleiksi 	
-iTV  	pro
-:  	pro
-tä  	pro
+iTV:tä	pro
 varten 	
 . 	
  	
@@ -15559,9 +15122,7 @@ laitetta
 . 	
  	
 <PARAGRAPH> 	
-FireTV  	pro
-:  	pro
-ssä  	pro
+FireTV:ssä	pro
 on 	
 puhehaku 	
 , 	
@@ -15592,9 +15153,7 @@ Netflixin  	pro
 Hulu  	pro
 Plussan  	pro
 ja 	
-WatchESPN  	pro
-:  	pro
-n  	pro
+WatchESPN:n	pro
 palveluista 	
 . 	
  	
@@ -15622,9 +15181,7 @@ dollarilla
 Puhehaku 	
 voi 	
 antaa 	
-FireTV  	pro
-:  	pro
-lle  	pro
+FireTV:lle	pro
 etulyöntiaseman 	
 kilpailussa 	
 Applen  	org
@@ -15690,7 +15247,9 @@ miljoonaa
 internetkelpoista 	
 televisiota 	
 vuonna  	tim
-2015.  	tim
+2015	tim
+.	
+	
 Määrä 	
 olisi 	
 44 	
@@ -16078,7 +15637,7 @@ näytön
 tarkkuudesta 	
 odotetaan 	
 selvästi 	
-nykyistä 	
+nykyistä 	tim
 korkeampaa 	
 . 	
  	
@@ -16109,7 +15668,8 @@ nimen
 odotetaan 	
 olevan 	
 iPhone  	pro
-6.  	pro
+6	pro
+.	
  	
 <PARAGRAPH> 	
 Miltä 	
@@ -16292,8 +15852,7 @@ tehty
 jo 	
 yli 	
 miljoonaa 	
-hai 	
-ttaohjelmaa 	
+haittaohjelmaa	
 . 	
  	
 <PARAGRAPH> 	
@@ -16307,9 +15866,7 @@ saatuja
 tietoja 	
 Yhdysvaltojen  	org
 turvallisuusvirastolle  	org
-NSA  	borg
-:  	org
-lle  	org
+NSA:lle	borg
 . 	
  	
 Apple  	org
@@ -16686,8 +16243,8 @@ massamarkkina
  	
 Älylaseista 	
 voi 	
-tämän 	btim
-jälkeen 	tim
+tämän 	
+jälkeen 	
 tulla 	
 siis 	
 mainstreamia 	
@@ -16805,8 +16362,7 @@ transistoreja
 että 	
 niitä 	
 mahtuisi 	
-10 	
-000 	
+10 000	
 kappaletta 	
 yhdelle 	
 kärpäsen 	
@@ -16831,7 +16387,9 @@ Nokia  	org
 kertoi 	
 siitä 	
 vuonna  	tim
-2008.  	tim
+2008	tim
+.	
+	
 Kaiken 	
 lisäksi 	
 Nokian  	org
@@ -17075,9 +16633,7 @@ muassa
 uuden 	btim
 Gear  	pro
 Fit  	pro
--  	pro
-u  	pro
-rheilurannekkeensa  	pro
+-urheilurannekkeensa  	pro
 avulla 	
 . 	
  	
@@ -17254,9 +16810,7 @@ Kenties
 ei 	
 , 	
 sillä 	
-WSJ  	org
-:  	org
-n  	org
+WSJ:n	org
 mukaan 	
 sellaisesta 	
 ei 	
@@ -17291,9 +16845,7 @@ iPhonea  	pro
 turvallisuussyistä 	
 . 	
  	
-WSJ  	org
-:  	org
-n  	org
+WSJ:n	org
 mukaan 	
 iPhone  	pro
 ei 	
@@ -17335,8 +16887,8 @@ kanadalaisen
 onnenpäivät 	
 näyttävätkin 	
 olevan 	
-kaukana 	
-historiassa 	
+kaukana 	tim
+historiassa 	tim
 ja/tai 	
 tulevaisuudessa  	tim
 . 	
@@ -17383,9 +16935,7 @@ on
 selvää 	
 , 	
 että 	
-BGR  	org
-:  	org
-n  	org
+BGR:n	org
 julkaisema 	
 kuva 	
 oletetusta 	
@@ -17615,7 +17165,7 @@ kehittävä
 Canonical  	org
 on 	
 jo 	
-pitkään 	
+pitkään 	tim
 hamunnut 	
 mukaan 	
 mobiilimarkkinoille 	
@@ -17807,8 +17357,8 @@ ohjelmoida
 syttymään 	
 ja 	
 sammumaan 	
-tiettyinä 	
-aikoina 	
+tiettyinä 	tim
+aikoina 	tim
 ja 	
 ne 	
 muistavat 	
@@ -17850,11 +17400,11 @@ vähintään
 Androidin  	pro
 4.3-versiota  	pro
 tai 	
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 versiota  	pro
-6.  	pro
+6	pro
+.	
+	
 Toistaiseksi  	tim
 vain 	
 Android-sovellus  	misc
@@ -17893,7 +17443,7 @@ Google  	pro
 Glassista  	pro
 : 	
 Kuin 	
-80-luvun 	
+80-luvun 	tim
 matkapuhelin 	
  	
 <DATE> 	
@@ -18047,7 +17597,7 @@ videokuvaa
 äänikomennolla 	
 kymmenen  	tim
 sekuntia  	tim
-kerrallaan 	
+kerrallaan 	tim
 . 	
  	
 Pidempi 	
@@ -18320,8 +17870,7 @@ kyborgilasien
 todellinen 	
 ekspertti 	
 on 	
-varoitell 	
-ut 	
+varoitellut	
 . 	
  	
 Eikö 	
@@ -18472,9 +18021,7 @@ ottaa
 pahasti 	
 osumaa 	
 Sonyn  	org
-PS4  	pro
-:  	pro
-ltä  	pro
+PS4:ltä	pro
 , 	
 voi 	
 hintakin 	
@@ -18522,8 +18069,8 @@ kehittäjäversio
 päivittyi 	
 noin  	tim
 vuosi  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 alkuperäisen 	
@@ -18604,13 +18151,11 @@ tarjoamiseen
 . 	
  	
 Mutta 	
-DK2  	pro
-:  	pro
-ssa  	pro
+DK2:ssa	pro
 on 	
 muun 	
 muassa 	
-entistä 	
+entistä 	tim
 tarkempi 	
 näyttö 	
 ja 	
@@ -18916,8 +18461,7 @@ ihmetelty
 , 	
 jostain 	
 syystä 	
-Google  	pro
-+  	pro
+Google+	pro
 ei 	
 kelpaa 	
 . 	
@@ -19027,10 +18571,7 @@ Chromecastia  	pro
 on 	
 myynyt 	
 esimerkiksi 	
-Verkkokauppa  	org
-.  	org
-org 	
-com  	org
+Verkkopaukka.com	org
 , 	
 joskin 	
 hinta 	
@@ -19149,11 +18690,9 @@ toista
 televisioon 	
 kytkettävää 	
 laitetta 	
-"  	pro
+"  	
 Nexus  	pro
-TV  	pro
-:  	pro
-tä  	pro
+TV:tä	pro
 " 	
 , 	
 joka 	
@@ -19349,38 +18888,6 @@ mainio
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showIma 	
-ge 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69896 	
-) 	
- 	
-<PARAGRAPH> 	
-Tabletti 	
-vääntyy 	
-tuettuun 	
-pysty- 	
-tai 	
-vaaka-asentoon 	
-. 	
- 	
-Kuva 	
-: 	
-Lenovo  	org
- 	
-<PARAGRAPH> 	
 Tablettia 	
 pystysuunnassa 	
 käytettäessä 	
@@ -19398,7 +18905,7 @@ saada
 tasapainoon 	
 . 	
  	
-Silloin 	btim
+Silloin 	
 sen 	
 käyttö 	
 ei 	
@@ -19564,9 +19071,7 @@ tarpeeseen
 <PARAGRAPH> 	
 Käyttöliittymä 	
 on 	
-iOS  	pro
-:  	pro
-n  	pro
+iOS:n	pro
 suuntaan 	
 sievistelty 	
 Android  	pro
@@ -19603,25 +19108,6 @@ tavoin
 kuin 	
 perus-Androidissa  	misc
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-<PARAGRAPH> 	
-Lenovon  	org
-työpöytö 	
-muistuttaa 	
-enemmän 	
-iOS  	pro
-:  	pro
-ää  	pro
-kuin 	
-Androidia  	pro
-. 	
- 	
-Kuva 	
-: 	
-kuvakaappaus 	
  	
 <PARAGRAPH> 	
 Siitä 	
@@ -19764,29 +19250,6 @@ tarkka
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-69900 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Lenovo  	org
- 	
-<PARAGRAPH> 	
 Näppäimistön 	
 on 	
 määrä 	
@@ -19911,7 +19374,7 @@ Airit  	pro
 isot 	
 muutokset 	
 vasta 	
-syksyllä 	
+syksyllä 	tim
 ? 	
  	
 <DATE> 	
@@ -19929,7 +19392,7 @@ enteillen
 merkittävämpää 	
 uudistusta 	
 ensi  	tim
-syksynä 	
+syksynä 	tim
 . 	
  	
 <BODY> 	
@@ -19960,7 +19423,7 @@ lähinnä
 uutuuksissa 	
 on 	
 hieman 	
-entistä 	
+entistä 	tim
 tehokkaampi 	
 suoritin 	
 , 	
@@ -20031,7 +19494,7 @@ Air  	pro
 joka 	
 julkistetaan 	
 ensi  	tim
-syksynä 	
+syksynä 	tim
 ? 	
  	
 Tällaisesta 	
@@ -20039,8 +19502,7 @@ tuotteesta
 on 	
 liikkunut 	
 valistuneita 	
-a 	
-rvauksia 	
+arvauksia	
 . 	
  	
 <HEADLINE> 	
@@ -20135,7 +19597,7 @@ Amazonin  	org
 muiden 	
 verkkokauppojen 	
 tapaan 	
-tulevaisuus 	
+tulevaisuus 	tim
 riippuu 	
 paljon 	
 asiakkaiden 	
@@ -20229,9 +19691,7 @@ dollariin
  	
 <HEADLINE> 	
 Galaxy  	pro
-S5  	pro
-:  	pro
-n  	pro
+S5:n	pro
 kamerakuolemat 	
 " 	
 hyvin 	
