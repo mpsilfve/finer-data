@@ -69,7 +69,7 @@ Yhdysvalloissa  	loc
 häntä 	
 odottavat 	
 jopa 	
-elinkautisen 	
+elinkautisen 	tim
 tuomion 	
 mahdollistavat 	
 syytteet 	
@@ -521,9 +521,7 @@ oli
 myynyt 	
 tietoturvatuotteisiinsa 	
 takaportin 	
-NSA  	org
-:  	org
-lle  	org
+NSA:lle	org
 . 	
  	
 <PARAGRAPH> 	
@@ -540,9 +538,7 @@ haittaohjelmien  	pro
 tekijöinä  	pro
 )  	pro
 -puheensa  	pro
-27.2  	tim
-.  	tim
- 	
+27.2.	tim
 San  	loc
 Franciscossa  	loc
 pidettävässä 	
@@ -564,9 +560,7 @@ syntyi
 vastareaktioksi 	
 RSA:n  	org
 ja 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 yhteystyön 	
 paljastuttua 	
 . 	
@@ -581,12 +575,12 @@ verkon
 vapautta 	
 ajavalle 	
 EFF  	org
-(  	org
+(  	
 Electronic  	org
 Frontier  	org
 Foundation  	org
-)  	org
--järjestölle  	org
+)  	
+-järjestölle  	
 . 	
  	
 <PARAGRAPH> 	
@@ -667,9 +661,7 @@ grillauksessa
 Hänen 	
 mielestään 	
 tiedusteluvirasto 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 nykyinen  	tim
 kyvykkyys 	
 olisi 	
@@ -679,10 +671,7 @@ tekemään
 tyhjiksi 	
 lentokonekaapparien 	
 suunnitelmat 	
-11.9  	event
-.  	event
-event 	
-2001:n  	event
+11.9.2001:n	event
 varalle 	
 . 	
  	
@@ -694,9 +683,7 @@ olisi
 ollut 	
 olemassa 	
 ennen 	
-9  	event
-/  	event
-11-iskuja  	event
+9/11-iskuja	event
 , 	
 uskon 	
 , 	
@@ -704,9 +691,7 @@ että
 se 	
 olisi 	
 estänyt 	
-9  	event
-/  	event
-11:n  	event
+9/11:n	event
 . 	
  	
 Ja 	
@@ -715,9 +700,7 @@ tarkoitan
 kahta 	
 asiaa 	
 : 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 kykyä 	
 suorittaa 	
 kyselyjä 	
@@ -726,9 +709,7 @@ tietokannassa
 mikä 	
 olisi 	
 sallinut 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 löytää 	
 yhden 	
 kaappareista 	
@@ -783,9 +764,7 @@ itse
 myöntänyt 	
 , 	
 että 	
-9  	event
-/  	event
-11  	event
+9/11	event
 oli 	
 itsessään 	
 merkittävä 	
@@ -811,9 +790,7 @@ vaikea
 kuvitella 	
 , 	
 miten 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 kaltaista 	
 vakoilukoneistoa 	
 olisi 	
@@ -844,9 +821,7 @@ presidentiksi
 <PARAGRAPH> 	
 Monien 	
 mielestä 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 toimintaa 	
 ei 	
 voi 	
@@ -881,9 +856,7 @@ on
 saatettu 	
 jopa 	
 erottaa 	
-NSA  	org
-:  	org
-sta  	org
+NSA:sta	org
 . 	
  	
 <HEADLINE> 	
@@ -971,7 +944,9 @@ tehdä
 koska 	
 se 	
 on 	
-tarpeellista…vaan 	
+tarpeellista	
+...	
+vaan	
 , 	
 koska 	
 uudet 	btim
@@ -1003,9 +978,7 @@ on
 yrittänyt 	
 viheltää 	
 tiedusteluvirasto 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 suurvakoilua 	
 poikki 	
 viime  	tim
@@ -1033,16 +1006,14 @@ Civil  	org
 Liberties  	org
 Oversight  	org
 Board  	org
-(  	org
+(  	
 PCLOB  	org
-)  	org
--aivoriihi  	org
+)  	
+-aivoriihi  	
 sanoi 	
 torstaina  	tim
 raportissaan 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 vakoilleen 	
 ainakin 	
 120 	
@@ -1127,9 +1098,7 @@ niitä
 , 	
 jotka 	
 pelkäävät 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 pystyvän 	
 päihittämään 	
 kaiken 	
@@ -1315,9 +1284,7 @@ myöhemmin  	tim
 torstaina  	tim
 laajan 	
 tiedusteluvirasto 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 toimintaa 	
 käsittelevän 	
 raportin 	
@@ -1401,9 +1368,7 @@ yhdysvaltalaisten
 operaattorien 	
 uskotaan 	
 osallistuvan 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 ohjelmaan 	
 . 	
  	
@@ -1414,9 +1379,7 @@ Yhdysvalloissa  	loc
 on 	
 vain 	
 osa 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 harjoittamaa 	
 globaalia 	
 vakoilua 	
@@ -1557,9 +1520,7 @@ jopa
 kaksi 	
 kolmasosaa 	
 maan 	
-. 	
- 	
-com-päätteisistä 	
+.com-päätteisistä	
 nettiosoitteista 	
 saattoi 	
 lakata 	
@@ -1574,9 +1535,7 @@ lakosi
 , 	
 mutta 	
 Kiinan  	loc
-. 	
- 	
-cn-päätteiset 	
+.cn-päätteiset	
 osoitteet 	
 toimivat 	
 . 	
@@ -1698,10 +1657,7 @@ Mutta
 Kiinan  	loc
 nettisensuuria 	
 tarkkaileva 	
-GreatFire  	org
-.  	org
-org 	
-org  	org
+GreatFire.org	org
 sivuuttaa 	
 hyökkäyspuheet 	
 . 	
@@ -1755,11 +1711,7 @@ torstaina  	tim
 Islantiin  	loc
 rekisteröity 	
 Snowdenin  	per
-Freesnowden  	pro
-.  	pro
-pro 	
-is  	pro
--tukisivusto  	pro
+Freesnowden.is-tukisivusto	org
 kertoo 	
 , 	
 että 	
@@ -1779,7 +1731,7 @@ alkaa
 illalla  	tim
 klo  	tim
 22  	tim
-Suomen  	tim
+Suomen  	btim
 aikaa  	tim
 . 	
  	
@@ -1789,8 +1741,7 @@ voi
 esittää 	
 kysymyksiä 	
 Twitterissä  	pro
-# 	
-asksnowden-hashtagilla 	
+#asksnowden-hashtagilla	misc
 . 	
  	
 Snowdenin  	per
@@ -1820,7 +1771,7 @@ verkkourkintaa
 <HEADLINE> 	
 Älä 	
 mene 	
-elokuviin 	btim
+elokuviin 	
 älylasit 	
 päässäsi 	
  	
@@ -1841,7 +1792,7 @@ ja
 määräsi 	
 tämän 	
 ulos 	
-elokuvateatterista 	btim
+elokuvateatterista 	
 kesken 	
 esityksen 	
 . 	
@@ -1862,10 +1813,8 @@ Columbuksessa  	loc
 , 	
 Ohiossa  	loc
 sijaitsevassa 	
-AMC  	org
-:  	org
-n  	org
-elokuvateatterissa 	btim
+AMC:n	org
+elokuvateatterissa 	
 vaimonsa 	
 kanssa 	
 Jack  	pro
@@ -1912,8 +1861,8 @@ turvamiehiä
 . 	
  	
 <PARAGRAPH> 	
-Sen 	btim
-jälkeen 	tim
+Sen 	
+jälkeen 	
 miestä 	
 ja 	
 hänen 	
@@ -1925,7 +1874,7 @@ huoneissa
  	
 Häntä 	
 syytettiin 	
-elokuvan 	btim
+elokuvan 	
 laittomasta 	
 kopioinnista 	
 . 	
@@ -2016,9 +1965,7 @@ of  	org
 Homeland  	org
 Securityn  	org
 , 	
-DHS  	org
-:  	org
-n  	org
+DHS:n	org
 alainen 	
 virasto 	
 . 	
@@ -2027,13 +1974,14 @@ Myöhemmin 	btim
 ICE  	org
 vahvisti 	
 olleensa 	
-”vapaaehtoisen” 	
-kuulustelun 	
+“	
+vapaaehtoisen	
+”	
 takana 	
 , 	
 joka 	
 liittyi 	
-elokuvan 	btim
+elokuvan 	
 laittomaan 	
 elektroniseen 	
 kopiointiin 	
@@ -2041,9 +1989,7 @@ kopiointiin
  	
 Elokuvapiratismi 	btim
 kuuluu 	
-ICE  	org
-:  	org
-n  	org
+ICE:n	org
 toiminta-alueeseen 	
 . 	
  	
@@ -2066,9 +2012,7 @@ piraattijahdista
 tunnetun 	
 elokuvateollisuuden 	btim
 järjestön 	
-MPAA  	org
-:  	org
-n  	org
+MPAA:n	org
 kanssa 	
 . 	
  	
@@ -2089,9 +2033,7 @@ sinne
  	
 <PARAGRAPH> 	
 Miksi 	
-MPAA  	org
-:  	org
-n  	org
+MPAA:n	org
 edustaja 	
 oli 	
 teatterissa 	
@@ -2166,8 +2108,7 @@ oikeudenhaltijoille
 Hovioikeudessa 	
 summa 	
 kohosi 	
-22 	
-000 	
+22 000	
 euroon 	
 , 	
 Tekijänoikeuden 	
@@ -2181,10 +2122,7 @@ kertoo
 Alkuperäinen 	
 piratismituomio 	
 juonsi 	
-Hayabusa  	pro
-/  	pro
-Rainbow  	pro
--nimisen  	pro
+Hayabusa/Rainbow-nimisen	pro
 sivuston  	pro
 pyörittämisestä 	
 salaa 	
@@ -2196,7 +2134,7 @@ konesalissa
 Sivusto 	
 oli 	
 erikoistunut 	
-elokuvien  	tim
+elokuvien  	
 ja 	
 tv-sarjojen 	
 levitykseen 	
@@ -2418,8 +2356,7 @@ lähetti
 marraskuussa  	tim
 uuden 	btim
 selvityspyynnön 	
-5 	
-000 	
+5 000	
 euron 	
 uhkasakolla 	
 tehostettuna 	
@@ -3044,17 +2981,17 @@ on
 myös 	
 Euroopan  	org
 journalistiliiton  	org
-EFJ  	borg
-:  	org
-n  	org
+EFJ:n	borg
 tekijänoikeustyöryhmän 	
 jäsen 	
 . 	
  	
 Hänen 	
 mukaansa 	
-”Järkeä 	
-tekijänoikeuslakiin” 	
+“	
+Järkeä	
+tekijänoikeuslakiin 	
+”	
 -aloite 	
 johtaisi 	
 toteutuessaan 	
@@ -3109,10 +3046,8 @@ Jokinen  	per
 sanoo 	
 MB-lehden  	org
 ( 	
-MB 	
-2  	tim
-/  	tim
-2014  	tim
+MB 	org
+2/2014	
 ) 	
 haastattelussa 	
 . 	
@@ -3230,13 +3165,12 @@ käsittelyyn
 kerättyään 	
 vaadittavat 	
 yli 	
-50 	
-000 	
+50 000	
 kannattajaa 	
 kovalla 	
 kampanjalla 	
-viime 	
-tingassa 	
+viime 	tim
+tingassa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -3564,15 +3498,14 @@ on
 muutoslupauksista 	
 huolimatta 	
 puolustanut 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 toimintaa 	
 , 	
 sai 	
 rauhanpalkinnon 	
 vuonna  	tim
-2009.  	tim
+2009	tim
+.	
  	
 <HEADLINE> 	
 Putkimiehet 	
@@ -3616,21 +3549,13 @@ tulevat
 jo 	
 käytössä 	
 olevien 	
-. 	
- 	
-net 	
-, 	
-. 	
- 	
-com 	
-, 	
-. 	
- 	
-biz 	
-, 	
-. 	
- 	
-org 	
+.net	
+,	
+.com	
+,	
+.biz	
+,	
+.org	
 ja 	
 muiden 	
 yleiseen 	
@@ -3660,8 +3585,7 @@ domain-nimet
 aktivoitiin 	
 . 	
  	
-Donu  	org
-ts  	org
+Donuts	org
 , 	
 joka 	
 on 	
@@ -3669,13 +3593,13 @@ suurin
 uusien 	btim
 , 	
 gTDL  	misc
-(  	misc
+(  	
 general  	misc
 Top  	misc
 Level  	misc
 Domain  	misc
-)  	misc
--nimien  	misc
+)  	
+-nimien  	
 rekisteröijä 	
 , 	
 avasi 	
@@ -3685,33 +3609,19 @@ kaikkiaan
 seitsemän 	
 verkkotunnusta 	
 : 	
-. 	
- 	
-bike 	
-, 	
-. 	
- 	
-clothing 	
-, 	
-. 	
- 	
-guru 	
-, 	
-. 	
- 	
-holdings 	
-, 	
-. 	
- 	
-plumbing 	
-, 	
-. 	
- 	
-singles 	
+.bike	
+,	
+.clothing	
+,	
+.guru	
+,	
+.holdings	
+,	
+.plumbing	
+,	
+.singles	
 ja 	
-. 	
- 	
-ventures 	
+.ventures	
 . 	
  	
 <PARAGRAPH> 	
@@ -3741,33 +3651,19 @@ aktivoi
 seuraavat 	
 seitsemän 	
 : 	
-. 	
- 	
-camera 	
+.camera	
+,	
+.equipment	
+,	
+.estate	
+,	
+.gallery	
 , 	
-. 	
- 	
-equipment 	
-, 	
-. 	
- 	
-estate 	
-, 	
-. 	
- 	
-gallery 	
-, 	
-. 	
- 	
-graphics 	
-, 	
-. 	
- 	
-lighting 	
+.graphics	
+,	
+.lighting	
 ja 	
-. 	
- 	
-photography 	
+.photography	
 . 	
  	
 Tämä 	
@@ -3814,8 +3710,7 @@ on
 periaatteessa 	
 hyväksynyt 	
 noin 	
-1 	
-400 	
+1 400	
 uutta 	btim
 tunnusta 	
 , 	
@@ -3878,10 +3773,7 @@ tahansa
 varata 	
 itselleen 	
 verkkotunnuksen 	
-whitehouse 	
-. 	
- 	
-plumbing 	
+whitehouse.plumbing	
 ilman 	
 , 	
 että 	
@@ -3901,10 +3793,7 @@ kuuluvana
 Onnistuisiko 	
 se 	
 muodossa 	
-white-house 	
-. 	
- 	
-plumbing 	
+white-house.plumbing	
 ? 	
  	
 <PARAGRAPH> 	
@@ -3919,25 +3808,15 @@ muassa
 sellaiset 	
 osoitepäätteet 	
 kuin 	
-. 	
- 	
-helsinki 	
+.helsinki	
+,	
+.apple	
 , 	
-. 	
- 	
-apple 	
+.nokia	
 , 	
-. 	
- 	
-nokia 	
-, 	
-. 	
- 	
-beauty 	
+.beauty	
 ja 	
-. 	
- 	
-auto 	
+.auto	
 . 	
  	
 Niitä 	
@@ -3951,13 +3830,9 @@ juuripalvelimille
 mutta 	
 sellaiset 	
 kuin 	
-. 	
- 	
-photo 	
+.photo	
 ja 	
-. 	
- 	
-berlin 	
+.berlin	
 ovat 	
 jo 	
 listalla 	
@@ -4011,7 +3886,7 @@ eilen  	tim
 antaneensa 	
 hyväksynnän 	
 15 	
-uudelle 	
+uudelle 	tim
 verkkotunnukselle 	
 . 	
  	
@@ -4060,7 +3935,8 @@ on
 maailman 	
 maista 	
 sijalla 	
-17. 	
+17	
+.	
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -4090,7 +3966,8 @@ tämä
 antaa 	
 Suomelle  	loc
 sijan 	
-13. 	
+13	
+.	
  	
 <PARAGRAPH> 	
 Euroopan  	loc
@@ -4275,8 +4152,8 @@ ja
 Hongkong  	loc
 , 	
 vasta 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 tulevat 	
 nopeimmat 	
 eurooppalaiset 	
@@ -4328,29 +4205,6 @@ grafiikkana
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-68014 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Akamai  	org
- 	
-<PARAGRAPH> 	
 Akamain  	org
 raportista 	
 uutisoi 	
@@ -4358,29 +4212,6 @@ muun
 muassa 	
 Cnet  	org
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-68012 	
-) 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Akamai  	org
  	
 <HEADLINE> 	
 Kännyköiden 	
@@ -4719,8 +4550,7 @@ Brein  	org
 määrättiin 	
 maksamaan 	
 operaattoreille 	
-326 	
-000 	
+326 000	
 euron 	
 korvaukset 	
 . 	
@@ -5107,10 +4937,7 @@ tietosuojasta
 <BODY> 	
 <PARAGRAPH> 	
 Keskustelusivusto 	
-Otakantaa  	pro
-.  	pro
-pro 	
-fi  	pro
+Otakantaa.fi	org
 järjestää 	
 tänään  	tim
 kello  	btim
@@ -5161,10 +4988,7 @@ asiantuntijoita
 <PARAGRAPH> 	
 Oikeusministeriön  	org
 ylläpitämä 	
-Otakantaa  	pro
-.  	pro
-pro 	
-fi  	pro
+Otakantaa.fi	org
 tiedostaa 	
 tietosuojan 	
 olleen 	
@@ -5199,9 +5023,7 @@ puhuttaa
 Yhdysvaltain  	org
 kansallisen  	org
 tiedusteluviraston  	org
-NSA  	borg
-:  	org
-n  	org
+NSA:n	borg
 tietoliikenteen 	
 vakoilu 	
 . 	
@@ -5237,8 +5059,7 @@ liikenne-  	org
 ja  	org
 viestintäministeriön  	org
 alaiselle 	
-Vie  	org
-stintävirastolle  	org
+Viestintävirastolle	org
 . 	
  	
 <HEADLINE> 	
