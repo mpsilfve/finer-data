@@ -5088,9 +5088,9 @@ hyvin
  	
 <BODY> 	
 <PARAGRAPH> 	
-Järkeä 	
-tekijänoikeuslakiin 	
--kansalaisaloitteen 	
+Järkeä 	pro
+tekijänoikeuslakiin 	pro
+-kansalaisaloitteen 	pro
 puuhamies 	
 Joonas  	per
 Pekkanen  	per
@@ -5116,8 +5116,8 @@ Perussuomalaisten  	org
 Kauko  	per
 Tuupainen  	per
 käytti 	
-kolmeminuuttisensa 	
-torstain  	tim
+kolmeminuuttisensa 	tim
+torstain  	btim
 lähetekeskustelussa 	
 vastustaakseen 	
 selvin 	
@@ -5538,12 +5538,7 @@ sponsoreiden
 kanssa 	
 . 	
  	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 , 	
 DeVry  	org
 University  	org
@@ -5634,19 +5629,6 @@ syrjintää
 . 	
  	
 <HEADLINE> 	
- 	
- 	
-<DATE> 	
- 	
- 	
-<INGRESS> 	
- 	
- 	
-<BODY> 	
-<PARAGRAPH> 	
- 	
- 	
-<HEADLINE> 	
 Raskaita 	
 syytteitä 	
 Silk  	misc
@@ -5718,7 +5700,7 @@ huumekaupasta
 voi 	
 rapsahtaa 	
 jopa 	
-elinkautinen 	
+elinkautinen 	tim
 , 	
 mutta 	
 vähintään  	tim
@@ -5733,7 +5715,7 @@ voi
 niin 	
 ikään 	
 saada 	
-elinkautisen 	
+elinkautisen 	tim
 , 	
 mutta 	
 vähimmäisrangaistus 	
@@ -5746,7 +5728,7 @@ vankeutta
 Rahanpesusta 	
 voidaan 	
 antaa 	
-enintään 	
+enintään 	tim
 20  	tim
 vuoden  	tim
 tuomio 	
@@ -5853,8 +5835,7 @@ puheessaan
 Hän 	
 lupasi 	
 laajakaistayhteydet 	
-15 	
-000 	
+15 000	
 koululle 	
 . 	
  	
@@ -5899,12 +5880,7 @@ Apple  	org
 , 	
 Microsoft  	org
 , 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 , 	
 Verizon  	org
 , 	
@@ -6039,12 +6015,7 @@ ostaa
 . 	
  	
 <PARAGRAPH> 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
+AT&amp;T;	org
 ja 	
 Verizon  	org
 kumpikin 	
@@ -6069,8 +6040,7 @@ omistaja
 SoftBank  	org
 lupasivat 	
 laajakaistan 	
-50 	
-000 	
+50 000	
 vähävaraiselle 	
 koululaiselle 	
 seuraavan  	tim
@@ -6286,7 +6256,7 @@ Utopian  	pro
 julistaminen 	
 kuolleeksi 	
 myös 	
-ennenaikaista 	
+ennenaikaista 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -6313,9 +6283,7 @@ toimintaansa
 <HEADLINE> 	
 Ex-lennokkilentäjä 	
 : 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 teledata 	
 johtanut 	
 siviilien 	
@@ -6349,9 +6317,7 @@ Intercept  	org
 <PARAGRAPH> 	
 Yhdysvaltain  	org
 tiedusteluvirasto  	org
-NSA  	borg
-:  	org
-n  	org
+NSA:n	borg
 keräämiä 	
 teletietoja 	
 käytetään 	
@@ -6729,20 +6695,11 @@ varoitti
 kuluttajia 	
 viime  	tim
 lokakuussa  	tim
-Autonarvio  	pro
-.  	pro
-pro 	
-com-  	pro
+Autonarvio.com-	pro
 , 	
-Autojenhinta  	pro
-.  	pro
-pro 	
-net-  	pro
+Autojenhinta.net-	pro
 ja 	
-Autojenhinnat  	pro
-.  	pro
-pro 	
-net-sivustoista  	pro
+Autojenhinnat.net-sivustoista	pro
 . 	
  	
 Viraston 	
@@ -6991,10 +6948,7 @@ hyväksyy
 , 	
 tulisi 	
 voimaan 	
-1.1  	tim
-.  	tim
-tim 	
-2015  	tim
+1.1.2015	tim
 osana 	
 uudistettavaa 	
 valtion 	
@@ -7103,15 +7057,13 @@ lopussa  	tim
 tämä 	
 summa 	
 oli 	
-420 	
-000 	
+420 000	
 euroa 	
 ja 	
 sen 	
 oletetaan 	
 olevan 	
-220 	
-000 	
+220 000	
 euroa 	
 tämän  	tim
 vuoden  	tim
@@ -7179,10 +7131,7 @@ tietoturvapoikkeamista
 , 	
 on 	
 osoitteena 	
-Kyberturvallisuuskeskus  	pro
-.  	pro
-pro 	
-fi  	pro
+Kyberturvallisuuskeskus.fi	pro
 . 	
  	
 <BODY> 	
@@ -7211,9 +7160,7 @@ näkyy
 nyt  	tim
 keskiviikosta  	tim
 alkaen  	tim
-Cert-fi  	org
-:  	org
-n  	org
+Cert-fi:n	org
 sivuilla 	
 logojen 	
 ja 	
@@ -7248,13 +7195,7 @@ Kyberturvallisuuskeskus  	org
 julkaisee 	
 jatkossa 	btim
 osoitteessa 	
-www  	pro
-.  	pro
-pro 	
-kyberturvallisuuskeskus  	pro
-.  	pro
-pro 	
-fi  	pro
+www.kyberturvallisuuskeskus.fi	
 ne 	
 tietoturva-artikkelit 	
 , 	
@@ -7268,26 +7209,18 @@ tähän  	tim
 asti  	tim
 voinut 	
 lukea 	
-Cert-fi  	org
-:  	org
-stä  	org
+Cert-fi:stä	org
 . 	
  	
 <PARAGRAPH> 	
 Tosin 	
 vanhakin 	
 verkko-osoite 	
-Cert  	pro
-.  	pro
-pro 	
-fi  	pro
+Cert.fi	
 toimii 	
 yhä 	
 ja 	
-Kyberturvallisuuskeskus  	pro
-.  	pro
-pro 	
-fi  	pro
+Kyberturvallisuuskeskus.fi	
 itse 	
 asiassa 	
 ohjaa 	
@@ -7298,9 +7231,7 @@ siihen
 Mies 	
 joutui 	
 putkaan 	
-Google  	misc
-+  	misc
--kutsusta  	misc
+Google+-kutsusta	misc
 — 	
 lähettikö 	
 kutsua 	
@@ -7328,9 +7259,7 @@ lähetti
 entiselle 	
 tyttöystävälleen 	
 sähköpostikutsun 	
-Google  	org
-+  	org
--yhteisöön  	org
+Google+-yhteisöön	org
 . 	
  	
 Miehellä 	
@@ -7492,7 +7421,7 @@ syytä
 muistuttaa 	
 häirintälakien 	
 kiristymisestä 	
-vuodenvaihteessa 	
+vuodenvaihteessa 	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -8133,8 +8062,7 @@ ovat
 Twitterin  	pro
 tapaisesti 	
 muodossa 	
-@ 	
-käyttäjänimi 	
+@käyttäjänimi	
 . 	
  	
 Poliisin 	
@@ -8142,13 +8070,11 @@ johdosta
 mukaan 	
 tulevat 	
 poliisijohtaja  	tit
-@  	per
-SJKolehmainen  	per
+@SJKolehmainen  	per
 Poliisihallituksesta  	org
 ja 	
 rehtori  	tit
-@  	per
-kimmohimberg  	per
+@kimmohimberg	per
 Poliisiammattikorkeakoulusta  	org
 . 	
  	
@@ -8168,8 +8094,7 @@ sidosryhmien
 suuntaan 	
 , 	
 viestintäpäällikkö  	tit
-@  	per
-MarkoLuotonen  	per
+@MarkoLuotonen	per
 sanoo 	
 tiedotteessa 	
 . 	
@@ -8191,8 +8116,7 @@ esimerkiksi
 kyberrikollisuuteen 	
 erikoistunut 	
 rikoskomisario  	tit
-@  	per
-TimoPiiroinen  	per
+@TimoPiiroinen	per
 . 	
  	
 <PARAGRAPH> 	
@@ -8213,7 +8137,7 @@ on
 toiminut 	
 varsin 	
 tunnettu 	
-nettipoliisi 	
+nettipoliisi 	tit
 Marko  	per
 Forss  	per
 . 	
@@ -8227,7 +8151,8 @@ rikosasioista
 kertovan 	
 Twitter-tilin  	misc
 helmikuussa  	tim
-2011.  	tim
+2011	tim
+.	
  	
 <HEADLINE> 	
 Senaattori 	
@@ -8441,8 +8366,7 @@ tarkka
 varjelija 	
 tuhosi 	
 lennokin 	
-hau 	
-likolla 	
+haulikolla	
 , 	
 kun 	
 sellainen 	
@@ -8564,8 +8488,8 @@ mukaan
 Kuitenkin 	
 muutama  	tim
 vuosikymmen  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 älykkyys 	
 on 	
 tarpeeksi 	
@@ -8645,8 +8569,7 @@ mahdollista
 , 	
 Horvitz  	per
 sanoi 	
-äsket  	tim
-täin  	tim
+äskettäin	tim
 . 	
  	
 <PARAGRAPH> 	
@@ -8809,7 +8732,9 @@ on
 tapahtunut 	
 sitten  	tim
 vuoden  	tim
-2012.  	tim
+2012	tim
+.	
+	
 Mutta 	
 sieltä 	
 löytyy 	
@@ -8914,8 +8839,7 @@ kertaa
 virhe 	
 koski 	
 noin 	
-30 	
-000 	
+30 000	
 maksutapahtumaa 	
 . 	
  	
@@ -8950,8 +8874,7 @@ veloitettuja
 tapahtumia 	
 on 	
 noin 	
-30 	
-000 	
+30 000	
 . 	
  	
 Pääosa 	
@@ -8965,9 +8888,9 @@ ja
 ne 	
 on 	
 veloitettu 	
-sekä 	
+sekä 	tim
 26.  	tim
-että 	
+että 	tim
 29.  	tim
 tammikuuta  	tim
 . 	
@@ -9276,9 +9199,7 @@ pelaajille
 keskeneräisiä 	
 tekeleitä 	
 esimerkiksi 	
-Assassin  	pro
-'  	pro
-s  	pro
+Assassin's	pro
 Creed  	pro
 Unityn  	pro
 malliin 	
@@ -9422,9 +9343,7 @@ Markkinaoikeus
 antoi 	
 asiassa 	
 ratkaisun 	
-24.3  	tim
-. 	
- 	
+24.3.	tim
 ja 	
 kielsi 	
 Elisaa  	org
@@ -9442,8 +9361,7 @@ tehosteeksi
 oikeus 	
 asetti 	
 Elisalle  	org
-100 	
-000 	
+100 000	
 euron 	
 uhkasakon 	
 . 	
@@ -9577,8 +9495,7 @@ Flurry  	org
 analysoi 	
 tietoja 	
 noin 	
-500 	
-000 	
+500 000	
 sovelluksesta 	
 1,3 	
 miljardista 	
@@ -9644,7 +9561,7 @@ teinit
 opiskelijat 	
 ja 	
 keski-ikäiset 	
-vanhemmat 	btim
+vanhemmat 	
 . 	
  	
 <PARAGRAPH> 	
@@ -9828,8 +9745,7 @@ on
 Cnetin  	org
 mukaan 	
 yli 	
-400 	
-000 	
+400 000	
 seuraajaa 	
 , 	
 ja 	
@@ -9845,8 +9761,8 @@ estot
 tehtiin 	
 joitakin  	tim
 päiviä  	tim
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 Twitter  	org
@@ -10077,9 +9993,7 @@ Viraston
 palvelimilta 	
 vietiin 	
 900 	
-sosiaaliturva 	
-/ 	
-veronumeroa 	
+sosiaaliturva/veronumeroa	
 ja 	
 kenties 	
 muutakin 	
