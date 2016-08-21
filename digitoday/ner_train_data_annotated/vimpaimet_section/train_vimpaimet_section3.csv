@@ -21165,8 +21165,8 @@ vuotta  	tim
 sillä 	
 he 	
 tekevät 	
-pitkää 	
-päivää 	
+pitkää 	tim
+päivää 	tim
 . 	
  	
 Wall  	org
@@ -21252,8 +21252,7 @@ tuotteen
 Mac  	pro
 Pro  	pro
 -tietokoneen  	pro
-4 	
-000 	
+4 000	
 dollarin 	
 hinnan 	
 . 	
@@ -21299,7 +21298,7 @@ jatkavat
 vuoden  	tim
 vaihteessa  	tim
 alkanutta 	
-ympärivuorokautista 	
+ympärivuorokautista 	tim
 työtä 	
 ilman 	
 uuden  	tim
@@ -21367,9 +21366,7 @@ tablettimarkkinoille
 Yhtiö 	
 heitti 	
 Windows  	pro
-RT  	pro
-:  	pro
-n  	pro
+RT:n	pro
 roskiin 	
 ja 	
 käynnisti 	
@@ -21430,9 +21427,6 @@ oivallisimmat
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Ei 	
 nimi 	
 tablettia 	
@@ -21548,24 +21542,6 @@ paljon
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74468 	
-) 	
- 	
-<PARAGRAPH> 	
 Wisky  	pro
 on 	
 paksuudeltaan 	
@@ -21643,10 +21619,10 @@ bluetoothien
 ja 	
 wlanien 	
 ohella 	
-mikro-hdmi- 	
-ja 	
-- 	
-usb-liitännät 	
+mikro-hdmi- 	misc
+ja 	misc
+- 	misc
+usb-liitännät 	misc
 . 	
  	
 Lisäksi 	
@@ -21682,9 +21658,6 @@ lisää
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Oikea 	
 Windows  	pro
 oikeassa 	
@@ -21918,15 +21891,10 @@ jos
 mobiilidata 	
 olisi 	
 onnistunut 	
-4g 	
-: 	
-llä 	
+4g:llä	
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Se 	
 ei 	
 ole 	
@@ -21972,24 +21940,6 @@ niinkään
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74466 	
-) 	
- 	
-<PARAGRAPH> 	
 Tabletti 	
 Windows-työpöytänäkymässä  	misc
 . 	
@@ -22031,7 +21981,7 @@ Explorerissa  	pro
 Chrome  	pro
 myös 	
 hallitsee 	
-flash-valikot 	
+flash-valikot 	misc
 paremmin 	
 . 	
  	
@@ -22041,7 +21991,7 @@ näyttötarkkuus
 ja 	
 " 	
 aito 	
-pc-mäisyys 	
+pc-mäisyys 	misc
 " 	
 johtaa 	
 yllättävään 	
@@ -22165,7 +22115,9 @@ mitä
 edullisin 	
 iPad  	pro
 Air  	pro
-2.  	pro
+2.	pro
+.	
+	
 Tällä 	
 voi 	
 alkaa 	
@@ -22230,9 +22182,7 @@ miten
 kisassa 	
 Androidia  	pro
 ja 	
-iOS  	pro
-:  	pro
-ää  	pro
+iOS:ää	pro
 vastaan 	
 käy 	
 . 	
@@ -22248,104 +22198,11 @@ taistoon
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74467 	
-) 	
- 	
-<PARAGRAPH> 	
 Laite 	
 näyttää 	
 ahteripuolelta 	
 metalliselta 	
 . 	
- 	
-<PARAGRAPH> 	
-Wiskytablet  	pro
-3G068I  	pro
-tekniset 	
-tiedot 	
-| 	
-Käyttöjärjestelmä 	
-| 	
-Windows  	pro
-8.1  	pro
-update  	pro
-1  	pro
---- 	
-| 	
---- 	
-Suoritin 	
-| 	
-Intel  	pro
-Atom  	pro
-Z3735F  	pro
--neliydinsuoritin  	pro
-, 	
-1,33 	
-GHz 	
-Keskusmuisti 	
-| 	
-2 	
-Gt 	
-Massamuisti 	
-| 	
-16 	
-Gt 	
-Näyttö 	
-| 	
-9,7 	
-tuumaa 	
-, 	
-2048 	
-x 	
-1536 	
-Pääkamera 	
-| 	
-5 	
-MP 	
-Kakkoskamera 	
-| 	
-2 	
-MP 	
-Koko 	
-| 	
-24,0 	
-x17 	
-, 	
-0 	
-x 	
-0,8 	
-cm 	
-Akku 	
-| 	
-8000 	
-mAh 	
-, 	
-kiinteä 	
-Liitännät 	
-| 	
-3g-sim 	
-, 	
-mikro-sd 	
-, 	
-mikro-hdmi 	
-, 	
-mikro-usb 	
-, 	
-ääni 	
  	
 <HEADLINE> 	
 Ministerit 	
@@ -22521,9 +22378,9 @@ valmistuserä
 myytiin 	
 loppuun 	
 Kiinassa  	loc
-"  	tim
+"  	
 minuuteissa  	tim
-"  	tim
+"  	
 . 	
  	
 <BODY> 	
@@ -22593,8 +22450,7 @@ myyntituotoista
 <PARAGRAPH> 	
 Laitteen 	
 ensimmäinen 	
-20 	
-000 	
+20 000	
 kappaleen 	
 erä 	
 myytiin 	
@@ -22722,9 +22578,7 @@ mukaan
 syynä 	
 on 	
 kömmähdys 	
-T1  	pro
-:  	pro
-n  	pro
+T1:n	pro
 ensimmäisen 	
 erän 	
 tullessa 	
@@ -22921,7 +22775,7 @@ asian
 varmistaminen 	
 ottaa 	
 valitettavasti 	
-aikansa 	btim
+aikansa 	
 tällaisessakin 	
 tilanteessa 	
 . 	
@@ -23076,9 +22930,7 @@ tuloksiin
 . 	
  	
 <PARAGRAPH> 	
-WSJ  	org
-:  	org
-n  	org
+WSJ:n	org
 mukaan 	
 Applen  	org
 piti 	
@@ -23313,8 +23165,7 @@ ohjattavia
 termostaatteja 	
 on 	
 asennettu 	
-300 	
-000 	
+300 000	
 kotiin 	
 . 	
  	
@@ -23456,22 +23307,16 @@ viime  	tim
 viikon  	tim
 lopussa  	tim
 käyttöjärjestelmäversioon 	
-8.10 	
-. 	
- 	
-14226.359 	
+8.10.14226.359	pro
 . 	
  	
 Vika 	
 olisi 	
 korjattu 	
 jo 	
-aiemmassa 	
-versiossa 	
-8.10 	
-. 	
- 	
-14219.341 	
+aiemmassa 	tim
+versiossa 	pro
+8.10.14219.34	pro
 , 	
 mutta 	
 sen 	
@@ -23782,8 +23627,7 @@ yritys
 ilmoitti 	
 27 	
 dollaria 	
-1 	
-000 	
+1 000	
 kellon 	
 erissä 	
 . 	
@@ -24023,8 +23867,7 @@ hintaan
 Laitteita 	
 oli 	
 saatavilla 	
-20 	
-000 	
+20 000	
 kappaletta 	
 , 	
 Nokia  	org
@@ -24047,8 +23890,7 @@ olisi
 ollut 	
 tiettävästi 	
 noin 	
-550 	
-000 	
+550 000	
 . 	
  	
 Nokian  	org
@@ -24089,9 +23931,7 @@ Launcheria  	pro
 . 	
  	
 <PARAGRAPH> 	
-N1  	pro
-:  	pro
-n  	pro
+N1:n	pro
 sisuksissa 	
 hyrrää 	
 neliytiminen 	
@@ -24165,11 +24005,11 @@ tieto
 on 	
 Nokian  	org
 kertoma 	
-"  	tim
+"  	
 tämän  	tim
 vuoden  	tim
 aikana  	tim
-"  	tim
+"  	
 . 	
  	
 <PARAGRAPH> 	
@@ -24343,14 +24183,6 @@ tiistaina  	tim
 Cnetin  	org
 mukaan 	
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-<PARAGRAPH> 	
-Kuva 	
-: 	
-Intel  	org
  	
 <HEADLINE> 	
 Samsung  	org
@@ -24702,9 +24534,6 @@ sovellusvalikoima
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Ne 	
 huonot 	
 uutiset 	
@@ -24836,33 +24665,6 @@ käyttää
 . 	
  	
 <PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-74028 	
-) 	
- 	
-<PARAGRAPH> 	
-Puhelimen 	
-yläreunaa 	
-koristaa 	
-nyt  	tim
-Microsoftin  	org
-logo 	
-. 	
- 	
-<PARAGRAPH> 	
 Ongelma 	
 on 	
 Lumian  	pro
@@ -24904,8 +24706,8 @@ hankalaa
 koska 	
 virhetunnistuksia 	
 tulee 	
-koko 	
-ajan 	
+koko 	tim
+ajan 	tim
 . 	
  	
 Tunnistusongelmat 	
@@ -24957,7 +24759,8 @@ puhelimen
 tuore 	
 omistaja 	
 , 	
-niin… 	
+niin	
+...	
 ehkä 	
 puhelin 	
 kannattaa 	
@@ -24995,9 +24798,6 @@ navigointinapit
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Hymyile 	
 ( 	
 selfie- 	
@@ -25222,9 +25022,6 @@ eroja
 . 	
  	
 <PARAGRAPH> 	
-# 	
-# 	
-# 	
 Risuja 	
 laadunvalvonnalle 	
  	
@@ -25356,117 +25153,6 @@ on
 gigatavua 	
 . 	
  	
-<PARAGRAPH> 	
-Lumia  	pro
-535  	pro
-tekniset 	
-tiedot 	
-| 	
-Käyttöjärjestelmä 	
-| 	
-Windows  	pro
-Phone  	pro
-8.1  	pro
-update  	pro
-( 	
-Lumia  	pro
-Denim  	pro
-) 	
---- 	
-| 	
---- 	
-Suoritin 	
-| 	
-1,2 	
-GHz 	
-neliydinprosessori 	
-( 	
-Snapdragon  	pro
-200  	pro
-) 	
-Keskusmuisti 	
-| 	
-1 	
-Gt 	
-Massamuisti 	
-| 	
-8 	
-Gt 	
-Näyttö 	
-| 	
-5 	
-tuumaa 	
-, 	
-960 	
-x 	
-540 	
-, 	
-220 	
-ppi 	
-, 	
-gorilla 	
-glass 	
-3 	
-Pääkamera 	
-| 	
-5 	
-MP 	
-, 	
-f 	
-/ 	
-2,4 	
-, 	
-kenno 	
-1 	
-/ 	
-4 	
-tuumaa 	
-, 	
-led-salama 	
-Kakkoskamera 	
-| 	
-5 	
-MP 	
-, 	
-f 	
-/ 	
-2,4 	
-Koko 	
-| 	
-14,0 	
-x 	
-7,2 	
-x 	
-0,9 	
-cm 	
-Paino 	
-| 	
-146 	
-g 	
-4g 	
-lte 	
-| 	
-ei 	
-Nfc 	
-| 	
-ei 	
-Akku 	
-| 	
-irrotettava 	
-1905 	
-mAh 	
-Ilmoitettu 	
-puheaika 	
-| 	
-13 	
-h 	
-( 	
-3g 	
-) 	
-Sim 	
-| 	
-mikro-sim 	
- 	
 <HEADLINE> 	
 Googlen  	org
 " 	
@@ -25574,9 +25260,7 @@ hämmennystä
 . 	
  	
 <PARAGRAPH> 	
-Google  	misc
-+  	misc
--viestin  	misc
+Google+-viestin	misc
 mukaan 	
 yhtiössä 	
 on 	
@@ -25784,40 +25468,6 @@ Geckler  	per
 kävi 	
 Suomessa  	loc
 . 	
- 	
-<PARAGRAPH> 	
-! 	
- 	
-[ 	
-] 	
-( 	
-/ 	
-showImage 	
-. 	
- 	
-php 	
-? 	
- 	
-imageId 	
-= 	
-73993 	
-) 	
- 	
-<PARAGRAPH> 	
-Yotaphone  	pro
-2:n  	pro
-kakkosnäytön 	
-näkymiä 	
-voidaan 	
-säätää 	
-erillisessä 	
-sovelluksessa 	
-. 	
- 	
-Kuva 	
-: 	
-Marko  	per
-Sorsa  	per
  	
 <PARAGRAPH> 	
 Ihan 	
@@ -26160,7 +25810,7 @@ lääkärien
 kutsuvan 	
 istumista 	
 " 	
-uudeksi 	
+uudeksi 	tim
 syöväksi 	
 " 	
 . 	
@@ -26445,8 +26095,7 @@ Viime  	tim
 vuonna  	tim
 toimitettiin 	
 yhteensä 	
-720 	
-000 	
+720 000	
 Android  	pro
 Wear  	pro
 -laitetta  	pro
@@ -26459,7 +26108,7 @@ julkisti
 kuusi 	
 eri 	
 älykelloa 	
-14 	
+14 	tim
 kuukauden  	tim
 aikana  	tim
 , 	
@@ -26543,7 +26192,9 @@ jotka
 tulivat 	
 markkinoille 	
 vuona  	tim
-2013.  	tim
+2013	tim
+.	
+	
 Canalys  	org
 näkee 	
 Pebblen  	org
@@ -26738,8 +26389,8 @@ Mosherin  	per
 kertomaan 	
 kauko-ohjattavista 	
 lennokeista 	
-sen 	btim
-jälkeen 	tim
+sen 	
+jälkeen 	
 , 	
 kun 	
 yksi 	
