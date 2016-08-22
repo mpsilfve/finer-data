@@ -10159,7 +10159,7 @@ mukaan
 <PARAGRAPH> 	
 San  	loc
 Franciscon  	loc
-puolitoistavuotinen 	
+puolitoistavuotinen 	tim
 pilotti 	
 sallii 	
 yksityisten 	
@@ -10286,9 +10286,7 @@ metreillä
 <PARAGRAPH> 	
 Kongessin 	
 budjettiviraston 	
-CBO  	org
-:  	org
-n  	org
+CBO:n	org
 arvion 	
 mukaan 	
 Obamacare  	pro
@@ -10340,9 +10338,7 @@ Post  	org
 . 	
  	
 <PARAGRAPH> 	
-CBO  	org
-:  	org
-n  	org
+CBO:n	org
 mukaan 	
 Obamacare-lain  	pro
 ansiosta 	
@@ -10390,9 +10386,7 @@ ennustama
 miljoonaa 	
 . 	
  	
-CBO  	org
-:  	org
-n  	org
+CBO:n	org
 mukaan 	
 tämä 	
 johtuu 	
@@ -10451,9 +10445,7 @@ vielä
 tekemistä 	
 . 	
  	
-CBO  	org
-:  	org
-n  	org
+CBO:n	org
 mukaan 	
 tänä  	tim
 vuonna  	tim
@@ -10882,14 +10874,7 @@ nurin
 <INGRESS> 	
 IPad-omistajien  	misc
 tietoja 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 järjestelmistä 	
 kaivanut 	
 hakkeri 	
@@ -10909,9 +10894,9 @@ kysymyksen
 <BODY> 	
 <PARAGRAPH> 	
 Andrew  	per
-"  	per
+"  	
 Weev  	per
-"  	per
+"  	
 Auernheimerin  	per
 jo 	
 käynnissä 	
@@ -10945,14 +10930,7 @@ tempauksessa
 jossa 	
 osoitettiin 	
 teleyhtiö 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 verkkosivujen 	
 onneton 	
 suojaus 	
@@ -10966,8 +10944,7 @@ hän
 nappasi 	
 verkosta 	
 noin 	
-120 	
-000 	
+120 000	
 iPad-ostajan  	misc
 sähköpostiosoitteet 	
 ja 	
@@ -11055,7 +11032,7 @@ jonka
 uudistamista 	
 on 	
 vaadittu 	
-pitkään 	
+pitkään 	tim
 . 	
  	
 Mutta 	
@@ -11221,8 +11198,7 @@ ei
 edistä 	
 luontomatkailua 	
 , 	
-t 	
-iedotteessa 	
+tiedotteessa	
 sanotaan 	
 . 	
  	
@@ -11962,8 +11938,7 @@ muun
 muassa 	
 Wall  	org
 Street  	org
-Journali  	org
-n  	org
+Journalin	org
 mukaan 	
 . 	
  	
@@ -12157,8 +12132,7 @@ että
 Twitterin  	pro
 suurimpiin 	
 vastustajiin 	
-lukeut 	
-uu 	
+lukeutuu	
 pääministeri  	tit
 Recep  	per
 Tayyip  	per
@@ -12213,8 +12187,7 @@ muun
 muassa 	
 Los  	org
 Angeles  	org
-Tim  	org
-es  	org
+Times	org
 . 	
  	
 <PARAGRAPH> 	
@@ -12250,7 +12223,7 @@ lukea
 3.4.2014 15:52 	
  	
 <INGRESS> 	
-Nettipoliisi 	
+Nettipoliisi 	tit
 Marko  	per
 Forssin  	per
 mukaan 	
@@ -12270,11 +12243,11 @@ rutiininomaisesti
  	
 <BODY> 	
 <PARAGRAPH> 	
-Nettipoliisi 	
+Nettipoliisi 	tit
 Marko  	per
-"  	per
+"  	
 Fobba  	per
-"  	per
+"  	
 Forss  	per
 otti 	
 tänään  	tim
@@ -12380,7 +12353,7 @@ on
 muun 	
 muassa 	
 17-vuotiaan  	tim
-viikonloppusuunnitelmien 	btim
+viikonloppusuunnitelmien 	
 urkkiminen 	
 sekä 	
 sen 	
@@ -12514,8 +12487,7 @@ autoista
 . 	
  	
 Sen 	
-1 	
-493 	
+1 493	
 myytyä 	
 ajoneuvoa 	
 jättää 	
@@ -12533,8 +12505,7 @@ Asiasta
 uutisoivat 	
 muun 	
 muassa 	
-ITbusinessne  	org
-t  	org
+ITbusinessnet  	org
 ja 	
 Wall  	org
 Street  	org
@@ -12562,14 +12533,15 @@ hallussa
 kun 	
 sitä 	
 myytiin 	
-1 	
-454 	
+1 454	
 kappaletta 	
 yhden  	tim
 kuukauden  	tim
 aikana  	tim
 vuonna  	btim
-1986.  	tim
+1986	tim
+.	
+	
 Teslan  	org
 Model  	pro
 S  	pro
@@ -12675,8 +12647,7 @@ veroedun
 arvo 	
 voi 	
 nousta 	
-90 	
-000 	
+90 000	
 euroon 	
 eli 	
 olla 	
@@ -12699,17 +12670,14 @@ vuoden  	tim
 loppuun  	tim
 saakka  	tim
 tai 	
-siihen 	btim
-saakka 	tim
+siihen 	
+saakka 	
 , 	
 kunnes 	
 sähköautojen 	
 lukumäärä 	
 nousee 	
-50 	
-000 	
-: 	
-een 	
+50 000:een	
 . 	
  	
 Tällä  	tim
@@ -12717,8 +12685,7 @@ hetkellä  	tim
 Norjassa  	loc
 on 	
 rekisteröity 	
-26 	
-000 	
+26 000	
 sähköautoa 	
 . 	
  	
@@ -13287,9 +13254,9 @@ Nasa  	org
 ei 	
 ollut 	
 vielä 	
-tämän 	
-uutisen 	
-tekohetkellä 	
+tämän 	tim
+uutisen 	tim
+tekohetkellä 	tim
 kommentoinut 	
 The  	org
 Vergen  	org
@@ -13524,8 +13491,7 @@ vaihtelevat
 yleensä 	
 500 	
 ja 	
-15 	
-000 	
+15 000	
 dollarin 	
 välillä 	
 . 	
@@ -14016,7 +13982,8 @@ oltava
 peruutuskamera 	
 viimeistään  	tim
 vuonna  	tim
-2018.  	tim
+2018	tim
+.	
  	
 <BODY> 	
 <PARAGRAPH> 	
@@ -14035,9 +14002,7 @@ määräyksiä
 ennen 	
 liittovaltion 	
 liikenneturvallisuusviraston 	
-NHTSA  	org
-:  	org
-n  	org
+NHTSA:n	org
 ( 	
 National  	org
 Highway  	org
@@ -14137,8 +14102,7 @@ mukaan
 peruutusonnettomuuksissa 	
 loukkaantuu 	
 vuosittain  	tim
-15 	
-000 	
+15 000	
 ihmistä 	
 ja 	
 kuolee 	
@@ -14165,8 +14129,7 @@ vuosittain  	tim
 15 	
 kuolemantapausta 	
 ja 	
-1 	
-125 	
+1 125	
 loukkaantumista 	
 . 	
  	
@@ -14558,11 +14521,7 @@ oli
 estettävä 	
 asiakkaidensa 	
 pääsy 	
-Kino  	pro
-.  	pro
-pro 	
-to  	pro
--piraattisivustolle  	pro
+Kino.to-piraattisivustolle	pro
 . 	
  	
 UPC  	org
@@ -14683,8 +14642,10 @@ hashtagiä
 joka 	
 käännettynä 	
 kuuluu 	
+“	
 ”äänestä 	
-parittajaa” 	
+parittajaa	
+”	
 , 	
 BBC  	org
 uutisoi 	
@@ -14694,10 +14655,7 @@ uutisoi
 Kairossa  	loc
 on 	
 samalla 	
-# 	
-äänestä 	
-parittajaa 	
--viestillä 	
+#äänestä parittajaa-viestillä	
 tuhrittu 	
 myös 	
 Abdul  	per
@@ -14842,43 +14800,22 @@ listan
 : 	
  	
 <PARAGRAPH> 	
-1 	
-\ 	
-. 	
- 	
+1.	
 Vappu  	tim
-2 	
-\ 	
-. 	
- 	
+2.	
 Vappu  	tim
 2014  	tim
-3 	
-\ 	
-. 	
- 	
+3.	
 Bob  	per
 Hoskins  	per
-4 	
-\ 	
-. 	
- 	
+4.	
 Donald  	per
 Sterling  	per
-5 	
-\ 	
-. 	
- 	
+5.	
 Vipukirves  	pro
-6 	
-\ 	
-. 	
- 	
+6.	
 S-market  	org
-7 	
-\ 	
-. 	
- 	
+7.	
 Real  	org
 Madrid  	org
  	
@@ -14890,7 +14827,7 @@ melko
 itsestäänselviä 	
 . 	
  	
-Näyttelijä 	
+Näyttelijä 	tit
 Bob  	per
 Hoskinsin  	per
 kuolema 	
@@ -14902,7 +14839,7 @@ NBA-koripallojoukkueen  	misc
 omistaja  	tit
 Donald  	per
 Sterlingin  	per
-elinikäisestä 	
+elinikäisestä 	tim
 toimitsijakiellosta 	
 selittää 	
 nelosen 	
@@ -14960,14 +14897,14 @@ Jälkimmäinen
 selittyy 	
 miehen 	
 kuoleman 	
-20-vuotispäivällä  	tim
+20-vuotispäivällä  	
 . 	
  	
 Edellinen 	
 puolestaan 	
 kertonee 	
 suomalaisten 	
-vapunjälkeisistä 	
+vapunjälkeisistä 	tim
 tarpeista 	
 . 	
  	
@@ -15121,8 +15058,7 @@ mutta
 Pohjois-Amerikassa  	loc
 kyse 	
 on 	
-37 	
-400 	
+37 400	
 akusta 	
 . 	
  	
@@ -15234,23 +15170,23 @@ Edge  	pro
 * 	
 Lisävarusteiden 	
 osanumerot 	
-43R9255 	
+43R9255 	pro
 , 	
-51J0500 	
+51J0500 	pro
 , 	
-57Y4186 	
+57Y4186 	pro
 , 	
-57Y4564 	
+57Y4564 	pro
 , 	
-57Y4565 	
+57Y4565 	pro
 , 	
-57Y4625 	
+57Y4625 	pro
 , 	
-57Y4559 	
+57Y4559 	pro
 , 	
-43R9254 	
+43R9254 	pro
 , 	
-0A36277 	
+0A36277 	pro
  	
 <HEADLINE> 	
 Mitä 	
@@ -15272,10 +15208,7 @@ TVkaistan  	org
 konkurssipesä 	
 on 	
 sulkenut 	
-TVkaista 	
-. 	
- 	
-fi-osoitteen 	
+TVkaista.fi-osoitteen	
 , 	
 mutta 	
 palvelun 	
@@ -15301,15 +15234,10 @@ pyörittää
  	
 <BODY> 	
 <PARAGRAPH> 	
-Tvkaista 	
-. 	
- 	
-fi 	
--verkko-osoitteesta 	
+Tvkaista.fi-verkko-osoitteesta	
 löytyy 	
 vain 	
-cgi-bin 	
--hakemiston 	
+cgi-bin-hakemiston	
 linkki 	
 . 	
  	
@@ -15321,11 +15249,7 @@ lakimiehen  	tit
 Heikki  	per
 Aaltosen  	per
 mukaan 	
-tvkaista 	
-. 	
- 	
-fi 	
--osoite 	
+tvkaista.fi-osoite	
 on 	
 suljettu 	
 hänen 	
@@ -15391,11 +15315,7 @@ korvausvaatimuksista
  	
 <PARAGRAPH> 	
 Käytännössä 	
-Tvkaista  	pro
-.  	pro
-pro 	
-fi  	pro
--palvelun  	pro
+Tvkiasta.fi-palvelun	pro
 sivuille 	
 pääsee 	
 yhä 	
@@ -15423,11 +15343,7 @@ toiminut
 aiemminkin 	
 , 	
 mutta 	
-tvkaista 	
-. 	
- 	
-fi 	
--verkko-osoite 	
+tvkaista.fi-verkko-osoite	
 ei 	
 enää 	
 vie 	
@@ -15436,11 +15352,7 @@ sivuille
 . 	
  	
 <PARAGRAPH> 	
-Tvkaista  	pro
-.  	pro
-pro 	
-fi  	pro
--palvelun  	pro
+Tvkaista.fi-pavelun	pro
 ylläpitäjät 	
 ovat 	
 tänään  	tim
@@ -15485,11 +15397,7 @@ korjaantunut
 Joidenkin 	
 Facebook-kommenttien  	msc
 perusteella 	
-Tvkaista  	pro
-.  	pro
-pro 	
-fi  	pro
--sivusto  	pro
+Tvkaista.fi-sivusto	pro
 kyllä 	
 näkyy 	
 ip-osoitteen 	
@@ -15506,11 +15414,7 @@ ohjelmia
 . 	
  	
 <PARAGRAPH> 	
-Tvkaista 	
-. 	
- 	
-fi 	
--osoitteen 	
+Tvkaista.fi-osoitteen	
 omistava 	
 TVKaista  	org
 Oy  	org
@@ -15533,11 +15437,7 @@ TVKaista  	org
 Oy:n  	org
 olevan 	
 yhteydessä 	
-Tvkaista  	pro
-.  	pro
-pro 	
-fi  	pro
--palveluun  	pro
+Tvkaista.fi-palveluun	pro
 . 	
  	
 <PARAGRAPH> 	
@@ -15615,11 +15515,7 @@ nykyään  	tim
 . 	
  	
 <PARAGRAPH> 	
-Tvkaista  	pro
-.  	pro
-pro 	
-fi  	pro
--palvelun  	pro
+Tvkaista.fi-palvelun	pro
 lopettamisesta 	
 kertoi 	
 ensimmäisenä 	
@@ -15668,10 +15564,7 @@ johtamasta
 ja 	
 monen 	
 yhteistyökumppanin 	
-Internet  	org
-.  	org
-org 	
-org-hankkeesta  	org
+Internet.org-hankkeesta	pro
 nettiyhteyksien 	
 tarjoamiseksi 	
 miljardeille 	
@@ -15829,10 +15722,7 @@ kyllä
 mainitsi 	
 , 	
 että 	
-Internet  	org
-.  	org
-org 	
-orgiin  	org
+Internet.orgiin	org
 on 	
 liittynyt 	
 toisen 	
@@ -15846,10 +15736,7 @@ mukaan
 Facebook  	org
 olisi 	
 ostamassa 	
-tämän 	
-( 	
-kin 	
-) 	
+tämän(kin)	
 firman 	
 . 	
  	
@@ -15912,7 +15799,6 @@ jakaa
 ( 	
 kenties 	
 ? 	
- 	
 ) 	
 vähemmän 	
 pelottelevasti 	
@@ -16229,14 +16115,12 @@ toisella  	tim
 puoliskolla  	tim
 17 	
 maasta 	
-21 	
-400 	
+21 400	
 tiedonluovutuspyyntöä 	
 , 	
 jotka 	
 koskivat 	
-32 	
-500 	
+32 500	
 tiliä 	
 . 	
  	
@@ -16261,9 +16145,7 @@ tai
 ulkomaantiedustelua 	
 vahtivan 	
 tuomioistuimen 	
-FISA  	org
-:  	org
-n  	org
+FISA:n	org
 hyväksymät 	
 salaiset 	
 pyynnöt 	
@@ -16285,11 +16167,9 @@ kappaletta
 , 	
 jotka 	
 koskivat 	
-30 	
-000 	
+30 000	
 – 	
-33 	
-000 	
+33 000	
 tiliä 	
 . 	
  	
@@ -16303,14 +16183,12 @@ aikana  	tim
 Yahoo  	org
 sai 	
 viranomaisilta 	
-29 	
-700 	
+29 700	
 tietopyyntöä 	
 , 	
 jotka 	
 koskivat 	
-62 	
-800 	
+62 800	
 tiliä 	
 . 	
  	
@@ -16344,22 +16222,18 @@ Alkuvuodesta  	tim
 viranomaiset 	
 esittivät 	
 sille 	
-25 	
-900 	
+25 900	
 tietopyyntöä 	
-42 	
-500 	
+42 500	
 tilistä 	
 . 	
  	
 Loppuvuonna  	tim
 pyyntöjä 	
 tuli 	
-27 	
-500 	
+27 500	
 yhteensä 	
-42 	
-600 	
+42 600	
 tilistä 	
 . 	
  	
@@ -16376,7 +16250,7 @@ salaisia
 luovutuspyyntöjä 	
 kummankaan  	tim
 vuosipuoliskon  	tim
-luvuissa  	tim
+luvuissa  	
 . 	
  	
 <HEADLINE> 	
@@ -16742,8 +16616,7 @@ esiintyi
 Twitterin  	pro
 estämisen 	
 ehdottomana 	
-kannattajan 	
-a 	
+kannattajana	
 . 	
  	
 <PARAGRAPH> 	
@@ -16768,7 +16641,7 @@ toteutuksessa
 . 	
  	
 <HEADLINE> 	
-Mp3-miehelle 	
+Mp3-miehelle 	misc
 jättimäinen 	
 tuomio 	
 — 	
@@ -16977,36 +16850,11 @@ meni
 konkurssiin 	
 ] 	
 ( 	
-http 	
-: 	
-/ 	
-/ 	
-www 	
-. 	
- 	
-digitoday 	
-. 	
- 	
-fi 	
-/ 	
-bisnes 	
-/ 	
-2012 	
-/ 	
-05 	
-/ 	
-11 	
-/ 	
-mp3-mies-epaonnistui-taas- 	
--palvelu- 	
-konkkaan 	
-/ 	
-201229213 	
-/ 	
-66 	
+http://www.digitoday.fi/bisnes/2012/05/11/mp3-mies-epaonnistui-taas-pavelu-konkkaan/201229213/66 	
 ) 	
 vuonna  	tim
-2012.  	tim
+2012	tim
+.	
  	
 <PARAGRAPH> 	
 Korvaussummasta 	
@@ -17021,9 +16869,7 @@ Reuters  	org
 USA  	loc
 aikoo 	
 rajoittaa 	
-NSA  	org
-:  	org
-ta  	org
+NSA:ta	org
 — 	
 laiha 	
 lohtu 	
@@ -17037,9 +16883,7 @@ Uusi 	btim
 lakiehdotus 	
 pyrkii 	
 rajoittamaan 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 tekemää 	
 puhelujen 	
 urkintaa 	
@@ -17050,9 +16894,7 @@ Laki
 ei 	
 kuitenkaan 	
 rajoita 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 teleurkintaa 	
 muualla 	
 maailmassa 	
@@ -17071,9 +16913,7 @@ lakia
 joka 	
 rajoittaisi 	
 turvallisuusvirasto 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 oikeutta 	
 tallentaa 	
 yhdysvaltalaisten 	
@@ -17141,9 +16981,7 @@ Street  	org
 Journal  	org
 -sanomalehden  	org
 mukaan 	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 tarvitsisi 	
 kuitenkin 	
 hakea 	
@@ -17178,9 +17016,7 @@ vain
 Yhdysvaltoja  	loc
 . 	
  	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 tietojenkeruuta 	
 muualla 	
 maailmassa 	
@@ -17192,9 +17028,7 @@ rajoita
  	
 <HEADLINE> 	
 Kiina  	loc
-NSA  	org
-:  	org
-sta  	org
+NSA:sta	org
 : 	
 Yhdysvalloilla  	loc
 selityksen 	
@@ -17254,9 +17088,7 @@ poliittista
 johtoa 	
 . 	
  	
-NSA  	org
-:  	org
-n  	org
+NSA:n	org
 väitetään 	
 tunkeutuneen 	
 Huawein  	org
@@ -17559,7 +17391,8 @@ voimaan
 1.  	tim
 tammikuuta  	tim
 vuonna  	tim
-2015.  	tim
+2015	tim
+.	
  	
 <PARAGRAPH> 	
 – 	
@@ -17796,10 +17629,7 @@ puutteita
 . 	
  	
 <HEADLINE> 	
-E  	pro
-.  	pro
-pro 	
-T:n  	pro
+E.T:n	pro
 kirous 	
 : 	
 Älä 	
@@ -17817,9 +17647,9 @@ yrittää
 kenties 	
 viestittää 	
 jotain 	
-nykyajan 	
-indiana  	per
-joneseille  	per
+nykyajan 	tim
+indiana  	
+joneseille  	
 . 	
  	
 Viranomaiset 	
@@ -17885,8 +17715,8 @@ Tavoitteena
 on 	
 hankkia 	
 materiaalia 	
-tulevaan 	
-dokumenttielokuvaan  	tim
+tulevaan 	tim
+dokumenttielokuvaan  	
 , 	
 joka 	
 kertoo 	
@@ -17897,7 +17727,8 @@ suuresta
 pelien 	
 hautaamisesta 	
 vuonna  	tim
-1983.  	tim
+1983	tim
+.	
  	
 <PARAGRAPH> 	
 – 	
@@ -18111,17 +17942,14 @@ Karppi  	per
 <PARAGRAPH> 	
 Karpin  	per
 väitöskirja 	
-"  	pro
-Disconnect  	pro
-.  	pro
-pro 	
-Me  	pro
+"  	
+Disconnect.Me	pro
 -  	pro
 User  	pro
 Engagement  	pro
 and  	pro
 Facebook  	pro
-"  	pro
+"  	
 pohtii 	
 sitä 	
 , 	
@@ -18571,9 +18399,7 @@ sopimusrikkomuksesta
 Syytteen 	
 on 	
 nostanut 	
-UFC  	org
-:  	org
-n  	org
+UFC:n	org
 emoyhtiö 	
 Zuffa  	org
 , 	
@@ -18581,8 +18407,7 @@ joka
 vaatii 	
 vaatii 	
 korvauksia 	
-79 	
-000 	
+79 000	
 euroa 	
 tallenteelta 	
 sekä 	
@@ -18838,8 +18663,7 @@ Euroopan  	org
 parlamentti  	org
 hyväksyi 	
 viime  	tim
-vii  	tim
-kolla  	tim
+viikolla	tim
 melkein 	
 yksimielisesti 	
 elimen 	
@@ -18868,8 +18692,7 @@ yhteisestä
 laturista 	
 ratkaisua 	
 " 	
-kaa 	
-pelikaaokseen 	
+kaapelikaaokseen	
 " 	
 . 	
  	
@@ -19037,7 +18860,7 @@ joo
 <PARAGRAPH> 	
 Suomalaisia 	
 kiusataan 	
-entistä 	
+entistä 	tim
 useammalla 	
 huijausviestillä 	
 , 	
@@ -19091,12 +18914,7 @@ viestin
 lähettäjäksi 	
 on 	
 väärennetty 	
-vero 	
-@ 	
-vero 	
-. 	
- 	
-fi 	
+vero@vero.fi	
 . 	
  	
 Onneksi 	
@@ -19384,9 +19202,9 @@ vankeustuomionsa
 <BODY> 	
 <PARAGRAPH> 	
 Andrew  	per
-"  	per
+"  	
 Weev  	per
-"  	per
+"  	
 Auernheimerin  	per
 lakitiimin 	
 oli 	
@@ -19409,14 +19227,7 @@ Tuomio
 oli 	
 seurausta 	
 teleyhtiö 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-n  	org
+AT&amp;T;:n	org
 bugista 	
 , 	
 jota 	
@@ -19493,7 +19304,7 @@ eivät
 enää 	
 uskalla 	
 ilmoittaa 	
-entiseen 	
+entiseen 	tim
 tapaan 	
 löytämistään 	
 haavoittuvuuksista 	
@@ -19513,14 +19324,7 @@ pitänyt
 ensin 	
 paljastaa 	
 löytönsä 	
-AT  	org
-&  	org
-amp  	org
-;  	org
-T  	org
-;  	org
-:  	org
-lle  	org
+AT&amp;T;:lle	org
 journalistin 	
 sijaan 	
 . 	
@@ -20132,7 +19936,7 @@ päätynyttä
 valamiehistöä 	
 . 	
  	
-Silloin 	btim
+Silloin 	
 valamiehistö 	
 käsitteli 	
 asiaa 	
@@ -20158,8 +19962,7 @@ Viikoittain  	tim
 suomeksi 	
 tviittaa 	
 noin 	
-40 	
-000 	
+40 000	
 Twitter-käyttäjää  	misc
 . 	
  	
@@ -20194,8 +19997,7 @@ Suomi-Twitter-seurannan  	misc
 lukujen 	
 mukaan 	
 kaikkiaan 	
-200 	
-146 	
+200 146	
 eri 	
 Twitter-käyttäjää  	misc
 on 	
@@ -20220,8 +20022,7 @@ on
 noin 	
 tällä  	tim
 hetkellä  	tim
-40 	
-000 	
+40 000	
 . 	
  	
 Määrä 	
@@ -20242,8 +20043,7 @@ vuoden  	tim
 toukokuussa  	tim
 Twitterissä  	pro
 oli 	
-64 	
-000 	
+64 000	
 rekisteröitynyttä 	
 suomalaiskäyttäjää 	
 , 	
