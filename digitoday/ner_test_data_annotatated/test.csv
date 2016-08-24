@@ -2321,7 +2321,7 @@ liittoutunut
 “	
 Kiinan  	B-LOC
 Google	B-ORG
-“	
+”	
 Baidu  	B-ORG
 .	
 	
@@ -6747,8 +6747,10 @@ valinta
 myöhemmin  	B-TIM
 rajattiin	
 15	
-“uuteen	
-kasvoon”	
+“	
+uuteen	
+kasvoon	
+”	
 .	
 	
 Viime  	B-TIM
@@ -7316,7 +7318,7 @@ liittoutunut
 “	
 Kiinan	B-LOC
 Google	B-ORG
-“	
+”	
 Baidu  	B-ORG
 .	
 	
@@ -11556,7 +11558,7 @@ aio
 edetä	
 viestimistä	
 pidemmälle	
-“	
+”	
 .	
 	
 Jos	
@@ -11840,8 +11842,10 @@ lisenssien
 omistajat	
 saavat	
 ladata	
-“viimeinen	
-käyttöjärjestelmäksi”	
+“	
+viimeiseksi	
+käyttöjärjestelmäksi	
+”	
 kutsutun	
 Windows  	B-PRO
 10:n  	I-PRO
@@ -13550,7 +13554,7 @@ sanomalla
 “	
 Hey	
 Cortana	B-PRO
-“	
+”	
 ,	
 joka	
 on	
@@ -19225,7 +19229,9 @@ tähän  	B-TIM
 asti  	I-TIM
 suljettuina	
 pitämien	
-“puutarhojen”	
+“	
+puutarhojen	
+”	
 välillä	
 .	
 	
@@ -23421,7 +23427,7 @@ omalla
 “	
 oikeuden	
 ystävä	
-“	
+”	
 -lausunnollaan	
 .	
 	
@@ -30235,8 +30241,7 @@ sulkevansa
 sovellusliittymän	
 Open  	B-PRO
 State  	I-PRO
-Founda  	I-PRO
-tionin  	I-PRO
+Foundationin	I-PRO
 Britanniassa  	B-LOC
 ja	
 29	
@@ -30485,7 +30490,7 @@ https-osoitetta	B-MISC
 .	
 	
 Venäjän  	B-LOC
-Wikipedia  	B-PRO
+Wikipedia  	B-ORG
 ilmoitti	
 valittavansa	
 päätöksestä	
@@ -30557,7 +30562,7 @@ tulee
 voimaan	
 .	
 	
-Wikipedialla  	B-PRO
+Wikipedialla  	B-ORG
 on	
 sulkemisen	
 varalta	
@@ -33875,13 +33880,13 @@ tykkääjää
 Kuten	
 “	
 Tekniikkamaailman	B-ORG
-“	
+”	
 tapauksessa	
 ,	
 myöskään	
 “	
 Tekniikkakeskus	B-ORG
-“	
+”	
 ei	
 ilmoita	
 ylläpitäjiensä	
@@ -33936,7 +33941,7 @@ KitchenAid-tuotepaketin  	B-PRO
 “	
 täydellisen	
 Apple-paketin	B-MISC
-“	
+”	
 ,	
 Samsungin  	B-ORG
 älytelevision	
@@ -34111,15 +34116,15 @@ vaarantuneen
 Belkin-reitittimen  	B-PRO
 tyyppinumero	
 on	
-F9K1102	
-v2	
+F9K1102	B-PRO
+v2	I-PRO
 ,	
 ja	
 sen	
 laiteohjelmiston	
 versio	
 on	
-2.10.17	
+2.10.17	B-PRO
 tai	
 mahdollisesti	
 aikaisempi  	B-TIM
@@ -34588,9 +34593,7 @@ Windows-tiedostojärjestelmään  	B-PRO
 se	
 on	
 saanut	
-Gozi  	B-PRO
-/  	I-PRO
-ISFB-troijalaiselta  	I-PRO
+Gozi/ISFB-troijalaiselta	B-PRO
 .	
 	
 Conficker-troijalaiselta  	B-PRO
@@ -36039,11 +36042,11 @@ palkkigraafeja
 otsikoilla	
 “	
 tuottavuus	
-“	
+”	
 ja	
 “	
 ajankäyttö	
-“	
+”	
 .	
 	
 Vastaavia	
@@ -38872,7 +38875,7 @@ lopussa  	I-TIM
 .	
 	
 <HEADLINE>	
-MTV  	B-PRO
+MTV  	B-ORG
 :	
 Nokian  	B-ORG
 kiristäjä	
@@ -41692,7 +41695,7 @@ Microsoftille  	B-ORG
 siirtyneitä	
 “	
 tavallisia	
-“	
+”	
 ja	
 feature-matkapuhelimia	
 myydään	
@@ -47895,7 +47898,8 @@ pääsee
 pelaamaan	
 —	
 saadaanko	
-seuraavaksiPong  	B-PRO
+seuraavaksi	
+Pong	B-PRO
 ?	
 	
 <DATE>	
@@ -48450,7 +48454,7 @@ Ryhmän
 olemassaolosta	
 ensimmäisenä	
 kertonut	
-Keskisuomalainen-lehti  	B-PRO
+Keskisuomalainen-lehti  	B-ORG
 kertoi	
 eilen  	B-TIM
 tehneensä	
