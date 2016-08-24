@@ -1237,13 +1237,13 @@ Microsoftille  	B-ORG
 Maailman		
 toiseksi		
 suurin		
-pc-valmistaja		
+pc-valmistaja	B-MISC	
 ,		
 amerikkalainen		
 Hewlett-Packard  	B-ORG	
 palaa		
 menneisyyteen		
-pc-tarjonnassaan		
+pc-tarjonnassaan	B-MISC	
 ja		
 näyttää		
 samalla		
@@ -1257,7 +1257,7 @@ HP  	B-ORG
 on		
 ryhtynyt		
 tarjoamaan		
-pc-laitteitaan		
+pc-laitteitaan	B-PRO	
 Windows-käyttöjärjestelmän  	B-PRO	
 versiolla  	I-PRO	
 7  	I-PRO	
@@ -1317,7 +1317,7 @@ pyynnöstä
 Maailman		
 toiseksi		
 suurimman		
-pc-valmistajan		
+pc-valmistajan	B-MISC	
 osoittama		
 kaupallinen		
 hyljeksintä		
@@ -1354,7 +1354,7 @@ sekoittaa
 kosketusnäyttöisten		
 ja		
 perinteisten		
-pc-laitteiden		
+pc-laitteiden	B-PRO	
 käyttöliittymää		
 .		
 		
@@ -1431,7 +1431,7 @@ yksikköön
 integroituja		
 all-in-one		
 -		
-pc-laitteita		
+pc-laitteita	B-PRO	
 ,		
 päänäkyvyys		
 on		
@@ -1444,7 +1444,7 @@ HP  	B-ORG
 on		
 toistaiseksi  	B-TIM	
 ainoa		
-pc-valmistaja		
+pc-valmistaja	B-MISC	
 ,		
 joka		
 on		
@@ -2187,7 +2187,7 @@ neljänneksellä  	I-TIM
 edellisvuodesta  	B-TIM	
 ,		
 vaikka		
-pc-koneiden		
+pc-koneiden	B-PRO	
 myynti		
 jatkoikin		
 laskuaan		
@@ -2237,7 +2237,7 @@ ovat
 siirtymässä		
 yhä		
 enemmän		
-pc-tietokoneista		
+pc-tietokoneista	B-PRO	
 älypuhelinten		
 ja		
 tablettien		
@@ -2251,13 +2251,13 @@ vaikea
 enää	B-TIM	
 saada		
 kasvua		
-pc-koneissa		
+pc-koneissa	B-PRO	
 käytettävistä		
 puolijohteista		
 .		
 		
 Intelin  	B-ORG	
-pc-siruja		
+pc-siruja	B-MISC	
 valmistavan		
 yksikön		
 liikevaihto		
@@ -2279,7 +2279,7 @@ on
 arvioinut		
 ,		
 että		
-pc-koneiden		
+pc-koneiden	B-PRO	
 maailmanlaajuinen		
 myynti		
 väheni		
@@ -4595,7 +4595,7 @@ kummoisina
 <HEADLINE>		
 Microsoftin  	B-ORG	
 lääke		
-pc-ahdinkoon		
+pc-ahdinkoon	B-MISC	
 osoittautui		
 myrkyksi		
 		
@@ -4607,7 +4607,7 @@ Microsoftin  	B-ORG
 Windows  	B-PRO	
 8  	I-PRO	
 epäonnistui		
-pc-markkinoiden		
+pc-markkinoiden	B-MISC	
 parantamisessa		
 ja		
 aiheutti		
@@ -4641,7 +4641,7 @@ Windows  	B-PRO
 8:n  	I-PRO	
 piti		
 nostaa		
-pc-markkinat		
+pc-markkinat	B-MISC	
 siitä		
 syvästä		
 suosta		
@@ -4660,7 +4660,7 @@ sakkasi
 ,		
 kun		
 uudet 	B-TIM	
-pc:t		
+pc:t	B-PRO	
 eivät		
 enää	B-TIM	
 tehneet		
@@ -4681,7 +4681,7 @@ joka
 oli		
 ennen		
 ollut		
-pc:n		
+pc:n	B-PRO	
 lähes		
 yksinoikeus		
 .		
@@ -4705,7 +4705,7 @@ messiasta
 ,		
 joka		
 nostaa		
-pc:n		
+pc:n	B-PRO	
 takaisin		
 sille		
 jalustalle		
@@ -4726,7 +4726,7 @@ käyttöliittymän
 piti		
 motivoida		
 perinteisen		
-pc:n		
+pc:n	B-PRO	
 omistavia		
 sijoittamaan		
 rahaa		
@@ -4754,7 +4754,7 @@ viettämään
 jälleen		
 enemmän		
 aikaa		
-pc:n		
+pc:n	B-PRO	
 parissa		
 ,		
 hän		
@@ -7394,8 +7394,8 @@ tietoisuuteen
 kun		
 se		
 osti		
-IBM:n		
-pc-divisioonan  	B-ORG	
+IBM:n	B-ORG	
+pc-divisioonan  		
 ,		
 jonka		
 toimintaa		
@@ -7583,7 +7583,7 @@ mukaan
 etenkin		
 televisio-		
 ja		
-pc-liiketoiminnan		
+pc-liiketoiminnan	B-MISC	
 haasteet		
 ,		
 jotka		
@@ -7762,9 +7762,9 @@ mitään
 .		
 		
 Kiinalainen		
-pc-		
-ja		
-matkapuhelinvalmistaja		
+pc-	B-MISC	
+ja	I-MISC	
+matkapuhelinvalmistaja	I-MISC	
 Lenovo  	B-ORG	
 maksaa		
 Motorolan  	B-ORG	
@@ -8953,7 +8953,7 @@ Michael  	B-PER
 Comeau  	I-PER	
 katsoi		
 erikoisen		
-pc-lukeman		
+pc-lukeman	B-MISC	
 taakse		
 ja		
 kohtasi		
@@ -9060,7 +9060,7 @@ Yhdysvalloissa  	B-LOC
 liikkui		
 16,1		
 miljoonaa		
-pc:tä		
+pc:tä	B-PRO	
 .		
 		
 Tosin		
@@ -10462,14 +10462,14 @@ Lenovo  	B-ORG
 ohitti		
 HP:n  	B-ORG	
 kutistuvilla		
-pc-markkinoilla		
+pc-markkinoilla	B-MISC	
 		
 <DATE>		
 13.1.2014 10:58		
 		
 <INGRESS>		
 Maailman		
-pc-toimitukset		
+pc-toimitukset	B-MISC	
 kutistuivat		
 viime  	B-TIM	
 vuonna  	I-TIM	
@@ -10494,7 +10494,7 @@ ja
 otti		
 maailman		
 suurimman		
-pc-toimittajan		
+pc-toimittajan	B-MISC	
 aseman		
 .		
 		
@@ -10507,7 +10507,7 @@ valmistuneiden
 alustavien		
 lukujen		
 mukaan		
-pc-toimitusten		
+pc-toimitusten	B-MISC	
 määrä		
 on		
 laskenut		
@@ -10540,7 +10540,7 @@ oli
 miljoonaa		
 .		
 		
-Pc-toimitusten		
+Pc-toimitusten	B-MISC	
 supistuminen		
 koskee		
 erityisesti		
@@ -10553,7 +10553,7 @@ rahansa
 älypuhelimiin		
 ja		
 taulutietokoneisiin		
-pc:iden		
+pc:iden	B-PRO	
 asemesta		
 .		
 		
@@ -16090,7 +16090,7 @@ yksinkertainen
 kysymys		
 ,		
 sillä		
-pc-suorittimien		
+pc-suorittimien	B-MISC	
 teho		
 houkuttelee		
 ,		
@@ -20855,7 +20855,7 @@ laskussa
 Syinä		
 olivat		
 vaisu		
-pc-myynti		
+pc-myynti	B-MISC	
 ,		
 joka		
 rokotti		
@@ -22450,7 +22450,7 @@ dollarilla
 Yksikön		
 yhdistämisestä		
 osaksi		
-pc-yksikköä		
+pc-yksikköä	B-MISC	
 tämän  	B-TIM	
 vuoden  	I-TIM	
 alkupuolella  	I-TIM	
@@ -23040,7 +23040,7 @@ kanssa
 <HEADLINE>		
 Tablettien		
 jyräämät		
-pc:t		
+pc:t	B-PRO	
 rämpivät		
 jaloilleen		
 :		
@@ -23051,7 +23051,7 @@ kasvu
 13.1.2015 13:57		
 		
 <INGRESS>		
-Pc:t		
+Pc:t	B-PRO	
 '		
 nauttivat		
 '		
@@ -23076,7 +23076,7 @@ alustavien
 lukujen		
 mukaan		
 maailman		
-pc-toimitukset		
+pc-toimitukset	B-MISC	
 kasvoivat		
 vuodentakaisesta  	B-TIM	
 yhdellä		
@@ -23104,7 +23104,7 @@ jälkeen
 .		
 		
 –		
-Pc-markkina		
+Pc-markkina	B-MISC	
 on		
 hiljalleen		
 vakautumassa		
@@ -23134,7 +23134,7 @@ suurta
 .		
 		
 Yhdysvalloissa  	B-LOC	
-pc:t		
+pc:t	B-PRO	
 kasvavat		
 parhaiten		
 ,		
@@ -23161,7 +23161,7 @@ ja
 tabletteja		
 .		
 		
-Pc-markkinoita		
+Pc-markkinoita	B-MISC	
 johtaa		
 asemaansa		
 vahvistanut		
@@ -23635,7 +23635,7 @@ jatkunee
 tulevaisuudessakin  	B-TIM	
 .		
 		
-Vpn:ää		
+Vpn:ää	B-PRO	
 ja		
 käyttäjätunnusten		
 lainaamista		
@@ -23679,7 +23679,7 @@ palvelussaan
 käyttäjän		
 alkuperämään		
 salaavien		
-vpn-virtuaaliverkkojen		
+vpn-virtuaaliverkkojen	B-MISC	
 käytön		
 .		
 		
@@ -23737,7 +23737,7 @@ yli
 20		
 miljoonaa		
 Netflixiä  	B-PRO	
-vpn-yhteyden		
+vpn-yhteyden	B-MISC	
 kautta		
 katsovaa		
 asiakasta		
@@ -23822,7 +23822,7 @@ kuitenkaan
 myöskään		
 lyödä		
 rumpua		
-vpn:n		
+vpn:n	B-PRO	
 puolesta		
 ,		
 sillä		
@@ -23849,13 +23849,13 @@ Fool  	I-ORG
 huomauttaa		
 ,		
 että		
-vpn-yhteyksien		
+vpn-yhteyksien	B-MISC	
 estäminen		
 sulkisi		
 pois		
 kaikki		
 tietoturvasyistä		
-vpn:ää		
+vpn:ää	B-PRO	
 käyttävät		
 asiakkaat		
 .		
@@ -23865,7 +23865,7 @@ on
 lähtenyt		
 estämään		
 joitakin		
-vpn-tarjoajien		
+vpn-tarjoajien	B-MISC	
 ip-osoiteavaruuksia		
 ,		
 mutta		
@@ -24771,7 +24771,7 @@ laitteisiin
 mikä		
 on		
 etenkin		
-pc-puolella		
+pc-puolella	B-MISC	
 ollut		
 kova		
 sana		
@@ -29459,7 +29459,7 @@ eli
 samaan  	B-TIM	
 aikaan  	I-TIM	
 kuin		
-dvd-julkaisu		
+dvd-julkaisu	B-MISC	
 .		
 		
 Steiber  	B-PER	
@@ -32746,7 +32746,7 @@ tehnyt
 ja		
 teettänyt		
 ohjelmia		
-pc-koneille		
+pc-koneille	B-MISC	
 .		
 		
 Sillä		
@@ -33779,7 +33779,7 @@ Windows  	B-PRO
 8:lle  	I-PRO	
 ,		
 vaikka		
-pc-myynti		
+pc-myynti	B-MISC	
 nousi		
 viime  	B-TIM	
 vuoden  	I-TIM	
@@ -33793,7 +33793,7 @@ prosenttia
 <BODY>		
 Canalys  	B-ORG	
 laskee		
-pc-lukuihinsa		
+pc-lukuihinsa	B-MISC	
 myös		
 tabletit		
 ,		
@@ -33843,7 +33843,7 @@ huhtikuussa  	B-TIM
 .		
 		
 –		
-Pc-myynti		
+Pc-myynti	B-MISC	
 on		
 kasvu-uralla		
 .		
@@ -33888,7 +33888,7 @@ Tämä
 luo		
 kasvua		
 perinteiselle		
-pc-yritysmyynnille		
+pc-yritysmyynnille	B-MISC	
 .		
 		
 Sen		
@@ -33898,12 +33898,12 @@ tietokoneita
 tavallisille		
 kuluttajille		
 myyvät		
-pc-valmistajat		
+pc-valmistajat	B-MISC	
 kohtaavat		
 ongelmia		
 .		
 		
-Pc-kierrätyksen		
+Pc-kierrätyksen	B-MISC	
 vauhti		
 ei		
 ole		
@@ -33946,7 +33946,7 @@ mennessä
 .		
 		
 Useat		
-pc-käyttäjät		
+pc-käyttäjät	B-MISC	
 ovatkin		
 päättäneet		
 pysytellä		
@@ -33964,7 +33964,7 @@ satsauksia
 uuteen 	B-TIM	
 ja		
 tehokkaampaan		
-pc-rautaan		
+pc-rautaan	B-MISC	
 .		
 		
 Microsoftille  	B-ORG	
@@ -36715,7 +36715,7 @@ toimivat
 Windows  	B-PRO	
 10:tä  	I-PRO	
 ajavissa		
-pöytä-pc:issä		
+pöytä-pc:issä	B-MISC	
 ja		
 kannettavissa		
 ja		
@@ -37283,7 +37283,7 @@ osansa
 maailman		
 suosituimmasta		
 "		
-mini-pc:stä		
+mini-pc:stä	B-MISC	
 "		
 ,		
 minkä		
@@ -39076,7 +39076,7 @@ Nykyisin  	B-TIM
 jopa		
 osan		
 yksityisistä		
-vpn-yhteyksistä		
+vpn-yhteyksistä	B-MISC	
 estävä		
 Kiinan  	B-LOC	
 suuri		
@@ -40252,7 +40252,7 @@ on
 mukana		
 usb-tikulla		
 tai		
-dvd-levyllä		
+dvd-levyllä	B-MISC	
 kulkeva		
 pieni		
 ja		
@@ -40329,7 +40329,7 @@ live-versiona
 esimerkiksi		
 usb-tikulta		
 ,		
-dvd-levyltä		
+dvd-levyltä	B-MISC	
 tai		
 sd-muistikortilta		
 .		
@@ -41172,7 +41172,7 @@ tabletit
 –		
 tai		
 esimerkiksi		
-pc-pelaamista		
+pc-pelaamista	B-MISC	
 virtaviivaistanut		
 Steam-pelipalvelu		
 –		
@@ -43481,7 +43481,7 @@ jota
 ajettiin		
 kahdella		
 identtisellä		
-pc-laitteistolla		
+pc-laitteistolla	B-MISC	
 :		
 toisessa		
 ikkunassa		
@@ -46058,7 +46058,7 @@ mennessä  	I-TIM
 .		
 		
 <HEADLINE>		
-Pc:n		
+Pc:n	B-PRO	
 tai		
 Macin  	B-PRO	
 tietoihin		
@@ -46477,7 +46477,7 @@ tällä  	B-TIM
 hetkellä  	I-TIM	
 maailman		
 asennetuin		
-pc-käyttöjärjestelmä		
+pc-käyttöjärjestelmä	B-MISC	
 .		
 		
 Sen		
@@ -47595,7 +47595,7 @@ suoratoistopalvelu
 kiistää		
 jyrkästi		
 kiristäneensä		
-vpn-estoja		
+vpn-estoja	B-MISC	
 —		
 ja		
 muotoilee		
@@ -50722,7 +50722,7 @@ on
 karvaan		
 tuttu		
 monelle		
-pc-pelaajalle		
+pc-pelaajalle	B-MISC	
 ,		
 joiden		
 suosikkinimikkeet		
@@ -50753,7 +50753,7 @@ tehty
 samaan  	B-TIM	
 aikaan  	I-TIM	
 paitsi		
-pc:lle		
+pc:lle	B-PRO	
 ,		
 myös		
 pienitehoisille		
@@ -53183,7 +53183,7 @@ mobiilikäyttäjille
 ,		
 samalla		
 saadaan		
-pc:t		
+pc:t	B-PRO	
 korvattua		
 mobiililaitteilla		
 .		
@@ -54089,7 +54089,7 @@ osana
 Microsoftin  	B-ORG	
 kanssa		
 käytäviä		
-pc-keskusteluja		
+pc-keskusteluja	B-MISC	
 )		
 myös		
 mobiilisektorilla		
@@ -58502,7 +58502,7 @@ mobiililaitteiden
 hallintajärjestelmiä		
 .		
 		
-Pc-valmistaja		
+Pc-valmistaja	B-MISC	
 Compaqin  	B-ORG	
 HP  	B-ORG	
 hankki		
@@ -58708,7 +58708,7 @@ FCC  	B-ORG
 veti		
 pois		
 toimiluvan		
-gps-teollisuuden		
+gps-teollisuuden	B-MISC	
 painostuksesta		
 .		
 		
@@ -58717,7 +58717,7 @@ rakennetun
 verkon		
 radiosignaalit		
 häiritsivät		
-gps-laitteita		
+gps-laitteita	B-MISC	
 ,		
 joiden		
 valmistajat		
@@ -61975,27 +61975,7 @@ PC  	B-ORG
 Worldin  	I-ORG	
 ]		
 (		
-http		
-:		
-/		
-/		
-www		
-.		
-		
-pcworld		
-.		
-		
-com		
-/		
-article		
-/		
-2087060		
-/		
-steve-wozniak-visits-xiaomi-in-china-e		
-ndorses-its-products		
-.		
-		
-html		
+http://www.pcworld.com/article/2087060/steve-wozniak-visits-xiaomi-in-china-endorses-its-product.html		
 )		
 mukaan		
 Wozniak  	B-PER	
@@ -63044,7 +63024,7 @@ kartalle
 kuvien		
 aikaleimojen		
 ja		
-gps-koordinaattien		
+gps-koordinaattien	B-MISC	
 perusteella		
 .		
 		
@@ -63056,9 +63036,7 @@ sisältöä
 nähtäväksi		
 ulkoiselle		
 ,		
-html5		
-:		
-ttä		
+html5:ttä	B-PRO	
 ymmärtävälle		
 näytölle		
 .		
@@ -65296,7 +65274,7 @@ tutun
 ruutunäkymän		
 sekä		
 perinteisempää		
-pc-näkymää		
+pc-näkymää	B-MISC	
 muistuttavan		
 käyttöliittymän		
 välillä		
@@ -72078,7 +72056,7 @@ esimerkiksi
 iPhonen  	B-PRO	
 liikeantureita		
 tai		
-gps-dataa		
+gps-dataa	B-MISC	
 .		
 		
 Tarkoitus		
@@ -85433,7 +85411,7 @@ mukaan
 Apple  	B-PRO	
 Payn  	I-PRO	
 käyttämä		
-nfc-siru		
+nfc-siru	B-MISC	
 ei		
 välttämättä		
 täytä		
@@ -94570,7 +94548,7 @@ liikkumaan
 Huoneessa		
 oli		
 myös		
-pc		
+pc	B-PRO	
 ,		
 jonka		
 näytöllä		
@@ -94580,7 +94558,7 @@ alueen
 kartta		
 .		
 		
-Pc:n		
+Pc:n	B-PRO	
 näytöllä		
 olevan		
 kartan		
@@ -94594,7 +94572,7 @@ holomaisemaa
 		
 Älypuhelin		
 vs.		
-pc		
+pc	B-PRO	
 		
 New  	B-ORG	
 York  	I-ORG	
@@ -99434,7 +99412,7 @@ aikaa  	I-TIM
 		
 <HEADLINE>		
 WhatsApp  	B-PRO	
-pc:lle		
+pc:lle	B-PRO	
 ?		
 		
 Ole		
@@ -99452,7 +99430,7 @@ Labs  	I-ORG
 varoittaa		
 "		
 WhatsAppin  	B-PRO	
-pc-versiosta		
+pc-versiosta	I-PRO	
 "		
 ,		
 joka		
@@ -99480,7 +99458,7 @@ Kaspersky  	B-ORG
 Lab  	I-ORG	
 varoittaa		
 blogissaan		
-pc:lle		
+pc:lle	B-PRO	
 tehdystä		
 "  	B-MISC	
 WhatsApp  	I-MISC	
@@ -99503,7 +99481,7 @@ joka
 kertoo		
 WhatsAppin  	B-PRO	
 saapuneen		
-pc:lle		
+pc:lle	B-PRO	
 .		
 		
 Viesti		
@@ -99583,7 +99561,7 @@ WhatsAppista  	B-PRO
 ei		
 ole		
 olemassa		
-pc-versiota		
+pc-versiota	B-MISC	
 .		
 		
 Ohjelmisto		
@@ -99611,7 +99589,7 @@ erilaisia
 tapoja		
 WhatsAppin  	B-PRO	
 tuomiseksi		
-pc:lle		
+pc:lle	B-PRO	
 esimerkiksi		
 Android-emulaattori  	B-PRO	
 asentamalla		
@@ -101892,7 +101870,7 @@ muun
 toiminnan		
 voi		
 salata		
-VPN-yhteyden		
+VPN-yhteyden	B-MISC	
 kautta		
 .		
 		
@@ -102010,7 +101988,7 @@ että
 NSA:lla 	B-ORG	
 on		
 pääsy		
-VPN-yhteyksiin		
+VPN-yhteyksiin	B-MISC	
 ,		
 puhelimen		
 salatut		
@@ -102022,7 +102000,7 @@ vaarassa
 .		
 		
 –		
-VPN		
+VPN	B-PRO	
 on		
 vain		
 tapa		
@@ -102096,7 +102074,7 @@ käyttää
 omassa		
 pilvipohjaisessa		
 Freedome-yksityisyyssovelluksessaankin  	B-PRO	
-VPN-tekniikoita		
+VPN-tekniikoita	B-PRO	
 .		
 		
 –		
@@ -102977,7 +102955,7 @@ avainsanoja
 <HEADLINE>		
 Android-aukko  	B-MISC	
 romuttaa		
-vpn-suojan		
+vpn-suojan	B-MISC	
 		
 <DATE>		
 23.1.2014 12:00		
@@ -102992,7 +102970,7 @@ network
 		
 Ilman		
 suojausta		
-vpn		
+vpn	B-PRO	
 on		
 yhtä		
 tyhjän		
@@ -103003,7 +102981,7 @@ kanssa
 Turvalliseen		
 verkkoviestintään		
 tarkoitettu		
-vpn-tekniikka		
+vpn-tekniikka	B-PRO	
 (		
 virtual		
 private		
@@ -103032,7 +103010,7 @@ Jelly  	I-PRO
 Beanissa  	I-PRO	
 on		
 haavoittuvuus		
-vpn-teknologiassa		
+vpn-teknologiassa	B-PRO	
 .		
 		
 Ongelman		
@@ -103049,7 +103027,7 @@ ujutettua
 pystyy		
 ohittamaan		
 aktiivisen		
-vpn-konfiguraation		
+vpn-konfiguraation	B-MISC	
 ja		
 ohjaamaan		
 turvatun		
@@ -106026,7 +106004,7 @@ turvassa
 sillä		
 haitakkeen		
 leviäminen		
-pc:stä		
+pc:stä	B-PRO	
 Androidiin  	B-PRO	
 vaatii		
 debug-tilaa		
@@ -106065,7 +106043,7 @@ dll-tiedoston
 		
 Tämä		
 lataa		
-pc:lle		
+pc:lle	B-PRO	
 tarvittavat		
 asetustiedostot		
 ,		
@@ -106090,7 +106068,7 @@ Tämän 	B-TIM
 jälkeen 	I-TIM	
 ADB-työkalu  	B-PRO	
 asennetaan		
-pc:lle		
+pc:lle	B-PRO	
 ,		
 ja		
 se		
@@ -107289,7 +107267,7 @@ ottamisajasta
 sekä		
 myös		
 -paikasta		
-gps-paikannuksen		
+gps-paikannuksen	B-PRO	
 avulla		
 .		
 		
@@ -107699,7 +107677,7 @@ koneelta
 sallitaan		
 pääsy		
 esimerkiksi		
-vpn-yhteyteen		
+vpn-yhteyteen	B-MISC	
 tai		
 muuhun		
 mahdolliseen		
@@ -109218,7 +109196,7 @@ hyökkäyksistä
 missä		
 haittaohjelmaa		
 jaetaan		
-ftp-ohjelman		
+ftp-ohjelman	B-MISC	
 nimissä		
 .		
 		
@@ -110631,7 +110609,7 @@ Plesk  	I-PRO
 -hallintapaneelin  	I-PRO	
 haavoittuvuuksia		
 ja		
-sql-injektioita		
+sql-injektioita	B-MISC	
 .		
 		
 Mutta		
@@ -117594,7 +117572,7 @@ navigointijärjestelmistä
 		
 Farley  	B-PER	
 kehuskeli		
-gps-tiedoilla		
+gps-tiedoilla	B-MISC	
 ,		
 joita		
 Ford  	B-ORG	
@@ -117626,7 +117604,7 @@ seurantamielikuvia
 Fordin  	B-ORG	
 mukaan		
 autojen		
-gps-tietoja		
+gps-tietoja	B-MISC	
 ei		
 lähetetä		
 rutiininomaisesti		
@@ -119354,7 +119332,7 @@ löytyi
 .		
 		
 Kiinalainen		
-pc-valmistaja		
+pc-valmistaja	B-MISC	
 vastasi		
 samalla		
 asiantuntijoiden		
@@ -120075,7 +120053,7 @@ tietoturvapäivityksistä
 peräti		
 400		
 dollaria		
-pc:tä		
+pc:tä	B-PRO	
 kohden		
 tai		
 vaihtoehtoisesti		
@@ -121467,7 +121445,7 @@ koneissanne
 		
 <INGRESS>		
 Kiinalainen		
-pc-valmistaja		
+pc-valmistaja	B-MISC	
 paljastui		
 haitallisen		
 ohjelman		
@@ -122442,7 +122420,7 @@ alkoi
 äskettäin  	B-TIM	
 käyttää		
 oletustoistimena		
-html5-tekniikkaa		
+html5-tekniikkaa	B-PRO	
 .		
 		
 Jos		
@@ -123464,7 +123442,7 @@ sille
 sanoo		
 "		
 Hi		
-TV		
+TV	B-PRO	
 "		
 .		
 		
@@ -124062,7 +124040,7 @@ Helsingissä  	B-LOC
 		
 Näytöltä		
 tervehti		
-pc-tietokoneista		
+pc-tietokoneista	B-PRO	
 muutaman  	B-TIM	
 vuoden  	I-TIM	
 takaa  	I-TIM	
@@ -125749,7 +125727,7 @@ kybersuvereniteettia
 "		
 -		
 estää		
-vpn-yhteydet		
+vpn-yhteydet	B-MISC	
 puhelimilta		
 		
 <DATE>		
@@ -125763,7 +125741,7 @@ useiden
 tavallisten		
 ihmisten		
 suosimien		
-vpn-palvelujen		
+vpn-palvelujen	B-MISC	
 toiminnan		
 .		
 		
@@ -125778,7 +125756,7 @@ rauhassa
 		
 <BODY>		
 Kolme		
-vpn-yhteyksien		
+vpn-yhteyksien	B-MISC	
 toimittajaa		
 (		
 virtual  	B-PRO	
@@ -125824,7 +125802,7 @@ palvelimille
 Eston		
 kohteeksi		
 joutuneiden		
-vpn-palvelujen		
+vpn-palvelujen	B-MISC	
 erityispiirre		
 oli		
 se		
@@ -125837,7 +125815,7 @@ enimmäkseen
 kautta		
 .		
 		
-Vpn-verkoissa		
+Vpn-verkoissa	B-MISC	
 liikenne		
 kulkee		
 salattuna		
@@ -125856,7 +125834,7 @@ valvojat
 pystyvät		
 kuitenkin		
 löytämään		
-vpn-palvelimet		
+vpn-palvelimet	B-MISC	
 ja		
 estämään		
 niiden		
@@ -125864,7 +125842,7 @@ liikenteen
 .		
 		
 Pienille		
-vpn-palveluille		
+vpn-palveluille	B-MISC	
 ,		
 joita		
 internetissä		
@@ -125882,7 +125860,7 @@ ongelma
 Sen		
 sijaan		
 suuret		
-vpn-yritykset		
+vpn-yritykset	B-MISC	
 ,		
 joilla		
 on		
@@ -125911,7 +125889,7 @@ tarjonnasta
 		
 Kiinalaismedian		
 mukaan		
-vpn-palvelinten		
+vpn-palvelinten	B-MISC	
 liikenne		
 on		
 estetty		
@@ -134754,7 +134732,7 @@ tai
 useammalla		
 vakoiluohjelmalla		
 tartutettuja		
-pc-koneita		
+pc-koneita	B-PRO	
 on		
 löytynyt		
 Iranista		
@@ -134862,7 +134840,7 @@ ohjelmat
 ovat		
 mahdollistaneet		
 tuhansien		
-pc-koneiden		
+pc-koneiden	B-PRO	
 täyden		
 haltuunoton		
 ,		
@@ -159820,7 +159798,7 @@ tabletista
 löytyy		
 gyroskooppi		
 ,		
-gps		
+gps	B-PRO	
 sekä		
 bluetooth  	B-PRO	
 .		
@@ -165273,7 +165251,7 @@ päivä  	I-TIM
 		
 <HEADLINE>		
 Harrastajien		
-pikku-pc		
+pikku-pc	B-MISC	
 parani		
 —		
 tukee		
@@ -165901,7 +165879,7 @@ lisnssiehtoihin
 		
 <HEADLINE>		
 "		
-Mummo-pc		
+Mummo-pc	B-MISC	
 "		
 tulee		
 Suomeen  	B-LOC	
@@ -165929,7 +165907,7 @@ tuoda
 Suomeen  	B-LOC	
 ikäihmisille		
 tarkoitetun		
-pc-tietokoneen		
+pc-tietokoneen	B-PRO	
 .		
 		
 Doro  	B-PRO	
@@ -168663,7 +168641,7 @@ mutta
 kuluttajat		
 eivät		
 lämmenneet		
-pc:n		
+pc:n	B-PRO	
 telkkariin		
 kytkemisestä		
 .		
@@ -169031,7 +169009,7 @@ Chromecastia  	B-PRO
 voi		
 käyttää		
 myös		
-pc:llä		
+pc:llä	B-PRO	
 ja		
 Macilla  	B-PRO	
 .		
@@ -172808,7 +172786,7 @@ erilaisia
 biometrisiä		
 tunnistimia		
 ,		
-nfc-lähiluku		
+nfc-lähiluku	B-MISC	
 ,		
 langaton		
 lataus		
@@ -172935,7 +172913,7 @@ A8-prosessori  	B-PRO
 sekä		
 sormenjälkitunnistin		
 sekä		
-nfc-lähiverkkoyhteys		
+nfc-lähiverkkoyhteys	B-MISC	
 .		
 		
 Ming  	B-PER	
@@ -177378,7 +177356,7 @@ katselua
 on		
 siirtää		
 televisioruudulle		
-pc:n		
+pc:n	B-PRO	
 Chrome-selaimessa  	B-PRO	
 esitettävä		
 sisältö		
@@ -179754,7 +179732,7 @@ kaiutin
 ,		
 mikrofoni		
 ,		
-nfc-siru		
+nfc-siru	B-MISC	
 ja		
 kosketusanturi		
 .		
@@ -180658,7 +180636,7 @@ Vaikka
 teknisesti		
 laite		
 on		
-pc		
+pc	B-PRO	
 ,		
 siihen		
 kannattaa		
@@ -180709,7 +180687,7 @@ joillakin
 osa-alueilla		
 (		
 yhteensopivuus		
-pc-ohjelmien		
+pc-ohjelmien	B-MISC	
 kanssa		
 )		
 ,		
@@ -186086,7 +186064,7 @@ kantaa
 NSA-vakoilun  	B-MISC	
 puolesta		
 CBS:n  	B-ORG	
-tv-haastattelussa		
+tv-haastattelussa	B-MISC	
 .		
 		
 <BODY>		
@@ -187549,7 +187527,7 @@ oli
 erikoistunut		
 elokuvien		
 ja		
-tv-sarjojen		
+tv-sarjojen	B-MISC	
 levitykseen		
 .		
 		
@@ -192181,7 +192159,7 @@ tv-maksuja
 <INGRESS>		
 Yle-verolla		
 korvattuja		
-tv-maksuja		
+tv-maksuja	B-MISC	
 on		
 perimättä		
 vielä		
@@ -192271,7 +192249,7 @@ ja  	I-ORG
 viestintäministeriön  	I-ORG	
 mukaan		
 perimättömiä		
-tv-maksuja		
+tv-maksuja	B-MISC	
 oli		
 viime  	B-TIM	
 vuoden  	I-TIM	
@@ -199975,7 +199953,7 @@ vuoksi
 		
 <BODY>		
 Kiinalainen		
-pc-valmistaja		
+pc-valmistaja	B-MISC	
 Lenovo  	B-ORG	
 käynnisti		
 globaalin		
@@ -200242,7 +200220,7 @@ TVkaistan  	B-ORG
 konkurssipesä		
 on		
 sulkenut		
-TVkaista.fi-osoitteen		
+TVkaista.fi-osoitteen	B-PRO	
 ,		
 mutta		
 palvelun		
@@ -200267,7 +200245,7 @@ pyörittää
 .		
 		
 <BODY>		
-Tvkaista.fi-verkko-osoitteesta		
+Tvkaista.fi-verkko-osoitteesta	B-PRO	
 löytyy		
 vain		
 cgi-bin-hakemiston		
@@ -200282,7 +200260,7 @@ lakimiehen  	B-TIT
 Heikki  	B-PER	
 Aaltosen  	I-PER	
 mukaan		
-tvkaista.fi-osoite		
+tvkaista.fi-osoite	B-PRO	
 on		
 suljettu		
 hänen		
@@ -200372,7 +200350,7 @@ toiminut
 aiemminkin		
 ,		
 mutta		
-tvkaista.fi-verkko-osoite		
+tvkaista.fi-verkko-osoite	B-PRO	
 ei		
 enää	B-TIM	
 vie		
@@ -200439,7 +200417,7 @@ tallennettuja
 ohjelmia		
 .		
 		
-Tvkaista.fi-osoitteen		
+Tvkaista.fi-osoitteen	B-PRO	
 omistava		
 TVKaista  	B-ORG	
 Oy  	I-ORG	
@@ -208517,7 +208495,7 @@ elokuva
 on		
 katsottavissa		
 vähintään		
-dvd-laatuisena		
+dvd-laatuisena	B-MISC	
 .		
 		
 Ei		
@@ -212071,7 +212049,7 @@ puolelle
 		
 Jopa		
 100 000		
-dvd-levyn		
+dvd-levyn	B-MISC	
 ja		
 usb-tikun		
 tiputtaminen		
@@ -212192,7 +212170,7 @@ on
 ylipäätään		
 mahdollisuus		
 katsoa		
-dvd-elokuvia		
+dvd-elokuvia	B-MISC	
 tai		
 kytkeä		
 muistitikkuja		
