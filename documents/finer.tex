@@ -82,7 +82,7 @@
 
 \begin{document}
 
-\title{Building Statistical Named Entity Recognition Resources for Finnish}
+\title{Statistical Named Entity Recognition Resources for Finnish}
 \author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
 
 
@@ -114,16 +114,7 @@ The rest of the paper is organized as follows.
 
 \subsection{Text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, information security, and gadgets.  
-
-% The text covers a variety of topics related to information technology, including business, data, mobile, science and technology, information security, work and career, gadgets, and society.  
-
-\paragraph{Training}
-
-  
-
-\paragraph{Test}
-
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015.
 
 
 \subsection{Named Entities}
@@ -152,14 +143,15 @@ Markable organizations include:
 
 \begin{itemize}
 
-\item[1.] Commercial companies: e.g. Apple, Google, Nokia Networks
-\item[1.] Communities of people: e.g. 
+\item[1.] Commercial companies: e.g. Nokia, Apple
+\item[1.] Communities of people: e.g. Google Orkut
+\item[1.] Education and research institutes: e.g. Turun Yliopisto
 \item[1.] Political parties: e.g. Kokoomus (the National Coalition Party)
 \item[1.] Public administration: e.g. Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
-\item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, X, Helsingin Sanomat, X, X, X 
+\item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
 \item[1.] Television network/station/channel: e.g. MTV3, FOX
 \item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
-\item[1.] Websites (not single web-links, see below): e.g.
+%\item[1.] Websites (not single web-links, see below): e.g. Amazon
 
 \end{itemize}
 
@@ -173,14 +165,14 @@ Markable person names include:
 
 \item[1.] First names: e.g. Sauli, Barack
 \item[2.] Family names: e.g. Niinist\"o, Obama
-\item[3.] Aliases: e.g. 
+\item[3.] Aliases: e.g. DoctorClu
 
 \end{itemize}
 
 
 \paragraph{Title}
 
-Titles for people are marked if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (president Sauli Niinist\"o), \textbf{} ja \textbf{} X X   
+Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
 
 
 \paragraph{Product}
@@ -189,19 +181,18 @@ Markable products include:
 
 \begin{itemize}
 
-\item[1.] Algorithms: e.g.
-\item[1.] Artefacts: e.g.
 \item[1.] Laws: e.g. Patriot Act-laki (the Patriot Act law)
-\item[1.] Networks (other than television network): e.g.
+\item[1.] Networks (other than television network): e.g. Tor
 \item[1.] Platforms: e.g. Google Play, Kickstarter
-\item[1.] Projects/Programs: e.g.
+\item[1.] Projects/Programs: e.g. Vitja
 \item[1.] Protocols: e.g. pop3, imap
 \item[1.] Services/Platforms: e.g. Apple Store, Google Play
-\item[1.] Software: e.g. Windows 10
+\item[1.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
 \item[1.] Space probes: e.g. Opportunity
 \item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
-\item[1.] Works: e.g. Tuntematon Sotilas 
-
+\item[1.] Technogies: e.g. 4G, HoloLens-teknologia
+\item[1.] Works: e.g. Tuntematon Sotilas, Hurt Locker
+ 
 \end{itemize}
 
 
@@ -228,15 +219,14 @@ Markable events include:
 \item[3.] Adjectives: e.g. t\"am\"anhetkinen (current), kymmenvuotias (ten-year-old) 
 \item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long), 
 \item[5.] Adverbs: e.g. \"askett\"ain (recently), kuukausittain (monthly)
-\item[6.] Adverb Phrases: e.g.   kaksi viikkoa sitten (two weeks ago),
+\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago),
 
 \end{itemize}
 
-According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. According to the above criteria, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example, "". 
+According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. According to the above criteria, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
 
 
-
-\paragraph{URL} Markable 
+%\paragraph{URL} Markable 
 
 %In general, temporal expressions refer to expressions denoting, for example, a certain point in time, a duration, or a frequency. In the following, we address some more detailed aspects concerning their annotation. 
 
