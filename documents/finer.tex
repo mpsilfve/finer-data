@@ -98,11 +98,16 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. 
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be useful, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider .
 
-The extracted entities can be useful, for example, when indexing documents in a library database \citep{}. However, the extraction is most often employed as a preprocessing step in a more complex language processing pipeline. For example, consider .
+In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. The main contributions include:
 
-English, Spanish, Swedish etc. NER. 
+\begin{itemize}
+\item[1.] We present a corpus of XXX word tokens with a manually prepared named entity annotation. The corpus is freely available.
+
+\item[2.] We present a statistical named entity recognition toolkit for Finnish. The toolkit is built on the recently published Finnish morphological annotation toolkit, FinnPos, and is freely available. 
+
+\end{itemize}
 
 The rest of the paper is organized as follows.
 
@@ -113,11 +118,13 @@ The rest of the paper is organized as follows.
 \label{sec: data}
 
 \subsection{Text}
+\label{sec: text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015.
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 250,000 word tokens in total. In addition to raw word forms, the corpus includes meta data describing if the word tokens belong to a headline, an ingress, or article body. 
 
 
 \subsection{Named Entities}
+\label{sec: named entities}
 
 In this section, we describe the named entity classes.
 
@@ -168,11 +175,6 @@ Markable person names include:
 \item[3.] Aliases: e.g. DoctorClu
 
 \end{itemize}
-
-
-\paragraph{Title}
-
-Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
 
 
 \paragraph{Product}
@@ -226,6 +228,13 @@ Markable events include:
 According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. According to the above criteria, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
 
 
+\paragraph{Title}
+
+Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
+
+
+
+
 %\paragraph{URL} Markable 
 
 %In general, temporal expressions refer to expressions denoting, for example, a certain point in time, a duration, or a frequency. In the following, we address some more detailed aspects concerning their annotation. 
@@ -252,15 +261,24 @@ According to our definition, temporal expressions may contain adpositions. For e
 
 \subsection{Annotation Process}
 
+In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text in to two parts, training and test sections. In the training section, we include all articles published during 2014 while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotater (Annotater A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
 
 
-\subsection{Comments and Known Issues}
+\subsection{Statistics}
 
-\paragraph{Organization versus Product} 1) For example, consider the two related but distinct meanings of Youtube in "Katsoa videoita Youtubesta" ja "Youtube on Googlen omistama yhti\"o". These are disambiguated according to context. 2) Websites are most often used in organisation-sense (Amazon.com, Verkkokauppa.com) but can be also used in product-sense ("Amazon.com-sivusto kaatui keskiy\"oll\"a."). The product-sense is chosen if appropriate.
+1. Word tokens. 2. Number of entities. 3. 
 
-\paragraph{Organization versus Location} For example, consider India as a geographical location in "" and India as a governmental organization in "".
 
-\paragraph{Explicit naming} For example, consider "Nokia N1-niminen puhelin".
+
+% Specifically, the section is first annotated independently by Annotators A and B. Subsequently Subsequently, the annotations are compared by Annotator C. In case of conflicts
+
+%\subsection{Comments and Known Issues}
+
+%\paragraph{Organization versus Product} 1) For example, consider the two related but distinct meanings of Youtube in "Katsoa videoita Youtubesta" ja "Youtube on Googlen omistama yhti\"o". These are disambiguated according to context. 2) Websites are most often used in organisation-sense (Amazon.com, Verkkokauppa.com) but can be also used in product-sense ("Amazon.com-sivusto kaatui keskiy\"oll\"a."). The product-sense is chosen if appropriate.
+
+%\paragraph{Organization versus Location} For example, consider India as a geographical location in "" and India as a governmental organization in "".
+
+%\paragraph{Explicit naming} For example, consider "Nokia N1-niminen puhelin".
 
 
 
