@@ -330,12 +330,12 @@ In this section, we present how we extend the FinnPos system \citep{silfverberg2
 
 \subsection{FinnPos}
 
-The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}. In order to lemmatize word forms unknown to OMorFi, FinnPos implements a statistical lemmatization model. FinnPos contains two separate models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
 
 
 \subsection{Extending FinnPos for Named Entity Recognition}
 
-In order to extend the FinnPos system for named entity recognition, we adapt the following procedure. First, given training data, we augment the word tokens in the data with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is assigned two morphological tags and two lemmas. Second, we interpret the named entity recognition task as a sequential tagging problem with the classic BIO-annotation scheme and apply a second-order averaged perceptron classifier \citep{collins2003}. Specifically, the perceptron classifier employs the following feature extraction scheme at each word position $i$ for a given training sentence:
+In order to extend the FinnPos system for named entity recognition, we adapt the following procedure. First, given training data, we augment the word tokens in the data with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. Second, we learn a word embedding from the unannotated data. As a result, each training word token is associated with two morphological tags and two lemmas, and an $z$-dimensional real-valued word embedding vector. Third, we interpret the named entity recognition task as a sequential tagging problem with the classic BIO-annotation scheme and apply a second-order averaged perceptron classifier \citep{collins2003}. Specifically, the perceptron classifier employs the following feature extraction scheme at each word position $i$ for a given training sentence:
 
 \begin{itemize}
 \item[1.] Bias (always active irrespective of input).
@@ -345,6 +345,7 @@ In order to extend the FinnPos system for named entity recognition, we adapt the
 \item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
 \item[6.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
 \item[6.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
+\item[7.] The embedding dimension for word form $x_i$. 
 \end{itemize}
 
 Subsequent to performing the perceptron learning, the resulting classifier can be applied to assign named entity annotation to any given test sentence.
