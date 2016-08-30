@@ -262,12 +262,50 @@ Titles for people are markable if they appear in the immediate pre-context of pr
 
 \subsection{Annotation Process}
 
-In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text in to two parts, training and test sections. In the training section, we include all articles published during 2014 while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
+In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text in to two parts, training and test sections. In the training section, we include all articles published during 2014 while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C.
+
+% Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
 
 
 \subsection{Statistics}
 
-1. Word tokens. 2. Number of entities. 3. 
+The resulting training and test sections contain xx and yy word tokens, respectively. The number of each named entity class in both sections are presented in Table \ref{tab: statistics}.
+
+
+\begin{table}[h!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lcc} 
+\hline
+\noalign{\smallskip}
+Training & count & \% \\ 
+\hline
+\noalign{\smallskip}
+PERSON & \\
+LOCATION & \\
+ORGANIZATION & \\
+PRODUCT & \\
+EVENT & \\
+TITLE & \\
+TEMPORAL & \\
+\hline
+\noalign{\smallskip}
+Test & count & \% \\ 
+\hline
+\noalign{\smallskip}
+PERSON & \\
+LOCATION & \\
+ORGANIZATION & \\
+PRODUCT & \\
+EVENT & \\
+TITLE & \\
+TEMPORAL & \\
+\end{tabular}
+\end{center}
+% \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
+\caption{Counts and relative portions of named entity classes in training and test corpora.}
+\label{tab: statistics} 
+\end{table}
 
 
 
@@ -287,19 +325,51 @@ In order to annotate the text described in Section \ref{sec: text} using the nam
 \section{Named Entity Recognizer}
 \label{sec: named entity recognizer}
 
+In this section, we present how we extend the FinnPos system \citep{silfverberg2015} for named entity recognition.
+
 
 \subsection{FinnPos}
 
+The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}. In order to lemmatize word forms unknown to OMorFi, FinnPos implements a statistical lemmatization model. FinnPos contains two separate models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
 
 
 \subsection{Extending FinnPos for Named Entity Recognition}
 
+In order to extend the FinnPos system for named entity recognition, we adapt the following procedure. First, given training data, we augment the word tokens in the data with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is assigned two morphological tags and two lemmas. Second, we interpret the named entity recognition task as a sequential tagging problem with the classic BIO-annotation scheme and apply a second-order averaged perceptron classifier \citep{collins2003}. Specifically, the perceptron classifier employs the following feature extraction scheme at each word position $i$ for a given training sentence:
 
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
+\item[6.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
+\item[6.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
+\end{itemize}
+
+Subsequent to performing the perceptron learning, the resulting classifier can be applied to assign named entity annotation to any given test sentence.
 
 
 \section{Experiments}
 \label{sec: experiments}
 
+\subsection{Data}
+\label{sec: data}
+
+\subsection{Reference Systems}
+\label{sec: reference systems}
+
+\subsection{Evaluation}
+\label{sec: evaluation}
+
+\subsection{Hardware}
+\label{sec: hardware}
+
+\subsection{Results}
+\label{sec: results}
+
+\subsection{Discussion}
+\label{sec: discussion}
 
 
 
@@ -339,530 +409,4 @@ Future work: Fine-grained annotation.
 
 
 
-
-
-
-
-
-
-
-
-
-\subsubsection{Feature Extraction}
-\label{sec: feature extraction}
-
-This section describes the features incorporated in the CRF model (\ref{eq: crf}), that is, the individual elements $\phi(y_{i-n}, \dots, y_i, x, i)$ of the feature vector $\boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i)$.\footnote{The presentation follows the node-observation notation of \citet{sutton2011}.}
-%\subsubsection{Base Feature Set}
-%\paragraph{Base Feature Set.}
-We begin by describing the basic feature set by defining \emph{emission} and \emph{transition} features. The emission features associate properties of the sentence position $i$ with the corresponding label and are of the form
-%
-\begin{equation}
-\phi(y_{i-n}, \dots, y_i, x, i) = \chi_j(x, i) \mathds{1}(y_i = y_i') \quad\text{for}\quad j \in 1\dots|\mathcal{X}| \,, \forall y_i' \in \mathcal{Y} \,, % \forall \texttt{1}_{y_t = y_t'} \, ,
-\label{eq: emission feature set}
-\end{equation}
-%
-where the function $\mathds{1}(q)$ returns one if and only if the proposition $q$ is true and zero otherwise, that is
-%
-\begin{equation} 
-\mathds{1}(y_i = y_i') = \left\{ 
-\begin{array}{cl}
-1 & \textbf{if} \quad y_i = y_i' \\
-0 & \textbf{otherwise} 
-\end{array} \right. \,, 
-\label{eq: identity function}
-\end{equation}
-%
-%and $\mathcal{X} = \{\chi_j(x, i)\}_{j=1}^{|\mathcal{X}|}$ is the set of functions characterizing the word position $i$. Following the classic work of \citet{ratnaparkhi1996} on morphological tagging, our $\mathcal{X}$ comprises the following binary functions:
-and $\mathcal{X} = \{\chi_j(x, i)\}_{j=1}^{|\mathcal{X}|}$ is the set of functions characterizing the word position $i$. Following the classic work of \citet{ratnaparkhi1996} on morphological tagging, our $\mathcal{X}$ includes the following binary functions:
-%
-\begin{itemize}
-\item[1.] Bias (always active irrespective of input).
-\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
-\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
-\item[4.] If the word form $x_i$ contains (one or more) capital letter, hyphen, dash, or digit.
-\end{itemize}
-%
-% Binary functions have a return value of either zero (inactive) or one (active). 
-In addition, we use the following binary functions:
-\begin{itemize}
-\item[5.] The lowercased word form $x_{i}$.
-\item[6.] The word pairs $(x_{i-1}, x_i)$ and $(x_i, x_{i+1})$.
-\end{itemize}
-When using a morphological analyzer, we also include:
-\begin{itemize}
-\item[7.] Each morphological analysis of word $x_i$.
-\end{itemize}
-%
-In order to capture the fact that some label transitions occur more often than others, we utilize transition features of the form
-%
-\begin{eqnarray}
-& \phi(y_{i-n}, \dots, y_i, x, i) = \mathds{1}(y_{i-k} = y_{i-k}') \dots \mathds{1}(y_i = y_i') \quad \text{for}\quad \nonumber \\
-& y_{i-k}', \dots, y_{i}' \in \mathcal{Y} \,, \forall k \in 1\dots n \, .
-\label{eq: transition feature set}
-\end{eqnarray}
-%
-% and model dependency structure among adjacent labels irrespective of the input $x$.
-For example, the Finnish word {\it asu} could occur with a noun or verb label. In the example in Table \ref{tab: tdt omorfi}, it is however preceded by a negative verb ({\it ei}). In Finnish, however, negative verbs seldom precede nouns. Therefore, {\it asu} is more likely to be a verb rather than a noun.  
-%For example, the transition features capture the fact that, in Finnish, it is more probable to observe a label sequence \fixme{xyz} compared to \fixme{abc}.
-
-% As for the reference systems, MarMot and Stagger implement essentially identical feature sets to the ones described above. Meanwhile, the HunPos system utilizes much smaller amount of features since the rich features can not be accommodated by the generative HMM model.
-
-%\paragraph{Leveraging Sub-Label Dependencies}
-
-% The feature set following \citet{ratnaparkhi1996} described above can carry out the tagging with high accuracy given a conveniently simple label set, such as when tagging the Penn Treebank \citep{marcus1993} with a morphological tag set of 45 labels \citep{ratnaparkhi1996,collins2002}. 
-The above features treat the morphological labels as single entities.
-However, they overlook some beneficial dependency information given the rich inner structure of the TDT and FTB labels discussed in Section \ref{sec: treebanks}. Therefore, we follow \citep{muller2013,silfverberg2014} and utilize an expanded feature set which aims to capture these dependencies. To this end, we first define function $\mathcal{P}(y_i)$ which partitions any label $y_i$ into its sub-label components and returns them in an unordered set. For example, we would define $\mathcal{P}(\text{Verb, neg sg3, act}) = \{\text{Verb, neg, sg3, act}\}$.We denote the set of all sub-label components as $\mathcal{S}$. 
-
-We begin by considering the word form \emph{kissat} (\emph{cats}) where the suffix \emph{-t} denotes plural number. Then, instead of associating the suffix \emph{-t} solely with a compound label (Noun, nominative, plural), we also want to relate it with the sub-label Plural. This is because one can exploit the suffix \emph{-t} to predict the plural number also in words such as \emph{vihre\"at} (\emph{plural of green}) with an analysis (Adjective, nominative, plural). Formally, instead of defining only (\ref{eq: emission feature set}), we additionally associate the input $x$ with all sub-labels $s$ by defining features of the form
-%
-\begin{equation}
-\phi(y_{i-n}, \dots, y_i, x, i) = \chi_j(x, i) \mathds{1}(s \in \mathcal{P}(y_i)) \quad\text{for}\quad \forall j \in 1 \dots |\mathcal{X}|\,, \forall s \in \mathcal{S} \,, 
-\label{eq: expanded emission feature set}
-%& \phi(y_{i-n}, \dots, y_i, x, i) = \chi_m(x, i) \mathds{1}(s \in \mathcal{P}(y_i)) \,,  \nonumber \\
-%& \qquad  \forall m \,, \forall s \in \mathcal{S} \,, 
-\end{equation}
-%
-where $\mathds{1}(s \in \mathcal{P}(y_i))$ returns one in case $s$ is in $\mathcal{P}(y_i)$ and zero otherwise. 
-
-Second, we can exploit transitional behavior of the sub-labels. For example, consider the sentence fragment \emph{kissat juovat} (\emph{cats drink}) where the words \emph{kissat} and \emph{juovat} have compound analyses (Noun, nominative, plural) and (Verb, 3rd person, plural, present tense, active), respectively. Then, instead of merely modeling the transitional dependency between the compound labels, we can also model the congruence, that is, both analyses need to contain the sub-label denoting plural number. Formally, these transitions between sub-labels are captured by features of the form %
-\begin{eqnarray}
-& \phi(y_{i-n}, \dots, y_i, x, i) = \mathds{1}(s_{i-k} \in \mathcal{P}(y_{i-k}))\dots\mathds{1}(s_{i} \in \mathcal{P}(y_{i})) \quad\text{for} \, \nonumber \\
-& \forall s_{i-k}, \dots, s_{i} \in \mathcal{S} \,, \forall k \in 1\dots m  \,. % 1 \leq k \leq m \, \} .
-\label{eq: expanded transition feature set}
-\end{eqnarray}
-%
-Note that we define the sub-label transitions up to order $m$, $1 \leq m \leq n$, that is, an $n$th-order CRF model is not obliged to utilize sub-label transitions all the way up to order $n$. This is because employing high-order sub-label transitions may potentially cause overfitting to training data due to substantially increased number of features (equivalent to the number of model parameters, $|\boldsymbol{w}| = |\boldsymbol{\phi}|$). For example, in a second-order ($n=2$) model, it might be beneficial to employ the sub-label emission feature set (\ref{eq: expanded emission feature set}) and first-order sub-label transitions while discarding second-order sub-label transitions \citep{silfverberg2014}.%  (See the experimental results presented in Section \ref{sec: experiments}.)
-
-% Finally, the sub-label dependencies are modeled also by the MarMot system. Essentially, their system implements the zeroth-order feature set similarly to Equation (\ref{eq: expanded emission feature set}) while ignoring the transitional dependencies in Equation ({\ref{eq: expanded transition feature set}). Meanwhile, the HunPos and Stagger systems do not leverage the sub-label dependencies.
-
-
-
-
-% Finally, note that the expanded feature set (\ref{eq: expanded emission feature}) and (\ref{eq: expanded transition feature}) will, naturally, capture \emph{any} local dependency structure within the label sub-structure irrespective if the dependency has a clear linguistic interpretation or not. 
-
-%In the remainder of this paper, we use the following notations.
-%
-%\begin{itemize}
-%\item[1.] A standard CRF model incorporating (\ref{eq: emission feature set}) and (\ref{eq: transition feature set}) is denoted as \mbox{CRF($n$,-)}.
-%\item[2.] A CRF model incorporating (\ref{eq: emission feature set}), (\ref{eq: transition feature set}), and (\ref{eq: expanded emission feature set}) is denoted as CRF($n$,0).
-%\item[3.] A CRF model incorporating  (\ref{eq: emission feature set}), (\ref{eq: transition feature set}), (\ref{eq: expanded emission feature set}), and (\ref{eq: expanded transition feature set}) is denoted as CRF($n$,$m$). 
-%\end{itemize} 
-%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\subsubsection{Violation-Fixing Perceptron Estimation}
-
-In this section, we estimate the CRF model parameters $\boldsymbol{w}$ using the \emph{violation-fixing perceptron algorithm} \citep{huang2012}. This learning procedure, presented in Figure  \ref{fig: violation-fixing perceptron}, generalizes the structured perceptron algorithm presented for CRF estimation by \citet{collins2002}.
-%The learning procedure is presented in Figure \ref{fig: violation-fixing perceptron}. 
-In this section, we describe the applied \textsc{FindViolation} functions utilizing \emph{exact search} \citep{collins2002} and the faster \emph{beam search} \citep{collins2004,zhang2011,huang2012}. We also discuss how to accelerate the learning further by utilizing a \emph{pre-pruned search} approach, in which we exploit a simple suffix-based label guessers.
-% In this section, we describe the applied \textsc{FindViolation} functions utilizing varying search methods, namely, \emph{exact search} \citep{collins2002}, \emph{beam search} \citep{collins2004,zhang2011,huang2012}, and \emph{pre-pruned search}. 
-% The pre-pruned search exploits a simple suffix-based label guesser which we learn from the treebank. % To our knowledge, this approach and presentation are novel. 
-
-
-%B The pre-pruned search is applied when the output of each word token is constrained using OMorFi (or a label guesser) while beam search is applied when no morphological analyzer is employed. To our knowledge, the presentation on the pre-pruned search is novel. 
-
-%Given the model definition (\ref{eq: crf}), we estimate the model parameters $\boldsymbol{w}$ using \emph{violation-fixing perceptron} algorithms \citep{huang2012}. The algorithm is presented in Figure \ref{fig: violation-fixing perceptron}. The violation-fixing perceptron is a generalization of the structured perceptron algorithm of \citet{collins2002} which specifically accommodates \emph{inexact} search methods, such as the well-known \emph{beam search} \citep{collins2004,zhang2011,huang2012}. We employ inexact search when experimenting with the fine-grained tag sets, in which case performing \emph{exact} search is impractically expensive. Particularly, we use the beam search and a novel \emph{pre-pruned search} approach. In the latter, we accelerate the search utilizing a simple, orthography-based label guesser. 
-
-% The violation-fixing perceptron algorithm is presented in Figure \ref{fig: violation-fixing perceptron}. % The algorithm is accompanied by the following theorem on convergence \citep{huang2012}.
-
-%\begin{theorem}
-%For a separable training scenario  $S = \langle D, \boldsymbol{\phi}, C(D) \rangle$, the violation-fixing perceptron algorithm makes a finite number of parameter %updates before convergence if and only if \textsc{FindViolation} function always returns a violation triple if there are any.
-%\label{theorem: convergence of violation-fixing perceptron}
-%\end{theorem}
-
-%The convergence property holds for different search approaches by modifying the definitions of the \emph{confusion set} $C(D)$ and \textsc{FindViolation} function. 
-
-%In the rest of the section, we describe \textsc{FindViolation} functions using \emph{exact}, \emph{beam}, and \emph{pre-pruned} search approaches. % Note that the lemmas and theorems for the exact and beam search following  \citep{collins2002,huang2012} are repeated in order to provide insight on the theoretical properties of the novel pre-pruned search. 
-
-\begin{figure}[t!]
-% %\begin{small}
-\begin{itemize}
-\item[] \textbf{Input}: training scenario $S = \langle D, \boldsymbol{\phi}, C(D) \rangle$
-\item[] \textbf{Output}: model parameters $\boldsymbol{w}$ 
-\item[] \textbf{Let}: $\Delta\boldsymbol{\phi}(x,y,z) = \boldsymbol{\phi}(x,y) - \boldsymbol{\phi}(x,z)$ 
-\item[] \textbf{repeat until convergence} % $t = 1 \, .. \, T$
-\item[] \qquad \textbf{for} $(x, y)$ \textbf{in} $D$ \textbf{do}
-%\item[] \qquad \qquad compute MAP estimates $\boldsymbol{y}_c^*$ for cliques $c$ in gradient (\ref{eq: perceptron gradient})
-%\item[] \qquad \qquad if $\boldsymbol{y}_c^* \neq \boldsymbol{y}_c^{(n)}$ for some $c$:
-\item[] \qquad \qquad $(x,y',z) \leftarrow \textsc{FindViolation}(x,y,\boldsymbol{w})$
-\item[] \qquad \qquad \textbf{if} $z \neq y$ \textbf{then}
-\item[] \qquad \qquad \qquad $\boldsymbol{w} \leftarrow \boldsymbol{w} + \Delta\boldsymbol{\phi}(x,y',z) $ 
-\end{itemize}
-% %\end{small}
-\caption{The violation-fixing perceptron algorithm \citep{huang2012}.}
-\label{fig: violation-fixing perceptron}
-\end{figure}
-
-
-%\subsubsection{Exact Search}
-
-The \textsc{FindViolation} function utilizing exact search is presented in Figure \ref{fig: exact findviolation}. %The function is guaranteed to return a violation triple $(x,y,z)$ at line 4 \citep{huang2012}. 
-Employing exact search, the violation-fixing perceptron algorithm is equivalent to the structured perceptron algorithm presented by \citet{collins2002}. 
-From implementation perspective, the exact search is performed using the standard Viterbi algorithm. % \citep{lafferty2001}. 
-% The computational complexity of the Viterbi search is $O(|x| \times {|\mathcal{Y}|}^{n+1})$, where $|x|$ is the sequence length, $|\mathcal{Y}|$ the label set cardinality, and $n$ the CRF model order. 
-Given an input sequence $x$, the Viterbi search has a time complexity of $O(|x| \times |\mathcal{Y}|^{n+1})$, where $|x|$ denotes the sequence length, $|\mathcal{Y}|$ the label set cardinality, and $n$ the CRF model order. Consequently, the complexity of exact perceptron learning is $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ where $T$ is the number of training sentences and $|\bar{x}|$ the average sentence length. 
-
-
-\begin{figure}[t!]
-%%\begin{small}                                                                                                                                                              
-\begin{itemize}
-\item[] \textbf{Let}: $\Delta\boldsymbol{\phi}(x,y,z) = \boldsymbol{\phi}(x,y) - \boldsymbol{\phi}(x,z)$ 
-\item[1:] \textbf{function} \textsc{FindViolation}$(x,y,\boldsymbol{w})$
-\item[2:] \qquad $z \leftarrow \argmin_{u \in \mathcal{Y}(x)} \boldsymbol{w} \cdot \Delta \boldsymbol{\phi}(x,y,u)$ % \argmax_{u \in \mathcal{G}(x)} \boldsymbol{w} \cdot \boldsymbol{\phi}(x,u)$
-\item[3:] \qquad \textbf{if} $z \neq y$ \textbf{then} {\small $\qquad \rhd$ incorrect prediction, violation}
-\item[4:] \qquad \qquad \textbf{return} $(x,y,z)$
-\item[5:] \qquad \textbf{else} {\small $\qquad \rhd$ correct prediction, no violation}
-\item[6:] \qquad \qquad \textbf{return} $(x,y,y)$
-\end{itemize}
-%%\end{small}                                                                                                                                                                
-\caption{Function for finding a violation using exact search.}
-\label{fig: exact findviolation}
-\end{figure}
-
-
-%
-%\begin{definition}
-%The \textbf{standard confusion set} $C_s(D)$ for data set $D = \{(x^{(t)}, y^{(t)})\}_{n=1}^{T}$ is the set of triples $(x,y,z)$ where $z$ is an incorrect label for %input $x$, that is, 
-% 
-%\begin{equation*}
-%C_S(D) = \{(x,y,z) \,|\, (x,y) \in D, z \in \mathcal{Y} - \{y\} \} \, .
-%\end{equation*}
-%
-%\label{def: standard confusion set}
-%\end{definition}
-%
-%Given this definition of standard confusion set $C_s(D)$, the \textsc{FindViolation} function in Figure \ref{fig: exact findviolation} is guaranteed to return a violation (at line 4) \citep{collins2002,huang2012}. 
-
-%\subsubsection{Beam Search}
-%\label{sec: beam search}
-
-The perceptron learning utilizing exact search can become impractically slow, or even infeasible, when the label set size is increased. Consequently, in order to speed up the estimation procedure, our toolkit implements beam search. The \textsc{FindViolation} function for finding the \emph{maximum violation} utilizing beam search  \citep{huang2012} is presented in Figure \ref{fig: beam-search + max-violation update}. 
-%The function is guaranteed to return a violation triple $(x,y,z)$ at line 7 \citep{huang2012}.  
-This approach was shown to yield a state-of-the-art accuracy
-%\footnote{Unfortunately, \citet{huang2012} do not specify their feature set.} 
-of 97.24 on the Penn Treebank \citep{marcus1993} by \citet{huang2012}. 
-% We denote the \emph{beam width} as $\beta$. 
-The beam width, denoted as $\beta$, is considered a hyper-parameter of the learning procedure to be tuned on a held-out development set. The function $\argtop^{\beta}_{z \in \mathcal{Z}} f(z)$ required by $\textsc{Best}_{\beta}$ is defined as follows.
-%
-\begin{definition}{The function $\argtop^{\beta}_{z \in \mathcal{Z}} f(z)$ returns the top $\beta$ unique $z$ with respect to $f(z)$, that is, it returns a (sorted) list $\mathcal{B} = [z^{(1)}, z^{(2)}, \dots, z^{({\beta})}]$ where $z^{(i)} \in \mathcal{Z}$ and $f(z^{(1)}) \geq f(z^{(2)}) \geq \dots \geq f(z^{({\beta})}) \geq f(z')$ for all $z' \in \mathcal{Z}-\mathcal{B}$.}
-\end{definition}
-%
-\noindent Finally, the computational complexity of beam search is $O(|x| \times |\mathcal{Y}| \times \log |\mathcal{Y}|)$, where $|x|$ is the sequence length and $|\mathcal{Y}|$ the label set cardinality. Thus, the complexity of perceptron learning is reduced from $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ to $O(|x| \times |\mathcal{Y}| \times \log |\mathcal{Y}|)$.
-
-
-\begin{figure}[t!]
-% %\begin{small}
-\begin{itemize}
-\item[] \textbf{Let}: $\textsc{Next}(x,z) = \{z \circ a \,|\, a \in \mathcal{Y}_{|z| +1}(x) \}$ { \small $\qquad\rhd$ set of possible extensions for $z$}
-\item[] \textbf{Let}: $\textsc{Best}_\beta(x,\mathcal{B},\boldsymbol{w}) = \argtop^\beta_{z' \in \cup_{z \in \mathcal{B}} \textsc{Next}(x,z)} \boldsymbol{w} \cdot \boldsymbol{\phi}(x,z')$  
-\item[1:] \textbf{function} \textsc{FindViolation}$(x,y,\boldsymbol{w}, \beta)$
-\item[2:] \qquad $\mathcal{B}_0 \leftarrow [\epsilon]$
-\item[3:] \qquad \textbf{for} $i \in 1\dots|x|$ \textbf{do}
-\item[4:] \qquad \qquad $\mathcal{B}_i \leftarrow \textsc{Best}_\beta(x, \mathcal{B}_{i-1}, \boldsymbol{w})$
-\item[5:] \qquad $(x,y^*,z^*) = \argmin_{(x,y',z') \in C, z' \in \cup_i \{\mathcal{B}_i[0]\}} \boldsymbol{w} \cdot \Delta \boldsymbol{\phi}(x,y',z')$ 
-% \item[6:] \qquad \textbf{return} $(x,y^*,z^*)$
-\item[6:] \qquad \textbf{if} $z^* \neq y$ \textbf{then} {\small $\qquad \rhd$ incorrect prediction, violation}
-\item[7:] \qquad \qquad \textbf{return} $(x,y^*,z^*)$ 
-\item[8:] \qquad \textbf{else} {\small $\qquad \rhd$ correct prediction, no violation}
-\item[9:] \qquad \qquad \textbf{return} $(x,y,y)$ 
-% \item[] \qquad \textbf{return} $\mathcal{B}_{|x|}[0]$ (best sequence in the final beam)
-\end{itemize}
-% %\end{small}
-\caption{Function for finding a max-violation using beam-search with beam width $\beta$ adapted from \citet{huang2012}.}
-\label{fig: beam-search + max-violation update}
-\end{figure}
-
-\subsubsection{Approximative Estimation using Cascaded Models}
-
-
-
-
-\subsubsection{Pre-Pruned Beam Search}
-\label{sec: pre-pruned search}
-
-In this section, we study accelerating the beam search driven perceptron learning further utilizing a pre-pruned search approach. In pre-pruned search, the idea is to utilize a minimalistic, orthography-based label guesser to narrow down the label search space. In order to apply the pre-pruning, we first learn a label guesser $\mathcal{G}$ from the training data. The guesser ranks POS tags according to their probability for any given word. Subsequent to learning $\mathcal{G}$, the perceptron algorithm searches label predictions $z$ for each sentence $x$ in data from the ''pre-pruned'' label set $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$ using beam search as described in Section \ref{sec: beam search}. 
-
-% As another means of accelerating the perceptron learning, we next explore a pre-pruned search approach. In pre-pruned search, the idea is to utilize a minimalistic, orthography-based label guesser to narrow down the label search space. The \textsc{FindViolation} function utilizing the pre-pruned search is presented in Figure \ref{fig: pre-pruned findviolation}. In order to apply the pre-pruning, we first learn a label guesser $\mathcal{G}$ from the training data. The guesser ranks POS tags according to their probability for any given word. Subsequent to learning $\mathcal{G}$, the perceptron algorithm searches label predictions $z$ for each sentence $x$ in data from the ''pre-pruned'' label set $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$. Appealingly, the pre-pruned search can be performed using existing Viterbi algorithm implementations, in which the candidate labels for each word token are simply restricted according to the guesser. 
-
-% each word token in data to choose prediction from the label set given by the guesser.
-
-% We begin by describing the \emph{pre-pruned search} approach, in which we utilize a minimalistic, orthography-based label guesser to narrow down the label search space. The \textsc{FindViolation} function utilizing the pre-pruned search is presented in Figure \ref{fig: pre-pruned findviolation}. In this approach, we begin by learning a label guesser $\mathcal{G}$ from the training data. The guesser ranks POS tags according to their probability for any given word (see Table \ref{tab: rankings}). Subsequent to learning $\mathcal{G}$, the perceptron algorithm searches label predictions $z$ for each sentence $x$ in data from the ''pre-pruned'' label set $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$. % each word token in data to choose prediction from the label set given by the guesser.
-% The label guesser $G(.)$ is used to generate the $k$ highest ranking tag guesses for a word. 
-% The \textsc{FindViolation} in Figure \ref{fig: pre-pruned findviolation} is guaranteed to find a violation \fixme{(see Appendix)}.
-
-%We begin by describing the \emph{pre-pruned search} approach, in which we the label search space for each sentence is contrained by the morphological analyzer, OMorFi. The \textsc{FindViolation} function utilizing the pre-pruned search is presented in Figure \ref{fig: pre-pruned findviolation}. The label sets returned by OMorFi are denoted as $\mathcal{G}(x_i)$. 
-
-% In this approach, we begin by learning a label guesser $\mathcal{G}$ from the training data. The guesser ranks POS tags according to their probability for any given word (see Table \ref{tab: rankings}). Subsequent to learning $\mathcal{G}$, the perceptron algorithm searches label predictions $z$ for each sentence $x$ in data from the ''pre-pruned'' label set $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$. % each word token in data to choose prediction from the label set given by the guesser.
-% The label guesser $G(.)$ is used to generate the $k$ highest ranking tag guesses for a word. 
-% The \textsc{FindViolation} in Figure \ref{fig: pre-pruned findviolation} is guaranteed to find a violation \fixme{(see Appendix)}.
-
-% As discussed in Section \ref{sec: TDT}, the OMorFi does not have a 100\% lexical coverage. For the unknown words, we employ a \emph{label guesser} which outputs $k$ most probable labels for any word form. We estimate the guesser from the Turku Dependency Treebank itself and base the predictions on word suffixes. Formally, let $suf(x_i,y_j)$ be the longest common suffix of a word $x_i$ and any word tagged $y_j$ in the training data, and $c(x_i,y_j)$ the count of word tokens in the training data with suffix $suf(x_i,y_j)$ and assigned tag $y_j$. Then, $y_j$ is ranked higher than $y_j'$ by the guesesr, if and only if $|suf(x_i,y_j)| > |suf(x_i,y'_j)|$, or $suf(x_i,y_j) = suf(x_i,y'_j)$ and $c(x_i,y_j) > c(x_i,y'_j)$. Conveniently, this type of guesser can be learned from and applied to even large data in mere seconds.
-
-In the guesser $\mathcal{G}$ we apply here, the ranking is based on word suffixes. This is because, in Finnish, inflection takes place at the end of the words. Formally, let $suf(w,l)$ be the longest common suffix of $w$ and any word tagged $l$ in the training data, and $c(w,l)$ the count of word tokens in
-the training data with suffix $suf(w,l)$ and assigned tag $l$. Then, $l$ is ranked higher than $l'$ by $\mathcal{G}$, if and only if $|suf(w,l)| > |suf(w,l')|$, or
-$suf(w,l) = suf(w,l')$ and $c(w,l) > c(x,l')$. Importantly, this type of guesser can be learned from and applied to large data in mere seconds. 
-
-For each word token, our guesser returns the $\kappa$ highest ranking labels. The $\kappa$ is considered a hyper-parameter of the learning procedure to be tuned on a held-out development set. Essentially, if one employs too small $\kappa$, the model will underfit the training data, while increasing the number of guesses results in an increasingly better approximation of the beam search driven learning.  
-% Essentially, if one employs too small $\kappa$, the model will underfit the training data, while increasing the number of guesses results in an increasingly better approximation of the standard perceptron learning.  
-% For a formal treatment of the violation-fixing perceptron algorithm utilizing pre-pruned search, see Appendix \ref{appendix: pre-pruned search}. The presentation includes proof of convergence and discussion on how the approach relates to exact search.  
-%Appendix \ref{appendix: pre-pruned search} presents a formal treatment of the violation-fixing perceptron algorithm utilizing pre-pruned search. The presentation includes proof of convergence and discussion on how the pre-pruned search relates to the exact search and beam search approaches.  
-Given $\kappa$, the combined pre-pruning and beam search has a time complexity of $O(|x| \times \kappa \times \log \kappa)$ and, consequently, the complexity of perceptron learning is reduced further to $O(T \times |x| \times \kappa \times \log \kappa)$.
-
-
-
-The pre-pruning approach is evidently related to the work of \citet{muller2013} on pruned high-order CRF learning. As a main point of difference, while \citet{muller2013} utilize a cascade of $n$ CRF models, our approach utilizes a single $n$th-order CRF model. We are unaware of previous work discussing a similar guesser approach in combination with perceptron learning. 
-
-
-
-
-
-
-
-
-
-\appendix
-
-\section{Violation-Fixing Perceptron Algorithm with Pre-Pruned Search}
-\label{appendix: pre-pruned search}
-
-This appendix presents a formal treatment of the violation-fixing perceptron algorithm with the pre-pruned search (Figures \ref{fig: violation-fixing perceptron} and \ref{fig: pre-pruned findviolation}). We first restate the convergence guarantee of the violation-fixing perceptron and then show that the \textsc{FindViolation} function employing pre-pruned search (Figure \ref{fig: pre-pruned findviolation}) indeed returns the required violations (if there are any). We then discuss the relationship of the pre-pruned and exact (standard) search approaches. 
-
-\subsection{Complexity of Search}
-
-The standard exact search has a time complexity of $O(|x| \times |\mathcal{Y}|^{n+1})$, where $|x|$ and $|\mathcal{Y}|$ denote the sequence length and label set cardinality, respectively, and $n$ the CRF model order. Consequently, the complexity of exact perceptron learning is $O(T \times |\bar{x}| \times |\mathcal{Y}|^{n+1})$ where $T$ is the number of training instances and $|\bar{x}|$ the average length of training sequences. Meanwhile, the pre-pruned search reduces the complexity to $O(|x| \times \kappa^{n+1})$, where $\kappa \leq |\mathcal{Y}|$ is the number of label guesses per word token. Thus, by choosing suitably small $\kappa$, one can obtain substantial speed-ups in model learning. 
-
-\subsection{Proof of Convergence}
-
-% The number of tag guesses per word form, $k$, is employed to control the trade-off between the obtained speed-ups and decline in tagging accuracy due to overfitting. Essentially, by choosing low $k$ we achieve large speed-ups but may severely overfit the training data, while high values of $k$ will avoid overfitting but provide smaller decrease in training time. If the number of guesses is chosen to be the number of labels in the tag set, no pruning takes place, and the cascaded system is reduced to the plain CRF model. 
-
-% A straightforward means to find a suitable $k$ is to adjust it using the held-out development set by considering, for example, $k = 1,2,4,8,16,\dots$ until no improvement in accuracy is obtained.  Clearly, $k$ could also be defined to be a function of the word forms, that is, each word form could obtain an individual number of guesses depending on the confidence of the guesser. Intuitively, words which are observed frequently in the training data should receive a smaller number of guesses than words observed infrequently or zero times. This approach is viable as exemplified by the work of \cite{muller2013}. Nevertheless, we use the same $k$ for all words, since this enables us to employ the intuitive greedy search described above, instead of finding a suitable prediction confidence threshold.
-
-We begin by defining a \emph{training scenario} given a data set $D = \{(x^{(t)}, y^{(t)})\}_{t=1}^T$ and a feature presentation $\boldsymbol{\phi}$.
-
-\begin{definition}
-A \textbf{training scenario} is a triple $S = \langle D, \boldsymbol{\phi},C(D) \rangle$ for some confusion set $C(D)$.
-\label{def: training scenario}
-\end{definition}
-
-\noindent The definition of the confusion set $C(D)$ depends on the applied search and is defined later. The separability of a training scenario, given some $C(D)$, is defined as follows. 
-
-\begin{definition}
-A training scenario $S = \langle D, \boldsymbol{\phi}, C(D) \rangle$ is referred to as \textbf{linearly separable}, that is, a data set $D$ is linearly separable given a confusion set $C(D)$ and feature presentation $\boldsymbol{\phi}$ if there exists an oracle parameter vector $\boldsymbol{u}$ $(|\boldsymbol{u}| = 1)$ so that it can correctly classify all $(x,y)$ in $D$, that is, $\boldsymbol{u} \cdot \Delta \boldsymbol{\phi}(x,y,z) \geq 0, \forall (x,y,z) \in C(D)$.
-\label{def: linear separability}
-\end{definition}
-
-\noindent We next define a \emph{violation} which lies in the heart of the violation-fixing perceptron algorithm. 
-
-\begin{definition}
-A triple $(x,y,z)$ is referred to as a \textbf{violation} in training scenario $S = \langle D, \boldsymbol{\phi}, C(D)\rangle$ with respect to parameter vector $\boldsymbol{w}$ if $(x,y,z) \in C(D)$ and $\boldsymbol{w} \cdot \Delta \boldsymbol{\phi}(x,y,z) \leq 0$ \,.
-\label{def: violation}
-\end{definition}
-
-\noindent Given the definitions above, we can restate the theorem on the convergence guarantee of the violation-fixing perceptron algorithm \citep{huang2012}. 
-
-%
-\begin{theorem}
-For a separable training scenario  $S = \langle D, \boldsymbol{\phi}, C(D) \rangle$, the violation-fixing perceptron algorithm makes a finite number of parameter updates before convergence if and only if \textsc{FindViolation} function always returns a violation triple if there are any.
-\label{theorem: convergence of violation-fixing perceptron}
-\end{theorem}
-%
-
-\noindent Subsequently, in order for the convergence theorem to hold, we need to show that the triples $(x,y,z)$ returned by the \textsc{FindViolation} function employing pre-pruned search (line 4 in Figure \ref{fig: pre-pruned findviolation}) are indeed violations.  To this end, we follow \citet{huang2012} and define the \emph{pre-pruned confusion set} and \emph{pre-pruned violation}.
-
-%
-\begin{definition}
-The \textbf{pre-pruned confusion set} $C_{pp}(D)$ for data $D$ is the set of triples $(x,y,z)$, in which each $z_i$ and $y_i$ take values from the label set $\mathcal{G}(x_i)$ defined by guesser $\mathcal{G}$, and in which $z$  differs from the correct label $y$:
-\begin{equation*}
-C_{pp}(D) = \{(x,y,z) \,|\, (x,y) \in D, z_i, y_i \in \mathcal{G}(x_i), 1 \leq i \leq |x|, z \neq y \}
-\end{equation*}
-\end{definition}
-%
-\noindent (Note that the definition of the pre-pruned confusion set requires that the correct label for each word token is included in the search space, that is, $y_i \in \mathcal{G}(x_i), 1 \leq i \leq |x|$. In case this condition does not hold, the training scenario is not pre-pruned separable.)
-%
-\begin{definition}
-A triple $(x,y,z)$ is referred to as \textbf{pre-pruned violation} if $(x,y,z) \in C_{pp}(D)$ and $\boldsymbol{w} \cdot \Delta \boldsymbol{\phi}(x,y,z) \leq 0$.
-\end{definition}
-%
-\noindent Given these definitions, we can provide the required lemma. 
-
-\begin{lemma}
-Each triple $(x,y,z)$ returned by the \textsc{FindViolation} function at line 4 in Figure \ref{fig: pre-pruned findviolation} is a pre-pruned violation. 
-\end{lemma}
-\begin{proof}
-Clearly, $\boldsymbol{w} \cdot \Delta \boldsymbol{\phi}(x,y,z) \leq 0$. By definition, $y_i \in \mathcal{G}(x_i), 1 \leq i \leq |x|$ and $z \neq y$. Because the minimization (line 2) takes place over $\mathcal{G}(x) = \mathcal{G}(x_1) \times \dots \times \mathcal{G}(x_{|x|})$, it follows that $z_i \in \mathcal{G}(x_i)$, and thus $(x,y,z) \in C_{pp}(D)$.
-\end{proof}
-
-
-\subsection{Generalizing to Test Instances}
-
-The convergence analysis in the previous section describes how the perceptron algorithm utilizing pre-pruned search behaves on a training data set. Given a pre-pruned separable training scenario, the perceptron algorithm utilizing the pre-pruned search is guaranteed to find parameters which separate the data. Meanwhile, given a closely separable training scenario, the learned parameters will generalize well to test instances with a high probability \citep{freund1999,collins2002}. % Note that the pre-pruned separability requires that the true label for each word token in data is included in the set of guesses. 
-
-
-
-% The analysis presented in previous section states that the violation-fixing perceptron algorithm utilizing pre-pruned search will converge given that the training data set is pre-pruned separable. 
-% The convergence analysis in the previous section describes how the perceptron algorithm utilizing pre-pruned search behaves on a training data set. However, what we are ultimately interested in is how the parameters yielded by the approach generalize to data subsequent to training, that is, when performing Viterbi search on test instances not seen during model estimation. To this end, we study how the solution yielded by the pre-pruned approach relates to the exact (standard) estimation. 
-
-% First, any parameter vector $\boldsymbol{w}$ which standard separates training scenario $S$ also separates the pre-pruned $S$. In other words, the solution set of exact search is a subset of the solution set of the pre-pruned search. Second, the pre-pruned search coincides with exact search if the number of guesses is equal to the complete tag set, that is, $|G_i(x)| = |\mathcal{Y}|$. Consequently, when the number of guesses is increased and approaches the tag set size, the solution set yielded by pre-pruned search ''shrinks'' into the exact solution set. This means that a suitably high number of guesses can provide a good approximation of the exact search solution while providing large savings in computational cost of the search. 
-
-
-%To this end, we first note that the parameters yielded by the exact (standard) perceptron algorithm generalize to test instances with high probability if the algorithm makes a small number of incorrect predictions on the training data set. 
-
-%To this end, we compare the solution sets provided by the pre-pruned search and exact (standard) search approaches.
-
-
-
-
-
-\subsection{Relation to Exact Search}
-
-In this section, we discuss the relationship between solution sets yielded by the standard, beam and pre-pruned search approaches. To this end, we restate the definitions of \emph{standard confusion set} and \emph{beam confusion set} as presented by \citet{huang2012}. 
-
-\begin{definition}
-The \textbf{standard confusion set} $C_s(D)$ for data set $D = \{(x^{(t)}, y^{(t)})\}_{t=1}^{T}$ is the set of triples $(x,y,z)$ where $z$ is an incorrect label for input $x$, that is
-%
-%\begin{equation*}
-\begin{center}
-$C_s(D) = \{(x,y,z) \,|\, (x,y) \in D, z \in \mathcal{Y} - \{y\} \}$ \, .
-\end{center}
-%\end{equation*}
-%
-\label{def: standard confusion set}
-\end{definition}
-
-%
-\begin{definition}
-The \textbf{beam confusion set} $C_b(D)$ for training data $D = \{(x^{(t)}, y^{(t)})\}_{t=1}^{T}$ is the set of triples $(x, y_{[1:i]}, z_{[1:i]})$ where $y_{[1:i]}$ is an $i$-prefix of the correct label sequence $y$, and $z_{[1:i]}$ is an incorrect $i$-prefix that differs from the correct prefix in at least one position:
-%\begin{equation*}
-\begin{center}
-$C_b(D) = \{(x,y_{[1:i]}, z_{[1:i]} \,|\, (x,y,z) \in C_s(D), 1 \leq i \leq |x|, z_{[1:i]} \neq y_{[1:i]} )\}$ \, .
-\end{center}
-%\end{equation*}
-\end{definition}
-%
-
-\noindent Given these definitions, we first note that any parameter vector $\boldsymbol{w}$ which beam separates training scenario $S$ also standard separates $S$. This is because the standard confusion set $C_s(D)$ is a subset of the beam confusion set $C_b(D)$. 
-%\begin{equation*}
-%C_s(D) = \{(x,y,z) \,|\, (x,y) \in D, z \in \mathcal{Y} - \{y\} \} 
-%\end{equation*}
-%is a subset of the beam confusion set 
-%\begin{equation*}
-%C_b(D) = \{(x,y_{[1:i]}, z_{[1:i]} \,|\, (x,y,z) \in C_s(D), 1 \leq i \leq |x|, z_{[1:i]} \neq y_{[1:i]} )\} \, .
-%\end{equation*}
-% $C_b(D)$ 
-%$C_s(D)$. 
-Similarly, because the pre-pruned confusion set $C_{pp}(D)$ is a subset of the standard confusion set $C_s(D)$, any parameter vector which linearly separates training scenario $S$ also separates the pre-pruned $S$.\footnote{Also, one can always define the guesser $\mathcal{G}$ so that $\mathcal{G}(x_i) = \{y_i\}$, that is, only the correct label $y_i$ is returned for each word token. In this case, any parameter vector $\boldsymbol{w}$ would classify the data correctly. However, this clearly is not a good idea since the perceptron algorithm would be prohibited from making erroneous predictions and would, therefore, completely underfit the training data.} On the other hand, the beam search and exact search are equal when the beam width $\beta$ is sufficiently large, while the pre-pruned and exact search are equal if the guesser returns the full label set $\mathcal{Y}(x_i)$ for each word token $x_i$ in $D$. Consequently, it follows that when the $\beta$ and $\kappa$ are increased, both the beam and pre-pruned solution sets approach the exact solution set, but from different directions (the beam set ''grows'' into the exact set while the pre-pruned set ''shrinks'').  
-
-
-
-
-% Finally, we discuss the relationship between the solution sets yielded by the exact, beam and pre-pruned search approaches. We first note that any beam separable data $D$ is also linearly (standard) separable because the beam confusion set $C_b(D)$ is a superset of the linear (standard) confusion set $C_s(D)$ \citep{huang2012}. Similarly, because the linear (standard) confusion set $C_s(D)$ is a superset of the pre-pruned confusion set $C_{pp}(D)$, any linearly separable $D$ is also pre-pruned separable.\footnote{Also, one can always define the guesser $\mathcal{G}$ so that $\mathcal{G}(x_i^{(t)}) = \{y_i^{(t)}\}$, that is, only the correct label $y_i^{(t)}$ is returned for each word token. However, this clearly is not a good idea since the perceptron algorithm would be prohibited from making erroneous predictions and would, therefore, severely underfit the training data.} On the other hand, the beam search and exact search are equal when the beam width $\beta$ is sufficiently large, while the pre-pruned and exact search are equal if the guesser returns the full label set $\mathcal{Y}(x_i^{(t)})$ for each word token $x_i^{(t)}$ in $D$. What follows is that when the beam width $\beta$ and the number of guesses $\kappa$ are increased, both the beam and pre-pruned solution sets approach the exact solution set, but from different directions (the beam set ''grows'' into the exact set while the pre-pruned set ''shrinks'').  
- 
-%Finally, we discuss the expected performance of the pre-pruned search approach with respect to the number of guesses per word token provided by the label guesser. We first note that the pre-pruned and exact search are equal if the guesser returns the full label set $\mathcal{Y}(x_i^{(t)})$ for each word token $x_i^{(t)}$, $1 \leq i \leq |y^{(t)}|$, $1 \leq t \leq T$. On the other hand, any linearly (standard) separable data set $D$ is also pre-pruned separable because the standard (linear) confusion set $C_s(D)$ is a superset of the pre-pruned confusion set $C_{pp}(D)$.\footnote{Also, one can always define the guesser $\mathcal{G}$ so that $\mathcal{G}(x_i^{(t)}) = \{y_i^{(t)}\}$, that is, only the correct label $y_i^{(t)}$ is returned for each word token. However, this clearly is not a good idea since the perceptron algorithm would be prohibited from making erroneous predictions and would, therefore, severely underfit the training data.} Consequently, by choosing a suitable number of guesses, we expect to obtain comparable accuracy to exact search (and beam search) while gaining substantial speed-ups. This intuition is supported by the empirical results presented in Section \ref{sec: experiments 2}.
-
-
-
-
-
-
-
-
-\begin{table}[t!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{cccccccc} 
-%\hline
-%\noalign{\smallskip}
-\multicolumn{1}{c}{}  & \multicolumn{2}{c}{acc.} &  \multicolumn{2}{c}{OOV acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-toolkit & tags & lemma & tags & lemma & tagger & lemmatizer &  \\
-\hline
-\noalign{\smallskip}
-\multicolumn{8}{l}{\emph{Without Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 90.36 & - & 63.27 & - & 2 s & - & 19,000 \\
-MarMot & \bf 93.01 & - &  \bf 78.28 & - & 40 min & - & 1,000 \\
-Morfette & 90.69 & 87.14 & 69.59 & 62.58 & 175 min & 13 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & 92.68 & \bf 91.66 & 74.05 & \bf 63.75 & 5 min & 6 min & 6,000 \\
-% Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}
-\multicolumn{6}{l}{\emph{With Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 91.64 & - & 76.07 & - & 2 s & - & 101,000 \\
-MarMot & \bf 96.29 & - & 91.04 & - & 38 min & - & 1,000 \\
-Morfette & 93.91 & 89.33 & 82.19 & 72.04 & 203 min & 16 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & 96.07 & \bf 91.98 & 91.04 & \bf 84.66 & 4 min & 6 min & 16,000 \\
-%Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}
-\end{tabular}
-\end{center}
-%\end{small}
-\caption{Results for Turku Dependency Treebank.}
-\label{tab: turku results}
-\end{table}
-
-
-\begin{table}[t!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{cccccccc} 
-%\hline
-%\noalign{\smallskip}
-\multicolumn{1}{c}{}  & \multicolumn{2}{c}{acc.} &  \multicolumn{2}{c}{OOV acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-toolkit & tags & lemma & tags & lemma & tagger & lemmatizer & \\
-\hline
-\noalign{\smallskip}
-\multicolumn{8}{l}{\emph{Without Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 91.40 & - & 70.53 & - & 2 s & - & 29,000  \\
-MarMot & 93.52 & - & 80.84 &   & 22 min &   & 2,000 \\
-Morfette & 92.06 & 93.27 & 75.73 & 73.93 & 124 min & 8 min & 40 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos & 93.22 & 90.10 & 78.34 & 56.17 & 1 min & 3 min & 6,000  \\
-%Finnpos (ML) & & & & & & & & \\
-\hline
-\noalign{\smallskip}\multicolumn{6}{l}{\emph{With Morphological Analyzer}}  \\
-\hline
-\noalign{\smallskip}
-HunPos & 93.65 & - & 82.55 & - & 2 s & - & 141,000 \\
-MarMot & 96.21 & - & 91.46 & - & 24 min & - & 1,000 \\
-Morfette & 95.03 & 95.66 & 86.81 & 83.12 & 128 min & 8 min & 60 \\
-%\noalign{\smallskip}
-%\hdashline
-%\noalign{\smallskip}
-FinnPos  & 96.24 & 95.48 & 92.49 & 83.99 & 3 min & 3 min & 18,000 \\
-%Finnpos (ML) & & & & & & & & \\
-\end{tabular}
-\end{center}
-%\end{small}
-\caption{Results for Finn Treebank.}
-\label{tab: finn results}
-\end{table}
 
