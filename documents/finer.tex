@@ -98,29 +98,24 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be useful, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider .
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider .
 
-In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. The main contributions include:
-
-\begin{itemize}
-\item[1.] We present a corpus of XXX word tokens with a manually prepared named entity annotation. The corpus is freely available.
-
-\item[2.] We present a statistical named entity recognition toolkit for Finnish. The toolkit is built on the recently published Finnish morphological annotation toolkit, FinnPos, and is freely available. 
-
-\end{itemize}
+In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus of XXX word tokens with a manually prepared named entity annotation. The corpus consists of technology related new articles and is freely available. Second, we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
 
 The rest of the paper is organized as follows.
 
 
 
 
-\section{Data}
-\label{sec: data}
+\section{Corpus}
+\label{sec: corpus}
+
+In this section, we describe the text material, the set of named entity classes, and the annotation process.
 
 \subsection{Text}
 \label{sec: text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 250,000 word tokens in total. In addition to raw word forms, the corpus includes meta data describing if the word tokens belong to a headline, an ingress, or article body. 
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains XXX word tokens in total. In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
 
 
 \subsection{Named Entities}
@@ -193,11 +188,10 @@ Markable products include:
 \item[1.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
 \item[1.] Space probes: e.g. Opportunity
 \item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
-\item[1.] Technogies: e.g. 4G, HoloLens-teknologia
+\item[1.] Technologies: e.g. 4G, HoloLens-teknologia
 \item[1.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker
  
 \end{itemize}
-
 
 
 \paragraph{Event}
@@ -210,7 +204,6 @@ Markable events include:
 \item[1.] Explicitly marked events: e.g. Mobile World-tapahtuma
 
 \end{itemize}
-
 
 
 \paragraph{Temporal} Markable temporal expressions include:
@@ -232,6 +225,7 @@ According to our definition, temporal expressions may contain adpositions. For e
 \paragraph{Title}
 
 Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
+
 
 
 
@@ -262,14 +256,14 @@ Titles for people are markable if they appear in the immediate pre-context of pr
 
 \subsection{Annotation Process}
 
-In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text in to two parts, training and test sections. In the training section, we include all articles published during 2014 while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C.
+In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C.
 
 % Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
 
 
 \subsection{Statistics}
 
-The resulting training and test sections contain xx and yy word tokens, respectively. The number of each named entity class in both sections are presented in Table \ref{tab: statistics}.
+The resulting training and test sections contain xx and yy word tokens, respectively. The count of each named entity class is presented in Table \ref{tab: statistics}.
 
 
 \begin{table}[h!]
@@ -281,26 +275,32 @@ The resulting training and test sections contain xx and yy word tokens, respecti
 Training & count & \% \\ 
 \hline
 \noalign{\smallskip}
-PERSON & \\
-LOCATION & \\
-ORGANIZATION & \\
-PRODUCT & \\
-EVENT & \\
-TITLE & \\
-TEMPORAL & \\
+PERSON & & \\
+LOCATION & &  \\
+ORGANIZATION & & \\
+PRODUCT & & \\
+EVENT & & \\
+TITLE & & \\
+TEMPORAL & & \\
+\hline
+\noalign{\smallskip}
+TOTAL & & \\
+& & \\
 \hline
 \noalign{\smallskip}
 Test & count & \% \\ 
 \hline
 \noalign{\smallskip}
-PERSON & \\
-LOCATION & \\
-ORGANIZATION & \\
-PRODUCT & \\
-EVENT & \\
-TITLE & \\
-TEMPORAL & \\
-\end{tabular}
+PERSON & & \\
+LOCATION & &  \\
+ORGANIZATION & & \\
+PRODUCT & & \\
+EVENT & & \\
+TITLE & & \\
+TEMPORAL & & \\
+\hline
+\noalign{\smallskip}
+TOTAL & & \\\end{tabular}
 \end{center}
 % \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
 \caption{Counts and relative portions of named entity classes in training and test corpora.}
@@ -325,30 +325,56 @@ TEMPORAL & \\
 \section{Named Entity Recognizer}
 \label{sec: named entity recognizer}
 
-In this section, we present how we extend the FinnPos system \citep{silfverberg2015} for named entity recognition.
+In this section, we present our statistical named entity recognizer. The recognizer is trained using the annotated corpus described in Section \ref{sec: corpus} and can subsequently be applied to extract named entities in a running text. 
 
+\subsection{Overview}
 
-\subsection{FinnPos}
+The system utilizes two main components.
 
-The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+\begin{itemize}
 
+\item[1.] We interpret the NER task as a sequential tagging task and perform the tagging using the averaged perceptron algorithm \citep{collins2002}.
 
-\subsection{Extending FinnPos for Named Entity Recognition}
+\item[2.] In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes.
 
-In order to extend the FinnPos system for named entity recognition, we adapt the following procedure. First, given training data, we augment the word tokens in the data with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. Second, we learn a word embedding from the unannotated data. As a result, each training word token is associated with two morphological tags and two lemmas, and an $z$-dimensional real-valued word embedding vector. Third, we interpret the named entity recognition task as a sequential tagging problem with the classic BIO-annotation scheme and apply a second-order averaged perceptron classifier \citep{collins2003}. Specifically, the perceptron classifier employs the following feature extraction scheme at each word position $i$ for a given training sentence:
+%\subsection{FinnPos}
+%The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+
+ \end{itemize}
+
+%Given a sentence $x = (x_1, \dots, x_{|x|})$ and a label sequence $y = (y_1, \dots, y_{|x|})$, the structured perceptron classifier assigns the pair $(x,y)$ a score
+%
+%\begin{eqnarray}
+%\text{score}(x,y; \boldsymbol{w}) & = & \sum_{i=n}^{|x|} \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \, ,						
+%\label{eq: perceptron}
+%\end{eqnarray}
+%
+%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
+
+\subsection{Feature Extraction}
+
+The appeal of the perceptron classifier \citep{collins2002} lies in its capability of utilizing rich, overlapping feature sets when mapping a sentence to a corresponding tag sequence. Specifically, each word/label position $i$ in a given sentence is associated with  a set of features describing the input sentence. Our basic feature set contains the following features:
 
 \begin{itemize}
 \item[1.] Bias (always active irrespective of input).
 \item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
 \item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
 \item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
-\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
-\item[6.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
-\item[6.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$ for both TDT and FTB. 
-\item[7.] The embedding dimension for word form $x_i$. 
 \end{itemize}
 
-Subsequent to performing the perceptron learning, the resulting classifier can be applied to assign named entity annotation to any given test sentence.
+Moreover, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+\subsection{Implementation Details}
+\label{sec: implementation details}
 
 
 \section{Experiments}
@@ -359,6 +385,8 @@ Subsequent to performing the perceptron learning, the resulting classifier can b
 
 \subsection{Reference Systems}
 \label{sec: reference systems}
+
+
 
 \subsection{Evaluation}
 \label{sec: evaluation}
@@ -378,7 +406,6 @@ Subsequent to performing the perceptron learning, the resulting classifier can b
 \label{sec: conclusions}
 
 
-Future work: Fine-grained annotation.
 
 
 
