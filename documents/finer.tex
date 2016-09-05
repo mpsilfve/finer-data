@@ -164,7 +164,7 @@ Markable organizations include:
 \item[1.] Communities of people: e.g. Google Orkut
 \item[1.] Education and research institutes: e.g. Turun Yliopisto
 \item[1.] Political parties: e.g. Kokoomus (the National Coalition Party)
-\item[1.] Public administration: e.g. Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
+\item[1.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Parlamentti () % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
 \item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
 \item[1.] Television network/station/channel: e.g. MTV3, FOX
 \item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
@@ -397,12 +397,71 @@ Moreover, we augment the word tokens of each processed sentence with morphologic
 \subsection{Results}
 \label{sec: results}
 
+\paragraph{Precision, Recall, and F-scores}
+% \label{sec: results1}
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+Location  & x & y & z  \\
+Organization  & x & y & z  \\
+Person  & x & y & z  \\
+Product  & x & y & z  \\
+Title  & x & y & z  \\
+Event  & x & y & z  \\
+Temporal  & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class.}
+\label{tab: precision recall and f-scores}
+\end{table}
+
+
+\paragraph{Confusion Matrix}
+% \label{sec: results2}
+
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccccccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+& Location & Organization & Person & Product & Ttile & Event & Temporal \\
+\hline
+\noalign{\smallskip}
+Location  & & & & & & &  \\
+Organization  & & & & & & &  \\
+Person  & & & & & & &  \\
+Product  & & & & & & &  \\
+Title  & & & & & & &  \\
+Event  & & & & & & &  \\
+Temporal  & & & & & & &  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Confusion matrix for named entity classes.}
+\label{tab: confusion matrix}
+\end{table}
+
 \subsection{Discussion}
 \label{sec: discussion}
 
 
 
-\section{Conclusions and Future Work}
+\section{Conclusions}
 \label{sec: conclusions}
 
 
