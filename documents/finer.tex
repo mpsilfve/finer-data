@@ -380,6 +380,8 @@ Moreover, we augment the word tokens of each processed sentence with morphologic
 \subsection{Implementation Details}
 \label{sec: implementation details}
 
+Bundled with the FinnPos system.
+
 
 \section{Experiments}
 \label{sec: experiments}
@@ -407,6 +409,11 @@ test & x & y \\
 \caption{Training, development, and test set sizes.}
 \label{tab: set sizes}
 \end{table}
+
+
+\subsection{Training Details}
+\label{sec: training details}
+
 
 
 \subsection{Reference Systems OR The FiNER System}
@@ -487,7 +494,7 @@ TEMP  & & & & & & &  - \\
 \end{tabular}
 \end{center}
 %\end{small}
-\caption{Confusion matrix for named entity classes. Each element represent the number of times a row-entity was mislabeled for a column-label. For example, a person-entity was mistakenly labeled as a person-entity X times.}
+\caption{Confusion matrix for named entity classes. Each element represent the number of times a row-entity was mislabeled as a column-entity. For example, a location-entity was incorrectly labeled as a person-entity X times.}
 \label{tab: confusion matrix}
 \end{table}
 
@@ -499,7 +506,15 @@ The training time of the system was XX minutes. Subsequent to training, the syst
 \subsection{Discussion}
 \label{sec: discussion}
 
-In the following, we 
+In the following, we provide comments for aspects of the experiments we deem most important. 
+
+First, the product-class was difficult. Also noted lately in SweNER.
+
+Second, confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+
+Third, the temporal expressions could have been difficult but were not because the subclauses were left out?
+
+Fourth, the rule-based system did not provide any advantage over the statistical.
 
 
 
