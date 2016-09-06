@@ -102,7 +102,9 @@ Named entity recognition (NER) is a textual information extraction task, in whic
 
 In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus of XXX word tokens with a manually prepared named entity annotation. The corpus consists of technology related new articles and is freely available. Second, we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
 
-The rest of the paper is organized as follows.
+The rest of the paper is organized as follows. We describe the corpus with manually prepared named entity annotation and the named entity recognition system in Sections \ref{sec: corpus} and \ref{sec: named entity recognizer}, respectively.
+% In Section \ref{sec: corpus}, we describe the corpus with manually prepared named entity annotation. In Section \ref{sec: named entity recognizer}, we present the named entity recognizer. 
+We then present experimental evaluation of the system in Section \ref{sec: experiments}. Finally, conclusion on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -115,7 +117,7 @@ In this section, we describe the text material, the set of named entity classes,
 \subsection{Text}
 \label{sec: text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source. The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains XXX word tokens in total. In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains XXX word tokens in total. In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
 
 
 \subsection{Named Entities}
@@ -125,7 +127,7 @@ In this section, we describe the named entity classes.
 
 
 
-\paragraph{Person}
+\paragraph{Person (PER}
 
 Markable person names include:
 
@@ -139,7 +141,7 @@ Markable person names include:
 
 
 
-\paragraph{Location}
+\paragraph{Location (LOC)}
 
 Markable locations include:
 
@@ -154,7 +156,7 @@ Markable locations include:
 \end{itemize}
 
 
-\paragraph{Organization}
+\paragraph{Organization (ORG)}
 
 Markable organizations include:
 
@@ -164,7 +166,7 @@ Markable organizations include:
 \item[1.] Communities of people: e.g. Google Orkut
 \item[1.] Education and research institutes: e.g. Turun Yliopisto
 \item[1.] Political parties: e.g. Kokoomus (the National Coalition Party)
-\item[1.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Parlamentti () % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
+\item[1.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Unioni (the European Union) % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
 \item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
 \item[1.] Television network/station/channel: e.g. MTV3, FOX
 \item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
@@ -173,7 +175,7 @@ Markable organizations include:
 \end{itemize}
 
 
-\paragraph{Product}
+\paragraph{Product (PROD)}
 
 Markable products include:
 
@@ -194,7 +196,7 @@ Markable products include:
 \end{itemize}
 
 
-\paragraph{Event}
+\paragraph{Event (EVENT)}
 
 Markable events include:
 
@@ -206,7 +208,7 @@ Markable events include:
 \end{itemize}
 
 
-\paragraph{Temporal} Markable temporal expressions include:
+\paragraph{Temporal (TEMP)} Markable temporal expressions include:
 
 \begin{itemize}
 
@@ -219,10 +221,12 @@ Markable events include:
 
 \end{itemize}
 
-According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. According to the above criteria, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
+According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. 
+
+Following the above presentation, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
 
 
-\paragraph{Title}
+\paragraph{Title (TITLE)}
 
 Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
 
@@ -256,14 +260,14 @@ Titles for people are markable if they appear in the immediate pre-context of pr
 
 \subsection{Annotation Process}
 
-In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C.
+In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C. The purpose of this three-stage procedure is to ensure a high test set quality.
 
 % Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
 
 
 \subsection{Statistics}
 
-The resulting training and test sections contain xx and yy sentences, or xx and yy word tokens, respectively. The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
+The resulting training and test sections contain xx and yy articles, or xx and yy word tokens, respectively. The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
 
 
 \begin{table}[h!]
@@ -275,13 +279,13 @@ The resulting training and test sections contain xx and yy sentences, or xx and 
 Training & count & \% \\ 
 \hline
 \noalign{\smallskip}
-PERSON & & \\
-LOCATION & &  \\
-ORGANIZATION & & \\
-PRODUCT & & \\
+PER & & \\
+LOC & &  \\
+ORG & & \\
+PROD & & \\
 EVENT & & \\
 TITLE & & \\
-TEMPORAL & & \\
+TEMP & & \\
 \hline
 \noalign{\smallskip}
 TOTAL & & \\
@@ -291,13 +295,13 @@ TOTAL & & \\
 Test & count & \% \\ 
 \hline
 \noalign{\smallskip}
-PERSON & & \\
-LOCATION & &  \\
-ORGANIZATION & & \\
-PRODUCT & & \\
+PER & & \\
+LOC & &  \\
+ORG & & \\
+PROD & & \\
 EVENT & & \\
 TITLE & & \\
-TEMPORAL & & \\
+TEMP & & \\
 \hline
 \noalign{\smallskip}
 TOTAL & & \\\end{tabular}
@@ -380,22 +384,53 @@ Moreover, we augment the word tokens of each processed sentence with morphologic
 \section{Experiments}
 \label{sec: experiments}
 
+In this section, we present the evaluation of the named entity recognition system described in Section \ref{sec: named entity recognizer} on the corpus described in Section \ref{sec: corpus}.
+
 \subsection{Data}
 \label{sec: data}
 
-\subsection{Reference Systems}
+We employ the training and test set division of the data described in Section \ref{sec: corpus}. A separate development set is formed from the training data by extracting every 10th article, starting from the 10th article. (The articles are separated using the headline information referred to in Section \ref{sec: corpus}.) The resulting training, development, and test set sizes are presented in Table \ref{tab: set sizes}.
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lcc} 
+ & \#articles & \#tokens \\
+\hline
+\noalign{\smallskip}
+training & x & y  \\
+development  & x & y  \\
+test & x & y \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Training, development, and test set sizes.}
+\label{tab: set sizes}
+\end{table}
+
+
+\subsection{Reference Systems OR The FiNER System}
 \label{sec: reference systems}
 
+As a reference system, we use the rule-based named entity recognized developed at Helsinki University.  
+
+OR 
+
+In addition to the statistical named entity recognizer described in Section \ref{sec: named entity recognizer}, we evalute the rule-based named entity recognizer, FiNER, developed at the Helsinki University.
 
 
-\subsection{Evaluation}
+\subsection{Evaluation and Error Analysis}
 \label{sec: evaluation}
 
-\subsection{Hardware}
-\label{sec: hardware}
+We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the geometric mean of precision and recall).
+
+In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
+
+
 
 \subsection{Results}
 \label{sec: results}
+
 
 \paragraph{Precision, Recall, and F-scores}
 % \label{sec: results1}
@@ -410,13 +445,13 @@ Moreover, we augment the word tokens of each processed sentence with morphologic
 Entity class & pre & rec & F \\
 \hline
 \noalign{\smallskip}
-Location  & x & y & z  \\
-Organization  & x & y & z  \\
-Person  & x & y & z  \\
-Product  & x & y & z  \\
-Title  & x & y & z  \\
-Event  & x & y & z  \\
-Temporal  & x & y & z  \\
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+TEMP  & x & y & z  \\
 \hline
 \noalign{\smallskip}
 Any & x & y & z  \\
@@ -439,25 +474,32 @@ Any & x & y & z  \\
 %\hline
 %\noalign{\smallskip}
 %\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-& Location & Organization & Person & Product & Ttile & Event & Temporal \\
+& LOC & ORG & PERSON & PROD & TITLE & EVENT & TEMP \\
 \hline
 \noalign{\smallskip}
-Location  & & & & & & &  \\
-Organization  & & & & & & &  \\
-Person  & & & & & & &  \\
-Product  & & & & & & &  \\
-Title  & & & & & & &  \\
-Event  & & & & & & &  \\
-Temporal  & & & & & & &  \\
+LOC  & - & & & & & &  \\
+ORG  & & - & & & & &  \\
+PER  & & & - & & & &  \\
+PRO  & & & & - & & &  \\
+TITLE  & & & & & - & &  \\
+EVENT  & & & & & & - &  \\
+TEMP  & & & & & & &  - \\
 \end{tabular}
 \end{center}
 %\end{small}
-\caption{Confusion matrix for named entity classes.}
+\caption{Confusion matrix for named entity classes. Each element represent the number of times a row-entity was mislabeled for a column-label. For example, a person-entity was mistakenly labeled as a person-entity X times.}
 \label{tab: confusion matrix}
 \end{table}
 
+\paragraph{Time Requirements}
+
+The training time of the system was XX minutes. Subsequent to training, the system's decoding speed was XXXXXX tokens per second, resulting in a decoding time of XX minutes in total. The experiments were run on a standard desktop computer XX XX XX.
+
+
 \subsection{Discussion}
 \label{sec: discussion}
+
+In the following, we 
 
 
 
