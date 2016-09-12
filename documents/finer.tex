@@ -82,7 +82,7 @@
 
 \begin{document}
 
-\title{Statistical Named Entity Recognition Resources for Finnish}
+\title{(Statistical) Named Entity Recognition Resources for Finnish}
 \author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
 
 
@@ -98,9 +98,22 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider .
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus of XXX word tokens with a manually prepared named entity annotation. The corpus consists of technology related new articles and is freely available. Second, we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
+While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning, that is, development of statistical models and manually annotated corpora for their training. Since the 1990s, data sets with NER annotation have been created for a wide range of languages, including English \citep{grishman1996,tjong2003}, German \citep{tjong2003}, Chinese \citep{hovy2006}, Swedish \citep{}, Chinese, and Spanish. Similarly, a wide range of statistical methods have been proposed for the learning problem, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic depencies \citep{}. Nervetheless, despite the success and popularity of statistical methodology, some recent work has been conducted on rule-based system as well \citep{}. 
+
+% For some languages, such as English and German, data resources were introduced already during the 1990s and early 2000s \citep{}. A wide range of statistical methods have been applied for performing 
+% Readily applicable toolkits, such as the Stanford Named Entity Recognizer \citep{}, trained on these corpora were releasted soon after.\footnote{For the Stanford Named Entity Recognizer, see \url{}.} 
+
+In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{} and the rule-based FiNer system developed at the University of Helsinki.
+
+In earlier work, \citet{kettunen2016} applied the FiNer system in a extracting named entities in historical Finnish news papers. However, results of this experimentaion are of little practical use for two reasons. First, the FiNer system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text.
+
+% In a related work, \citet{makela2011} describes ARPA toolkit employed for semantic web tagging and linking of entities. However, Instead of locating named entities from a predefined set, ARPA aims to locate all entities that can be linked to strong identifiers elsewhere. Through these, it is then for example possible to source coordinates for identified places, or associate different name variants and spellings to a single individual. For the pure entity recognition task presented in this paper, ARPA is thus at a disadvantage. However, we wanted to see how it would fare in comparison to FiNER.While it might be possible to develop its , we do not consider the toolkit a named entity recognizer and, therefore, exclude it from the experiments of this paper.
+
+% we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
+
+
 
 The rest of the paper is organized as follows. We describe the corpus with manually prepared named entity annotation and the named entity recognition system in Sections \ref{sec: corpus} and \ref{sec: named entity recognizer}, respectively.
 % In Section \ref{sec: corpus}, we describe the corpus with manually prepared named entity annotation. In Section \ref{sec: named entity recognizer}, we present the named entity recognizer. 
@@ -123,8 +136,7 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-In this section, we describe the named entity classes.
-
+% In this section, we describe the named entity classes.
 
 
 \paragraph{Person (PER}
@@ -139,6 +151,7 @@ Markable person names include:
 
 \end{itemize}
 
+The entities can span multiple words, for example, "Sauli Niinistš". 
 
 
 \paragraph{Location (LOC)}
@@ -152,6 +165,8 @@ Markable locations include:
 \item[3.] Cities: e.g. Helsinki
 \item[4.] Planets: e.g. Mars
 \item[5.] Buildings: e.g. Valkoinen talo (the White House)
+
+
 
 \end{itemize}
 
@@ -310,6 +325,13 @@ TOTAL & & \\\end{tabular}
 \caption{Counts and relative portions of named entity classes in training and test corpora.}
 \label{tab: statistics} 
 \end{table}
+
+
+%\subsection{Morphological Annotation}
+
+%In addition to the manually prepared named entity annotation, we augment the corpus with automatically assigned lemmas and morphological labels. To this end, we utilize the FinnPos toolkit \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, each word token in the corpus is tagged and lemmatized by FinnPos using the two models.
+
+
 
 
 
