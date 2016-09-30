@@ -98,7 +98,7 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{events}, \textit{measures}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, \textit{organizations}, and \textit{events}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
 Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages, including English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
 
@@ -139,10 +139,9 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-% In this section, we describe the named entity classes.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, which appear in the vast majority of published work on NER \citep{}. In addition, our annotation contains the classes \textit{products} and \textit{events}. Finally, our annotation also includes \textit{temporal expressions} and \textit{titles}. While we do not consider the last two named entities, we will refer to them as such for simplicity. In the following, we describe the classes in more detail.
 
-
-\paragraph{Person (PER}
+\paragraph{Person (PER)}
 
 Markable person names include:
 
@@ -226,6 +225,8 @@ Markable events include:
 \end{itemize}
 
 
+
+
 \paragraph{Temporal (TEMP)} Markable temporal expressions include:
 
 \begin{itemize}
@@ -247,7 +248,6 @@ Following the above presentation, a wide range of temporal expressions are inclu
 \paragraph{Title (TITLE)}
 
 Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
-
 
 
 
@@ -418,7 +418,7 @@ We evaluate the system using the standard \textbf{precision} (the number of corr
 
 In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
 
-Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words. 
+Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
 
 
 
@@ -486,11 +486,34 @@ TEMP  & & & & & & &  - \\
 \end{table}
 
 
-\paragraph{Confusion Matrix}
-
-
 \paragraph{The effect of OOV words}
 
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+TEMP  & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class which contain one or more OOV word.}
+\label{tab: oov precision recall and f-scores}
+\end{table}
 
 \subsection{Discussion}
 \label{sec: discussion}
