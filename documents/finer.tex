@@ -98,18 +98,18 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{products}, \textit{events}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, and \textit{organizations}, but can be extended with such classes as \textit{events}, \textit{measures}, and \textit{temporal expressions}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception, NER has been studied on a wide range of languages, including English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{}, and . While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. Currently, NER is most often viewed as a sequential prediction problem with a wide range of proposed approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic depencies \citep{}. Nervetheless, despite the success and popularity of statistical methodology, some recent work has been conducted on rule-based system as well \citep{}. 
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages, including English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning, that is, development of statistical models and manually annotated corpora for their training. Since the 1990s, data sets with NER annotation have been created for a wide range of languages, including English \citep{grishman1996,tjong2003}, German \citep{tjong2003}, Chinese \citep{hovy2006}, Swedish \citep{}, Chinese, and Spanish. Similarly, a wide range of statistical methods have been proposed for the learning problem, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic depencies \citep{}. Nervetheless, despite the success and popularity of statistical methodology, some recent work has been conducted on rule-based system as well \citep{}. 
 
 % For some languages, such as English and German, data resources were introduced already during the 1990s and early 2000s \citep{}. A wide range of statistical methods have been applied for performing 
 % Readily applicable toolkits, such as the Stanford Named Entity Recognizer \citep{}, trained on these corpora were releasted soon after.\footnote{For the Stanford Named Entity Recognizer, see \url{}.} 
 
-In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{} and the rule-based FiNER system developed at the University of Helsinki.
+In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki.
 
-In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting named entities in historical Finnish news papers. However, results of this experimentaion are of little practical use for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text.
+In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting named entities in historical Finnish newspapers. However, results of this experimentaion are of little practical use for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text.
 
 % In a related work, \citet{makela2011} describes ARPA toolkit employed for semantic web tagging and linking of entities. However, Instead of locating named entities from a predefined set, ARPA aims to locate all entities that can be linked to strong identifiers elsewhere. Through these, it is then for example possible to source coordinates for identified places, or associate different name variants and spellings to a single individual. For the pure entity recognition task presented in this paper, ARPA is thus at a disadvantage. However, we wanted to see how it would fare in comparison to FiNER.While it might be possible to develop its , we do not consider the toolkit a named entity recognizer and, therefore, exclude it from the experiments of this paper.
 
@@ -117,9 +117,10 @@ In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting n
 
 
 
-The rest of the paper is organized as follows. We describe the corpus with manually prepared named entity annotation and the named entity recognition system in Sections \ref{sec: corpus} and \ref{sec: named entity recognizer}, respectively.
+The rest of the paper is organized as follows. We first describe the corpus with manually prepared named entity annotation in Section \ref{sec: corpus}. We then discuss the two applied named entity recogntiion systems and their empirical evaluation in Sections \ref{} and \ref{}, respectively.  
 % In Section \ref{sec: corpus}, we describe the corpus with manually prepared named entity annotation. In Section \ref{sec: named entity recognizer}, we present the named entity recognizer. 
-We then present experimental evaluation of the system in Section \ref{sec: experiments}. Finally, conclusion on the work are presented in Section \ref{sec: conclusions}.
+%We then present experimental evaluation of the systems in Section \ref{sec: experiments}. 
+Finally, conclusion on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -153,7 +154,7 @@ Markable person names include:
 
 \end{itemize}
 
-The entities can span multiple words, for example, "Sauli Niinistš". 
+The entities can span multiple words, for example, "Sauli Niinist\"o". 
 
 
 \paragraph{Location (LOC)}
@@ -207,7 +208,7 @@ Markable products include:
 \item[1.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
 \item[1.] Vehicles/Vessels: e.g. Tesla Model S, Opportunity
 \item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
-\item[1.] Technologies: e.g. 4G, HoloLens-teknologia
+\item[1.] Technologies: e.g. 2G/3G/4G/5G, HoloLens-teknologia
 \item[1.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker
  
 \end{itemize}
@@ -350,38 +351,14 @@ TOTAL & & \\\end{tabular}
 
 
 % \section{A Part-of-Speech Tagger for Finnish}
-\section{Named Entity Recognizer}
-\label{sec: named entity recognizer}
+\section{Named Entity Recognition Systems}
+\label{sec: named entity recognizers}
 
-In this section, we present our statistical named entity recognizer. The recognizer is trained using the annotated corpus described in Section \ref{sec: corpus} and can subsequently be applied to extract named entities in a running text. 
+In this section, we describe the NER systems evaluated in the experiments in Section \ref{sec: experiments}. The recognizers are designed utilizing the annotated corpus described in Section \ref{sec: corpus} and can subsequently be applied to extract named entities in a running text. 
 
-\subsection{Overview}
+\subsection{Stanford Named Entity Recognizer}
 
-The system utilizes two main components.
-
-\begin{itemize}
-
-\item[1.] We interpret the NER task as a sequential tagging task and perform the tagging using the averaged perceptron algorithm \citep{collins2002}.
-
-\item[2.] In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes.
-
-%\subsection{FinnPos}
-%The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
-
- \end{itemize}
-
-%Given a sentence $x = (x_1, \dots, x_{|x|})$ and a label sequence $y = (y_1, \dots, y_{|x|})$, the structured perceptron classifier assigns the pair $(x,y)$ a score
-%
-%\begin{eqnarray}
-%\text{score}(x,y; \boldsymbol{w}) & = & \sum_{i=n}^{|x|} \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \, ,						
-%\label{eq: perceptron}
-%\end{eqnarray}
-%
-%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
-
-\subsection{Feature Extraction}
-
-The appeal of the perceptron classifier \citep{collins2002} lies in its capability of utilizing rich, overlapping feature sets when mapping a sentence to a corresponding tag sequence. Specifically, each word/label position $i$ in a given sentence is associated with  a set of features describing the input sentence. Our basic feature set contains the following features:
+The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
 
 \begin{itemize}
 \item[1.] Bias (always active irrespective of input).
@@ -390,7 +367,7 @@ The appeal of the perceptron classifier \citep{collins2002} lies in its capabili
 \item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
 \end{itemize}
 
-Moreover, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
 
 \begin{itemize}
 \item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
@@ -401,10 +378,9 @@ Moreover, we augment the word tokens of each processed sentence with morphologic
 
 \fixme{Describe sub-lemmas and sub-tags} 
 
-\subsection{Implementation Details}
-\label{sec: implementation details}
 
-Bundled with the FinnPos system.
+
+\subsection{A Rule-Based Named Entity Recognizer for Finnish}
 
 
 \section{Experiments}
@@ -435,27 +411,14 @@ test & x & y \\
 \end{table}
 
 
-\subsection{Training Details}
-\label{sec: training details}
-
-
-
-\subsection{Reference Systems OR The FiNER System}
-\label{sec: reference systems}
-
-As a reference system, we use the rule-based named entity recognized developed at Helsinki University.  
-
-OR 
-
-In addition to the statistical named entity recognizer described in Section \ref{sec: named entity recognizer}, we evalute the rule-based named entity recognizer, FiNER, developed at the Helsinki University.
-
-
 \subsection{Evaluation and Error Analysis}
 \label{sec: evaluation}
 
 We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the geometric mean of precision and recall).
 
 In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
+
+Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words. 
 
 
 
@@ -522,9 +485,11 @@ TEMP  & & & & & & &  - \\
 \label{tab: confusion matrix}
 \end{table}
 
-\paragraph{Time Requirements}
 
-The training time of the system was XX minutes. Subsequent to training, the system's decoding speed was XXXXXX tokens per second, resulting in a decoding time of XX minutes in total. The experiments were run on a standard desktop computer XX XX XX.
+\paragraph{Confusion Matrix}
+
+
+\paragraph{The effect of OOV words}
 
 
 \subsection{Discussion}
@@ -532,13 +497,13 @@ The training time of the system was XX minutes. Subsequent to training, the syst
 
 In the following, we provide comments for aspects of the experiments we deem most important. 
 
-First, the product-class was difficult. Also noted lately in SweNER.
+First, the rule-based system did not provide any advantage over the statistical.
 
-Second, confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+Second, the product-class was difficult. Also noted lately in SweNER. Confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
 
-Third, the temporal expressions could have been difficult but were not because the subclauses were left out?
+Third, the effect of OOV words.
 
-Fourth, the rule-based system did not provide any advantage over the statistical.
+% Fourth, the temporal expressions could have been difficult but were not because the subclauses were left out?
 
 
 
@@ -553,7 +518,7 @@ Fourth, the rule-based system did not provide any advantage over the statistical
 \newpage
 \bibliographystyle{plainnat}
 %\bibliographystyle{spbasic}
-\bibliography{finer.bib}
+\bibliography{finer}
 
 
 
@@ -571,6 +536,59 @@ Fourth, the rule-based system did not provide any advantage over the statistical
 
 
 
+
+
+\subsection{Old}
+
+
+The system utilizes two main components.
+
+\begin{itemize}
+
+\item[1.] We interpret the NER task as a sequential tagging task and perform the tagging using the averaged perceptron algorithm \citep{collins2002}.
+
+\item[2.] In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes.
+
+%\subsection{FinnPos}
+%The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+
+ \end{itemize}
+
+%Given a sentence $x = (x_1, \dots, x_{|x|})$ and a label sequence $y = (y_1, \dots, y_{|x|})$, the structured perceptron classifier assigns the pair $(x,y)$ a score
+%
+%\begin{eqnarray}
+%\text{score}(x,y; \boldsymbol{w}) & = & \sum_{i=n}^{|x|} \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \, ,						
+%\label{eq: perceptron}
+%\end{eqnarray}
+%
+%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
+
+\subsection{Feature Extraction}
+
+The appeal of the perceptron classifier \citep{collins2002} lies in its capability of utilizing rich, overlapping feature sets when mapping a sentence to a corresponding tag sequence. Specifically, each word/label position $i$ in a given sentence is associated with  a set of features describing the input sentence. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+Moreover, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+\subsection{Implementation Details}
+\label{sec: implementation details}
+
+Bundled with the FinnPos system.
 
 
 
