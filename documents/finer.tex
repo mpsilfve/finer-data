@@ -82,7 +82,7 @@
 
 \begin{document}
 
-\title{(Statistical) Named Entity Recognition Resources for Finnish}
+\title{Named Entity Recognition Resources for Finnish}
 \author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
 
 
@@ -98,18 +98,22 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include \textit{persons}, \textit{locations}, \textit{organizations}, and \textit{events}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages, including English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
+
+%While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. 
+%Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. 
+%Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning, that is, development of statistical models and manually annotated corpora for their training. Since the 1990s, data sets with NER annotation have been created for a wide range of languages, including English \citep{grishman1996,tjong2003}, German \citep{tjong2003}, Chinese \citep{hovy2006}, Swedish \citep{}, Chinese, and Spanish. Similarly, a wide range of statistical methods have been proposed for the learning problem, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic depencies \citep{}. Nervetheless, despite the success and popularity of statistical methodology, some recent work has been conducted on rule-based system as well \citep{}. 
 
 % For some languages, such as English and German, data resources were introduced already during the 1990s and early 2000s \citep{}. A wide range of statistical methods have been applied for performing 
 % Readily applicable toolkits, such as the Stanford Named Entity Recognizer \citep{}, trained on these corpora were releasted soon after.\footnote{For the Stanford Named Entity Recognizer, see \url{}.} 
 
-In this paper, we describe our work on building the essential resources for performing statistical named entity recognition for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki.
+In this paper, we describe our work on developing the essential NER resources for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki.
 
-In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting named entities in historical Finnish newspapers. However, results of this experimentaion are of little practical use for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text.
+In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting named entities in historical Finnish newspapers. However, results of this experimentaion are of little practical use for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text. Apart from \citep{kettunen2016}, there has been little to no published literature on NER for Finnish.
 
 % In a related work, \citet{makela2011} describes ARPA toolkit employed for semantic web tagging and linking of entities. However, Instead of locating named entities from a predefined set, ARPA aims to locate all entities that can be linked to strong identifiers elsewhere. Through these, it is then for example possible to source coordinates for identified places, or associate different name variants and spellings to a single individual. For the pure entity recognition task presented in this paper, ARPA is thus at a disadvantage. However, we wanted to see how it would fare in comparison to FiNER.While it might be possible to develop its , we do not consider the toolkit a named entity recognizer and, therefore, exclude it from the experiments of this paper.
 
@@ -117,10 +121,10 @@ In earlier work, \citet{kettunen2016} applied the FiNER system in a extracting n
 
 
 
-The rest of the paper is organized as follows. We first describe the corpus with manually prepared named entity annotation in Section \ref{sec: corpus}. We then discuss the two applied named entity recogntiion systems and their empirical evaluation in Sections \ref{} and \ref{}, respectively.  
+The rest of the paper is organized as follows. We first describe the corpus with manually prepared named entity annotation in Section \ref{sec: corpus}. We then discuss the two applied named entity recogntiion systems and their empirical evaluation in Sections \ref{sec: named entity recognizers} and \ref{sec: experiments}, respectively.  
 % In Section \ref{sec: corpus}, we describe the corpus with manually prepared named entity annotation. In Section \ref{sec: named entity recognizer}, we present the named entity recognizer. 
 %We then present experimental evaluation of the systems in Section \ref{sec: experiments}. 
-Finally, conclusion on the work are presented in Section \ref{sec: conclusions}.
+Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -139,7 +143,8 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, which appear in the vast majority of published work on NER \citep{}. In addition, our annotation contains the classes \textit{products} and \textit{events}. Finally, our annotation also includes \textit{temporal expressions} and \textit{titles}. While we do not consider the last two named entities, we will refer to them as such for simplicity. In the following, we describe the classes in more detail.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the\textit{enamex} since MUC-6 competition \citep{grishman1996}. %which appear in the vast majority of published work on NER \citep{nadeau2007}.
+In addition, our annotation contains the classes \textit{products} and \textit{events}. Finally, our annotation also includes \textit{temporal expressions} and \textit{titles}. While we do not consider the last two named entities, we will refer to them as such for simplicity. In the following, we describe the classes in more detail.
 
 \paragraph{Person (PER)}
 
@@ -234,9 +239,9 @@ Markable events include:
 \item[1.] Nouns: e.g. torstai (Thursday), tulevaisuus (the future)
 \item[2.] Noun Phrases: e.g. viimeiset kaksi vuotta (the last two years),  Runebergin p\"aiv\"a (Runeberg Day)
 \item[3.] Adjectives: e.g. t\"am\"anhetkinen (current), kymmenvuotias (ten-year-old) 
-\item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long), 
+\item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long) 
 \item[5.] Adverbs: e.g. \"askett\"ain (recently), kuukausittain (monthly)
-\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago),
+\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago)
 
 \end{itemize}
 
@@ -283,7 +288,7 @@ In order to annotate the text described in Section \ref{sec: text} using the nam
 % Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
 
 
-\subsection{Statistics}
+\subsection{Annotation Statistics}
 
 The resulting training and test sections contain 953 and 241 articles, or xx and yy word tokens, respectively. The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
 
@@ -330,6 +335,12 @@ TOTAL & & \\\end{tabular}
 \end{table}
 
 
+\subsection{Gazetteers}
+
+In addition to the manually prepared named entity annotation, our corpus includes a set of gazetteers which map words into categories. For example, ''Samsung'' is mapped into the category ''yritys'' (''company'') and''Nokia'' into the categories''yritys'' and ''Suomen kunta'' (''Finnish town''). The categories are extracted from the info boxes of Finnish Wikipedia articles in an automatic manner.
+
+
+
 %\subsection{Morphological Annotation}
 
 %In addition to the manually prepared named entity annotation, we augment the corpus with automatically assigned lemmas and morphological labels. To this end, we utilize the FinnPos toolkit \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, each word token in the corpus is tagged and lemmatized by FinnPos using the two models.
@@ -358,7 +369,7 @@ In this section, we describe the NER systems evaluated in the experiments in Sec
 
 \subsection{Stanford Named Entity Recognizer}
 
-The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
+The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
 
 \begin{itemize}
 \item[1.] Bias (always active irrespective of input).
@@ -414,11 +425,20 @@ test & x & y \\
 \subsection{Evaluation and Error Analysis}
 \label{sec: evaluation}
 
-We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the geometric mean of precision and recall).
+We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
+%\begin{equation}
+%\text{precision} = \frac{\text{number of correctly recognized entities}}{y}
+%\end{equation}
+%\begin{equation}
+%\text{recall} = \frac{x}{y} \\
+%\end{equation}
+%\begin{equation}
+%\text{F-score} = \frac{x}{y} \\
+%\end{equation}
 
 In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
 
-Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
+%Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
 
 
 
@@ -486,7 +506,7 @@ TEMP  & & & & & & &  - \\
 \end{table}
 
 
-\paragraph{The effect of OOV words}
+%\paragraph{The effect of OOV words}
 
 \begin{table}[t!]
 %\begin{small}
