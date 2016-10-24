@@ -100,7 +100,9 @@
 
 Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English and German \citep{tjong2003}, Chinese \citep{bai2001}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,benikova2014}, Swedish \citep{dalianis2001}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
+
+%Chinese \citep{bai2001}
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. 
 %Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. 
@@ -143,8 +145,21 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the\textit{enamex} since MUC-6 competition \citep{grishman1996}. %which appear in the vast majority of published work on NER \citep{nadeau2007}.
-In addition, our annotation contains the classes \textit{products} and \textit{events}. Finally, our annotation also includes \textit{temporal expressions} and \textit{titles}. While we do not consider the last two named entities, we will refer to them as such for simplicity. In the following, we describe the classes in more detail.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles}. Expand on this.
+ 
+ Many of the entities marked here as products have been taken into account in previous work to some extent. For example,  in the English CoNLL-2003 data \citep{tjong2003}, programs are included in an entity class labeled as 'MISCELLANEOUS. Meanwhile, in   
+ 
+Nester versus non-nested. \citep{} are nested, other are not.
+
+Pure form versus derivations. To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, \textit{Suomi} is considered as a markable location, whereas \textit{Suomi} and \textit{suomalainen} are not.  An important and quite commonly occurring exception to this rule is the set of cases, in which the compound word still refers to the same named entity: for example, consider ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of simply ''Google'' or iPhone-puhelin (iPhone phone) instead of simply ''iPhone''. 
+
+The entities can span multiple words, for example, "Sauli Niinist\"o" or ''Sony Pictures''. 
+
+Coordination. "Windows- ja Linux-käyttöjärjestelmät". 
+
+In the following, we describe the classes in more detail.
+
+%While we do not consider the last two named entities, we will refer to them as such for simplicity. 
 
 \paragraph{Person (PER)}
 
@@ -157,8 +172,6 @@ Markable person names include:
 \item[3.] Aliases: e.g. DoctorClu
 
 \end{itemize}
-
-The entities can span multiple words, for example, "Sauli Niinist\"o". 
 
 
 \paragraph{Location (LOC)}
@@ -236,18 +249,33 @@ Markable events include:
 
 \begin{itemize}
 
-\item[1.] Nouns: e.g. torstai (Thursday), tulevaisuus (the future)
-\item[2.] Noun Phrases: e.g. viimeiset kaksi vuotta (the last two years),  Runebergin p\"aiv\"a (Runeberg Day)
-\item[3.] Adjectives: e.g. t\"am\"anhetkinen (current), kymmenvuotias (ten-year-old) 
-\item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long) 
-\item[5.] Adverbs: e.g. \"askett\"ain (recently), kuukausittain (monthly)
-\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago)
+\item[1.] Dates and partial dates: e.g. 24.10.2016, 24. lokakuuta (24th October), kahdeskymmenesnelj\"as lokakuuta (twenty-fourth October), lokakuussa 2016 (in October 2016), 2016
+\item[2.] Days and months: e.g. maantanai (monday), marraskuu (November) 
+\item[3.] Decades and centuries: e.g., 1930-luku (the 1930s), 1800-luku (the 19th century)
+%\item[4.] Seasons in combination with a year: e.g. "kes\"all\"a 2016" (in the summer of 2016)
+%\item[1.] Nouns: e.g. torstai (Thursday), tulevaisuus (the future)
+%\item[2.] Noun Phrases: e.g. viimeiset kaksi vuotta (the last two years),  Runebergin p\"aiv\"a (Runeberg Day)
+%\item[3.] Adjectives: e.g. t\"am\"anhetkinen (current), kymmenvuotias (ten-year-old) 
+%\item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long) 
+%\item[5.] Adverbs: e.g. \"askett\"ain (recently), kuukausittain (monthly)
+%\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago)
 
 \end{itemize}
 
-According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. 
+% To be marked as a temporal expression, an entity must contain the name of a day or a month, or a numeral (year or date) expressed by digits or words, or a combination of these. In these cases, the entire expression is tagged. 
+%The name of a season in combination with a year is also tagged, but not the season alone: for example, consider "kesällä 2016" (in the summer of 2016). 
 
-Following the above presentation, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
+In from-to expressions, expressions are tagged as two instances: for example, consider ''vuodesta \textbf{2000} vuoteen \textbf{2010}'' (from the year 2000 until the year 2010).  In from-to expressions using hyphenation, tagging follows tokenization: ''2000-2010'' is tagged as a single expression, while ''2000 - 2010'' is tagged as two instances separated by an outside tag.
+% Words like ''30-luku'' (the 30s) and ''1800-luku'' (the 19th century) are regarded temporal expressions. 
+Words which would be normally classified as temporal expressions may sometimes have a purely nominal use and should not be tagged in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month) or ''Vihaan maanantaita'' (I hate Mondays). % Finally, above definitions for temporal expressions are essentially the same as defined in the Swedish SUC 2.0 annotation standard \citep{} apart from two exceptions. First, their tags are divided into two categories with dates given their own category. Second, \citep{} does not consider decades and centuries as temporal expressions. 
+
+
+%Numerals expressed in digits or words are tagged. For range expressions, the same conventions as for <date> are used.
+
+
+%According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. 
+
+%Following the above presentation, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
 
 
 \paragraph{Title (TITLE)}
