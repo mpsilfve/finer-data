@@ -145,19 +145,8 @@ The text material is extracted from the archives of Digitoday, a Finnish online 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles}. Expand on this.
- 
- Many of the entities marked here as products have been taken into account in previous work to some extent. For example,  in the English CoNLL-2003 data \citep{tjong2003}, programs are included in an entity class labeled as 'MISCELLANEOUS. Meanwhile, in   
- 
-Nester versus non-nested. \citep{} are nested, other are not.
-
-Pure form versus derivations. To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, \textit{Suomi} is considered as a markable location, whereas \textit{Suomi} and \textit{suomalainen} are not.  An important and quite commonly occurring exception to this rule is the set of cases, in which the compound word still refers to the same named entity: for example, consider ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of simply ''Google'' or iPhone-puhelin (iPhone phone) instead of simply ''iPhone''. 
-
-The entities can span multiple words, for example, "Sauli Niinist\"o" or ''Sony Pictures''. 
-
-Coordination. "Windows- ja Linux-käyttöjärjestelmät". 
-
-In the following, we describe the classes in more detail.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles}. In the following, we discuss these classes in more detail.
+%In the following, we describe the classes in more detail.
 
 %While we do not consider the last two named entities, we will refer to them as such for simplicity. 
 
@@ -230,6 +219,7 @@ Markable products include:
  
 \end{itemize}
 
+Entities considered here to belong in the \textit{product} class have been incorporated in previous work to varying extents. For example, in the English CoNLL-2003 data \citep{tjong2003}, projects/programs are included in an entity class labeled as \textit{miscellaneous}. Similarly, in the German NoSta-D corpus \citep{benikova2014}, products are included in an entity class labeled \textit{other}. Meanwhile, in the Swedish HSFT-SweNER system, \citet{kokkinakis2014} define classes \textit{artifact} (food/wine products, prizes, means of communication (vehicles), etc.) and \textit{work\&art} (printed material, names of films, novels and newspapers, sculptures, etc.) which in our annotation would be incorporated in the more general \textit{product} class.
 
 \paragraph{Event (EVENT)}
 
@@ -242,6 +232,7 @@ Markable events include:
 
 \end{itemize}
 
+Again, entities considered in this work as \textit{events} have been incorporated in previous work to varying extents. For example, the English CoNLL-2003 data \citep{tjong2003} assigns events to the class labeled \textit{miscellaneous} while the German NoSta-D corpus \citep{benikova2014} assigns events to the class \textit{other}. Meanwhile, the Swedish HSFT-SweNER system \citep{kokkinakis2014} has a separate class for events. 
 
 
 
@@ -306,7 +297,21 @@ Titles for people are markable if they appear in the immediate pre-context of pr
 %Second, according to \citep{verhagen2010}, 
 
 
+\subsection{General Annotation Guidelines}
 
+In the following, we consider some general aspects of the annotation.
+
+\paragraph{Multi-Word Entities and Nesting}
+
+The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' would be marked as an organization while its sub-part ''Manchester'' would be marked as a location.  In our annotation we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
+
+\paragraph{Derivation and Compounding}
+
+To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, ''Suomi'' (Finland) is considered as a markable location, whereas ''suomalainen'' (Finnish) and ''Suomi-fani'' (a fan of Finland) are not.  An important exception to this rule is the set of cases, in which a markable named entity forms a part of a compound word while the whole compound word refers to that same entity: for example, consider the expression ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of  ''Google'' or ''iPhone-puhelin'' (iPhone phone) instead of ''iPhone''. In these cases, the compound word is considered markable.
+
+\paragraph{Coordination of Compound Words}
+
+Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable.
 
 
 \subsection{Annotation Process}
@@ -366,6 +371,11 @@ TOTAL & & \\\end{tabular}
 \subsection{Gazetteers}
 
 In addition to the manually prepared named entity annotation, our corpus includes a set of gazetteers which map words into categories. For example, ''Samsung'' is mapped into the category ''yritys'' (''company'') and''Nokia'' into the categories''yritys'' and ''Suomen kunta'' (''Finnish town''). The categories are extracted from the info boxes of Finnish Wikipedia articles in an automatic manner.
+
+
+\subsection{File Format}
+
+
 
 
 
