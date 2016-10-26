@@ -240,6 +240,8 @@ We define date as a temporal expression which can be expressed as a triplet (day
 
 Months may sometimes have a purely nominal use and are not markable in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month). In expressions such as ''vuonna 2016'' (in the year 2016), only the numeral part denoting year is markable.  Consequently, in from-to expressions, expressions are tagged as two instances: for example, consider ''vuodesta 2000 vuoteen 2010'' (from the year 2000 until the year 2010).  In from-to expressions using hyphenation, tagging follows tokenization: ''2000-2010'' is tagged as a single expression, while ''2000 - 2010'' is tagged as two instances separated by an outside tag.
 
+Dates, or more generally temporal expressions, are one of the more rarely addressed entity types in previous NER work. For example, in the English CoNLL-2003 \citep{tjong2003} and the German NoSta-D \citep{benikova2014} data, time expressions are not considered at all. On the other hand, the HSFT-SweNER system \citep{kokkinakis2014} considers a wide range of temporal expressions, including absolute expressions such as ''3.10.2016'' and relative ones such as ''next week''. It should be noted, however, that recognition of time expressions and temporal relations has been a research topic of its own interest: see, for example, the TempEval competition \citep{verhagen2007,verhagen2010,verhagen2013}.
+
 
 \paragraph{Temporal (TEMP)} Markable temporal expressions include:
 
