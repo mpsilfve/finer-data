@@ -1,4 +1,4 @@
-Text	Miikka	Teemu	Krister	Final		
+Text	Miikka	Teemu	Krister	Final DATE		
 <HEADLINE>						
 Apple  	B-ORG	B-ORG		B-ORG		
 joutumassa						
@@ -32433,21 +32433,21 @@ joka
 kahdestoista						
 ilmoitti						
 syntymäpäiväkseen						
-1.  	B-TIM	B-TIM		B-TIM		
-tammikuuta  	I-TIM	I-TIM		I-TIM		
+1.  	B-TIM	B-TIM		B-DATE		
+tammikuuta  	I-TIM	I-TIM		I-DATE		
 .						
 						
 Suosittuja						
 olivat						
 myös						
-2.  	B-TIM	B-TIM		B-TIM		
-helmikuuta  	I-TIM	I-TIM		I-TIM		
+2.  	B-TIM	B-TIM		B-DATE		
+helmikuuta  	I-TIM	I-TIM		I-DATE		
 ,						
-3.  	B-TIM	B-TIM		B-TIM		
-maaliskuuta  	I-TIM	I-TIM		I-TIM		
+3.  	B-TIM	B-TIM		B-DATE		
+maaliskuuta  	I-TIM	I-TIM		I-DATE		
 ,						
-4.  	B-TIM	B-TIM		B-TIM		
-huhtikuuta  	I-TIM	I-TIM		I-TIM		
+4.  	B-TIM	B-TIM		B-DATE		
+huhtikuuta  	I-TIM	I-TIM		I-DATE		
 jne.						
 						
 Deittipalvelujen						
@@ -32473,7 +32473,7 @@ joka
 12						
 ilmoitti						
 syntymävuodekseen						
-1978	B-TIM	B-TIM		B-TIM		
+1978	B-TIM	B-TIM		B-DATE		
 .						
 						
 Onkohan						
@@ -32488,7 +32488,7 @@ Enemmistö
 väitti						
 kuitenkin						
 syntyneensä						
-1980-luvulla  	B-TIM	B-TIM		B-TIM		
+1980-luvulla  	B-TIM	B-TIM				
 .						
 						
 Nettiin						
@@ -33221,15 +33221,15 @@ TP-Linkin  	B-ORG	B-ORG		B-ORG
 valmistama						
 on						
 saatavissa						
-31.  	B-TIM	B-TIM		B-TIM		
-elokuuta  	I-TIM	I-TIM		I-TIM		
+31.  	B-TIM	B-TIM		B-DATE		
+elokuuta  	I-TIM	I-TIM		I-DATE		
 .						
 						
 Ennakkotilausmahdollisuutta						
 ei						
 sivuilla						
 vielä						
-torstaiaamuna  	B-TIM	B-TIM		B-TIM		
+torstaiaamuna  	B-TIM	B-TIM				
 ollut						
 ,						
 ainoastaan						
@@ -33417,8 +33417,8 @@ Gozi  	B-PRO	B-PRO		B-PRO
 ,						
 ilmestyi						
 jo						
-vuonna  	B-TIM	B-TIM		B-TIM		
-2007  	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2007  	I-TIM	I-TIM		B-DATE		
 ja						
 tarttui						
 yli						
@@ -33439,7 +33439,7 @@ kehittämiseen
 Latvialainen						
 mies						
 vahvisti						
-perjantaina  	B-TIM	B-TIM		B-TIM		
+perjantaina  	B-TIM	B-TIM				
 Manhattanilla  	B-LOC	B-LOC		B-LOC		
 New  	B-LOC	B-LOC		B-LOC		
 Yorkissa  	I-LOC	I-LOC		I-LOC		
@@ -33485,7 +33485,7 @@ vuotta  	I-TIM	I-TIM	O
 						
 Tuomio						
 langetetaan						
-joulukuussa  	B-TIM	B-TIM		B-TIM		
+joulukuussa  	B-TIM	B-TIM		B-DATE		
 .						
 						
 Gozi  	B-PRO	B-PRO		B-PRO		
@@ -34500,7 +34500,7 @@ ilmeisesti
 ollut						
 toiminnassa						
 viime  	B-TIM	B-TIM	O			
-huhtikuusta  	I-TIM	I-TIM	B-TIM	B-TIM		
+huhtikuusta  	I-TIM	I-TIM	B-TIM	B-DATE		
 alkaen  	Tim?	I-TIM	O			
 .						
 						
@@ -34715,7 +34715,7 @@ Venäläinen
 Maksim  	B-PER	B-PER		B-PER		
 Senakh  	I-PER	I-PER		I-PER		
 otettiin						
-elokuun  	B-TIM	B-TIM		B-TIM		
+elokuun  	B-TIM	B-TIM		B-DATE		
 alussa  	I-TIM	I-TIM	O			
 säilöön						
 Suomessa  	B-LOC	B-LOC		B-LOC		
@@ -35617,7 +35617,7 @@ elämiimme
 ,						
 Dre  	B-PER	B-PER		B-PER		
 sanoi						
-perjantaina  	B-TIM	B-TIM		B-TIM		
+perjantaina  	B-TIM	B-TIM				
 .						
 						
 <HEADLINE>						
@@ -35789,7 +35789,7 @@ työpaikkaa
 kuten						
 yhtiö						
 jo						
-heinäkuussa  	B-TIM	B-TIM		B-TIM		
+heinäkuussa  	B-TIM	B-TIM		B-DATE		
 ennakoi						
 .						
 						
@@ -35830,7 +35830,7 @@ toteutettavaksi
 asteittain						
 ensi  	B-TIM	B-TIM	O			
 vuoden  	I-TIM	I-TIM	O			
-kesäkuun  	I-TIM	I-TIM	B-TIM	B-TIM		
+kesäkuun  	I-TIM	I-TIM	B-TIM	B-DATE		
 loppuun  	I-TIM	I-TIM	O			
 mennessä  	I-TIM	I-TIM	O			
 .						
@@ -35869,7 +35869,7 @@ toiminnoista
 Pomonappi						
 pelasti						
 pinteestä						
-80-luvulla  	B-TIM	B-TIM		B-TIM		
+80-luvulla  	B-TIM	B-TIM				
 						
 tai						
 sitten						
@@ -35918,7 +35918,7 @@ nettiä
 <BODY>						
 Tietokoneet						
 yleistyivät						
-80-luvulla  	B-TIM	B-TIM		B-TIM		
+80-luvulla  	B-TIM	B-TIM				
 niin						
 kotikäytössä						
 kuin						
@@ -36022,8 +36022,8 @@ Friendlyware-sovelluskokoelmassa  	B-PRO	B-PRO		B-PRO
 ,						
 joka						
 julkaistiin						
-vuonna  	B-TIM	B-TIM		B-TIM		
-1982	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+1982	I-TIM	I-TIM		B-DATE		
 .						
 						
 Friendlyware  	B-PRO	B-PRO		B-PRO		
@@ -36399,13 +36399,13 @@ matkapuhelinten
 valmistajaksi						
 Motorolan  	B-ORG	B-ORG		B-ORG		
 ohitse						
-vuonna  	B-TIM	B-TIM		B-TIM		
-1998  	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+1998  	I-TIM	I-TIM		B-DATE		
 .						
 						
 Apple  	B-ORG	B-ORG		B-ORG		
-vuonna  	B-TIM	B-TIM		B-TIM		
-2007  	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2007  	I-TIM	I-TIM		B-DATE		
 julkistama						
 iPhone  	B-PRO	B-PRO		B-PRO		
 oli						
@@ -36418,7 +36418,7 @@ Samsung  	B-ORG	B-ORG		B-ORG
 otti						
 älypuhelinten						
 markkinajohtajuuden						
-2012  	B-TIM	B-TIM		B-TIM		
+2012  	B-TIM	B-TIM		B-DATE		
 ja						
 seuraavana  	B-TIM	B-TIM	O			
 vuonna  	I-TIM	I-TIM	O			
@@ -36462,7 +36462,7 @@ Norjasta  	B-LOC	B-LOC		B-LOC
 Uutena						
 toimitusjohtajana						
 aloittaakin						
-maanantaina  	B-TIM	B-TIM		B-TIM		
+maanantaina  	B-TIM	B-TIM				
 tähän  	B-TIM	B-TIM	O			
 asti  	I-TIM	I-TIM	O			
 Aasian  	B-LOC	B-LOC		B-LOC		
@@ -37374,8 +37374,8 @@ Lähetys
 alkaa						
 kello  	B-TIM	B-TIM	O			
 18  	I-TIM	I-TIM	O			
-Suomen  	B-TIM	B-TIM		B-TIM		
-aikaan  	I-TIM	I-TIM		I-TIM		
+Suomen  	B-TIM	B-TIM				
+aikaan  	I-TIM	I-TIM				
 .						
 						
 <HEADLINE>						
@@ -37913,8 +37913,8 @@ puhelinta
 joka						
 tuli						
 markkinoille						
-vuonna  	B-TIM	B-TIM		B-TIM		
-2007	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2007	I-TIM	I-TIM		B-DATE		
 .						
 						
 						
@@ -37972,7 +37972,7 @@ taustan
 takia						
 puhelin						
 tulee						
-syyskuun  	B-TIM	B-TIM		B-TIM		
+syyskuun  	B-TIM	B-TIM		B-DATE		
 alkupuolella  	I-TIM	I-TIM	O			
 myyntiin						
 myös						
@@ -38038,7 +38038,7 @@ eurolla
 						
 Microsoft  	B-ORG	B-ORG		B-ORG		
 vahvisti						
-elokuussa  	B-TIM	B-TIM		B-TIM		
+elokuussa  	B-TIM	B-TIM		B-DATE		
 vähentävänsä						
 2 300						
 työpaikkaa						
@@ -38052,8 +38052,8 @@ toimipisteensä
 						
 Valtiovarainministeriö  	B-ORG	B-ORG		B-ORG		
 esittää						
-vuoden  	B-TIM	B-TIM		B-TIM		
-2015  	I-TIM	I-TIM		I-TIM		
+vuoden  	B-TIM	B-TIM				
+2015  	I-TIM	I-TIM		B-DATE		
 kolmannessa						
 lisätalousarviossa						
 lisämäärärahaa						
@@ -38245,17 +38245,17 @@ on
 tarkoitus						
 antaa						
 eduskunnalle						
-17.  	B-TIM	B-TIM		B-TIM		
-syyskuussa  	I-TIM	I-TIM		I-TIM		
+17.  	B-TIM	B-TIM		B-DATE		
+syyskuussa  	I-TIM	I-TIM		I-DATE		
 .						
 						
 Budjettiriihi						
 on						
-syyskuun  	B-TIM	B-TIM		B-TIM		
-9.  	I-TIM	I-TIM		I-TIM		
-ja  	I-TIM	I-TIM		I-TIM		
-10.  	I-TIM	I-TIM		I-TIM		
-päivä  	I-TIM	I-TIM		I-TIM		
+syyskuun  	B-TIM	B-TIM		B-DATE	?	
+9.  	I-TIM	I-TIM		I-DATE	?	
+ja  	I-TIM	I-TIM			?	
+10.  	I-TIM	I-TIM		B-DATE	?	
+päivä  	I-TIM	I-TIM		I-DATE	?	
 .						
 						
 <HEADLINE>						
@@ -38508,8 +38508,8 @@ kuntoilutekniikassa
 						
 Yhtiö						
 julkaisi						
-vuonna  	B-TIM	B-TIM		B-TIM		
-2004  	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2004  	I-TIM	I-TIM		B-DATE		
 Sports  	B-PRO	B-PRO		B-PRO		
 Tracker  	I-PRO	I-PRO		I-PRO		
 -sovelluksen  	I-PRO	I-PRO		I-PRO		
@@ -38532,8 +38532,8 @@ avulla
 Yhtiö						
 lopetti						
 palvelun						
-vuonna  	B-TIM	B-TIM		B-TIM		
-2010  	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2010  	I-TIM	I-TIM		B-DATE		
 ,						
 mutta						
 sen						
@@ -38550,7 +38550,7 @@ Amer  	B-ORG	B-ORG		B-ORG
 Sports  	I-ORG	I-ORG		I-ORG		
 osti						
 yhtiön						
-toukokuun  	B-TIM	B-TIM		B-TIM		
+toukokuun  	B-TIM	B-TIM		B-DATE		
 alussa  	I-TIM	I-TIM	O			
 .						
 						
@@ -38600,7 +38600,7 @@ menehtyneenä
 sängystä						
 Gainesvillessä  	B-LOC	B-LOC		B-LOC		
 Floridassa  	B-LOC	B-LOC		B-LOC		
-sunnuntaina  	B-TIM	B-TIM		B-TIM		
+sunnuntaina  	B-TIM	B-TIM				
 .						
 						
 Poliisin						
@@ -38702,7 +38702,7 @@ neljännesvuosituloksensa
 						
 Yhtiö						
 teki						
-kesäkuun  	B-TIM	B-TIM		B-TIM		
+kesäkuun  	B-TIM	B-TIM		B-DATE		
 lopussa  	I-TIM	I-TIM	O			
 päättyneellä  	I-TIM	I-TIM	O			
 vuosineljänneksellä  	I-TIM	I-TIM	O			
@@ -38800,7 +38800,7 @@ huomioimatta
 ,						
 yhtiön						
 tulos						
-huhtikesäkuussa  	B-TIM	B-TIM		B-TIM		
+huhti–kesäkuussa  	B-TIM	B-TIM		B-DATE		
 oli						
 0,62						
 dollaria						
@@ -38873,7 +38873,7 @@ mukaan
 Windows  	B-PRO	B-PRO		B-PRO		
 10  	I-PRO	I-PRO		I-PRO		
 julkaistaan						
-heinäkuun  	B-TIM	B-TIM		B-TIM		
+heinäkuun  	B-TIM	B-TIM		B-DATE		
 lopussa  	I-TIM	I-TIM	O			
 .						
 						
@@ -38927,8 +38927,8 @@ vuonna  	I-TIM	I-TIM	O
 että						
 Nokia  	B-ORG	B-ORG		B-ORG		
 maksoi						
-vuosien  	B-TIM	B-TIM		B-TIM		
-2007-2008  	I-TIM	I-TIM		I-TIM		
+vuosien  	B-TIM	B-TIM				
+2007-2008  	I-TIM	I-TIM		B-DATE		
 tienoilla  	I-TIM	I-TIM	O			
 useita						
 miljoonia						
@@ -39069,7 +39069,7 @@ talousskandaalista
 <BODY>						
 Toshiba  	B-ORG	B-ORG		B-ORG		
 kertoi						
-tiistaina  	B-TIM	B-TIM		B-TIM		
+tiistaina  	B-TIM	B-TIM				
 ,						
 että						
 sen						
@@ -39084,7 +39084,7 @@ Syynä
 on						
 sisäisen						
 tutkinnan						
-tiistaina  	B-TIM	B-TIM		B-TIM		
+tiistaina  	B-TIM	B-TIM				
 julkistettu						
 tulos						
 ,						
@@ -39207,7 +39207,7 @@ vääristelystä
 ,						
 Nikkei-lehti  	B-ORG	B-ORG		B-ORG		
 uutisoi						
-lauantaina  	B-TIM	B-TIM		B-TIM		
+lauantaina  	B-TIM	B-TIM				
 .						
 						
 <BODY>						
@@ -39236,7 +39236,7 @@ Tämä
 voi						
 tapahtua						
 jo						
-syyskuussa  	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-TIM	B-TIM		B-DATE		
 .						
 						
 Uutistoimisto						
@@ -39261,7 +39261,7 @@ omat
 johtopäätöksensä						
 valmiiksi						
 nyt  	B-TIM	B-TIM	O			
-maanantaina  	I-TIM	I-TIM	B-TIM	B-TIM		
+maanantaina  	I-TIM	I-TIM	B-TIM			
 .						
 						
 Paneelin						
@@ -39344,7 +39344,7 @@ liikkeestä
 poistumista						
 .						
 						
-Torstaina  	B-TIM	B-TIM		B-TIM		
+Torstaina  	B-TIM	B-TIM				
 tuomari  	B-TIT	B-TIT		B-TIT		
 William  	B-PER	B-PER		B-PER		
 Alsup  	I-PER	I-PER		I-PER		
@@ -39362,8 +39362,8 @@ Recode  	B-ORG	B-ORG		B-ORG
 kertoo						
 .						
 						
-Vuonna  	B-TIM	B-TIM		B-TIM		
-2013  	I-TIM	I-TIM		I-TIM		
+Vuonna  	B-TIM	B-TIM				
+2013  	I-TIM	I-TIM		B-DATE		
 nostetussa						
 kanteessa						
 vaaditaan						
@@ -39556,8 +39556,8 @@ jonka
 ongelmat						
 tuotiin						
 julki						
-vuonna  	B-TIM	B-TIM		B-TIM		
-2011	I-TIM	I-TIM		I-TIM		
+vuonna  	B-TIM	B-TIM				
+2011	I-TIM	I-TIM		B-DATE		
 .						
 						
 Toshibassa  	B-ORG	B-ORG		B-ORG		
@@ -39580,11 +39580,11 @@ väittävät
 						
 Toshiba  	B-ORG	B-ORG		B-ORG		
 sanoi						
-perjantaina  	B-TIM	B-TIM		B-TIM		
+perjantaina  	B-TIM	B-TIM				
 saavansa						
 tutkintapaneelin						
 raportin						
-maanantaina  	B-TIM	B-TIM		B-TIM		
+maanantaina  	B-TIM	B-TIM				
 .						
 						
 Yhtiö						
@@ -39598,7 +39598,7 @@ kun
 sotku						
 alkoi						
 purkautua						
-huhtikuussa  	B-TIM	B-TIM		B-TIM		
+huhtikuussa  	B-TIM	B-TIM		B-DATE		
 .						
 						
 Toshiba  	B-ORG	B-ORG		B-ORG		
@@ -39606,7 +39606,7 @@ lupaa
 kertoa						
 tutkinnan						
 tuloksista						
-tiistaina  	B-TIM	B-TIM		B-TIM		
+tiistaina  	B-TIM	B-TIM				
 .						
 						
 <HEADLINE>						
@@ -39652,7 +39652,7 @@ haavoittuvuuksista
 Se						
 kertoi						
 käytännöstään						
-toukokuussa  	B-TIM	B-TIM		B-TIM		
+toukokuussa  	B-TIM	B-TIM		B-DATE		
 ja						
 nyt  	Tim?	B-TIM	O			
 se						
@@ -39702,7 +39702,7 @@ haltuunoton
 						
 Päätös						
 seuraa						
-huhtikuista  	B-TIM	B-TIM		B-TIM		
+huhtikuista  	B-TIM	B-TIM				
 tapausta						
 ,						
 missä						
