@@ -1,19 +1,46 @@
-awk 'FNR==1{print ""}1' *.csv | python ../../bin/tag_crude.py
 
 
 
+DATE:
+
+1. syyskuuta: B I
+1. pŠivŠ syyskuuta: B I I
+
+syyskuun 1.: B I
+syyskuun 1. pŠivŠ: B I I
+
+syyskuussa: B
+
+syyskuussa 2010: B I 
+
+2010: B
+
+vuoden 2010 syyskuussa: B I I
+
+vuonna 2010: B I
 
 
+***
+
+syyskuun 1. ja 2. pŠivŠ: B I I I I
+1. ja 2. pŠivŠ syyskuuta: B I I I I
+vuosina 2010 ja 2011: B I I I
+
+**
 
 
+1.-10. syyskuuta: B I
+1. - 10. syyskuuta: B I I I
 
-==================
+2000-2010: B
+2000 - 2010: B I I
 
-tarkista: myšhemmin, hetki, elokuv*, edelleen, enŠŠ, ikinŠ, yhŠ
+vuodesta 2000 vuoteen 2010: B I B I
 
-kŠy lŠpi ORG versus PRO -ongelma sŠŠnnšllŠ ÒepŠselvŠt tapaukset on ORGÓ
+vuoden 2000 syyskuusta vuoden 2001 helmikuuhun: B I I B I I
 
-bluetooth, wlan, 2g(G), 3g(G), 4g(G), 5g(G), e-ink, lte, gps, nfc, vpn, pc, ftp, sql, http, html, ip, dvd -> PRO
+vuoden 2000 syyskuusta helmikuuhun: B I I I
+
 
 
 
