@@ -11691,7 +11691,7 @@ se
 mahdollisti							
 hyökkäykset							
 murtamattomia							
-iOS-laitteita  	B-PRO	B-PRO	B-PRO		B-PRO		
+iOS-laitteita  	B-PRO	B-PRO	B-PRO		B-PRO	?	
 vastaan							
 .							
 							
@@ -11966,8 +11966,8 @@ kokeen
 ,							
 jossa							
 tuhotaan							
-vuoden  		B-TIM	B-TIM				
-1974  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuoden  	B-DATE	B-TIM	B-TIM				
+1974  	I-DATE	I-TIM	I-TIM		B-DATE		
 Cessna-pienkone  	B-PRO	B-PRO	B-PRO		B-PRO		
 .							
 							
@@ -12017,7 +12017,7 @@ internetissä
 Pudotus							
 tapahtuu							
 kello  		B-TIM	B-TIM	O			
-2021							
+20–21							
 Suomen  		B-TIM	B-TIM				
 aikaa  		I-TIM	I-TIM				
 keskiviikkona  		B-TIM	B-TIM				
@@ -12691,8 +12691,8 @@ vuotavan
 OpenSSH-ohjelmisto  	B-PRO	B-PRO	B-PRO		B-PRO		
 on							
 päivittynyt							
-versioon	B-PRO	B-PRO	B-PRO		B-PRO		
-7.1	I-PRO	I-PRO	I-PRO		I-PRO		
+versioon		B-PRO	B-PRO		B-PRO	?	
+7.1		I-PRO	I-PRO		I-PRO	?	
 .							
 							
 Uusi 		B-TIM	B-TIM	O			
@@ -12713,8 +12713,8 @@ tiedottaa
 Viestintävirasto  	B-ORG	B-ORG	B-ORG		B-ORG		
 .							
 							
-Versiossa  	B-PRO	B-PRO	B-PRO		B-PRO		
-7.0  	I-PRO	I-PRO	I-PRO		I-PRO		
+Versiossa  		B-PRO	B-PRO		B-PRO	?	
+7.0  		I-PRO	I-PRO		I-PRO	?	
 on							
 voinut							
 kirjautua							
@@ -12746,7 +12746,7 @@ palvelimista
 ja							
 työasemista							
 uuteen 		B-TIM	B-TIM	O			
-7.1-versioon	B-PRO	B-PRO	B-PRO		B-PRO		
+7.1-versioon		B-PRO	B-PRO		B-PRO	?	
 joko							
 käyttöjärjestelmän							
 paketinhallinnan							
@@ -12757,7 +12757,7 @@ OpenSSH-projektin  	B-PRO	B-PRO	B-PRO		B-PRO
 sivustolta							
 .							
 							
-OpenSSH:ta							
+OpenSSH:ta	B-PRO						
 käytetään							
 erityisesti							
 palvelimien							
@@ -13408,7 +13408,7 @@ Motherboardille  	B-ORG	B-ORG	B-ORG		B-ORG
 <HEADLINE>							
 Cortana-digiavustajan  	B-PRO	B-PRO	B-PRO		B-PRO		
 jakelu							
-Android-puhelimiin  	B-PRO	B-PRO	B-PRO		B-PRO		
+Android-puhelimiin  	B-PRO	B-PRO	B-PRO		B-PRO	?	
 alkoi							
 							
 <DATE>							
@@ -13423,7 +13423,7 @@ on
 nyt  		B-TIM	B-TIM	O			
 saatavilla							
 myös							
-Android-laitteille  	B-PRO	B-PRO	B-PRO		B-PRO		
+Android-laitteille  	B-PRO	B-PRO	B-PRO		B-PRO	?	
 .							
 							
 Apuri							
@@ -13518,7 +13518,7 @@ suunnilleen
 samalla							
 tavalla							
 kuin							
-Windows-laitteissa  	B-PRO	B-PRO	B-PRO		B-PRO		
+Windows-laitteissa  	B-PRO	B-PRO	B-PRO		B-PRO	?	
 .							
 							
 Sillä							
@@ -14140,10 +14140,10 @@ ihonväriin
 							
 <BODY>							
 Suositun							
-Whatsapp-pikaviestisovelluksen  	B-PRO	B-PRO	B-PRO		B-PRO		
-Windows  	I-PRO	I-PRO	I-PRO		I-PRO		
-Phone  	I-PRO	I-PRO	I-PRO		I-PRO		
--versio  	I-PRO	I-PRO	I-PRO		I-PRO		
+Whatsapp-pikaviestisovelluksen  	B-PRO	B-PRO	B-PRO		B-PRO	?	
+Windows  	I-PRO	I-PRO	I-PRO		I-PRO	?	
+Phone  	I-PRO	I-PRO	I-PRO		I-PRO	?	
+-versio  	I-PRO	I-PRO	I-PRO		I-PRO	?	
 on							
 päivittynyt							
 .							
@@ -14688,8 +14688,8 @@ Refocus-  	I-PRO	I-PRO	I-PRO		I-PRO
 ,							
 Lumia  	B-PRO	B-PRO	B-PRO		B-PRO		
 Panorama-  	I-PRO	I-PRO	I-PRO		I-PRO		
-ja  	I-PRO	I-PRO	I-PRO		I-PRO		
-Video  	I-PRO	I-PRO	I-PRO		I-PRO		
+ja  							
+Video  	B-PRO	I-PRO	I-PRO		I-PRO		
 Uploader  	I-PRO	I-PRO	I-PRO		I-PRO		
 -sovellukset  	I-PRO	I-PRO	I-PRO		I-PRO		
 on							
@@ -14767,8 +14767,8 @@ on
 myös							
 Lumia  	B-PRO	B-PRO	B-PRO		B-PRO		
 Panorama-  	I-PRO	I-PRO	I-PRO		I-PRO		
-ja  	I-PRO	I-PRO	I-PRO		I-PRO		
-Video  	I-PRO	I-PRO	I-PRO		I-PRO		
+ja  							
+Video  	B-PRO	I-PRO	I-PRO		I-PRO		
 Uploader  	I-PRO	I-PRO	I-PRO		I-PRO		
 -sovelluksilla  	I-PRO	I-PRO	I-PRO		I-PRO		
 .							
@@ -15404,8 +15404,8 @@ päässeet
 matkatiedot							
 olivat							
 vanhimmillaan							
-vuodelta  		B-TIM	B-TIM				
-2013  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuodelta  	B-DATE	B-TIM	B-TIM				
+2013  	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Asian							
@@ -15839,8 +15839,8 @@ suuri
 peili							
 valettiin							
 jo							
-vuonna  		B-TIM	B-TIM				
-2008	B-DATE			I-TIM	B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2008	I-DATE			I-TIM	B-DATE		
 .							
 							
 Tämän							
@@ -15864,9 +15864,9 @@ saatiin
 aloitettua							
 .							
 							
-Vuoden  		B-TIM	B-TIM				
-2010  	B-DATE	I-TIM	I-TIM		B-DATE		
-elokuun  		I-TIM	I-TIM				
+Vuoden  	B-DATE	B-TIM	B-TIM				
+2010  	I-DATE	I-TIM	I-TIM		B-DATE		
+elokuun  	I-DATE	I-TIM	I-TIM				
 puolivälissä  		I-TIM	I-TIM	O			
 Yhdysvaltain  	B-ORG	B-ORG	B-ORG		B-ORG		
 tiedeakatemia  	I-ORG	I-ORG	I-ORG		I-ORG		
@@ -15905,8 +15905,8 @@ maista
 LSST:n							
 aloittaa							
 kuvaukset							
-vuonna  		B-TIM	B-TIM				
-2022  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2022  	I-DATE	I-TIM	I-TIM		B-DATE		
 ja							
 jatkaa							
 niitä							
@@ -16257,8 +16257,8 @@ nimellään
 varustettuja							
 puhelimia							
 vasta							
-vuoden  		B-TIM	B-TIM				
-2016  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuoden  	B-DATE	B-TIM	B-TIM				
+2016  	I-DATE	I-TIM	I-TIM		B-DATE		
 lopulla  		I-TIM	I-TIM	O			
 .							
 							
@@ -17782,10 +17782,10 @@ ei
 ole							
 kaukana							
 Nokian  	B-ORG	B-ORG	B-ORG		B-ORG		
-"  		B-PRO"				O	
+"  	B-PRO	B-PRO"				O	
 Connecting  	I-PRO	I-PRO	I-PRO		I-PRO		
 people  	I-PRO	I-PRO	I-PRO		I-PRO		
-"  		I-PRO"				O	
+"  	I-PRO	I-PRO"				O	
 -tunnuslauseesta  	I-PRO	I-PRO	I-PRO		I-PRO		
 .							
 							
@@ -18056,8 +18056,8 @@ Hämmentävästi
 puhelin							
 sai							
 Japanissa  	B-LOC	B-LOC	B-LOC		B-LOC		
-Xperia  	B-PRO	B-PRO	B-PRO		B-PRO		
-Z4-nimen  	I-PRO	I-PRO	I-PRO		I-PRO		
+Xperia  	B-MISC	B-MISC	B-MISC		B-MISC	?	
+Z4-nimen  	I-MISC	I-MISC	I-MISC		I-MISC	?	
 ,							
 kun							
 taas							
@@ -18569,8 +18569,8 @@ edelle
 .							
 							
 <BODY>							
-Huawein  	B-PRO	B-PRO	B-PRO		B-PRO		
-Honor  	I-PRO	I-PRO	I-PRO		I-PRO		
+Huawein  	B-ORG	B-ORG	B-ORG		B-ORG		
+Honor  	B-PRO	B-PRO	B-PRO		B-PRO		
 7  	I-PRO	I-PRO	I-PRO		I-PRO		
 -puhelimen  	I-PRO	I-PRO	I-PRO		I-PRO		
 viime  		B-TIM	B-TIM	O			
@@ -19042,8 +19042,8 @@ esittelee
 Berliinin  	B-LOC	B-LOC	B-LOC		B-LOC		
 IFA-messuilla  	B-EVENT	B-EVENT	B-EVENT		B-EVENT		
 4.  	B-DATE	B-TIM	B-TIM		B-DATE		
--		I-TIM	I-TIM				
-9.  	B-DATE	I-TIM	I-TIM		B-DATE		
+-	I-DATE	I-TIM	I-TIM				
+9.  	I-DATE	I-TIM	I-TIM		B-DATE		
 syyskuuta  	I-DATE	I-TIM	I-TIM		I-DATE		
 olemassa							
 oleviin							
@@ -19871,10 +19871,10 @@ Tätä
 kirjoittaessa							
 Tablet  	B-PRO	B-PRO	B-PRO		B-PRO		
 on							
-versiossa  	B-PRO	B-PRO	B-PRO		B-PRO		
-1.1.9.26	I-PRO	I-PRO	I-PRO		I-PRO		
+versiossa  		B-PRO	B-PRO		B-PRO		
+1.1.9.26		I-PRO	I-PRO		I-PRO		
 "  		"				O	
-Eineheminlampi  	B-PRO	B-PRO	B-PRO		B-PRO		
+Eineheminlampi  	B-MISC	B-MISC	B-MISC		B-MISC		
 "  		"				O	
 ja							
 testin							
@@ -20470,7 +20470,7 @@ saadaan
 myöhemmin  		B-TIM	B-TIM	O			
 päivitettyä							
 myös							
-5.0:aa  	B-PRO	B-PRO	B-PRO		B-PRO		
+5.0:aa  							
 vaativiin							
 sovelluksiin							
 .							
@@ -20660,8 +20660,8 @@ soittaa
 							
 Vanhempia							
 2g-	B-MISC	B-MISC	B-MISC		B-MISC		
-ja	I-MISC	I-MISC	I-MISC		I-MISC		
-3g-verkkoja	I-MISC	I-MISC	I-MISC		I-MISC		
+ja							
+3g-verkkoja	B-MISC	B-MISC	B-MISC		B-MISC		
 käyttävät							
 puhelimet							
 toimivat							
@@ -21104,7 +21104,7 @@ Annien  	I-ORG	I-ORG	I-ORG		I-ORG
 kaikkien  		B-TIM	B-TIM	O			
 aikojen  		I-TIM	I-TIM	O			
 tuottoisimpien							
-iOS-pelien  	B-PRO	B-PRO	B-PRO		B-PRO		
+iOS-pelien  	B-MISC	B-MISC	B-MISC		B-MISC		
 ykköseksi							
 .							
 							
@@ -21188,7 +21188,7 @@ sekä
 Game  	B-PRO	B-PRO	B-PRO		B-PRO		
 of  	I-PRO	I-PRO	I-PRO		I-PRO		
 War  	I-PRO	I-PRO	I-PRO		I-PRO		
-  	I-PRO	I-PRO	I-PRO		I-PRO		
+–  	I-PRO	I-PRO	I-PRO		I-PRO		
 Fire  	I-PRO	I-PRO	I-PRO		I-PRO		
 Age  	I-PRO	I-PRO	I-PRO		I-PRO		
 ,							
@@ -21687,8 +21687,8 @@ vetykaasu
 							
 Apple  	B-ORG	B-ORG	B-ORG		B-ORG		
 jätti							
-vuonna  		B-TIM	B-TIM				
-2011  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2011  	I-DATE	I-TIM	I-TIM		B-DATE		
 vastaavan							
 kannettavan							
 laskentalaitteen							
@@ -22270,8 +22270,8 @@ auto
 oli							
 tähän  		Tim?	B-TIM	O			
 saakka  		Tim?	I-TIM	O			
-vuoden  		B-TIM	B-TIM				
-2014  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuoden  	B-DATE	B-TIM	B-TIM				
+2014  	I-DATE	I-TIM	I-TIM		B-DATE		
 BMW  	B-PRO	B-PRO	B-PRO		B-PRO		
 M235i  	I-PRO	I-PRO	I-PRO		I-PRO		
 98							
@@ -22824,8 +22824,8 @@ alun
 perin							
 määrä							
 suorittaa							
-vuonna  		B-TIM	B-TIM				
-2013  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2013  	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Viimeisin 		Tim?	B-TIM	O			
@@ -22995,7 +22995,7 @@ prosenttiin
 ja							
 Apple  	B-PRO	B-PRO	B-PRO		B-PRO		
 iPhone  	I-PRO	I-PRO	I-PRO		I-PRO		
-6  		I-PRO	I-PRO	O			
+6  	I-PRO	I-PRO	I-PRO	O			
 kuuteen							
 prosenttiin							
 .							
@@ -24093,8 +24093,8 @@ katastrofia
 .							
 							
 Nimittäin							
-vuonna  		B-TIM	B-TIM				
-2012  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2012  	I-DATE	I-TIM	I-TIM		B-DATE		
 planeettamme							
 onnistui							
 juuri							
@@ -24249,7 +24249,7 @@ tämä
 on							
 osoittautunut							
 vaikeaksi							
-							
+–							
 ainakin							
 ääritilanteissa							
 .							
@@ -24706,9 +24706,7 @@ muassa
 Jim  	B-PRO	B-PRO	B-PRO		B-PRO		
 Beam-  	I-PRO	I-PRO	I-PRO		I-PRO		
 ,							
-Maker  	B-PRO	B-PRO	B-PRO		B-PRO		
-'  	I-PRO	I-PRO	I-PRO		I-PRO		
-s  	I-PRO	I-PRO	I-PRO		I-PRO		
+Maker's	B-PRO	B-PRO	B-PRO		B-PRO		
 Mark-  	I-PRO	I-PRO	I-PRO		I-PRO		
 sekä							
 Canadian  	B-PRO	B-PRO	B-PRO		B-PRO		
@@ -25247,8 +25245,8 @@ mukaan
 tosielämän							
 kokeilut							
 aloitetaan							
-vuonna  		B-TIM	B-TIM				
-2016  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2016  	I-DATE	I-TIM	I-TIM		B-DATE		
 ,							
 eikä							
 tänä  		B-TIM	B-TIM	O			
@@ -25518,7 +25516,7 @@ on
 määrä							
 valmistua							
 jo							
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 Lieneekö							
@@ -26037,8 +26035,8 @@ Volkswagen  	B-ORG	B-ORG	B-ORG		B-ORG
 haastoi							
 tutkijat							
 oikeuteen							
-vuonna  		B-TIM	B-TIM				
-2013  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2013  	I-DATE	I-TIM	I-TIM		B-DATE		
 estääkseen							
 haavoittuvuuden							
 julkaisemisen							
@@ -27150,8 +27148,8 @@ satelliitista
 ja							
 kuudesta							
 varasatelliitista							
-vuonna  		B-TIM	B-TIM				
-2020	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2020	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Galileo-satelliittien  	B-PRO	B-PRO	B-PRO		B-PRO		
@@ -28353,7 +28351,7 @@ Kiinan  	B-LOC	B-LOC	B-LOC		B-LOC
 presidentti							
 kohtaa							
 Obaman  	B-PER	B-PER	B-PER		B-PER		
-							
+–							
 ja							
 vaikean							
 kysymyksen							
@@ -28710,10 +28708,10 @@ haltuunsa
 peräti							
 500 000							
 Facebook-tiliä							
-vuosien  		B-TIM	B-TIM				
-2008  	B-DATE	I-TIM	I-TIM		B-DATE		
-ja  		I-TIM	I-TIM				
-2009  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuosien  	B-DATE	B-TIM	B-TIM				
+2008  	I-DATE	I-TIM	I-TIM		B-DATE		
+ja  	I-DATE	I-TIM	I-TIM				
+2009  	I-DATE	I-TIM	I-TIM		B-DATE		
 aikana  		I-TIM	I-TIM	O			
 .							
 							
@@ -28758,8 +28756,8 @@ lähetti
 roskafakseja							
 .							
 							
-Vuonna  		B-TIM	B-TIM				
-1995  	B-DATE	I-TIM	I-TIM		B-DATE		
+Vuonna  	B-DATE	B-TIM	B-TIM				
+1995  	I-DATE	I-TIM	I-TIM		B-DATE		
 Wallace  	B-PER	B-PER	B-PER		B-PER		
 perusti							
 Cyber  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -28819,8 +28817,8 @@ vuosikymmentä  		I-TIM	I-TIM	O
 Wallace  	B-PER	B-PER	B-PER		B-PER		
 väitti							
 jo							
-vuonna  		B-TIM	B-TIM				
-1998  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+1998  	I-DATE	I-TIM	I-TIM		B-DATE		
 jäävänsä							
 eläkkeelle							
 roskapostihommista							
@@ -31836,10 +31834,10 @@ palvelun
 käyttäjien							
 täydet							
 luottokorttimaksutiedot							
-vuosien  		B-TIM	B-TIM				
-2008  	B-DATE	I-TIM	I-TIM		B-DATE		
-ja  		I-TIM	I-TIM				
-2015  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuosien  	B-DATE	B-TIM	B-TIM				
+2008  	I-DATE	I-TIM	I-TIM		B-DATE		
+ja  	I-DATE	I-TIM	I-TIM				
+2015  	I-DATE	I-TIM	I-TIM		B-DATE		
 välillä  		I-TIM	I-TIM	O			
 .							
 							
@@ -31938,11 +31936,11 @@ yhteensä
 9,7							
 miljoonaa							
 erillistä							
-vuosien  		B-TIM	B-TIM				
-2008  	B-DATE	I-TIM	I-TIM		B-DATE		
-ja  		I-TIM	I-TIM				
-2015  	B-DATE	I-TIM	I-TIM		B-DATE		
-välillä  		I-TIM	I-TIM	O			
+vuosien  	B-DATE	B-TIM	B-TIM				
+2008  	I-DATE	I-TIM	I-TIM		B-DATE		
+ja  	I-DATE	I-TIM	I-TIM				
+2015  	I-DATE	I-TIM	I-TIM		B-DATE		
+välillä  		I-TIM	I-TIM	O		?	
 .							
 							
 Vahvistetusti							
@@ -31963,8 +31961,8 @@ Ashley  	B-PRO	B-PRO	B-PRO		B-PRO
 Madison  	I-PRO	I-PRO	I-PRO		I-PRO		
 laajeni							
 Suomeen  	B-LOC	B-LOC	B-LOC		B-LOC		
-vuonna  		B-TIM	B-TIM				
-2012	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2012	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Tämä							
@@ -32193,7 +32191,7 @@ iski
 neljä							
 kertaa							
 Googlen  	B-ORG	B-ORG	B-ORG		B-ORG		
-Belgian-palvelinkeskuksen							
+Belgian-palvelinkeskuksen	B-MISC						
 sähköjohtoihin							
 ja							
 aiheutti							
@@ -33415,8 +33413,8 @@ Gozi  	B-PRO	B-PRO	B-PRO		B-PRO
 ,							
 ilmestyi							
 jo							
-vuonna  		B-TIM	B-TIM				
-2007  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2007  	I-DATE	I-TIM	I-TIM		B-DATE		
 ja							
 tarttui							
 yli							
@@ -34117,15 +34115,15 @@ vaarantuneen
 Belkin-reitittimen  	B-PRO	B-PRO	B-PRO		B-PRO		
 tyyppinumero							
 on							
-F9K1102	B-PRO	B-PRO	B-PRO		B-PRO		
-v2	I-PRO	I-PRO	I-PRO		I-PRO		
+F9K1102							
+v2							
 ,							
 ja							
 sen							
 laiteohjelmiston							
 versio							
 on							
-2.10.17	B-PRO	B-PRO	B-PRO		B-PRO		
+2.10.17							
 tai							
 mahdollisesti							
 aikaisempi  		Tim?	B-TIM	O			
@@ -34225,7 +34223,7 @@ kiistää
 että							
 sen							
 vanhempiin 		Tim?	B-TIM	O			
-Windows-versioihin  	B-PRO	B-PRO	B-PRO		B-PRO		
+Windows-versioihin  	B-MISC	B-MISC	B-MISC		B-MISC		
 jakamat							
 päivitykset							
 olisi							
@@ -35566,8 +35564,8 @@ uhreistaan
 kirjoitti							
 kokemastaan							
 hyökkäyksestä							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-1991  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+1991  	I-DATE	I-TIM	I-TIM		I-TIM		
 ja							
 nosti							
 esille							
@@ -36020,8 +36018,8 @@ Friendlyware-sovelluskokoelmassa  	B-PRO	B-PRO	B-PRO		B-PRO
 ,							
 joka							
 julkaistiin							
-vuonna  		B-TIM	B-TIM				
-1982	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+1982	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Friendlyware  	B-PRO	B-PRO	B-PRO		B-PRO		
@@ -36397,13 +36395,13 @@ matkapuhelinten
 valmistajaksi							
 Motorolan  	B-ORG	B-ORG	B-ORG		B-ORG		
 ohitse							
-vuonna  		B-TIM	B-TIM				
-1998  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+1998  	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Apple  	B-ORG	B-ORG	B-ORG		B-ORG		
-vuonna  		B-TIM	B-TIM				
-2007  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2007  	I-DATE	I-TIM	I-TIM		B-DATE		
 julkistama							
 iPhone  	B-PRO	B-PRO	B-PRO		B-PRO		
 oli							
@@ -37420,7 +37418,7 @@ ilmestynyt
 myös							
 kuulokkeisiin							
 ja							
-elokuusta  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuusta  	B-DATE	B-TIM	B-TIM		B-TIM		
 alkaen  		I-TIM	I-TIM	O			
 myös							
 puhelimiin							
@@ -37911,8 +37909,8 @@ puhelinta
 joka							
 tuli							
 markkinoille							
-vuonna  		B-TIM	B-TIM				
-2007	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2007	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 							
@@ -38050,8 +38048,8 @@ toimipisteensä
 							
 Valtiovarainministeriö  	B-ORG	B-ORG	B-ORG		B-ORG		
 esittää							
-vuoden  		B-TIM	B-TIM				
-2015  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuoden  	B-DATE	B-TIM	B-TIM				
+2015  	I-DATE	I-TIM	I-TIM		B-DATE		
 kolmannessa							
 lisätalousarviossa							
 lisämäärärahaa							
@@ -38251,8 +38249,8 @@ Budjettiriihi
 on							
 syyskuun  	B-DATE	B-TIM	B-TIM		B-DATE	?	
 9.  	I-DATE	I-TIM	I-TIM		I-DATE	?	
-ja  		I-TIM	I-TIM			?	
-10.  	B-DATE	I-TIM	I-TIM		B-DATE	?	
+ja  	I-DATE	I-TIM	I-TIM			?	
+10.  	I-DATE	I-TIM	I-TIM		B-DATE	?	
 päivä  	I-DATE	I-TIM	I-TIM		I-DATE	?	
 .							
 							
@@ -38530,8 +38528,8 @@ avulla
 Yhtiö							
 lopetti							
 palvelun							
-vuonna  		B-TIM	B-TIM				
-2010  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2010  	I-DATE	I-TIM	I-TIM		B-DATE		
 ,							
 mutta							
 sen							
@@ -38925,8 +38923,8 @@ vuonna  		I-TIM	I-TIM	O
 että							
 Nokia  	B-ORG	B-ORG	B-ORG		B-ORG		
 maksoi							
-vuosien  		B-TIM	B-TIM				
-2007-2008  	B-DATE	I-TIM	I-TIM		B-DATE		
+vuosien  	B-DATE	B-TIM	B-TIM				
+2007-2008  	I-DATE	I-TIM	I-TIM		B-DATE		
 tienoilla  		I-TIM	I-TIM	O			
 useita							
 miljoonia							
@@ -39360,8 +39358,8 @@ Recode  	B-ORG	B-ORG	B-ORG		B-ORG
 kertoo							
 .							
 							
-Vuonna  		B-TIM	B-TIM				
-2013  	B-DATE	I-TIM	I-TIM		B-DATE		
+Vuonna  	B-DATE	B-TIM	B-TIM				
+2013  	I-DATE	I-TIM	I-TIM		B-DATE		
 nostetussa							
 kanteessa							
 vaaditaan							
@@ -39554,8 +39552,8 @@ jonka
 ongelmat							
 tuotiin							
 julki							
-vuonna  		B-TIM	B-TIM				
-2011	B-DATE	I-TIM	I-TIM		B-DATE		
+vuonna  	B-DATE	B-TIM	B-TIM				
+2011	I-DATE	I-TIM	I-TIM		B-DATE		
 .							
 							
 Toshibassa  	B-ORG	B-ORG	B-ORG		B-ORG		
