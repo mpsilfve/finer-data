@@ -208,6 +208,7 @@ Markable products include:
 \item[1.] Laws: e.g. Patriot Act-laki (the Patriot Act law)
 \item[1.] Networks (other than television network): e.g. Tor
 \item[1.] Platforms: e.g. Google Play, Kickstarter
+\item[1.] Product series: e.g. ???
 \item[1.] Projects/Programs: e.g. Vitja
 \item[1.] Protocols: e.g. pop3, imap
 \item[1.] Services/Platforms: e.g. Apple Store, Google Play
@@ -218,6 +219,8 @@ Markable products include:
 \item[1.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker
  
 \end{itemize}
+
+Version numbers of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Android 6.0'' and ''Androidin versio 6.0''. 
 
 Entities considered here to belong in the \textit{product} class have been incorporated in previous work to varying extents. For example, in the English CoNLL-2003 data \citep{tjong2003}, projects/programs are included in an entity class labeled as \textit{miscellaneous}. Similarly, in the German NoSta-D corpus \citep{benikova2014}, products are included in an entity class labeled \textit{other}. Meanwhile, in the Swedish HSFT-SweNER system, \citet{kokkinakis2014} define classes \textit{artifact} (food/wine products, prizes, means of communication (vehicles), etc.) and \textit{work\&art} (printed material, names of films, novels and newspapers, sculptures, etc.), both of which are subsets of our \textit{product} class.
 
@@ -236,7 +239,7 @@ Again, entities considered in this work as \textit{events} have been incorporate
 
 \paragraph{Date (DATE)} 
 
-A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be expressed using digits or \fixme{what?}.
+A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be expressed using digits or spelled out.
 
 Expressions such as ''vuonna 2016'' (in the year 2016) and ''3. p\"aiv\"a lokakuuta" (3rd day of October) are considered markable as a whole. This is because the expressions ''3. p\"aiv\"a lokakuuta'' and ''vuonna 2016'' have the same meaning as ''3. lokakuuta'' and ''2016'', respectively. Months may sometimes have a purely nominal use and are not markable in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month). 
 
@@ -245,25 +248,28 @@ Expressions employing coordination such as ''lokakuun 1. ja 2. p\"aiv\"a'' (1st 
 The following contains a comprehensive list of dates markable as a single expressions:
 
 \begin{itemize}
-\item[1.] lokakuussa (in October)
-\item[2.] 1. lokakuuta (1st October)
-\item[3.] 1. p\"aiv\"a lokakuuta (1st October)
-\item[4.] lokakuun 1. (1st October)
-\item[5.] lokakuun 1. p\"aiv\"a (1st October)
-\item[6.] 2016 (1st October)
-\item[7.] vuonna 2016 (1st October)
-\item[8.] syyskuussa 2016 (1st October)
-\item[9.] vuoden 2016 syyskuussa (1st October)
-\item[10.] 1. ja 2. lokakuuta (1st and 2nd October)
-\item[11.]  lokakuun 1. ja 2. p\"aiv\"a (1st and 2nd October)
-\item[12.] vuosina 2000 ja 2001 (during the years 2000 and 2001)
-\item[13.] 1.-10. lokakuuta (from 1st to 10th October)
-\item[14.] 1. - 10. lokakuuta (from 1st to 10th October)
-\item[15.] 2000-2001
-\item[16.] 2000 - 2001
-\item[17.] vuodesta 2000 vuoteen 2010 (from the year 2000 to 2001)
-\item[18.] vuoden 2000 lokakuusta vuoden 2001 tammikuukuuhun (from October 2000 to January 2001)
-\item[19.] vuoden 2000 tammikuusta lokakuuhun (from January to October in 2000)
+\item[1.] 1.10.2016
+\item[2.] lokakuussa (in October)
+\item[3.] 1. lokakuuta (1st October)
+\item[4.] 1. p\"aiv\"a lokakuuta (1st day of October)
+\item[5.] lokakuun 1. (1st October)
+\item[6.] lokakuun 1. p\"aiv\"a (1st day of October)
+\item[7.] 2016
+\item[8.] vuonna 2016 (in the year 2016)
+\item[9.] syyskuussa 2016 (in October 2016)
+\item[10.] vuoden 2016 syyskuussa (in October 2016)
+\item[11.] 1. ja 2. lokakuuta (1st and 2nd October)
+\item[12.]  lokakuun 1. ja 2. p\"aiv\"a (1st and 2nd October)
+\item[13.] vuosina 2000 ja 2001 (during the years 2000 and 2001)
+\item[14.] 1.-10. lokakuuta (from 1st to 10th October)
+\item[15.] 1. - 10. lokakuuta (from 1st to 10th October)
+\item[16.] tammikuusta lokakuuhun (from January to October)
+\item[17.] tammi-lokakuussa (between January and October) 
+\item[18.] 2000-2001
+\item[19.] 2000 - 2001
+\item[20.] vuodesta 2000 vuoteen 2010 (from the year 2000 to 2001)
+\item[21.] vuoden 2000 lokakuusta vuoden 2001 tammikuukuuhun (from October 2000 to January 2001)
+\item[22.] vuoden 2000 tammikuusta lokakuuhun (from January to October in 2000)
 \end{itemize} 
 
  
@@ -349,11 +355,11 @@ To be markable, each class must appear as a whole and not as a derivation or as 
 
 \paragraph{Coordination of Compound Words}
 
-Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja OSX-käyttöjärjestelmät  ''.
+Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
 
-\paragraph{Explicit Naming}
+\paragraph{Expression ''-niminen''}
 
-Teemu-niminen henkilö. iPhonen-niminen puhelin.
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone called iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively.
 
 
 \subsection{Annotation Process}
