@@ -35130,7 +35130,7 @@ toukokuussa  	B-DATE	B-TIM
 mutta		
 ajankohta		
 vaihtui		
-maaliskuulle  	train.csv	B-TIM
+maaliskuulle  	B-DATE	B-TIM
 .		
 		
 Tällä  		B-TIM
