@@ -1,4 +1,4 @@
-Text	Final DATE/NO MISC	Miikka	Teemu	Krister	Final DATE/NO MISC	Final TIME	Final MISC/DATE
+Text	Final DATE	Miikka	Teemu	Krister	Final DATE/NO MISC	Final TIME	Final MISC/DATE
 <HEADLINE>							
 Apple  	B-ORG	B-ORG	B-ORG		B-ORG		
 joutumassa							
@@ -40197,8 +40197,8 @@ omien
 sanojen							
 mukaan							
 alkaa							
-1.  	B-TIM	B-TIM	B-TIM		B-TIM		
-syyskuuta  	I-TIM	I-TIM	I-TIM		I-TIM		
+1.  	B-DATE	B-TIM	B-TIM		B-TIM		
+syyskuuta  	I-DATE	I-TIM	I-TIM		I-TIM		
 ,							
 mutta							
 nyt  		Tim?	B-TIM	O			
@@ -40221,7 +40221,7 @@ varustettuna
 ja							
 ennakkomyynti							
 alkoi							
-heinäkuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+heinäkuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 alussa  		I-TIM	I-TIM	O			
 .							
 							
@@ -40268,8 +40268,8 @@ menestymään
 Emme							
 aloita							
 toimituksia							
-1.  	B-TIM	B-TIM	B-TIM		B-TIM		
-syyskuuta  	I-TIM	I-TIM	I-TIM		I-TIM		
+1.  	B-DATE	B-TIM	B-TIM		B-TIM		
+syyskuuta  	I-DATE	I-TIM	I-TIM		I-TIM		
 ,							
 Microsoft  	B-TIT	B-TIT	B-TIT		B-TIT		
 Surface  	I-TIT	I-TIT	I-TIT		I-TIT		
@@ -40277,7 +40277,7 @@ Surface  	I-TIT	I-TIT	I-TIT		I-TIT
 Brian  	B-PER	B-PER	B-PER		B-PER		
 Hall  	I-PER	I-PER	I-PER		I-PER		
 kirjoitti							
-maanantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+maanantaina  		B-TIM	B-TIM		B-TIM		
 .							
 							
 Hall  	B-PER	B-PER	B-PER		B-PER		
@@ -40290,7 +40290,7 @@ mutta
 lupasi							
 lisää							
 tietoa							
-elokuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 alkupuolella  		I-TIM	I-TIM	O			
 .							
 							
@@ -40476,7 +40476,7 @@ huolimattomuuden
 vuoksi							
 .							
 							
-Kesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+Kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 tuomari							
 oli							
 torjunut							
@@ -40573,8 +40573,8 @@ toimineen
 Silk  	B-PRO	B-PRO	B-PRO		B-PRO		
 Road  	I-PRO	I-PRO	I-PRO		I-PRO		
 -kauppapaikan  	I-PRO	I-PRO	I-PRO		I-PRO		
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-2013  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+2013  	I-DATE	I-TIM	I-TIM		I-TIM		
 ,							
 mutta							
 sen 		Tim?	B-TIM	O			
@@ -40672,7 +40672,7 @@ yhteydessä
 Ross  	B-PER	B-PER	B-PER		B-PER		
 Ulbricht  	I-PER	I-PER	I-PER		I-PER		
 tuomittiin							
-toukokuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+toukokuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 elinkautiseen							
 vankeuteen							
 muun							
@@ -40738,7 +40738,7 @@ avoimesti
 ajatuksiaan							
 useissa							
 Twitter-viesteissä  	B-MISC	B-MISC	B-MISC		B-MISC		
-lauantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+lauantaina  		B-TIM	B-TIM		B-TIM		
 .							
 							
 							
@@ -40898,7 +40898,7 @@ menevät
 ohitse							
 .							
 							
-Lauantain  	B-TIM	B-TIM	B-TIM		B-TIM		
+Lauantain  		B-TIM	B-TIM		B-TIM		
 jälkeen  		Tim?	I-TIM	O			
 hänen							
 Twitter-viestinsä  	B-MISC	B-MISC	B-MISC		B-MISC		
@@ -40906,7 +40906,7 @@ ovat
 olleet							
 iloisempia							
 ja							
-maanantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+maanantaina  		B-TIM	B-TIM		B-TIM		
 hän							
 korosti							
 viettävänsä							
@@ -41298,7 +41298,7 @@ mp3-soitin  	B-MISC	B-MISC	B-MISC		B-MISC
 Puhelimet							
 tulevat							
 markkinoille							
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 ja							
 niiden							
 verottomaksi							
@@ -41358,7 +41358,7 @@ kysymys
 							
 Sony  	B-ORG	B-ORG	B-ORG		B-ORG		
 kertoi							
-heinäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+heinäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 yhdessä							
 ZMP:n	B-ORG	B-ORG	B-ORG		B-ORG		
 kanssa							
@@ -41644,7 +41644,7 @@ lasketa
 Kuitenkin							
 niitä							
 myytiin							
-huhtikesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+huhti—kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 yli							
 115							
 miljoonaa							
@@ -41794,7 +41794,7 @@ hidastuvaa
 vauhtia							
 .							
 							
-Huhtikesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+Huhti—kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 myytiin							
 330							
 miljoonaa							
@@ -41880,8 +41880,8 @@ Times  	I-ORG	I-ORG	I-ORG		I-ORG
 Apple  	B-ORG	B-ORG	B-ORG		B-ORG		
 järjestää							
 ylihuomenna  		B-TIM	B-TIM	O			
-9.  	B-TIM	B-TIM	B-TIM		B-TIM		
-syyskuuta  	I-TIM	I-TIM	I-TIM		I-TIM		
+9.  	B-DATE	B-TIM	B-TIM		B-TIM		
+syyskuuta  	I-DATE	I-TIM	I-TIM		I-TIM		
 julkistustilaisuuden							
 ,							
 jossa							
@@ -42117,13 +42117,13 @@ Plus  	I-PRO	I-PRO	I-PRO		I-PRO
 ,							
 jotka							
 myytiin							
-syyskuun  	B-TIM	B-TIM	B-TIM		B-TIM		
-2014  	I-TIM	I-TIM	I-TIM		I-TIM		
-ja  	I-TIM	I-TIM	I-TIM		I-TIM		
-tammikuun  	I-TIM	I-TIM	I-TIM		I-TIM		
-2015  	I-TIM	I-TIM	I-TIM		I-TIM		
-välisenä  		I-TIM	I-TIM	O			
-aikana  		I-TIM	I-TIM	O			
+syyskuun  	B-DATE	B-TIM	B-TIM		B-TIM		
+2014  	I-DATE	I-TIM	I-TIM		I-TIM		
+ja  	I-DATE	I-TIM	I-TIM		I-TIM		
+tammikuun  	I-DATE	I-TIM	I-TIM		I-TIM		
+2015  	I-DATE	I-TIM	I-TIM		I-TIM		
+välisenä  	I-DATE	I-TIM	I-TIM	O			
+aikana  	I-DATE	I-TIM	I-TIM	O			
 .							
 							
 Kameran							
@@ -42799,7 +42799,7 @@ laatu
 kohtaavat							
 kieltämättä							
 hyvin							
-							
+–							
 tällä  		B-TIM	B-TIM	O			
 hetkellä  		I-TIM	I-TIM	O			
 .							
@@ -42828,8 +42828,8 @@ kuinka
 vahvasti							
 T1  	B-PRO	B-PRO	B-PRO		B-PRO		
 porskuttaa							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-2018	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+2018	I-DATE	I-TIM	I-TIM		I-TIM		
 .							
 							
 Halpa							
@@ -42884,7 +42884,7 @@ markkinoiden
 selvänä							
 ykkösenä							
 toimittaen							
-huhtikesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+huhti–kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 89							
 miljoonaa							
 puhelinta							
@@ -43216,7 +43216,7 @@ Applelta  	B-ORG	B-ORG	B-ORG		B-ORG
 odotetaan							
 uusia 		Tim?	B-TIM	O			
 iPhoneja  	B-PRO	B-PRO	B-PRO		B-PRO		
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 Samsung  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -43234,7 +43234,7 @@ lippulaivamallinsa
 tavallista 		B-TIM	B-TIM	O			
 aikaisemmin  		I-TIM	I-TIM	O			
 jo							
-elokuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 <HEADLINE>							
@@ -43255,7 +43255,7 @@ julkaista
 tukun							
 uusia 		B-TIM	B-TIM	O			
 tuotteita							
-lokakuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+lokakuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 ja							
 aikoo							
 järjestää							
@@ -43289,7 +43289,7 @@ uutisoinut
 Microsoftin  	B-ORG	B-ORG	B-ORG		B-ORG		
 kaavailevan							
 tuotejulkaisua							
-lokakuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+lokakuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 The  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -43407,7 +43407,7 @@ käyttöjärjestelmä
 Android  	B-PRO	B-PRO	B-PRO		B-PRO		
 Wear  	I-PRO	I-PRO	I-PRO		I-PRO		
 sai							
-torstaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+torstaina  		B-TIM	B-TIM		B-TIM		
 uudistuksen							
 ,							
 joka							
@@ -43990,7 +43990,7 @@ nykimättä
 .							
 							
 Akkukesto							
-Foliossa							
+Foliossa	B-PRO						
 on							
 varsin							
 riittävä							
@@ -44136,7 +44136,7 @@ ylsi
 noin							
 755							
 miljoonaan							
-kesäkuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+kesäkuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 lopussa  		I-TIM	I-TIM	O			
 .							
 							
@@ -44146,9 +44146,9 @@ on
 miljoonaa							
 enemmän							
 kuin							
-vuoden  	B-TIM	B-TIM	B-TIM		B-TIM		
-2014  	I-TIM	I-TIM	I-TIM		I-TIM		
-kesäkuun  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuoden  	B-DATE	B-TIM	B-TIM		B-TIM		
+2014  	I-DATE	I-TIM	I-TIM		I-TIM		
+kesäkuun  	I-DATE	I-TIM	I-TIM		I-TIM		
 lopussa  		I-TIM	I-TIM	O			
 .							
 							
@@ -44185,7 +44185,7 @@ että
 reitittimissä							
 .							
 							
-Huhtikesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+Huhti–kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 maailman							
 422							
 operaattoria							
@@ -44252,7 +44252,7 @@ noussut
 prosenttiin							
 .							
 							
-Huhtikesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+Huhti–kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 3G-liittymien	B-MISC	B-MISC	B-MISC		B-MISC		
 määrä							
 kasvoi							
@@ -44275,7 +44275,7 @@ miljoonalla
 .							
 							
 Ericssonin  	B-ORG	B-ORG	B-ORG		B-ORG		
-elokuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 lopussa  		I-TIM	I-TIM	O			
 julkaisemien							
 lukujen							
@@ -44284,7 +44284,7 @@ maailman
 lte-liittymien	B-MISC	B-MISC	B-MISC		B-MISC		
 määrä							
 oli							
-kesäkuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+kesäkuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 lopussa  		I-TIM	I-TIM	O			
 740							
 miljoonaa							
@@ -44299,7 +44299,7 @@ maailman
 matkapuhelinliittymien							
 lukumäärän							
 kasvaneen							
-kesäkuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+kesäkuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 loppuun  		I-TIM	I-TIM	O			
 mennessä  		I-TIM	I-TIM	O			
 7,2							
@@ -44458,7 +44458,7 @@ lainvastaista
 ja							
 vaaditaan							
 maksamaan							
-6003000							
+600—3000							
 euron							
 korvausmaksua							
 laittomasta							
@@ -44567,7 +44567,7 @@ valvojat
 ovat							
 tänä  		B-TIM	B-TIM	O			
 vuonna  		I-TIM	I-TIM	O			
-elokuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 loppuun  		I-TIM	I-TIM	O			
 mennessä  		I-TIM	I-TIM	O			
 tehneet							
@@ -45017,7 +45017,7 @@ määrä
 on							
 siellä							
 romahtanut							
-2000-luvun  	B-TIM	B-TIM	B-TIM		B-TIM		
+2000-luvun  		B-TIM	B-TIM		B-TIM		
 huippuvuosista							
 .							
 							
@@ -45208,7 +45208,7 @@ Yhdysvallat  	B-LOC	B-LOC	B-LOC		B-LOC
 ja							
 Kiina  	B-LOC	B-LOC	B-LOC		B-LOC		
 sopivat							
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 ,							
 ettei							
 kumpikaan							
@@ -45473,7 +45473,7 @@ ensimmäinen
 vihje							
 viime  		B-TIM	B-TIM	O			
 viikon  		I-TIM	I-TIM	O			
-torstaina  	B-TIM	I-TIM	I-TIM	B-TIM	B-TIM		
+torstaina  		I-TIM	I-TIM	B-TIM	B-TIM		
 ,							
 kun							
 FBI:n  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -45769,8 +45769,8 @@ nyt  		Tim?	B-TIM	O
 mietityt							
 ominaisuudet							
 lopulliseen							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-2020  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+2020  	I-DATE	I-TIM	I-TIM		I-TIM		
 käyttöön							
 otettavaan							
 koko							
@@ -45972,8 +45972,8 @@ käyttöön
 jokaiselle							
 Kiinan  	B-LOC	B-LOC	B-LOC		B-LOC		
 kansalaiselle							
-vuoteen  	B-TIM	B-TIM	B-TIM		B-TIM		
-2020  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuoteen  	B-DATE	B-TIM	B-TIM		B-TIM		
+2020  	I-DATE	I-TIM	I-TIM		I-TIM		
 mennessä  		I-TIM	I-TIM	O			
 .							
 							
@@ -46596,7 +46596,7 @@ villi
 länsi							
 päättyi							
 Suomessa  	B-LOC	B-LOC	B-LOC		B-LOC		
-							
+—							
 maalaisjärjellä							
 pääsee							
 pitkälle							
@@ -46611,7 +46611,7 @@ lennokkien
 lennättämisestä							
 astui							
 voimaan							
-perjantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+perjantaina  		B-TIM	B-TIM		B-TIM		
 .							
 							
 Virasto							
@@ -46622,7 +46622,7 @@ liberaaliksi
 .							
 							
 <BODY>							
-Perjantainen  	B-TIM	B-TIM	B-TIM		B-TIM		
+Perjantainen  		B-TIM	B-TIM		B-TIM		
 määräys							
 kauko-ohjatun							
 ilma-aluksen							
@@ -46991,7 +46991,7 @@ oikeudessa  	I-ORG	I-ORG	I-ORG		I-ORG
 .							
 							
 Oikeuden							
-torstainen  	B-TIM	B-TIM	B-TIM		B-TIM		
+torstainen  		B-TIM	B-TIM		B-TIM		
 päätös							
 antaa							
 toivoa							
@@ -47031,8 +47031,8 @@ optioista
 Ne							
 ovat							
 osa							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-2007  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+2007  	I-DATE	I-TIM	I-TIM		I-TIM		
 tehtyä							
 kauppaa							
 ,							
@@ -47158,7 +47158,7 @@ toimitusjohtaja  	B-TIT	B-TIT	B-TIT		B-TIT
 Sharon  	B-PER	B-PER	B-PER		B-PER		
 White  	I-PER	I-PER	I-PER		I-PER		
 ilmaisi							
-keskiviikkona  	B-TIM	B-TIM	B-TIM		B-TIM		
+keskiviikkona  		B-TIM	B-TIM		B-TIM		
 pitämässään							
 puheessa							
 huolestumisensa							
@@ -47253,8 +47253,8 @@ tilanteen
 ,							
 jossa							
 alan							
-vuoden  	B-TIM	B-TIM	B-TIM		B-TIM		
-2013  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuoden  	B-DATE	B-TIM	B-TIM		B-TIM		
+2013  	I-DATE	I-TIM	I-TIM		I-TIM		
 konsolidaatio							
 jätti							
 maahan							
@@ -47336,7 +47336,7 @@ toimitusjohtaja  	B-TIT	B-TIT	B-TIT		B-TIT
 Ha?kan  	B-PER	B-PER	B-PER		B-PER		
 Samuelsson  	I-PER	I-PER	I-PER		I-PER		
 tekee							
-torstaisessa  	B-TIM	B-TIM	B-TIM		B-TIM		
+torstaisessa  		B-TIM	B-TIM		B-TIM		
 puheessaan							
 Washington  	B-LOC	B-LOC	B-LOC		B-LOC		
 DC:ssä  	I-LOC	I-LOC	I-LOC		I-LOC		
@@ -47594,7 +47594,7 @@ tuttu
 LG  	B-ORG	B-ORG	B-ORG		B-ORG		
 Electronics  	I-ORG	I-ORG	I-ORG		I-ORG		
 kertoi							
-torstaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+torstaina  		B-TIM	B-TIM		B-TIM		
 avanneensa							
 5G-teknologiaan	B-PRO	B-PRO	B-PRO		B-PRO		
 erikoistuneen							
@@ -48052,8 +48052,8 @@ yhteistyönä
 Se							
 avautuu							
 yleisölle							
-loppiaisena  	B-TIM	B-TIM	B-TIM		B-TIM		
-2017	I-TIM	I-TIM	I-TIM		I-TIM		
+loppiaisena  		B-TIM	B-TIM		B-TIM		
+2017	B-DATE	I-TIM	I-TIM		I-TIM		
 .							
 							
 Nyt  		Tim?	B-TIM	O			
@@ -48073,8 +48073,7 @@ päivää  		I-TIM	I-TIM	O
 Jos							
 kasaan							
 saadaan							
-60							
-000							
+60 000							
 euroa							
 ,							
 kokoelmaan							
@@ -48203,7 +48202,7 @@ säännöistä
 Financial  	B-ORG	B-ORG	B-ORG		B-ORG		
 Times  	I-ORG	I-ORG	I-ORG		I-ORG		
 kirjoitti							
-tiistaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+tiistaina  		B-TIM	B-TIM		B-TIM		
 Intian  	B-ORG	B-ORG	B-ORG		B-ORG		
 keskushallinnon  	I-ORG	I-ORG	I-ORG		I-ORG		
 laatimasta							
@@ -48718,7 +48717,7 @@ luottokorttitietoja
 .							
 							
 Myöhään  		B-TIM	B-TIM	O			
-tiistaina  	I-TIM	I-TIM	I-TIM		I-TIM		
+tiistaina  		I-TIM	I-TIM		I-TIM		
 verkkoon							
 ladattiin							
 mittava							
@@ -48986,8 +48985,8 @@ päästöhuijauksen
 kohteena							
 olevat							
 autot							
-vuoden  	B-TIM	B-TIM	B-TIM		B-TIM		
-2016  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuoden  	B-DATE	B-TIM	B-TIM		B-TIM		
+2016  	I-DATE	I-TIM	I-TIM		I-TIM		
 loppuun  		I-TIM	I-TIM	O			
 mennessä  		I-TIM	I-TIM	O			
 .							
@@ -49010,7 +49009,7 @@ takaisinkutsujen
 on							
 määrä							
 alkaa							
-tammikuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+tammikuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 sen							
 jälkeen							
 ,							
@@ -49069,7 +49068,7 @@ euroa
 Mediaguruilta							
 uusi 		Tim?	B-TIM	O			
 televisiopalvelu							
-							
+—							
 nimi							
 tyrmistyttää							
 suomalaisia							
@@ -49135,7 +49134,7 @@ kanssa
 ja							
 aloittavansa							
 lähetykset							
-lokakuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+lokakuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 Sadan							
@@ -49223,7 +49222,7 @@ Vjateslav  	B-PER	B-PER	B-PER		B-PER
 Mihailovit  	I-PER	I-PER	I-PER		I-PER		
 Molotovia  	I-PER	I-PER	I-PER		I-PER		
 (							
-18901986  	B-TIM	B-TIM	B-TIM		B-TIM		
+1890—1986  	B-TIM	B-TIM	B-TIM		B-TIM		
 )							
 .							
 							
@@ -49286,7 +49285,7 @@ Firma
 blokkasi							
 julkisen							
 wlanin		Pro?	B-PRO	O			
-							
+—							
 myi							
 omia							
 yhteyksiään							
@@ -49390,7 +49389,7 @@ käytön
 FCC  	B-ORG	B-ORG	B-ORG		B-ORG		
 vahvisti							
 viimeksi							
-tammikuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+tammikuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 ,							
 että							
 julkisessa							
@@ -49408,7 +49407,7 @@ Smart  	B-ORG	B-ORG	B-ORG		B-ORG
 City  	I-ORG	I-ORG	I-ORG		I-ORG		
 lopetti							
 wlan-estot	B-MISC	B-MISC	B-MISC		B-MISC		
-lokakuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+lokakuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 sen		Tim?		O			
 jälkeen		Tim?		O			
 kun							
@@ -49532,7 +49531,7 @@ viittasi
 yhteen							
 tapaukseen							
 viime  		B-TIM	B-TIM	O			
-joulukuulta  	B-TIM	I-TIM	I-TIM	B-TIM	B-TIM		
+joulukuulta  	B-DATE	I-TIM	I-TIM	B-TIM	B-TIM		
 .							
 							
 Poliisin							
@@ -49705,7 +49704,7 @@ Systemsiä  	I-ORG	I-ORG	I-ORG		I-ORG
 .							
 							
 Markkinaoikeuden							
-kesäkuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+kesäkuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 antaman							
 päätöksen							
 mukaan							
@@ -49719,8 +49718,8 @@ toimenpiteisiin
 							
 Järjestelmä							
 käyttöön							
-vuosina  	B-TIM	B-TIM	B-TIM		B-TIM		
-20172019  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuosina  	B-DATE	B-TIM	B-TIM		B-TIM		
+2017—2019  	I-DATE	I-TIM	I-TIM		I-TIM		
 							
 Hankkeen							
 ohjausryhmän							
@@ -49770,8 +49769,8 @@ järjestelmä
 saadaan							
 laajamittaiseen							
 käyttöön							
-vuosien  	B-TIM	B-TIM	B-TIM		B-TIM		
-20172019  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuosien  	B-DATE	B-TIM	B-TIM		B-TIM		
+2017—2019  	I-DATE	I-TIM	I-TIM		I-TIM		
 aikana  		I-TIM	I-TIM	O			
 ,							
 kertoo							
@@ -49855,8 +49854,8 @@ KL-Kuntahankinnat  	B-ORG	B-ORG	B-ORG		B-ORG
 tekevät							
 päätökset							
 hankinnasta							
-elosyyskuun  	B-TIM	B-TIM	B-TIM		B-TIM		
-aikana  		I-TIM	I-TIM	O			
+elo—syyskuun  	B-DATE	B-TIM	B-TIM		B-TIM		
+aikana  	I-DATE	I-TIM	I-TIM	O			
 .							
 							
 <HEADLINE>							
@@ -50295,8 +50294,8 @@ Aikaisemmin  		B-TIM	B-TIM	O
 Apple  	B-ORG	B-ORG	B-ORG		B-ORG		
 yritti							
 saada							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-1998  	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+1998  	I-DATE	I-TIM	I-TIM		I-TIM		
 myönnetyn							
 patentin							
 nurin							
@@ -50331,10 +50330,10 @@ on
 käytetty							
 iPhone-malleissa  	B-PRO	B-PRO	B-PRO		B-PRO		
 5s  	I-PRO	I-PRO	I-PRO		I-PRO		
-,							
-6  	B-PRO	B-PRO	B-PRO		B-PRO		
-ja							
-6  	B-PRO	B-PRO	B-PRO		B-PRO		
+,	I-PRO						
+6  	I-PRO	B-PRO	B-PRO		B-PRO		
+ja	I-PRO						
+6  	I-PRO	B-PRO	B-PRO		B-PRO		
 Plus  	I-PRO	I-PRO	I-PRO		I-PRO		
 sekä							
 useissa							
@@ -50396,7 +50395,7 @@ korvauksen
 							
 Viime  		B-TIM	B-TIM	O			
 vuoden  		I-TIM	I-TIM	O			
-tammikuussa  	B-TIM	I-TIM	I-TIM	B-TIM	B-TIM		
+tammikuussa  	B-DATE	I-TIM	I-TIM	B-TIM	B-TIM		
 nostetussa							
 jutussa							
 on							
@@ -50429,13 +50428,13 @@ juuri
 ennen							
 oikeudenkäynnin							
 alkamista							
-vuonna  	B-TIM	B-TIM	B-TIM		B-TIM		
-2009	I-TIM	I-TIM	I-TIM		I-TIM		
+vuonna  	B-DATE	B-TIM	B-TIM		B-TIM		
+2009	I-DATE	I-TIM	I-TIM		I-TIM		
 .							
 							
 WARF  	B-ORG	B-ORG	B-ORG		B-ORG		
 nosti							
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 seuraavan							
 kanteen							
 Applea  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -50490,7 +50489,7 @@ Cookinsaarilla  	B-LOC	B-LOC	B-LOC		B-LOC
 asuva							
 Windows-käyttäjä							
 kertoo							
-elokuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+elokuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 internetlaskunsa							
 nousseen							
 480							
@@ -50536,7 +50535,7 @@ eivät
 ole							
 vielä							
 saaneet							
-heinäelokuun  	B-TIM	B-TIM	B-TIM		B-TIM		
+heinä—elokuun  	B-DATE	B-TIM	B-TIM		B-TIM		
 ajan  		I-TIM	I-TIM	O			
 nettilaskujaan							
 ,							
@@ -50895,7 +50894,7 @@ Jerry  	B-PER	B-PER	B-PER		B-PER
 Brown  	I-PER	I-PER	I-PER		I-PER		
 allekirjoitti							
 lain							
-torstaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+torstaina  		B-TIM	B-TIM		B-TIM		
 .							
 							
 Lain							
@@ -51004,7 +51003,7 @@ pakolaisille
 Joukkorahoituspalvelu							
 Kickstarterissa  	B-PRO	B-PRO	B-PRO		B-PRO		
 pyörii							
-keskiviikkona  	B-TIM	B-TIM	B-TIM		B-TIM		
+keskiviikkona  		B-TIM	B-TIM		B-TIM		
 päättyvä							
 kampanja							
 ,							
@@ -51045,7 +51044,7 @@ lahjoitussumma
 verotuksessa							
 .							
 							
-Maanantai-iltana  	B-TIM	B-TIM	B-TIM		B-TIM		
+Maanantai-iltana  		B-TIM	B-TIM		B-TIM		
 Kickstarterin  	B-PRO	B-PRO	B-PRO		B-PRO		
 kampanja							
 oli							
@@ -51126,7 +51125,7 @@ pakolaistilanteesta
 ,							
 uutisoi							
 Taloussanomat  	B-ORG	B-ORG	B-ORG		B-ORG		
-maanantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+maanantaina  		B-TIM	B-TIM		B-TIM		
 .							
 							
 <HEADLINE>							
@@ -51164,7 +51163,7 @@ New  	B-ORG	B-ORG	B-ORG		B-ORG
 York  	I-ORG	I-ORG	I-ORG		I-ORG		
 Times  	I-ORG	I-ORG	I-ORG		I-ORG		
 uutisoi							
-maanantaina  	B-TIM	B-TIM	B-TIM		B-TIM		
+maanantaina  		B-TIM	B-TIM		B-TIM		
 ,							
 että							
 Applen  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -51387,7 +51386,7 @@ antaa
 lopullisen							
 päätöksen							
 asiasta							
-helmikuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
+helmikuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
 .							
 							
 Nvidia  	B-ORG	B-ORG	B-ORG		B-ORG		
@@ -51397,8 +51396,8 @@ ja
 Qualcommia  	B-ORG	B-ORG	B-ORG		B-ORG		
 grafiikkapatenttien							
 rikkomisesta							
-syyskuussa  	B-TIM	B-TIM	B-TIM		B-TIM		
-2014  	I-TIM	I-TIM	I-TIM		I-TIM		
+syyskuussa  	B-DATE	B-TIM	B-TIM		B-TIM		
+2014  	I-DATE	I-TIM	I-TIM		I-TIM		
 sekä							
 ITC:ssä  	B-ORG	B-ORG	B-ORG		B-ORG		
 että							
