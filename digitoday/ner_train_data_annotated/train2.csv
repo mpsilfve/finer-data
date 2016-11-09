@@ -46502,8 +46502,8 @@ Windows   	B-PRO 	B-PRO
 8:n   	I-PRO 	I-PRO
 mainstream-tuki 	 	
 päättyy 	 	
-tammikuussa   	B-DATE 	B-TIM
-2018 	 	I-TIM
+tammikuussa   	DATE	B-TIM
+2018 	DATE	I-TIM
 . 	 	
  	 	
 Microsoft   	B-ORG 	B-ORG
@@ -46565,7 +46565,7 @@ perinteisiä
 teleoperaattoreita 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 ryhtyi 	 	
 tarjoamaan 	 	
 omaa 	 	
@@ -46582,7 +46582,7 @@ ensiasennuksesta
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 tarjoaa 	 	
 omaa 	 	
 GigaPower-palveluaan   	B-PRO 	B-PRO
@@ -46615,7 +46615,7 @@ ilman
 mainoksia 	 	
 . 	 	
  	 	
-AT&amp;T;:llä 	T 	B-ORG
+AT&amp;T;:llä 		B-ORG
 on 	 	
 kuitenkin 	 	
 etulyöntiasema 	 	
@@ -46661,7 +46661,7 @@ paikallisiin
 pylväisiin 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 ei 	 	
 toki 	 	
 ole 	 	
@@ -46784,8 +46784,8 @@ on
 rakennettava 	 	
 kokonaan 	 	
 uudestaan 	 	
-vuoden   	 	B-TIM
-2018   	 	I-TIM
+vuoden   	DATE	B-TIM
+2018   	DATE	I-TIM
 loppuun   	 	I-TIM
 mennessä   	 	I-TIM
 . 	 	
@@ -46898,9 +46898,7 @@ suuri
 osa 	 	
 S-ryhmän   	B-ORG 	B-ORG
 toimipaikoissa 	 	
-2.1   	 	B-TIM
-. 	 	
- 	 	
+2.1.	DATE	B-TIM
 tehdyistä 	 	
 ostoksista 	 	
 on 	 	
@@ -47526,8 +47524,8 @@ päivitys-näppäimet
  	 	
 Spartan-selain   	B-PRO 	B-PRO
 julkistettaneen 	 	
-21.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+21.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 samalla 	 	
 , 	 	
 kun 	 	
@@ -48081,7 +48079,7 @@ Suomennettuna
 Punatähdeksi   	B-PRO 	B-PRO
 kääntyvän 	 	
 järjestelmän 	 	
-3.0-versio   	B-PRO 	B-PRO
+3.0-versio   		B-PRO
 perustuu 	 	
 Linuxiin   	B-PRO 	B-PRO
 , 	 	
@@ -49717,8 +49715,8 @@ Kiinalainen   	 	B-TIM
 uusi   	 	I-TIM
 vuosi   	 	I-TIM
 koittaa 	 	
-19.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+19.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Mahtoiko 	 	
@@ -49890,8 +49888,8 @@ odottaa
 Kanne 	 	
 muistuttaa 	 	
 hieman 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 porua 	 	
 siitä 	 	
 , 	 	
