@@ -50356,8 +50356,8 @@ missä
 se 	 	
 oli 	 	
 ennen   	 	B-TIM
-27.   	 	I-TIM
-joulukuuta   	B-DATE 	I-TIM
+27.   	DATE	I-TIM
+joulukuuta   	DATE	I-TIM
 . 	 	
  	 	
 Eli 	 	
@@ -50981,8 +50981,8 @@ Windows   	B-PRO 	B-PRO
 kuluttajille 	 	
 suunnatun 	 	
 esittelytilaisuuden 	 	
-21.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+21.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Nähtäväksi 	 	
@@ -51051,7 +51051,7 @@ ei
 tullut 	 	
 saataville 	 	
 aikaisin   	 	B-TIM
-2014   	 	I-TIM
+2014   	DATE	I-TIM
 , 	 	
 kuten 	 	
 alun 	 	
@@ -51060,8 +51060,8 @@ ennakoitiin
 , 	 	
 ja 	 	
 koko   	 	B-TIM
-vuoden   	 	I-TIM
-2014   	 	I-TIM
+vuoden   	DATE	I-TIM
+2014   	DATE	I-TIM
 suhteenkin 	 	
 alkaa 	 	
 olla 	 	
@@ -51603,8 +51603,8 @@ mikä
 kaikki 	 	
 menikään 	 	
 pieleen 	 	
-vuonna   	 	B-TIM
-2014 	 	I-TIM
+vuonna   	DATE	B-TIM
+2014 	DATE	I-TIM
 . 	 	
  	 	
 <BODY> 	 	
@@ -51943,8 +51943,8 @@ S6   	I-PRO 	I-PRO
 " 	 	
 :n 	 	
 kanssa 	 	
-1.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+1.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
 . 	 	
  	 	
 Korealaisvalmistaja 	 	
@@ -52383,8 +52383,8 @@ muistilappuja
 tai 	 	
 lisähuomautuksia 	 	
 jo 	 	
-vuodesta   	 	B-TIM
-2003   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2003   	DATE	I-TIM
 lähtien   	 	I-TIM
 , 	 	
 TechRadar   	B-ORG 	B-ORG
@@ -53204,9 +53204,7 @@ toimitti
 yli 	 	
 miljoona 	 	
 iPhone   	B-PRO 	B-PRO
-5S   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-ää   	I-PRO 	I-PRO
+5S:ää	I-PRO 	I-PRO
 ChinaMobilelle   	B-ORG 	B-ORG
  	 	
 <DATE> 	 	
@@ -53302,8 +53300,8 @@ ryhtyi
 vastaanottamaan 	 	
 iPhonen   	B-PRO 	B-PRO
 ennakkotilauksia 	 	
-25.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+25.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 . 	 	
  	 	
 Se 	 	
@@ -53415,7 +53413,7 @@ neutraliteetin
 <INGRESS> 	 	
 Nykymuotoinen 	 	
 internet 	 	
-on 	 	
+on 		
 vaarassa 	 	
 kadota 	 	
 amerikkalaisen 	 	
@@ -53440,9 +53438,7 @@ perustuu
 <BODY> 	 	
 Vetoomusoikeuden 	 	
 mukaan 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-llä   	I-ORG 	I-ORG
+FCC:llä	B-ORG 	B-ORG
 , 	 	
 viestintäkomissiolla 	 	
 , 	 	
@@ -53500,9 +53496,7 @@ mahdollisina
 suosimiskohteina 	 	
 esimerkiksi 	 	
 urheilukanava 	 	
-ESPN   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+ESPN:n	B-ORG 	B-ORG
 tai 	 	
 Facebookin   	B-ORG 	B-ORG
 . 	 	
@@ -53660,11 +53654,7 @@ kiivaasti
 . 	 	
  	 	
 – 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
 ;   	   	I-ORG
 , 	 	
 Verizon   	B-ORG 	B-ORG
@@ -53721,9 +53711,7 @@ Lehden
 mukaan 	 	
 päätös 	 	
 suolesti 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+FCC:n	B-ORG 	B-ORG
 vielä 	 	
 odotuksiakin 	 	
 pahemmin 	 	
@@ -53748,8 +53736,8 @@ loi
 perustan 	 	
 nykyiselle   	 	B-TIM
 tilanteelle 	 	
-vuonna   	 	B-TIM
-2002   	 	I-TIM
+vuonna   	DATE	B-TIM
+2002   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 se 	 	
@@ -53760,7 +53748,7 @@ alaisuudessa
 luokitteli 	 	
 kaapelimodeemipalvelut 	 	
 tietopalveluksi 	 	
-televiestintäpalvelujen 	 	
+televiestintäpalvelujen 		
 asemesta 	 	
 . 	 	
  	 	
@@ -53866,7 +53854,7 @@ Applen   	B-ORG 	B-ORG
 viimeisintä 	 	
 iPhone   	B-PRO 	B-PRO
 5s   	I-PRO 	I-PRO
--   	I-PRO 	I-PRO
+-   		
 ja 	 	
 5c-puhelimien   	B-PRO 	B-PRO
 julkaisua 	 	
@@ -53880,7 +53868,7 @@ alla
 Galaxy   	B-PRO 	B-PRO
 S5   	I-PRO 	I-PRO
 mini   	I-PRO 	I-PRO
--   	I-PRO 	I-PRO
+-   		
 sekä 	 	
 Zoom   	B-PRO 	B-PRO
 -versiot   	I-PRO 	I-PRO
@@ -53915,7 +53903,7 @@ kamera
 sekä 	 	
 Exynos   	B-PRO 	B-PRO
 6   	I-PRO 	I-PRO
--   	I-PRO 	I-PRO
+-   		
 tai 	 	
 Snapdragon   	B-PRO 	B-PRO
 805   	I-PRO 	I-PRO
@@ -54174,14 +54162,12 @@ Mobilesta   	I-PRO 	I-PRO
 , 	 	
 jota 	 	
 käytettiin 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 markkinoille 	 	
 tulleessa 	 	
 Xperia   	B-PRO 	B-PRO
-X1   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-ssä   	I-PRO 	I-PRO
+X1:ssä	I-PRO 	I-PRO
 . 	 	
  	 	
 Sille 	 	
@@ -54262,8 +54248,8 @@ puhelinta
 <BODY> 	 	
 Apple   	B-ORG 	B-ORG
 teki 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 viimeisellä   	 	I-TIM
 neljänneksellä   	 	I-TIM
 kaikkien   	 	B-TIM
@@ -54657,12 +54643,7 @@ tammi–helmikuun   	B-DATE 	B-TIM
 vaihteessa   	 	I-TIM
 . 	 	
  	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
 ottaa 	 	
 jo 	 	
 vastaan 	 	
@@ -54902,10 +54883,10 @@ muissa
 englantia 	 	
 puhuvissa 	 	
 maissa 	 	
-vuosina   	 	B-TIM
-2015   	 	I-TIM
-ja   	 	I-TIM
-2016   	 	I-TIM
+vuosina   	DATE	B-TIM
+2015   	DATE	I-TIM
+ja   	DATE	I-TIM
+2016   	DATE	I-TIM
 , 	 	
 MSFTnerd   	B-ORG 	B-ORG
 kirjoittaa 	 	
@@ -55068,19 +55049,14 @@ myynti
 39 	 	
 miljardilla 	 	
 dollarilla 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
-:   	I-ORG 	I-ORG
-lle   	I-ORG 	I-ORG
+AT&amp;T;:lle	B-ORG 	B-ORG
 törmäsi 	 	
 Yhdysvaltain   	B-ORG 	B-ORG
 viestintäkomission   	I-ORG 	I-ORG
 vastustukseen 	 	
-2011.   	 	B-TIM
+2011	DATE	B-TIM
+.		
+		
 T-Mobilen   	B-ORG 	B-ORG
 markkina-arvo 	 	
 on 	 	
@@ -55371,9 +55347,7 @@ paremman
 viestintäkokemuksen 	 	
 , 	 	
 sanoi 	 	
-NSN   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+NSN:n	B-ORG 	B-ORG
 itäisen   	B-TIT 	B-TIT
 alueen   	I-TIT 	I-TIT
 johtaja   	I-TIT 	I-TIT
@@ -55441,16 +55415,9 @@ Total   	B-ORG 	B-ORG
 Telecom   	I-ORG 	I-ORG
 viitaten 	 	
 konsulttiyhtiö 	 	
-AC   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-M   	I-ORG 	I-ORG
-;   	   	I-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+AC&amp;M;:n	B-ORG 	B-ORG
 lukuihin 	 	
-. 	 	
+. 		
  	 	
 <HEADLINE> 	 	
 Microsoftin   	B-ORG 	B-ORG
@@ -55524,9 +55491,7 @@ vetävän
 David   	B-PER 	B-PER
 Proulxin   	I-PER 	I-PER
 mukaan 	 	
-BBM   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+BBM:n	B-PRO 	B-PRO
 puute 	 	
 Windows   	B-PRO 	B-PRO
 Phonelle   	I-PRO 	I-PRO
@@ -55978,13 +55943,8 @@ lopulla   	 	I-TIM
  	 	
 <BODY> 	 	
 Barcelonassa   	B-LOC 	B-LOC
-24   	 	B-TIM
-.   	 	I-TIM
-tim 	 	
-–27   	 	B-TIM
-.   	 	I-TIM
-tim 	 	
-helmikuuta   	B-DATE 	B-TIM
+24.-27.	DATE	B-TIM
+helmikuuta   	DATE	B-TIM
 järjestettävät 	 	
 Mobile   	B-EVENT 	B-EVENT
 World   	I-EVENT 	I-EVENT
@@ -56023,8 +55983,8 @@ kertaa
 . 	 	
  	 	
 Myös 	 	
-26.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+26.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 esiintyvä 	 	
 IBM:n   	B-ORG 	B-ORG
 pääjohtaja   	B-TIT 	B-TIT
@@ -56086,8 +56046,7 @@ yli
 1700 	 	
 näytteilleasettajaa 	 	
 ja 	 	
-70 	 	
-000 	 	
+70 000	 	
 kävijää 	 	
 . 	 	
  	 	
@@ -56166,13 +56125,11 @@ kaikesta
 datasta 	 	
 . 	 	
  	 	
-Maaliskuussa   	B-DATE 	B-TIM
-2013   	 	I-TIM
+Maaliskuussa   	DATE	B-TIM
+2013   	DATE	I-TIM
 Areisosta   	B-ORG 	B-ORG
 tuli 	 	
-JDSU   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+JDSU:n	B-ORG 	B-ORG
 tytäryhtiö 	 	
 . 	 	
  	 	
@@ -56214,9 +56171,7 @@ tulevaan
 suunnitteluun 	 	
 , 	 	
 kommentoi 	 	
-JDSU   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+JDSU:n	B-ORG 	B-ORG
 teknologiajohtaja   	B-TIT 	B-TIT
 Michael   	B-PER 	B-PER
 Flanagan   	I-PER 	I-PER
@@ -56343,28 +56298,6 @@ listalle
 kolmanneksi 	 	
 . 	 	
  	 	
-! 	 	
- 	 	
-[ 	 	
-] 	 	
-( 	 	
-/ 	 	
-showImage 	 	
-. 	 	
- 	 	
-php 	 	
-? 	 	
- 	 	
-imageId 	 	
-= 	 	
-67942 	 	
-) 	 	
- 	 	
-Kuva 	 	
-: 	 	
-JDSU   	B-ORG 	B-ORG
-Ariesto   	I-ORG 	I-ORG
- 	 	
 <HEADLINE> 	 	
 " 	 	
 Nokian   	B-ORG 	B-ORG
@@ -56464,9 +56397,7 @@ laskujensa
 mukaan 	 	
 yhtiö 	 	
 myi 	 	
-8 	 	
-245 	 	
-000 	 	
+8 245 000	 	
 älypuhelinta 	 	
 . 	 	
  	 	
@@ -56482,9 +56413,7 @@ Jeronimon   	B-PER 	B-PER
 laskujen 	 	
 mukaan 	 	
 noin 	 	
-57 	 	
-200 	 	
-000 	 	
+57 200 000	 	
 . 	 	
  	 	
 Analyytikko   	B-TIT 	B-TIT
@@ -56541,7 +56470,7 @@ kuninkaiksi
 nousevat 	 	
 Samsung   	B-ORG 	B-ORG
 — 	 	
-jaNokia   	B-ORG 	B-ORG
+jaNokia   		
  	 	
 <DATE> 	 	
 22.1.2014 14:36 	 	
@@ -56573,11 +56502,12 @@ myynnin
 nousevan 	 	
 120 	 	
 miljoonaan 	 	
-vuonna   	 	B-TIM
-2018.   	 	I-TIM
+vuonna   	DATE	B-TIM
+2018	DATE	I-TIM
+.		
  	 	
-Vuonna   	 	I-TIM
-2013   	 	I-TIM
+Vuonna   	DATE	I-TIM
+2013   	DATE	I-TIM
 laitteita 	 	
 toimitettiin 	 	
 arviolta 	 	
@@ -56914,34 +56844,12 @@ TechChrunch   	B-ORG 	B-ORG
 kirjoitti 	 	
 . 	 	
  	 	
-! 	 	
- 	 	
-[ 	 	
-] 	 	
-( 	 	
-/ 	 	
-showImage 	 	
-. 	 	
- 	 	
-php 	 	
-? 	 	
- 	 	
-imageId 	 	
-= 	 	
-67887 	 	
-) 	 	
- 	 	
 Mobiilimainososuudet 	 	
 loka-joulukuussa   	B-DATE 	B-TIM
 Opera   	B-ORG 	B-ORG
 Mediaworksin   	I-ORG 	I-ORG
 mukaan 	 	
 . 	 	
- 	 	
-Kuva 	 	
-: 	 	
-Opera   	B-ORG 	B-ORG
-Mediaworks   	I-ORG 	I-ORG
  	 	
 <HEADLINE> 	 	
 Android   	B-PRO 	B-PRO
@@ -57101,9 +57009,7 @@ Yhdysvalloissa   	B-LOC 	B-LOC
 5,8 	 	
 prosenttiyksikköä 	 	
 , 	 	
-EU5   	B-LOC 	B-LOC
-:   	I-LOC 	I-LOC
-ssä   	I-LOC 	I-LOC
+EU5:ssä	B-LOC 	B-LOC
 5,2 	 	
 ja 	 	
 Kiinassa   	B-LOC 	B-LOC
@@ -57118,9 +57024,7 @@ on
 Japani   	B-LOC 	B-LOC
 , 	 	
 jossa 	 	
-iOS   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+iOS:n	B-PRO 	B-PRO
 markkinaosuus 	 	
 vuoden   	 	B-TIM
 viimeisellä   	 	I-TIM
@@ -57159,9 +57063,7 @@ on
 prosenttia 	 	
 ja 	 	
 AU   	B-ORG 	B-ORG
-KDDI   	I-ORG 	I-ORG
-:   	I-ORG 	I-ORG
-llakin   	I-ORG 	I-ORG
+KDDI:llakin	I-ORG 	I-ORG
 63,7 	 	
 prosenttia 	 	
 . 	 	
@@ -57198,174 +57100,7 @@ Androidin   	B-PRO 	B-PRO
 valta 	 	
 kasvaa 	 	
 älypuhelinmarkkinoilla 	 	
-Älypuhelinten 	 	
-käyttöjärjestelmien 	 	
-markkinaosuudet 	 	
-: 	 	
-EU5   	B-LOC 	B-LOC
-, 	 	
-USA   	B-LOC 	B-LOC
-, 	 	
-Kiina   	B-LOC 	B-LOC
-| 	 	
-EU5   	B-LOC 	B-LOC
-| 	 	
-Q4   	 	B-TIM
-2012   	 	I-TIM
-| 	 	
-Q4   	 	B-TIM
-2013   	 	I-TIM
-| 	 	
-muutos 	 	
-, 	 	
-%-yksikköä 	 	
---- 	 	
-| 	 	
---- 	 	
-| 	 	
---- 	 	
-| 	 	
---- 	 	
-Android   	B-PRO 	B-PRO
-| 	 	
-62,9 	 	
-| 	 	
-68,6 	 	
-| 	 	
-5,7 	 	
-Blackberry   	B-PRO 	B-PRO
-| 	 	
-3,7 	 	
-| 	 	
-1,5 	 	
-| 	 	
-- 	 	
-2,2 	 	
-iOS   	B-PRO 	B-PRO
-| 	 	
-23,7 	 	
-| 	 	
-18,5 	 	
-| 	 	
-- 	 	
-5,2 	 	
-Windows   	B-PRO 	B-PRO
-| 	 	
-5,6 	 	
-| 	 	
-10,3 	 	
-| 	 	
-4,6 	 	
-Muut 	 	
-| 	 	
-4,0 	 	
-| 	 	
-1,1 	 	
-| 	 	
-- 	 	
-3,0 	 	
-| 	 	
-| 	 	
-| 	 	
-USA   	B-LOC 	B-LOC
-| 	 	
-Q4   	 	B-TIM
-2012   	 	I-TIM
-| 	 	
-Q4   	 	B-TIM
-2013   	 	I-TIM
-| 	 	
-muutos 	 	
-, 	 	
-% 	 	
-Android   	B-PRO 	B-PRO
-| 	 	
-46,2 	 	
-| 	 	
-50,6 	 	
-| 	 	
-4,4 	 	
-Blackberry   	B-PRO 	B-PRO
-| 	 	
-0,9 	 	
-| 	 	
-0,4 	 	
-| 	 	
-- 	 	
-0,5 	 	
-iOS   	B-PRO 	B-PRO
-| 	 	
-49,7 	 	
-| 	 	
-43,9 	 	
-| 	 	
-- 	 	
-5,8 	 	
-Windows   	B-PRO 	B-PRO
-| 	 	
-2,4 	 	
-| 	 	
-4,3 	 	
-| 	 	
-1,9 	 	
-Muut 	 	
-| 	 	
-0,8 	 	
-| 	 	
-0,8 	 	
-| 	 	
-0,0 	 	
-| 	 	
-| 	 	
-| 	 	
-Kiina   	B-LOC 	B-LOC
-| 	 	
-Q4   	 	B-TIM
-2012   	 	I-TIM
-| 	 	
-Q4   	 	B-TIM
-2013   	 	I-TIM
-| 	 	
-muutos 	 	
-, 	 	
-% 	 	
-Android   	B-PRO 	B-PRO
-| 	 	
-73,7 	 	
-| 	 	
-78,6 	 	
-| 	 	
-4,9 	 	
-Blackberry   	B-PRO 	B-PRO
-| 	 	
-0,0 	 	
-| 	 	
-0,1 	 	
-| 	 	
-0,1 	 	
-iOS   	B-PRO 	B-PRO
-| 	 	
-21,2 	 	
-| 	 	
-19,0 	 	
-| 	 	
-- 	 	
-2,2 	 	
-Windows   	B-PRO 	B-PRO
-| 	 	
-0,9 	 	
-| 	 	
-1,1 	 	
-| 	 	
-0,2 	 	
-! 	 	
- 	 	
-Lähde 	 	
-: 	 	
-Kantar   	B-ORG 	B-ORG
-World   	I-ORG 	I-ORG
-Panel   	I-ORG 	I-ORG
- 	 	
+		
 <HEADLINE> 	 	
 Suomen   	B-LOC 	B-LOC
 suurin 	 	
@@ -57422,9 +57157,11 @@ Viisivuotinen   	 	B-TIM
 sopimus 	 	
 kattaa 	 	
 vuodet   	 	B-TIM
-2014   	 	I-TIM
-–   	 	I-TIM
-2018.   	 	I-TIM
+2014   	DATE	I-TIM
+–   	DATE	I-TIM
+2018	DATE	I-TIM
+.		
+		
 Sopimuksen 	 	
 arvoa 	 	
 tiedotteessa 	 	
@@ -57471,8 +57208,8 @@ historia
  	 	
 Se 	 	
 alkoi 	 	
-vuonna   	 	B-TIM
-1991   	 	I-TIM
+vuonna   	DATE	B-TIM
+1991   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 Elisa   	B-ORG 	B-ORG
@@ -57484,9 +57221,7 @@ gsm-palvelun
 . 	 	
  	 	
 – 	 	
-NSN   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+NSN:n	B-ORG 	B-ORG
 tulevaisuusvarmistettu 	 	
 ratkaisu 	 	
 mahdollistaa 	 	
@@ -57747,8 +57482,8 @@ kanssa
  	 	
 Se 	 	
 päättää 	 	
-vuodesta   	 	B-TIM
-2012   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2012   	DATE	I-TIM
 vireillä 	 	
 olleet 	 	
 oikeusriidat 	 	
@@ -57911,8 +57646,7 @@ media
 raportoi 	 	
 Pentagonin   	B-ORG 	B-ORG
 tilanneen 	 	
-80 	 	
-000 	 	
+80 000	 	
 uutta  	 	B-TIM
 Blackberry-puhelinta   	B-PRO 	B-PRO
 . 	 	
@@ -57969,8 +57703,7 @@ viestintäverkon
 , 	 	
 johon 	 	
 tulee 	 	
-100 	 	
-000 	 	
+100 000	 	
 laitetta 	 	
 vuoden   	 	B-TIM
 loppuun   	 	I-TIM
@@ -57984,8 +57717,7 @@ että
 ohjelma 	 	
 tukee 	 	
 nykyisellään 	 	
-1 	 	
-800 	 	
+1 800	 	
 julkista 	 	
 mobiililaitetta 	 	
 mukaan 	 	
@@ -58012,16 +57744,12 @@ S3   	I-PRO 	I-PRO
 ja 	 	
 Motorola   	B-PRO 	B-PRO
 RAZR   	I-PRO 	I-PRO
-. 	 	
- 	 	
-. 	 	
-. 	 	
+...	 	
  	 	
 ohjelma 	 	
 tukee 	 	
 myös 	 	
-80 	 	
-000 	 	
+80 000	 	
 Blackberry-puhelinta   	B-PRO 	B-PRO
 . 	 	
  	 	
@@ -58100,7 +57828,8 @@ Normandy   	B-PRO 	B-PRO
 olisi 	 	
 nimeltään 	 	
 Nokia   	B-PRO 	B-PRO
-X.   	I-PRO 	I-PRO
+X	I-PRO 	I-PRO
+.		
  	 	
 > 	 	
 Project   	B-PRO 	B-PRO
@@ -58117,7 +57846,7 @@ evleaks
 January 	 	
 23 	 	
 , 	 	
-2014   	 	B-TIM
+2014   	DATE	B-TIM
  	 	
 > 	 	
 . 	 	
@@ -58134,8 +57863,10 @@ omia
 laitteita 	 	
 markkinoille 	 	
 ennen   	 	B-TIM
-vuotta   	 	I-TIM
-2016.   	 	I-TIM
+vuotta   	DATE	I-TIM
+2016   	DATE	I-TIM
+.		
+		
 Sopimuksen 	 	
 sanamuoto 	 	
 ( 	 	
@@ -58166,7 +57897,7 @@ Nokia-tavaramerkkiä   	B-PRO 	B-PRO
 omissa 	 	
 matkaviestinlaitteissa 	 	
 ennen   	 	B-TIM
-31.12.2015 	 	I-TIM
+31.12.2015 	DATE	I-TIM
 . 	 	
  	 	
 Jäljelle 	 	
@@ -58247,8 +57978,8 @@ MWC-messuilla   	B-EVENT 	B-EVENT
 päivälleen   	 	B-TIM
 kuukauden   	 	I-TIM
 päästä   	 	I-TIM
-24.   	 	I-TIM
-helmikuuta   	B-DATE 	I-TIM
+24.   	DATE	I-TIM
+helmikuuta   	DATE	I-TIM
 , 	 	
 mutta 	 	
 puhelimia 	 	
@@ -58471,8 +58202,8 @@ elektronisten
 kämmeköiden 	 	
 valmistajan 	 	
 Palmin   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 1,2 	 	
 miljardilla 	 	
 dollarilla 	 	
@@ -58492,7 +58223,7 @@ Bitphone   	B-ORG 	B-ORG
 jonka 	 	
 HP   	B-ORG 	B-ORG
 osti 	 	
-2007   	 	B-TIM
+2007   	DATE	B-TIM
 , 	 	
 teki 	 	
 mobiililaitteiden 	 	
@@ -58503,8 +58234,10 @@ Pc-valmistaja 	B-MISC 	B-MISC
 Compaqin   	B-ORG 	B-ORG
 HP   	B-ORG 	B-ORG
 hankki 	 	
-vuonna   	 	B-TIM
-2002.   	 	I-TIM
+vuonna   	DATE	B-TIM
+2002	DATE	I-TIM
+.		
+		
 Sen 	 	
 tuotteisiin 	 	
 kuului 	 	
@@ -58582,9 +58315,7 @@ saavansa
 toimiluvan 	 	
 Yhdysvaltain   	B-LOC 	B-LOC
 viestintäregulaattorilta 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-ltä   	I-ORG 	I-ORG
+FCC:ltä	B-ORG 	B-ORG
 toisen   	 	B-TIM
 vuosineljänneksen   	 	I-TIM
 aikana   	 	I-TIM
@@ -58748,9 +58479,7 @@ Kumpikin
 puoli 	 	
 on 	 	
 toimittanut 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-lle   	I-ORG 	I-ORG
+FCC:lle	B-ORG 	B-ORG
 omaa 	 	
 kantaansa 	 	
 tukevia 	 	
@@ -58816,23 +58545,7 @@ tarkoitetun
 Paper-sovelluksen   	B-PRO 	B-PRO
 ] 	 	
 ( 	 	
-http 	 	
-: 	 	
-/ 	 	
-/ 	 	
-newsroom 	 	
-. 	 	
- 	 	
-fb 	 	
-. 	 	
- 	 	
-com 	 	
-/ 	 	
-News 	 	
-/ 	 	
-793 	 	
-/ 	 	
-Introducing-Paper-Stories-from-Facebook 	 	
+http://newsroom.fb.com/News/793/Introducing-Paper-Stories-from-Facebook 	 	
 ) 	 	
 . 	 	
  	 	
@@ -58841,8 +58554,8 @@ on
 Yhdysvalloissa   	B-LOC 	B-LOC
 ladattavissa 	 	
 iPhone-puhelimiin   	B-PRO 	B-PRO
-3.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+3.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 lähtien   	 	I-TIM
 . 	 	
  	 	
@@ -58943,9 +58656,7 @@ sinnitteli
 DNA:n   	B-ORG 	B-ORG
 listoilla 	 	
 iPhone   	B-PRO 	B-PRO
-5S   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+5S:n	I-PRO 	I-PRO
 ohi 	 	
 . 	 	
  	 	
@@ -58961,9 +58672,7 @@ Jolla-myyjänä   	B-MISC 	B-MISC
 Jolla   	B-ORG 	B-ORG
 nousi 	 	
 iPhone   	B-PRO 	B-PRO
-5S   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+5S:n	I-PRO 	I-PRO
 yläpuolelle 	 	
 DNA:n   	B-ORG 	B-ORG
 myydympien 	 	
@@ -59165,8 +58874,10 @@ puhelimen
 myynti 	 	
 säilyy 	 	
 DNA:lla   	B-ORG 	B-ORG
-”ainakin 	 	
-toistaiseksi”   	 	B-TIM
+”		
+ainakin 	 	
+toistaiseksi	 	B-TIM
+”   		
 . 	 	
  	 	
 Myös 	 	
@@ -59205,7 +58916,7 @@ on
 paljon 	 	
 valinnanvaraa 	 	
 . 	 	
- 	 	
+ 		
 Otamme 	 	
 Jollan   	B-PRO 	B-PRO
 mielellään 	 	
@@ -59238,9 +58949,7 @@ Julkistaako
 Nokia   	B-ORG 	B-ORG
 tosiaan 	 	
 Lumioita   	B-PRO 	B-PRO
-MWC   	B-EVENT 	B-EVENT
-:   	I-EVENT 	I-EVENT
-ssä   	I-EVENT 	I-EVENT
+MWC:ssä	B-EVENT 	B-EVENT
 ? 	 	
  	 	
 <DATE> 	 	
@@ -59326,9 +59035,7 @@ näyttö
 ja 	 	
 3 	 	
 400 	 	
-mAh 	 	
-: 	 	
-n 	 	
+mAh:n	 	
 akku 	 	
 . 	 	
  	 	
@@ -59486,10 +59193,8 @@ Asiasta
 kertoi 	 	
 sovelluksen 	 	
 kehittäjä 	 	
-Blockchain   	B-ORG 	B-ORG
-.   	I-ORG 	I-ORG
-org 	 	
-info   	B-ORG 	B-ORG
+Blockchain.org	B-ORG 	B-ORG
+info   		
 . 	 	
  	 	
 Lontoolaisen 	 	
@@ -59592,8 +59297,7 @@ bitcoin-saldonsa
 Sen 	 	
 on 	 	
 ladannut 	 	
-120 	 	
-000 	 	
+120 000	 	
 käyttäjää 	 	
 . 	 	
  	 	
@@ -59675,21 +59379,14 @@ ilmaiseksi
 . 	 	
  	 	
 Maaliskuun   	B-DATE 	B-TIM
-2.   	 	I-TIM
-päivään   	 	I-TIM
+2.   	I-DATE	I-TIM
+päivään   	I-DATE	I-TIM
 jatkuva  	 	B-TIM
 kampanjatarjous 	 	
 tulee 	 	
 kahden   	 	B-TIM
 vuoden   	 	I-TIM
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+AT&amp;T;:n	B-ORG 	B-ORG
 kytkysopimuksella 	 	
 . 	 	
  	 	
@@ -59751,8 +59448,7 @@ herättämään
 kampanjan 	 	
 mainossähköpostillaan 	 	
 ainakin 	 	
-Cneti   	B-ORG 	B-ORG
-n   	I-ORG 	I-ORG
+Cnetin	B-ORG 	B-ORG
 toimittajan   	B-TIT 	B-TIT
 Chris   	B-PER 	B-PER
 Matyszczykin   	I-PER 	I-PER
@@ -59915,9 +59611,7 @@ ilmiö
 on 	 	
 värikuorellisen 	 	
 iPhone   	B-PRO 	B-PRO
-5C   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+5C:n	I-PRO 	I-PRO
 vaatimattomaksi 	 	
 jäänyt 	 	
 myynti 	 	
@@ -59945,9 +59639,7 @@ menestyjä
 , 	 	
 sillä 	 	
 hintaero 	 	
-5S   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-ään   	I-PRO 	I-PRO
+5S:ään	B-PRO 	B-PRO
 on 	 	
 niin 	 	
 pieni 	 	
@@ -59961,73 +59653,53 @@ myydyimmät
 puhelimet 	 	
 joulukuussa   	B-DATE 	B-TIM
 : 	 	
-1 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+1.	 	
 Samsung   	B-PRO 	B-PRO
 Galaxy   	I-PRO 	I-PRO
 Trend   	I-PRO 	I-PRO
-2 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+2.	 	
 Samsung   	B-PRO 	B-PRO
 Galaxy   	I-PRO 	I-PRO
 S3   	I-PRO 	I-PRO
-3 	 	
-\ 	 	
-. 	 	
- 	 	
+	 	
+3.	 	
 Apple   	B-PRO 	B-PRO
 iPhone   	I-PRO 	I-PRO
 5S   	I-PRO 	I-PRO
-4 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+4.	 	
 Nokia   	B-PRO 	B-PRO
 Lumia   	I-PRO 	I-PRO
 520   	I-PRO 	I-PRO
-5 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+5.	 	
 Nokia   	B-PRO 	B-PRO
 Lumia   	I-PRO 	I-PRO
 625   	I-PRO 	I-PRO
-6 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+6.	 	
 Apple   	B-PRO 	B-PRO
 iPhone   	I-PRO 	I-PRO
 4S   	I-PRO 	I-PRO
-7 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+7.	 	
 Nokia   	B-PRO 	B-PRO
 301   	I-PRO 	I-PRO
-8   	I-PRO 	I-PRO
-\ 	 	
-. 	 	
- 	 	
+		
+8.	I-PRO 	I-PRO
 Samsung   	B-PRO 	B-PRO
 Galaxy   	I-PRO 	I-PRO
 Ace   	I-PRO 	I-PRO
 3   	I-PRO 	I-PRO
-9 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+9.	 	
 Samsung   	B-PRO 	B-PRO
 Galaxy   	I-PRO 	I-PRO
 S4   	I-PRO 	I-PRO
-10 	 	
-\ 	 	
-. 	 	
- 	 	
+		
+10.	 	
 Nokia   	B-PRO 	B-PRO
 Lumia   	I-PRO 	I-PRO
 925   	I-PRO 	I-PRO
@@ -60038,6 +59710,7 @@ myydyimmät
 puhelimet 	 	
 joulukuussa   	B-DATE 	B-TIM
 : 	 	
+		
 1. 	 	
 Apple   	B-PRO 	B-PRO
 iPhone   	I-PRO 	I-PRO
@@ -60357,8 +60030,8 @@ yli
 miljardi 	 	
 dollaria 	 	
 liikevaihtoa 	 	
-vuonna   	 	B-TIM
-2015   	 	I-TIM
+vuonna   	DATE	B-TIM
+2015   	DATE	I-TIM
 . 	 	
  	 	
 Viime   	 	B-TIM
@@ -60495,8 +60168,10 @@ mobiilikäyttäjiä
 on 	 	
 200 	 	
 miljoonaa 	 	
-vuonna   	 	B-TIM
-2018.   	 	I-TIM
+vuonna   	DATE	B-TIM
+2018	DATE	I-TIM
+.		
+		
 Yrityksen 	 	
 whitepaperit 	 	
 voi 	 	
@@ -60539,7 +60214,8 @@ tähtenä
 jatkaa 	 	
 halpa 	 	
 Lumia   	B-PRO 	B-PRO
-520.   	I-PRO 	I-PRO
+520	I-PRO 	I-PRO
+.		
  	 	
 <BODY> 	 	
 Lumia   	I-PRO 	I-PRO
@@ -60671,9 +60347,7 @@ Huawein   	B-ORG 	B-ORG
 rinnalle 	 	
 . 	 	
  	 	
-WP8   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+WP8:n	B-PRO 	B-PRO
 osuus 	 	
 on 	 	
 ohittanut 	 	
@@ -60689,7 +60363,7 @@ prosenttia
 AdDuplexin   	B-ORG 	B-ORG
 blogi 	 	
 arvioi 	 	
-, 	 	
+, 		
 että 	 	
 tässä   	 	B-TIM
 kuussa   	 	I-TIM
@@ -60703,34 +60377,15 @@ on
 WP8-laitteita   	B-PRO 	B-PRO
 . 	 	
  	 	
-! 	 	
- 	 	
-[ 	 	
-] 	 	
-( 	 	
-/ 	 	
-showImage 	 	
-. 	 	
- 	 	
-php 	 	
-? 	 	
- 	 	
-imageId 	 	
-= 	 	
-67501 	 	
-) 	 	
- 	 	
 Windows   	B-PRO 	B-PRO
 Phone   	I-PRO 	I-PRO
 8   	I-PRO 	I-PRO
 laitteiden 	 	
 yleisyys 	 	
 joulukuussa   	B-DATE 	B-TIM
-2013.   	 	I-TIM
-Kuva 	 	
-: 	 	
-AdDuplex   	B-ORG 	B-ORG
- 	 	
+2013	I-DATE	I-TIM
+.		
+		
 <HEADLINE> 	 	
 Microsoft   	I-ORG 	I-ORG
 pönkittää 	 	
@@ -61204,8 +60859,8 @@ tukkuhintaan
 perustuen 	 	
 . 	 	
  	 	
-1.   	 	B-TIM
-syyskuuta   	B-DATE 	I-TIM
+1.   	DATE	B-TIM
+syyskuuta   	DATE	I-TIM
 alkaen   	 	I-TIM
 hinta 	 	
 tippuu 	 	
@@ -61222,9 +60877,9 @@ Uudet  	 	B-TIM
 hinnat 	 	
 on 	 	
 sovittu 	 	
-vuoden   	 	B-TIM
-2015   	 	I-TIM
-marraskuun   	B-DATE 	I-TIM
+vuoden   	DATE	B-TIM
+2015   	DATE	I-TIM
+marraskuun   	DATE	I-TIM
 loppuun   	 	I-TIM
 asti   	 	I-TIM
 . 	 	
@@ -61486,9 +61141,8 @@ Deutsche   	B-ORG 	B-ORG
 Telekom   	I-ORG 	I-ORG
 voitti 	 	
 yksinoikeuden 	 	
-telemagentaanUSA   	B-LOC 	B-LOC
-:   	I-LOC 	I-LOC
-ssa   	I-LOC 	I-LOC
+telemagentaan		
+USA:ssa	B-LOC	
  	 	
 <DATE> 	 	
 10.2.2014 09:30 	 	
@@ -61521,20 +61175,14 @@ vastaan
 nostama 	 	
 kanne 	 	
 jäädytettiin 	 	
-vuonna   	 	B-TIM
-2009.   	 	I-TIM
+vuonna   	DATE	B-TIM
+2009	DATE	I-TIM
+.		
  	 	
 <BODY> 	 	
 T-Mobile   	B-ORG 	B-ORG
 voitti 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+AT&amp;T;n	B-ORG 	B-ORG
 tytäryhtiötä 	 	
 Aio   	B-ORG 	B-ORG
 Wirelessia   	I-ORG 	I-ORG
@@ -61740,8 +61388,8 @@ Sovellukset
 eivät 	 	
 toimi 	 	
 enää 	 	B-TIM
-31.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+31.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 jälkeen   	 	I-TIM
 ja 	 	
 sitten 	 	
@@ -62113,9 +61761,7 @@ blogeissa
 , 	 	
 muun 	 	
 muassa 	 	
-BGR   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-ssä   	I-ORG 	I-ORG
+BGR:ssä	B-ORG 	B-ORG
 ja 	 	
 Ubergizmossa   	B-ORG 	B-ORG
 . 	 	
@@ -62665,9 +62311,7 @@ on
 ilmoittanut 	 	
 pitävänsä 	 	
 lehdistötilaisuuden 	 	
-MWC   	B-EVENT 	B-EVENT
-:   	I-EVENT 	I-EVENT
-n   	I-EVENT 	I-EVENT
+MWC:N	B-EVENT 	B-EVENT
 aattona   	 	B-TIM
 . 	 	
  	 	
@@ -62710,8 +62354,7 @@ käyttää
 myös 	 	
 Windows   	B-PRO 	B-PRO
 Phone   	I-PRO 	I-PRO
--käyttöjärjestelmä   	I-PRO 	I-PRO
-ä   	I-PRO 	I-PRO
+-käyttöjärjestelmää	I-PRO 	I-PRO
 . 	 	
  	 	
 Yhtiö 	 	
@@ -62933,33 +62576,6 @@ lähettävien
 sovellusten 	 	
 ilmoitukset 	 	
 . 	 	
- 	 	
-! 	 	
- 	 	
-[ 	 	
-] 	 	
-( 	 	
-/ 	 	
-showImage 	 	
-. 	 	
- 	 	
-p 	 	
-hp 	 	
-? 	 	
- 	 	
-imageId 	 	
-= 	 	
-67630 	 	
-) 	 	
- 	 	
-Kansioihin 	 	
-järjesteltyjä 	 	
-kuvakkeita 	 	
-. 	 	
- 	 	
-Kuva 	 	
-: 	 	
-Nokia   	B-ORG 	B-ORG
  	 	
 Uutta  	 	B-TIM
 ohjelmatarjontaa 	 	
@@ -63288,7 +62904,9 @@ brittioperaattorina
 kännykkälompakon 	 	
 tarjonnan 	 	
 huhtikuussa   	B-DATE 	B-TIM
-2012.   	 	I-TIM
+2012	I-DATE	I-TIM
+.		
+		
 Luottokorttiyhtiö 	 	
 Visan   	B-ORG 	B-ORG
 tukemassa 	 	
@@ -63443,9 +63061,7 @@ Bloomberg   	B-ORG 	B-ORG
 . 	 	
  	 	
 Galaxy   	B-PRO 	B-PRO
-S5   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+S5:n	I-PRO 	I-PRO
 julkistuksesta 	 	
 kertoi 	 	
 mobiililaiteliiketoiminnan   	B-TIT 	B-TIT
@@ -63474,9 +63090,7 @@ samaan
  	 	
 Samaan   	 	B-TIM
 aikaan   	 	I-TIM
-S5   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+S5:n	B-PRO 	B-PRO
 kanssa 	 	
 Samsung   	B-ORG 	B-ORG
 julkaisee 	 	
@@ -63588,16 +63202,12 @@ kommentoinut
 nähdäänkö 	 	
 tekniikka 	 	
 jo 	 	
-S5   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-ssä   	I-PRO 	I-PRO
+S5:ssä	B-PRO 	B-PRO
 . 	 	
  	 	
 Lee   	B-PER 	B-PER
 sanoi 	 	
-S4   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+S4:n	B-PRO 	B-PRO
 jääneen 	 	
 kuluttajille 	 	
 etäiseksi 	 	
@@ -63617,9 +63227,7 @@ yhtiön
 palaavan 	 	
 perusasioihin 	 	
 " 	 	
-S5   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-ssä   	I-PRO 	I-PRO
+S5:ssä	B-PRO 	B-PRO
 . 	 	
  	 	
 Tämä 	 	
@@ -63825,9 +63433,9 @@ näkymä
 tuo 	 	
 mieleen 	 	
 Nokian   	B-ORG 	B-ORG
-N9   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n.   	I-PRO 	I-PRO
+N9:n	B-PRO 	B-PRO
+.		
+		
 Lyhytikäiseksi 	 	
 jäänyt 	 	
 , 	 	
@@ -63845,9 +63453,7 @@ melkoisen
 arvonnousun 	 	
 . 	 	
  	 	
-N9   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+N9:n	B-PRO 	B-PRO
 Meegoon   	B-PRO 	B-PRO
 perustuu 	 	
 Jolla   	B-PRO 	B-PRO
@@ -63856,9 +63462,7 @@ Nokia   	B-ORG 	B-ORG
 on 	 	
 sittemmin   	 	B-TIM
 tuonut 	 	
-N9   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-n   	I-PRO 	I-PRO
+N9:n	B-PRO 	B-PRO
 ominaisuuksia 	 	
 huippu-Lumioihinsa   	B-MISC 	B-MISC
 ( 	 	
@@ -63869,7 +63473,7 @@ käynnistäminen
 tuplanäpäyttämällä 	 	
 ) 	 	
 . 	 	
- 	 	
+ 		
 Kolmas 	 	
 kiinnostava 	 	
 yksityiskohta 	 	
@@ -64127,9 +63731,7 @@ laitteita
 valmistavien 	 	
 yritysten 	 	
 järjestön 	 	
-GSA   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+GSA:n	B-ORG 	B-ORG
 ( 	 	
 Global   	B-ORG 	B-ORG
 mobile   	I-ORG 	I-ORG
@@ -65174,9 +64776,9 @@ Nokia   	B-ORG 	B-ORG
 esitteli 	 	
 ensimmäisen 	 	
 tablet-laitteensa 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
-lokakuussa   	B-DATE 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
+lokakuussa   	DATE	I-TIM
 . 	 	
  	 	
 Laitteen 	 	
@@ -65225,9 +64827,8 @@ myös
 flopiksi 	 	
 jääneen 	 	
 Windows   	B-PRO 	B-PRO
-RT   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-n.   	I-PRO 	I-PRO
+RT:n	I-PRO 	I-PRO
+.		
  	 	
 Microsoft   	B-ORG 	B-ORG
 oli 	 	
@@ -65251,9 +64852,7 @@ aiemmin   	 	B-TIM
 . 	 	
  	 	
 Windows   	B-PRO 	B-PRO
-RT   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-tä   	I-PRO 	I-PRO
+RT:tä	I-PRO 	I-PRO
 arvosteltiin 	 	
 muun 	 	
 muassa 	 	
@@ -65403,35 +65002,13 @@ Researchin   	I-ORG 	I-ORG
 lukuihin 	 	
 . 	 	
  	 	
-! 	 	
- 	 	
-[ 	 	
-] 	 	
-( 	 	
-/ 	 	
-sh 	 	
-owImage 	 	
-. 	 	
- 	 	
-php 	 	
-? 	 	
- 	 	
-imageId 	 	
-= 	 	
-74957 	 	
-) 	 	
- 	 	
-Kuva 	 	
-: 	 	
-Canalys 	 	
- 	 	
 <HEADLINE> 	 	
 Samsung   	B-PRO 	B-PRO
 Galaxy   	I-PRO 	I-PRO
 S6   	I-PRO 	I-PRO
 julkistetaan 	 	
-1.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+1.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
  	 	
 <DATE> 	 	
 3.2.2015 11:00 	 	
@@ -65442,9 +65019,9 @@ on
 lähettänyt 	 	
 odotetun 	 	
 kutsun 	 	
-maaliskuun   	B-DATE 	B-TIM
-1.   	 	I-TIM
-päivä   	 	I-TIM
+maaliskuun   	DATE	B-TIM
+1.   	DATE	I-TIM
+päivä   	DATE	I-TIM
 Barcelonassa   	B-LOC 	B-LOC
 pidettävään 	 	
 mediatilaisuuteen 	 	
@@ -65534,7 +65111,7 @@ vastaus
 Applen   	B-ORG 	B-ORG
 iPhone   	B-PRO 	B-PRO
 6   	I-PRO 	I-PRO
-ja   	I-PRO 	I-PRO
+ja   		I-PRO
 6   	I-PRO 	I-PRO
 Plus   	I-PRO 	I-PRO
 -älypuhelinten   	I-PRO 	I-PRO
@@ -65628,12 +65205,7 @@ prosenttia
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
 nousi 	 	
 kaista-ahmatiksi 	 	
 , 	 	
@@ -65656,12 +65228,8 @@ taajuushuutokaupassa
 eniten 	 	
 rahaa 	 	
 käytti 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T.   	I-ORG 	I-ORG
-;   	   	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
+		
 Yllättäjäksi 	 	
 nousi 	 	
 satelliitti-tv-operaattori 	 	
@@ -65675,12 +65243,7 @@ kaistaoperaattori
 . 	 	
  	 	
 <BODY> 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
 huusi 	 	
 alueellisia 	 	
 radiotaajuuskaistoja 	 	
@@ -65747,12 +65310,7 @@ voittamaan
 taajuuksia 	 	
 . 	 	
  	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
+AT&amp;T;	B-ORG 	B-ORG
 , 	 	
 joka 	 	
 voitti 	 	
@@ -65771,17 +65329,14 @@ prosenttia
 Yhdysvaltain   	B-LOC 	B-LOC
 väestöstä 	 	
 , 	 	
-FierceWireles   	B-ORG 	B-ORG
-s   	I-ORG 	I-ORG
+FierceWireless	B-ORG 	B-ORG
 kirjoitti 	 	
 . 	 	
  	 	
 AWS 	 	
 on 	 	
 lyhenne 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
+FCC:n	B-ORG 	B-ORG
 termistä 	 	
 Advanced 	 	
 Wireless 	 	
@@ -65796,12 +65351,7 @@ megahertsin
 taajuusalueet 	 	
 . 	 	
  	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T 	 	
-; 	 	
+AT&AMP;T;	B-ORG 	B-ORG
 aikoo 	 	
 tehdä 	 	
 yhteistyötä 	 	
@@ -65815,10 +65365,10 @@ kanssa
 saadakseen 	 	
 kaista-alueen 	 	
 käyttöön 	 	
-vuosista   	 	B-TIM
-2017   	 	I-TIM
-ja   	 	I-TIM
-2018   	 	I-TIM
+vuosista   	DATE	B-TIM
+2017   	DATE	I-TIM
+ja   	DATE	I-TIM
+2018   	DATE	I-TIM
 alkaen   	 	I-TIM
 . 	 	
  	 	
@@ -65838,236 +65388,6 @@ asetettua
 tavoitetta 	 	
 korkeammaksi 	 	
 . 	 	
- 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
-nousi 	 	
-kaista-ahmatiksi 	 	
-FCC   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-n   	I-ORG 	I-ORG
-taajuushuutokaupan 	 	
-tulokset 	 	
-| 	 	
-Huutaja 	 	
-| 	 	
-Huutokauppanimi 	 	
-| 	 	
-Yhteensä 	 	
-| 	 	
-Hinta 	 	
-per 	 	
-MHz-POP 	 	
---- 	 	
-| 	 	
---- 	 	
-| 	 	
---- 	 	
-| 	 	
---- 	 	
-AT   	B-ORG 	B-ORG
-&   	I-ORG 	I-ORG
-amp   	I-ORG 	I-ORG
-;   	   	I-ORG
-T   	I-ORG 	I-ORG
-;   	   	I-ORG
-| 	 	
-AT 	 	
-& 	 	
-amp 	 	
-; 	 	
-T 	 	
-; 	 	
-Wireless 	 	
-Services 	 	
-3 	 	
-LLC 	 	
-| 	 	
-$ 	 	
-18,189 	 	
-, 	 	
-285,000 	 	
-| 	 	
-$ 	 	
-2.88 	 	
-Verizon   	B-ORG 	B-ORG
-| 	 	
-Cellco 	 	
-Partnership 	 	
-d 	 	
-/ 	 	
-b 	 	
-/ 	 	
-a 	 	
-Verizon 	 	
-| 	 	
-$ 	 	
-10,430 	 	
-, 	 	
-017,000 	 	
-| 	 	
-$ 	 	
-2.92 	 	
-Dish   	B-ORG 	B-ORG
-| 	 	
-Northstar 	 	
-Wireless 	 	
-and 	 	
-SNR 	 	
-Wireless 	 	
-LicenseCo 	 	
-| 	 	
-$ 	 	
-9,995 	 	
-, 	 	
-567,775 	 	
-( 	 	
-$ 	 	
-13,327 	 	
-, 	 	
-423,700 	 	
-in 	 	
-gross 	 	
-bids 	 	
-plus 	 	
-a 	 	
-25 	 	
-percent 	 	
-discount 	 	
-for 	 	
-being 	 	
-designated 	 	
-entities 	 	
-) 	 	
-| 	 	
-$ 	 	
-1.68 	 	
-T-Mobile   	B-ORG 	B-ORG
-| 	 	
-T-Mobile 	 	
-License 	 	
-LLC 	 	
-| 	 	
-$ 	 	
-1,774 	 	
-, 	 	
-023,000 	 	
-| 	 	
-$ 	 	
-1.63 	 	
-U.S.   	B-ORG 	B-ORG
-Cellular   	I-ORG 	I-ORG
-| 	 	
-Advantage 	 	
-Spectrum 	 	
-, 	 	
-L.P. 	 	
-| 	 	
-$ 	 	
-338,304 	 	
-, 	 	
-000 	 	
-| 	 	
-- 	 	
-John   	B-PER 	B-PER
-A   	I-PER 	I-PER
-.   	I-PER 	I-PER
-per 	 	
-Dooley   	B-PER 	B-PER
-and 	 	
-TerreStar   	B-ORG 	B-ORG
-and 	 	
-Jarvinian   	B-ORG 	B-ORG
-| 	 	
-2014 	 	
-AWS 	 	
-Spectrum 	 	
-Bidco 	 	
-| 	 	
-$ 	 	
-291,810 	 	
-, 	 	
-000 	 	
-| 	 	
-- 	 	
-America   	B-ORG 	B-ORG
-Movil   	I-ORG 	I-ORG
-and 	 	
-Carlos   	B-ORG 	B-ORG
-Slim   	I-ORG 	I-ORG
-Family   	I-ORG 	I-ORG
-| 	 	
-Puerto   	B-ORG 	B-ORG
-Rico   	I-ORG 	I-ORG
-Telephone   	I-ORG 	I-ORG
-Company   	I-ORG 	I-ORG
-| 	 	
-$ 	 	
-170,901 	 	
-, 	 	
-300 	 	
-| 	 	
-- 	 	
-William   	B-PER 	B-PER
-M.   	I-PER 	I-PER
-Mounger   	I-PER 	I-PER
-II   	I-PER 	I-PER
-| 	 	
-Tristar   	B-ORG 	B-ORG
-License   	I-ORG 	I-ORG
-Group   	I-ORG 	I-ORG
-| 	 	
-$ 	 	
-47,106 	 	
-, 	 	
-000 	 	
-| 	 	
-- 	 	
-Francis   	B-PER 	B-PER
-J.   	I-PER 	I-PER
-DiRico   	I-PER 	I-PER
-| 	 	
-NE   	B-ORG 	B-ORG
-Colorado   	I-ORG 	I-ORG
-Cellular   	I-ORG 	I-ORG
-| 	 	
-$ 	 	
-30,718 	 	
-, 	 	
-000 	 	
-| 	 	
-- 	 	
-Joseph   	B-PER 	B-PER
-Sofio   	I-PER 	I-PER
-| 	 	
-Sofio   	B-PER 	B-PER
-,   	I-PER 	I-PER
-Joseph   	I-PER 	I-PER
-A   	I-PER 	I-PER
-| 	 	
-$ 	 	
-13,483 	 	
-, 	 	
-500 	 	
-| 	 	
-- 	 	
-! 	 	
- 	 	
-Lähde 	 	
-: 	 	
-BTIG   	B-ORG 	B-ORG
-, 	 	
-Hogan   	B-PRO 	B-PRO
-Lovells   	I-PRO 	I-PRO
-and   	I-PRO 	I-PRO
-FCC   	I-PRO 	I-PRO
-filings   	I-PRO 	I-PRO
-via 	 	
-FierceWireless   	B-PRO 	B-PRO
  	 	
 <HEADLINE> 	 	
 Microsoft   	B-ORG 	B-ORG
@@ -66498,11 +65818,11 @@ joutui
 tekemään 	 	
 töitä 	 	
 joulukuun   	B-DATE 	B-TIM
-6.   	 	I-TIM
-päivästä   	 	I-TIM
-tammikuun   	B-DATE 	B-TIM
-16.   	 	I-TIM
-päivään   	 	I-TIM
+6.   	I-DATE	I-TIM
+päivästä   	I-DATE	I-TIM
+tammikuun   	I-DATE	B-TIM
+16.   	I-DATE	I-TIM
+päivään   	I-DATE	I-TIM
 ja 	 	
 puhumaan 	 	
 ainakin 	 	
@@ -67285,8 +66605,8 @@ Nokia-puhelimia   	B-PRO 	B-PRO
 Nokia   	B-ORG 	B-ORG
 julkisti 	 	
 eilen   	 	B-TIM
-vuoden   	 	B-TIM
-2014   	 	I-TIM
+vuoden   	DATE	B-TIM
+2014   	DATE	I-TIM
 tulostietonsa 	 	
 . 	 	
  	 	
@@ -67414,8 +66734,8 @@ sallii
 Nokialle   	B-ORG 	B-ORG
 paluun 	 	
 puhelinmarkkinoille 	 	
-vuonna   	 	B-TIM
-2016 	 	I-TIM
+vuonna   	DATE	B-TIM
+2016 	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
@@ -67707,7 +67027,7 @@ kahden   	 	I-TIM
 vuoden   	 	I-TIM
 ajan   	 	I-TIM
 työskennellyt 	 	
-R&amp;D;-johtajana 	D 	B-MISC
+R&amp;D;-johtajana 		B-MISC
 yhtiön 	 	
 Oulun   	B-LOC 	B-LOC
 tutkimuskeskuksesta 	 	
@@ -68250,8 +67570,8 @@ voittaja
 Sen 	 	
 markkinaosuus 	 	
 kasvoi 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 14,6 	 	
 prosentista 	 	
 17,7 	 	
@@ -68405,7 +67725,7 @@ mukaan
 Applen   	B-ORG 	B-ORG
 iPhone   	B-PRO 	B-PRO
 6-   	I-PRO 	I-PRO
-ja   	I-PRO 	I-PRO
+ja   		I-PRO
 6   	I-PRO 	I-PRO
 Plus   	I-PRO 	I-PRO
 -älypuhelinten   	I-PRO 	I-PRO
@@ -68442,8 +67762,8 @@ oli
 kärjessä 	 	
 edellisen 	 	
 kerran 	 	
-vuonna   	 	B-TIM
-2011 	 	I-TIM
+vuonna   	DATE	B-TIM
+2011 	DATE	I-TIM
 . 	 	
  	 	
 Samsung   	B-ORG 	B-ORG
@@ -68457,8 +67777,8 @@ prosenttiyksikköä
 verrattuna 	 	
 vastavaan  	 	B-TIM
 aikaan  	 	I-TIM
-vuonna   	 	I-TIM
-2013   	 	I-TIM
+vuonna   	DATE	I-TIM
+2013   	DATE	I-TIM
 . 	 	
  	 	
 Applen   	B-ORG 	B-ORG
@@ -68544,8 +67864,8 @@ Afrikassa   	B-LOC 	B-LOC
 . 	 	
  	 	
 Koko   	 	B-TIM
-vuoden   	 	I-TIM
-2014   	 	I-TIM
+vuoden   	DATE	I-TIM
+2014   	DATE	I-TIM
 myynnissä 	 	
 Samsung   	B-ORG 	B-ORG
 säilytti 	 	
@@ -71049,7 +70369,7 @@ seuraavaksi
 eniten 	 	
 asiakkaita 	 	
 lisännyt 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 sai 	 	
 kasaan 	 	
 , 	 	
@@ -71137,7 +70457,7 @@ kovakouraisesta
 haastamisesta 	 	
 kuten 	 	
 esimerkiksi 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 		B-ORG
 ja 	 	
 Blackberryn   	B-ORG 	B-ORG
 johtajat 	 	
@@ -71177,8 +70497,8 @@ dollaria
 Se 	 	
 on 	 	
 enemmän 	 	
-kuin 	 	
-AT&amp;T;:n 	T 	B-ORG
+kuin 		
+AT&amp;T;:n 		B-ORG
 Randall   	B-PER 	B-PER
 Stephensonin   	I-PER 	I-PER
 23 	 	
@@ -71483,8 +70803,8 @@ kanssa
 Kilpailuun 	 	
 ilmoittautuminen 	 	
 päättyy 	 	
-10.   	 	B-TIM
-toukokuuta   	B-DATE 	I-TIM
+10.   	DATE	B-TIM
+toukokuuta   	DATE	I-TIM
 , 	 	
 mutta 	 	
 varsinainen 	 	
@@ -71519,9 +70839,9 @@ Atri   	I-PER 	I-PER
 kirjoittaa 	 	
 , 	 	
 että 	 	
-kesäkuun   	B-DATE 	B-TIM
-2.   	 	I-TIM
-päivän   	 	I-TIM
+kesäkuun   	DATE	B-TIM
+2.   	DATE	I-TIM
+päivän   	DATE	I-TIM
 voittajien 	 	
 julkistustilaisuudessa 	 	
 on 	 	
@@ -71555,7 +70875,7 @@ kahteen
 <DATE> 	 	
 29.4.2014 11:11 	 	
  	 	
-<INGRESS> 	 	
+<INGRESS> 		
 Mobiiliverkkojen 	 	
 liikennemäärien 	 	
 valtava 	 	
@@ -71735,7 +71055,7 @@ saakka   	 	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 lähtee 	 	
 kilpailuun 	 	
 lentomatkustajien 	 	
@@ -71748,7 +71068,7 @@ lentomatkustajien
 Suuri 	 	
 yhdysvaltalainen 	 	
 teleoperaattori 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 rakentaa 	 	
 lentomatkustajille 	 	
 oman 	 	
@@ -71765,12 +71085,12 @@ maassa
 olevien 	 	
 tukiasemien 	 	
 välille 	 	
-vuodeksi   	 	B-TIM
-2015 	 	I-TIM
+vuodeksi   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 ilmoitti 	 	
 maanantaina   	 	B-TIM
 aikeistaan 	 	
@@ -71778,8 +71098,8 @@ tarjota
 nopeita 	 	
 lennonaikaisia 	 	
 datayhteyksiä 	 	
-vuoden   	 	B-TIM
-2015   	 	I-TIM
+vuoden   	DATE	B-TIM
+2015   	DATE	I-TIM
 loppupuolella   	 	I-TIM
 . 	 	
  	 	
@@ -71794,7 +71114,7 @@ katsovan
 tukiasemaverkon 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 hanke 	 	
 haastaa 	 	
 jo 	 	
@@ -71816,7 +71136,7 @@ Cnet   	B-ORG 	B-ORG
 kirjoitti 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 huomautti 	 	
 , 	 	
 että 	 	
@@ -71839,7 +71159,7 @@ Honeywellin   	B-ORG 	B-ORG
 kanssa 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 saa 	 	
 tehdä 	 	
 kovasti 	 	
@@ -72277,7 +71597,7 @@ Dillon   	I-PER 	I-PER
 April 	 	
 28 	 	
 , 	 	
-2014   	 	B-TIM
+2014   	DATE	B-TIM
  	 	
 <HEADLINE> 	 	
 Windows   	B-PRO 	B-PRO
@@ -72581,8 +71901,8 @@ markkinaosuus
 laski 	 	
 5,3 	 	
 prosenttiin 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 alkukuukausien   	 	I-TIM
 5,6 	 	
 prosentista 	 	
@@ -73313,7 +72633,8 @@ Fierce   	I-PRO 	I-PRO
 Evolve   	B-PRO 	B-PRO
 and   	I-PRO 	I-PRO
 Evolve   	I-PRO 	I-PRO
-2.   	I-PRO 	I-PRO
+2	I-PRO 	I-PRO
+.		
  	 	
 <HEADLINE> 	 	
 Yksi 	 	
@@ -74366,7 +73687,7 @@ Neowin   	B-ORG 	B-ORG
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 menee 	 	
 ryminällä 	 	
 Meksikoon   	B-LOC 	B-LOC
@@ -74379,7 +73700,7 @@ Yhdysvaltain   	B-LOC 	B-LOC
 toiseksi 	 	
 suurin 	 	
 matkapuhelinoperaattori 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 ei 	 	
 aikaillut 	 	
 Meksikon   	B-LOC 	B-LOC
@@ -74404,7 +73725,7 @@ jälkeen
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 aikoo 	 	
 luoda 	 	
 Yhdysvaltain   	B-LOC 	B-LOC
@@ -74454,7 +73775,7 @@ Yhdysvaltain   	B-LOC 	B-LOC
 välillä 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 osti 	 	
 meksikolaisen 	 	
 Iusacellin 	 	
@@ -74523,8 +73844,8 @@ maan
 telesektorin 	 	
 liikevaihto 	 	
 kasvoi 	 	
-vuodesta   	 	B-TIM
-2013   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2013   	DATE	I-TIM
 3,6 	 	
 prosenttia 	 	
 1150 	 	
@@ -74678,12 +73999,12 @@ Tulosten
 pitäisi 	 	
 olla 	 	
 esittelykunnossa 	 	
-vuonna   	 	B-TIM
-2018   	 	I-TIM
+vuonna   	DATE	B-TIM
+2018   	DATE	I-TIM
 ja 	 	
 kaupallisessa 	 	
 kuosissa 	 	
-2020 	 	B-TIM
+2020 	DATE	B-TIM
 . 	 	
  	 	
 <BODY> 	 	
@@ -75114,8 +74435,8 @@ ole
 itsestäänselvyys 	 	
 , 	 	
 sillä 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 lopulla   	 	I-TIM
 Huawei   	B-ORG 	B-ORG
 syrjäytti 	 	
@@ -75140,8 +74461,8 @@ joka
 solmittiin 	 	
 alun 	 	
 perin 	 	
-vuonna   	 	B-TIM
-2010 	 	I-TIM
+vuonna   	DATE	B-TIM
+2010 	DATE	I-TIM
 . 	 	
  	 	
 Sopimus 	 	
@@ -76329,13 +75650,13 @@ kanssa
 Ambanin   	B-PER 	B-PER
 veljekset 	 	
 riitautuivat 	 	
-vuonna   	 	B-TIM
-2004   	 	I-TIM
+vuonna   	DATE	B-TIM
+2004   	DATE	I-TIM
 ja 	 	
 jakoivat 	 	
 bisnesimperiuminsa 	 	
-vuonna   	 	B-TIM
-2006   	 	I-TIM
+vuonna   	DATE	B-TIM
+2006   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 Mukesh   	B-PER 	B-PER
@@ -76354,8 +75675,8 @@ palasi
 telealalle 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2013   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 Mukeshin   	B-PER 	B-PER
 teleoperaattori 	 	
 vuokrasi 	 	
@@ -76750,8 +76071,8 @@ myynnin
 ensi   	 	B-TIM
 viikon   	 	I-TIM
 torstaina   	 	I-TIM
-29.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+29.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Android-puhelimessa   	B-PRO 	B-PRO
@@ -80758,12 +80079,12 @@ on
 määrä 	 	
 maksaa 	 	
 takaisin 	 	
-vuonna   	 	B-TIM
-2021   	 	I-TIM
+vuonna   	DATE	B-TIM
+2021   	DATE	I-TIM
 ja 	 	
 Samsungin   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2022 	 	I-TIM
+vuonna   	DATE	B-TIM
+2022 	DATE	I-TIM
 . 	 	
  	 	
 RCR   	B-ORG 	B-ORG
@@ -80956,8 +80277,8 @@ ristiinlisensointisopimusta
 jonka 	 	
 ne 	 	
 solmivat 	 	
-vuonna   	 	B-TIM
-2014 	 	I-TIM
+vuonna   	DATE	B-TIM
+2014 	DATE	I-TIM
 . 	 	
  	 	
 Kaupan 	 	
@@ -81050,8 +80371,8 @@ Phone   	I-PRO 	I-PRO
 96 	 	
 uutta  	 	B-TIM
 lte-verkkoa 	B-MISC 	B-MISC
-vuonna   	 	B-TIM
-2014   	 	I-TIM
+vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 — 	 	
 suomalainen 	 	
 Ukko   	B-ORG 	B-ORG
@@ -81371,8 +80692,8 @@ olevan
 valmis 	 	
 tuotantoon 	 	
 vasta 	 	
-vuonna   	 	B-TIM
-2017 	 	I-TIM
+vuonna   	DATE	B-TIM
+2017 	DATE	I-TIM
 . 	 	
  	 	
 Puhelimien 	 	
@@ -81634,9 +80955,9 @@ oli
 määrä 	 	
 toimittaa 	 	
 jo 	 	
-syyskuun   	B-DATE 	B-TIM
-11.   	 	I-TIM
-päivään   	 	I-TIM
+syyskuun   	DATE	B-TIM
+11.   	DATE	I-TIM
+päivään   	DATE	I-TIM
 mennessä   	 	I-TIM
 , 	 	
 mutta 	 	
@@ -81658,15 +80979,15 @@ alla   	 	I-TIM
 FCC   	B-ORG 	B-ORG
 pysäytti 	 	
 tutkintakellon 	 	
-22.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+22.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 ja 	 	
 aikoo 	 	
 käynnistää 	 	
 sen 	 	
 uudelleen 	 	
-12.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+12.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Viraston 	 	
@@ -81734,7 +81055,7 @@ melkein
 prosenttiin 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 		B-ORG
 ja 	 	
 DirecTV:n 	B-ORG 	B-ORG
 välinen 	 	
@@ -81920,8 +81241,8 @@ Wi-Fi   	B-ORG 	B-ORG
 Railin   	I-ORG 	I-ORG
 ja 	 	
 Bartin   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2009   	 	I-TIM
+vuonna   	DATE	B-TIM
+2009   	DATE	I-TIM
 tehdyn 	 	
 20-vuotisen   	 	B-TIM
 sopimuksen 	 	
@@ -82021,8 +81342,8 @@ koulua
 vastaan 	 	
 suunnatussa 	 	
 hyökkäyksessä 	 	
-16.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+16.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 . 	 	
  	 	
 Peshawarissa   	B-LOC 	B-LOC
@@ -82343,7 +81664,7 @@ toimintoja
 jotka 	 	
 ovat 	 	
 saatavilla 	 	
-8.1:ssä   	B-PRO 	B-PRO
+8.1:ssä   		
 . 	 	
  	 	
 Digiassistentti 	 	
@@ -83010,8 +82331,8 @@ Asiasta
 kirjoittaneen 	 	
 Engadgetin   	B-ORG 	B-ORG
 mukaan 	 	
-vuonna   	 	B-TIM
-2011   	 	I-TIM
+vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 perustetun 	 	
 Rockstarin   	B-ORG 	B-ORG
 lähtökohta 	 	
@@ -83226,9 +82547,9 @@ perin
 päivityksen 	 	
 piti 	 	
 ilmestyä 	 	
-joulukuun   	B-DATE 	B-TIM
-27.   	 	I-TIM
-päivänä   	 	I-TIM
+joulukuun   	DATE	B-TIM
+27.   	DATE	I-TIM
+päivänä   	DATE	I-TIM
 , 	 	
 kertoi 	 	
 muun 	 	
@@ -83312,10 +82633,10 @@ korjaavan
 järjestelmäversion 	 	
 numero 	 	
 on 	 	
-8.10.14219.34 	B-PRO 	B-PRO
+8.10.14219.34 		
 ja 	 	
 laiteohjelmistoversio 	 	
-02054.00000.14485.370xx 	B-PRO 	B-PRO
+02054.00000.14485.370xx 		
 . 	 	
  	 	
 Kun 	 	
@@ -84630,7 +83951,7 @@ ei
 halua 	 	
 käyttäjien 	 	
 siirtyvän 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 	B-ORG	B-ORG
 tai 	 	
 T-Mobilen   	B-ORG 	B-ORG
 asiakkaiksi 	 	
@@ -84641,9 +83962,9 @@ lupaa
 purkaa 	 	
 lukituksen 	 	
 vasta 	 	
-helmikuun   	B-DATE 	B-TIM
-19.   	 	I-TIM
-päivän   	 	I-TIM
+helmikuun   	DATE	B-TIM
+19.   	DATE	I-TIM
+päivän   	DATE	I-TIM
 jälkeen   	 	I-TIM
 julkistetuista 	 	
 puhelimista 	 	
@@ -84677,7 +83998,7 @@ pienempiä
 operaattoreita 	 	
 ja 	 	
 palveluoperaattoreita 	 	
-kuin 	 	
+kuin 		
 Cricket   	B-ORG 	B-ORG
 , 	 	
 MetroPCS   	B-ORG 	B-ORG
@@ -85068,7 +84389,7 @@ markkinointituesta
  	 	
 Se 	 	
 kuuluu 	 	
-Kiinan   	B-LOC 	B-LOC
+Kiinan   	B-LOC	B-LOC
 suurimpiin 	 	
 mobiililaitejakelijoihin 	 	
 . 	 	
@@ -85088,7 +84409,7 @@ Vladislav   	B-PER 	B-PER
 Martinov   	I-PER 	I-PER
 sanoi 	 	
 , 	 	
-että 	 	
+että 		
 Kiinaa   	B-LOC 	B-LOC
 varten 	 	
 puhelimesta 	 	
@@ -85741,8 +85062,8 @@ Dawn   	B-PRO 	B-PRO
 otti 	 	
 uudet   	 	B-TIM
 kuvat 	 	
-12.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+12.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 83 000 	 	
 kilometrin 	 	
 etäisyydeltä 	 	
@@ -85822,7 +85143,7 @@ jännitys
 päättyi 	 	
 maanantaina   	 	B-TIM
 illalla   	 	I-TIM
-Suomen   	 	B-TIM
+Suomen   	B-LOC	B-TIM
 aikaa   	 	I-TIM
 . 	 	
  	 	
@@ -86079,8 +85400,8 @@ Franciscuksesta   	B-PER 	B-PER
 ennen 	 	
 tämän 	 	
 valintaa 	 	
-maaliskuussa   	B-DATE 	B-TIM
-2013   	 	I-TIM
+maaliskuussa   	DATE	B-TIM
+2013   	DATE	I-TIM
 , 	 	
 sekä 	 	
 tietoa 	 	
@@ -86089,16 +85410,16 @@ ennen
 sen 	 	
 ensimmäistä 	 	
 havainnointia 	 	
-vuoden   	 	B-TIM
-2012   	 	I-TIM
-syyskuussa   	B-DATE 	I-TIM
+vuoden   	DATE	B-TIM
+2012   	DATE	I-TIM
+syyskuussa   	DATE	I-TIM
 . 	 	
  	 	
 Lisäksi 	 	
 tutkijat 	 	
 pyysivät 	 	
-syyskuussa   	B-DATE 	B-TIM
-2013   	 	I-TIM
+syyskuussa   	DATE	B-TIM
+2013   	DATE	I-TIM
 suoraan 	 	
 mahdollisia 	 	
 aikamatkustajia 	 	
@@ -86111,8 +85432,8 @@ hashtagin
 tai 	 	
 #ICannotChangeThePast2 	 	
 ennen   	 	B-TIM
-elokuuta   	B-DATE 	I-TIM
-2013 	 	I-TIM
+elokuuta   	DATE	I-TIM
+2013 	DATE	I-TIM
 . 	 	
  	 	
 Jälkimmäistä 	 	
@@ -86364,11 +85685,11 @@ menettää
 neljä 	 	
 viidestä 	 	
 käyttäjästään 	 	
-vuosien   	 	B-TIM
-2015   	 	I-TIM
-ja   	 	I-TIM
-2017   	 	I-TIM
-välillä   	 	I-TIM
+vuosien   	DATE	B-TIM
+2015   	DATE	I-TIM
+ja   	DATE	I-TIM
+2017   	DATE	I-TIM
+välillä   	DATE	I-TIM
 , 	 	
 kertoo 	 	
 Time-lehti   	B-ORG 	B-ORG
@@ -86688,8 +86009,8 @@ palkkasi
 kehitystiimin 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2012   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 Stratasys   	B-ORG 	B-ORG
 fuusioitui 	 	
 israelilaisen 	 	
@@ -86721,9 +86042,11 @@ Huhu
 "   	B-PRO 	B-PRO
 iPhone   	I-PRO 	I-PRO
 6   	I-PRO 	I-PRO
-”:n 	I-PRO 	I-PRO
+”	I-PRO 	I-PRO
+:n	I-PRO	I-PRO
 aurinkokennoista 	 	
 : 	 	
+		
 Yksi 	 	
 uskoo 	 	
 , 	 	
@@ -87619,8 +86942,8 @@ CES   	B-EVENT 	B-EVENT
 , 	 	
 joka 	 	
 käynnistyy 	 	
-7.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+7.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 Las   	B-LOC 	B-LOC
 Vegasissa   	I-LOC 	I-LOC
 . 	 	
@@ -88080,8 +87403,8 @@ Sciences   	I-ORG 	I-ORG
 -julkaisun   	I-ORG 	I-ORG
 maksullisessa 	 	
 artikkelissa 	 	
-10.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+10.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -88702,8 +88025,8 @@ mukaan
 arvioidaan 	 	
 , 	 	
 että 	 	
-vuoteen   	 	B-TIM
-2025   	 	I-TIM
+vuoteen   	DATE	B-TIM
+2025   	DATE	I-TIM
 mennessä   	 	I-TIM
 aikuisten 	 	
 diabetespotilaiden 	 	
@@ -88826,8 +88149,8 @@ laukaisun
 avaruuteen 	 	
 pitäisi 	 	
 tapahtua 	 	
-vuonna   	 	B-TIM
-2018 	 	I-TIM
+vuonna   	DATE	B-TIM
+2018 	DATE	I-TIM
 . 	 	
  	 	
 JWST   	B-PRO 	B-PRO
@@ -88878,8 +88201,8 @@ vempaimen
 tulevaisuudesta   	 	B-TIM
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2011   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 koko 	 	
 hanke 	 	
 oli 	 	
@@ -88931,8 +88254,8 @@ Boch   	I-LOC 	I-LOC
 -teemapuistossa   	I-LOC 	I-LOC
 . 	 	
  	 	
-17.   	 	B-TIM
-heinäkuuta   	B-DATE 	I-TIM
+17.   	DATE	B-TIM
+heinäkuuta   	DATE	I-TIM
 avautuvan 	 	
 majoituspaikan 	 	
 nimi 	 	
@@ -89367,7 +88690,7 @@ Nasalle   	B-ORG 	B-ORG
 miljoonaa 	 	
 dollaria 	 	
 tilivuodelle   	 	B-TIM
-2016   	 	I-TIM
+2016   	DATE	I-TIM
 Europa-tehtävän   	B-PRO 	B-PRO
 hahmottamiseksi 	 	
 . 	 	
@@ -89380,8 +88703,8 @@ tehtävälle
 100 	 	
 miljoonaa 	 	
 dollaria 	 	
-vuoden   	 	B-TIM
-2015   	 	I-TIM
+vuoden   	DATE	B-TIM
+2015   	DATE	I-TIM
 budjetissaan 	 	
 . 	 	
  	 	
@@ -90837,8 +90160,8 @@ senkin
 vuoksi 	 	
 , 	 	
 että 	 	
-22.   	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
+22.   	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
 aiottu 	 	
 avaruuskävely 	 	
 tietokoneen 	 	
@@ -90933,8 +90256,8 @@ palasi
 asiaan 	 	
 nyt   	 	B-TIM
 julkaistussa 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 kirjeessään 	 	
 osakkeenomistajille 	 	
 . 	 	
@@ -91073,8 +90396,8 @@ toimiva
 lentokone 	 	
 valmistautuu 	 	
 maailmanympärysmatkaan 	 	
-vuonna   	 	B-TIM
-2015 	 	I-TIM
+vuonna   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 Solar   	B-ORG 	B-ORG
@@ -91418,8 +90741,8 @@ Massatuotannon
 on 	 	
 tarkoitus 	 	
 alkaa 	 	
-vuonna   	 	B-TIM
-2016 	 	I-TIM
+vuonna   	DATE	B-TIM
+2016 	DATE	I-TIM
 . 	 	
  	 	
 Tosin 	 	
@@ -91878,8 +91201,8 @@ NIST-F1   	B-PRO 	B-PRO
 on 	 	
 ollut 	 	
 käytössä 	 	
-vuodesta   	 	B-TIM
-1999   	 	I-TIM
+vuodesta   	DATE	B-TIM
+1999   	DATE	I-TIM
 lähtien   	 	I-TIM
 . 	 	
  	 	
@@ -92356,8 +91679,8 @@ maaperältä
 näyttäisivät 	 	
 onnistuvan 	 	
 vasta 	 	
-vuonna   	 	B-TIM
-2017 	 	I-TIM
+vuonna   	DATE	B-TIM
+2017 	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
@@ -92382,7 +91705,7 @@ on
 niin 	 	
 yksinkertaista 	 	
 . 	 	
- 	 	
+ 		
 Obaman   	B-PER 	B-PER
 hallinto 	 	
 valitsee 	 	
@@ -92503,8 +91826,8 @@ autot
 on 	 	
 varustettu 	 	
 parannuksilla 	 	
-6.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+6.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
 lukien   	 	I-TIM
 . 	 	
  	 	
@@ -92756,7 +92079,7 @@ sääntöjen
 mukaan 	 	
 , 	 	
 joten 	 	
-Suomen   	 	B-TIM
+Suomen   	B-LOC	B-TIM
 aikaa   	 	I-TIM
 ensi   	 	B-TIM
 maanantaille   	 	I-TIM
@@ -92797,8 +92120,8 @@ e.
 Laukaisun 	 	
 piti 	 	
 tapahtua 	 	
-16.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+16.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
 , 	 	
 mutta 	 	
 kapselin 	 	
@@ -93720,9 +93043,9 @@ tasan
 11   	 	B-TIM
 vuotta   	 	I-TIM
 sitten   	 	I-TIM
-25.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
-2004 	 	I-TIM
+25.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
+2004 	DATE	I-TIM
 . 	 	
  	 	
 Sen 	 	
@@ -93856,9 +93179,9 @@ World   	B-LOC 	B-LOC
 Trade   	I-LOC 	I-LOC
 Centerin   	I-LOC 	I-LOC
 tuhoalueelta 	 	
-11.   	 	B-TIM
-syyskuuta   	B-DATE 	I-TIM
-2001   	 	I-TIM
+11.   	DATE	B-TIM
+syyskuuta   	DATE	I-TIM
+2001   	DATE	I-TIM
 tapahtuneiden 	 	
 terrori-iskujen 	 	
 jälkeen 	 	
@@ -95240,7 +94563,7 @@ koko
 maapallon 	 	
 kattava 	 	
 satelliitti-internet 	 	
-2019–2020   	 	B-TIM
+2019–2020   	DATE	B-TIM
 . 	 	
  	 	
 Hankkeen 	 	
@@ -95462,8 +94785,8 @@ radikaaleista
 muutoksista 	 	
 kokeellisessa 	 	
 , 	 	
-vuonna   	 	B-TIM
-2013   	 	I-TIM
+vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 alkaneessa   	 	I-TIM
 Glass   	B-PRO 	B-PRO
 Explorer   	I-PRO 	I-PRO
@@ -95865,8 +95188,8 @@ sen
 tulevan 	 	
 myyntiin 	 	
 Japanissa   	B-LOC 	B-LOC
-maaliskuussa   	B-DATE 	B-TIM
-2016 	 	I-TIM
+maaliskuussa   	DATE	B-TIM
+2016 	DATE	I-TIM
 . 	 	
  	 	
 Toyotan   	B-ORG 	B-ORG
@@ -96624,8 +95947,8 @@ välisellä
 asteroidivyöhykkeellä 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2007   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2007   	DATE	I-TIM
 laukaistu 	 	
 Dawn   	B-PRO 	B-PRO
 ennätti 	 	
@@ -96636,10 +95959,10 @@ toiseksi
 suurinta 	 	
 kappaletta 	 	
 Vestaa   	B-LOC 	B-LOC
-vuosina   	 	B-TIM
-2011   	 	I-TIM
-ja   	 	I-TIM
-2012 	 	I-TIM
+vuosina   	DATE	B-TIM
+2011   	DATE	I-TIM
+ja   	DATE	I-TIM
+2012 	DATE	I-TIM
 . 	 	
  	 	
 Ceresin   	B-LOC 	B-LOC
@@ -96647,9 +95970,10 @@ luo
 Dawn   	B-PRO 	B-PRO
 on 	 	
 ennättämässä 	 	
-6.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
-2015.   	 	I-TIM
+6.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
+2015	DATE	I-TIM
+.		
  	 	
 Kuinka 	 	
 iso 	 	
@@ -96929,8 +96253,8 @@ joka
 kesti 	 	
 127   	 	B-TIM
 minuuttia   	 	I-TIM
-vuonna   	 	B-TIM
-1982 	 	I-TIM
+vuonna   	DATE	B-TIM
+1982 	DATE	I-TIM
 . 	 	
  	 	
 NASA   	B-ORG 	B-ORG
@@ -97394,8 +96718,8 @@ Volvo   	B-ORG 	B-ORG
 ja 	 	
 POC   	B-ORG 	B-ORG
 esittelevät 	 	
-6.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+6.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 käynnistyvässä 	 	
 suuressa 	 	
 kuluttajaelektroniikkatapahtumassa 	 	
@@ -97751,7 +97075,7 @@ on
 laukaisemassa 	 	
 puolenyön   	 	B-TIM
 jälkeen   	 	I-TIM
-Suomen   	 	B-TIM
+Suomen   	B-LOC	B-TIM
 aikaa   	 	I-TIM
 raketin 	 	
 . 	 	
@@ -98088,8 +97412,7 @@ esitti
 vaarallisia 	 	
 mainoksia 	 	
 — 	 	
-300 	 	
-000 	 	
+300 000	 	
 klikkausta 	 	
 tunnissa   	 	B-TIM
  	 	
@@ -98119,8 +97442,8 @@ esitettiin
 vaarallisia 	 	
 mainoksia 	 	
 ainakin 	 	
-30.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+30.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 lukien   	 	I-TIM
 ja 	 	
 ehkä 	 	
@@ -99427,7 +98750,7 @@ Labs   	I-ORG 	I-ORG
 varoittaa 	 	
 " 	 	
 WhatsAppin   	B-PRO 	B-PRO
-pc-versiosta 	I-PRO 	I-PRO
+pc-versiosta 		
 " 	 	
 , 	 	
 joka 	 	
@@ -100013,7 +99336,7 @@ muutoksissa
 otettiin 	 	
 takapakkia 	 	
 heti  	 	B-TIM
-8.1-päivityksen   	B-PRO 	B-PRO
+8.1-päivityksen   		
 myötä 	 	
 . 	 	
  	 	
@@ -100024,8 +99347,8 @@ Windows   	B-PRO 	B-PRO
 XP:lle  	I-PRO 	I-PRO
 piti 	 	
 päättyä 	 	
-8.   	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
+8.   	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Nyt   	 	B-TIM
@@ -100592,8 +99915,8 @@ kyberrikostutkija
 Hän 	 	
 perusti 	 	
 Mandiantin   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2004   	 	I-TIM
+vuonna   	DATE	B-TIM
+2004   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 hän 	 	
@@ -100635,8 +99958,8 @@ DeWalt   	I-PER 	I-PER
 joka 	 	
 on 	 	
 Intelin   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 ostaman 	 	
 McAfeen   	B-ORG 	B-ORG
 entinen   	 	B-TIM
