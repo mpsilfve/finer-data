@@ -1,5 +1,17 @@
 
 
+XP -> B-MISC
+Face -> B-MISC
+
+KŠy productit lŠpi, versiot menee B-MISCiin tai O:hon
+
+Suomen -> B-LOC, tarkista
+T;amp;T -> B-ORG, tarkista
+
+
+
+
+
 
 DATE:
 
