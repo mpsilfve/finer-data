@@ -351,13 +351,16 @@ The marked entities can span multiple word tokens, for example, consider "Sauli 
 
 To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, ''Suomi'' (Finland) is considered as a markable location, whereas ''suomalainen'' (Finnish) and ''Suomi-fani'' (a fan of Finland) are not.  An important exception to this rule is the set of cases, in which a markable named entity forms a part of a compound word while the whole compound word refers to that same entity: for example, consider the expression ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of  ''Google'' or ''iPhone-puhelin'' (iPhone phone) instead of ''iPhone''. In these cases, the compound word is considered markable.
 
-\paragraph{Coordination of Compound Words}
+\paragraph{Coordination}
 
 Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
 
-\paragraph{Expression ''-niminen''}
+Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. The reason for this is purely practical. If the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
 
-Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone called iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively.
+
+\paragraph{Expression ''-niminen''}
+	
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone called iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
 
 
 \subsection{Annotation Process}

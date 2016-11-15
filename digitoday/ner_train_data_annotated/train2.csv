@@ -100048,8 +100048,8 @@ pelkästään
 suojautumiseen 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2004   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2004   	DATE	I-TIM
 ajatusta 	 	
 ei 	 	
 hyväksytty 	 	
@@ -100269,8 +100269,8 @@ joulua   	 	I-TIM
 ja 	 	
 päättyi 	 	
 loppiaisena   	 	B-TIM
-6.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+6.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Yli 	 	
@@ -100899,8 +100899,8 @@ siis
 haavoittuvuuksien 	 	
 korjaamisen 	 	
 – 	 	
-8.   	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
+8.   	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Yhtiö 	 	
@@ -101805,7 +101805,7 @@ joista
 yksi 	 	
 sijaitsee 	 	
 Irlannissa   	B-LOC 	B-LOC
-EU-alueella   	I-LOC 	I-LOC
+EU-alueella   	B-MISC	B-MISC
 . 	 	
  	 	
 Microsoft   	B-ORG 	B-ORG
@@ -102221,7 +102221,7 @@ määriteltiin
 selvästi 	 	
 jo 	 	
 lokakuussa   	B-DATE 	B-TIM
-2012  	 	I-TIM
+2012  	I-DATE	I-TIM
 . 	 	
  	 	
 Korjauksen 	 	
@@ -102540,8 +102540,8 @@ kertoi
 , 	 	
 että 	 	
 sen 	 	
-vuonna   	 	B-TIM
-2013   	 	I-TIM
+vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 saamista 	 	
 oikeuden 	 	
 määräyksistä 	 	
@@ -102631,11 +102631,11 @@ tietoluovutuksia
 pyydettiin 	 	
 . 	 	
  	 	
-Vuosien   	 	B-TIM
-2001   	 	I-TIM
-ja   	 	I-TIM
-2004   	 	I-TIM
-välillä   	 	I-TIM
+Vuosien   	DATE	B-TIM
+2001   	DATE	I-TIM
+ja   	DATE	I-TIM
+2004   	DATE	I-TIM
+välillä   	DATE	I-TIM
 Verizon   	B-ORG 	B-ORG
 ja 	 	
 muut 	 	
@@ -102654,7 +102654,7 @@ määräystä
 . 	 	
  	 	
 Lokakuussa   	B-DATE 	B-TIM
-2012   	 	I-TIM
+2012   	I-DATE	I-TIM
 Yhdysvaltojen   	B-ORG 	B-ORG
 korkein   	I-ORG 	I-ORG
 oikeus   	I-ORG 	I-ORG
@@ -103003,9 +103003,9 @@ amerikkalaiskäyttäjälle
 . 	 	
  	 	
 Kanne 	 	
-perustuu 	 	
-vuoden   	 	B-TIM
-1986   	 	I-TIM
+perustuu 		
+vuoden   	DATE	B-TIM
+1986   	DATE	I-TIM
 elektronisen 	 	
 viestinnän 	 	
 lakiin 	 	
@@ -103232,8 +103232,8 @@ isäntiin
 . 	 	
  	 	
 Ainakin 	 	
-vuodesta   	 	B-TIM
-2012   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2012   	DATE	I-TIM
 toimineelle 	 	
 murtoryhmälle 	 	
 annettiin 	 	
@@ -104261,8 +104261,8 @@ Tor-selaimen   	B-PRO 	B-PRO
 vanhentunutta 	 	
 versiota 	 	
 BrowderProtector-   	B-PRO 	B-PRO
-sekä   	I-PRO 	I-PRO
-FileScout-suojausohjelmien   	I-PRO 	I-PRO
+sekä   		
+FileScout-suojausohjelmien   	B-PRO	B-PRO
 kanssa 	 	
 . 	 	
  	 	
@@ -104517,8 +104517,8 @@ ovat
 uutisen 	 	
 mukaan 	 	
 kehittäneet 	 	
-vuodesta   	 	B-TIM
-2007   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2007   	DATE	I-TIM
 lähtien   	 	I-TIM
 keinoja 	 	
 koota 	 	
@@ -104782,8 +104782,8 @@ Michaelsin   	B-ORG 	B-ORG
 kärsineen 	 	
 samankaltaisen 	 	
 murron 	 	
-vuonna   	 	B-TIM
-2011   	 	I-TIM
+vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 maksukorttien 	 	
@@ -105081,8 +105081,8 @@ of   	I-ORG 	I-ORG
 the   	I-ORG 	I-ORG
 World   	I-ORG 	I-ORG
 -lehden   	I-ORG 	I-ORG
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 laittomasti 	 	
 julkaisemat 	 	
 kuvat 	 	
@@ -105263,8 +105263,8 @@ omista
 kokemuksistaan 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2007   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2007   	DATE	I-TIM
 julkaistusta 	 	
 kirjasta 	 	
 Ruususelle   	B-PER 	B-PER
@@ -105275,8 +105275,8 @@ korkeimmassa
 oikeudessa 	 	
 20 	 	
 päiväsakkoa 	 	
-vuonna   	 	B-TIM
-2010  	 	I-TIM
+vuonna   	DATE	B-TIM
+2010  	DATE	I-TIM
 . 	 	
  	 	
 EIT:n  	B-ORG 	B-ORG
@@ -105613,7 +105613,7 @@ Windows-versiossa   	I-PRO 	I-PRO
 mutta 	 	
 yksi 	 	
 myös 	 	
-Mac-versiossa   	B-PRO 	B-PRO
+Mac-versiossa   	B-MISC	B-MISC
 . 	 	
  	 	
 Apple   	B-ORG 	B-ORG
@@ -105625,8 +105625,8 @@ päivityksen
  	 	
 Vaarallisia 	 	
 ovat 	 	
-versiota   	B-PRO 	B-PRO
-11.1.4  	I-PRO 	I-PRO
+versiota   		
+11.1.4  		
 edeltävät 	 	
 ohjelmaversiot 	 	
 . 	 	
@@ -105647,7 +105647,7 @@ Suomessa   	B-LOC 	B-LOC
 : 	 	
 " 	 	
 Yksikin 	 	
-XP   	B-PRO 	B-PRO
+XP   	B-MISC	B-MISC
 riittää 	 	
 murtoon 	 	
 " 	 	
@@ -105666,7 +105666,7 @@ yritysverkkoon
 soluttautumiseen 	 	
 . 	 	
  	 	
-XP:tä  	B-PRO 	B-PRO
+XP:tä  	B-MISC	B-MISC
 myös 	 	
 käytetään 	 	
 huolestuttavan 	 	
@@ -105694,11 +105694,11 @@ yrityksille
  	 	
 Nieminen   	B-PER 	B-PER
 viittaa 	 	
-XP:n  	B-PRO 	B-PRO
+XP:n  	B-MISC	B-MISC
 tietoturvapäivitysten 	 	
 päättymiseen 	 	
-8.   	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
+8.   	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
 ja 	 	
 hänen 	 	
 mielestään 	 	
@@ -105748,7 +105748,7 @@ että
 firmassa 	 	
 on 	 	
 yksikin 	 	
-XP   	B-PRO 	B-PRO
+XP   	B-MISC	B-MISC
 liitettynä 	 	
 heidän 	 	
 yritysverkkoonsa 	 	
@@ -105777,7 +105777,7 @@ etukäteen  	 	B-TIM
 selvä 	 	
 – 	 	
 siis 	 	
-XP   	B-PRO 	B-PRO
+XP   	B-MISC	B-MISC
 – 	 	
 , 	 	
 koska 	 	
@@ -105803,7 +105803,7 @@ järjestelmiin
 . 	 	
  	 	
 – 	 	
-XP   	B-PRO 	B-PRO
+XP   	B-MISC	B-MISC
 on 	 	
 nimenomaan 	 	
 käytössä 	 	
@@ -105916,7 +105916,7 @@ ymmärtäneen
 väärin 	 	
 Microsoftin   	B-ORG 	B-ORG
 ilmoituksen 	 	
-XP:n  	B-PRO 	B-PRO
+XP:n  	B-MISC	B-MISC
 virustorjunnan 	 	
 päivittämisestä 	 	
 huhtikuun   	B-DATE 	B-TIM
@@ -105938,8 +105938,8 @@ ne
 ovat 	 	
 todellakin 	 	
 loppumassa 	 	
-8.   	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
+8.   	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -106390,8 +106390,8 @@ järjestelmiä
 vastaan 	 	
 alkoi 	 	
 jo 	 	
-16.   	 	B-TIM
-heinäkuuta   	B-DATE 	I-TIM
+16.   	DATE	B-TIM
+heinäkuuta   	DATE	I-TIM
 viime   	 	I-TIM
 vuonna   	 	I-TIM
 . 	 	
@@ -106403,8 +106403,8 @@ yli   	 	B-TIM
 kolme   	 	I-TIM
 kuukautta   	 	I-TIM
 myöhemmin   	 	I-TIM
-30.   	 	B-TIM
-lokakuuta   	B-DATE 	I-TIM
+30.   	DATE	B-TIM
+lokakuuta   	DATE	I-TIM
 . 	 	
  	 	
 Mutta 	 	
@@ -106415,9 +106415,9 @@ sai
 tietää 	 	
 murtautumisesta 	 	
 vasta 	 	
-tammikuun   	B-DATE 	B-TIM
-ensimmäisenä   	 	I-TIM
-päivänä   	 	I-TIM
+tammikuun   	DATE	B-TIM
+ensimmäisenä   	DATE	I-TIM
+päivänä   	DATE	I-TIM
 . 	 	
  	 	
 Neiman   	B-ORG 	B-ORG
@@ -108396,10 +108396,10 @@ Ongelma
 saattoi 	 	
 ilmetä 	 	
 aikavälillä 	 	
-15.   	 	B-TIM
-–   	 	I-TIM
-22.   	 	I-TIM
-tammikuuta   	B-DATE 	I-TIM
+15.   	DATE	B-TIM
+–   	DATE	I-TIM
+22.   	DATE	I-TIM
+tammikuuta   	DATE	I-TIM
 ja 	 	
 se 	 	
 kosketti 	 	
@@ -109015,7 +109015,7 @@ ei
 ole 	 	
 turvallinen 	 	
 . 	 	
- 	 	
+ 		
 Rovion   	B-ORG 	B-ORG
 toimitusjohtaja   	B-TIT 	B-TIT
 Mikael   	B-PER 	B-PER
@@ -109194,8 +109194,8 @@ viestintään
 , 	 	
 meni 	 	
 kiinni 	 	
-4.   	 	B-TIM
-elokuuta   	B-DATE 	I-TIM
+4.   	DATE	B-TIM
+elokuuta   	DATE	I-TIM
 . 	 	
  	 	
 Se 	 	
@@ -109965,7 +109965,7 @@ Cold   	I-PRO 	I-PRO
 Fusion   	I-PRO 	I-PRO
 -palvelimelle   	I-PRO 	I-PRO
 keväällä   	 	B-TIM
-2013  	 	I-TIM
+2013  	DATE	I-TIM
 . 	 	
  	 	
 Marraskuussa   	B-DATE 	B-TIM
