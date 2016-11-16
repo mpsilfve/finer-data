@@ -140058,8 +140058,8 @@ palvelunestohyökkäyksellä
 Tosin 	 	
 se 	 	
 oli 	 	
-vuonna  	 	B-TIM
-2009 	 	I-TIM
+vuonna  	DATE	B-TIM
+2009 	DATE	I-TIM
 . 	 	
  	 	
 Jos 	 	
@@ -140528,8 +140528,8 @@ Spiegelin   	I-ORG 	I-ORG
 raportoimat 	 	
 asiakirjat 	 	
 ovat 	 	
-vuodelta  	 	B-TIM
-2012  	 	I-TIM
+vuodelta  	DATE	B-TIM
+2012  	DATE	I-TIM
 , 	 	
 mutta 	 	
 valistuneen 	 	
@@ -141690,8 +141690,8 @@ miestä
 otettiin 	 	
 kiinni 	 	
 Moskovassa   	B-LOC 	B-LOC
-vuonna   	 	B-TIM
-2012   	 	I-TIM
+vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 epäiltynä 	 	
 Carberpin   	B-PRO 	B-PRO
 tekemisestä 	 	
@@ -143085,8 +143085,8 @@ kiusallisia
 bugeja 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2011   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 toinen 	 	
 bugi 	 	
 mahdollisti 	 	
@@ -143366,8 +143366,8 @@ tunnuksilla
 Apple   	B-ORG 	B-ORG
 suojasi 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2013   	 	I-TIM
+vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 Apple   	B-MISC 	B-MISC
 ID   	I-MISC 	I-MISC
 -tilit   	I-MISC 	I-MISC
@@ -145214,14 +145214,14 @@ tapahtuma
  	 	
 Se 	 	
 sattui 	 	
-28.  	 	B-TIM
-marraskuuta   	B-DATE 	I-TIM
+28.  	DATE	B-TIM
+marraskuuta   	DATE	I-TIM
 , 	 	
 ja 	 	
 siihen 	 	
 reagoitiin 	 	
-1.  	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+1.  	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 . 	 	
  	 	
 Uutistoimisto 	 	
@@ -145293,8 +145293,8 @@ Gokbayrak.com 	B-ORG 	B-ORG
 Codoso   	B-ORG 	B-ORG
 on 	 	
 tunkeutunut 	 	
-vuodesta  	 	B-TIM
-2010  	 	I-TIM
+vuodesta  	DATE	B-TIM
+2010  	DATE	I-TIM
 lähtien  	 	I-TIM
 energia- 	 	
 ja 	 	
@@ -145770,8 +145770,8 @@ perustuu
  	 	
 Vakoiluorganisaatiot 	 	
 keräsivät 	 	
-vuodesta  	 	B-TIM
-2010  	 	I-TIM
+vuodesta  	DATE	B-TIM
+2010  	DATE	I-TIM
 lähtien  	 	I-TIM
 salausavaimia 	 	
 . 	 	
@@ -145800,9 +145800,9 @@ Interceptin   	I-ORG 	I-ORG
 julkaisemasta 	 	
 24-sivuisesta 	 	
 , 	 	
-27.  	 	B-TIM
-huhtikuuta   	B-DATE 	I-TIM
-2010  	 	I-TIM
+27.  	DATE	B-TIM
+huhtikuuta   	DATE	I-TIM
+2010  	DATE	I-TIM
 päivätystä 	 	
 asiakirjasta 	 	
 . 	 	
@@ -146214,8 +146214,8 @@ lukien
  	 	
 Apple   	B-ORG 	B-ORG
 ryhtyi 	 	
-kesäkuussa   	B-DATE 	B-TIM
-2014   	 	I-TIM
+kesäkuussa   	DATE	B-TIM
+2014   	DATE	I-TIM
 värväämään 	 	
 A123   	B-ORG 	B-ORG
 Systemsin   	I-ORG 	I-ORG
@@ -146266,8 +146266,8 @@ rahoitusta
 Se 	 	
 hakeutui 	 	
 yritysjärjestelyyn 	 	
-vuonna   	 	B-TIM
-2012   	 	I-TIM
+vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 ja 	 	
 on 	 	
 joutunut 	 	
@@ -146503,8 +146503,8 @@ keskenään
  	 	
 Syytökset 	 	
 juontuvat 	 	
-vuoteen   	 	B-TIM
-2011   	 	I-TIM
+vuoteen   	DATE	B-TIM
+2011   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 viisi 	 	
@@ -147164,22 +147164,22 @@ Suomen   	B-LOC 	B-LOC
 kansalaisuus 	 	
 , 	 	
 ja 	 	
-FreeBSD-   	B-PRO 	B-PRO
-, 	 	
-OpenBSD-   	B-PRO 	B-PRO
-, 	 	
-Solaris-   	B-PRO 	B-PRO
-, 	 	
-Linux-   	B-PRO 	B-PRO
-, 	 	
-Mac-   	B-PRO 	B-PRO
-, 	 	
-OS   	B-PRO 	B-PRO
-X-   	I-PRO 	I-PRO
-tai 	 	
-Windows   	B-PRO 	B-PRO
-7   	I-PRO 	I-PRO
--osaaminen 	 	
+FreeBSD-   	B-MISC	B-MISC
+, 	I-MISC	I-MISC
+OpenBSD-   	I-MISC	I-MISC
+, 	I-MISC	I-MISC
+Solaris-   	I-MISC	I-MISC
+, 	I-MISC	I-MISC
+Linux-   	I-MISC	I-MISC
+, 	I-MISC	I-MISC
+Mac-   	I-MISC	I-MISC
+, 	I-MISC	I-MISC
+OS   	I-MISC	I-MISC
+X-   	I-MISC	I-MISC
+tai 	I-MISC	I-MISC
+Windows   	I-MISC	I-MISC
+7   	I-MISC	I-MISC
+-osaaminen 	I-MISC	I-MISC
 . 	 	
  	 	
 Eduksi 	 	
