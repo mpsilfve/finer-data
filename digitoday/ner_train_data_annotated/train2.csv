@@ -133497,9 +133497,7 @@ Microsoftin   	B-ORG 	B-ORG
 tietoturvaohjelmissa 	 	
 . 	 	
  	 	
-ANS   	B-PRO 	B-PRO
-:   	I-PRO 	I-PRO
-ää   	I-PRO 	I-PRO
+ANS:ää	B-PRO 	B-PRO
 kaipaaville 	 	
 yrityksille 	 	
 Microsoft   	B-ORG 	B-ORG
@@ -134144,8 +134142,8 @@ jo
 niin  	 	B-TIM
 aikaisin  	 	I-TIM
 kuin  	 	I-TIM
-vuonna   	 	I-TIM
-2001 	 	I-TIM
+vuonna   	DATE	I-TIM
+2001 	DATE	I-TIM
 . 	 	
  	 	
 Kasperskyn   	B-ORG 	B-ORG
@@ -134903,7 +134901,7 @@ ne
 enää 	 	B-TIM
 välitä 	 	
 lahjoituksia 	 	
-Wikileaks-verkkosivustolle   	B-PRO 	B-PRO
+Wikileaks-verkkosivustolle   	B-ORG	B-PRO
 , 	 	
 joka 	 	
 oli 	 	
@@ -134916,7 +134914,7 @@ salaisia
 viestejä 	 	
 . 	 	
  	 	
-Wikileaksia   	B-PRO 	B-PRO
+Wikileaksia   	B-ORG	B-PRO
 tukeva 	 	
 hakkerijärjestö 	 	
 Anonymous   	B-ORG 	B-ORG
@@ -136835,8 +136833,8 @@ päivitykset
 Windows-käyttöjärjestelmille   	B-PRO 	B-PRO
 ovat 	 	
 luvassa 	 	
-13. 	 	
-tammikuuta   	B-DATE 	B-TIM
+13. 	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Asiasta 	 	
@@ -136875,7 +136873,7 @@ ja
 häiriöitä 	 	
 . 	 	
  	 	
-Aamupäivällä 	 	
+Aamupäivällä 	 	B-TIM
 havaittujen 	 	
 häirioiden 	 	
 syytä 	 	
@@ -137324,8 +137322,8 @@ päästetty
 vapauteen 	 	
 takuita 	 	
 vastaan 	 	
-10.  	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+10.  	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
 asti  	 	I-TIM
 . 	 	
  	 	
@@ -137598,7 +137596,7 @@ muassa
 PCMag   	B-ORG 	B-ORG
 , 	 	
 joka 	 	
-ei 	 	
+ei 		
 linkannut 	 	
 myyntisivulle 	 	
 . 	 	
@@ -137715,8 +137713,8 @@ että
 häntä 	 	
 epäillään 	 	
 myös 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 luottokorttirikoksesta 	 	
 . 	 	
  	 	
@@ -137806,8 +137804,8 @@ edelleen 	 	B-TIM
 OP   	B-ORG 	B-ORG
 tiedottaa 	 	
 tietoliikennehäiriöstä 	 	
-kello 	 	
-12 	 	
+kello 	 	B-TIM
+12 	 	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -137908,8 +137906,8 @@ saappaista
  	 	
 Omassa 	 	
 vastausviestissään 	 	
-Australian   	B-ORG 	B-ORG
-poliisi   	I-ORG 	I-ORG
+Australian   	B-LOC	B-LOC
+poliisi   		
 kiittelee 	 	
 niitä 	 	
 nopeita 	 	
@@ -139187,9 +139185,9 @@ unzip
 Haavoittuvuus 	 	
 on 	 	
 Unzipin   	B-PRO 	B-PRO
-tuoreimmassa   	I-PRO 	I-PRO
-versiossa   	I-PRO 	I-PRO
-6.0   	I-PRO 	I-PRO
+tuoreimmassa   		
+versiossa   		
+6.0   		
 ja 	 	
 sitä 	 	
 edeltävissä 	 	
@@ -139228,7 +139226,7 @@ Windowsissa   	B-PRO 	B-PRO
 on 	 	
 sisäänrakennettu 	 	
 tuki 	 	
-zip-pakkaukselle   	B-MISC 	B-MISC
+zip-pakkaukselle   	B-MISC	B-MISC
 . 	 	
  	 	
 Aukot 	 	
