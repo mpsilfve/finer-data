@@ -120299,8 +120299,8 @@ urkinnalta
 Synchronossin   	B-ORG 	B-ORG
 omistajiin 	 	
 on 	 	
-vuodesta   	 	B-TIM
-2008   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2008   	DATE	I-TIM
 alkaen   	 	I-TIM
 kuulunut 	 	
 kenraali   	B-TIT 	B-TIT
@@ -120311,7 +120311,7 @@ joka
 toimi 	 	
 NSA:n  	B-ORG 	B-ORG
 johtajana 	 	
-2005—2014   	 	B-TIM
+2005—2014   	DATE	B-TIM
 , 	 	
 kertoo 	 	
 Vice-verkkolehti   	B-ORG 	B-ORG
@@ -120328,8 +120328,8 @@ raporteista
 jotka 	 	
 Alexander   	B-PER 	B-PER
 teki 	 	
-vuosina   	 	B-TIM
-2009—2014   	 	I-TIM
+vuosina   	DATE	B-TIM
+2009—2014   	DATE	I-TIM
 . 	 	
  	 	
 NSA   	B-ORG 	B-ORG
@@ -120343,8 +120343,8 @@ raportit
  	 	
 Alexander   	B-PER 	B-PER
 osti 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 Synchronossin   	B-ORG 	B-ORG
 osakkeita 	 	
 50 000 	 	
@@ -121103,8 +121103,8 @@ tekivät
 historiallisen 	 	
 suuren 	 	
 Target-murron   	B-MISC 	B-MISC
-vuonna   	 	B-TIM
-2013  	 	I-TIM
+vuonna   	DATE	B-TIM
+2013  	DATE	I-TIM
 . 	 	
  	 	
 Sen 	 	
@@ -122760,7 +122760,7 @@ sille
 sanoo 	 	
 " 	 	
 Hi 	 	
-TV 	B-PRO 	B-PRO
+TV 		
 " 	 	
 . 	 	
  	 	
@@ -123165,8 +123165,8 @@ Server   	I-PRO 	I-PRO
 -käyttöjärjestelmän   	I-PRO 	I-PRO
 tuki 	 	
 päättyy 	 	
-14.   	 	B-TIM
-heinäkuuta   	B-DATE 	I-TIM
+14.   	DATE	B-TIM
+heinäkuuta   	DATE	I-TIM
 tänä   	 	I-TIM
 vuonna   	 	I-TIM
 . 	 	
@@ -123435,7 +123435,7 @@ kaksi
 vanhinta 	 	
 perustuu 	 	
 vielä 	 	
-XP:hen  	B-PRO 	B-PRO
+XP:hen  		
 . 	 	
  	 	
 Vanhimpien   	 	B-TIM
@@ -123864,7 +123864,7 @@ salasanansa
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 keksi 	 	
 laskuttaa 	 	
 yksityisyydestä 	 	
@@ -123876,7 +123876,7 @@ erikseen
 <INGRESS> 	 	
 Yhdysvaltalainen 	 	
 telejätti 	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 on 	 	
 löytänyt 	 	
 uuden   	 	B-TIM
@@ -123888,7 +123888,7 @@ yksityisyysmaksun
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 tarjoaa 	 	
 huippunopean 	 	
 GigaPower-palvelun   	B-PRO 	B-PRO
@@ -123906,7 +123906,7 @@ dollaria
 kuukaudessa   	 	B-TIM
 . 	 	
  	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 kertoo 	 	
 asiasta 	 	
 suoraan 	 	
@@ -123987,7 +123987,7 @@ Mayer   	B-PER 	B-PER
 arveli 	 	
 , 	 	
 että 	 	
-AT&amp;T;:n  	T 	B-ORG
+AT&amp;T;:n  	B-ORG	B-ORG
 kalliin 	 	
 yksityisyysmaksun 	 	
 tarkoitus 	 	
@@ -124000,7 +124000,7 @@ seurannan
 piirissä 	 	
 . 	 	
  	 	
-AT&amp;T;:n  	T 	B-ORG
+AT&amp;T;:n  	B-ORG	B-ORG
 sakkomaksu 	 	
 yksityisyydestä 	 	
 näyttäisi 	 	
@@ -124025,7 +124025,7 @@ joka
 paikkaan 	 	
 . 	 	
  	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 lupasi 	 	
 luopua 	 	
 marraskuussa   	B-DATE 	B-TIM
@@ -124084,7 +124084,7 @@ New   	B-ORG 	B-ORG
 York   	I-ORG 	I-ORG
 Timesin   	I-ORG 	I-ORG
 mukaan 	 	
-AT&amp;T;  	T 	B-ORG
+AT&amp;T;  	B-ORG	B-ORG
 ei 	 	
 kuitenkaan 	 	
 takaa 	 	
@@ -124281,18 +124281,18 @@ ovat
  	 	
 * 	 	
 RHEL   	B-PRO 	B-PRO
-( 	 	
-Red   	B-PRO 	B-PRO
+( 	I-PRO	
+Red   	I-PRO	B-PRO
 Hat   	I-PRO 	I-PRO
 Enterprise   	I-PRO 	I-PRO
 Linux   	I-PRO 	I-PRO
-) 	 	
-versiot   	B-PRO 	B-PRO
+) 	I-PRO	
+versiot   	I-PRO	B-PRO
 5.x  	I-PRO 	I-PRO
-, 	 	
-6.x  	B-PRO 	B-PRO
-ja 	 	
-7.x  	B-PRO 	B-PRO
+, 	I-PRO	
+6.x  	I-PRO	B-PRO
+ja 	I-PRO	
+7.x  	I-PRO	B-PRO
 * 	 	
 CentOS   	B-PRO 	B-PRO
 Linux   	I-PRO 	I-PRO
@@ -124307,15 +124307,15 @@ Ubuntu   	B-PRO 	B-PRO
 Linux   	I-PRO 	I-PRO
 versiot   	I-PRO 	I-PRO
 10.04   	I-PRO 	I-PRO
-, 	 	
-12.04   	B-PRO 	B-PRO
-LTS   	I-PRO 	I-PRO
+, 	I-PRO	
+12.04   	I-PRO	B-PRO
+LTS   	I-PRO	I-PRO
 * 	 	
 Debian   	B-PRO 	B-PRO
 Linux   	I-PRO 	I-PRO
 versio   	I-PRO 	I-PRO
 7.x  	I-PRO 	I-PRO
-* 	 	
+* 		
 Linux   	B-PRO 	B-PRO
 Mint   	I-PRO 	I-PRO
 versio   	I-PRO 	I-PRO
@@ -124358,7 +124358,7 @@ versio   	I-PRO 	I-PRO
 Haamu 	 	
 avaa 	 	
 pääsyn 	 	
-Linux-palvelimiin   	B-PRO 	B-PRO
+Linux-palvelimiin   	B-MISC	B-MISC
 ilman 	 	
 tunnuksia 	 	
  	 	
@@ -124451,7 +124451,7 @@ glibc’stä   	B-PRO 	B-PRO
 joka 	 	
 julkaistiin 	 	
 elokuussa   	B-DATE 	B-TIM
-2013   	 	I-TIM
+2013   	I-DATE	I-TIM
 , 	 	
 haavoittuvuutta 	 	
 ei 	 	
@@ -124931,11 +124931,11 @@ ohjelmiston
 version 	 	
 tulisi 	 	
 olla 	 	
-16.0.0.296  	B-PRO 	B-PRO
+16.0.0.296  		B-PRO
 sekä 	 	
 Windows-   	B-PRO 	B-PRO
-että   	I-PRO 	I-PRO
-Mac-ympäristössä   	I-PRO 	I-PRO
+että   		
+Mac-ympäristössä   	B-PRO	B-PRO
 . 	 	
  	 	
 Version 	 	
@@ -125000,7 +125000,7 @@ julkaistu
 myös 	 	
 Flashin   	B-PRO 	B-PRO
 vanhemmille 	 	
-13.x-versioille  	B-PRO 	B-PRO
+13.x-versioille  		
 sekä 	 	
 Linuxille   	B-PRO 	B-PRO
 . 	 	
@@ -126076,7 +126076,7 @@ OS   	B-PRO 	B-PRO
 X:n   	I-PRO 	I-PRO
 tulevassa 	 	
 päivityksessä 	 	
-10.10.2  	B-PRO 	B-PRO
+10.10.2  		
 . 	 	
  	 	
 Google   	B-ORG 	B-ORG
@@ -126211,8 +126211,8 @@ kybervakoilun
 uhasta 	 	
 . 	 	
  	 	
-Vuoden   	 	B-TIM
-2013   	 	I-TIM
+Vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 alussa   	 	I-TIM
 ulkoministeriössä   	B-ORG 	B-ORG
 havaittu 	 	
@@ -127154,8 +127154,8 @@ versioita
 Ongelmaa 	 	
 ei 	 	
 ole 	 	
-versiossa   	B-PRO 	B-PRO
-4.2.2.0400 	I-PRO 	I-PRO
+versiossa   		
+4.2.2.0400 		
 , 	 	
 mutta 	 	
 kaikkia 	 	
@@ -127653,8 +127653,8 @@ vaan
 alkoivat 	 	
 kasautua 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2011 	 	I-TIM
+vuonna   	DATE	B-TIM
+2011 	DATE	I-TIM
 . 	 	
  	 	
 Elisan   	B-ORG 	B-ORG
@@ -128167,9 +128167,9 @@ raportoi
 Aukot 	 	
 koskevat 	 	
 VLC:n 	B-PRO 	B-PRO
-viimeisintä  	I-PRO 	I-PRO
-versiota  	I-PRO 	I-PRO
-2.1.5 	I-PRO 	I-PRO
+viimeisintä  		
+versiota  		
+2.1.5 		
 ja 	 	
 sallivat 	 	
 muistin 	 	
@@ -128197,8 +128197,8 @@ Hatas   	B-PER 	B-PER
 havaitsi 	 	
 kummankin 	 	
 haavoittuvuuden 	 	
-24.   	 	B-TIM
-marraskuuta   	B-DATE 	I-TIM
+24.   	DATE	B-TIM
+marraskuuta   	DATE	I-TIM
 . 	 	
  	 	
 VLC:stä 	B-PRO 	B-PRO
@@ -128210,8 +128210,8 @@ haavoittuvuuksista
 alle   	 	B-TIM
 kuukausi   	 	I-TIM
 sitten   	 	I-TIM
-26.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
+26.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
 , 	 	
 joten 	 	
 niiden 	 	
@@ -128322,9 +128322,9 @@ asanoista
  	 	
 Kuten 	 	
 edellisvuonna   	 	B-TIM
-, 	 	
-vuonna   	 	B-TIM
-2014   	 	I-TIM
+, 		
+vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 suosituin 	 	
 salasana 	 	
 oli 	 	
@@ -128498,8 +128498,8 @@ yleisimmistä
 salasanoista 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2014   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 yleisimmät 	 	
 25 	 	
 salasanaa 	 	
@@ -128534,7 +128534,7 @@ toteaa
  	 	
 Yleisimmät 	 	
 salasanat 	 	
-2014   	 	B-TIM
+2014   	DATE	B-TIM
  	 	
 1. 	 	
 123456 	 	
@@ -129490,8 +129490,8 @@ koskee
 myös 	 	
 Windows   	B-PRO 	B-PRO
 8-   	I-PRO 	I-PRO
-ja 	 	
-8.1-käyttöjärjestelmiä   	B-PRO 	B-PRO
+ja 	I-PRO	I-PRO
+8.1-käyttöjärjestelmiä   	I-PRO	I-PRO
 . 	 	
  	 	
 Microsoft   	B-ORG 	B-ORG
@@ -129616,8 +129616,8 @@ soluttautunut
 Pohjois-Korean   	B-LOC 	B-LOC
 tietoverkkoihin 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 alkaneessa 	 	
 operaatiossa 	 	
 , 	 	
@@ -130297,7 +130297,7 @@ olla
 erityisen 	 	
 kiinnostava 	 	
 tiedustelulaitoksen 	 	
-kannalta 	 	
+kannalta 		
 , 	 	
 jotta 	 	
 häneen 	 	
@@ -131406,7 +131406,7 @@ paikkaus
 MS15-002   	B-PRO 	B-PRO
 koskee 	 	
 Windowsin   	B-PRO 	B-PRO
-Telnet-palvelua   	I-PRO 	I-PRO
+Telnet-palvelua   	B-MISC	B-MISC
 ja 	 	
 mahdollistaa 	 	
 koodin 	 	
@@ -132560,7 +132560,7 @@ käyttöön
  	 	
 KitKat-Androidissa   	B-PRO 	B-PRO
 eli 	 	
-4.4:ssä  	B-PRO 	B-PRO
+4.4:ssä  		
 ja 	 	
 myöhemmissä 	 	
 tilalla 	 	
@@ -132576,9 +132576,9 @@ Jelly   	B-PRO 	B-PRO
 Bean   	I-PRO 	I-PRO
 4.3:n   	I-PRO 	I-PRO
 ilmestyi 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
-lokakuussa   	B-DATE 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
+lokakuussa   	DATE	I-TIM
 . 	 	
  	 	
 WebView   	B-PRO 	B-PRO
@@ -132675,7 +132675,7 @@ Android-laitteista   	B-PRO 	B-PRO
 . 	 	
  	 	
 Näistä 	 	
-4.4:n  	B-PRO 	B-PRO
+4.4:n  		
 eli 	 	
 KitKatin   	B-PRO 	B-PRO
 osuus 	 	
@@ -132709,7 +132709,7 @@ jotka
 edustavat 	 	
 Android-versioita   	B-PRO 	B-PRO
 2.3—4.3 	I-PRO 	I-PRO
-. 	I-PRO 	I-PRO
+. 		
  	 	
 Metasploit-blogi   	B-ORG 	B-ORG
 huomauttaa 	 	
@@ -132839,8 +132839,8 @@ siltä
 että 	 	
 Microsoft   	B-ORG 	B-ORG
 aloittaa 	 	
-vuoden   	 	B-TIM
-2015   	 	I-TIM
+vuoden   	DATE	B-TIM
+2015   	DATE	I-TIM
 väärällä 	 	
 jalalla 	 	
 , 	 	
@@ -132893,8 +132893,8 @@ miten
 Microsoft   	B-ORG 	B-ORG
 ryhdistäytyi 	 	
 tietoturvassa 	 	
-vuonna   	 	B-TIM
-2002   	 	I-TIM
+vuonna   	DATE	B-TIM
+2002   	DATE	I-TIM
 , 	 	
 kun 	 	
 se 	 	

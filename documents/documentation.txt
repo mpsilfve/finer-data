@@ -8,6 +8,7 @@ KŠy productit lŠpi, versiot menee B-MISCiin tai O:hon
 Suomen -> B-LOC, tarkista
 T;amp;T -> B-ORG, tarkista
 
+Windows-tietokone, Windows-laite, Windows-versio, Windows-puhelin -> MISC
 
 
 
