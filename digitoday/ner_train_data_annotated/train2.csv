@@ -148099,8 +148099,8 @@ ja  	I-LOC 	I-LOC
 eteläisen  	I-LOC 	I-LOC
 Euroopan   	I-LOC 	I-LOC
 liiketoiminnasta 	 	
-vuosina   	 	B-TIM
-2009–2012   	 	I-TIM
+vuosina   	DATE	B-TIM
+2009–2012   	DATE	I-TIM
 . 	 	
  	 	
 Tämän   	 	B-TIM
@@ -148147,8 +148147,8 @@ Donagemma   	B-PER 	B-PER
 aloitti 	 	
 Nokiassa   	B-ORG 	B-ORG
 jo 	 	
-vuonna   	 	B-TIM
-1994 	 	I-TIM
+vuonna   	DATE	B-TIM
+1994 	DATE	I-TIM
 . 	 	
  	 	
 Hän 	 	
@@ -148408,7 +148408,7 @@ yli   	 	B-TIM
 20   	 	I-TIM
 vuotta   	 	I-TIM
 sitten   	 	I-TIM
-1992 	 	B-TIM
+1992 	DATE	B-TIM
 . 	 	
  	 	
 Hänen 	 	
@@ -148996,7 +148996,7 @@ syöpään
 Hän 	 	
 oli 	 	
 syntynyt 	 	
-1951 	 	B-TIM
+1951 	DATE	B-TIM
 . 	 	
  	 	
 Conway   	B-PER 	B-PER
@@ -149029,8 +149029,8 @@ Conway   	B-PER 	B-PER
 jätti 	 	
 GSMA:n 	B-ORG 	B-ORG
 toimitusjohtajuuden 	 	
-syyskuussa   	B-DATE 	B-TIM
-2011   	 	I-TIM
+syyskuussa   	DATE	B-TIM
+2011   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 hän 	 	
@@ -149381,7 +149381,7 @@ Ahtisaari   	I-PER 	I-PER
 January 	 	
 9 	 	
 , 	 	
-2014  	 	B-TIM
+2014  	DATE	B-TIM
  	 	
 . 	 	
  	 	
@@ -149452,9 +149452,9 @@ avajaispuheensa
 tai 	 	
 -luentonsa 	 	
 MIT:ssä   	B-ORG 	B-ORG
-helmikuun   	B-DATE 	B-TIM
-4.   	 	I-TIM
-päivänä   	 	I-TIM
+helmikuun   	DATE	B-TIM
+4.   	DATE	I-TIM
+päivänä   	DATE	I-TIM
 . 	 	
  	 	
 Ahtisaaren   	B-PER 	B-PER
@@ -150821,7 +150821,7 @@ Hän
 joutui 	 	
 vankilaan 	 	
 vietyään 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 	B-ORG	B-ORG
 järjestelmästä 	 	
 iPad-ostajien   	B-MISC 	B-MISC
 tietoja 	 	
@@ -150886,7 +150886,7 @@ Käräjöin
 mieluusti 	 	
 uudestaan 	 	
 hyökätäkseni 	 	
-CFAA:ta 	B-ORG 	B-ORG
+CFAA:ta 	B-PRO	B-PRO
 vastaan 	 	
 toisen 	 	
 kerran 	 	
@@ -151078,8 +151078,8 @@ kun
 Eich   	B-PER 	B-PER
 nimitettiin 	 	
 toimitusjohtajaksi 	 	
-24.   	 	B-TIM
-maaliskuuta   	B-DATE 	I-TIM
+24.   	DATE	B-TIM
+maaliskuuta   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -151456,8 +151456,8 @@ maan
 yritykset 	 	
 ovat 	 	
 rikkoneet 	 	
-vuonna   	 	B-TIM
-1999   	 	I-TIM
+vuonna   	DATE	B-TIM
+1999   	DATE	I-TIM
 säädettyä 	 	
 35   	 	B-TIM
 tunnin   	 	I-TIM
@@ -151670,7 +151670,7 @@ muassa
 vt. 	 	
 lakiasiainjohtajana 	 	
 syksyllä   	 	B-TIM
-2013 	 	I-TIM
+2013 	DATE	I-TIM
 . 	 	
  	 	
 Ulkomaiset 	 	
@@ -151822,7 +151822,7 @@ helpommin
 Christie   	B-PER 	B-PER
 aloitti 	 	
 Applella   	B-ORG 	B-ORG
-1996   	 	B-TIM
+1996   	DATE	B-TIM
 , 	 	
 jolloin 	 	
 hän 	 	
@@ -152058,9 +152058,9 @@ pohjalle
 kehitettiin 	 	
 niin 	 	
 sanotun 	 	
-spin 	 	
-valve 	 	
--lukupää 	 	
+spin 	B-PRO	
+valve 	I-PRO	
+-lukupää 	I-PRO	
 . 	 	
  	 	
 Parkin   	B-PER 	B-PER
@@ -152369,7 +152369,7 @@ Nokia   	I-PRO 	I-PRO
 ( 	 	
 Schildts   	B-ORG 	B-ORG
 &   	I-ORG 	I-ORG
-amp;S;öderströms 	S 	I-ORG
+amp;S;öderströms 	I-ORG	I-ORG
 ) 	 	
 kirjoittaja 	 	
 , 	 	
@@ -152396,8 +152396,8 @@ Scott   	B-PER 	B-PER
 McNealy   	I-PER 	I-PER
 oli 	 	
 ykkösvaihtoehto 	 	
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 , 	 	
 kun 	 	
 Nokia   	B-ORG 	B-ORG
@@ -152588,8 +152588,8 @@ hallitus   	I-ORG 	I-ORG
 päätti 	 	
 vaihtaa 	 	
 toimitusjohtajaa 	 	
-toukokuussa   	B-DATE 	B-TIM
-2010 	 	I-TIM
+toukokuussa   	DATE	B-TIM
+2010 	DATE	I-TIM
 . 	 	
  	 	
 Tilanteen 	 	
@@ -152723,8 +152723,8 @@ Morgan   	B-ORG 	B-ORG
 Stanley   	I-ORG 	I-ORG
 . 	 	
  	 	
-Elokuussa   	B-DATE 	B-TIM
-2010   	 	I-TIM
+Elokuussa   	DATE	B-TIM
+2010   	DATE	I-TIM
 Nokian   	B-ORG 	B-ORG
 hallitus   	I-ORG 	I-ORG
 valitsi 	 	
@@ -152992,8 +152992,8 @@ halventavalta
 vaikutti 	 	
 myös 	 	
 jotakuta 	 	
-Don-nimistä   	B-MISC 	B-MISC
-työntekijää 	 	
+Don-nimistä   	B-PER	B-PER
+työntekijää 	I-PER	I-PER
 kohtaan 	 	
 julkaistu 	 	
 viesti 	 	
@@ -153164,7 +153164,7 @@ hän
 kuuluu 	 	
 niin 	 	
 sanottuun 	 	
-PayPal-mafiaan   	B-MISC 	B-MISC
+PayPal-mafiaan   	B-ORG	B-ORG
 , 	 	
 eli 	 	
 sarjaan 	 	
@@ -153276,8 +153276,8 @@ valtava
 kohu 	 	
 , 	 	
 sillä 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 hän 	 	
 tuki 	 	
 homoliitot 	 	
@@ -153464,8 +153464,8 @@ oikeudessa
 , 	 	
 tiedettiin 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2012 	 	I-TIM
+vuonna   	DATE	B-TIM
+2012 	DATE	I-TIM
 . 	 	
  	 	
 Eichin   	B-PER 	B-PER
@@ -153631,8 +153631,8 @@ rahallisesti
 homoavioliittojen 	 	
 kieltämistä 	 	
 Kaliforniassa   	B-LOC 	B-LOC
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 – 	 	
 vaikka 	 	
 hän 	 	
@@ -153824,8 +153824,8 @@ sen
 , 	 	
 mitä 	 	
 teki 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 ] 	 	
 , 	 	
 mikä 	 	
@@ -153887,7 +153887,7 @@ Eich   	B-PER 	B-PER
 ei 	 	
 ole 	 	
 eroamassa 	 	
-, 	 	
+, 		
 vaikka 	 	
 hänen 	 	
 nimityksestään 	 	
@@ -154120,9 +154120,9 @@ kaksinkertaistui
 Yhtiö 	 	
 listautui 	 	
 pörssiin 	 	
-vuoden   	 	B-TIM
-2012   	 	I-TIM
-toukokuussa   	B-DATE 	I-TIM
+vuoden   	DATE	B-TIM
+2012   	DATE	I-TIM
+toukokuussa   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -154336,8 +154336,8 @@ siitä
 että 	 	
 Eich   	B-PER 	B-PER
 tuki 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 rahallisesti 	 	
 lakialoitetta 	 	
 homoliittojen 	 	
@@ -154770,11 +154770,11 @@ Franciscon   	I-LOC 	I-LOC
 Moscone   	I-LOC 	I-LOC
 Centeriin   	I-LOC 	I-LOC
 mahtuu 	 	
-kesäkuun   	B-DATE 	B-TIM
-25.   	 	I-TIM
--   	 	I-TIM
-26.   	 	I-TIM
-päivä   	 	I-TIM
+kesäkuun   	DATE	B-TIM
+25.   	DATE	I-TIM
+-   	DATE	I-TIM
+26.   	DATE	I-TIM
+päivä   	DATE	I-TIM
 . 	 	
  	 	
 <BODY> 	 	
@@ -154814,10 +154814,10 @@ varattu
 kolme   	 	B-TIM
 päivää   	 	I-TIM
 : 	 	
-8.   	 	B-TIM
--   	 	I-TIM
-10.   	 	I-TIM
-huhtikuuta   	B-DATE 	I-TIM
+8.   	DATE	B-TIM
+-   	DATE	I-TIM
+10.   	DATE	I-TIM
+huhtikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Sen  	 	B-TIM
@@ -155310,8 +155310,8 @@ Sheryl   	B-PER 	B-PER
 Sandbergia   	I-PER 	I-PER
 kahteen 	 	
 otteeseen 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 , 	 	
 selviää 	 	
 maanantaina   	 	B-TIM
@@ -155383,10 +155383,10 @@ ja
 pitämään 	 	
 palkkakuluja 	 	
 alhaalla 	 	
-vuosina   	 	B-TIM
-2005   	 	I-TIM
-–   	 	I-TIM
-2009 	 	I-TIM
+vuosina   	DATE	B-TIM
+2005   	DATE	I-TIM
+–   	DATE	I-TIM
+2009 	DATE	I-TIM
 . 	 	
  	 	
 Kanteen 	 	
@@ -155432,8 +155432,8 @@ jotka
 olivat 	 	
 liittovaltion 	 	
 oikeusministeriön 	 	
-vuoden   	 	B-TIM
-2009   	 	I-TIM
+vuoden   	DATE	B-TIM
+2009   	DATE	I-TIM
 kilpailunrajoitustutkinnan 	 	
 kohteina 	 	
 . 	 	
@@ -155446,8 +155446,8 @@ ja
 sitä 	 	
 seuranneen 	 	
 siviilikanteen 	 	
-syyskuussa   	B-DATE 	B-TIM
-2011   	 	I-TIM
+syyskuussa   	DATE	B-TIM
+2011   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 ne 	 	
@@ -155632,7 +155632,7 @@ näin
 , 	 	
 vasta 	 	
 kesällä   	 	B-TIM
-2012   	 	I-TIM
+2012   	DATE	I-TIM
 nimitetty 	 	
 Bennett   	B-PER 	B-PER
 kävelee 	 	
@@ -155908,8 +155908,8 @@ Ryhmän
 tunnetuimpia 	 	
 mediabrändejä 	 	
 ovat 	 	
-vuonna   	 	B-TIM
-1964   	 	I-TIM
+vuonna   	DATE	B-TIM
+1964   	DATE	I-TIM
 perustettu 	 	
 Computerworld   	B-ORG 	B-ORG
 , 	 	
@@ -155989,7 +155989,7 @@ mantereella
 , 	 	
 McGovern   	B-PER 	B-PER
 perusti 	 	
-1997   	 	B-TIM
+1997   	DATE	B-TIM
 nettijulkaisu 	 	
 Computerworld   	B-ORG 	B-ORG
 Antarctican   	I-ORG 	I-ORG
@@ -156038,8 +156038,8 @@ kärjessä
 avautuvilla 	 	
 markkinoilla 	 	
 kuten 	 	
-vuonna   	 	B-TIM
-1992   	 	I-TIM
+vuonna   	DATE	B-TIM
+1992   	DATE	I-TIM
 Kiinassa   	B-LOC 	B-LOC
 ja 	 	
 sen  	 	B-TIM
@@ -156587,8 +156587,8 @@ viime   	 	B-TIM
 vuosikymmeneltä   	 	I-TIM
 ? 	 	
  	 	
-Vuonna   	 	B-TIM
-2011   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 puolet 	 	
 opettajista 	 	
 oli 	 	
@@ -157880,10 +157880,10 @@ Sopimus
 joka 	 	
 oli 	 	
 voimassa 	 	
-vuosina   	 	B-TIM
-2005   	 	I-TIM
-–   	 	I-TIM
-2009   	 	I-TIM
+vuosina   	DATE	B-TIM
+2005   	DATE	I-TIM
+–   	DATE	I-TIM
+2009   	DATE	I-TIM
 , 	 	
 piti 	 	
 alueen 	 	
@@ -157905,8 +157905,8 @@ Intuit   	B-ORG 	B-ORG
 , 	 	
 sopi 	 	
 työntekijöiden 	 	
-vuonna   	 	B-TIM
-2011   	 	I-TIM
+vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 nostaman 	 	
 kanteen 	 	
 ja 	 	
@@ -157916,8 +157916,8 @@ korvauksia
 20 	 	
 miljoonaa 	 	
 dollaria 	 	
-vuonna   	 	B-TIM
-2013 	 	I-TIM
+vuonna   	DATE	B-TIM
+2013 	DATE	I-TIM
 . 	 	
  	 	
 Apple   	B-ORG 	B-ORG
@@ -158156,8 +158156,8 @@ Zuckerberg   	I-PER 	I-PER
 etsii 	 	
 uutta  	 	B-TIM
 haastetta 	 	
-vuodelle   	 	B-TIM
-2015 	 	I-TIM
+vuodelle   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 Kiina   	B-LOC 	B-LOC
@@ -158290,8 +158290,8 @@ oli
 Zuckerbergilla   	B-PER 	B-PER
 työn 	 	
 alla 	 	
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 , 	 	
 mutta 	 	
 joidenkin 	 	
@@ -159787,8 +159787,8 @@ pääse
 alle 	 	
 500 	 	
 dollarin 	 	
-vuonna   	 	B-TIM
-2014   	 	I-TIM
+vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 , 	 	
 joten 	 	
 se 	 	
@@ -159801,8 +159801,8 @@ tuhoon
 tuomittu 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2014   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 , 	 	
 tarkentaa 	 	
 Scoble   	B-PER 	B-PER
@@ -159859,8 +159859,8 @@ tapahtuu
 hänen 	 	
 veikkauksensa 	 	
 mukaan 	 	
-vuonna   	 	B-TIM
-2016 	 	I-TIM
+vuonna   	DATE	B-TIM
+2016 	DATE	I-TIM
 . 	 	
  	 	
 Edes 	 	
@@ -160137,8 +160137,8 @@ kirjoitti
 Myontecin   	B-ORG 	B-ORG
 älyhousuista 	 	
 jo 	 	
-kesäkuussa   	B-DATE 	B-TIM
-2012 	 	I-TIM
+kesäkuussa   	DATE	B-TIM
+2012 	DATE	I-TIM
 . 	 	
  	 	
 Sen 	 	
@@ -161199,7 +161199,7 @@ Nexus   	B-PRO 	B-PRO
 5   	I-PRO 	I-PRO
 arvioitiin 	 	
 Digitodayssa   	B-ORG 	B-ORG
-5.12.2013 	 	B-TIM
+5.12.2013 	DATE	B-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -162351,8 +162351,8 @@ Link   	I-PRO 	I-PRO
 Glassware   	I-PRO 	I-PRO
 -sovelluksen   	I-PRO 	I-PRO
 ensi   	 	B-TIM
-vuonna   	 	I-TIM
-uuden  	 	B-TIM
+vuonna   		I-TIM
+uuden  		B-TIM
 2015   	B-PRO 	B-PRO
 Genesis   	I-PRO 	I-PRO
 -   	I-PRO 	I-PRO
@@ -162844,7 +162844,7 @@ samankaltaista
 nahkajäljitelmää 	 	
 kuin 	 	
 valmistajan 	 	
-Note-malleissa   	B-PRO 	B-PRO
+Note-malleissa   	B-MISC	B-MISC
 on 	 	
 nähty 	 	
 . 	 	
@@ -163456,8 +163456,8 @@ itse
 laitteisto 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2012   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 syntynyt 	 	
 idea 	 	
 on 	 	
@@ -164074,7 +164074,7 @@ halunneen
 osoittaa 	 	
 kunniaa 	 	
 suomalaiselle 	 	
-arkkitehdille 	 	
+arkkitehdille 	B-TIT	B-TIT
 Eero   	B-PER 	B-PER
 Saariselle   	I-PER 	I-PER
 . 	 	
@@ -165488,8 +165488,8 @@ ja
 sitä 	 	
 on 	 	
 myyty 	 	
-vuodesta   	 	B-TIM
-2013   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2013   	DATE	I-TIM
 lähtien   	 	I-TIM
 laajoissa 	 	
 jakelukanavissa 	 	
@@ -165900,12 +165900,12 @@ Kyseiset
 koneet 	 	
 on 	 	
 myyty 	 	
-helmikuun   	B-DATE 	B-TIM
-2011   	 	I-TIM
-ja   	 	I-TIM
-joulukuun   	B-DATE 	I-TIM
-2013   	 	I-TIM
-välillä   	 	I-TIM
+helmikuun   	DATE	B-TIM
+2011   	DATE	I-TIM
+ja   	DATE	I-TIM
+joulukuun   	DATE	I-TIM
+2013   	DATE	I-TIM
+välillä   	DATE	I-TIM
 . 	 	
  	 	
 Ne 	 	
@@ -165934,9 +165934,9 @@ muissa
 maissa 	 	
 viikon   	 	B-TIM
 päästä   	 	I-TIM
-27.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
-alkaen   	 	I-TIM
+27.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
+alkaen   		I-TIM
 . 	 	
  	 	
 Apple   	B-ORG 	B-ORG
@@ -166502,7 +166502,7 @@ jälkeen
 . 	 	
  	 	
 Sitten 	 	
-Fit   	B-PRO 	B-PRO
+Fit   		
 asettui 	 	
 kiltisti 	 	
 ruotuun 	 	
@@ -166519,7 +166519,7 @@ ihmisiksi
 Sitten 	 	
 käyttämään 	 	
  	 	
-Fitin   	B-PRO 	B-PRO
+Fitin   		
 ranneke 	 	
 on 	 	
 muoviseosta 	 	
@@ -166577,7 +166577,7 @@ antamat
 ilmoitukset 	 	
 voi 	 	
 ohjata 	 	
-Fitiin   	B-PRO 	B-PRO
+Fitiin   		
 . 	 	
  	 	
 Se 	 	
@@ -166643,7 +166643,7 @@ näppärästi
 päivätavoitteet 	 	
 , 	 	
 ja 	 	
-Fit   	B-PRO 	B-PRO
+Fit   		
 antaa 	 	
 väliaikatietoja 	 	
 etenemisestä 	 	
@@ -166676,9 +166676,7 @@ iskua
 minuutissa   	 	B-TIM
 ) 	 	
 Galaxy   	B-PRO 	B-PRO
-S5   	I-PRO 	I-PRO
-:   	I-PRO 	I-PRO
-een   	I-PRO 	I-PRO
+S5:een	I-PRO 	I-PRO
 verrattuna 	 	
 . 	 	
  	 	
@@ -166699,7 +166697,7 @@ sen
 mittaa 	 	
 . 	 	
  	 	
-Fitin   	B-PRO 	B-PRO
+Fitin   		
 lataaminen 	 	
 vaatii 	 	
 kelloon 	 	
@@ -166788,7 +166786,7 @@ kello
 on 	 	
 . 	 	
  	 	
-Fit   	B-PRO 	B-PRO
+Fit   		
 saa 	 	
 risuja 	 	
 yhteensopivuudesta 	 	
@@ -166821,9 +166819,9 @@ myös
 Galaxy   	B-PRO 	B-PRO
 3:a   	I-PRO 	I-PRO
 uudempien  	 	B-TIM
-Galaxyjen   	B-PRO 	B-PRO
+Galaxyjen   		
 ja 	 	
-Notejen   	B-PRO 	B-PRO
+Notejen   		
 kanssa 	 	
 . 	 	
  	 	
@@ -167020,7 +167018,7 @@ Galaxy   	B-PRO 	B-PRO
 S   	I-PRO 	I-PRO
 -sarjalaisiinsa   	I-PRO 	I-PRO
 ja 	 	
-Note-laitteisiin   	B-PRO 	B-PRO
+Note-laitteisiin   		
 niin 	 	
 paljon 	 	
 tavaraa 	 	
@@ -167116,7 +167114,7 @@ on
 tehty 	 	
 pieniä 	 	
 parannuksia 	 	
-S4:ään 	B-PRO 	B-PRO
+S4:ään 		
 verrattuna 	 	
 . 	 	
  	 	
@@ -167290,7 +167288,7 @@ Fitin   	I-PRO 	I-PRO
 tulos 	 	
 . 	 	
  	 	
-Fitistä   	B-PRO 	B-PRO
+Fitistä   		
 kerromme 	 	
 lisää 	 	
 erillisessä 	 	
@@ -167436,7 +167434,7 @@ sanoi
 puli 	 	
 puli 	 	
  	 	
-S5:n 	B-PRO 	B-PRO
+S5:n 		
 ehkä 	 	
 merkittävin 	 	
 uudistus 	 	
@@ -167682,12 +167680,12 @@ Samsung   	B-ORG 	B-ORG
 tuo 	 	
 myöhemmin   	 	B-TIM
 osan 	 	
-S5:n 	B-PRO 	B-PRO
+S5:n 		
 ohjelmallisesti 	 	
 toteutetuista 	 	
 ominaisuuksista 	 	
 myös 	 	
-S4:ään 	B-PRO 	B-PRO
+S4:ään 		
 ja 	 	
 mahdollisesti 	 	
 vanhempiinkin 	 	
@@ -167730,7 +167728,7 @@ ole
 parannettu 	 	
 . 	 	
  	 	
-S5:n 	B-PRO 	B-PRO
+S5:n 		
 tekstinsyöttö 	 	
 ja 	 	
 automaattikorjaus 	 	
@@ -167843,7 +167841,7 @@ menettelee
 . 	 	
  	 	
 Ainakaan 	 	
-S4:stä 	B-PRO 	B-PRO
+S4:stä 		
 ei 	 	
 kenenkään 	 	
 kannata 	 	
@@ -167853,7 +167851,7 @@ päivittää
 . 	 	
  	 	
 Muiden 	 	
-S5-ostajakandidaattien   	B-MISC 	B-MISC
+S5-ostajakandidaattien   		
 kannattaa 	 	
 esittää 	 	
 itselleen 	 	
@@ -167878,7 +167876,7 @@ parempi
 hinta-laatusuhde 	 	
 . 	 	
  	 	
-S5:n 	B-PRO 	B-PRO
+S5:n 		
 hinta 	 	
 on 	 	
 noin 	 	
@@ -168949,9 +168947,9 @@ verkkosivulla
  	 	
 ( 	 	
 Päivitys 	 	
-17.4. 	 	B-TIM
-klo   	 	I-TIM
-15.49   	 	I-TIM
+17.4. 	DATE	B-TIM
+klo   		I-TIM
+15.49   		I-TIM
 : 	 	
 Nokia   	B-ORG 	B-ORG
 poisti 	 	
@@ -169148,8 +169146,8 @@ Näin
 kerrottiin 	 	
 tapahtuneen 	 	
 ainakin 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 Yhdysvalloissa 	B-LOC 	B-LOC
 . 	 	
  	 	
@@ -169378,8 +169376,8 @@ Nokian   	B-ORG 	B-ORG
 tabletti 	 	
 voinut 	 	
 onnistua 	 	
-vuonna   	 	B-TIM
-2001   	 	I-TIM
+vuonna   	DATE	B-TIM
+2001   	DATE	I-TIM
 ? 	 	
  	 	
 <DATE> 	 	
@@ -169488,8 +169486,8 @@ ja
 wlan-yhteys 	B-MISC 	B-MISC
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2001   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2001   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 ei 	 	
@@ -169535,7 +169533,7 @@ ennen
 ekosysteemiä 	 	
 ? 	 	
  	 	
-M510:n 	B-PRO 	B-PRO
+M510:n 	B-PRO	B-PRO
 kehityksessä 	 	
 mukana 	 	
 ollut 	 	
@@ -169577,8 +169575,8 @@ toimivat
 sovellukset 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2001   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2001   	DATE	I-TIM
 appeja 	 	
 eli 	 	
 mobiilisovelluksia 	 	
@@ -169645,8 +169643,8 @@ teki
 Messiaslaite 	 	
 tuli 	 	
 vasta 	 	
-vuonna   	 	B-TIM
-2007   	 	I-TIM
+vuonna   	DATE	B-TIM
+2007   	DATE	I-TIM
 , 	 	
 kun 	 	
 Apple   	B-ORG 	B-ORG
@@ -169764,8 +169762,8 @@ laitteissa
 . 	 	
  	 	
 Linux   	B-PRO 	B-PRO
-vuonna   	 	B-TIM
-2001   	 	I-TIM
+vuonna   	DATE	B-TIM
+2001   	DATE	I-TIM
 oli 	 	
 vielä 	 	
 melkoinen 	 	
@@ -169777,8 +169775,8 @@ asia
 oli 	 	
 paino 	 	
 . 	 	
- 	 	
-M510   	B-PRO 	B-PRO
+ 		
+M510   	B-PRO	B-PRO
 oli 	 	
 melkein 	 	
 kaksikiloinen 	 	
@@ -169834,8 +169832,8 @@ arvon
  	 	
 Yhtiö 	 	
 lanseerasi 	 	
-vuonna   	 	B-TIM
-2005   	 	I-TIM
+vuonna   	DATE	B-TIM
+2005   	DATE	I-TIM
 Nokia   	B-PRO 	B-PRO
 770:n   	I-PRO 	I-PRO
 mutta 	 	
@@ -169996,8 +169994,8 @@ valmistettiin
 tuhannen 	 	
 kappaleen 	 	
 erä 	 	
-vuonna   	 	B-TIM
-2001 	 	I-TIM
+vuonna   	DATE	B-TIM
+2001 	DATE	I-TIM
 . 	 	
  	 	
 Yhtiön 	 	
@@ -170041,8 +170039,8 @@ julkaisematta
 jäänyttä 	 	
 Nokian   	B-ORG 	B-ORG
 tablettia 	 	
-vuonna   	 	B-TIM
-2001 	 	I-TIM
+vuonna   	DATE	B-TIM
+2001 	DATE	I-TIM
 . 	 	
  	 	
 Yliruusin   	B-PER 	B-PER
@@ -170096,8 +170094,8 @@ valmiina
 suunnitelmat 	 	
 tablettivalmistuksen 	 	
 aloittamiseksi 	 	
-vuonna   	 	B-TIM
-2001 	 	I-TIM
+vuonna   	DATE	B-TIM
+2001 	DATE	I-TIM
 . 	 	
  	 	
 Tämä 	 	
@@ -170154,12 +170152,12 @@ Yliruusi   	I-PER 	I-PER
 työskenteli 	 	
 tablettiprojektissa 	 	
 vuodenvaihteesta   	 	B-TIM
-2000/2001 	 	I-TIM
+2000/2001 		I-TIM
 hankkeen 	 	
 lopettamiseen 	 	
 asti 	 	
-vuoden   	 	B-TIM
-2001   	 	I-TIM
+vuoden   	DATE	B-TIM
+2001   	DATE	I-TIM
 loppukesään   	 	I-TIM
 . 	 	
  	 	
@@ -170981,8 +170979,8 @@ panttaako
 Nokia   	B-ORG 	B-ORG
 näitä 	 	
 malleja 	 	
-vuoteen   	 	B-TIM
-2016   	 	I-TIM
+vuoteen   	DATE	B-TIM
+2016   	DATE	I-TIM
 , 	 	
 jolloin 	 	
 yhtiö 	 	
@@ -171301,8 +171299,8 @@ myynnin
 112 	 	
 miljoonaan 	 	
 kappaleeseen 	 	
-vuonna   	 	B-TIM
-2018 	 	I-TIM
+vuonna   	DATE	B-TIM
+2018 	DATE	I-TIM
 . 	 	
  	 	
 Raportin 	 	
@@ -171401,8 +171399,8 @@ ohittavat
 suosiossa 	 	
 puoliälykkäät 	 	
 vempaimet 	 	
-vuonna   	 	B-TIM
-2018 	 	I-TIM
+vuonna   	DATE	B-TIM
+2018 	DATE	I-TIM
 . 	 	
  	 	
 Puettavan 	 	
@@ -171678,8 +171676,8 @@ Tapahtuma
 pidetään 	 	
 New   	B-LOC 	B-LOC
 Yorkissa   	I-LOC 	I-LOC
-20.   	 	B-TIM
-toukokuuta   	B-DATE 	I-TIM
+20.   	DATE	B-TIM
+toukokuuta   	DATE	I-TIM
 , 	 	
 ja 	 	
 kutsun 	 	
@@ -171687,10 +171685,10 @@ vuoksi
 odotukset 	 	
 ovat 	 	
 korkealla 	 	
-"   	B-PRO 	B-PRO
-Surface   	I-PRO 	I-PRO
+"   		B-PRO
+Surface   	B-PRO	I-PRO
 Minin   	I-PRO 	I-PRO
-"   	I-PRO 	I-PRO
+"   		I-PRO
 , 	 	
 eli 	 	
 7–8-tuumaisen 	 	
@@ -172711,8 +172709,8 @@ on
 määrä 	 	
 päättyä 	 	
 vasta 	 	
-7.   	 	B-TIM
-toukokuuta   	B-DATE 	I-TIM
+7.   	DATE	B-TIM
+toukokuuta   	DATE	I-TIM
 , 	 	
 on 	 	
 saanut 	 	
@@ -173341,8 +173339,8 @@ arvioi
 , 	 	
 että 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2012   	 	I-TIM
+vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 palveluilla 	 	
 oli 	 	
 yhteensä 	 	
@@ -173371,8 +173369,8 @@ on
 miljoonaa 	 	
 internetkelpoista 	 	
 televisiota 	 	
-vuonna   	 	B-TIM
-2015 	 	I-TIM
+vuonna   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 Määrä 	 	
@@ -174478,8 +174476,8 @@ vanha  	 	B-TIM
 Nokia   	B-ORG 	B-ORG
 kertoi 	 	
 siitä 	 	
-vuonna   	 	B-TIM
-2008 	 	I-TIM
+vuonna   	DATE	B-TIM
+2008 	DATE	I-TIM
 . 	 	
  	 	
 Kaiken 	 	
@@ -174664,8 +174662,8 @@ kutsuja
 tilaisuuteen 	 	
 San   	B-LOC 	B-LOC
 Franciscossa   	I-LOC 	I-LOC
-28.   	 	B-TIM
-toukokuuta   	B-DATE 	I-TIM
+28.   	DATE	B-TIM
+toukokuuta   	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
