@@ -178159,8 +178159,8 @@ että
 älykello 	 	
 tulee 	 	
 myyntiin 	 	
-vuoden   	 	B-TIM
-2015   	 	I-TIM
+vuoden   	DATE	B-TIM
+2015   	DATE	I-TIM
 alussa   	 	I-TIM
 . 	 	
  	 	
@@ -179509,7 +179509,7 @@ kuin
 iPad   	B-PRO 	B-PRO
 Air   	I-PRO 	I-PRO
 2:n   	I-PRO 	I-PRO
-retina   	I-PRO 	I-PRO
+retina   	B-PRO	B-PRO
 , 	 	
 eli 	 	
 2048 	 	
@@ -179561,9 +179561,9 @@ ja
 wlanien 	B-PRO 	B-PRO
 ohella 	 	
 mikro-hdmi-  	B-MISC 	B-MISC
-ja  	I-MISC 	I-MISC
--  	I-MISC 	I-MISC
-usb-liitännät  	I-MISC 	I-MISC
+ja  		
+-  		
+usb-liitännät  	B-MISC	B-MISC
 . 	 	
  	 	
 Lisäksi 	 	
@@ -180079,10 +180079,10 @@ nyt   	 	B-TIM
 pc-maailmassa   	B-MISC 	B-MISC
 vähän   	 	B-TIM
 jälkeen   	 	I-TIM
-vuoden   	 	I-TIM
-0   	 	I-TIM
+vuoden   		I-TIM
+0   		I-TIM
 . 	 	
- 	 	
+ 		
 Nimettömiltä 	 	
 valmistajilta 	 	
 alkaa 	 	
@@ -180395,8 +180395,8 @@ tuovansa
 seuraavan 	 	
 valmistuserän 	 	
 myyntiin 	 	
-22.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+22.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -180967,8 +180967,8 @@ mukaan
 lukumäärä 	 	
 Pohjois-Amerikassa   	B-LOC 	B-LOC
 kasvoi 	 	
-vuodesta   	 	B-TIM
-2013   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2013   	DATE	I-TIM
 107 	 	
 prosenttia 	 	
 2,5 	 	
@@ -181017,8 +181017,8 @@ prosenttia
  	 	
 Älytermostaattitaloja 	 	
 on 	 	
-vuonna   	 	B-TIM
-2019   	 	I-TIM
+vuonna   	DATE	B-TIM
+2019   	DATE	I-TIM
 38,2 	 	
 miljoonaa 	 	
 . 	 	
@@ -181199,7 +181199,7 @@ viime   	 	B-TIM
 viikon   	 	I-TIM
 lopussa   	 	I-TIM
 käyttöjärjestelmäversioon 	 	
-8.10.14226.359 	B-PRO 	B-PRO
+8.10.14226.359 		
 . 	 	
  	 	
 Vika 	 	
@@ -181207,8 +181207,8 @@ olisi
 korjattu 	 	
 jo 	 	
 aiemmassa  	 	B-TIM
-versiossa  	B-PRO 	B-PRO
-8.10.14219.34 	I-PRO 	I-PRO
+versiossa  		
+8.10.14219.34 		
 , 	 	
 mutta 	 	
 sen 	 	
@@ -181370,7 +181370,7 @@ Lumia   	B-PRO 	B-PRO
 . 	 	
  	 	
 Vaikka 	 	
-630:lla   	B-PRO 	B-PRO
+630:lla   		
 on 	 	
 jo 	 	
 ikää 	 	
@@ -181381,7 +181381,7 @@ se
 jää 	 	
 numeroillaan 	 	
 jälkeen 	 	
-535:stä   	B-PRO 	B-PRO
+535:stä   		
 , 	 	
 se 	 	
 tärkeämpi 	 	
@@ -183993,8 +183993,8 @@ kappaletta
 jotka 	 	
 tulivat 	 	
 markkinoille 	 	
-vuona   	 	B-TIM
-2013 	 	I-TIM
+vuona   	DATE	B-TIM
+2013 	DATE	I-TIM
 . 	 	
  	 	
 Canalys   	B-ORG 	B-ORG
@@ -184454,9 +184454,9 @@ raudassa
 Olemme 	 	
 julkaisseet 	 	
 korjauksen 	 	
-23.   	 	B-TIM
-joulukuuta   	B-DATE 	I-TIM
-2014   	 	I-TIM
+23.   	DATE	B-TIM
+joulukuuta   	DATE	I-TIM
+2014   	DATE	I-TIM
 , 	 	
 jonka 	 	
 pitäisi 	 	
@@ -186447,7 +186447,7 @@ alkaa
 illalla   	 	B-TIM
 klo   	 	I-TIM
 22   	 	I-TIM
-Suomen   	 	B-TIM
+Suomen   	B-LOC'	B-TIM
 aikaa   	 	I-TIM
 . 	 	
  	 	
@@ -186799,7 +186799,7 @@ Espoon   	B-ORG 	B-ORG
 käräjäoikeus   	I-ORG 	I-ORG
 oli 	 	
 syksyllä   	 	B-TIM
-2012   	 	I-TIM
+2012   	DATE	I-TIM
 määrännyt 	 	
 kolme 	 	
 ylläpitäjää 	 	
@@ -186918,8 +186918,8 @@ ylläpitäneet
 kolme 	 	
 miestä 	 	
 tuomittiin 	 	
-vuonna   	 	B-TIM
-2012   	 	I-TIM
+vuonna   	DATE	B-TIM
+2012   	DATE	I-TIM
 tekijänoikeusrikoksesta 	 	
 4–6   	 	B-TIM
 kuukauden   	 	I-TIM
@@ -187670,7 +187670,7 @@ Hänen
 mukaansa 	 	
 “ 	 	
 Järkeä 	 	
-tekijänoikeuslakiin 	 	
+tekijänoikeuslakiin 		
 ” 	 	
 -aloite 	 	
 johtaisi 	 	
@@ -188168,8 +188168,8 @@ toimintaa
 , 	 	
 sai 	 	
 rauhanpalkinnon 	 	
-vuonna   	 	B-TIM
-2009 	 	I-TIM
+vuonna   	DATE	B-TIM
+2009 	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -188294,8 +188294,8 @@ tuotemerkeille
 varattu 	 	
 ennakkohaku 	 	
 päättyi 	 	
-24.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+24.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 Lisää 	 	
@@ -188306,8 +188306,8 @@ tulossa
 Ensi   	 	B-TIM
 viikolla   	 	I-TIM
 , 	 	
-5.   	 	B-TIM
-helmikuuta   	B-DATE 	I-TIM
+5.   	DATE	B-TIM
+helmikuuta   	DATE	I-TIM
 Donuts   	B-ORG 	B-ORG
 aktivoi 	 	
 seuraavat 	 	
@@ -188930,8 +188930,8 @@ Korman   	I-PER 	I-PER
 hylkäsi 	 	
 Aclun   	B-ORG 	B-ORG
 kanteen 	 	
-vuodelta   	 	B-TIM
-2010   	 	I-TIM
+vuodelta   	DATE	B-TIM
+2010   	DATE	I-TIM
 täysin 	 	
 , 	 	
 muun 	 	
