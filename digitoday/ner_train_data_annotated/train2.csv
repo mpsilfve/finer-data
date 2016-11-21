@@ -190145,7 +190145,7 @@ sponsoreiden
 kanssa 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 	B-ORG	B-ORG
 , 	 	
 DeVry   	B-ORG 	B-ORG
 University   	I-ORG 	I-ORG
@@ -190477,7 +190477,7 @@ Apple   	B-ORG 	B-ORG
 , 	 	
 Microsoft   	B-ORG 	B-ORG
 , 	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 	B-ORG	B-ORG
 , 	 	
 Verizon   	B-ORG 	B-ORG
 , 	 	
@@ -190608,7 +190608,7 @@ kuitenkaan
 ostaa 	 	
 . 	 	
  	 	
-AT&amp;T; 	T 	B-ORG
+AT&amp;T; 	B-ORG	B-ORG
 ja 	 	
 Verizon   	B-ORG 	B-ORG
 kumpikin 	 	
@@ -191519,8 +191519,8 @@ hyväksyy
 , 	 	
 tulisi 	 	
 voimaan 	 	
-1.1.2015 	 	B-TIM
-osana 	 	
+1.1.2015 	DATE	B-TIM
+osana 		
 uudistettavaa 	 	
 valtion 	 	
 televisio- 	 	
@@ -191529,8 +191529,8 @@ radiorahastolakia
 . 	 	
  	 	
 Ennen   	 	B-TIM
-vuotta   	 	I-TIM
-2013   	 	I-TIM
+vuotta   	DATE	I-TIM
+2013   	DATE	I-TIM
 erääntyneiden 	 	
 televisiomaksujen 	 	
 perintää 	 	
@@ -191539,8 +191539,8 @@ alun
 perin 	 	
 tarkoitus 	 	
 jatkaa 	 	
-vuoden   	 	B-TIM
-2017   	 	I-TIM
+vuoden   	DATE	B-TIM
+2017   	DATE	I-TIM
 loppuun   	 	I-TIM
 saakka   	 	I-TIM
 , 	 	
@@ -191757,7 +191757,7 @@ Kyberturvallisuuskeskus   	B-ORG 	B-ORG
 julkaisee 	 	
 jatkossa  	 	B-TIM
 osoitteessa 	 	
-www.kyberturvallisuuskeskus.fi 	 	
+www.kyberturvallisuuskeskus.fi 	B-PRO	B-PRO
 ne 	 	
 tietoturva-artikkelit 	 	
 , 	 	
@@ -192681,8 +192681,8 @@ päivittäisistä
 rikosasioista 	 	
 kertovan 	 	
 Twitter-tilin   	B-MISC 	B-MISC
-helmikuussa   	B-DATE 	B-TIM
-2011 	 	I-TIM
+helmikuussa   	DATE	B-TIM
+2011 	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -192810,8 +192810,8 @@ kenties
 asua 	 	
 Valkoisessa   	B-LOC 	B-LOC
 talossa   	I-LOC 	I-LOC
-vuoden   	 	B-TIM
-2016   	 	I-TIM
+vuoden   	DATE	B-TIM
+2016   	DATE	I-TIM
 jälkeen   	 	I-TIM
 . 	 	
  	 	
@@ -193244,8 +193244,8 @@ kanssa
 on 	 	
 tapahtunut 	 	
 sitten   	 	B-TIM
-vuoden   	 	I-TIM
-2012 	 	I-TIM
+vuoden   	DATE	I-TIM
+2012 	DATE	I-TIM
 . 	 	
  	 	
 Mutta 	 	
@@ -193389,18 +193389,18 @@ Pääosa
 ostoksista 	 	
 on 	 	
 tehty 	 	
-24.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+24.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 , 	 	
 ja 	 	
 ne 	 	
 on 	 	
 veloitettu 	 	
 sekä  	 	B-TIM
-26.   	 	I-TIM
-että  	 	I-TIM
-29.   	 	I-TIM
-tammikuuta   	B-DATE 	I-TIM
+26.   	DATE	I-TIM
+että  	DATE	I-TIM
+29.   	DATE	I-TIM
+tammikuuta   	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
@@ -193837,7 +193837,7 @@ Markkinaoikeus
 antoi 	 	
 asiassa 	 	
 ratkaisun 	 	
-24.3. 	 	B-TIM
+24.3. 	DATE	B-TIM
 ja 	 	
 kielsi 	 	
 Elisaa   	B-ORG 	B-ORG
@@ -194805,8 +194805,8 @@ CBO:n 	B-ORG 	B-ORG
 mukaan 	 	
 Obamacare-lain   	B-PRO 	B-PRO
 ansiosta 	 	
-vuonna   	 	B-TIM
-2014   	 	I-TIM
+vuonna   	DATE	B-TIM
+2014   	DATE	I-TIM
 sairausvakuutuksen 	 	
 piiriin 	 	
 tulee 	 	
@@ -194922,8 +194922,8 @@ vuonna   	 	I-TIM
 36   	 	I-TIM
 miljoonaa 	 	
 ja 	 	
-vuonna   	 	B-TIM
-2016   	 	I-TIM
+vuonna   	DATE	B-TIM
+2016   	DATE	I-TIM
 30 	 	
 miljoonaa 	 	
 amerikkalaista 	 	
@@ -195295,9 +195295,9 @@ oikeutta
 siirtämään 	 	
 todistuksen 	 	
 antamisen 	 	
-toukokuun   	B-DATE 	B-TIM
-5:nteen   	 	I-TIM
-päivään   	 	I-TIM
+toukokuun   	DATE	B-TIM
+5:nteen   	DATE	I-TIM
+päivään   	DATE	I-TIM
 , 	 	
 mutta 	 	
 ei 	 	
@@ -195325,7 +195325,7 @@ nurin
 <INGRESS> 	 	
 IPad-omistajien   	B-MISC 	B-MISC
 tietoja 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 	B-ORG	B-ORG
 järjestelmistä 	 	
 kaivanut 	 	
 hakkeri 	 	
@@ -195372,14 +195372,14 @@ Post   	I-ORG 	I-ORG
 Auernheimer   	B-PER 	B-PER
 oli 	 	
 osallisena 	 	
-vuoden   	 	B-TIM
-2010   	 	I-TIM
+vuoden   	DATE	B-TIM
+2010   	DATE	I-TIM
 tempauksessa 	 	
 , 	 	
 jossa 	 	
 osoitettiin 	 	
 teleyhtiö 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 	B-ORG	B-ORG
 verkkosivujen 	 	
 onneton 	 	
 suojaus 	 	
@@ -196101,8 +196101,8 @@ lakeihin
 EU-tuomioistuin   	B-ORG 	B-ORG
 on 	 	
 mitätöinyt 	 	
-vuonna   	 	B-TIM
-2006   	 	I-TIM
+vuonna   	DATE	B-TIM
+2006   	DATE	I-TIM
 säädetyn 	 	
 direktiivin 	 	
 , 	 	
@@ -196527,8 +196527,8 @@ hallituksen   	I-ORG 	I-ORG
 on 	 	
 palautettava 	 	
 pääsy 	 	
-20.   	 	B-TIM
-marraskuuta   	B-DATE 	I-TIM
+20.   	DATE	B-TIM
+marraskuuta   	DATE	I-TIM
 estettyyn 	 	
 Twitteriin   	B-PRO 	B-PRO
 . 	 	
@@ -196943,8 +196943,8 @@ kappaletta
 yhden   	 	B-TIM
 kuukauden   	 	I-TIM
 aikana   	 	I-TIM
-vuonna   	 	B-TIM
-1986 	 	I-TIM
+vuonna   	DATE	B-TIM
+1986 	DATE	I-TIM
 . 	 	
  	 	
 Teslan   	B-ORG 	B-ORG
@@ -197065,8 +197065,8 @@ sitoutunut
 ympäristöystävällisten 	 	
 autojen 	 	
 tukiaisiin 	 	
-vuoden   	 	B-TIM
-2017   	 	I-TIM
+vuoden   	DATE	B-TIM
+2017   	DATE	I-TIM
 loppuun   	 	I-TIM
 saakka   	 	I-TIM
 tai 	 	
@@ -198344,8 +198344,8 @@ on
 oltava 	 	
 peruutuskamera 	 	
 viimeistään   	 	B-TIM
-vuonna   	 	I-TIM
-2018 	 	I-TIM
+vuonna   	DATE	I-TIM
+2018 	DATE	I-TIM
 . 	 	
  	 	
 <BODY> 	 	
@@ -198394,8 +198394,8 @@ eteenpäin
 Määräys 	 	
 perustuu 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 säädettyyn 	 	
 lakiin 	 	
 , 	 	
@@ -198413,8 +198413,8 @@ on
 alettava 	 	
 asentaa 	 	
 peruutuskamera 	 	
-vuodesta   	 	B-TIM
-2016   	 	I-TIM
+vuodesta   	DATE	B-TIM
+2016   	DATE	I-TIM
 alkaen   	 	I-TIM
 ja 	 	
 kahden   	 	B-TIM
@@ -198490,8 +198490,8 @@ ja
 loukkaantumista 	 	
 . 	 	
  	 	
-Vuoden   	 	B-TIM
-2012   	 	I-TIM
+Vuoden   	DATE	B-TIM
+2012   	DATE	I-TIM
 autoissa 	 	
 44 	 	
 prosentissa 	 	
@@ -198512,8 +198512,8 @@ tai
 optiona 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2005   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2005   	DATE	I-TIM
 peruutuskamera 	 	
 oli 	 	
 saatavissa 	 	
@@ -199073,10 +199073,10 @@ vaaleissa
 , 	 	
 jotka 	 	
 pidetään 	 	
-26.   	 	B-TIM
-ja   	 	I-TIM
-27.   	 	I-TIM
-toukokuuta   	B-DATE 	I-TIM
+26.   	DATE	B-TIM
+ja   	DATE	I-TIM
+27.   	DATE	I-TIM
+toukokuuta   	DATE	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -199140,7 +199140,7 @@ listan
 Vappu   	 	B-TIM
 2. 	 	
 Vappu   	 	B-TIM
-2014   	 	I-TIM
+2014   	DATE	I-TIM
 3. 	 	
 Bob   	B-PER 	B-PER
 Hoskins   	I-PER 	I-PER
@@ -199301,11 +199301,11 @@ ThinkPad-tietokoneissa   	B-PRO 	B-PRO
 joita 	 	
 toimitettiin 	 	
 maailmanlaajuisesti 	 	
-lokakuun   	B-DATE 	B-TIM
-2010   	 	I-TIM
+lokakuun   	DATE	B-TIM
+2010   	DATE	I-TIM
 ja   	 	I-TIM
-huhtikuun   	B-DATE 	I-TIM
-2011   	 	I-TIM
+huhtikuun   	DATE	I-TIM
+2011   	DATE	I-TIM
 välisenä   	 	I-TIM
 aikana   	 	I-TIM
 . 	 	
@@ -199496,23 +199496,23 @@ Edge   	B-PRO 	B-PRO
 * 	 	
 Lisävarusteiden 	 	
 osanumerot 	 	
-43R9255  	B-PRO 	B-PRO
-, 	 	
-51J0500  	B-PRO 	B-PRO
-, 	 	
-57Y4186  	B-PRO 	B-PRO
-, 	 	
-57Y4564  	B-PRO 	B-PRO
-, 	 	
-57Y4565  	B-PRO 	B-PRO
-, 	 	
-57Y4625  	B-PRO 	B-PRO
-, 	 	
-57Y4559  	B-PRO 	B-PRO
-, 	 	
-43R9254  	B-PRO 	B-PRO
-, 	 	
-0A36277  	B-PRO 	B-PRO
+43R9255  		
+, 		
+51J0500  		
+, 		
+57Y4186  		
+, 		
+57Y4564  		
+, 		
+57Y4565  		
+, 		
+57Y4625  		
+, 		
+57Y4559  		
+, 		
+43R9254  		
+, 		
+0A36277  		
  	 	
 <HEADLINE> 	 	
 Mitä 	 	
@@ -200173,8 +200173,8 @@ tietopyyntöraportin
 mukaan 	 	
 suomalaisviranomaiset 	 	
 hakivat 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 toisella   	 	I-TIM
 puoliskolla   	 	I-TIM
 tietoja 	 	
@@ -200452,8 +200452,8 @@ salaisia
 pyyntöjä 	 	
 Yahoo   	B-ORG 	B-ORG
 sai 	 	
-vuoden   	 	B-TIM
-2013   	 	I-TIM
+vuoden   	DATE	B-TIM
+2013   	DATE	I-TIM
 ensimmäisellä   	 	I-TIM
 puoliskolla   	 	I-TIM
 0 	 	
@@ -201068,8 +201068,8 @@ noudatettiin
  	 	
 Taannoisen 	 	
 EMIn   	B-ORG 	B-ORG
-vuonna   	 	B-TIM
-2007   	 	I-TIM
+vuonna   	DATE	B-TIM
+2007   	DATE	I-TIM
 käynnistämä 	 	
 oikeusjuttu 	 	
 on 	 	
@@ -201129,8 +201129,8 @@ konkurssiin
 ( 	 	
 http://www.digitoday.fi/bisnes/2012/05/11/mp3-mies-epaonnistui-taas-pavelu-konkkaan/201229213/66 	 	
 ) 	 	
-vuonna   	 	B-TIM
-2012 	 	I-TIM
+vuonna   	DATE	B-TIM
+2012 	DATE	I-TIM
 . 	 	
  	 	
 Korvaussummasta 	 	
@@ -201639,7 +201639,7 @@ maksaa
 ostoksistaan 	 	
 Britannian   	B-LOC 	B-LOC
 omaa 	 	
-, 	 	
+, 		
 huomattavasti 	 	
 korkeampaa 	 	
 20 	 	
@@ -201651,10 +201651,10 @@ Laki
 on 	 	
 tulossa 	 	
 voimaan 	 	
-1.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
-vuonna   	 	I-TIM
-2015 	 	I-TIM
+1.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
+vuonna   	DATE	I-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
@@ -201772,8 +201772,8 @@ takavarikoitiin
 ja 	 	
 vietiin 	 	
 ulkomaille 	 	
-vuoden   	 	B-TIM
-2012   	 	I-TIM
+vuoden   	DATE	B-TIM
+2012   	DATE	I-TIM
 alun   	 	I-TIM
 ratsiassa 	 	
 hänen 	 	
@@ -201980,8 +201980,8 @@ historiallisen
 suuresta 	 	
 pelien 	 	
 hautaamisesta 	 	
-vuonna   	 	B-TIM
-1983 	 	I-TIM
+vuonna   	DATE	B-TIM
+1983 	DATE	I-TIM
 . 	 	
  	 	
 – 	 	
@@ -202899,8 +202899,8 @@ esitti
 sitä 	 	
 säädettäväksi 	 	
 lakiin 	 	
-vuoteen   	 	B-TIM
-2017   	 	I-TIM
+vuoteen   	DATE	B-TIM
+2017   	DATE	I-TIM
 mennessä   	 	I-TIM
 . 	 	
  	 	
@@ -203433,7 +203433,7 @@ Tuomio
 oli 	 	
 seurausta 	 	
 teleyhtiö 	 	
-AT&amp;T;:n 	T 	B-ORG
+AT&amp;T;:n 	B-ORG	B-ORG
 bugista 	 	
 , 	 	
 jota 	 	
@@ -203527,7 +203527,7 @@ pitänyt
 ensin 	 	
 paljastaa 	 	
 löytönsä 	 	
-AT&amp;T;:lle 	T 	B-ORG
+AT&amp;T;:lle 	B-ORG	B-ORG
 journalistin 	 	
 sijaan 	 	
 . 	 	
@@ -205421,8 +205421,8 @@ Comcastin   	B-ORG 	B-ORG
 kirje-ehdotuksesta 	 	
 . 	 	
  	 	
-Vuodesta   	 	B-TIM
-2008   	 	I-TIM
+Vuodesta   	DATE	B-TIM
+2008   	DATE	I-TIM
 lähtien   	 	I-TIM
 Comcast   	B-ORG 	B-ORG
 on 	 	
@@ -205966,8 +205966,8 @@ Sen
 määräys 	 	
 perustui 	 	
 suoraan 	 	
-vuoden   	 	B-TIM
-1935   	 	I-TIM
+vuoden   	DATE	B-TIM
+1935   	DATE	I-TIM
 liikennelakiin 	 	
 , 	 	
 mutta 	 	
@@ -206210,8 +206210,8 @@ Silk   	B-PRO 	B-PRO
 Road   	I-PRO 	I-PRO
 pakotettiin 	 	
 kiinni 	 	
-vuonna   	 	B-TIM
-2013   	 	I-TIM
+vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 , 	 	
 mutta 	 	
 uusi  	 	B-TIM
@@ -207339,7 +207339,7 @@ paljastui
 Helsinki-Vantaan   	B-LOC 	B-LOC
 lentokentällä   	I-LOC 	I-LOC
 loppuvuodesta   	 	B-TIM
-2014 	 	I-TIM
+2014 	DATE	I-TIM
 . 	 	
  	 	
 Puhelimet 	 	
@@ -207857,9 +207857,9 @@ uutta  	 	B-TIM
 . 	 	
  	 	
 Esimerkiksi 	 	
-vuonna   	 	B-TIM
-2005   	 	I-TIM
-yksi 	 	
+vuonna   	DATE	B-TIM
+2005   	DATE	I-TIM
+yksi 		
 palkintoraatiin 	 	
 kuulunut 	 	
 mies 	 	
@@ -208719,8 +208719,8 @@ mukaan
 FBI   	B-ORG 	B-ORG
 pääsi 	 	
 jo 	 	
-vuonna   	 	B-TIM
-2008   	 	I-TIM
+vuonna   	DATE	B-TIM
+2008   	DATE	I-TIM
 seuraamaan 	 	
 NSA:n 	B-ORG 	B-ORG
 Prism-ohjelman   	B-PRO 	B-PRO
@@ -208743,8 +208743,8 @@ oli
 laitonta 	 	
 . 	 	
  	 	
-Vuoden   	 	B-TIM
-2009   	 	I-TIM
+Vuoden   	DATE	B-TIM
+2009   	DATE	I-TIM
 lokakuussa   	B-DATE 	I-TIM
 FBI   	B-ORG 	B-ORG
 alkoi 	 	
@@ -208757,8 +208757,8 @@ analysoida
 niitä 	 	
 . 	 	
  	 	
-Vuoden   	 	B-TIM
-2012   	 	I-TIM
+Vuoden   	DATE	B-TIM
+2012   	DATE	I-TIM
 huhtikuussa   	B-DATE 	I-TIM
 FBI   	B-ORG 	B-ORG
 alkoi 	 	
@@ -209026,9 +209026,7 @@ Ficixin   	B-ORG 	B-ORG
 puheenjohtajan 	 	
 mukaan 	 	
 palvelunestohyökkäys 	 	
-OP   	B-ORG 	B-ORG
-:   	I-ORG 	I-ORG
-tä   	I-ORG 	I-ORG
+OP:tä	B-ORG 	B-ORG
 vastaan 	 	
 ei 	 	
 edes 	 	
@@ -210155,8 +210153,8 @@ pdf
 Älä 	 	
 odota 	 	
 muutosta 	 	
-vuonna   	 	B-TIM
-2015 	 	I-TIM
+vuonna   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 Rikkominen 	 	
@@ -210740,8 +210738,8 @@ ehdottamaan
 hänelle 	 	
 haastetta 	 	
 alkaneelle 	 	
-vuodelle   	 	B-TIM
-2015 	 	I-TIM
+vuodelle   	DATE	B-TIM
+2015 	DATE	I-TIM
 . 	 	
  	 	
 Jopa 	 	
@@ -211984,8 +211982,8 @@ liikennekuolemia
 prosenttia 	 	
 . 	 	
  	 	
-Vuonna   	 	B-TIM
-2011   	 	I-TIM
+Vuonna   	DATE	B-TIM
+2011   	DATE	I-TIM
 liittovaltion 	 	
 Centers   	B-ORG 	B-ORG
 for   	I-ORG 	I-ORG
@@ -212017,8 +212015,8 @@ peruuttaminen
 Kaliforniassa   	B-LOC 	B-LOC
 on 	 	
 meneillään 	 	
-vuonna   	 	B-TIM
-2010   	 	I-TIM
+vuonna   	DATE	B-TIM
+2010   	DATE	I-TIM
 aloitettu 	 	
 kokeiluohjelma 	 	
 , 	 	
@@ -212049,8 +212047,8 @@ oli
 esillä 	 	
 Kaliforniassa   	B-LOC 	B-LOC
 jo 	 	
-vuonna   	 	B-TIM
-2013   	 	I-TIM
+vuonna   	DATE	B-TIM
+2013   	DATE	I-TIM
 , 	 	
 mutta 	 	
 silloin  	 	B-TIM
@@ -212071,8 +212069,8 @@ vetosi
 siihen 	 	
 , 	 	
 että 	 	
-vuoteen   	 	B-TIM
-2015   	 	I-TIM
+vuoteen   	DATE	B-TIM
+2015   	DATE	I-TIM
 jatkuvasta  	 	I-TIM
 kokeilusta 	 	
 ei 	 	
@@ -212674,8 +212672,8 @@ sotaan   	I-EVENT 	I-EVENT
 jonka 	 	
 Yhdysvallat   	B-LOC 	B-LOC
 aloitti 	 	
-vuonna   	 	B-TIM
-2003 	 	I-TIM
+vuonna   	DATE	B-TIM
+2003 	DATE	I-TIM
 . 	 	
  	 	
 Ennen 	 	
@@ -212789,8 +212787,8 @@ joka
 on 	 	
 määrä 	 	
 järjestää 	 	
-15.   	 	B-TIM
-tammikuuta   	B-DATE 	I-TIM
+15.   	DATE	B-TIM
+tammikuuta   	DATE	I-TIM
 oppositiojohtaja   	B-TIT 	B-TIT
 Aleksei   	B-PER 	B-PER
 Navalnyin   	I-PER 	I-PER
