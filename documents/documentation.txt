@@ -1,15 +1,8 @@
 
 
-XP -> B-MISC
-Face -> B-MISC
-
-KŠy productit lŠpi, versiot menee B-MISCiin tai O:hon
-
-Suomen -> B-LOC, tarkista
-T;amp;T -> B-ORG, tarkista
-
 Windows-tietokone, -laite, -versio, -puhelin, -pŠivitys -> MISC
-Lollipop, KitKat -> MISC
+
+Merkataanko currencyt PRO? euro, dollari, yeni, kruunu, bitcoin, won
 
 
 
@@ -55,156 +48,9 @@ vuoden 2000 syyskuusta vuoden 2001 helmikuuhun: B I I B I I
 vuoden 2000 syyskuusta helmikuuhun: B I I I
 
 
+=====
 
-
-
-
-==================
-
-
-*** on tŠllŠ hetkellŠ:
-
-ajoittain, ajoittainen, ajoittaiset
-aikaisemmin, aikaisemminkin, aikaisempi, aikaisemmat, aiemmat, aiemman
-myšhemmin, myšhempi, myšhemmŠt
-aiemmin
-sittemmin
-aikanaan, aikoinaan
-jatkossa
-hetkittŠinen, hetkit*
-taannoin
-jŠlkikŠteen
-tuolloin
-pian
-kaikkien aikojen
-samaan aikaan, sillŠ vŠlin
-
-etukŠteen, jŠlkikŠteen
-jatkuva, jatkuvasti 
-aina
-tŠllšin, silloin
-heti, heti perŠŠn
-usein
-tŠmŠn jŠlkeen, tŠtŠ ennen, sitŠ ennen, sen jŠlkeen
-siitŠ lŠhtien, tŠstŠ lŠhtien
-yhtŠ aikaa
-joskus
-aikaisin
-saman tien
-siihen saakka
-vihdoin
-yhtŠkkiŠ
-viimeisin
-vastedes, vastaisuudessa
-varhainen
-koskaan, ei koskaan
-ajoissa
-vŠlittšmŠsti
-vŠliaikainen, vŠliaikaiset, vŠliaikaisesti
-ikuinen, ikuisesti
-hetki, hetkittŠinen, hetkittŠin, hetkittŠisesti, hetkinen, hetkisen
-useimmiten
-uusi, uudet, uudemmat, uuteen, uusiin, uusia, uusista, uutta, uudenkin, uusienkin, uudempien, uusimmissa, uusissa, uudempiin, uuden, uudesta, uudemmista, uusille
-vanha, vanhat, vanhemmat, vanhaan, vanhoihin, vanhoja, vanhoista, vanhaa, vanhankin, vanhojenkin, vanhempien, vanhemmissa, vanhoissa, vanhempiin, vanhan, vanhasta, vanhemmista, vanhoille
-
-ajoissa
-aikansa
-parhaillaan
-
-silloin tŠllšin
-
-*** ei ole tŠllŠ hetkellŠ:
-
-
-
-
-*** oma koodi nŠille:
-
-Suomen aikaa: merkataan btim-tim
-
-
-*** kŠy lŠpi kŠsin:
-
-ikinŠ (monimerkityksellisyyttŠ Òei ikinŠÓ kohdalla?)
-enŠŠ
-vielŠ (tsekkaa eri merkitykset, esim. ÒvielŠ enemmŠnÓ)
-pitkŠ
-edelleen (pois Òniin edelleenÓ)
-yhŠ (tsekkaa eri merkitykset, esim. ÒyhŠ enemmŠnÓ)
-hetkinen (monimerkityksellinen)
-samalla (monimerkityksellinen, voisi poistaa kokonaan ehkŠ)
-ennen, jŠlkeen, alla, asti (adpositiot, monitulkintaisuus, ennen kuin-lauseet)
-aikana, ajan, mennessŠ, sisŠllŠ, saakka, pŠŠstŠ, lŠhtien (kŠytetŠŠn postpositiona, saattaa olla jŠŠny merkkaamatta)
-vihdoin (en ehkŠ merkkaisi sittenkŠŠn, vert. ÒlopultakinÓ, Òvihdoin ja viimeinÓ)
-kohta, juuri (monitulk.)
-hetki*
-elokuv*
-sen jŠlkeen
-
-
-=================
-
-
-
-nyt
-ŠskettŠin
-hiljattain
-toistaiseksi
-
-eilen
-tŠnŠŠn
-huomenna
-
-maanantai
-tiistai
-
-torstai
-perjantai
-lauantai
-sunnuntai
-
-pŠivŠssŠ
-kuukaudessa
-vuodessa
-
-=======
-
-keskiviik
-
-tammiku
-helmiku
-maalisku
-huhtiku
-toukoku
-kesŠku
-heinŠku
-eloku
-syysku
-lokaku
-marrasku
-jouluku
-
-======
-
-#viime viikolla
-#viime viikon
-tŠllŠ viikolla
-tŠmŠn viikon
-#ensi viikolla
-#ensi viikon
-
-#viime vuonna
-#viime vuoden
-tŠnŠ vuonna
-tŠmŠn vuoden
-#ensi vuonna
-#ensi vuoden
-
-tŠllŠ hetkellŠ
-tŠhŠn asti
-
-
-********************
+Ajanilmauksista:
 
 Ilmaukset kuten ÒtŠmŠn jŠlkeenÓ tai ÒsitŠ ennenÓ merkataan, jos ne on eksplisiittisiŠ kontekstin perusteella, esim: 
 

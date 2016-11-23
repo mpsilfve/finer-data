@@ -100,7 +100,7 @@
 
 Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014}. 
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014}. 
 
 %Chinese \citep{bai2001}
 
@@ -132,7 +132,7 @@ Finally, conclusions on the work are presented in Section \ref{sec: conclusions}
 \section{Corpus}
 \label{sec: corpus}
 
-In this section, we describe the text material, the set of named entity classes, and the annotation process.
+In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER data and systems developed for English, German, and Swedish \citep{muc,conll,swener,swedata}.
 
 \subsection{Text}
 \label{sec: text}
@@ -218,8 +218,7 @@ Markable products include:
  
 \end{itemize}
 
-Version numbers and names of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Windows 10'', ''iPhone 6'', ''Android 5.0'', ''Androidin versio 5.0'' (version 5.0 of Android), ''Android 5.0 Lollipop'', and ''Android Lollipop''. 
-
+Version numbers of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Windows 10'', ''iPhone 6'', ''Android 5.0'', ''Androidin versio 5.0'' (version 5.0 of Android).
 %Version numbers of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Windows 10'', ''iPhone 6'', ''Android 5.0'', ''Androidin versio 5.0'' (version 5.0 of Android). Similarly, version names are considered parts of whole expression: for example, consider ''Android Lollipop'' or ''Android Jelly Bean''. The version names, however, are considered markable also when they appear individually.
 
 Entities considered here to belong in the \textit{product} class have been incorporated in previous work to varying extents. For example, in the English CoNLL-2003 data \citep{tjong2003}, projects/programs are included in an entity class labeled as \textit{miscellaneous}. Similarly, in the German NoSta-D corpus \citep{benikova2014}, products are included in an entity class labeled \textit{other}. Meanwhile, in the Swedish HSFT-SweNER system, \citet{kokkinakis2014} define classes \textit{artifact} (food/wine products, prizes, means of communication (vehicles), etc.) and \textit{work\&art} (printed material, names of films, novels and newspapers, sculptures, etc.), both of which are subsets of our \textit{product} class.
@@ -235,17 +234,17 @@ Markable events include:
 
 \end{itemize}
 
-Again, entities considered in this work as \textit{events} have been incorporated in previous work to varying extents. For example, the English CoNLL-2003 data \citep{tjong2003} assigns events to the class labeled \textit{miscellaneous} while the German NoSta-D corpus \citep{benikova2014} assigns events to the class \textit{other}. Meanwhile, the Swedish HSFT-SweNER system \citep{kokkinakis2014} has a separate class for events. 
+Again, entities considered in this work as \textit{events} have been incorporated in previous work to varying extents. For example, the English and German CoNLL-2003 data \citep{tjong2003} assign events to the class labeled \textit{miscellaneous}, while the German NoSta-D corpus \citep{benikova2014} assigns events to the class \textit{other}. Meanwhile, the Swedish HSFT-SweNER system \citep{kokkinakis2014} has a separate class for events. 
 
 \paragraph{Date (DATE)} 
 
-A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be expressed using digits or spelled out.
+A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be spelled out or expressed using digits.
 
 Expressions such as ''vuonna 2016'' (in the year 2016) and ''3. p\"aiv\"a lokakuuta" (3rd day of October) are considered markable as a whole. This is because the expressions ''3. p\"aiv\"a lokakuuta'' and ''vuonna 2016'' have the same meaning as ''3. lokakuuta'' and ''2016'', respectively. Months may sometimes have a purely nominal use and are not markable in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month). 
 
 Expressions employing coordination such as ''lokakuun 1. ja 2. p\"aiv\"a'' (1st and 2nd October) and ''vuosina 2000 ja 2001'' (during the years 2000 and 2001) are considered markable as a whole. Similarly, from-to expressions are markable as a single expression: for example, consider ''2000-2010'', ''2000 - 2010'', ''vuodesta 2000 vuoteen 2010'', ''1.-3. lokakuuta'', ''lokakuun ensimm\"aisest\"a p\"aivast\"a kolmanteen''. Adpositions within from-to expressions are considered markable: for example, consider ''vuosien 2010 ja 2011 aikana'' (during the years 2010 and 2011).
 
-The following contains a comprehensive list of dates markable as a single expressions:
+The following contains a list of exemplar date expressions markable as single entities:
 
 \begin{itemize}
 \item[1.] 1.10.2016
@@ -277,7 +276,8 @@ The following contains a comprehensive list of dates markable as a single expres
 % In expressions such as ''vuonna 2016'' (in the year 2016), only the numeral part denoting year is markable.  Consequently, in from-to expressions, expressions are tagged as two instances: for example, consider ''vuodesta 2000 vuoteen 2010'' (from the year 2000 until the year 2010).  In from-to expressions using hyphenation, tagging follows tokenization: ''2000-2010'' is tagged as a single expression, while ''2000 - 2010'' is tagged as two instances separated by an outside tag.
 
 
-Dates, or more generally temporal expressions, are one of the more rarely addressed entity types in previous NER work. For example, in the English CoNLL-2003 \citep{tjong2003} and the German NoSta-D \citep{benikova2014} data, time expressions are not considered.  Meanwhile, the HSFT-SweNER system \citep{kokkinakis2014} takes into account a wide range of temporal expressions, including absolute expressions such as ''3.10.2016'' and relative ones such as ''next week''. It should be noted, however, that recognition of time expressions and temporal relations has been a research topic of its own interest: see, for example, the TempEval competition \citep{verhagen2007,verhagen2010,verhagen2013}.
+% Dates, or more generally temporal expressions, are one of the more rarely addressed entity types in previous NER work. 
+Dates, or more generally temporal expressions, have been incorporated in previous work to varying extents. For example, in the English and German CoNLL-2003 \citep{tjong2003} and the German NoSta-D \citep{benikova2014} data, temporal expressions are not considered.  Meanwhile, the MUC-6 and MUC-7 data sets and the HSFT-SweNER system \citep{kokkinakis2014} take into account a wide range of temporal expressions, including absolute expressions such as ''3.10.2016'' and relative ones such as ''next week''. In addition, it should be noted, that recognition of time expressions and temporal relations has been a research topic of its own interest: see, for example, the TempEval competition \citep{verhagen2007,verhagen2010,verhagen2013}.
 
 
 %\paragraph{Temporal (TEMP)} Markable temporal expressions include:
@@ -362,7 +362,7 @@ Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 
 
 \paragraph{Expression ''-niminen''}
 	
-Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone called iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
 
 
 \subsection{Annotation Process}
