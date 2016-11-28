@@ -25926,7 +25926,7 @@ puolestaan
 prosenttiin 	 	 	
 . 	 	 	
  	 	 	
-Android-puhelimet      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimet      	B-MISC	B-MISC	B-MISC
 jatkavat 	 	 	
 suosion 	 	 	
 kärjessä 	 	 	
@@ -26674,7 +26674,7 @@ kuusi
 Edulliset 	 	 	
 ja 	 	 	
 tehokkaat 	 	 	
-4G-puhelimet    	B-MISC 	B-MISC 	B-MISC
+4G-puhelimet    			
 ovat 	 	 	
 nousemassa 	 	 	
 käytännössä 	 	 	
@@ -27775,7 +27775,7 @@ hajottivat
 sen 	 	 	
 pesukoneita 	 	 	
 Berliinissä      	 	B-LOC 	B-LOC
-IFA-messujen      	 	B-LOC 	B-LOC
+IFA-messujen      	 	B-EVENT	B-EVENT
 alla 	 	 	
 viime      	 	 	B-TIM
 syksynä      	 	 	I-TIM
@@ -28069,7 +28069,7 @@ liiketoimintaan
  	 	 	
 <HEADLINE> 	 	 	
 Veikö 	 	 	
-bitcoin-pörssi      	B-MISC 	B-MISC 	B-MISC
+bitcoin-pörssi      			
 343 	 	 	
 miljoonaa 	 	 	
 ja 	 	 	
@@ -28093,7 +28093,7 @@ pyramidihuijauksesta
 Poliisi 	 	 	
 epäilee 	 	 	
 honkongilaista 	 	 	
-bitcoin-pörssi      	B-MISC 	B-MISC 	B-MISC
+bitcoin-pörssi      			
 MyCoinia      	 	B-ORG 	B-ORG
 pyramidihuijaukseksi 	 	 	
 , 	 	 	
@@ -28679,7 +28679,7 @@ varsinainen
 ratkaisu 	 	 	
 oli 	 	 	
 Qualcommin      	 	B-ORG 	B-ORG
-3g/4g-essentiaalipatenttien    	B-MISC 	B-MISC 	B-MISC
+3g/4g-essentiaalipatenttien    			
 jakaminen 	 	 	
 muihin 	 	 	
 lisensseihin 	 	 	
@@ -28719,13 +28719,13 @@ kiinalaisista
 Kiinassa      	 	B-LOC 	B-LOC
 myytävien 	 	 	
 laitteiden 	 	 	
-3g-essentiaalipatenteista    	B-MISC 	B-MISC 	B-MISC
+3g-essentiaalipatenteista    			
 viiden 	 	 	
 prosentin 	 	 	
 rojaltin 	 	 	
 . 	 	 	
  	 	 	
-4g-laitteista    	B-MISC 	B-MISC 	B-MISC
+4g-laitteista    			
 rojalti 	 	 	
 on 	 	 	
 3,5 	 	 	
@@ -29368,7 +29368,7 @@ uusia     	 	 	B-TIM
 ominaisuuksia 	 	 	
 : 	 	 	
 uusi     	 	 	B-TIM
-html5-pohjainen      	B-MISC 	B-MISC 	B-MISC
+html5-pohjainen      			
 toisto-ohjelma 	 	 	
 Linux-laitteille      	B-PRO 	B-PRO 	B-PRO
 , 	 	 	
