@@ -30069,7 +30069,7 @@ toisen
 Surfaceja      	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 muita 	 	 	
-Windows-tabletteja      	B-PRO 	B-PRO 	B-PRO
+Windows-tabletteja      	B-MISC	B-MISC	B-MISC
 koskeneen 	 	 	
 päivityksen 	 	 	
 teknisten 	 	 	
@@ -30263,8 +30263,8 @@ tivata
 korjauksia 	 	 	
 . 	 	 	
  	 	 	
-Ultra      	B-PRO 	B-PRO 	B-PRO
-hd      	I-PRO 	I-PRO 	I-PRO
+Ultra      			
+hd      			
 kuuluu 	 	 	
 internetiin 	 	 	
  	 	 	
@@ -30313,10 +30313,10 @@ Lisähaasteen
 muodostaa 	 	 	
 niin 	 	 	
 sanottu 	 	 	
-ultra      	B-MISC 	B-MISC 	B-MISC
-hd-    	I-MISC 	I-MISC 	I-MISC
-tai 	 	 	
-4k-tarkkuus      	B-MISC 	B-MISC 	B-MISC
+ultra      			
+hd-    			
+tai 			
+4k-tarkkuus      			
 , 	 	 	
 jossa 	 	 	
 poikittaisten 	 	 	
@@ -30329,9 +30329,9 @@ lähemmäs
  	 	 	
 Netflix      	 	B-ORG 	B-ORG
 aloittaa 	 	 	
-ultra      	B-MISC 	B-MISC 	B-MISC
-hd      	I-MISC 	I-MISC 	I-MISC
--lähetykset      	I-MISC 	I-MISC 	I-MISC
+ultra      			
+hd      			
+-lähetykset      			
 helmikuun      	 	 	B-TIM
 puolivälissä      	 	 	I-TIM
 House      	B-PRO 	B-PRO 	B-PRO
@@ -30356,8 +30356,8 @@ valmistajilta
 Neil      	 	B-PER 	B-PER
 Hunt      	 	I-PER 	I-PER
 uskoo 	 	 	
-ultra      	B-PRO 	B-PRO 	B-PRO
-hd:n    	I-PRO 	I-PRO 	I-PRO
+ultra      			
+hd:n    			
 olevan 	 	 	
 pelkästään 	 	 	
 digitaalisen 	 	 	
@@ -30372,9 +30372,9 @@ nähdään
 paketoituna 	 	 	
 mediana 	 	 	
 kuten 	 	 	
-blu-ray-levyt      	B-PRO 	B-PRO 	B-PRO
+blu-ray-levyt      			
 tai 	 	 	
-dvd:t      	B-PRO 	B-PRO 	B-PRO
+dvd:t      			
 . 	 	 	
  	 	 	
 Mainostajat 	 	 	
@@ -30886,11 +30886,11 @@ aiempi
 versio 	 	 	
 toimi 	 	 	
 vain 	 	 	
-uefi:n    	B-PRO 	B-PRO 	B-PRO
+uefi:n    			
 , 	 	 	
 eli 	 	 	
 perinteisen 	 	 	
-biosin      	B-PRO 	B-PRO 	B-PRO
+biosin      			
 korvaajan 	 	 	
 kanssa 	 	 	
 . 	 	 	
@@ -30932,7 +30932,7 @@ on
 aiemminkin      	 	 	B-TIM
 ollut 	 	 	
 saatavilla 	 	 	
-non-uefi-järjestelmille      	B-MISC 	B-MISC 	B-MISC
+non-uefi-järjestelmille      			
 – 	 	 	
 kiitos 	 	 	
 Linux-yhteisön      	B-MISC 	B-MISC 	B-MISC
@@ -31610,9 +31610,9 @@ muassa
 lähes 	 	 	
 tosiaikaista      	 	 	B-TIM
 ja 	 	 	
-ultra      	B-MISC 	B-MISC 	B-MISC
-hd      	I-MISC 	I-MISC 	I-MISC
--tasoista      	I-MISC 	I-MISC 	I-MISC
+ultra      			
+hd      			
+-tasoista      			
 videokuvaa 	 	 	
 maapallosta 	 	 	
 verkkopalvelunsa 	 	 	
@@ -32799,7 +32799,7 @@ Appup      	B-PRO 	B-PRO 	B-PRO
 käynnistettiin 	 	 	
 vuonna      	 	B-DATE 	B-TIM
 2010      	 	I-DATE 	I-TIM
-netbook-laitteiden      	B-PRO 	B-PRO 	B-PRO
+netbook-laitteiden      			
 omistajille 	 	 	
 suunnattuna 	 	 	
 betaohjelmana 	 	 	
@@ -33259,9 +33259,9 @@ käyttöönottoa
 Se 	 	 	
 mahdollistaa 	 	 	
 sekä 	 	 	
-ultra      	B-MISC 	B-MISC 	B-MISC
-hd      	I-MISC 	I-MISC 	I-MISC
--tarkkuudella      	I-MISC 	I-MISC 	I-MISC
+ultra      			
+hd      			
+-tarkkuudella      			
 esitettävän 	 	 	
 videokuvan 	 	 	
 maapallosta 	 	 	
@@ -33841,7 +33841,7 @@ huhtikuussa      	 	B-DATE 	B-TIM
 . 	 	 	
  	 	 	
 – 	 	 	
-Pc-myynti    	B-MISC 	B-MISC 	B-MISC
+Pc-myynti    			
 on 	 	 	
 kasvu-uralla 	 	 	
 . 	 	 	
@@ -33851,7 +33851,7 @@ korvaavat
 nykyisiä 	 	 	
 XP-järjestelmiään      	B-PRO 	B-PRO 	B-PRO
 uudella 	 	 	
-Windows-versiolla      	B-PRO 	B-PRO 	B-PRO
+Windows-versiolla      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
@@ -33901,7 +33901,7 @@ kohtaavat
 ongelmia 	 	 	
 . 	 	 	
  	 	 	
-Pc-kierrätyksen    	B-MISC 	B-MISC 	B-MISC
+Pc-kierrätyksen    			
 vauhti 	 	 	
 ei 	 	 	
 ole 	 	 	
@@ -33921,7 +33921,7 @@ käytössä
 yli 	 	 	
 29 	 	 	
 prosentissa 	 	 	
-Windows-tietokoneita      	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneita      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Onkin 	 	 	
@@ -34581,16 +34581,16 @@ alkupäässä
 Firefoxin      	B-PRO 	B-PRO 	B-PRO
 kehitysversioiden 	 	 	
 , 	 	 	
-nightlyn      	B-MISC 	B-MISC 	B-MISC
+nightlyn      	B-PRO 	B-PRO 	B-PRO 
 , 	 	 	
-auroran      	B-MISC 	B-MISC 	B-MISC
+auroran      	B-PRO 	B-PRO 	B-PRO 
 , 	 	 	
-beetan      	B-MISC 	B-MISC 	B-MISC
+beetan      	B-PRO 	B-PRO 	B-PRO 
 ja 	 	 	
 julkaisuversion 	 	 	
 mittapuulla 	 	 	
 mennään 	 	 	
-aurorassa      	B-MISC 	B-MISC 	B-MISC
+aurorassa      	B-PRO 	B-PRO 	B-PRO 
 , 	 	 	
 mikä 	 	 	
 vastaa 	 	 	
@@ -35076,7 +35076,7 @@ Huhu
 : 	 	 	
 Microsoft      	 	B-ORG 	B-ORG
 lykkäsi 	 	 	
-Windows-päivitystä      	B-PRO 	B-PRO 	B-PRO
+Windows-päivitystä      	B-MISC	B-MISC	B-MISC
  	 	 	
 <DATE> 	 	 	
 7.2.2014 16:17 	 	 	
@@ -35162,7 +35162,7 @@ muutamia
 koontiversioita 	 	 	
 , 	 	 	
 joista 	 	 	
-9600.16608      	B-PRO 	B-PRO 	B-PRO
+9600.16608      			
 on 	 	 	
 ehtinyt 	 	 	
 jo 	 	 	
@@ -35190,8 +35190,8 @@ alkukeväästä      	 	 	B-TIM
 , 	 	 	
 tarkalleen 	 	 	
 ottaen 	 	 	
-8.      	 	 	B-TIM
-huhtikuuta      	 	B-DATE 	I-TIM
+8.      	 	B-DATE	B-TIM
+huhtikuuta      	 	I-DATE	I-TIM
 . 	 	 	
  	 	 	
 Huhtikuussa      	 	B-DATE 	B-TIM
@@ -35217,7 +35217,7 @@ ohjeet
 siirtyä 	 	 	
 käyttämään 	 	 	
 uudempaa 	 	 	
-Windows-versiota      	B-PRO 	B-PRO 	B-PRO
+Windows-versiota      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
@@ -35243,9 +35243,9 @@ työpöydälle
  	 	 	
 Myöhempään 	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
-"      	I-PRO 	I-PRO 	I-PRO
-Thresholdiin      	I-PRO 	I-PRO 	I-PRO
-"      	I-PRO 	I-PRO 	I-PRO
+"      			
+Thresholdiin      	B-PRO 	B-PRO 	B-PRO 
+"      			
 spekuloitua 	 	 	
 Käynnistä-valikkoa 	 	 	
 ei 	 	 	
@@ -35466,7 +35466,7 @@ hajurakoa
 floppiin 	 	 	
 ? 	 	 	
  	 	 	
-Thresholdista 	 	 	
+Thresholdista 	B-PRO 	B-PRO 	B-PRO 
 tulee 	 	 	
 " 	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
@@ -35482,7 +35482,7 @@ aikoo
 kutsua 	 	 	
 seuraavaa 	 	 	
 isompaa 	 	 	
-Windows-päivitystään      	B-PRO 	B-PRO 	B-PRO
+Windows-päivitystään      	B-MISC	B-MISC	B-MISC
 nimellä 	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
 9      	I-PRO 	I-PRO 	I-PRO
@@ -35500,11 +35500,11 @@ mukaan
 uusi     	 	 	B-TIM
 , 	 	 	
 koodinimellä 	 	 	
-"      	B-PRO 	B-PRO 	B-PRO
-Threshold      	I-PRO 	I-PRO 	I-PRO
-"      	I-PRO 	I-PRO 	I-PRO
+"      			
+Threshold      	B-PRO	I-PRO 	I-PRO
+"      			
 tunnettu 	 	 	
-Windows-versio      	B-PRO 	B-PRO 	B-PRO
+Windows-versio      	B-MISC	B-MISC	B-MISC
 on 	 	 	
 lopulliselta 	 	 	
 nimeltään 	 	 	
@@ -35554,7 +35554,7 @@ rautaa
 tulessa 	 	 	
 : 	 	 	
 aiemmin      	 	 	B-TIM
-Build-konferenssin      	 	B-EVENT 	B-EVENT
+Build-konferenssin      		B-EVENT 	B-EVENT
 suurimmaksi 	 	 	
 julkistukseksi 	 	 	
 ja 	 	 	
@@ -36839,8 +36839,8 @@ mahdollisuuden
 päivittää 	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
 7-      	I-PRO 	I-PRO 	I-PRO
-tai 	 	 	
-8.1      	B-PRO 	B-PRO 	B-PRO
+tai 	I-PRO 	I-PRO 	I-PRO 
+8.1      	I-PRO 	I-PRO 	I-PRO 
 -asennus      	I-PRO 	I-PRO 	I-PRO
 suoraan 	 	 	
 Windows      	B-PRO 	B-PRO 	B-PRO
@@ -36930,7 +36930,7 @@ ei
 paluu 	 	 	
 takaisin 	 	 	
 vanhempaan 	 	 	
-Windows-versioon      	B-PRO 	B-PRO 	B-PRO
+Windows-versioon      	B-MISC	B-MISC	B-MISC
 onnistu 	 	 	
 ilman 	 	 	
 puhdasta 	 	 	
@@ -37022,7 +37022,7 @@ Tom      	 	B-PER 	B-PER
 Wheeler      	 	I-PER 	I-PER
 paljasti 	 	 	
 keskiviikkona      	 	 	B-TIM
-Wired-julkaisussa    	B-PRO 	B-PRO 	B-PRO
+Wired-julkaisussa    		B-ORG 	B-ORG 
 pääosat 	 	 	
 ehdotuksestaan 	 	 	
 internetin 	 	 	
@@ -37505,7 +37505,7 @@ se
 löytyy 	 	 	
 1,6 	 	 	
 prosentista 	 	 	
-Android-laitteita      	B-PRO 	B-PRO 	B-PRO
+Android-laitteita      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Hyppäys 	 	 	
@@ -37529,8 +37529,8 @@ JellyBean-versio      	B-PRO 	B-PRO 	B-PRO
 joka 	 	 	
 kattaa 	 	 	
 versionumerot 	 	 	
-4.1:stä     	 	 	B-PRO
-4.3:een     	 	 	B-PRO
+4.1:stä     	 	 	
+4.3:een     	 	 	
 . 	 	 	
  	 	 	
 JellyBeanin      	B-PRO 	B-PRO 	B-PRO
@@ -37543,15 +37543,15 @@ prosenttia
  	 	 	
 Lollipopia      	B-PRO 	B-PRO 	B-PRO
 edeltänyt 	 	 	
-4.4      	B-PRO 	B-PRO 	B-PRO
-KitKat      	I-PRO 	I-PRO 	I-PRO
+4.4      			
+KitKat      	B-PRO 	B-PRO 	B-PRO 
 -päivitys      	I-PRO 	I-PRO 	I-PRO
 löytyy 	 	 	
 tällä      	 	 	B-TIM
 hetkellä      	 	 	I-TIM
 39,7 	 	 	
 prosentista 	 	 	
-Android-laitteita      	B-PRO 	B-PRO 	B-PRO
+Android-laitteita      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Suunta 	 	 	
@@ -37856,7 +37856,7 @@ ennakkoa
 Sivustoa 	 	 	
 koristaa 	 	 	
 nyt      	 	 	B-TIM
-Feeniks-lintu      	B-PRO 	B-PRO 	B-PRO
+Feeniks-lintu      			
 perinteisen 	 	 	
 merirosvolaivan 	 	 	
 sijasta 	 	 	
@@ -37957,7 +37957,7 @@ niskoille
 <BODY> 	 	 	
 Googlen      	 	B-ORG 	B-ORG
 uudet     	 	 	B-TIM
-Android-versiot      	B-PRO 	B-PRO 	B-PRO
+Android-versiot      	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 niiden 	 	 	
 hidas 	 	 	
@@ -38012,7 +38012,7 @@ asettama
 päivän      	 	 	I-TIM
 takaraja 	 	 	
 uusien     	 	 	B-TIM
-Android-versioiden      	B-PRO 	B-PRO 	B-PRO
+Android-versioiden      	B-MISC	B-MISC	B-MISC
 jakelun 	 	 	
 aloittamiseksi 	 	 	
 umpeutui 	 	 	
@@ -38100,8 +38100,8 @@ HTC      	B-PRO 	B-PRO 	B-PRO
 One      	I-PRO 	I-PRO 	I-PRO
 M7-    	I-PRO 	I-PRO 	I-PRO
 -      	I-PRO 	I-PRO 	I-PRO
-ja 	 	 	
-M8      	B-PRO 	B-PRO 	B-PRO
+ja 	I-PRO 	I-PRO 	I-PRO 
+M8      	I-PRO 	I-PRO 	I-PRO 
 -puhelimia      	I-PRO 	I-PRO 	I-PRO
 , 	 	 	
 jotka 	 	 	
@@ -38123,7 +38123,7 @@ ei
 ole 	 	 	
 muutenkaan 	 	 	
 juuri 	 	 	
-Android-puhelimiin      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimiin      	B-MISC	B-MISC	B-MISC
 levinnyt 	 	 	
 . 	 	 	
  	 	 	
@@ -38172,7 +38172,7 @@ oman
 seurannan 	 	 	
 mukaan 	 	 	
 hallitseva 	 	 	
-Android-versio      	B-PRO 	B-PRO 	B-PRO
+Android-versio      	B-MISC	B-MISC	B-MISC
 on 	 	 	
 Jelly      	B-PRO 	B-PRO 	B-PRO
 Bean      	I-PRO 	I-PRO 	I-PRO
@@ -38197,7 +38197,7 @@ ei
 laske 	 	 	
 mukaan 	 	 	
 sellaisia 	 	 	
-Android-versioita      	B-PRO 	B-PRO 	B-PRO
+Android-versioita      	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joiden 	 	 	
 osuus 	 	 	
@@ -38253,7 +38253,7 @@ eilen      	 	 	B-TIM
 tai 	 	 	
 tänään      	 	 	B-TIM
 uuteen     	 	 	B-TIM
-8.3.5.0-versioon    	 	 	B-PRO
+8.3.5.0-versioon    	 	 	
 . 	 	 	
  	 	 	
 Sovellusversiossa 	 	 	
@@ -38889,7 +38889,7 @@ vähintään
 gigatavua 	 	 	
 vapaata 	 	 	
 tilaa 	 	 	
-iOS-päivityksen      	B-PRO 	B-PRO 	B-PRO
+iOS-päivityksen      	B-MISC	B-MISC	B-MISC
 asentamista 	 	 	
 varten 	 	 	
 . 	 	 	
@@ -38923,7 +38923,7 @@ lähes
 70 	 	 	
 prosentin 	 	 	
 levinneisyys 	 	 	
-iOS-laitteissa      	B-PRO 	B-PRO 	B-PRO
+iOS-laitteissa      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 On 	 	 	
@@ -38949,7 +38949,7 @@ toisesta
 pysty 	 	 	
 päivittämään 	 	 	
 uuteen     	 	 	B-TIM
-iOS-versioon      	B-PRO 	B-PRO 	B-PRO
+iOS-versioon      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Ja 	 	 	
@@ -39365,7 +39365,7 @@ Mavericksia      	B-PRO 	B-PRO 	B-PRO
 Apple      	 	B-ORG 	B-ORG
 avasi 	 	 	
 tiistaina      	 	 	B-TIM
-Mac-käyttöjärjestelmän      	B-PRO 	B-PRO 	B-PRO
+Mac-käyttöjärjestelmän      	B-MISC	B-MISC	B-MISC
 betaversion 	 	 	
 kaikille 	 	 	
 halukkaille 	 	 	
@@ -39542,7 +39542,7 @@ käyttöjärjestelmiä
  	 	 	
 <HEADLINE> 	 	 	
 Seuraavaa 	 	 	
-Windows-päivitystä      	B-PRO 	B-PRO 	B-PRO
+Windows-päivitystä      	B-MISC	B-MISC	B-MISC
 veikataan 	 	 	
 syyskuulle      	 	B-DATE 	B-TIM
  	 	 	
