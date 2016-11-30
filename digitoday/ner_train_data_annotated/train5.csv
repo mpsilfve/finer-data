@@ -40114,7 +40114,7 @@ näyttävät
 erilaiselta 	 	 	
 verkossa 	 	 	
 ja 	 	 	
-Android-sovelluksissa      	B-PRO 	B-PRO 	B-PRO
+Android-sovelluksissa      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 AndroidPolicen      	 	B-ORG 	B-ORG
@@ -40233,7 +40233,7 @@ Snowdenin      	 	I-PER 	I-PER
 myötä 	 	 	
 mainetta 	 	 	
 saanut 	 	 	
-Linux-jakelu      	B-PRO 	B-PRO 	B-PRO
+Linux-jakelu      	B-MISC	B-MISC	B-MISC
 naamioituu 	 	 	
 tarvittaessa 	 	 	
 vaikka 	 	 	
@@ -40248,12 +40248,12 @@ on
 mukana 	 	 	
 usb-tikulla 	 	 	
 tai 	 	 	
-dvd-levyllä    	B-MISC 	B-MISC 	B-MISC
+dvd-levyllä    			
 kulkeva 	 	 	
 pieni 	 	 	
 ja 	 	 	
 näppärä 	 	 	
-Linux-jakelu      	B-PRO 	B-PRO 	B-PRO
+Linux-jakelu      	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joka 	 	 	
 perustuu 	 	 	
@@ -40324,8 +40324,8 @@ ajetaan
 live-versiona 	 	 	
 esimerkiksi 	 	 	
 usb-tikulta 	 	 	
-, 	 	 	
-dvd-levyltä    	B-MISC 	B-MISC 	B-MISC
+, 			
+dvd-levyltä    			
 tai 	 	 	
 sd-muistikortilta 	 	 	
 . 	 	 	
@@ -40694,7 +40694,7 @@ vahvasti
 ohjelmistokehittäjille 	 	 	
 . 	 	 	
  	 	 	
-Mac-käyttöjärjestelmän      	B-PRO 	B-PRO 	B-PRO
+Mac-käyttöjärjestelmän      	B-MISC	B-MISC	B-MISC
 uusi     	 	 	B-TIM
 ilme 	 	 	
 käsittää 	 	 	
@@ -40807,7 +40807,7 @@ iOS:lle    	B-PRO 	B-PRO 	B-PRO
 <INGRESS> 	 	 	
 Nokia      	 	B-ORG 	B-ORG
 etsii 	 	 	
-iOS-      	B-PRO 	B-PRO 	B-PRO
+iOS-      	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 Android-kehittäjiä      	B-MISC 	B-MISC 	B-MISC
 Here-karttayksikköönsä      	 	B-ORG 	B-ORG
@@ -41170,7 +41170,7 @@ tai
 esimerkiksi 	 	 	
 pc-pelaamista 	 	 	
 virtaviivaistanut 	 	 	
-Steam-pelipalvelu 	 	 	
+Steam-pelipalvelu 	B-PRO	B-PRO	B-PRO
 – 	 	 	
 eikä 	 	 	
 konepellin 	 	 	
@@ -41527,7 +41527,7 @@ uuden     	 	 	B-TIM
 11-tuumaisen 	 	 	
 MacBook      	B-PRO 	B-PRO 	B-PRO
 Airin      	I-PRO 	I-PRO 	I-PRO
-128      	B-PRO 	B-PRO 	B-PRO
+128      			
 gigatavun 	 	 	
 levyä 	 	 	
 verrattiin 	 	 	
@@ -41692,7 +41692,7 @@ lukien
 internetpuhelut 	 	 	
 , 	 	 	
 ilmaisissa 	 	 	
-wlan-palvelupisteissään      	B-MISC 	B-MISC 	B-MISC
+wlan-palvelupisteissään      			
 . 	 	 	
  	 	 	
 Viranomaisen 	 	 	
@@ -41931,7 +41931,7 @@ mene
 pois 	 	 	
 ! 	 	 	
  	 	 	
-Cortana-prosessi 	 	 	
+Cortana-prosessi 	B-MISC	B-MISC	B-MISC
 on 	 	 	
 kuitenkin 	 	 	
 koko      	 	 	B-TIM
@@ -42063,9 +42063,9 @@ Cortanan      	B-PRO 	B-PRO 	B-PRO
 toimintaa 	 	 	
 sulavoittamaan 	 	 	
 tulevissa      	 	 	B-TIM
-Windows      	B-PRO 	B-PRO 	B-PRO
-10      	I-PRO 	I-PRO 	I-PRO
--esiversioissa      	I-PRO 	I-PRO 	I-PRO
+Windows      	B-MISC	B-MISC	B-MISC
+10      	I-MISC	I-MISC	I-MISC
+-esiversioissa      	I-MISC	I-MISC	I-MISC
 , 	 	 	
 sillä 	 	 	
 nykyisellään      	 	 	B-TIM
@@ -42765,7 +42765,7 @@ virheilmoitus
 " 	 	 	
 . 	 	 	
  	 	 	
-Http-protokollaan      	B-PRO 	B-PRO 	B-PRO
+Http-protokollaan      			
 kuuluva 	 	 	
 404-ilmoitus 	 	 	
 palvelimen 	 	 	
@@ -43168,7 +43168,7 @@ Google      	 	B-ORG 	B-ORG
 päättää 	 	 	
 tiukasti 	 	 	
 uusien     	 	 	B-TIM
-Android-versioiden      	B-PRO 	B-PRO 	B-PRO
+Android-versioiden      	B-MISC	B-MISC	B-MISC
 sisällöstä 	 	 	
 . 	 	 	
  	 	 	
@@ -45017,8 +45017,8 @@ hintoja
 entisestään 	 	 	
 , 	 	 	
 sillä 	 	 	
-LPDDR4      	B-PRO 	B-PRO 	B-PRO
-ram-muistit      	I-PRO 	I-PRO 	I-PRO
+LPDDR4      	B-MISC	B-MISC	B-MISC
+ram-muistit      	I-MISC	I-MISC	I-MISC
 ovat 	 	 	
 35 	 	 	
 prosenttia 	 	 	
@@ -45057,7 +45057,7 @@ ilmoitti
 ettei 	 	 	
 iPhone      	B-PRO 	B-PRO 	B-PRO
 4      	I-PRO 	I-PRO 	I-PRO
-- 	 	 	
+- 		 	
 saanut 	 	 	
 iOS8-päivitystä      	B-MISC 	B-MISC 	B-MISC
 . 	 	 	
@@ -45822,7 +45822,7 @@ toisiinsa
 . 	 	 	
  	 	 	
 Facebookin      	B-PRO 	B-PRO 	B-PRO
-yritysversiossa      	I-PRO 	I-PRO 	I-PRO
+yritysversiossa      			
 ei 	 	 	
 ole 	 	 	
 mainoksia 	 	 	
@@ -45935,7 +45935,7 @@ kertoo
 jonka 	 	 	
 mukaan 	 	 	
 iOS:n    	B-PRO 	B-PRO 	B-PRO
-bluetooth-asetuksista    	B-MISC 	B-MISC 	B-MISC
+bluetooth-asetuksista    			
 löytyy 	 	 	
 uusi     	 	 	B-TIM
 paneeli 	 	 	
@@ -46054,7 +46054,7 @@ mennessä      	 	 	I-TIM
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
-Pc:n    	B-PRO 	B-PRO 	B-PRO
+Pc:n    			
 tai 	 	 	
 Macin      	B-PRO 	B-PRO 	B-PRO
 tietoihin 	 	 	
@@ -46161,7 +46161,7 @@ jo
 aikaisemmin      	 	 	B-TIM
 olemassa 	 	 	
 versio 	 	 	
-Android-laitteille      	B-PRO 	B-PRO 	B-PRO
+Android-laitteille      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -46287,7 +46287,7 @@ olisi
 Windows      	B-PRO 	B-PRO 	B-PRO
 10      	I-PRO 	I-PRO 	I-PRO
 Mobilen      	I-PRO 	I-PRO 	I-PRO
-esiversio      	I-PRO 	I-PRO 	I-PRO
+esiversio      			
 siitä 	 	 	
 kiinnostuneille 	 	 	
 käyttäjille 	 	 	
@@ -46387,7 +46387,7 @@ tänään      	 	 	B-TIM
 , 	 	 	
 selviää 	 	 	
 Microsoftin      	 	B-ORG 	B-ORG
-Windows-elinkaarisivuilta      	B-PRO 	B-PRO 	B-PRO
+Windows-elinkaarisivuilta      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Microsoftin      	 	B-ORG 	B-ORG
@@ -46490,7 +46490,7 @@ Windows      	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 sen 	 	 	
 päivitysversio 	 	 	
-8.1:llä      	B-PRO 	B-PRO 	B-PRO
+8.1:llä      			
 yhteenlaskettuna 	 	 	
 . 	 	 	
  	 	 	
@@ -46509,7 +46509,7 @@ Microsoft      	 	B-ORG 	B-ORG
 jättää 	 	 	
 välistä 	 	 	
 version 	 	 	
-9      	B-PRO 	B-PRO 	B-PRO
+9      			
 ja 	 	 	
 julkaisee 	 	 	
 tänä      	 	 	B-TIM
@@ -46730,7 +46730,7 @@ tiedotteessaan
  	 	 	
 Raili      	B-PRO 	B-PRO 	B-PRO
 perustuu 	 	 	
-gsm-r-verkkoon      	B-PRO 	B-PRO 	B-PRO
+gsm-r-verkkoon      			
 ja 	 	 	
 on 	 	 	
 ollut 	 	 	
@@ -46743,7 +46743,7 @@ Kaupalliset
 verkot 	 	 	
 ovat 	 	 	
 häirinneet 	 	 	
-gsm-r-puhelimien      	B-MISC 	B-MISC 	B-MISC
+gsm-r-puhelimien      			
 käyttöä 	 	 	
 , 	 	 	
 mikä 	 	 	
@@ -46756,7 +46756,7 @@ turvallisuudesta
 . 	 	 	
  	 	 	
 Toiseksi 	 	 	
-gsm-r-verkon      	B-PRO 	B-PRO 	B-PRO
+gsm-r-verkon      			
 käyttö 	 	 	
 on 	 	 	
 heikentänyt 	 	 	
@@ -46778,7 +46778,7 @@ ikääntyä
 . 	 	 	
  	 	 	
 Nykyinen      	 	 	B-TIM
-gsm-r-verkko      	B-PRO 	B-PRO 	B-PRO
+gsm-r-verkko      			
 on 	 	 	
 rakennettava 	 	 	
 kokonaan 	 	 	
@@ -46812,7 +46812,7 @@ ollaan
 miettimässä 	 	 	
 seuraajaa 	 	 	
 nykyiselle      	 	 	B-TIM
-gsm-r-radiojärjestelmälle      	B-PRO 	B-PRO 	B-PRO
+gsm-r-radiojärjestelmälle      			
 . 	 	 	
  	 	 	
 Virveltä      	B-PRO 	B-PRO 	B-PRO
@@ -47589,7 +47589,7 @@ suoratoistopalvelu
 kiistää 	 	 	
 jyrkästi 	 	 	
 kiristäneensä 	 	 	
-vpn-estoja    	B-MISC 	B-MISC 	B-MISC
+vpn-estoja    			
 — 	 	 	
 ja 	 	 	
 muotoilee 	 	 	
@@ -47611,13 +47611,13 @@ on
 alkanut 	 	 	
 estää 	 	 	
 asiakkaiden 	 	 	
-vpn-yhteyksiä      	B-MISC 	B-MISC 	B-MISC
+vpn-yhteyksiä      			
 voimakkaammin 	 	 	
 siellä 	 	 	
 täällä 	 	 	
 . 	 	 	
  	 	 	
-Vpn-yhteydet      	B-MISC 	B-MISC 	B-MISC
+Vpn-yhteydet      			
 ovat 	 	 	
 tapa 	 	 	
 päästä 	 	 	
@@ -47643,7 +47643,7 @@ että
 olisimme 	 	 	
 muuttaneet 	 	 	
 linjaustamme 	 	 	
-vpn:n    	B-PRO 	B-PRO 	B-PRO
+vpn:n    			
 suhteen 	 	 	
 , 	 	 	
 ovat 	 	 	
@@ -47689,12 +47689,12 @@ havainneen
 pienen 	 	 	
 määrän 	 	 	
 epätavallisia 	 	 	
-vpn-estoja    	B-MISC 	B-MISC 	B-MISC
+vpn-estoja    			
 Netflixin      	B-PRO 	B-PRO 	B-PRO
 yhteyksissä 	 	 	
 . 	 	 	
  	 	 	
-Vpn:n    	B-PRO 	B-PRO 	B-PRO
+Vpn:n    			
 käyttö 	 	 	
 on 	 	 	
 ollut 	 	 	
@@ -47725,7 +47725,7 @@ hyödyntävänsä
 alan 	 	 	
 normaaleja 	 	 	
 keinoja 	 	 	
-vpn-yhteyksien      	B-MISC 	B-MISC 	B-MISC
+vpn-yhteyksien      			
 torjumiseksi 	 	 	
 . 	 	 	
  	 	 	
@@ -47741,7 +47741,7 @@ Ihmiset
 , 	 	 	
 jotka 	 	 	
 käyttävät 	 	 	
-vpn:ää    	B-PRO 	B-PRO 	B-PRO
+vpn:ää    			
 päästäkseen 	 	 	
 palveluumme 	 	 	
 [ 	 	 	
@@ -47836,7 +47836,7 @@ laite
 muuttaa 	 	 	
 minkä 	 	 	
 tahansa 	 	 	
-hdmi-liitännällä      	B-PRO 	B-PRO 	B-PRO
+hdmi-liitännällä      			
 varustetun 	 	 	
 näytön 	 	 	
 tai 	 	 	
@@ -47881,12 +47881,12 @@ Laitteessa
 on 	 	 	
 myös 	 	 	
 langattomat 	 	 	
-802.11b/g/n    	B-MISC 	B-MISC 	B-MISC
-wlan-      	I-MISC 	I-MISC 	I-MISC
+802.11b/g/n    			
+wlan-      			
 sekä 	 	 	
-bluetooth      	B-MISC 	B-MISC 	B-MISC
-4.0      	I-MISC 	I-MISC 	I-MISC
--yhteydet      	I-MISC 	I-MISC 	I-MISC
+bluetooth      			
+4.0      			
+-yhteydet      			
 . 	 	 	
  	 	 	
 Intelin      	 	B-ORG 	B-ORG
@@ -47973,7 +47973,7 @@ tarkoitus
 saada 	 	 	
 virtansa 	 	 	
 suoraan 	 	 	
-hdmi-liitännästä      	B-MISC 	B-MISC 	B-MISC
+hdmi-liitännästä      			
 , 	 	 	
 ja 	 	 	
 myös 	 	 	
@@ -47998,7 +47998,7 @@ omalla
 vastuulla 	 	 	
 : 	 	 	
 Pohjois-Korean      	 	B-LOC 	B-LOC
-Mac-käyttöjärjestelmä      	B-PRO 	B-PRO 	B-PRO
+Mac-käyttöjärjestelmä      	B-MISC	B-MISC	B-MISC
 vuosi 	 	 	
 verkkoon 	 	 	
  	 	 	
@@ -48882,17 +48882,17 @@ on
 useimmiten     	 	 	B-TIM
 asetukset 	 	 	
 sekä 	 	 	
-LAN:lle    	B-PRO 	B-PRO 	B-PRO
+LAN:lle    			
 että 	 	 	
-WAN:lle    	B-PRO 	B-PRO 	B-PRO
+WAN:lle    			
 . 	 	 	
  	 	 	
-LAN      	B-PRO 	B-PRO 	B-PRO
+LAN      			
 tarkoittaa 	 	 	
 omaa 	 	 	
 sisäverkkoa 	 	 	
 , 	 	 	
-WAN      	B-PRO 	B-PRO 	B-PRO
+WAN      			
 taas 	 	 	
 internetiä 	 	 	
 . 	 	 	
@@ -48920,7 +48920,7 @@ tai
 Ota 	 	 	
 käyttöön 	 	 	
 vain 	 	 	
-LAN:ssa    	B-PRO 	B-PRO 	B-PRO
+LAN:ssa    			
 " 	 	 	
 . 	 	 	
  	 	 	
@@ -49444,7 +49444,7 @@ ilmennyt
 harvinaisen 	 	 	
 paljon 	 	 	
 ongelmia 	 	 	
-Windows-tietokoneissa      	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneissa      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Reutersin      	 	B-ORG 	B-ORG
@@ -49775,7 +49775,7 @@ Applea      	 	B-ORG 	B-ORG
 hinataan 	 	 	
 taas 	 	 	
 oikeuteen 	 	 	
-iOS-laitteiden      	B-PRO 	B-PRO 	B-PRO
+iOS-laitteiden      	B-MISC	B-MISC	B-MISC
 tallennustilasta 	 	 	
 . 	 	 	
  	 	 	
