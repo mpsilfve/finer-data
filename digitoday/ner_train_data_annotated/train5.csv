@@ -50372,9 +50372,9 @@ käyttää
 eri 	 	 	
 sähköpostisovelluksilla 	 	 	
 esimerkiksi 	 	 	
-imap-      	B-PRO 	B-PRO 	B-PRO
+imap-      			
 ja 	 	 	
-pop3-protokollien      	B-PRO 	B-PRO 	B-PRO
+pop3-protokollien      			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -50692,7 +50692,7 @@ luultavasti
 miellytä 	 	 	
 kovemman 	 	 	
 luokan 	 	 	
-Windows-puhelinten      	B-PRO 	B-PRO 	B-PRO
+Windows-puhelinten      	B-MISC	B-MISC	B-MISC
 omistajia 	 	 	
 , 	 	 	
 jos 	 	 	
@@ -51993,7 +51993,7 @@ sovelluksia
 pidetään 	 	 	
 turhana 	 	 	
 täytteenä 	 	 	
-Android-puhelimissa      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimissa      	B-MISC 	B-MISC 	B-MISC 
 . 	 	 	
  	 	 	
 Sammobile      	 	B-ORG 	B-ORG
@@ -52372,7 +52372,7 @@ OneNote-muistilappusovellukseen      	B-PRO 	B-PRO 	B-PRO
  	 	 	
 <BODY> 	 	 	
 OneNoten      	B-PRO 	B-PRO 	B-PRO
-Windows-version      	I-PRO 	I-PRO 	I-PRO
+Windows-version      	B-MISC	B-MISC	B-MISC
 käyttäjät 	 	 	
 ovat 	 	 	
 voineet 	 	 	
@@ -52534,8 +52534,8 @@ tiedostoista
 . 	 	 	
  	 	 	
 Microsoftin      	 	B-ORG 	B-ORG
-Office      	B-PRO 	B-PRO 	B-PRO
-blogissa      	I-PRO 	I-PRO 	I-PRO
+Office      		B-ORG	B-ORG
+blogissa      		I-ORG	I-ORG
 tehdään 	 	 	
 suuri 	 	 	
 numero 	 	 	
@@ -53317,7 +53317,7 @@ Mobile      	 	I-ORG 	I-ORG
 joka 	 	 	
 on 	 	 	
 ainoa 	 	 	
-4G-palveluja    	B-MISC 	B-MISC 	B-MISC
+4G-palveluja    			
 tarjoava 	 	 	
 operaattori 	 	 	
 , 	 	 	
@@ -53654,7 +53654,6 @@ kiivaasti
  	 	 	
 – 	 	 	
 AT&amp;T;   	 	B-ORG 	B-ORG
-;      	 	 	I-ORG
 , 	 	 	
 Verizon      	 	B-ORG 	B-ORG
 ja 	 	 	
@@ -53853,7 +53852,7 @@ Applen      	 	B-ORG 	B-ORG
 viimeisintä 	 	 	
 iPhone      	B-PRO 	B-PRO 	B-PRO
 5s      	I-PRO 	I-PRO 	I-PRO
-- 	 	 	
+- 	I-PRO 	I-PRO 	I-PRO 
 ja 	 	 	
 5c-puhelimien      	B-PRO 	B-PRO 	B-PRO
 julkaisua 	 	 	
@@ -53867,7 +53866,7 @@ alla
 Galaxy      	B-PRO 	B-PRO 	B-PRO
 S5      	I-PRO 	I-PRO 	I-PRO
 mini      	I-PRO 	I-PRO 	I-PRO
-- 	 	 	
+- 	I-PRO 	I-PRO 	I-PRO 
 sekä 	 	 	
 Zoom      	B-PRO 	B-PRO 	B-PRO
 -versiot      	I-PRO 	I-PRO 	I-PRO
@@ -53902,7 +53901,7 @@ kamera
 sekä 	 	 	
 Exynos      	B-PRO 	B-PRO 	B-PRO
 6      	I-PRO 	I-PRO 	I-PRO
-- 	 	 	
+- 	I-PRO 	I-PRO 	I-PRO 
 tai 	 	 	
 Snapdragon      	B-PRO 	B-PRO 	B-PRO
 805      	I-PRO 	I-PRO 	I-PRO
@@ -53950,9 +53949,7 @@ huippumalliin
 SamMobilen      	 	B-ORG 	B-ORG
 mukaan 	 	 	
 Galaxy      	B-PRO 	B-PRO 	B-PRO
-S5      	I-PRO 	I-PRO 	I-PRO
-:      	I-PRO 	I-PRO 	I-PRO
-ssä      	I-PRO 	I-PRO 	I-PRO
+S5:ssä	I-PRO 	I-PRO 	I-PRO
 on 	 	 	
 2560x1440 	 	 	
 pikselin 	 	 	
@@ -55332,7 +55329,7 @@ Tässä
 projektissa 	 	 	
 NSN      	 	B-ORG 	B-ORG
 rakentaa 	 	 	
-overlay-lte-verkon      	B-PRO 	B-PRO 	B-PRO
+overlay-lte-verkon      			
 , 	 	 	
 joka 	 	 	
 nopeuttaa 	 	 	
@@ -55510,9 +55507,9 @@ ei
 kuitenkaan 	 	 	
 sulkenut 	 	 	
 pois 	 	 	
-Windows      	B-PRO 	B-PRO 	B-PRO
-Phone      	I-PRO 	I-PRO 	I-PRO
--version      	I-PRO 	I-PRO 	I-PRO
+Windows      	B-MISC	B-MISC	B-MISC
+Phone      	B-MISC	B-MISC	B-MISC
+-version      	B-MISC	B-MISC	B-MISC
 mahdollisuutta 	 	 	
 tulevaisuudessa      	 	 	B-TIM
 , 	 	 	
@@ -56055,7 +56052,7 @@ kävijää
 käyttäjistä 	 	 	
 syö 	 	 	
 puolet 	 	 	
-4g-kaistasta    	B-MISC 	B-MISC 	B-MISC
+4g-kaistasta    			
 — 	 	 	
 Apple-käyttäjät      	B-MISC 	B-MISC 	B-MISC
 ahneimpia 	 	 	
@@ -56066,7 +56063,7 @@ ahneimpia
 <INGRESS> 	 	 	
 Yksi 	 	 	
 tuhannesosa 	 	 	
-lte-palvelujen    	B-MISC 	B-MISC 	B-MISC
+lte-palvelujen    			
 käyttäjistä 	 	 	
 rohmuaa 	 	 	
 yli 	 	 	
@@ -56086,7 +56083,7 @@ iPhone      	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
-4g-lte-verkoissa    	B-MISC 	B-MISC 	B-MISC
+4g-lte-verkoissa    			
 asioivat 	 	 	
 datarohmut 	 	 	
 ovat 	 	 	
@@ -56096,7 +56093,7 @@ ahneempia
 datan 	 	 	
 käyttäjiä 	 	 	
 kuin 	 	 	
-3g-verkkojen    	B-MISC 	B-MISC 	B-MISC
+3g-verkkojen    			
 suursyömärit 	 	 	
 , 	 	 	
 selviää 	 	 	
@@ -56106,7 +56103,7 @@ vuosittaisesta      	 	 	B-TIM
 vertailuraportista 	 	 	
 . 	 	 	
  	 	 	
-3g-verkoissa    	B-MISC 	B-MISC 	B-MISC
+3g-verkoissa    			
 yksi 	 	 	
 prosentti 	 	 	
 käyttäjistä 	 	 	
@@ -56115,7 +56112,7 @@ puolesta
 kaikesta 	 	 	
 dataliikenteestä 	 	 	
 , 	 	 	
-4g:ssä    	B-PRO 	B-PRO 	B-PRO
+4g:ssä    			
 yksi 	 	 	
 promille 	 	 	
 käyttää 	 	 	
@@ -56451,7 +56448,7 @@ on
 vähemmän 	 	 	
 kuin 	 	 	
 mitä 	 	 	
-Android-laitteita      	B-PRO 	B-PRO 	B-PRO
+Android-laitteita      	B-MISC	B-MISC	B-MISC
 myydään 	 	 	
 kolmessa      	 	 	B-TIM
 viikossa      	 	 	I-TIM
@@ -56469,7 +56466,7 @@ kuninkaiksi
 nousevat 	 	 	
 Samsung      	 	B-ORG 	B-ORG
 — 	 	 	
-jaNokia 	 	 	
+jaNokia 	 	B-ORG	B-ORG
  	 	 	
 <DATE> 	 	 	
 22.1.2014 14:36 	 	 	
@@ -56490,7 +56487,7 @@ Tutkimusyhtiö
 Juniper      	 	B-ORG 	B-ORG
 Research      	 	I-ORG 	I-ORG
 ennustaa 	 	 	
-phablet-laitteiden      	B-PRO 	B-PRO 	B-PRO
+phablet-laitteiden      			
 eli 	 	 	
 noin 	 	 	
 kuusituumaisella 	 	 	
@@ -56556,8 +56553,8 @@ johtotähtenä
 toimii 	 	 	
 Samsung      	 	B-ORG 	B-ORG
 , 	 	 	
-Windows-laitteiden      	B-PRO 	B-PRO 	B-PRO
-taas 	 	 	
+Windows-laitteiden      	B-MISC	B-MISC	B-MISC
+taas 		 	
 Nokia      	 	B-ORG 	B-ORG
 . 	 	 	
  	 	 	
@@ -56697,7 +56694,7 @@ tietokannasta
 Vuoden      	 	 	B-TIM
 viimeisellä      	 	 	I-TIM
 kvartaalilla      	 	 	I-TIM
-Android-puhelinten      	B-PRO 	B-PRO 	B-PRO
+Android-puhelinten      	B-MISC	B-MISC	B-MISC
 osuus 	 	 	
 mobiilimainosnäytöistä 	 	 	
 oli 	 	 	
@@ -56723,7 +56720,7 @@ enemmistön
 prosenttia 	 	 	
 . 	 	 	
  	 	 	
-Android-laitteiden      	B-PRO 	B-PRO 	B-PRO
+Android-laitteiden      	B-MISC	B-MISC	B-MISC
 osuus 	 	 	
 oli 	 	 	
 38 	 	 	
@@ -56736,7 +56733,7 @@ markkinaosuus
 oli 	 	 	
 40 	 	 	
 ja 	 	 	
-Android-puhelinten      	B-PRO 	B-PRO 	B-PRO
+Android-puhelinten      	B-MISC	B-MISC	B-MISC
 30 	 	 	
 prosenttia 	 	 	
 . 	 	 	
@@ -57108,7 +57105,7 @@ verkkourakka
 NSN      	 	B-ORG 	B-ORG
 rakentaa 	 	 	
 Elisan      	 	B-ORG 	B-ORG
-4G-verkon    	B-MISC 	B-MISC 	B-MISC
+4G-verkon    			
  	 	 	
 <DATE> 	 	 	
 28.1.2014 09:26 	 	 	
@@ -57130,7 +57127,7 @@ on
 sopinut 	 	 	
 ostavansa 	 	 	
 kaikki 	 	 	
-lte-verkon    	B-MISC 	B-MISC 	B-MISC
+lte-verkon    			
 laitteet 	 	 	
 ja 	 	 	
 ylläpidon 	 	 	
@@ -57243,7 +57240,7 @@ merkittävästi
 kokonaiskustannuksia 	 	 	
 verrattuna 	 	 	
 täyden 	 	 	
-lte-kerroksen    	B-MISC 	B-MISC 	B-MISC
+lte-kerroksen    			
 rakentamiseen 	 	 	
 , 	 	 	
 NSN:n    	 	B-ORG 	B-ORG
@@ -57272,7 +57269,7 @@ taloudellisempaa
 kuin 	 	 	
 kokonaan 	 	 	
 uuden     	 	 	B-TIM
-4G-radioverkon    	B-MISC 	B-MISC 	B-MISC
+4G-radioverkon    			
 rakentaminen 	 	 	
 muiden 	 	 	
 verkkojen 	 	 	
@@ -57314,7 +57311,7 @@ ensimmäiset
 megahertsin 	 	 	
 taajuusaluetta 	 	 	
 käyttävät 	 	 	
-4G-tukiasemansa    	B-MISC 	B-MISC 	B-MISC
+4G-tukiasemansa    			
 heti     	 	 	B-TIM
 kellon 	 	 	
 näyttäessä 	 	 	
@@ -57404,7 +57401,7 @@ entistä
 laajempaa 	 	 	
 peittoa 	 	 	
 nopeille 	 	 	
-4G-mobiilidatapalveluille    	B-MISC 	B-MISC 	B-MISC
+4G-mobiilidatapalveluille    			
 sekä 	 	 	
 parempaa 	 	 	
 sisäpeittoa 	 	 	
@@ -57949,7 +57946,7 @@ laitteen
 Microsoft      	 	B-ORG 	B-ORG
 julkaisee 	 	 	
 laitteen 	 	 	
-Nokia-nimellä      	B-PRO 	B-PRO 	B-PRO
+Nokia-nimellä      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Kakkos- 	 	 	
@@ -58229,7 +58226,7 @@ mobiililaitteiden
 hallintajärjestelmiä 	 	 	
 . 	 	 	
  	 	 	
-Pc-valmistaja    	B-MISC 	B-MISC 	B-MISC
+Pc-valmistaja    			
 Compaqin      	 	B-ORG 	B-ORG
 HP      	 	B-ORG 	B-ORG
 hankki 	 	 	
@@ -58258,7 +58255,7 @@ Diego      	 	I-ORG 	I-ORG
 Globalstar      	 	B-ORG 	B-ORG
 kytkee 	 	 	
 satelliittiyhteyden 	 	 	
-wlan-laitteisiin    	B-MISC 	B-MISC 	B-MISC
+wlan-laitteisiin    			
  	 	 	
 <DATE> 	 	 	
 31.1.2014 07:00 	 	 	
@@ -58334,7 +58331,7 @@ tehokkaat
 gigahertsin 	 	 	
 radiotaajuutta 	 	 	
 käyttävät 	 	 	
-wlan-tukiasemat    	B-MISC 	B-MISC 	B-MISC
+wlan-tukiasemat    			
 . 	 	 	
  	 	 	
 5150-5250 	 	 	
@@ -58412,7 +58409,7 @@ ne
 peittäisivät 	 	 	
 alleen 	 	 	
 sen 	 	 	
-wlan-majakoiden    	B-MISC 	B-MISC 	B-MISC
+wlan-majakoiden    			
 radioyhteydet 	 	 	
 . 	 	 	
  	 	 	
@@ -58435,16 +58432,16 @@ FCC      	 	B-ORG 	B-ORG
 veti 	 	 	
 pois 	 	 	
 toimiluvan 	 	 	
-gps-teollisuuden    	B-MISC 	B-MISC 	B-MISC
+gps-teollisuuden    			
 painostuksesta 	 	 	
 . 	 	 	
  	 	 	
-4G-käyttöön    	B-MISC 	B-MISC 	B-MISC
+4G-käyttöön    			
 rakennetun 	 	 	
 verkon 	 	 	
 radiosignaalit 	 	 	
 häiritsivät 	 	 	
-gps-laitteita    	B-MISC 	B-MISC 	B-MISC
+gps-laitteita    			
 , 	 	 	
 joiden 	 	 	
 valmistajat 	 	 	
@@ -58471,7 +58468,7 @@ ja
 laaja 	 	 	
 käyttö 	 	 	
 Globalstarin      	 	B-ORG 	B-ORG
-satelliitti-wlan-verkkoa    	B-MISC 	B-MISC 	B-MISC
+satelliitti-wlan-verkkoa    			
 . 	 	 	
  	 	 	
 Kumpikin 	 	 	
@@ -58959,7 +58956,7 @@ Nokialta      	 	B-ORG 	B-ORG
 odotetaan 	 	 	
 useita 	 	 	
 uusia     	 	 	B-TIM
-Lumia-julkistuksia      	B-PRO 	B-PRO 	B-PRO
+Lumia-julkistuksia      	B-MISC	B-MISC	B-MISC
 Barcelonassa      	 	B-LOC 	B-LOC
 vajaan      	 	 	B-TIM
 kuukauden      	 	 	I-TIM
@@ -59687,7 +59684,7 @@ iPhone      	I-PRO 	I-PRO 	I-PRO
 Nokia      	B-PRO 	B-PRO 	B-PRO
 301      	I-PRO 	I-PRO 	I-PRO
  	 	 	
-8.   	I-PRO 	I-PRO 	I-PRO
+8.   		I-PRO 	I-PRO
 Samsung      	B-PRO 	B-PRO 	B-PRO
 Galaxy      	I-PRO 	I-PRO 	I-PRO
 Ace      	I-PRO 	I-PRO 	I-PRO
@@ -59824,7 +59821,7 @@ kilpailua
 — 	 	 	
 satelliittimokkula 	 	 	
 tuo 	 	 	
-wlanin    	B-PRO 	B-PRO 	B-PRO
+wlanin    			
 puhelinverkkojenulkopuolelle 	 	 	
  	 	 	
 <DATE> 	 	 	
@@ -59861,7 +59858,7 @@ lupaa
 älypuhelimille 	 	 	
 ja 	 	 	
 taulutietokoneille 	 	 	
-wlan-pohjaisia    	B-MISC 	B-MISC 	B-MISC
+wlan-pohjaisia    			
 yhteyksiä 	 	 	
 myös 	 	 	
 sellaisiin 	 	 	
@@ -59882,7 +59879,7 @@ Se
 odottaa 	 	 	
 lupaa 	 	 	
 voimakastehoiselle 	 	 	
-wlan-verkolle    	B-MISC 	B-MISC 	B-MISC
+wlan-verkolle    			
 Yhdysvaltain      	 	B-ORG 	B-ORG
 viestintävirastolta      	 	I-ORG 	I-ORG
 . 	 	 	
@@ -59915,10 +59912,10 @@ käyttäjäjoukolle
 Satelliittimokkulaa 	 	 	
 voi 	 	 	
 käyttää 	 	 	
-wlan-tukiasemana    	B-MISC 	B-MISC 	B-MISC
+wlan-tukiasemana    			
 jopa 	 	 	
 viidelle 	 	 	
-wlan-laitteelle    	B-MISC 	B-MISC 	B-MISC
+wlan-laitteelle    			
 . 	 	 	
  	 	 	
 Iridium      	B-PRO 	B-PRO 	B-PRO
