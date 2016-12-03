@@ -60491,7 +60491,7 @@ Windows      	B-PRO 	B-PRO 	B-PRO
 Phone      	I-PRO 	I-PRO 	I-PRO
 -käyttöjärjestelmä      	I-PRO 	I-PRO 	I-PRO
 tarjoaa 	 	 	
-iOS-laitteita      	B-PRO 	B-PRO 	B-PRO
+iOS-laitteita      	B-MISC	B-MISC	B-MISC
 joustavamman 	 	 	
 tavan 	 	 	
 muokata 	 	 	
@@ -61412,7 +61412,7 @@ Bumpin      	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 Flockin      	B-PRO 	B-PRO 	B-PRO
 , 	 	 	
-Bumpin      	B-PRO 	B-PRO 	B-PRO
+Bumpin      	B-ORG	B-ORG	B-ORG
 perustaja      	 	B-TIT 	B-TIT
 ja 	 	 	
 pääjohtaja      	 	B-TIT 	B-TIT
@@ -61897,7 +61897,7 @@ Puhelinta
 kritisoitiin 	 	 	
 muun 	 	 	
 muassa 	 	 	
-3g-verkkojen    	B-MISC 	B-MISC 	B-MISC
+3g-verkkojen    			
 tuen 	 	 	
 puutteesta 	 	 	
 sekä 	 	 	
@@ -62375,7 +62375,7 @@ varmuuskopioimiseen
  	 	 	
 <HEADLINE> 	 	 	
 Lumian      	B-PRO 	B-PRO 	B-PRO
-Black-päivitys      	I-PRO 	I-PRO 	I-PRO
+Black-päivitys      	B-PRO 	B-PRO 	B-PRO 
 tulee 	 	 	
 — 	 	 	
 näin 	 	 	
@@ -62633,7 +62633,7 @@ kartalle
 kuvien 	 	 	
 aikaleimojen 	 	 	
 ja 	 	 	
-gps-koordinaattien    	B-MISC 	B-MISC 	B-MISC
+gps-koordinaattien    			
 perusteella 	 	 	
 . 	 	 	
  	 	 	
@@ -62645,7 +62645,7 @@ sisältöä
 nähtäväksi 	 	 	
 ulkoiselle 	 	 	
 , 	 	 	
-html5:ttä    	B-PRO 	B-PRO 	B-PRO
+html5:ttä    			
 ymmärtävälle 	 	 	
 näytölle 	 	 	
 . 	 	 	
@@ -62653,7 +62653,7 @@ näytölle
 Nokia      	 	B-ORG 	B-ORG
 päivittää 	 	 	
 myös 	 	 	
-bluetoothia      	B-PRO 	B-PRO 	B-PRO
+bluetoothia      			
 low 	 	 	
 energy 	 	 	
 -versioon 	 	 	
@@ -62766,7 +62766,7 @@ aikana
  	 	 	
 Tulevaisuudessa      	 	 	B-TIM
 myös 	 	 	
-4G-palvelut    	B-MISC 	B-MISC 	B-MISC
+4G-palvelut    			
 tulevat 	 	 	
 saataville 	 	 	
 tunnelin 	 	 	
@@ -62824,7 +62824,7 @@ tyytyä
 pohjoistunnelissa 	 	 	
 edelleen    	 	 	B-TIM
 maksullisiin 	 	 	
-wlan-palveluihin    	B-MISC 	B-MISC 	B-MISC
+wlan-palveluihin    			
 . 	 	 	
  	 	 	
 Asiasta 	 	 	
@@ -63396,7 +63396,7 @@ hinnalla
 . 	 	 	
  	 	 	
 Halvimmatkin 	 	 	
-Windows-puhelimet      	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimet      	B-MISC	B-MISC	B-MISC
 maksavat 	 	 	
 vielä 	 	 	
 reilusti 	 	 	
@@ -63530,7 +63530,7 @@ aikansa      	 	 	B-TIM
 DNA      	 	B-ORG 	B-ORG
 lupaa 	 	 	
 aidon 	 	 	
-4G:n    	B-PRO 	B-PRO 	B-PRO
+4G:n    			
 80 	 	 	
 prosentille 	 	 	
 suomalaisista 	 	 	
@@ -63541,7 +63541,7 @@ suomalaisista
 <INGRESS> 	 	 	
 DNA:n      	 	B-ORG 	B-ORG
 aito 	 	 	
-4G-verkko    	B-MISC 	B-MISC 	B-MISC
+4G-verkko    			
 laajenee 	 	 	
 kattamaan 	 	 	
 80 	 	 	
@@ -63559,9 +63559,9 @@ DNA      	 	B-ORG 	B-ORG
 sanoo 	 	 	
 käynnistävänsä 	 	 	
 useita 	 	 	
-4G    	B-MISC 	B-MISC 	B-MISC
-lte    	I-MISC 	I-MISC 	I-MISC
--tukiasemia    	I-MISC 	I-MISC 	I-MISC
+4G    			
+lte    			
+-tukiasemia    			
 päivässä      	 	 	B-TIM
 ja 	 	 	
 tuhansia 	 	 	
@@ -63616,9 +63616,9 @@ tiedotteen
 mukaan 	 	 	
 kaupungin 	 	 	
 kattavia 	 	 	
-4G    	B-MISC 	B-MISC 	B-MISC
-lte    	I-MISC 	I-MISC 	I-MISC
--verkkoja    	I-MISC 	I-MISC 	I-MISC
+4G    			
+lte    			
+-verkkoja    			
 tihennetään 	 	 	
 ja 	 	 	
 laajennetaan 	 	 	
@@ -63657,9 +63657,9 @@ Vantaa      	 	B-LOC 	B-LOC
  	 	 	
 Kaupunkikeskustat 	 	 	
 kattavia 	 	 	
-4G    	B-MISC 	B-MISC 	B-MISC
-lte    	I-MISC 	I-MISC 	I-MISC
--verkkoja    	I-MISC 	I-MISC 	I-MISC
+4G    			
+lte    			
+-verkkoja    			
 laajennetaan 	 	 	
 kaupungin 	 	 	
 taajama-alueille 	 	 	
@@ -63740,9 +63740,9 @@ mukaan
 vuoden      	 	 	B-TIM
 vaihteessa      	 	 	I-TIM
 260 	 	 	
-4G    	B-MISC 	B-MISC 	B-MISC
-lte    	I-MISC 	I-MISC 	I-MISC
--verkkoa    	I-MISC 	I-MISC 	I-MISC
+4G    			
+lte    			
+-verkkoa    			
 oli 	 	 	
 avattu 	 	 	
 kaupalliseen 	 	 	
@@ -63771,7 +63771,7 @@ parhaillaan     	 	 	B-TIM
 kaupallisiin 	 	 	
 ja 	 	 	
 suunniteltuihin 	 	 	
-lte-verkkoihin    	B-MISC 	B-MISC 	B-MISC
+lte-verkkoihin    			
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -63861,7 +63861,7 @@ takakannen
 näyttö 	 	 	
 on 	 	 	
 4,7-tuumainen 	 	 	
-e-ink-näyttö      	B-MISC 	B-MISC 	B-MISC
+e-ink-näyttö      			
 , 	 	 	
 joka 	 	 	
 toistaa 	 	 	
@@ -64044,7 +64044,7 @@ on
 kuin 	 	 	
 mikä 	 	 	
 tahansa 	 	 	
-Android-puhelin      	B-PRO 	B-PRO 	B-PRO
+Android-puhelin      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Käyttöjärjestelmänä 	 	 	
@@ -64115,7 +64115,7 @@ voi
 käyttää 	 	 	
 normaaliin 	 	 	
 tapaan 	 	 	
-e-ink-näytön      	B-MISC 	B-MISC 	B-MISC
+e-ink-näytön      			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -64125,7 +64125,7 @@ nimellä
 YotaMirror      	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
-E-ink-näyttö      	B-MISC 	B-MISC 	B-MISC
+E-ink-näyttö      			
 vastaa 	 	 	
 kosketukseen 	 	 	
 hieman 	 	 	
@@ -64449,7 +64449,7 @@ täydellinen
 En 	 	 	
 oikeastaan 	 	 	
 käyttänyt 	 	 	
-e-ink-takanäyttöä      	B-MISC 	B-MISC 	B-MISC
+e-ink-takanäyttöä      			
 kovinkaan 	 	 	
 paljon 	 	 	
 , 	 	 	
@@ -64498,7 +64498,7 @@ ei
 . 	 	 	
  	 	 	
 Toivottavasti 	 	 	
-e-ink-näytölle      	B-MISC 	B-MISC 	B-MISC
+e-ink-näytölle      			
 kehitetään 	 	 	
 yhä 	 	 	
 enemmän 	 	 	
@@ -64861,7 +64861,7 @@ vaikeudesta
 kun 	 	 	
 käyttäjä 	 	 	
 siirtyi 	 	 	
-Windows-puhelimista      	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimista      	B-MISC	B-MISC	B-MISC
 tutun 	 	 	
 ruutunäkymän 	 	 	
 sekä 	 	 	
@@ -65046,8 +65046,7 @@ lippulaivapuhelimeen
 Galaxy      	I-PRO 	I-PRO 	I-PRO
 S6      	I-PRO 	I-PRO 	I-PRO
 "      	I-PRO 	I-PRO 	I-PRO
-:      	I-PRO 	I-PRO 	I-PRO
-een      	I-PRO 	I-PRO 	I-PRO
+:een	I-PRO 	I-PRO 	I-PRO
 . 	 	 	
  	 	 	
 Tulevasta 	 	 	
@@ -65130,8 +65129,8 @@ muotoilua
 Samsung      	 	B-ORG 	B-ORG
 ja 	 	 	
 muut 	 	 	
-Android-puhelimien      	B-PRO 	B-PRO 	B-PRO
-valmistajat 	 	 	
+Android-puhelimien      	B-MISC	B-MISC	B-MISC
+valmistajat 		 	
 jäivät 	 	 	
 Applen      	 	B-ORG 	B-ORG
 jyrän 	 	 	
@@ -65146,7 +65145,7 @@ Researchin      	 	I-ORG 	I-ORG
 maanantaisten      	 	 	B-TIM
 lukujen 	 	 	
 mukaan 	 	 	
-Android-toimitukset 	 	 	
+Android-toimitukset 	B-MISC	B-MISC	B-MISC
 kutistuivat 	 	 	
 heinä–syyskuun      	 	B-DATE 	B-TIM
 217 	 	 	
@@ -65613,7 +65612,7 @@ prosenttia
 koostui 	 	 	
 erilaisista 	 	 	
 itsenäisistä 	 	 	
-Android-versioista      	B-PRO 	B-PRO 	B-PRO
+Android-versioista      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Cyanogenin      	 	B-ORG 	B-ORG
@@ -65752,7 +65751,7 @@ Kun
 asia 	 	 	
 tuli 	 	 	
 julkisuuteen 	 	 	
-Elliot.org-blogissa    	B-PRO 	B-PRO 	B-PRO
+Elliot.org-blogissa    	B-ORG	B-ORG	B-ORG
 , 	 	 	
 kävi 	 	 	
 ilmi 	 	 	
@@ -65974,7 +65973,7 @@ tutkitaan
 Vuoden      	 	 	B-TIM
 alun      	 	 	I-TIM
 kuluttajaelektroniikan 	 	 	
-CES-tapahtumassa      	B-PRO 	B-PRO 	B-PRO
+CES-tapahtumassa      	B-EVENT	B-EVENT	B-EVENT
 Comcastin      	 	B-ORG 	B-ORG
 toimitusjohtaja      	 	B-TIT 	B-TIT
 Neil      	 	B-PER 	B-PER
@@ -66907,7 +66906,7 @@ voitollisuudesta
 " 	 	 	
 300      	 	 	B-TIM
 vuoden      	 	 	I-TIM
-Nokia-kokemus 	 	 	
+Nokia-kokemus 	B-MISC	B-MISC	B-MISC
 " 	 	 	
 - 	 	 	
 Yotaphone      	B-PRO 	B-PRO 	B-PRO
@@ -67139,7 +67138,7 @@ on
 sähköisissä 	 	 	
 lukulaitteissa 	 	 	
 käytetty 	 	 	
-e-ink-näyttö      	B-MISC 	B-MISC 	B-MISC
+e-ink-näyttö      			
 , 	 	 	
 joka 	 	 	
 kuluttaa 	 	 	
@@ -67246,7 +67245,7 @@ myöhemmin      	 	 	B-TIM
 päivittää 	 	 	
 Androidin      	B-PRO 	B-PRO 	B-PRO
 uusin 	 	 	
-5.0      	B-PRO 	B-PRO 	B-PRO
+5.0      			
 eli 	 	 	
 Lollipop      	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
@@ -67256,7 +67255,7 @@ Android-sovelluksia
 voi 	 	 	
 käyttää 	 	 	
 takakannen 	 	 	
-e-ink-näytöllä      	B-MISC 	B-MISC 	B-MISC
+e-ink-näytöllä      			
 . 	 	 	
  	 	 	
 Yota      	 	B-ORG 	B-ORG
@@ -67349,14 +67348,14 @@ käytössä
 oli 	 	 	
 vain 	 	 	
 mustavalkoisia 	 	 	
-e-ink-näyttöjä      	B-MISC 	B-MISC 	B-MISC
+e-ink-näyttöjä      			
 , 	 	 	
 Hekkala      	 	B-PER 	B-PER
 sanoo 	 	 	
 . 	 	 	
  	 	 	
 Värillinen 	 	 	
-e-ink-takanäyttö      	B-MISC 	B-MISC 	B-MISC
+e-ink-takanäyttö      			
 on 	 	 	
 kuitenkin 	 	 	
 vahvasti 	 	 	
@@ -67894,7 +67893,7 @@ prosenttia
 Toiseksi 	 	 	
 eniten 	 	 	
 toimitettiin 	 	 	
-Nokia-Microsoft-puhelimia      	B-PRO 	B-PRO 	B-PRO
+Nokia-Microsoft-puhelimia      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Niiden 	 	 	
@@ -68161,7 +68160,7 @@ omaa
 Krait-suoritinta      	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
-810-piirisarjassa      	B-PRO 	B-PRO 	B-PRO
+810-piirisarjassa      			
 käytettiin 	 	 	
 ARM:lta    	 	B-ORG 	B-ORG
 lisensoitua 	 	 	
@@ -68176,7 +68175,7 @@ ratkaisun
  	 	 	
 <HEADLINE> 	 	 	
 Uudessa     	 	 	B-TIM
-iPhone-päivityksessä      	B-PRO 	B-PRO 	B-PRO
+iPhone-päivityksessä      	B-MISC	B-MISC	B-MISC
 salattu 	 	 	
 , 	 	 	
 mutta 	 	 	
@@ -68406,7 +68405,7 @@ vasteaikaan
 vaikuttaneen 	 	 	
 virheen 	 	 	
 sekä 	 	 	
-Bluetooth-näppäimistöihin      	B-MISC 	B-MISC 	B-MISC
+Bluetooth-näppäimistöihin      			
 liittyvän 	 	 	
 virheen 	 	 	
 . 	 	 	
@@ -69428,7 +69427,7 @@ pelastus
 on 	 	 	
 Sailfish-järjestelmän      	B-PRO 	B-PRO 	B-PRO
 yhteensopivuus 	 	 	
-Android-ohjelmien      	B-PRO 	B-PRO 	B-PRO
+Android-ohjelmien      	B-MISC	B-MISC	B-MISC
 kanssa 	 	 	
 . 	 	 	
  	 	 	
@@ -69474,11 +69473,11 @@ Yandexista      	B-PRO 	B-PRO 	B-PRO
 löytyvät 	 	 	
 muun 	 	 	
 maussa 	 	 	
-Facebook-      	B-MISC 	B-MISC 	B-MISC
+Facebook-      	B-PRO	B-PRO	B-PRO
 , 	 	 	
-Twitter-      	B-MISC 	B-MISC 	B-MISC
+Twitter-      	B-PRO	B-PRO	B-PRO
 ja 	 	 	
-Spotify-sovellukset      	B-MISC 	B-MISC 	B-MISC
+Spotify-sovellukset      	B-PRO	B-PRO	B-PRO
 . 	 	 	
  	 	 	
 Yandexia      	B-PRO 	B-PRO 	B-PRO
@@ -69746,7 +69745,7 @@ vastaan
 kahlaa 	 	 	
 myös 	 	 	
 Microsoft/Nokia    	 	B-ORG 	B-ORG
-Windows-puhelimillaan      	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimillaan      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Lumia-puhelimilla      	B-PRO 	B-PRO 	B-PRO
