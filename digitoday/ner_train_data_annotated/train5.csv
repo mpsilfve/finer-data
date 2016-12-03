@@ -70108,10 +70108,10 @@ Nokia      	 	B-ORG 	B-ORG
 on 	 	 	
 säilyttänyt 	 	 	
 asemansa 	 	 	
-4g    	B-PRO 	B-PRO 	B-PRO
-lte    	I-PRO 	I-PRO 	I-PRO
--teknologian    	I-PRO 	I-PRO 	I-PRO
-kärjessä 	 	 	
+4g    			
+lte    			
+-teknologian    			
+kärjessä 	 		
 kolmatta      	 	 	B-TIM
 vuotta      	 	 	I-TIM
 peräkkäin      	 	 	I-TIM
@@ -70133,7 +70133,7 @@ neljännen
 sukupolven 	 	 	
 matkapuhelinverkkojen 	 	 	
 kärkiteknologian 	 	 	
-lte-toimittajien    	B-MISC 	B-MISC 	B-MISC
+lte-toimittajien    			
 vertailussa 	 	 	
 . 	 	 	
  	 	 	
@@ -70148,7 +70148,7 @@ jo
 138 	 	 	
 kaupallista 	 	 	
 referenssiä 	 	 	
-lte-toimituksista    	B-MISC 	B-MISC 	B-MISC
+lte-toimituksista    			
 . 	 	 	
  	 	 	
 Vertailun 	 	 	
@@ -70228,7 +70228,7 @@ verkkotoimittajat
 pystyvät 	 	 	
 toimittamaan 	 	 	
 kaikenkattavia 	 	 	
-lte-sovelluksia    	B-MISC 	B-MISC 	B-MISC
+lte-sovelluksia    			
 ja 	 	 	
 esimerkiksi 	 	 	
 Nokia      	 	B-ORG 	B-ORG
@@ -70268,7 +70268,7 @@ pystyy
 ottaman 	 	 	
 käyttöön 	 	 	
 täyden 	 	 	
-lte-ytimen    	B-MISC 	B-MISC 	B-MISC
+lte-ytimen    			
 , 	 	 	
 mukaan 	 	 	
 lukien 	 	 	
@@ -70989,7 +70989,7 @@ jotka
 ovat 	 	 	
 elintärkeitä 	 	 	
 matkalla 	 	 	
-5G:hen    	B-PRO 	B-PRO 	B-PRO
+5G:hen    			
 . 	 	 	
  	 	 	
 Jakautuvan 	 	 	
@@ -71054,7 +71054,7 @@ AT&amp;T;    	 	B-ORG 	B-ORG
 lähtee 	 	 	
 kilpailuun 	 	 	
 lentomatkustajien 	 	 	
-4G-yhteyksistä    	B-MISC 	B-MISC 	B-MISC
+4G-yhteyksistä    			
  	 	 	
 <DATE> 	 	 	
 29.4.2014 07:08 	 	 	
@@ -71067,7 +71067,7 @@ AT&amp;T;    	 	B-ORG 	B-ORG
 rakentaa 	 	 	
 lentomatkustajille 	 	 	
 oman 	 	 	
-4G-lte-verkon    	B-MISC 	B-MISC 	B-MISC
+4G-lte-verkon    			
 . 	 	 	
  	 	 	
 Se 	 	 	
@@ -71368,7 +71368,7 @@ esimerkiksi
 iPhonen      	B-PRO 	B-PRO 	B-PRO
 liikeantureita 	 	 	
 tai 	 	 	
-gps-dataa    	B-MISC 	B-MISC 	B-MISC
+gps-dataa    			
 . 	 	 	
  	 	 	
 Tarkoitus 	 	 	
@@ -71394,7 +71394,7 @@ Oletettavasti
 Apple      	 	B-ORG 	B-ORG
 käyttäisi 	 	 	
 hyväkseen 	 	 	
-CarPlay-teknologiaansa      	B-MISC 	B-MISC 	B-MISC
+CarPlay-teknologiaansa      	B-PRO	B-PRO	B-PRO
 , 	 	 	
 joka 	 	 	
 sitä 	 	 	
@@ -71616,7 +71616,7 @@ tähän      	 	 	B-TIM
 asti      	 	 	I-TIM
 valmistanut 	 	 	
 edullisia 	 	 	
-Android-puhelimia      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimia      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
@@ -71625,7 +71625,7 @@ matkapuhelinvalmistaja
 BLU      	 	B-ORG 	B-ORG
 ryhtyy 	 	 	
 valmistamaan 	 	 	
-Windows-puhelimia      	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimia      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Yhtiö 	 	 	
@@ -71647,7 +71647,7 @@ BLU      	 	B-ORG 	B-ORG
 on 	 	 	
 aiemmin      	 	 	B-TIM
 tunnettu 	 	 	
-Android-puhelimien      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimien      	B-MISC	B-MISC	B-MISC
 sopimusvalmistajana 	 	 	
 . 	 	 	
  	 	 	
@@ -72018,7 +72018,7 @@ Motorolan      	 	B-ORG 	B-ORG
 LG:n      	 	B-ORG 	B-ORG
 ja 	 	 	
 Samsungin      	 	B-ORG 	B-ORG
-Android-puhelimilta      	B-PRO 	B-PRO 	B-PRO
+Android-puhelimilta      	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Sunnebo      	 	B-PER 	B-PER
@@ -72255,7 +72255,7 @@ näkynyt
  	 	 	
 <HEADLINE> 	 	 	
 Asiakkaiden 	 	 	
-wlaneista     	B-PRO 	B-PRO 	B-PRO
+wlaneista     			
 nuivaillut 	 	 	
 hotelliketju 	 	 	
 sai 	 	 	
@@ -72309,7 +72309,7 @@ estävät
 kuluttajia 	 	 	
 käyttämästä 	 	 	
 omia 	 	 	
-wlan-palveluita     	B-MISC 	B-MISC 	B-MISC
+wlan-palveluita     			
 tiloissaan 	 	 	
 , 	 	 	
 FCC      	 	B-ORG 	B-ORG
@@ -72367,7 +72367,7 @@ luvan
 estää 	 	 	
 vieraiden 	 	 	
 omat 	 	 	
-wlan-yhteydet     	B-MISC 	B-MISC 	B-MISC
+wlan-yhteydet     			
 . 	 	 	
  	 	 	
 Nykyään      	 	 	B-TIM
@@ -72381,7 +72381,7 @@ on
 Se 	 	 	
 voi 	 	 	
 toimia 	 	 	
-wlan-palvelupisteenä     	B-MISC 	B-MISC 	B-MISC
+wlan-palvelupisteenä     			
 usealle 	 	 	
 tietokoneelle 	 	 	
 , 	 	 	
@@ -72564,7 +72564,7 @@ mobiilisuorittimia
 erityisesti 	 	 	
 fuusioimalla 	 	 	
 mobiilisuorittimiin 	 	 	
-lte-modeemin    	B-MISC 	B-MISC 	B-MISC
+lte-modeemin    			
 . 	 	 	
  	 	 	
 Sen 	 	 	
@@ -72954,20 +72954,20 @@ kaiuttomassa
 laboratoriossa 	 	 	
 eri 	 	 	
 asennoissa 	 	 	
-wifi-    	B-MISC 	B-MISC 	B-MISC
-, 	 	 	
-4g    	B-MISC 	B-MISC 	B-MISC
-data- 	 	 	
-, 	 	 	
-3g    	B-MISC 	B-MISC 	B-MISC
-puhe- 	 	 	
-ja 	 	 	
-2g    	B-MISC 	B-MISC 	B-MISC
+wifi-    			
+, 			
+4g    			
+data- 		 	
+, 		 	
+3g    			
+puhe- 		 	
+ja 		 	
+2g    			
 puhe 	 	 	
 -suorituskyvyltään 	 	 	
 . 	 	 	
  	 	 	
-3g    	B-PRO 	B-PRO 	B-PRO
+3g    			
 datan 	 	 	
 testaaminen 	 	 	
 on 	 	 	
@@ -73970,7 +73970,7 @@ ja
 SK      	 	B-ORG 	B-ORG
 Telecom      	 	I-ORG 	I-ORG
 rakentavat 	 	 	
-5g-testiympäristön    	B-MISC 	B-MISC 	B-MISC
+5g-testiympäristön    			
  	 	 	
 <DATE> 	 	 	
 23.1.2015 07:15 	 	 	
@@ -73986,7 +73986,7 @@ Telecom      	 	I-ORG 	I-ORG
 ovat 	 	 	
 allekirjoittaneet 	 	 	
 aiesopimuksen 	 	 	
-5g-teknologioiden    	B-PRO 	B-PRO 	B-PRO
+5g-teknologioiden    			
 kehittämisyhteistyöstä 	 	 	
 . 	 	 	
  	 	 	
@@ -74045,7 +74045,7 @@ gigahertsin
 taajuusalueelle 	 	 	
 . 	 	 	
  	 	 	
-5g-verkoissa    	B-MISC 	B-MISC 	B-MISC
+5g-verkoissa    			
 päästään 	 	 	
 gigabitin 	 	 	
 sekuntinopeuteen 	 	 	
@@ -74105,7 +74105,7 @@ joka
 kehitettiin 	 	 	
 osapuolien 	 	 	
 ensimmäisen 	 	 	
-5g-yhteistoimintasopimuksen     	B-MISC 	B-MISC 	B-MISC
+5g-yhteistoimintasopimuksen     			
 alaisuudessa 	 	 	
 . 	 	 	
  	 	 	
@@ -74124,7 +74124,7 @@ Etelä-Korean      	 	B-LOC 	B-LOC
 matkapuhelinmarkkinoista 	 	 	
 , 	 	 	
 rakentavat 	 	 	
-5g-testiympäristön     	B-MISC 	B-MISC 	B-MISC
+5g-testiympäristön     			
 operaattorin 	 	 	
 tutkimuskeskukseen 	 	 	
 Bundangiin      	 	B-LOC 	B-LOC
@@ -74631,7 +74631,7 @@ kuitenkaan
 ainakaan 	 	 	
 toistaiseksi      	 	 	B-TIM
 toimi 	 	 	
-iOS-laitteissa      	B-PRO 	B-PRO 	B-PRO
+iOS-laitteissa      	B-MISC	B-MISC	B-MISC
 Applen      	 	B-ORG 	B-ORG
 alustan 	 	 	
 rajoitusten 	 	 	
