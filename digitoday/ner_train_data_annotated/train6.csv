@@ -85099,7 +85099,7 @@ olevamme
 näin 	 	 	
 ymmällään 	 	 	
 , 	 	 	
-Dawn-tehtävän       	B-PRO 	B-PRO 	B-PRO
+Dawn-tehtävän       	B-MISC	B-MISC	B-MISC
 tutkija       	 	B-TIT 	B-TIT
 Chris       	 	B-PER 	B-PER
 Russell       	 	I-PER 	I-PER
@@ -85230,7 +85230,7 @@ ja
 takaisin 	 	 	
 linjoilla 	 	 	
 , 	 	 	
-Rosetta-tehtävän       	B-PRO 	B-PRO 	B-PRO
+Rosetta-tehtävän       	B-MISC	B-MISC	B-MISC
 johtaja       	 	B-TIT 	B-TIT
 Fred       	 	B-PER 	B-PER
 Jansen       	 	I-PER 	I-PER
@@ -86092,9 +86092,9 @@ kokosi
 yhteen 	 	 	
 viimeaikaisia       	 	 	B-TIM
 tiedonjyviä 	 	 	
-Seeking       	B-PRO 	B-PRO 	B-PRO
-Alpha       	I-PRO 	I-PRO 	I-PRO
--blogiin       	I-PRO 	I-PRO 	I-PRO
+Seeking       		B-ORG	B-ORG
+Alpha       		I-ORG	I-ORG
+-blogiin       		I-ORG	I-ORG
 ja 	 	 	
 päätteli 	 	 	
 Applen       	 	B-ORG 	B-ORG
@@ -87353,9 +87353,9 @@ Jatkotutkimuksissa
 selvisi 	 	 	
 , 	 	 	
 että 	 	 	
-PFPE-lyhenteellä       	B-PRO 	B-PRO 	B-PRO
-tunnettu       	I-PRO 	I-PRO 	I-PRO
-polymeeri       	I-PRO 	I-PRO 	I-PRO
+PFPE-lyhenteellä       			
+tunnettu       			
+polymeeri       			
 poikkeaa 	 	 	
 useimmista 	 	 	
 muista 	 	 	
@@ -87383,7 +87383,7 @@ kirjoitetaan
 . 	 	 	
  	 	 	
 Artikkeli 	 	 	
-PFPE:n     	B-PRO 	B-PRO 	B-PRO
+PFPE:n     			
 mahdollisuuksista 	 	 	
 litiumioniakkujen 	 	 	
 elektrolyyttinä 	 	 	
@@ -88686,7 +88686,7 @@ miljoonaa
 dollaria 	 	 	
 tilivuodelle       	 	 	B-TIM
 2016       	 	B-DATE 	I-TIM
-Europa-tehtävän       	B-PRO 	B-PRO 	B-PRO
+Europa-tehtävän       	B-MISC	B-MISC	B-MISC
 hahmottamiseksi 	 	 	
 . 	 	 	
  	 	 	
@@ -89680,8 +89680,8 @@ suotuisalla
 vyöhykkeellä 	 	 	
 . 	 	 	
  	 	 	
-Kepler-186f:n     	B-PRO 	B-PRO 	B-PRO
-koostumuksesta 	 	 	
+Kepler-186f:n     		B-LOC 	B-LOC
+koostumuksesta 		 	
 ei 	 	 	
 ole 	 	 	
 tietoa 	 	 	
@@ -89742,7 +89742,7 @@ planeetalla
 on 	 	 	
 . 	 	 	
  	 	 	
-Kepler-186f:ää     	B-PRO 	B-PRO 	B-PRO
+Kepler-186f:ää     		B-LOC 	B-LOC
 voidaan 	 	 	
 ajatella 	 	 	
 maapallon 	 	 	
@@ -89787,7 +89787,7 @@ ja
 prosenttia 	 	 	
 maapalloa 	 	 	
 isompi 	 	 	
-Kepler-62f       	B-PRO 	B-PRO 	B-PRO
+Kepler-62f       		B-LOC 	B-LOC
 . 	 	 	
  	 	 	
 Kepler-kaukoputken       	B-PRO 	B-PRO 	B-PRO
@@ -90288,7 +90288,7 @@ mukaan
 Myös 	 	 	
 Prime       	 	B-ORG 	B-ORG
 Airin       	 	I-ORG 	I-ORG
-UKK-sivuilla       	B-PRO 	B-PRO 	B-PRO
+UKK-sivuilla       			
 vakuutetaan 	 	 	
 edelleen     	 	 	B-TIM
 , 	 	 	
@@ -92111,7 +92111,9 @@ miehistölle
 myös 	 	 	
 sille 	 	 	
 koneveikoll 	 	 	
-e. 	 	 	
+e	 	 	
+.			
+			
 Laukaisun 	 	 	
 piti 	 	 	
 tapahtua 	 	 	
@@ -93655,7 +93657,7 @@ kaiuttimet
  	 	 	
 Hänen 	 	 	
 mukaansa 	 	 	
-Minecraft-demo       	B-PRO 	B-PRO 	B-PRO
+Minecraft-demo       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 neljästä 	 	 	
 esitetystä 	 	 	
@@ -93873,7 +93875,7 @@ alueen
 kartta 	 	 	
 . 	 	 	
  	 	 	
-Pc:n     	B-PRO 	B-PRO 	B-PRO
+Pc:n     			
 näytöllä 	 	 	
 olevan 	 	 	
 kartan 	 	 	
@@ -94123,7 +94125,7 @@ käskystä
  	 	 	
 <INGRESS> 	 	 	
 Nintendon       	 	B-ORG 	B-ORG
-Mario-pelihahmo       	B-PRO 	B-PRO 	B-PRO
+Mario-pelihahmo       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 saanut 	 	 	
 tekoälyn 	 	 	
@@ -94710,7 +94712,7 @@ Konseptin
 mukaan 	 	 	
 matka 	 	 	
 taittuisi 	 	 	
-35       	 	B-OUTSIDE 	B-OUTSIDE
+35       	 		B-TIM
 minuutissa       	 	 	B-TIM
 , 	 	 	
 kun 	 	 	
@@ -96098,7 +96100,7 @@ meitä
 odottaa 	 	 	
 yllätys 	 	 	
 , 	 	 	
-Dawn-tehtävän       	B-PRO 	B-PRO 	B-PRO
+Dawn-tehtävän       	B-MISC	B-MISC	B-MISC
 tutkija       	 	B-TIT 	B-TIT
 Christopher       	 	B-PER 	B-PER
 Russell       	 	I-PER 	I-PER
@@ -98906,7 +98908,7 @@ WhatsAppin       	B-PRO 	B-PRO 	B-PRO
 tuomiseksi 	 	 	
 pc:lle 	 	 	
 esimerkiksi 	 	 	
-Android-emulaattori       	B-PRO 	B-PRO 	B-PRO
+Android-emulaattori       	B-MISC	B-MISC	B-MISC
 asentamalla 	 	 	
 , 	 	 	
 mutta 	 	 	
