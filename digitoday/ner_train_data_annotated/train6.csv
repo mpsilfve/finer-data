@@ -101129,11 +101129,11 @@ kyseessä
 on 	 	 	
 operaattorilukitsematon 	 	 	
 , 	 	 	
-PrivatOS-nimiseen       	B-PRO 	B-PRO 	B-PRO
-muokattuun       	I-PRO 	I-PRO 	I-PRO
-Androidiin       	I-PRO 	I-PRO 	I-PRO
-perustuva       	I-PRO 	I-PRO 	I-PRO
-laite       	I-PRO 	I-PRO 	I-PRO
+PrivatOS-nimiseen       	B-PRO	B-PRO	B-PRO
+muokattuun       	I-PRO	I-PRO	I-PRO
+Androidiin       	I-PRO	I-PRO	I-PRO
+perustuva       			
+laite       			
 , 	 	 	
 johon 	 	 	
 on 	 	 	
@@ -101187,7 +101187,7 @@ muun
 toiminnan 	 	 	
 voi 	 	 	
 salata 	 	 	
-VPN-yhteyden     	B-MISC 	B-MISC 	B-MISC
+VPN-yhteyden     			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -101244,7 +101244,7 @@ esimerkiksi
 Google       	B-PRO 	B-PRO 	B-PRO
 Play       	I-PRO 	I-PRO 	I-PRO
 -sovelluskauppaa       	I-PRO 	I-PRO 	I-PRO
-,       	I-PRO 	I-PRO 	I-PRO
+,       			
 Blackphonen       	 	B-ORG 	B-ORG
 esittelystä 	 	 	
 ei 	 	 	
@@ -101305,7 +101305,7 @@ että
 NSA:lla      	 	B-ORG 	B-ORG
 on 	 	 	
 pääsy 	 	 	
-VPN-yhteyksiin     	B-MISC 	B-MISC 	B-MISC
+VPN-yhteyksiin     			
 , 	 	 	
 puhelimen 	 	 	
 salatut 	 	 	
@@ -101317,7 +101317,7 @@ vaarassa
 . 	 	 	
  	 	 	
 – 	 	 	
-VPN     	B-PRO 	B-PRO 	B-PRO
+VPN     			
 on 	 	 	
 vain 	 	 	
 tapa 	 	 	
@@ -101391,7 +101391,7 @@ käyttää
 omassa 	 	 	
 pilvipohjaisessa 	 	 	
 Freedome-yksityisyyssovelluksessaankin       	B-PRO 	B-PRO 	B-PRO
-VPN-tekniikoita     	B-PRO 	B-PRO 	B-PRO
+VPN-tekniikoita     			
 . 	 	 	
  	 	 	
 – 	 	 	
@@ -102272,7 +102272,7 @@ avainsanoja
 <HEADLINE> 	 	 	
 Android-aukko       	B-MISC 	B-MISC 	B-MISC
 romuttaa 	 	 	
-vpn-suojan     	B-MISC 	B-MISC 	B-MISC
+vpn-suojan     			
  	 	 	
 <DATE> 	 	 	
 23.1.2014 12:00 	 	 	
@@ -102287,7 +102287,7 @@ network
  	 	 	
 Ilman 	 	 	
 suojausta 	 	 	
-vpn     	B-PRO 	B-PRO 	B-PRO
+vpn     			
 on 	 	 	
 yhtä 	 	 	
 tyhjän 	 	 	
@@ -102298,7 +102298,7 @@ kanssa
 Turvalliseen 	 	 	
 verkkoviestintään 	 	 	
 tarkoitettu 	 	 	
-vpn-tekniikka     	B-PRO 	B-PRO 	B-PRO
+vpn-tekniikka     			
 ( 	 	 	
 virtual 	 	 	
 private 	 	 	
@@ -102309,7 +102309,7 @@ täytä
 tehtäväänsä 	 	 	
 useissa 	 	 	
 eri 	 	 	
-Android-laitteissa       	B-PRO 	B-PRO 	B-PRO
+Android-laitteissa       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 israelilaisen 	 	 	
 Ben       	 	B-ORG 	B-ORG
@@ -102327,7 +102327,7 @@ Jelly       	I-PRO 	I-PRO 	I-PRO
 Beanissa       	I-PRO 	I-PRO 	I-PRO
 on 	 	 	
 haavoittuvuus 	 	 	
-vpn-teknologiassa     	B-PRO 	B-PRO 	B-PRO
+vpn-teknologiassa     			
 . 	 	 	
  	 	 	
 Ongelman 	 	 	
@@ -102344,7 +102344,7 @@ ujutettua
 pystyy 	 	 	
 ohittamaan 	 	 	
 aktiivisen 	 	 	
-vpn-konfiguraation     	B-MISC 	B-MISC 	B-MISC
+vpn-konfiguraation     			
 ja 	 	 	
 ohjaamaan 	 	 	
 turvatun 	 	 	
@@ -102789,7 +102789,7 @@ joka
 lähetti 	 	 	
 tiedot 	 	 	
 langattomalla 	 	 	
-bluetooth-yhteydellä       	B-MISC 	B-MISC 	B-MISC
+bluetooth-yhteydellä       			
 . 	 	 	
  	 	 	
 Heidän 	 	 	
@@ -102803,7 +102803,7 @@ tankkauksen
 aloittamista 	 	 	
 . 	 	 	
  	 	 	
-Bluetooth-lukija       	B-MISC 	B-MISC 	B-MISC
+Bluetooth-lukija       			
 lähetti 	 	 	
 kortin 	 	 	
 tiedot 	 	 	
@@ -102858,7 +102858,7 @@ kiireisenä
 kun 	 	 	
 muut 	 	 	
 asensivat 	 	 	
-bluetooth-laitteen       	B-MISC 	B-MISC 	B-MISC
+bluetooth-laitteen       			
 . 	 	 	
  	 	 	
 Asennus 	 	 	
@@ -102895,7 +102895,7 @@ käsitelty
 usein      	 	 	B-TIM
 bensapumppuihin 	 	 	
 asennettuja 	 	 	
-bluetooth-lukijoita       	B-MISC 	B-MISC 	B-MISC
+bluetooth-lukijoita       			
 . 	 	 	
  	 	 	
 Huomattavaa 	 	 	
@@ -103661,7 +103661,7 @@ Leaked
 video 	 	 	
 of 	 	 	
 iPhone       	B-PRO 	B-PRO 	B-PRO
-6 	 	 	
+6 	I-PRO	I-PRO	I-PRO
 ! 	 	 	
  	 	 	
 If 	 	 	
@@ -104018,7 +104018,7 @@ ongelman
  	 	 	
 Sovellus 	 	 	
 tallentaa 	 	 	
-iOS-laitteeseen       	B-PRO 	B-PRO 	B-PRO
+iOS-laitteeseen       	B-MISC	B-MISC	B-MISC
 edelleen     	 	 	B-TIM
 paikkatietoa 	 	 	
 , 	 	 	
@@ -104133,10 +104133,10 @@ anteeksi
 <HEADLINE> 	 	 	
 Microsoft       	 	B-ORG 	B-ORG
 poisti 	 	 	
-Windows-koneista       	B-PRO 	B-PRO 	B-PRO
+Windows-koneista       	B-MISC	B-MISC	B-MISC
 kaksi 	 	 	
 miljoonaa 	 	 	
-Tor-selainta       	B-PRO 	B-PRO 	B-PRO
+Tor-selainta       	B-MISC	B-MISC	B-MISC
 — 	 	 	
 omistajilleilmoittamatta 	 	 	
  	 	 	
@@ -104145,7 +104145,7 @@ omistajilleilmoittamatta
  	 	 	
 <INGRESS> 	 	 	
 Saastuneiden 	 	 	
-Tor-selainten       	B-PRO 	B-PRO 	B-PRO
+Tor-selainten       	B-PRO	B-PRO	B-PRO
 jakelupaketit 	 	 	
 poistettiin 	 	 	
 muun 	 	 	
@@ -104174,7 +104174,7 @@ koneista
 yli 	 	 	
 kaksi 	 	 	
 miljoonaa 	 	 	
-Tor-selainta       	B-PRO 	B-PRO 	B-PRO
+Tor-selainta       	B-PRO	B-PRO	B-PRO
 , 	 	 	
 joita 	 	 	
 käytetään 	 	 	
@@ -104254,7 +104254,7 @@ Verkkorikolliset
 levittivät 	 	 	
 haitaketta 	 	 	
 jakelemalla 	 	 	
-Tor-selaimen       	B-PRO 	B-PRO 	B-PRO
+Tor-selaimen       	B-PRO	B-PRO	B-PRO
 vanhentunutta 	 	 	
 versiota 	 	 	
 BrowderProtector-       	B-PRO 	B-PRO 	B-PRO
@@ -104990,8 +104990,8 @@ Saksassakin       	 	B-LOC 	B-LOC
 27.1.2014 07:40 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Formula       	B-PRO 	B-PRO 	B-PRO
-ykkösten       	I-PRO 	I-PRO 	I-PRO
+Formula       			
+ykkösten       			
 entinen       	 	B-TIT 	B-TIT
 johtaja       	 	I-TIT 	I-TIT
 Max       	 	B-PER 	B-PER
