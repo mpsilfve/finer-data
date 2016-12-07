@@ -120077,7 +120077,7 @@ koskien
 edellistä 	 	 	
 Flash-aukkoa       	B-MISC 	B-MISC 	B-MISC
 , 	 	 	
-Windows-tietokoneen       	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneen       	B-MISC 	B-MISC 	B-MISC
 tilanteen 	 	 	
 voi 	 	 	
 tarkistaa 	 	 	
@@ -120540,7 +120540,7 @@ sovellukset
 ovat 	 	 	
 saastuttaneet 	 	 	
 käyttäjien 	 	 	
-Android-puhelimia       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimia       	B-MISC 	B-MISC 	B-MISC
 jo 	 	 	
 hyvän 	 	 	
 aikaa 	 	 	
@@ -121665,7 +121665,7 @@ on
 saastutettu 	 	 	
 haavoittuvuutta 	 	 	
 hyödyntävällä 	 	 	
-Flash-objektilla       	B-PRO 	B-PRO 	B-PRO
+Flash-objektilla       	B-MISC 	B-MISC 	B-MISC
 . 	 	 	
  	 	 	
 Samalla 	 	 	
@@ -121735,7 +121735,7 @@ alkoi
 äskettäin       	 	 	B-TIM
 käyttää 	 	 	
 oletustoistimena 	 	 	
-html5-tekniikkaa     	B-PRO 	B-PRO 	B-PRO
+html5-tekniikkaa     			
 . 	 	 	
  	 	 	
 Jos 	 	 	
@@ -121861,14 +121861,14 @@ to
 pay 	 	 	
 u 	 	 	
 through 	 	 	
-paypal       	B-PRO 	B-PRO 	B-PRO
+paypal       			
 , 	 	 	
 and 	 	 	
 do 	 	 	
 u 	 	 	
 have 	 	 	
 a 	 	 	
-paypal       	B-PRO 	B-PRO 	B-PRO
+paypal       			
 acct 	 	 	
 so 	 	 	
 i 	 	 	
@@ -122545,7 +122545,7 @@ kesken
 . 	 	 	
  	 	 	
 Tämä 	 	 	
-Web-selainversio       	B-PRO 	B-PRO 	B-PRO
+Web-selainversio       			
 sisältää 	 	 	
 kuitenkin 	 	 	
 myös 	 	 	
@@ -122579,7 +122579,7 @@ jotka
 toimivat 	 	 	
 normaalisti 	 	 	
 WhatsAppin       	B-PRO 	B-PRO 	B-PRO
-mobiilisovelluksessa       	I-PRO 	I-PRO 	I-PRO
+mobiilisovelluksessa       			
 . 	 	 	
  	 	 	
 Joissakin 	 	 	
@@ -122629,7 +122629,7 @@ näkyi
 kuitenkin 	 	 	
 ilman 	 	 	
 sumennusta 	 	 	
-Web-versiossa       	B-PRO 	B-PRO 	B-PRO
+Web-versiossa       	B-PRO	B-PRO	B-PRO
 . 	 	 	
  	 	 	
 Toinen 	 	 	
@@ -122643,7 +122643,7 @@ profiilikuva
 voi 	 	 	
 näkyä 	 	 	
 laajasti 	 	 	
-Web-versiossa       	B-MISC 	B-MISC 	B-MISC
+Web-versiossa       			
 , 	 	 	
 vaikka 	 	 	
 kuvan 	 	 	
@@ -122976,7 +122976,7 @@ Sorenson       	 	I-PER 	I-PER
 ilmoitti 	 	 	
 asiasta 	 	 	
 LinkedIn-palvelun       	B-PRO 	B-PRO 	B-PRO
-Vaikuttaja-palstalla       	B-PRO 	B-PRO 	B-PRO
+Vaikuttaja-palstalla       			
 perjantaina       	 	 	B-TIM
 . 	 	 	
  	 	 	
@@ -123432,7 +123432,7 @@ kaksi
 vanhinta 	 	 	
 perustuu 	 	 	
 vielä 	 	 	
-XP:hen 	 	 	
+XP:hen 	B-PRO	B-PRO	B-PRO
 . 	 	 	
  	 	 	
 Vanhimpien       	 	 	B-TIM
@@ -123471,8 +123471,8 @@ verkkoon
 Marviala       	 	B-PER 	B-PER
 vakuuttaa 	 	 	
 Otto-       	B-PRO 	B-PRO 	B-PRO
-ja       	I-PRO 	I-PRO 	I-PRO
-TalletusOtto-automaattien       	I-PRO 	I-PRO 	I-PRO
+ja       			
+TalletusOtto-automaattien       	B-PRO 	B-PRO 	B-PRO
 turvallisuutta 	 	 	
 . 	 	 	
  	 	 	
@@ -124278,17 +124278,17 @@ ovat
  	 	 	
 * 	 	 	
 RHEL       	B-PRO 	B-PRO 	B-PRO
-(     	 	 	I-PRO
+(     	I-PRO 	I-PRO 	I-PRO
 Red       	I-PRO 	I-PRO 	B-PRO
 Hat       	I-PRO 	I-PRO 	I-PRO
 Enterprise       	I-PRO 	I-PRO 	I-PRO
 Linux       	I-PRO 	I-PRO 	I-PRO
-)     	 	 	I-PRO
+)     	I-PRO 	I-PRO 	I-PRO
 versiot       	I-PRO 	I-PRO 	B-PRO
 5.x      	I-PRO 	I-PRO 	I-PRO
-,     	 	 	I-PRO
+,     	I-PRO 	I-PRO 	I-PRO
 6.x      	I-PRO 	I-PRO 	B-PRO
-ja     	 	 	I-PRO
+ja     	I-PRO 	I-PRO 	I-PRO
 7.x      	I-PRO 	I-PRO 	B-PRO
 * 	 	 	
 CentOS       	B-PRO 	B-PRO 	B-PRO
@@ -124304,7 +124304,7 @@ Ubuntu       	B-PRO 	B-PRO 	B-PRO
 Linux       	I-PRO 	I-PRO 	I-PRO
 versiot       	I-PRO 	I-PRO 	I-PRO
 10.04       	I-PRO 	I-PRO 	I-PRO
-,     	 	 	I-PRO
+,     	I-PRO 	I-PRO 	I-PRO
 12.04       	I-PRO 	I-PRO 	B-PRO
 LTS       	I-PRO 	I-PRO 	I-PRO
 * 	 	 	
@@ -124848,7 +124848,7 @@ Brasilia       	 	B-LOC 	B-LOC
  	 	 	
 <HEADLINE> 	 	 	
 Kiireellinen 	 	 	
-Flash-korjaus       	B-PRO 	B-PRO 	B-PRO
+Flash-korjaus       	B-MISC	B-MISC	B-MISC
 jaossa 	 	 	
 — 	 	 	
 näin 	 	 	
@@ -124872,7 +124872,7 @@ voinut
 jo 	 	 	
 saada 	 	 	
 kriittisen 	 	 	
-Flash-korjauksen       	B-PRO 	B-PRO 	B-PRO
+Flash-korjauksen       	B-MISC	B-MISC	B-MISC
 koneellesi 	 	 	
 . 	 	 	
  	 	 	
@@ -124928,7 +124928,7 @@ ohjelmiston
 version 	 	 	
 tulisi 	 	 	
 olla 	 	 	
-16.0.0.296      	 	 	B-PRO
+16.0.0.296      	 	 	
 sekä 	 	 	
 Windows-       	B-PRO 	B-PRO 	B-PRO
 että 	 	 	
@@ -125042,7 +125042,7 @@ kybersuvereniteettia
 " 	 	 	
 - 	 	 	
 estää 	 	 	
-vpn-yhteydet     	B-MISC 	B-MISC 	B-MISC
+vpn-yhteydet     			
 puhelimilta 	 	 	
  	 	 	
 <DATE> 	 	 	
@@ -125056,7 +125056,7 @@ useiden
 tavallisten 	 	 	
 ihmisten 	 	 	
 suosimien 	 	 	
-vpn-palvelujen     	B-MISC 	B-MISC 	B-MISC
+vpn-palvelujen     			
 toiminnan 	 	 	
 . 	 	 	
  	 	 	
@@ -125071,12 +125071,12 @@ rauhassa
  	 	 	
 <BODY> 	 	 	
 Kolme 	 	 	
-vpn-yhteyksien     	B-MISC 	B-MISC 	B-MISC
+vpn-yhteyksien     			
 toimittajaa 	 	 	
 ( 	 	 	
-virtual       	B-PRO 	B-PRO 	B-PRO
-private       	I-PRO 	I-PRO 	I-PRO
-network       	I-PRO 	I-PRO 	I-PRO
+virtual       			
+private       			
+network       			
 ) 	 	 	
 ilmoittaa 	 	 	
 [ 	 	 	
@@ -125117,7 +125117,7 @@ palvelimille
 Eston 	 	 	
 kohteeksi 	 	 	
 joutuneiden 	 	 	
-vpn-palvelujen     	B-MISC 	B-MISC 	B-MISC
+vpn-palvelujen     			
 erityispiirre 	 	 	
 oli 	 	 	
 se 	 	 	
@@ -125130,7 +125130,7 @@ enimmäkseen
 kautta 	 	 	
 . 	 	 	
  	 	 	
-Vpn-verkoissa     	B-MISC 	B-MISC 	B-MISC
+Vpn-verkoissa     			
 liikenne 	 	 	
 kulkee 	 	 	
 salattuna 	 	 	
@@ -125149,7 +125149,7 @@ valvojat
 pystyvät 	 	 	
 kuitenkin 	 	 	
 löytämään 	 	 	
-vpn-palvelimet     	B-MISC 	B-MISC 	B-MISC
+vpn-palvelimet     			
 ja 	 	 	
 estämään 	 	 	
 niiden 	 	 	
@@ -125157,7 +125157,7 @@ liikenteen
 . 	 	 	
  	 	 	
 Pienille 	 	 	
-vpn-palveluille     	B-MISC 	B-MISC 	B-MISC
+vpn-palveluille     			
 , 	 	 	
 joita 	 	 	
 internetissä 	 	 	
@@ -125175,7 +125175,7 @@ ongelma
 Sen 	 	 	
 sijaan 	 	 	
 suuret 	 	 	
-vpn-yritykset     	B-MISC 	B-MISC 	B-MISC
+vpn-yritykset     			
 , 	 	 	
 joilla 	 	 	
 on 	 	 	
@@ -125204,7 +125204,7 @@ tarjonnasta
  	 	 	
 Kiinalaismedian 	 	 	
 mukaan 	 	 	
-vpn-palvelinten     	B-MISC 	B-MISC 	B-MISC
+vpn-palvelinten     			
 liikenne 	 	 	
 on 	 	 	
 estetty 	 	 	
@@ -125889,7 +125889,7 @@ syötti
 Oliverin       	 	B-PER 	B-PER
 sivustolla 	 	 	
 ollut 	 	 	
-javascript-pätkä       	B-MISC 	B-MISC 	B-MISC
+javascript-pätkä       			
 . 	 	 	
  	 	 	
 Toistaiseksi       	 	 	B-TIM
@@ -127040,7 +127040,7 @@ haavoittuvuus
 koskee 	 	 	
 suurinta 	 	 	
 osaa 	 	 	
-Android-älypuhelinten       	B-PRO 	B-PRO 	B-PRO
+Android-älypuhelinten       	B-MISC	B-MISC	B-MISC
 käyttäjiä 	 	 	
 , 	 	 	
 joita 	 	 	
@@ -127137,9 +127137,9 @@ mukaan
 haavoittuvuus 	 	 	
 koskee 	 	 	
 Androidin       	B-PRO 	B-PRO 	B-PRO
-perussähköpostin       	I-PRO 	I-PRO 	I-PRO
-versiota       	I-PRO 	I-PRO 	I-PRO
-4.2.2.0200     	I-PRO 	I-PRO 	I-PRO
+perussähköpostin       			
+versiota       			
+4.2.2.0200     			
 ja 	 	 	
 ilmeisesti 	 	 	
 myös 	 	 	
@@ -127941,7 +127941,7 @@ on
 liitetiedosto 	 	 	
 , 	 	 	
 josta 	 	 	
-Windows-tietokoneeseen       	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneeseen       	B-MISC	B-MISC	B-MISC
 tarttuu 	 	 	
 Dalexis-niminen       	B-PRO 	B-PRO 	B-PRO
 haittaohjelma       	I-PRO 	I-PRO 	I-PRO
@@ -128079,13 +128079,13 @@ tavattuja
 nimiä 	 	 	
 ovat 	 	 	
 esimerkiksi 	 	 	
-banjoes.zip     	B-MISC 	B-MISC 	B-MISC
-, 	 	 	
-disgruntled.zip     	B-MISC 	B-MISC 	B-MISC
-, 	 	 	
-facto.zip     	B-MISC 	B-MISC 	B-MISC
-ja 	 	 	
-tutty.zip     	B-MISC 	B-MISC 	B-MISC
+banjoes.zip     			
+, 			
+disgruntled.zip     			
+, 			
+facto.zip     			
+ja 			
+tutty.zip     			
 . 	 	 	
  	 	 	
 Lisäksi 	 	 	
@@ -128185,9 +128185,9 @@ hyödyntää
 tietyllä 	 	 	
 tavalla 	 	 	
 muotoilluilla 	 	 	
-flv-       	B-PRO 	B-PRO 	B-PRO
-ja 	 	 	
-m2v-mediatiedostoilla       	B-PRO 	B-PRO 	B-PRO
+flv-       			
+ja 			
+m2v-mediatiedostoilla       			
 . 	 	 	
  	 	 	
 Hatas       	 	B-PER 	B-PER
@@ -128890,7 +128890,7 @@ mukaan
 sama 	 	 	
 onnistuisi 	 	 	
 myös 	 	 	
-Windows-koneilla       	B-PRO 	B-PRO 	B-PRO
+Windows-koneilla       	B-MISC	B-MISC	B-MISC
 tarkoitusta 	 	 	
 varten 	 	 	
 muutetulla 	 	 	
@@ -129085,7 +129085,7 @@ kiinalaisten
 vieneen 	 	 	
 amerikkalaisen 	 	 	
 F-35:n     	B-PRO 	B-PRO 	B-PRO
-hävittäjän       	I-PRO 	I-PRO 	I-PRO
+hävittäjän       			
 täydet 	 	 	
 tiedot 	 	 	
 . 	 	 	
@@ -129112,7 +129112,7 @@ tietävät
 että 	 	 	
 amerikkalainen 	 	 	
 F-35       	B-PRO 	B-PRO 	B-PRO
-hävittäjäkone       	I-PRO 	I-PRO 	I-PRO
+hävittäjäkone       			
 on 	 	 	
 surkea 	 	 	
 , 	 	 	
