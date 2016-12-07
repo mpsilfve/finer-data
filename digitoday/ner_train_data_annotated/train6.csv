@@ -130537,7 +130537,7 @@ tiedot
  	 	 	
 <INGRESS> 	 	 	
 Steam-pelipalvelun       	B-PRO 	B-PRO 	B-PRO
-Linux-versiosta       	I-PRO 	I-PRO 	I-PRO
+Linux-versiosta       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 mahdollisesti 	 	 	
 löytynyt 	 	 	
@@ -130549,7 +130549,7 @@ virhe
 <BODY> 	 	 	
 Ilmeisesti 	 	 	
 Steamin       	B-PRO 	B-PRO 	B-PRO
-Linux-versioon       	I-PRO 	I-PRO 	I-PRO
+Linux-versioon       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 eksynyt 	 	 	
 äärimmäisen 	 	 	
@@ -130572,7 +130572,7 @@ Steam-hakemistoa       	B-MISC 	B-MISC 	B-MISC
 . 	 	 	
  	 	 	
 Steamin       	B-PRO 	B-PRO 	B-PRO
-Linux-asennusohjelma       	I-PRO 	I-PRO 	I-PRO
+Linux-asennusohjelma       	B-MISC	B-MISC	B-MISC
 ei 	 	 	
 anna 	 	 	
 valita 	 	 	
@@ -131579,9 +131579,9 @@ omaa
 gigahertsin 	 	 	
 radiotekniikkaansa 	 	 	
 standardien 	 	 	
-bluetoothin     	B-PRO 	B-PRO 	B-PRO
-tai 	 	 	
-wifin     	B-PRO 	B-PRO 	B-PRO
+bluetoothin     			
+tai 			
+wifin     			
 sijaan 	 	 	
 . 	 	 	
  	 	 	
