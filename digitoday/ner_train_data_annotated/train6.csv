@@ -105299,7 +105299,7 @@ loukkaamisesta
  	 	 	
 <HEADLINE> 	 	 	
 Kytketkö 	 	 	
-Android-puhelimesi       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimesi       	B-MISC	B-MISC	B-MISC
 tietokoneeseen 	 	 	
 ? 	 	 	
  	 	 	
@@ -105332,13 +105332,13 @@ Tietoturvayhtiö
 Symantec       	 	B-ORG 	B-ORG
 kertoo 	 	 	
 ensimmäisestä 	 	 	
-Windows-haittaohjelmasta       	B-PRO 	B-PRO 	B-PRO
+Windows-haittaohjelmasta       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joka 	 	 	
 saastuttaa 	 	 	
 tietokoneeseen 	 	 	
 kytketyn 	 	 	
-Android-laitteen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteen       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Tartunnan 	 	 	
@@ -105364,7 +105364,7 @@ pc:lle
 tarvittavat 	 	 	
 asetustiedostot 	 	 	
 , 	 	 	
-Android-laitteen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteen       	B-MISC	B-MISC	B-MISC
 kanssa 	 	 	
 kommunikointiin 	 	 	
 tarvittavan 	 	 	
@@ -105374,7 +105374,7 @@ bridge       	I-PRO 	I-PRO 	I-PRO
 (       	I-PRO 	I-PRO 	I-PRO
 ADB       	I-PRO 	I-PRO 	I-PRO
 )       	I-PRO 	I-PRO 	I-PRO
--pc-työkalun 	 	 	
+-pc-työkalun 	I-PRO	I-PRO	I-PRO
 ja 	 	 	
 lopuksi 	 	 	
 APK-asennuspaketin       	B-PRO 	B-PRO 	B-PRO
@@ -105397,7 +105397,7 @@ sisältävää
 APK-pakettia       	B-PRO 	B-PRO 	B-PRO
 tietokoneeseen 	 	 	
 kytkettyihin 	 	 	
-Android-laitteisiin       	B-PRO 	B-PRO 	B-PRO
+Android-laitteisiin       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Asennus 	 	 	
@@ -105405,7 +105405,7 @@ vaatii
 onnistuakseen 	 	 	
 , 	 	 	
 että 	 	 	
-Android-laitteen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteen       	B-MISC	B-MISC	B-MISC
 debug-tila 	 	 	
 on 	 	 	
 päälle 	 	 	
@@ -105469,7 +105469,7 @@ suosittelee
 varmistamaan 	 	 	
 , 	 	 	
 että 	 	 	
-Android-laitteen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteen       	B-MISC	B-MISC	B-MISC
 debug-tila 	 	 	
 ei 	 	 	
 ole 	 	 	
@@ -105507,10 +105507,10 @@ haittaohjelmasta
 , 	 	 	
 joka 	 	 	
 tarttui 	 	 	
-Android-laitteesta       	B-PRO 	B-PRO 	B-PRO
+Android-laitteesta       	B-MISC	B-MISC	B-MISC
 siihen 	 	 	
 kytkettyyn 	 	 	
-Windows-pc:hen 	 	 	
+Windows-pc:hen 	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -105605,7 +105605,7 @@ vakavimmat
 haavoittuvuudet 	 	 	
 ovat 	 	 	
 iTunesin       	B-PRO 	B-PRO 	B-PRO
-Windows-versiossa       	I-PRO 	I-PRO 	I-PRO
+Windows-versiossa       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 mutta 	 	 	
 yksi 	 	 	
@@ -105654,16 +105654,16 @@ murtoon
  	 	 	
 <INGRESS> 	 	 	
 Yksikin 	 	 	
-Windows       	B-PRO 	B-PRO 	B-PRO
-XP       	I-PRO 	I-PRO 	I-PRO
--kone       	I-PRO 	I-PRO 	I-PRO
+Windows       	B-MISC	B-MISC	B-MISC
+XP       	I-MISC	B-MISC	B-MISC
+-kone       	I-MISC	B-MISC	B-MISC
 voi 	 	 	
 riittää 	 	 	
 yritysverkkoon 	 	 	
 soluttautumiseen 	 	 	
 . 	 	 	
  	 	 	
-XP:tä      	B-MISC 	B-MISC 	B-MISC
+XP:tä      	B-PRO	B-PRO	B-PRO
 myös 	 	 	
 käytetään 	 	 	
 huolestuttavan 	 	 	
@@ -105745,7 +105745,7 @@ että
 firmassa 	 	 	
 on 	 	 	
 yksikin 	 	 	
-XP       	B-MISC 	B-MISC 	B-MISC
+XP       	B-PRO	B-PRO	B-PRO
 liitettynä 	 	 	
 heidän 	 	 	
 yritysverkkoonsa 	 	 	
@@ -105774,7 +105774,7 @@ etukäteen      	 	 	B-TIM
 selvä 	 	 	
 – 	 	 	
 siis 	 	 	
-XP       	B-MISC 	B-MISC 	B-MISC
+XP       	B-PRO	B-PRO	B-PRO
 – 	 	 	
 , 	 	 	
 koska 	 	 	
@@ -105800,7 +105800,7 @@ järjestelmiin
 . 	 	 	
  	 	 	
 – 	 	 	
-XP       	B-MISC 	B-MISC 	B-MISC
+XP       	B-PRO	B-PRO	B-PRO
 on 	 	 	
 nimenomaan 	 	 	
 käytössä 	 	 	
@@ -105913,7 +105913,7 @@ ymmärtäneen
 väärin 	 	 	
 Microsoftin       	 	B-ORG 	B-ORG
 ilmoituksen 	 	 	
-XP:n      	B-MISC 	B-MISC 	B-MISC
+XP:n      	B-PRO	B-PRO	B-PRO
 virustorjunnan 	 	 	
 päivittämisestä 	 	 	
 huhtikuun       	 	B-DATE 	B-TIM
@@ -106089,7 +106089,7 @@ ilmene
 kun 	 	 	
 kalenteria 	 	 	
 käyttää 	 	 	
-Android-laitteella       	B-PRO 	B-PRO 	B-PRO
+Android-laitteella       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Kyseessä 	 	 	
@@ -106491,7 +106491,7 @@ on
 kuvattu 	 	 	
 samassa 	 	 	
 paikassa 	 	 	
-ja 	 	 	
+ja 		 	
 samaan       	 	 	B-TIM
 aikaan       	 	 	I-TIM
 . 	 	 	
@@ -106584,7 +106584,7 @@ ottamisajasta
 sekä 	 	 	
 myös 	 	 	
 -paikasta 	 	 	
-gps-paikannuksen     	B-PRO 	B-PRO 	B-PRO
+gps-paikannuksen     			
 avulla 	 	 	
 . 	 	 	
  	 	 	
@@ -106994,7 +106994,7 @@ koneelta
 sallitaan 	 	 	
 pääsy 	 	 	
 esimerkiksi 	 	 	
-vpn-yhteyteen     	B-MISC 	B-MISC 	B-MISC
+vpn-yhteyteen     			
 tai 	 	 	
 muuhun 	 	 	
 mahdolliseen 	 	 	
@@ -107322,7 +107322,7 @@ wlan-verkkojen
 avulla 	 	 	
 . 	 	 	
  	 	 	
-Android-laitteille       	B-PRO 	B-PRO 	B-PRO
+Android-laitteille       	B-MISC	B-MISC	B-MISC
 saatava 	 	 	
 App       	B-PRO 	B-PRO 	B-PRO
 Permissions       	I-PRO 	I-PRO 	I-PRO
@@ -108134,13 +108134,13 @@ kuvaama
 menetelmä 	 	 	
 tunnetaan 	 	 	
 nimellä 	 	 	
-DNS       	B-PRO 	B-PRO 	B-PRO
-hijack       	I-PRO 	I-PRO 	I-PRO
-eli 	 	 	
-DNS-kaappaus       	B-PRO 	B-PRO 	B-PRO
-. 	 	 	
- 	 	 	
-DNS-kaappauksessa       	B-PRO 	B-PRO 	B-PRO
+DNS       			
+hijack       			
+eli 			
+DNS-kaappaus       			
+. 			
+ 			
+DNS-kaappauksessa       			
 hakkeri 	 	 	
 saa 	 	 	
 internet-osoitteita 	 	 	
@@ -108513,7 +108513,7 @@ hyökkäyksistä
 missä 	 	 	
 haittaohjelmaa 	 	 	
 jaetaan 	 	 	
-ftp-ohjelman     	B-MISC 	B-MISC 	B-MISC
+ftp-ohjelman     			
 nimissä 	 	 	
 . 	 	 	
  	 	 	
@@ -108776,7 +108776,7 @@ keskiviikkoyönä       	 	 	B-TIM
 ainakin       	 	 	I-TIM
 klo       	 	 	I-TIM
 1-2.30      	 	 	I-TIM
-.      	 	 	I-TIM
+.      	 	 	
  	 	 	
 Sivusto 	 	 	
 on 	 	 	
@@ -109690,7 +109690,7 @@ toimittaja
 aloitti 	 	 	
 itse 	 	 	
 haitallisen 	 	 	
-Android-sovelluksen       	B-PRO 	B-PRO 	B-PRO
+Android-sovelluksen       	B-MISC	B-MISC	B-MISC
 lataamisen 	 	 	
 puhelimeensa 	 	 	
 , 	 	 	
@@ -109714,7 +109714,7 @@ ei
 pitäisi 	 	 	
 pystyä 	 	 	
 soluttautumaan 	 	 	
-Android-puhelimeen       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimeen       	B-MISC	B-MISC	B-MISC
 omin 	 	 	
 päin 	 	 	
 . 	 	 	
@@ -109926,7 +109926,7 @@ Plesk       	I-PRO 	I-PRO 	I-PRO
 -hallintapaneelin       	I-PRO 	I-PRO 	I-PRO
 haavoittuvuuksia 	 	 	
 ja 	 	 	
-sql-injektioita     	B-MISC 	B-MISC 	B-MISC
+sql-injektioita     			
 . 	 	 	
  	 	 	
 Mutta 	 	 	
@@ -116887,7 +116887,7 @@ navigointijärjestelmistä
  	 	 	
 Farley       	 	B-PER 	B-PER
 kehuskeli 	 	 	
-gps-tiedoilla     	B-MISC 	B-MISC 	B-MISC
+gps-tiedoilla     			
 , 	 	 	
 joita 	 	 	
 Ford       	 	B-ORG 	B-ORG
@@ -116919,7 +116919,7 @@ seurantamielikuvia
 Fordin       	 	B-ORG 	B-ORG
 mukaan 	 	 	
 autojen 	 	 	
-gps-tietoja     	B-MISC 	B-MISC 	B-MISC
+gps-tietoja     			
 ei 	 	 	
 lähetetä 	 	 	
 rutiininomaisesti 	 	 	
@@ -119297,7 +119297,7 @@ vaarin
 ja 	 	 	
 siirtyvät 	 	 	
 uudempien      	 	 	B-TIM
-Windows-versioiden       	B-PRO 	B-PRO 	B-PRO
+Windows-versioiden       	B-PRO	B-PRO 	B-PRO
 käyttäjiksi 	 	 	
 . 	 	 	
  	 	 	
@@ -119586,7 +119586,7 @@ tietoturva-asiantuntija       	 	B-TIT 	B-TIT
 Mikael       	 	B-PER 	B-PER
 Albrecht       	 	I-PER 	I-PER
 F-Securesta       	 	B-ORG 	B-ORG
-Digitodaylle       	B-PRO 	B-PRO 	B-PRO
+Digitodaylle       		B-ORG	B-ORG
 . 	 	 	
  	 	 	
 Albrechtin       	 	B-PER 	B-PER
@@ -119606,7 +119606,7 @@ virusongelmaa
 toisin 	 	 	
 kuin 	 	 	
 esimerkiksi 	 	 	
-Android-puhelimissa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimissa       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Trend       	 	B-ORG 	B-ORG
@@ -119671,7 +119671,7 @@ muun
 muassa 	 	 	
 länsimaiden 	 	 	
 viranomaisten 	 	 	
-Windows-tietokoneille       	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneille       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Trend       	 	B-ORG 	B-ORG
@@ -119972,8 +119972,8 @@ kantaa
 IE:n      	B-PRO 	B-PRO 	B-PRO
 haavoittuvuuteen 	 	 	
 , 	 	 	
-xss-tyyppisiä       	B-MISC 	B-MISC 	B-MISC
-aukkoja       	I-MISC 	I-MISC 	I-MISC
+xss-tyyppisiä       			
+aukkoja       			
 pidetään 	 	 	
 yleisesti 	 	 	
 merkkinä 	 	 	
@@ -119984,7 +119984,7 @@ koodin
 tarkistuksesta 	 	 	
 . 	 	 	
  	 	 	
-Xss       	B-MISC 	B-MISC 	B-MISC
+Xss       			
 on 	 	 	
 esiintynyt 	 	 	
 esimerkiksi 	 	 	
