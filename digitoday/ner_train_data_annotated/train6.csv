@@ -131707,7 +131707,7 @@ on
 kuitenkin 	 	 	
 myös 	 	 	
 standardiin 	 	 	
-bluetoothiin       	B-PRO 	B-PRO 	B-PRO
+bluetoothiin       			
 perustuvia 	 	 	
 langattomia 	 	 	
 näppiksiä 	 	 	
@@ -131956,9 +131956,9 @@ vain
 nettiselaimen 	 	 	
 käyttäjille 	 	 	
 , 	 	 	
-Android-       	B-PRO 	B-PRO 	B-PRO
+Android-       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
-iOS-mobiililaitteilta       	B-PRO 	B-PRO 	B-PRO
+iOS-mobiililaitteilta       	B-MISC	B-MISC	B-MISC
 yksityisiksi 	 	 	
 muutettuja 	 	 	
 kuvia 	 	 	
@@ -132448,7 +132448,7 @@ Neowin       	 	B-ORG 	B-ORG
 <HEADLINE> 	 	 	
 Lähes 	 	 	
 miljardi 	 	 	
-Android-puhelinta       	B-PRO 	B-PRO 	B-PRO
+Android-puhelinta       	B-MISC	B-MISC	B-MISC
 joutumassa 	 	 	
 vaaraan 	 	 	
  	 	 	
@@ -132457,7 +132457,7 @@ vaaraan
  	 	 	
 <INGRESS> 	 	 	
 Onko 	 	 	
-Android-puhelimesi       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimesi       	B-MISC	B-MISC	B-MISC
 järjestelmäversio 	 	 	
 4.3 	 	 	
 tai 	 	 	
@@ -132476,7 +132476,7 @@ alle
  	 	 	
 <BODY> 	 	 	
 Moni 	 	 	
-Android-puhelin       	B-PRO 	B-PRO 	B-PRO
+Android-puhelin       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 joutumassa 	 	 	
 tänä       	 	 	B-TIM
@@ -132668,7 +132668,7 @@ on
 runsaat 	 	 	
 39 	 	 	
 prosenttia 	 	 	
-Android-laitteista       	B-PRO 	B-PRO 	B-PRO
+Android-laitteista       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Näistä 	 	 	
@@ -133126,7 +133126,7 @@ mukana
 on 	 	 	
 myös 	 	 	
 muita 	 	 	
-Linux-laitteita       	B-PRO 	B-PRO 	B-PRO
+Linux-laitteita       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 kuten 	 	 	
 pikkupalvelimia 	 	 	
@@ -133477,7 +133477,7 @@ ANS-palvelu       	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 enää     	 	 	B-TIM
 maksavien 	 	 	
-Premium-asiakkaiden       	B-MISC 	B-MISC 	B-MISC
+Premium-asiakkaiden       			
 käytettävissä 	 	 	
 ja 	 	 	
 avautuu 	 	 	
@@ -135967,7 +135967,7 @@ Sonyn       	 	B-ORG 	B-ORG
 Playstation       	B-PRO 	B-PRO 	B-PRO
 Networkin       	I-PRO 	I-PRO 	I-PRO
 ja 	 	 	
-Microsoftin       	B-PRO 	B-PRO 	B-PRO
+Microsoftin       		B-ORG	B-ORG
 Xbox       	I-PRO 	I-PRO 	I-PRO
 Liven       	I-PRO 	I-PRO 	I-PRO
 jouluna      	 	 	B-TIM
@@ -137080,7 +137080,7 @@ ole
 tarkoitettu 	 	 	
 loikkaamaan 	 	 	
 vieraileviin 	 	 	
-Windows-       	B-PRO 	B-PRO 	B-PRO
+Windows-       	B-MISC	B-MISC	B-MISC
 tai 	 	 	
 Mac-koneisiin       	B-PRO 	B-PRO 	B-PRO
 , 	 	 	
@@ -137208,9 +137208,9 @@ julkisuuteen
  	 	 	
 <INGRESS> 	 	 	
 Yksi 	 	 	
-Playstation-       	B-PRO 	B-PRO 	B-PRO
+Playstation-       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
-Xbox-palvelut       	B-PRO 	B-PRO 	B-PRO
+Xbox-palvelut       	B-MISC	B-MISC	B-MISC
 jouluna 	 	 	
 kaataneen 	 	 	
 hakkeriryhmän 	 	 	
@@ -137264,9 +137264,9 @@ verkkolehdille
 Ryhmä 	 	 	
 ilmoitti 	 	 	
 aiheuttaneensa 	 	 	
-Playstation-       	B-PRO 	B-PRO 	B-PRO
+Playstation-       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
-Xbox-pelikonsoliverkkojen       	B-PRO 	B-PRO 	B-PRO
+Xbox-pelikonsoliverkkojen       	B-MISC	B-MISC	B-MISC
 kaatumisen 	 	 	
 joulupäivänä      	 	 	B-TIM
 palvelunestohyökkäyksellä 	 	 	
@@ -137982,8 +137982,8 @@ merkittävimmäksi
 nousee 	 	 	
 OpenSSL-salauskirjaston       	B-PRO 	B-PRO 	B-PRO
 Heartbleed-nimellä       	B-MISC 	B-MISC 	B-MISC
-brändätty       	I-MISC 	I-MISC 	I-MISC
-haavoittuvuus       	I-MISC 	I-MISC 	I-MISC
+brändätty       			
+haavoittuvuus       			
 . 	 	 	
  	 	 	
 Suomalaisten 	 	 	
@@ -138138,7 +138138,7 @@ esimerkki
 <HEADLINE> 	 	 	
 Jäikö 	 	 	
 tärkeä 	 	 	
-Android-päivitys       	B-PRO 	B-PRO 	B-PRO
+Android-päivitys       	B-MISC	B-MISC	B-MISC
 väliin 	 	 	
 ? 	 	 	
  	 	 	
@@ -138152,7 +138152,7 @@ vaarassa
  	 	 	
 <INGRESS> 	 	 	
 Miljoonissa 	 	 	
-Android-puhelimissa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimissa       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 tietoturva-aukko 	 	 	
 , 	 	 	
@@ -138177,7 +138177,7 @@ käytöstä
 Miljoonissa 	 	 	
 käytössä 	 	 	
 olevissa 	 	 	
-Android-puhelimissa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimissa       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 aukko 	 	 	
 , 	 	 	
@@ -138195,7 +138195,7 @@ Mahdollisesti
 vaarallinen 	 	 	
 tietoturva-aukko 	 	 	
 on 	 	 	
-Android-puhelimissa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimissa       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joiden 	 	 	
 käyttöjärjestelmä 	 	 	
@@ -138236,7 +138236,7 @@ verkkoselaimesta
 . 	 	 	
  	 	 	
 Yksi 	 	 	
-Android-puhelimien       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimien       	B-MISC	B-MISC	B-MISC
 tietoturvamenetelmistä 	 	 	
 on 	 	 	
 Same       	B-MISC 	B-MISC 	B-MISC
@@ -138273,7 +138273,7 @@ ohittamaan
 . 	 	 	
  	 	 	
 Käytännössä 	 	 	
-Android-puhelimellaan       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimellaan       	B-MISC	B-MISC	B-MISC
 Facebookia       	B-PRO 	B-PRO 	B-PRO
 käyttävä 	 	 	
 voidaan 	 	 	
@@ -138288,7 +138288,7 @@ hyökkääjä
 onnistuu 	 	 	
 lataamaan 	 	 	
 puhelimelle 	 	 	
-JavaScript-tiedoston       	B-PRO 	B-PRO 	B-PRO
+JavaScript-tiedoston       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Tämän 	 	 	
@@ -138376,7 +138376,7 @@ torjua
 hyökkäys 	 	 	
 on 	 	 	
 poistaa 	 	 	
-Android-puhelimen       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimen       	B-MISC	B-MISC	B-MISC
 oletusselain 	 	 	
 käytöstä 	 	 	
 puhelimen 	 	 	
@@ -138670,7 +138670,7 @@ Interview       	I-PRO 	I-PRO 	I-PRO
 -elokuvan       	I-PRO 	I-PRO 	I-PRO
 suosiota 	 	 	
 käytetään 	 	 	
-Android-puhelimien       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimien       	B-MISC	B-MISC	B-MISC
 omistajien 	 	 	
 pankkitilien 	 	 	
 tyhjentämiseen 	 	 	
@@ -138688,7 +138688,7 @@ Interview       	I-PRO 	I-PRO 	I-PRO
 suosiosta 	 	 	
 . 	 	 	
  	 	 	
-Android-puhelimista       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimista       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 löydetty 	 	 	
 vaarallinen 	 	 	
@@ -138730,7 +138730,7 @@ voi
 ladata 	 	 	
 katsottavaksi 	 	 	
 omalle 	 	 	
-Android-puhelimelleen       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimelleen       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 kertoo 	 	 	
 tietoturva-asiantuntija       	 	B-TIT 	B-TIT
@@ -139072,7 +139072,7 @@ Osaisitko
 varoa 	 	 	
 ? 	 	 	
  	 	 	
-Zip-pakettien       	B-MISC 	B-MISC 	B-MISC
+Zip-pakettien       			
 purkaja 	 	 	
 päästää 	 	 	
 konnat 	 	 	
@@ -139123,7 +139123,7 @@ on
 tarkoitettu 	 	 	
 purkamaan 	 	 	
 pakattuja 	 	 	
-zip-tiedostoja       	B-MISC 	B-MISC 	B-MISC
+zip-tiedostoja       			´
 . 	 	 	
  	 	 	
 Unzipissä       	B-PRO 	B-PRO 	B-PRO
@@ -139167,7 +139167,7 @@ kun
 tietyllä 	 	 	
 tavalla 	 	 	
 muotoiltu 	 	 	
-zip-tiedosto       	B-MISC 	B-MISC 	B-MISC
+zip-tiedosto       			
 puretaan 	 	 	
 Unzip-ohjelmalla       	B-PRO 	B-PRO 	B-PRO
 käyttämällä 	 	 	
@@ -139202,7 +139202,7 @@ ylivuoto
 aukosta 	 	 	
 . 	 	 	
  	 	 	
-Zip       	B-MISC 	B-MISC 	B-MISC
+Zip       			
 on 	 	 	
 tiedostojen 	 	 	
 pakkausmuoto 	 	 	
@@ -139223,7 +139223,7 @@ Windowsissa       	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 sisäänrakennettu 	 	 	
 tuki 	 	 	
-zip-pakkaukselle       	B-MISC 	B-MISC 	B-MISC
+zip-pakkaukselle       			
 . 	 	 	
  	 	 	
 Aukot 	 	 	
@@ -139762,8 +139762,8 @@ omaksi
 huvikseen 	 	 	
 . 	 	 	
  	 	 	
-Script      	B-MISC 	B-MISC 	B-MISC
-kidit      	I-MISC 	I-MISC 	I-MISC
+Script      			
+kidit      			
 eivät 	 	 	
 ole 	 	 	
 kadonneet 	 	 	
@@ -139775,8 +139775,8 @@ Squadin       	 	I-ORG 	I-ORG
 jäseniä 	 	 	
 nimitetään 	 	 	
 " 	 	 	
-script       	B-MISC 	B-MISC 	B-MISC
-kideiksi       	I-MISC 	I-MISC 	I-MISC
+script       			
+kideiksi       			
 " 	 	 	
 . 	 	 	
  	 	 	
@@ -139814,8 +139814,8 @@ halu
 Vielä 	 	 	
 viime      	 	 	B-TIM
 vuosikymmenellä      	 	 	I-TIM
-script       	B-MISC 	B-MISC 	B-MISC
-kidejä       	I-MISC 	I-MISC 	I-MISC
+script       			
+kidejä       			
 pidettiin 	 	 	
 todellisena 	 	 	
 tietoturvauhkana 	 	 	
@@ -139836,8 +139836,8 @@ vakavammin
 ? 	 	 	
  	 	 	
 – 	 	 	
-Script       	B-MISC 	B-MISC 	B-MISC
-kidejä       	I-MISC 	I-MISC 	I-MISC
+Script       			
+kidejä       			
 on 	 	 	
 edelleen     	 	 	B-TIM
 , 	 	 	
@@ -139855,8 +139855,8 @@ se
 on 	 	 	
 vakavampaa 	 	 	
 kuin 	 	 	
-script       	B-MISC 	B-MISC 	B-MISC
-kidien       	I-MISC 	I-MISC 	I-MISC
+script       			
+kidien       			
 touhu 	 	 	
 , 	 	 	
 sanoo 	 	 	
@@ -139884,8 +139884,8 @@ että
 F-Securen       	 	B-ORG 	B-ORG
 Hyppönen       	 	B-PER 	B-PER
 sijoittavat 	 	 	
-script       	B-MISC 	B-MISC 	B-MISC
-kidit       	I-MISC 	I-MISC 	I-MISC
+script       			
+kidit       			
 samaan 	 	 	
 luokkaan 	 	 	
 hakkeri-aktivistien 	 	 	
@@ -139915,8 +139915,8 @@ Hyppösen       	 	B-PER 	B-PER
 mukaan 	 	 	
 uuden      	 	 	B-TIM
 polven 	 	 	
-script       	B-MISC 	B-MISC 	B-MISC
-kidit       	I-MISC 	I-MISC 	I-MISC
+script       			
+kidit       			
 ovat 	 	 	
 olleet 	 	 	
 koko 	 	 	
@@ -140509,14 +140509,14 @@ muun
 muassa 	 	 	
 Skype-puhelujen       	B-MISC 	B-MISC 	B-MISC
 ja 	 	 	
-vpn-yhteyksien       	B-MISC 	B-MISC 	B-MISC
+vpn-yhteyksien       			
 aukeavan 	 	 	
 vakoiluvirastolle 	 	 	
 . 	 	 	
  	 	 	
 Samoin 	 	 	
 on 	 	 	
-https-suojauksen       	B-MISC 	B-MISC 	B-MISC
+https-suojauksen       			
 laita 	 	 	
 . 	 	 	
  	 	 	
@@ -140632,11 +140632,11 @@ on
 päässyt 	 	 	
 käsiksi 	 	 	
 sähköpostisovelluksella 	 	 	
-imap-       	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-smtp-       	B-PRO 	B-PRO 	B-PRO
-ja 	 	 	
-pop3-protokollien       	B-PRO 	B-PRO 	B-PRO
+imap-       			
+, 			
+smtp-       			
+ja 			
+pop3-protokollien       			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -140711,7 +140711,7 @@ Se
 sanoo 	 	 	
 , 	 	 	
 että 	 	 	
-vpn-virtuaaliverkot       	B-MISC 	B-MISC 	B-MISC
+vpn-virtuaaliverkot       			
 ovat 	 	 	
 jäämässä 	 	 	
 ainoaksi 	 	 	
@@ -141250,7 +141250,7 @@ johtaja       	 	B-TIT 	B-TIT
 Chris       	 	B-PER 	B-PER
 Betz       	 	I-PER 	I-PER
 sanoi 	 	 	
-Computerworldin       	B-PRO 	B-PRO 	B-PRO
+Computerworldin       		B-ORG	B-ORG
 mukaan 	 	 	
 , 	 	 	
 että 	 	 	
@@ -141479,7 +141479,7 @@ Applen       	 	B-ORG 	B-ORG
 osalta 	 	 	
 vakavia 	 	 	
 haavoittuvuuksia 	 	 	
-NTP-protokollasta       	B-PRO 	B-PRO 	B-PRO
+NTP-protokollasta       			
 , 	 	 	
 jota 	 	 	
 käytetään 	 	 	
@@ -141491,7 +141491,7 @@ oikeassa
 ajassa 	 	 	
 . 	 	 	
  	 	 	
-NTP-aukot       	B-MISC 	B-MISC 	B-MISC
+NTP-aukot       			
 tulivat 	 	 	
 julkisiksi 	 	 	
 viikonloppuna       	 	 	B-TIM
@@ -141553,7 +141553,7 @@ vuorovaikutusta
 asentuakseen 	 	 	
 . 	 	 	
  	 	 	
-NTP:n       	B-PRO 	B-PRO 	B-PRO
+NTP:n       			
 aukot 	 	 	
 ovat 	 	 	
 huomattavasti 	 	 	
@@ -141629,7 +141629,7 @@ itäeurooppalaisen
 pankin 	 	 	
 järjestelmiin 	 	 	
 , 	 	 	
-KrebsonSecurity-blogi       	B-PRO 	B-PRO 	B-PRO
+KrebsonSecurity-blogi       		B-ORG	B-ORG
 kirjoittaa 	 	 	
 hollantilaisen 	 	 	
 Foc-IT:n     	 	B-ORG 	B-ORG
@@ -142189,7 +142189,7 @@ Haittaohjelma
 toimii 	 	 	
 tiettävästi 	 	 	
 vain 	 	 	
-Windows-tietokoneissa       	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneissa       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Tietoturva-asiantuntijoiden 	 	 	
@@ -143538,7 +143538,7 @@ Kimmokkeena
 tiimin 	 	 	
 perustamiselle 	 	 	
 toimi 	 	 	
-Heartbleed-aukko 	 	 	
+Heartbleed-aukko 	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 NSA:n     	 	B-ORG 	B-ORG
 sen 	 	 	
@@ -144505,7 +144505,7 @@ iOS:lle     	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
 Outlookin       	B-PRO 	B-PRO 	B-PRO
-mobiiliversio       	I-PRO 	I-PRO 	I-PRO
+mobiiliversio       			
 on 	 	 	
 vain 	 	 	
 uudelleennimetty 	 	 	
