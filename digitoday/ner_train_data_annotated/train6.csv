@@ -159999,7 +159999,7 @@ vaimolle
 jos 	 	 	
 mies 	 	 	
 katselee 	 	 	
-väärää 	 	 	
+väärää 		 	
 naista 	 	 	
 liian      	 	 	B-TIM
 pitkään      	 	 	I-TIM
@@ -160082,10 +160082,10 @@ Sanomien       	 	I-ORG 	I-ORG
 mukaan 	 	 	
 älykalsarit 	 	 	
 voittivat 	 	 	
-Sports       	B-MISC 	B-MISC 	B-MISC
-&       	I-MISC 	I-MISC 	I-MISC
-Fitness       	I-MISC 	I-MISC 	I-MISC
--sarjan       	I-MISC 	I-MISC 	I-MISC
+Sports       			
+&       			
+Fitness       			
+-sarjan       			
 ISPO-messujen       	 	B-EVENT 	B-EVENT
 yhteydessä 	 	 	
 pidetyssä 	 	 	
@@ -160258,7 +160258,7 @@ siis
 kuin 	 	 	
 mikä 	 	 	
 tahansa 	 	 	
-Android-puhelin       	B-PRO 	B-PRO 	B-PRO
+Android-puhelin       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Ainoa 	 	 	
@@ -160755,29 +160755,29 @@ Android       	B-PRO 	B-PRO 	B-PRO
 4.1       	I-PRO 	I-PRO 	I-PRO
 Ääniformaatit 	 	 	
 : 	 	 	
-mp3      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-flac      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-aac      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-wma      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-lpcm 	 	 	
- 	 	 	
-Videoformaatit 	 	 	
-: 	 	 	
-mpeg4      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-avc      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-wmv9      	B-PRO 	B-PRO 	B-PRO
- 	 	 	
-Muuta 	 	 	
-: 	 	 	
-nappikuulokkeet 	 	 	
-, 	 	 	
-fm-viritin      	B-MISC 	B-MISC 	B-MISC
+mp3      			
+, 			
+flac      			
+, 			
+aac      			
+, 			
+wma      			
+, 			
+lpcm 			
+ 			
+Videoformaatit 			
+: 			
+mpeg4      			
+, 			
+avc      			
+, 			
+wmv9      			
+ 			
+Muuta 			
+: 			
+nappikuulokkeet 			
+, 			
+fm-viritin      			
 , 	 	 	
 vastamelutoiminto 	 	 	
  	 	 	
@@ -161204,7 +161204,7 @@ WSJ       	 	B-ORG 	B-ORG
 : 	 	 	
 Nokia       	 	B-ORG 	B-ORG
 julkistaa 	 	 	
-Android-puhelimen       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimen       	B-MISC	B-MISC	B-MISC
 vielä 	 	 	
 helmikuussa       	 	B-DATE 	B-TIM
  	 	 	
@@ -161218,7 +161218,7 @@ vielä
 tässä       	 	 	B-TIM
 kuussa       	 	 	I-TIM
 halvan 	 	 	
-Android-älypuhelimen       	B-PRO 	B-PRO 	B-PRO
+Android-älypuhelimen       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 kertoo 	 	 	
 Wall       	 	B-ORG 	B-ORG
@@ -161246,7 +161246,7 @@ että
 Nokia       	 	B-ORG 	B-ORG
 julkistaa 	 	 	
 uuden      	 	 	B-TIM
-Android-puhelimensa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimensa       	B-MISC	B-MISC	B-MISC
 Barcelonan       	 	B-LOC 	B-LOC
 Mobile       	 	B-EVENT 	B-EVENT
 World       	 	I-EVENT 	I-EVENT
@@ -161341,7 +161341,7 @@ Microsoft       	 	B-ORG 	B-ORG
 kosiskelee 	 	 	
 : 	 	 	
 Sonylta       	 	B-ORG 	B-ORG
-Windows-puhelin       	B-PRO 	B-PRO 	B-PRO
+Windows-puhelin       	B-MISC	B-MISC	B-MISC
 tänä       	 	 	B-TIM
 vuonna       	 	 	I-TIM
 ? 	 	 	
@@ -161381,7 +161381,7 @@ muitakin
 valmistajia 	 	 	
 itsensä 	 	 	
 lisäksi 	 	 	
-Windows-puhelimia       	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimia       	B-MISC	B-MISC	B-MISC
 tekemään 	 	 	
 . 	 	 	
  	 	 	
@@ -161522,7 +161522,7 @@ kärsinyt
 , 	 	 	
 sen 	 	 	
 uusi      	 	 	B-TIM
-Android-puhelin       	B-PRO 	B-PRO 	B-PRO
+Android-puhelin       	B-MISC	B-MISC	B-MISC
 Xperia       	B-PRO 	B-PRO 	B-PRO
 Z1       	I-PRO 	I-PRO 	I-PRO
 osoittautui 	 	 	
@@ -162204,7 +162204,7 @@ Jos
 näin 	 	 	
 tapahtuu 	 	 	
 , 	 	 	
-Lumia-tablettisarjalle       	B-PRO 	B-PRO 	B-PRO
+Lumia-tablettisarjalle       	B-MISC	B-MISC	B-MISC
 ei 	 	 	
 jää 	 	 	
 välttämättä 	 	 	
@@ -162841,7 +162841,7 @@ samankaltaista
 nahkajäljitelmää 	 	 	
 kuin 	 	 	
 valmistajan 	 	 	
-Note-malleissa       	B-MISC 	B-MISC 	B-MISC
+Note-malleissa       	B-PRO	B-PRO	B-PRO
 on 	 	 	
 nähty 	 	 	
 . 	 	 	
@@ -162921,7 +162921,7 @@ siitä
 suoran 	 	 	
 kilpailijan 	 	 	
 iPadien       	B-PRO 	B-PRO 	B-PRO
-retina-näytöille       	B-MISC 	B-MISC 	B-MISC
+retina-näytöille       			
 . 	 	 	
  	 	 	
 Käyttöjärjestelmä 	 	 	
