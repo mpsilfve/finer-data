@@ -151973,8 +151973,8 @@ tallentamisen
 Tämä 	 	 	
 niin 	 	 	
 sanottu 	 	 	
-Big       	B-MISC 	B-MISC 	B-MISC
-Data       	I-MISC 	I-MISC 	I-MISC
+Big       			
+Data       			
 tekee 	 	 	
 esimerkiksi 	 	 	
 yhteiskuntatieteellisen 	 	 	
@@ -153325,7 +153325,7 @@ muun
 muassa 	 	 	
 laajasti 	 	 	
 käytetyn 	 	 	
-javascript-kielen       	B-PRO 	B-PRO 	B-PRO
+javascript-kielen       			
 luoja 	 	 	
 , 	 	 	
 vetosi 	 	 	
@@ -156633,14 +156633,14 @@ hyöty
 6.5.2014 14:12 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Gregg 	 	 	
-Steinhafel 	 	 	
+Gregg 	 	B-PER	B-PER
+Steinhafel 	 	I-PER	I-PER
 kantaa 	 	 	
 vastuunsa 	 	 	
 valtavasta 	 	 	
 korttimurrosta 	 	 	
 eroamalla 	 	 	
-Targetin 	 	 	
+Targetin 	 	B-ORG	B-ORG
 johdosta 	 	 	
 . 	 	 	
  	 	 	
@@ -156661,15 +156661,15 @@ suuhun
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
-Tietoturvatutkija 	 	 	
-Brian 	 	 	
-Krebs 	 	 	
+Tietoturvatutkija 	 	B-TIT	B-TIT
+Brian 	 	B-PER	B-PER
+Krebs 	 	I-PER	I-PER
 listasi 	 	 	
 blogissaan 	 	 	
 oleelliset 	 	 	
 luvut 	 	 	
-Target- 	 	 	
-fiaskosta 	 	 	
+Target- 	B-MISC	B-MISC	B-MISC
+fiaskosta 	I-MISC	I-MISC	I-MISC
 . 	 	 	
  	 	 	
 Mukana 	 	 	
@@ -156686,7 +156686,7 @@ rikollisten
 kassapäätteistä 	 	 	
 varastamiin 	 	 	
 maksukorttitietoihin 	 	 	
-Targetin 	 	 	
+Targetin 	 	B-ORG	B-ORG
 kaupoissa 	 	 	
 . 	 	 	
  	 	 	
@@ -156725,7 +156725,7 @@ kaksi
 viimeistä 	 	 	
 . 	 	 	
  	 	 	
-Krebs 	 	 	
+Krebs 	 	B-PER	B-PER
 arvioi 	 	 	
 viimeaikaisten      	 	 	B-TIM
 alamaailman 	 	 	
@@ -156733,7 +156733,7 @@ korttihintojen
 perusteella 	 	 	
 , 	 	 	
 että 	 	 	
-Targetiin 	 	 	
+Targetiin 	 	B-ORG	B-ORG
 iskeneet 	 	 	
 rikolliset 	 	 	
 nettosivat 	 	 	
@@ -156753,11 +156753,11 @@ kappaletta
  	 	 	
 Jupakan 	 	 	
 myötä 	 	 	
-Targetin 	 	 	
+Targetin 	 	B-ORG	B-ORG
 johdosta 	 	 	
 lähtevä 	 	 	
-Gregg 	 	 	
-Steinhafel 	 	 	
+Gregg 	 	B-PER	B-PER
+Steinhafel 	 	I-PER	I-PER
 puolestaan 	 	 	
 kuittaa 	 	 	
 mukaansa 	 	 	
@@ -156789,7 +156789,7 @@ tarkastelua
 Yksi 	 	 	
 esimerkki 	 	 	
 on 	 	 	
-Targetin 	 	 	
+Targetin 	 	B-ORG	B-ORG
 lupaama 	 	 	
 100 	 	 	
 miljoonan 	 	 	
@@ -156803,7 +156803,7 @@ että
 ne 	 	 	
 tukevat 	 	 	
 jatkossa      	 	 	B-TIM
-Euroopassa 	 	 	
+Euroopassa 	 	B-LOC	B-LOC
 jo 	 	 	
 varsin 	 	 	
 yleisiä 	 	 	
@@ -156831,7 +156831,7 @@ estänyt
 yhdenkään 	 	 	
 kortin 	 	 	
 varastamista 	 	 	
-Targetin 	 	 	
+Targetin 	 	B-ORG	B-ORG
 tapauksessa 	 	 	
 , 	 	 	
 missä 	 	 	
@@ -158734,7 +158734,7 @@ paljastaa
 Nokia 	 	 	
 matkii 	 	 	
 Lumiaa       	B-PRO 	B-PRO 	B-PRO
-Android-puhelimessa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimessa       	B-MISC	B-MISC	B-MISC
  	 	 	
 <DATE> 	 	 	
 17.1.2014 11:02 	 	 	
@@ -158742,7 +158742,7 @@ Android-puhelimessa       	B-PRO 	B-PRO 	B-PRO
 <INGRESS> 	 	 	
 Nokian       	 	B-ORG 	B-ORG
 kehittämästä 	 	 	
-Android-puhelimesta       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimesta       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 jälleen 	 	 	
 vuotanut 	 	 	
@@ -158862,7 +158862,7 @@ näkymää
 ei 	 	 	
 ole 	 	 	
 tavallisessa 	 	 	
-Android-puhelimessa       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimessa       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 The       	 	B-ORG 	B-ORG
@@ -158932,14 +158932,14 @@ ja
 yhtiö 	 	 	
 tuskin 	 	 	
 haluaa 	 	 	
-Android-puhelimia       	B-PRO 	B-PRO 	B-PRO
+Android-puhelimia       	B-MISC	B-MISC	B-MISC
 mallistoonsa 	 	 	
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
 Kehittäjä 	 	 	
 paljasti 	 	 	
-Firefox-tabletin       	B-PRO 	B-PRO 	B-PRO
+Firefox-tabletin       	B-MISC	B-MISC	B-MISC
 sisuskalut 	 	 	
  	 	 	
 <DATE> 	 	 	
@@ -158948,7 +158948,7 @@ sisuskalut
 <INGRESS> 	 	 	
 Mozillan       	 	B-ORG 	B-ORG
 ensimmäinen 	 	 	
-Firefox-tabletti       	B-PRO 	B-PRO 	B-PRO
+Firefox-tabletti       	B-MISC	B-MISC	B-MISC
 ei 	 	 	
 teknisten 	 	 	
 tietojen 	 	 	
@@ -159015,7 +159015,7 @@ kirjoittaa
 . 	 	 	
  	 	 	
 Ensimmäinen 	 	 	
-Firefox-tablet-tietokone       	B-PRO 	B-PRO 	B-PRO
+Firefox-tablet-tietokone       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 teknisiltä 	 	 	
 ominaisuuksiltaan 	 	 	
@@ -159064,7 +159064,7 @@ New       	I-PRO 	I-PRO 	I-PRO
 tab       	I-PRO 	I-PRO 	I-PRO
 F1:ksi     	I-PRO 	I-PRO 	I-PRO
 ristityn 	 	 	
-Firefox-tabletin       	B-PRO 	B-PRO 	B-PRO
+Firefox-tabletin       	B-MISC	B-MISC	B-MISC
 näyttönä 	 	 	
 toimii 	 	 	
 10,1-tuumainen 	 	 	
@@ -159082,11 +159082,11 @@ valmistamasta
 laitteesta 	 	 	
 löytyy 	 	 	
 myös 	 	 	
-wi-fi-      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-microsd-      	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-microusb-      	B-PRO 	B-PRO 	B-PRO
+wi-fi-      			
+, 			
+microsd-      			
+, 			
+microusb-      			
 sekä 	 	 	
 kuulokeliitäntä 	 	 	
 . 	 	 	
@@ -159111,9 +159111,9 @@ tabletista
 löytyy 	 	 	
 gyroskooppi 	 	 	
 , 	 	 	
-gps     	B-PRO 	B-PRO 	B-PRO
-sekä 	 	 	
-bluetooth       	B-PRO 	B-PRO 	B-PRO
+gps     			
+sekä 			
+bluetooth       			
 . 	 	 	
  	 	 	
 Akun 	 	 	
@@ -159123,7 +159123,7 @@ on
 milliampeerituntia 	 	 	
 . 	 	 	
  	 	 	
-Firefox-tabletti       	B-PRO 	B-PRO 	B-PRO
+Firefox-tabletti       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 leveydeltään 	 	 	
 266 	 	 	
