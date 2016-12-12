@@ -163689,7 +163689,7 @@ nähtävästi
 pelästyi 	 	 	
 tarpeeksi 	 	 	
 kehittääkseen 	 	 	
-Gorilla-lasistaan       	B-PRO 	B-PRO 	B-PRO
+Gorilla-lasistaan       	B-MISC	B-MISC	B-MISC
 vieläkin 	 	 	
 paremman 	 	 	
 version 	 	 	
@@ -165166,14 +165166,14 @@ gigan
 muistikortit 	 	 	
 eivät 	 	 	
 toimi 	 	 	
-Windows-tietokoneissa       	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneissa       	B-MISC	B-MISC	B-MISC
 tai 	 	 	
 muissa 	 	 	
 laitteissa 	 	 	
 , 	 	 	
 jotka 	 	 	
 käyttävät 	 	 	
-microSDXC-formaattia       	B-MISC 	B-MISC 	B-MISC
+microSDXC-formaattia       			
 . 	 	 	
  	 	 	
 Syynä 	 	 	
@@ -166233,7 +166233,7 @@ vastaamaan
 niihin 	 	 	
 toisin 	 	 	
 kuin 	 	 	
-Android-laitteiden       	B-PRO 	B-PRO 	B-PRO
+Android-laitteiden       	B-MISC	B-MISC	B-MISC
 käyttäjät 	 	 	
 . 	 	 	
  	 	 	
@@ -166287,7 +166287,7 @@ käyttäjä
 Ryan       	 	B-PER 	B-PER
 Mottin       	 	I-PER 	I-PER
 kommentista 	 	 	
-Glass-blogissa       	B-PRO 	B-PRO 	B-PRO
+Glass-blogissa       		B-ORG	B-ORG
 : 	 	 	
  	 	 	
 – 	 	 	
@@ -166470,7 +166470,7 @@ piikit
 lasketaan 	 	 	
 . 	 	 	
  	 	 	
-Bluetooth-paritus     	B-MISC 	B-MISC 	B-MISC
+Bluetooth-paritus     			
 Galaxy       	B-PRO 	B-PRO 	B-PRO
 S5:n     	I-PRO 	I-PRO 	I-PRO
 kanssa 	 	 	
@@ -166499,7 +166499,7 @@ jälkeen
 . 	 	 	
  	 	 	
 Sitten 	 	 	
-Fit 	 	 	
+Fit 	B-PRO	B-PRO	B-PRO
 asettui 	 	 	
 kiltisti 	 	 	
 ruotuun 	 	 	
@@ -166516,7 +166516,7 @@ ihmisiksi
 Sitten 	 	 	
 käyttämään 	 	 	
  	 	 	
-Fitin 	 	 	
+Fitin 	B-PRO	B-PRO	B-PRO
 ranneke 	 	 	
 on 	 	 	
 muoviseosta 	 	 	
@@ -166574,7 +166574,7 @@ antamat
 ilmoitukset 	 	 	
 voi 	 	 	
 ohjata 	 	 	
-Fitiin 	 	 	
+Fitiin 	B-PRO	B-PRO	B-PRO
 . 	 	 	
  	 	 	
 Se 	 	 	
@@ -166640,7 +166640,7 @@ näppärästi
 päivätavoitteet 	 	 	
 , 	 	 	
 ja 	 	 	
-Fit 	 	 	
+Fit 	B-PRO	B-PRO	B-PRO
 antaa 	 	 	
 väliaikatietoja 	 	 	
 etenemisestä 	 	 	
@@ -166694,7 +166694,7 @@ sen
 mittaa 	 	 	
 . 	 	 	
  	 	 	
-Fitin 	 	 	
+Fitin 	B-PRO	B-PRO	B-PRO
 lataaminen 	 	 	
 vaatii 	 	 	
 kelloon 	 	 	
@@ -166783,7 +166783,7 @@ kello
 on 	 	 	
 . 	 	 	
  	 	 	
-Fit 	 	 	
+Fit 	B-PRO	B-PRO	B-PRO
 saa 	 	 	
 risuja 	 	 	
 yhteensopivuudesta 	 	 	
@@ -167011,14 +167011,14 @@ vuoden       	 	 	I-TIM
 ajan       	 	 	I-TIM
 työntämällä 	 	 	
 uusiin      	 	 	B-TIM
-Galaxy       	B-PRO 	B-PRO 	B-PRO
-S       	I-PRO 	I-PRO 	I-PRO
--sarjalaisiinsa       	I-PRO 	I-PRO 	I-PRO
+Galaxy       	B-MISC	B-MISC	B-MISC
+S       	I-MISC	I-MISC	I-MISC
+-sarjalaisiinsa       	I-MISC	I-MISC	I-MISC
 ja 	 	 	
-Note-laitteisiin 	 	 	
+Note-laitteisiin 	B-PRO	B-PRO	B-PRO
 niin 	 	 	
 paljon 	 	 	
-tavaraa 	 	 	
+tavaraa 		 	
 ja 	 	 	
 ominaisuuksia 	 	 	
 kuin 	 	 	
@@ -167431,7 +167431,7 @@ sanoi
 puli 	 	 	
 puli 	 	 	
  	 	 	
-S5:n 	 	 	
+S5:n 	B-PRO 	B-PRO 	B-PRO
 ehkä 	 	 	
 merkittävin 	 	 	
 uudistus 	 	 	
@@ -167449,7 +167449,7 @@ paniikki
 , 	 	 	
 mutta 	 	 	
 puhelimen 	 	 	
-IP67-luokituksen      	B-MISC 	B-MISC 	B-MISC
+IP67-luokituksen      			
 mukaan 	 	 	
 se 	 	 	
 on 	 	 	
@@ -167677,12 +167677,12 @@ Samsung       	 	B-ORG 	B-ORG
 tuo 	 	 	
 myöhemmin       	 	 	B-TIM
 osan 	 	 	
-S5:n 	 	 	
+S5:n 	B-PRO 	B-PRO 	B-PRO
 ohjelmallisesti 	 	 	
 toteutetuista 	 	 	
 ominaisuuksista 	 	 	
 myös 	 	 	
-S4:ään 	 	 	
+S4:ään 	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 mahdollisesti 	 	 	
 vanhempiinkin 	 	 	
@@ -167725,7 +167725,7 @@ ole
 parannettu 	 	 	
 . 	 	 	
  	 	 	
-S5:n 	 	 	
+S5:n 	B-PRO 	B-PRO 	B-PRO
 tekstinsyöttö 	 	 	
 ja 	 	 	
 automaattikorjaus 	 	 	
@@ -167838,7 +167838,7 @@ menettelee
 . 	 	 	
  	 	 	
 Ainakaan 	 	 	
-S4:stä 	 	 	
+S4:stä 	B-PRO 	B-PRO 	B-PRO
 ei 	 	 	
 kenenkään 	 	 	
 kannata 	 	 	
@@ -167848,7 +167848,7 @@ päivittää
 . 	 	 	
  	 	 	
 Muiden 	 	 	
-S5-ostajakandidaattien 	 	 	
+S5-ostajakandidaattien 	B-MISC	B-MISC	B-MISC
 kannattaa 	 	 	
 esittää 	 	 	
 itselleen 	 	 	
@@ -167873,7 +167873,7 @@ parempi
 hinta-laatusuhde 	 	 	
 . 	 	 	
  	 	 	
-S5:n 	 	 	
+S5:n 	B-PRO	B-PRO	B-PRO
 hinta 	 	 	
 on 	 	 	
 noin 	 	 	
@@ -168108,7 +168108,7 @@ on
 suoraviivaista 	 	 	
 . 	 	 	
  	 	 	
-Android-laitteeseen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteeseen       	B-MISC	B-MISC	B-MISC
 ladataan 	 	 	
 Chromecast-sovellus       	B-PRO 	B-PRO 	B-PRO
 , 	 	 	
@@ -168126,7 +168126,7 @@ kuvalähde
  	 	 	
 Chromecast       	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
-Android-laite       	B-PRO 	B-PRO 	B-PRO
+Android-laite       	B-MISC	B-MISC	B-MISC
 kättelevät 	 	 	
 tilapäisverkon 	 	 	
 kautta 	 	 	
@@ -168287,7 +168287,7 @@ ruudun
 peilaus 	 	 	
 , 	 	 	
 sillä 	 	 	
-Android-laitteella       	B-PRO 	B-PRO 	B-PRO
+Android-laitteella       	B-MISC	B-MISC	B-MISC
 voi 	 	 	
 katsella 	 	 	
 eri 	 	 	
@@ -168314,7 +168314,7 @@ levyraadin
 pitämisen 	 	 	
 . 	 	 	
  	 	 	
-Android-laitteen       	B-PRO 	B-PRO 	B-PRO
+Android-laitteen       	B-MISC	B-MISC	B-MISC
 ohella 	 	 	
 Chromecastia       	B-PRO 	B-PRO 	B-PRO
 voi 	 	 	
@@ -169619,7 +169619,7 @@ alkoi
 ennen      	 	 	B-TIM
 pitkää      	 	 	I-TIM
 tulla 	 	 	
-Symbian-puhelimille       	B-PRO 	B-PRO 	B-PRO
+Symbian-puhelimille       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 mutta 	 	 	
 ne 	 	 	
@@ -169678,7 +169678,7 @@ ehtinyt
 M510:n     	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 Applen       	 	B-ORG 	B-ORG
-iOS-laitteiden       	B-PRO 	B-PRO 	B-PRO
+iOS-laitteiden       	B-MISC	B-MISC	B-MISC
 julkaisun 	 	 	
 välissä 	 	 	
 luoda 	 	 	
@@ -170149,7 +170149,7 @@ Yliruusi       	 	I-PER 	I-PER
 työskenteli 	 	 	
 tablettiprojektissa 	 	 	
 vuodenvaihteesta       	 	 	B-TIM
-2000/2001     	 	 	I-TIM
+2000/2001     	 		I-TIM
 hankkeen 	 	 	
 lopettamiseen 	 	 	
 asti 	 	 	
@@ -170696,7 +170696,7 @@ M510:n     	I-PRO 	I-PRO 	I-PRO
 videoesittely 	 	 	
 on 	 	 	
 katsottavissa 	 	 	
-Ilta-Sanomissa       	B-PRO 	B-PRO 	B-PRO
+Ilta-Sanomissa       		B-ORG	B-ORG
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -170960,7 +170960,7 @@ mitkä
 laitteista 	 	 	
 ovat 	 	 	
 ehkä 	 	 	
-Windows-puhelimia       	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimia       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 mitkä 	 	 	
 vaikkapa 	 	 	
@@ -171340,7 +171340,7 @@ kuussa       	 	 	I-TIM
 Google       	 	B-ORG 	B-ORG
 julkisti 	 	 	
 Androidista       	B-PRO 	B-PRO 	B-PRO
-Wear-version       	B-PRO 	B-PRO 	B-PRO
+Wear-version       	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joka 	 	 	
 on 	 	 	
@@ -172097,7 +172097,7 @@ erilaisia
 biometrisiä 	 	 	
 tunnistimia 	 	 	
 , 	 	 	
-nfc-lähiluku     	B-MISC 	B-MISC 	B-MISC
+nfc-lähiluku     			
 , 	 	 	
 langaton 	 	 	
 lataus 	 	 	
@@ -172224,7 +172224,7 @@ A8-prosessori       	B-PRO 	B-PRO 	B-PRO
 sekä 	 	 	
 sormenjälkitunnistin 	 	 	
 sekä 	 	 	
-nfc-lähiverkkoyhteys     	B-MISC 	B-MISC 	B-MISC
+nfc-lähiverkkoyhteys     			
 . 	 	 	
  	 	 	
 Ming       	 	B-PER 	B-PER
@@ -172301,8 +172301,8 @@ pakottamatta
  	 	 	
 <INGRESS> 	 	 	
 Teknologiayhtiö 	 	 	
-Nokia 	 	 	
-on       	 	B-ORG 	B-ORG
+Nokia 	 	B-ORG 	B-ORG
+on       	 		
 julkaissut 	 	 	
 uuden      	 	 	B-TIM
 halpapuhelimen 	 	 	
@@ -172905,8 +172905,8 @@ jonka
 Apple       	 	B-ORG 	B-ORG
 haluaa 	 	 	
 vaihtaa 	 	 	
-lcd:stä     	B-PRO 	B-PRO 	B-PRO
-oled-tekniikkaan      	B-PRO 	B-PRO 	B-PRO
+lcd:stä     			
+oled-tekniikkaan      			
 . 	 	 	
  	 	 	
 Mahdollinen 	 	 	
@@ -174012,7 +174012,7 @@ näppäimistösovitin
 mahdollisti 	 	 	
 laitteen 	 	 	
 käytön 	 	 	
-bluetooth-linkin     	B-MISC 	B-MISC 	B-MISC
+bluetooth-linkin     			
 10 	 	 	
 metrin 	 	 	
 etäisyydeltä 	 	 	
@@ -174229,7 +174229,7 @@ katukelpoinen
 ? 	 	 	
  	 	 	
 Diili 	 	 	
-Ray-Ban-valmistajan       	B-MISC 	B-MISC 	B-MISC
+Ray-Ban-valmistajan       		B-ORG	B-ORG
 kanssa 	 	 	
  	 	 	
 <DATE> 	 	 	
