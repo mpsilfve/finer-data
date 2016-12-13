@@ -175211,7 +175211,7 @@ Ubuntu-vempaimia       	B-MISC	B-MISC	B-MISC
  	 	 	
 <INGRESS> 	 	 	
 Ensimmäiset 	 	 	
-Ubuntu-älypuhelimet       	B-PRO	B-PRO	B-PRO
+Ubuntu-älypuhelimet       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 -tabletit       			
 ovat 	 	 	
@@ -175255,7 +175255,7 @@ osoitti
 , 	 	 	
 että 	 	 	
 kysyntää 	 	 	
-Ubuntu-mobiililaitteille       	B-PRO	B-PRO	B-PRO
+Ubuntu-mobiililaitteille       	B-MISC	B-MISC	B-MISC
 on 	 	 	
 olemassa 	 	 	
 . 	 	 	
@@ -175270,7 +175270,7 @@ Shuttleworth       	 	I-PER 	I-PER
 vahvistaa 	 	 	
 , 	 	 	
 että 	 	 	
-Ubuntu-tabletit       	B-PRO	B-PRO	B-PRO
+Ubuntu-tabletit       	B-MISC	B-MISC	B-MISC
 ja 	 	 	
 älypuhelimet 	 	 	
 hyökkäävät 	 	 	
@@ -175288,7 +175288,7 @@ myyntiin
 melko 	 	 	
 samaan      	 	 	B-TIM
 aikaan      	 	 	I-TIM
-Ubuntu-älypuhelimien       	B-PRO	B-PRO	B-PRO
+Ubuntu-älypuhelimien       	B-MISC	B-MISC	B-MISC
 kanssa 	 	 	
 vuoden       	 	 	B-TIM
 kolmannella       	 	 	I-TIM
@@ -175330,7 +175330,7 @@ kohtaan
 . 	 	 	
  	 	 	
 Todennäköisesti 	 	 	
-Ubuntu-tabletin       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-tabletin       	B-MISC	B-MISC	B-MISC
 valmistuksesta 	 	 	
 vastaa 	 	 	
 Bq       	 	B-ORG 	B-ORG
