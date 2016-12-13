@@ -175150,7 +175150,7 @@ BGR       	 	B-ORG 	B-ORG
 oli 	 	 	
 julkaissut 	 	 	
 valokuvia 	 	 	
-Amazon-puhelimen       	B-MISC	B-MISC	B-MISC
+Amazon-puhelimen       	B-PRO	B-PRO	B-PRO
 oletetusta 	 	 	
 prototyypistä 	 	 	
 , 	 	 	
@@ -175204,16 +175204,16 @@ jälkeen      	 	 	I-TIM
 Syksy       	 	 	B-TIM
 tuo 	 	 	
 tullessaan 	 	 	
-Ubuntu-vempaimia       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-vempaimia       	B-MISC	B-MISC	B-MISC
  	 	 	
 <DATE> 	 	 	
 24.3.2014 13:23 	 	 	
  	 	 	
 <INGRESS> 	 	 	
 Ensimmäiset 	 	 	
-Ubuntu-älypuhelimet       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-älypuhelimet       	B-PRO	B-PRO	B-PRO
 ja 	 	 	
--tabletit       	B-PRO 	B-PRO 	B-PRO
+-tabletit       			
 ovat 	 	 	
 tulossa 	 	 	
 myyntiin 	 	 	
@@ -175255,7 +175255,7 @@ osoitti
 , 	 	 	
 että 	 	 	
 kysyntää 	 	 	
-Ubuntu-mobiililaitteille       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-mobiililaitteille       	B-PRO	B-PRO	B-PRO
 on 	 	 	
 olemassa 	 	 	
 . 	 	 	
@@ -175270,7 +175270,7 @@ Shuttleworth       	 	I-PER 	I-PER
 vahvistaa 	 	 	
 , 	 	 	
 että 	 	 	
-Ubuntu-tabletit       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-tabletit       	B-PRO	B-PRO	B-PRO
 ja 	 	 	
 älypuhelimet 	 	 	
 hyökkäävät 	 	 	
@@ -175288,7 +175288,7 @@ myyntiin
 melko 	 	 	
 samaan      	 	 	B-TIM
 aikaan      	 	 	I-TIM
-Ubuntu-älypuhelimien       	B-PRO 	B-PRO 	B-PRO
+Ubuntu-älypuhelimien       	B-PRO	B-PRO	B-PRO
 kanssa 	 	 	
 vuoden       	 	 	B-TIM
 kolmannella       	 	 	I-TIM
@@ -175372,10 +175372,10 @@ kaksi
 Älynsä 	 	 	
 lamput 	 	 	
 saavat 	 	 	
-Android-       	B-PRO 	B-PRO 	B-PRO
+Android-       	B-MISC	B-MISC	B-MISC
 tai 	 	 	
-iOS-laitteista       	B-PRO 	B-PRO 	B-PRO
-bluetoothin     	B-PRO 	B-PRO 	B-PRO
+iOS-laitteista       	B-MISC	B-MISC	B-MISC
+bluetoothin     			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -175399,13 +175399,13 @@ Lamp       	I-PRO 	I-PRO 	I-PRO
  	 	 	
 Älylamppuja 	 	 	
 ohjataan 	 	 	
-Android-       	B-PRO 	B-PRO 	B-PRO
+Android-       	B-MISC	B-MISC	B-MISC
 tai 	 	 	
-iOS-laitteiden       	B-PRO 	B-PRO 	B-PRO
+iOS-laitteiden       	B-MISC	B-MISC	B-MISC
 vähävirtaisen 	 	 	
-bluetooth     	B-MISC 	B-MISC 	B-MISC
-le     	I-MISC 	I-MISC 	I-MISC
--yhteyden     	I-MISC 	I-MISC 	I-MISC
+bluetooth     			
+le     			
+-yhteyden     			
 kautta 	 	 	
 . 	 	 	
  	 	 	
@@ -177099,7 +177099,7 @@ toisiin
 . 	 	 	
  	 	 	
 Muita 	 	 	
-Android-laitteiden       	B-PRO 	B-PRO 	B-PRO
+Android-laitteiden       	B-MISC	B-MISC	B-MISC
 käyttäjät 	 	 	
 ovat 	 	 	
 aluksi 	 	 	
@@ -177773,9 +177773,9 @@ rajallisessa
 määrässä 	 	 	
 varhaisen 	 	 	
 tuotannon 	 	 	
-Galaxy       	B-MISC 	B-MISC 	B-MISC
-S5       	I-MISC 	I-MISC 	I-MISC
--kappaleita       	I-MISC 	I-MISC 	I-MISC
+Galaxy       	B-PRO	B-PRO	B-PRO
+S5       	I-PRO	I-PRO	I-PRO
+-kappaleita       	I-PRO	I-PRO	I-PRO
 ja 	 	 	
 se 	 	 	
 johtui 	 	 	
@@ -179043,7 +179043,7 @@ kaiutin
 , 	 	 	
 mikrofoni 	 	 	
 , 	 	 	
-nfc-siru     	B-MISC 	B-MISC 	B-MISC
+nfc-siru     			
 ja 	 	 	
 kosketusanturi 	 	 	
 . 	 	 	
@@ -179284,7 +179284,7 @@ iPadille       	B-PRO 	B-PRO 	B-PRO
 17.1.2015 05:03 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Windows-tabletit       	B-PRO 	B-PRO 	B-PRO
+Windows-tabletit       	B-MISC 	B-MISC 	B-MISC
 alkavat 	 	 	
 olla 	 	 	
 iskukunnossa 	 	 	
@@ -179298,7 +179298,7 @@ niin
 iPadeille       	B-PRO 	B-PRO 	B-PRO
 kuin 	 	 	
 parhaille 	 	 	
-Android-tableteillekin       	B-PRO 	B-PRO 	B-PRO
+Android-tableteillekin       	B-MISC 	B-MISC 	B-MISC
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
@@ -179553,14 +179553,14 @@ arvosanan
 Wiskyssä       	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 normaalien 	 	 	
-bluetoothien     	B-PRO 	B-PRO 	B-PRO
+bluetoothien     			
 ja 	 	 	
 wlanien     	 	 	
 ohella 	 	 	
-mikro-hdmi-      	B-MISC 	B-MISC 	B-MISC
-ja 	 	 	
-- 	 	 	
-usb-liitännät      	B-MISC 	B-MISC 	B-MISC
+mikro-hdmi-      			
+ja 			
+- 			
+usb-liitännät      			
 . 	 	 	
  	 	 	
 Lisäksi 	 	 	
@@ -179907,7 +179907,7 @@ Explorerissa       	I-PRO 	I-PRO 	I-PRO
 Chrome       	B-PRO 	B-PRO 	B-PRO
 myös 	 	 	
 hallitsee 	 	 	
-flash-valikot      	B-MISC 	B-MISC 	B-MISC
+flash-valikot      			
 paremmin 	 	 	
 . 	 	 	
  	 	 	
@@ -180418,7 +180418,7 @@ suomalainen
 tilaaja 	 	 	
 vielä 	 	 	
 odottaa 	 	 	
-Windows-tablettiaan       	B-PRO 	B-PRO 	B-PRO
+Windows-tablettiaan       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Jotkut 	 	 	
@@ -181115,7 +181115,7 @@ julkaiseman
 Lumian       	B-PRO 	B-PRO 	B-PRO
 , 	 	 	
 eli 	 	 	
-535-mallin 	 	 	
+535-mallin 	B-PRO 	B-PRO 	B-PRO
 joulukuussa       	 	B-DATE 	B-TIM
 . 	 	 	
  	 	 	
@@ -181392,10 +181392,10 @@ kohdallaan
 . 	 	 	
  	 	 	
 Halpojen 	 	 	
-Windows-puhelimien       	B-PRO 	B-PRO 	B-PRO
+Windows-puhelimien       	B-MISC	B-MISC	B-MISC
 kilpailuvaltti 	 	 	
 edullisia 	 	 	
-Android-laitteita       	B-PRO 	B-PRO 	B-PRO
+Android-laitteita       	B-MISC	B-MISC	B-MISC
 vastaan 	 	 	
 on 	 	 	
 tähän       	 	 	B-TIM
@@ -181407,7 +181407,7 @@ käytettävyys
 sillä 	 	 	
 alle 	 	 	
 satasen 	 	 	
-Android-laitteiden       	B-PRO 	B-PRO 	B-PRO
+Android-laitteiden       	B-MISC	B-MISC	B-MISC
 käytettävyys 	 	 	
 on 	 	 	
 usein      	 	 	B-TIM
@@ -181965,7 +181965,7 @@ siinä
 on 	 	 	
 suoritin 	 	 	
 , 	 	 	
-bluetooth-radio       	B-MISC 	B-MISC 	B-MISC
+bluetooth-radio       			
 , 	 	 	
 antureita 	 	 	
 kiihtyvyyden 	 	 	
@@ -182081,8 +182081,8 @@ keskiviikkona       	 	 	B-TIM
 , 	 	 	
 että 	 	 	
 sen 	 	 	
-Tizen-pohjaiset       	B-PRO 	B-PRO 	B-PRO
-älytelevisiot       	I-PRO 	I-PRO 	I-PRO
+Tizen-pohjaiset       	B-MISC	B-MISC	B-MISC
+älytelevisiot       			
 etsivät 	 	 	
 lähellä 	 	 	
 olevat 	 	 	
@@ -182291,7 +182291,7 @@ puhelin
 . 	 	 	
  	 	 	
 Se 	 	 	
-voi 	 	 	
+voi 		 	
 yhä     	 	 	B-TIM
 olla 	 	 	
 sitä 	 	 	
@@ -182406,7 +182406,7 @@ julkaistu
 Lumia       	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
-Nokia-tuotemerkki       	B-MISC 	B-MISC 	B-MISC
+Nokia-tuotemerkki       	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 nyt       	 	 	B-TIM
 häivytetty 	 	 	
@@ -183262,7 +183262,7 @@ suomalaistiimi
 ja 	 	 	
 siinä 	 	 	
 on 	 	 	
-e-ink-näytöllä       	B-MISC 	B-MISC 	B-MISC
+e-ink-näytöllä       			
 toteutettu 	 	 	
 kakkosnäyttö 	 	 	
 , 	 	 	
@@ -184649,9 +184649,9 @@ Windows       	B-MISC 	B-MISC 	B-MISC
 IoT       	I-MISC 	I-MISC 	I-MISC
 -lisenssi       	I-MISC 	I-MISC 	I-MISC
 ( 	 	 	
-Internet       	B-MISC 	B-MISC 	B-MISC
-of       	I-MISC 	I-MISC 	I-MISC
-Things       	I-MISC 	I-MISC 	I-MISC
+Internet       			
+of       			
+Things       			
 ) 	 	 	
 , 	 	 	
 mikä 	 	 	
