@@ -185375,7 +185375,7 @@ kantaa
 NSA-vakoilun       	B-MISC 	B-MISC 	B-MISC
 puolesta 	 	 	
 CBS:n       	 	B-ORG 	B-ORG
-tv-haastattelussa     	B-MISC 	B-MISC 	B-MISC
+tv-haastattelussa     			
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
@@ -185411,7 +185411,7 @@ tekemään
 tyhjiksi 	 	 	
 lentokonekaapparien 	 	 	
 suunnitelmat 	 	 	
-11.9.2001:n     	 	B-EVENT 	B-EVENT
+11.9.2001:n     	 	B-DATE	B-TIM
 varalle 	 	 	
 . 	 	 	
  	 	 	
@@ -185738,10 +185738,10 @@ Civil       	 	I-ORG 	I-ORG
 Liberties       	 	I-ORG 	I-ORG
 Oversight       	 	I-ORG 	I-ORG
 Board       	 	I-ORG 	I-ORG
-( 	 	 	
-PCLOB       	 	B-ORG 	B-ORG
-) 	 	 	
--aivoriihi 	 	 	
+( 	 	I-ORG 	I-ORG
+PCLOB       	 	I-ORG 	I-ORG
+) 	 	I-ORG 	I-ORG
+-aivoriihi 	 	I-ORG 	I-ORG
 sanoi 	 	 	
 torstaina       	 	 	B-TIM
 raportissaan 	 	 	
@@ -186838,7 +186838,7 @@ oli
 erikoistunut 	 	 	
 elokuvien 	 	 	
 ja 	 	 	
-tv-sarjojen     	B-MISC 	B-MISC 	B-MISC
+tv-sarjojen     			
 levitykseen 	 	 	
 . 	 	 	
  	 	 	
@@ -189559,7 +189559,7 @@ tietosuojasta
  	 	 	
 <BODY> 	 	 	
 Keskustelusivusto 	 	 	
-Otakantaa.fi     	 	B-ORG 	B-ORG
+Otakantaa.fi     		B-PRO	B-PRO
 järjestää 	 	 	
 tänään       	 	 	B-TIM
 kello       	 	 	B-TIM
@@ -191375,8 +191375,8 @@ enimmäismäärät
 joita 	 	 	
 kuluttajilta 	 	 	
 voidaan 	 	 	
-Suomen       	B-PRO 	B-PRO 	B-PRO
-perintälain       	I-PRO 	I-PRO 	I-PRO
+Suomen       		B-LOC	B-LOC
+perintälain       			
 mukaan 	 	 	
 periä 	 	 	
 . 	 	 	
@@ -191560,7 +191560,7 @@ ja       	 	I-ORG 	I-ORG
 viestintäministeriön       	 	I-ORG 	I-ORG
 mukaan 	 	 	
 perimättömiä 	 	 	
-tv-maksuja     	B-MISC 	B-MISC 	B-MISC
+tv-maksuja     			
 oli 	 	 	
 viime       	 	 	B-TIM
 vuoden       	 	 	I-TIM
@@ -191754,7 +191754,7 @@ Kyberturvallisuuskeskus       	 	B-ORG 	B-ORG
 julkaisee 	 	 	
 jatkossa      	 	 	B-TIM
 osoitteessa 	 	 	
-www.kyberturvallisuuskeskus.fi     	B-PRO 	B-PRO 	B-PRO
+www.kyberturvallisuuskeskus.fi     			
 ne 	 	 	
 tietoturva-artikkelit 	 	 	
 , 	 	 	
@@ -192249,7 +192249,7 @@ on
 kovin 	 	 	
 erilaista 	 	 	
 eri 	 	 	
-EU-maissa       	 	B-LOC 	B-LOC
+EU-maissa       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Viranomaisille 	 	 	
@@ -194800,7 +194800,7 @@ Post       	 	I-ORG 	I-ORG
  	 	 	
 CBO:n     	 	B-ORG 	B-ORG
 mukaan 	 	 	
-Obamacare-lain       	B-PRO 	B-PRO 	B-PRO
+Obamacare-lain       	B-MISC	B-MISC	B-MISC
 ansiosta 	 	 	
 vuonna       	 	B-DATE 	B-TIM
 2014       	 	I-DATE 	I-TIM
@@ -198596,11 +198596,11 @@ torrentista
 Torrent 	 	 	
 oli 	 	 	
 nimeltään 	 	 	
-"       	B-PRO 	B-PRO 	B-PRO
-Top       	I-PRO 	I-PRO 	I-PRO
-Secret       	I-PRO 	I-PRO 	I-PRO
-Recipes       	I-PRO 	I-PRO 	I-PRO
-"       	I-PRO 	I-PRO 	I-PRO
+"       			
+Top       			
+Secret       			
+Recipes       			
+"       			
 ja 	 	 	
 se 	 	 	
 sisälsi 	 	 	
@@ -199571,7 +199571,7 @@ lakimiehen       	 	B-TIT 	B-TIT
 Heikki       	 	B-PER 	B-PER
 Aaltosen       	 	I-PER 	I-PER
 mukaan 	 	 	
-tvkaista.fi-osoite     	B-PRO 	B-PRO 	B-PRO
+tvkaista.fi-osoite     			
 on 	 	 	
 suljettu 	 	 	
 hänen 	 	 	
@@ -199661,7 +199661,7 @@ toiminut
 aiemminkin 	 	 	
 , 	 	 	
 mutta 	 	 	
-tvkaista.fi-verkko-osoite     	B-PRO 	B-PRO 	B-PRO
+tvkaista.fi-verkko-osoite     			
 ei 	 	 	
 enää     	 	 	B-TIM
 vie 	 	 	
@@ -199728,7 +199728,7 @@ tallennettuja
 ohjelmia 	 	 	
 . 	 	 	
  	 	 	
-Tvkaista.fi-osoitteen     	B-PRO 	B-PRO 	B-PRO
+Tvkaista.fi-osoitteen     			
 omistava 	 	 	
 TVKaista       	 	B-ORG 	B-ORG
 Oy       	 	I-ORG 	I-ORG
