@@ -203763,7 +203763,7 @@ monenlaisia
 ehtoja 	 	 	
 palvelujensa 	 	 	
 käytölle 	 	 	
-Android-laitteissa       	B-PRO 	B-PRO 	B-PRO
+Android-laitteissa       	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Niiden 	 	 	
@@ -206679,7 +206679,7 @@ on
 osallistunut 	 	 	
 muun 	 	 	
 muassa 	 	 	
-Wikipedian       	B-PRO 	B-PRO 	B-PRO
+Wikipedian       		B-ORG	B-ORG
 perustaja       	 	B-TIT 	B-TIT
 Jimmy       	 	B-PER 	B-PER
 Wales       	 	I-PER 	I-PER
@@ -206938,9 +206938,9 @@ yrittivät
 päästä 	 	 	
 Outlookiin       	B-PRO 	B-PRO 	B-PRO
 työpöytäsovelluksella 	 	 	
-imap-       	B-PRO 	B-PRO 	B-PRO
-ja 	 	 	
-smtp-protokollien       	B-PRO 	B-PRO 	B-PRO
+imap-       			
+ja 			
+smtp-protokollien       			
 avulla 	 	 	
 . 	 	 	
  	 	 	
@@ -207806,7 +207806,7 @@ elokuva
 on 	 	 	
 katsottavissa 	 	 	
 vähintään 	 	 	
-dvd-laatuisena     	B-MISC 	B-MISC 	B-MISC
+dvd-laatuisena     			
 . 	 	 	
  	 	 	
 Ei 	 	 	
@@ -210841,10 +210841,10 @@ Hän
 perusti 	 	 	
 Facebookiin       	B-PRO 	B-PRO 	B-PRO
 sivun 	 	 	
-A       	B-PRO 	B-PRO 	B-PRO
-Year       	I-PRO 	I-PRO 	I-PRO
-of       	I-PRO 	I-PRO 	I-PRO
-Books       	I-PRO 	I-PRO 	I-PRO
+A       			
+Year       			
+of       			
+Books       			
 , 	 	 	
 jolla 	 	 	
 hän 	 	 	
@@ -210889,7 +210889,7 @@ median
  	 	 	
 <HEADLINE> 	 	 	
 Musertava 	 	 	
-bitcoin-menetys       	B-MISC 	B-MISC 	B-MISC
+bitcoin-menetys       			
 : 	 	 	
 Näinkö 	 	 	
 siinä 	 	 	
@@ -210902,7 +210902,7 @@ kävi
  	 	 	
 <INGRESS> 	 	 	
 Japanilaisen 	 	 	
-bitcoin-pörssin       	B-MISC 	B-MISC 	B-MISC
+bitcoin-pörssin       			
 Mt.       	 	B-ORG 	B-ORG
 Goxin       	 	I-ORG 	I-ORG
 romahtaminen 	 	 	
@@ -210923,7 +210923,7 @@ tapahtui
  	 	 	
 <BODY> 	 	 	
 Virtuaalivaluutta 	 	 	
-bitcoinin       	B-PRO 	B-PRO 	B-PRO
+bitcoinin       			
 suuri 	 	 	
 välityspalvelu 	 	 	
 Mt.       	 	B-ORG 	B-ORG
@@ -210959,7 +210959,7 @@ jotkut
 Mt.       	 	B-ORG 	B-ORG
 Goxissa       	 	I-ORG 	I-ORG
 kaappasivat 	 	 	
-bitcoinit       	B-PRO 	B-PRO 	B-PRO
+bitcoinit       			
 omaan 	 	 	
 taskuunsa 	 	 	
 . 	 	 	
@@ -210987,7 +210987,7 @@ teoriaa
 Mt.       	 	B-ORG 	B-ORG
 Gox       	 	I-ORG 	I-ORG
 syytti 	 	 	
-bitcoinien       	B-PRO 	B-PRO 	B-PRO
+bitcoinien       			
 menetyksestä 	 	 	
 ulkopuolista 	 	 	
 verkkohyökkäystä 	 	 	
@@ -211005,7 +211005,7 @@ vain
 yhden 	 	 	
 prosentin 	 	 	
 menetetyistä 	 	 	
-bitcoineista       	B-PRO 	B-PRO 	B-PRO
+bitcoineista       			
 . 	 	 	
  	 	 	
 99 	 	 	
@@ -211048,7 +211048,7 @@ tämä
 , 	 	 	
 että 	 	 	
 menetettyjen 	 	 	
-bitcoinien       	B-PRO 	B-PRO 	B-PRO
+bitcoinien       			
 saamisesta 	 	 	
 takaisin 	 	 	
 olisi 	 	 	
@@ -211358,7 +211358,7 @@ puolelle
  	 	 	
 Jopa 	 	 	
 100 000 	 	 	
-dvd-levyn     	B-MISC 	B-MISC 	B-MISC
+dvd-levyn     			
 ja 	 	 	
 usb-tikun 	 	 	
 tiputtaminen 	 	 	
@@ -211479,7 +211479,7 @@ on
 ylipäätään 	 	 	
 mahdollisuus 	 	 	
 katsoa 	 	 	
-dvd-elokuvia     	B-MISC 	B-MISC 	B-MISC
+dvd-elokuvia     			
 tai 	 	 	
 kytkeä 	 	 	
 muistitikkuja 	 	 	
@@ -213760,7 +213760,7 @@ Googlen       	 	B-ORG 	B-ORG
 kokoama 	 	 	
 paneeli 	 	 	
 pohti 	 	 	
-EU-oikeuden       	 	B-ORG 	B-ORG
+EU-oikeuden       	B-MISC	B-MISC	B-MISC
 hakukoneille 	 	 	
 langettamaa 	 	 	
 pakkoa 	 	 	
