@@ -504,7 +504,7 @@ aikaisemmin   	 	 	B-TIM
 julkistetun 	 	 	
 Google   	B-PRO 	B-PRO 	B-PRO
 Mapsin   	I-PRO 	I-PRO 	I-PRO
-mobiiliversion   	I-PRO 	I-PRO 	I-PRO
+mobiiliversion   			
 tutkimusmatkasovelluksesta 	 	 	
 , 	 	 	
 joka 	 	 	
@@ -680,7 +680,7 @@ Elon   	 	B-PER 	B-PER
 Musk   	 	I-PER 	I-PER
 paljasti 	 	 	
 " 	 	 	
-halpa-Teslan   	 	 	B-MISC
+halpa-Teslan   	B-MISC	B-MISC	B-MISC
 " 	 	 	
 aikataulun 	 	 	
  	 	 	
@@ -724,7 +724,7 @@ riippuu
 yhtiön 	 	 	
 Nevadaan   	 	B-LOC 	B-LOC
 rakentaman 	 	 	
-Gigafactory-akkutehtaan   	B-PRO 	B-PRO 	B-PRO
+Gigafactory-akkutehtaan   		B-LOC	B-LOC
 valmistumisesta 	 	 	
 . 	 	 	
  	 	 	
@@ -1058,7 +1058,7 @@ Korjattu
 ingressin 	 	 	
 2003   	 	B-DATE 	B-TIM
 muotoon 	 	 	
-2013 	 	 	B-DATE
+2013 	 	B-DATE	B-TIM
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -1580,7 +1580,7 @@ puolivälissä   	 	 	I-TIM
 Alma   	 	B-ORG 	B-ORG
 Median   	 	I-ORG 	I-ORG
 omistama 	 	 	
-Telkku.com-verkkopalvelu 	 	 	B-ORG
+Telkku.com-verkkopalvelu 	B-PRO	B-PRO	B-PRO
 lopetti 	 	 	
 tv-ohjelmien 	 	 	
 tallennukseen 	 	 	
@@ -1610,7 +1610,7 @@ palvelun
 käyttäjille 	 	 	
 , 	 	 	
 kertoo 	 	 	
-Telkku.comin 	 	 	B-ORG
+Telkku.comin 	B-PRO	B-PRO	B-PRO
 liiketoimintapäällikkö   	 	B-TIT 	B-TIT
 Maria   	 	B-PER 	B-PER
 Christensen   	 	I-PER 	I-PER
@@ -1618,7 +1618,7 @@ Christensen   	 	I-PER 	I-PER
  	 	 	
 Hänen 	 	 	
 mukaansa 	 	 	
-Telkku.com 	 	 	B-ORG
+Telkku.com 	B-PRO	B-PRO	B-PRO
 aikoo 	 	 	
 jatkossa   	 	 	B-TIM
 keskittyä 	 	 	
@@ -1653,7 +1653,7 @@ vuosia   	 	 	B-TIM
 kiista 	 	 	
 meni 	 	 	
 maksullisen 	 	 	
-TVKaista-palvelun   	 	B-ORG 	B-ORG
+TVKaista-palvelun   	B-PRO	B-PRO	B-PRO
 kohdalla 	 	 	
 , 	 	 	
 jonka 	 	 	
@@ -1777,7 +1777,7 @@ Kaupallisten
 tv-yhtiöiden 	 	 	
 Sanoman   	 	B-ORG 	B-ORG
 ja 	 	 	
-MTV3:n 	 	 	B-ORG
+MTV3:n 	 	B-ORG 	B-ORG
 tavoitteena 	 	 	
 on 	 	 	
 tuoda 	 	 	
@@ -1888,7 +1888,7 @@ toteaa
 lakiasiainjohtaja   	 	B-TIT 	B-TIT
 Teemu   	 	B-PER 	B-PER
 Kalliala   	 	I-PER 	I-PER
-MTV3:sta 	 	 	B-ORG
+MTV3:sta 	 	B-ORG 	B-ORG
 . 	 	 	
  	 	 	
 DNA:n   	 	B-ORG 	B-ORG
@@ -2098,10 +2098,10 @@ on
 tehnyt 	 	 	
 kilpailijoiden 	 	 	
 sekä 	 	 	
-Euroopan   	 	B-ORG 	B-ORG
-ja   	 	I-ORG 	I-ORG
-Intian   	 	I-ORG 	I-ORG
-kilpailuviranomaisten   	 	I-ORG 	I-ORG
+Euroopan   	 	B-LOC	B-LOC
+ja   	 		
+Intian   	 	B-LOC	B-LOC
+kilpailuviranomaisten   	 		
 mukaan 	 	 	
 . 	 	 	
  	 	 	
@@ -2113,7 +2113,7 @@ syytöksiä
 pienin 	 	 	
 menettelytapamuutoksin 	 	 	
 vuonna   	 	B-DATE 	B-TIM
-2013 	 	 	I-DATE
+2013 	 	I-DATE	I-TIM
 . 	 	 	
  	 	 	
 Euroopassa   	 	B-LOC 	B-LOC
@@ -3107,7 +3107,7 @@ koneen
 akkua 	 	 	
 . 	 	 	
  	 	 	
-Chrome-selaimessa 	 	 	B-PRO
+Chrome-selaimessa 	B-PRO	B-PRO	B-PRO
 video 	 	 	
 käynnistyy 	 	 	
 automaattisesti 	 	 	
@@ -3166,7 +3166,7 @@ AdWord-mainosalusta   	B-PRO 	B-PRO 	B-PRO
 muuntaa 	 	 	
 useimmat 	 	 	
 Flash-videot   	B-MISC 	B-MISC 	B-MISC
-html5-videoiksi   	B-MISC 	B-MISC 	B-MISC
+html5-videoiksi   			
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -3774,8 +3774,8 @@ puhunut
 Huawein   	 	B-ORG 	B-ORG
 Honor-puhelimien   	B-PRO 	B-PRO 	B-PRO
 Itä-   	 	B-LOC 	B-LOC
-ja   	 	I-LOC 	I-LOC
-Pohjois-Euroopan   	 	I-LOC 	I-LOC
+ja   	 		
+Pohjois-Euroopan   	 	B-LOC	B-LOC
 tuotejohtaja   	 	B-TIT 	B-TIT
 Jin   	 	B-PER 	B-PER
 Yiming   	 	I-PER 	I-PER
@@ -3796,7 +3796,7 @@ on
 ongelma 	 	 	
 . 	 	 	
  	 	 	
-EmotionUI-versio 	 	 	B-PRO
+EmotionUI-versio 	B-PRO	B-PRO	B-PRO
 Androidista   	B-PRO 	B-PRO 	B-PRO
 perustuu 	 	 	
 niin 	 	 	
@@ -4121,7 +4121,7 @@ Irtisanomiset
 ovat 	 	 	
 tiettävästi 	 	 	
 ensimmäiset 	 	 	
-Lab126:n 	 	 	B-ORG
+Lab126:n 	 	B-ORG	B-ORG
 11-vuotisessa   	 	 	B-TIM
 historiassa   	 	 	I-TIM
 , 	 	 	
@@ -4349,8 +4349,8 @@ pientukiasemia
 Qatarin   	 	B-LOC 	B-LOC
 matkapuhelinoperaattorille 	 	 	
 Ooredoolle   	 	B-ORG 	B-ORG
-jalkapallon 	 	 	B-EVENT
-vuoden   	 	I-EVENT 	B-EVENT
+jalkapallon 	 	B-EVENT	B-EVENT
+vuoden   	 	I-EVENT 	I-EVENT 
 2022   	 	I-EVENT 	I-EVENT
 MM-kisojen   	 	I-EVENT 	I-EVENT
 tarpeisiin 	 	 	
@@ -4358,11 +4358,11 @@ tarpeisiin
  	 	 	
 <BODY> 	 	 	
 Nokian   	 	B-ORG 	B-ORG
-3G- 	B-MISC 	B-MISC 	B-MISC
-ja  	 	 	B-MISC
-4G-mikro- 	B-MISC 	B-MISC 	B-MISC
-ja  	 	 	B-MISC
-picotukiasemat  	B-MISC 	B-MISC 	B-MISC
+3G- 			
+ja  			
+4G-mikro- 			
+ja  			
+picotukiasemat  			
 asennetaan 	 	 	
 tehostamaan 	 	 	
 verkkoa 	 	 	
@@ -4532,15 +4532,15 @@ Brunner   	 	I-PER 	I-PER
 Obi   	 	B-ORG 	B-ORG
 Worldphonen   	 	I-ORG 	I-ORG
 julkistamat 	 	 	
-Android   	B-PRO 	B-PRO 	B-PRO
-Lollipop   	I-PRO 	I-PRO 	I-PRO
--puhelimet   	I-PRO 	I-PRO 	I-PRO
+Android   	B-MISC	B-MISC	B-MISC
+Lollipop   	I-MISC	I-MISC	I-MISC
+-puhelimet   	I-MISC	I-MISC	I-MISC
 , 	 	 	
 Obi   	B-PRO 	B-PRO 	B-PRO
 Worldphone   	I-PRO 	I-PRO 	I-PRO
 SF1   	I-PRO 	I-PRO 	I-PRO
 ja 	 	 	
-SJ1.5 	 	 	I-PRO
+SJ1.5 	B-PRO 	B-PRO 	B-PRO 
 , 	 	 	
 on 	 	 	
 hinnoiteltu 	 	 	
@@ -4649,7 +4649,7 @@ kameran
 ja 	 	 	
 kahden 	 	 	
 salaman 	 	 	
-4G-puhelin   	B-MISC 	B-MISC 	B-MISC
+4G-puhelin   			
 , 	 	 	
 jossa 	 	 	
 on 	 	 	
@@ -4677,7 +4677,7 @@ muistilla
 dollaria 	 	 	
 . 	 	 	
  	 	 	
-SJ1.5:n 	 	 	B-PRO
+SJ1.5:n 	B-PRO	B-PRO	B-PRO
 suoritin 	 	 	
 on 	 	 	
 neliytiminen 	 	 	
@@ -4745,7 +4745,7 @@ Intiassa   	 	B-LOC 	B-LOC
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
-OP:n 	 	 	B-ORG
+OP:n 	 	B-ORG	B-ORG
 viestintäjohtaja 	 	 	
 : 	 	 	
 Harvinainen 	 	 	
