@@ -5138,7 +5138,7 @@ Isolla
 näytöllä 	 	 	
 varustetun 	 	 	
 Note-sarjan   	B-PRO 	B-PRO 	B-PRO
-puhelimet   	I-PRO 	I-PRO 	I-PRO
+puhelimet   			
 myydään 	 	 	
 kynäohjainten 	 	 	
 kera 	 	 	
@@ -5215,7 +5215,7 @@ valittanut
 ongelmasta 	 	 	
 Twitterissä   	B-PRO 	B-PRO 	B-PRO
 avainsanalla 	 	 	
-#PenGate 	 	 	B-MISC
+#PenGate 	 	 	
 . 	 	 	
  	 	 	
 Eteläkorealainen 	 	 	
@@ -5541,7 +5541,7 @@ miljoonasta
 82 	 	 	
 miljoonaan 	 	 	
 vuonna   	 	B-DATE 	B-TIM
-2019 	 	 	I-DATE
+2019 	 	I-DATE	I-TIM
 . 	 	 	
  	 	 	
 Markkinatutkimusyrityksen 	 	 	
@@ -5943,7 +5943,7 @@ käynnisti
 vuonna   	 	B-DATE 	B-TIM
 2012   	 	I-DATE 	I-TIM
 Skene   	B-PRO 	B-PRO 	B-PRO
-   	I-PRO 	I-PRO 	I-PRO
+–	I-PRO 	I-PRO 	I-PRO
 Games   	I-PRO 	I-PRO 	I-PRO
 Refueled   	I-PRO 	I-PRO 	I-PRO
 -nimisen   	I-PRO 	I-PRO 	I-PRO
@@ -6068,7 +6068,7 @@ ostaa
 videopelien 	 	 	
 katsojalähetyksiin 	 	 	
 erikoistunut 	 	 	
-Twitch.tv 	 	 	B-ORG
+Twitch.tv 	 	B-ORG	B-ORG
 , 	 	 	
 on 	 	 	
 rakentanut 	 	 	
@@ -6129,13 +6129,13 @@ Youtube   	B-PRO 	B-PRO 	B-PRO
 näkyy 	 	 	
 . 	 	 	
  	 	 	
-Google   	B-PRO 	B-PRO 	B-PRO
-Play   	I-PRO 	I-PRO 	I-PRO
--   	I-PRO 	I-PRO 	I-PRO
+Google   	B-MISC	B-MISC	B-MISC
+Play   	I-MISC	I-MISC	I-MISC
+-   	I-MISC	I-MISC	I-MISC
 ja 	 	 	
-iOS   	B-PRO 	B-PRO 	B-PRO
--   	I-PRO 	I-PRO 	I-PRO
-sovellukset   	I-PRO 	I-PRO 	I-PRO
+iOS   	B-MISC	B-MISC	B-MISC
+-   	I-MISC	I-MISC	I-MISC
+sovellukset   	I-MISC	I-MISC	I-MISC
 tulevat 	 	 	
 jakeluun 	 	 	
 jo 	 	 	
@@ -6287,7 +6287,7 @@ Google   	B-PRO 	B-PRO 	B-PRO
 Play   	I-PRO 	I-PRO 	I-PRO
 -kaupan   	I-PRO 	I-PRO 	I-PRO
 erityiselle 	 	 	
-Kiinan-versiolle 	 	 	
+Kiinan-versiolle 	B-MISC	B-MISC	B-MISC
  	 	 	
 joka 	 	 	
 alistuu 	 	 	
@@ -7719,22 +7719,22 @@ salasanaa
 verraten 	 	 	
 niitä 	 	 	
 " 	 	 	
-500   	B-PRO 	B-PRO 	B-PRO
-worst   	I-PRO 	I-PRO 	I-PRO
-passwords   	I-PRO 	I-PRO 	I-PRO
-of   	I-PRO 	I-PRO 	I-PRO
-all   	I-PRO 	I-PRO 	I-PRO
-time   	I-PRO 	I-PRO 	I-PRO
-" 	 	 	
--listaan   	I-PRO 	I-PRO 	I-PRO
+500   			
+worst   			
+passwords   			
+of   			
+all   			
+time   			
+" 			
+-listaan   			
 vuodelta   	 	B-DATE 	B-TIM
 2008   	 	I-DATE 	I-TIM
 sekä 	 	 	
 niin 	 	 	
 sanottuun 	 	 	
-rockyou   	B-PRO 	B-PRO 	B-PRO
-hack   	I-PRO 	I-PRO 	I-PRO
--salasanatietokantaan   	I-PRO 	I-PRO 	I-PRO
+rockyou   			
+hack   			
+-salasanatietokantaan   			
 . 	 	 	
  	 	 	
 Kahden   	 	 	B-TIM
@@ -8086,7 +8086,7 @@ se
 tiedettiin 	 	 	
 jo 	 	 	
 vuonna   	 	B-DATE 	B-TIM
-1996 	 	 	I-DATE
+1996 	 	I-DATE	I-TiM
 . 	 	 	
  	 	 	
 Mutta 	 	 	
@@ -8567,10 +8567,10 @@ on
 käytetty 	 	 	
 joskus  	 	 	B-TIM
 myös 	 	 	
-replication   	B-PRO 	B-PRO 	B-PRO
-as   	I-PRO 	I-PRO 	I-PRO
-a   	I-PRO 	I-PRO 	I-PRO
-servicestä   	I-PRO 	I-PRO 	I-PRO
+replication   			
+as   			
+a   			
+servicestä   			
 . 	 	 	
  	 	 	
 Siinä 	 	 	
@@ -8904,7 +8904,7 @@ Apache   	B-PRO 	B-PRO 	B-PRO
 ja 	 	 	
 se 	 	 	
 toimii 	 	 	
-W3C:n 	 	 	B-ORG
+W3C:n 	 	B-ORG	B-ORG
 patenttisääntöjen 	 	 	
 alaisuudessa 	 	 	
 . 	 	 	
@@ -9019,7 +9019,7 @@ on
 ajettu 	 	 	
 niin 	 	 	
 sanottu 	 	 	
-jailbreak-ohjelma   	B-PRO 	B-PRO 	B-PRO
+jailbreak-ohjelma   			
 . 	 	 	
  	 	 	
 Sillä 	 	 	
@@ -9570,7 +9570,7 @@ turvallinen
 <INGRESS> 	 	 	
 Turvallisuussivusto 	 	 	
 arvostelee 	 	 	
-Android-puhelimien   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimien   	B-MISC	B-MISC	B-MISC
 AppLock-sovelluslukon   	B-PRO 	B-PRO 	B-PRO
 turvallisuutta 	 	 	
 . 	 	 	
@@ -9591,9 +9591,9 @@ AppLock   	B-PRO 	B-PRO 	B-PRO
 edustaa 	 	 	
 nimensä 	 	 	
 mukaisesti 	 	 	
-app   	B-PRO 	B-PRO 	B-PRO
-lock   	I-PRO 	I-PRO 	I-PRO
--sovellustyyppiä   	I-PRO 	I-PRO 	I-PRO
+app   			
+lock   			
+-sovellustyyppiä   			
 , 	 	 	
 jolla 	 	 	
 puhelimen 	 	 	
@@ -9844,16 +9844,16 @@ Myce.com 	 	 	B-ORG
 joka 	 	 	
 nojaa 	 	 	
 " 	 	 	B-PER
-Kafeine   	 	I-PER 	B-PER
+Kafeine   	 		I-PER 
 " 	 	 	I-PER
 -nimisen 	 	 	I-PER
 tutkijan 	 	 	I-PER
 löydökseen 	 	 	
-Malware   	B-PRO 	B-PRO 	B-PRO
-dont   	I-PRO 	I-PRO 	I-PRO
-need   	I-PRO 	I-PRO 	I-PRO
-coffee   	I-PRO 	I-PRO 	I-PRO
--blogissa   	I-PRO 	I-PRO 	I-PRO
+Malware   		B-ORG	B-ORG
+dont   		I-ORG	I-ORG
+need   		I-ORG	I-ORG
+coffee   		I-ORG	I-ORG
+-blogissa   		I-ORG	I-ORG
 . 	 	 	
  	 	 	
 Vaikka 	 	 	
@@ -9864,9 +9864,9 @@ paikkaamaan
 tämän 	 	 	
 ongelman 	 	 	
 uusimmassa 	 	 	
-Flash-versiossa   	B-MISC 	B-MISC 	B-PRO
+Flash-versiossa   	B-PRO	B-PRO	B-PRO
 eli 	 	 	
-18.0.0.232:ssa 	 	 	B-PRO
+18.0.0.232:ssa 	 	 	
 , 	 	 	
 vaara 	 	 	
 ei 	 	 	
@@ -9902,7 +9902,7 @@ yhteydessä
 . 	 	 	
  	 	 	
 Niinpä 	 	 	
-Flash-päivitys   	B-PRO 	B-PRO 	B-PRO
+Flash-päivitys   	B-MISC	B-MISC	B-MISC
 kertoo 	 	 	
 aukoista 	 	 	
 , 	 	 	
@@ -9932,7 +9932,7 @@ Angler-hyökkäystyökaluun   	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 lisätty 	 	 	
 uusi  	 	 	B-TIM
-Flash-hyväksikäyttö   	B-PRO 	B-PRO 	B-MISC
+Flash-hyväksikäyttö   	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joka 	 	 	
 iskee 	 	 	
@@ -9958,7 +9958,7 @@ osaksi
 bottiverkkoa 	 	 	
 . 	 	 	
  	 	 	
-Myce.comin 	 	 	B-ORG
+Myce.comin 	 	B-ORG	B-ORG
 mukaan 	 	 	
 äskettäisten   	 	 	B-TIM
 päivitysten 	 	 	
