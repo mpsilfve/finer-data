@@ -10004,7 +10004,7 @@ pois
  	 	 	
 <HEADLINE> 	 	 	
 Tarkista 	 	 	
-HP-kannettava   	B-PRO 	B-PRO 	B-PRO
+HP-kannettava   	B-MISC	B-MISC	B-MISC
 : 	 	 	
 Ilkeä 	 	 	
 haavoittuvuus 	 	 	
@@ -10153,7 +10153,7 @@ etäkomentoon
  	 	 	
 Ongelma 	 	 	
 johtuu 	 	 	
-AMT:n 	 	 	B-ORG
+AMT:n 	B-PRO	B-PRO	B-PRO
 oletussalasanasta 	 	 	
 . 	 	 	
  	 	 	
@@ -10196,9 +10196,9 @@ vPro   	I-PRO 	I-PRO 	I-PRO
 ja 	 	 	
 tietyissä 	 	 	
 Xeon-sarjan   	B-PRO 	B-PRO 	B-PRO
-prosessoreissa   	I-PRO 	I-PRO 	I-PRO
-ja   	I-PRO 	I-PRO 	I-PRO
-piirisarjoissa   	I-PRO 	I-PRO 	I-PRO
+prosessoreissa   			
+ja   			
+piirisarjoissa   			
 . 	 	 	
  	 	 	
 Haavoittuvia 	 	 	
@@ -10442,9 +10442,9 @@ muodossa
 <HEADLINE> 	 	 	
 Odotatko 	 	 	
 yhä 	 	 	B-TIM
-Windows   	B-PRO 	B-PRO 	B-PRO
-10   	I-PRO 	I-PRO 	I-PRO
--päivitystä   	I-PRO 	I-PRO 	I-PRO
+Windows   	B-MISC	B-MISC	B-MISC
+10   	I-MISC	I-MISC	I-MISC
+-päivitystä   	I-MISC	I-MISC	I-MISC
 ? 	 	 	
  	 	 	
 Tee 	 	 	
@@ -10683,7 +10683,7 @@ jälkeen  	 	 	I-TIM
 avataan 	 	 	
 C-asema 	 	 	
 näkyviin 	 	 	
-Resurssienhallinnassa 	 	 	B-PRO
+Resurssienhallinnassa 	 	 	
 . 	 	 	
  	 	 	
 Jos 	 	 	
@@ -10878,10 +10878,10 @@ editointisovellus
 kirjoittamalla 	 	 	
 sovellusvalikon 	 	 	
 hakukenttään 	 	 	
-regedit 	 	 	B-PRO
+regedit 	 	 	
 ja 	 	 	
 klikkaamalla 	 	 	
-regedit.exe 	 	 	B-PRO
+regedit.exe 	 	 	
  	 	 	
 Käyttöoikeuksistasi 	 	 	
 ja 	 	 	
@@ -10890,7 +10890,7 @@ riippuen
 saatat 	 	 	
 joutua 	 	 	
 hyväksyttämään 	 	 	
-regeditin 	 	 	B-PRO
+regeditin 	 	 	
 käynnistyksen 	 	 	
 ruudulle 	 	 	
 ilmestyvässä 	 	 	
@@ -10938,9 +10938,9 @@ ei
 ole 	 	 	
 vielä 	 	 	
 tarjottu 	 	 	
-Windows   	B-PRO 	B-PRO 	B-PRO
-10   	I-PRO 	I-PRO 	I-PRO
--päivitystä   	I-PRO 	I-PRO 	I-PRO
+Windows   	B-MISC	B-MISC	B-MISC
+10   	I-MISC	I-MISC	I-MISC
+-päivitystä   	I-MISC	I-MISC	I-MISC
 tai 	 	 	
 et 	 	 	
 ole 	 	 	
@@ -10959,7 +10959,7 @@ päivitys
 . 	 	 	
  	 	 	
 Jos 	 	 	
-OSUpgrade 	 	 	B-PRO
+OSUpgrade 			
 löytyy 	 	 	
 , 	 	 	
 valitse 	 	 	
@@ -11016,8 +11016,8 @@ editointisovellus
 ohjauspaneeli 	 	 	
 , 	 	 	
 ja 	 	 	
-Windows 	 	 	B-PRO
-Update 	 	 	I-PRO
+Windows 	 	 	
+Update 	 	 	
 -ikkunat 	 	 	
 . 	 	 	
  	 	 	
@@ -11175,7 +11175,7 @@ Ne
 olisivat 	 	 	
 kehitysversiot 	 	 	
 uusimmista 	 	 	
-6-sarjan 	 	 	
+6-sarjan 	B-PRO	B-PRO	B-PRO
 puhelimista 	 	 	
 . 	 	 	
  	 	 	
@@ -11290,7 +11290,7 @@ naisia
 ollutkaan 	 	 	
 , 	 	 	
 kertoo 	 	 	
-Gizmodo 	 	 	B-ORG
+Gizmodo 	 	B-ORG	B-ORG
 . 	 	 	
  	 	 	
 Ashley   	B-PRO 	B-PRO 	B-PRO
@@ -11690,7 +11690,7 @@ se
 mahdollisti 	 	 	
 hyökkäykset 	 	 	
 murtamattomia 	 	 	
-iOS-laitteita   	B-PRO 	B-PRO 	B-PRO
+iOS-laitteita   	B-MISC	B-MISC	B-MISC
 vastaan 	 	 	
 . 	 	 	
  	 	 	
@@ -11889,7 +11889,7 @@ sillä
 kolme 	 	 	
 miljoonaa 	 	 	
 käyttöjärjestelmän 	 	 	
-Vista-versiota   	B-MISC 	B-MISC 	B-MISC
+Vista-versiota   	B-PRO	B-PRO	B-PRO
 käyttävää 	 	 	
 joutuu 	 	 	
 maksamaan 	 	 	
@@ -12016,10 +12016,10 @@ internetissä
 Pudotus 	 	 	
 tapahtuu 	 	 	
 kello   	 	 	B-TIM
-20–21 	 	 	
-Suomen   	 	 	B-TIM
+20–21 	 	 	I-TIM
+Suomen   	 	B-LOC	I-TIM
 aikaa   	 	 	I-TIM
-keskiviikkona   	 	 	B-TIM
+keskiviikkona   	 	 	I-TIM
 . 	 	 	
  	 	 	
 Huonon 	 	 	
@@ -12370,7 +12370,7 @@ on
 jo 	 	 	
 oikeaa 	 	 	
 bisnestä 	 	 	
- 	 	 	
+–	 	 	
 ja 	 	 	
 on 	 	 	
 ollut 	 	 	
@@ -12551,7 +12551,7 @@ bensa-asemia
 Perässä 	 	 	
 tulivat 	 	 	
 auton 	 	 	
-wlan-yhteyspisteeksi 	B-MISC 	B-MISC 	B-MISC
+wlan-yhteyspisteeksi 			
 muuttavat 	 	 	
 reitittimet 	 	 	
 ja 	 	 	
@@ -12690,8 +12690,8 @@ vuotavan
 OpenSSH-ohjelmisto   	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
 päivittynyt 	 	 	
-versioon 	 	 	B-PRO
-7.1 	 	 	I-PRO
+versioon 	 	 	
+7.1 	 	 	
 . 	 	 	
  	 	 	
 Uusi  	 	 	B-TIM
@@ -12712,8 +12712,8 @@ tiedottaa
 Viestintävirasto   	 	B-ORG 	B-ORG
 . 	 	 	
  	 	 	
-Versiossa   	 	 	B-PRO
-7.0   	 	 	I-PRO
+Versiossa   	 	 	
+7.0   	 	 	
 on 	 	 	
 voinut 	 	 	
 kirjautua 	 	 	
@@ -12745,7 +12745,7 @@ palvelimista
 ja 	 	 	
 työasemista 	 	 	
 uuteen  	 	 	B-TIM
-7.1-versioon 	 	 	B-PRO
+7.1-versioon 	 	 	
 joko 	 	 	
 käyttöjärjestelmän 	 	 	
 paketinhallinnan 	 	 	
@@ -12756,7 +12756,7 @@ OpenSSH-projektin   	B-PRO 	B-PRO 	B-PRO
 sivustolta 	 	 	
 . 	 	 	
  	 	 	
-OpenSSH:ta 	 	 	B-PRO
+OpenSSH:ta 	B-PRO	B-PRO	B-PRO
 käytetään 	 	 	
 erityisesti 	 	 	
 palvelimien 	 	 	
@@ -12961,7 +12961,7 @@ ohjelmistoaan
  	 	 	
 <HEADLINE> 	 	 	
 Avaimet 	 	 	
-Android-puhelimen   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimen   	B-MISC	B-MISC	B-MISC
 pyyhkäisylukkoon 	 	 	
 : 	 	 	
 Sormirasva 	 	 	
@@ -12990,7 +12990,7 @@ todisti
 Defcon-tapahtumassa   	 	B-EVENT 	B-EVENT
 , 	 	 	
 että 	 	 	
-Android-puhelinten   	B-PRO 	B-PRO 	B-PRO
+Android-puhelinten   	B-MISC	B-MISC	B-MISC
 lukituksen 	 	 	
 avaaminen 	 	 	
 näyttöä 	 	 	
@@ -13225,7 +13225,7 @@ Aiheena
 oli 	 	 	
 kilpaileva 	 	 	
 deittisivusto 	 	 	
-Never.com 	 	 	B-PRO
+Never.com 	B-PRO	B-PRO	B-PRO
 , 	 	 	
 josta 	 	 	
 Bhatia   	 	B-PER 	B-PER
@@ -13340,7 +13340,7 @@ väärin
 tulkita 	 	 	
 Bidermanin   	 	B-PER 	B-PER
 halunneen 	 	 	
-Nerve.comin 	 	 	B-PRO
+Nerve.comin 	B-PRO	B-PRO	B-PRO
 käyttäjien 	 	 	
 sähköpostit 	 	 	
 . 	 	 	
@@ -13351,7 +13351,7 @@ keskustelu
 liittyi 	 	 	
 mahdollisuuteen 	 	 	
 ostaa 	 	 	
-Nerve.com 	 	 	B-PRO
+Nerve.com 	B-PRO	B-PRO	B-PRO
 , 	 	 	
 jolloin 	 	 	
 oli 	 	 	
@@ -13394,7 +13394,7 @@ murtaa
 varastaa 	 	 	
 tai 	 	 	
 käyttää 	 	 	
-Nerve.comin 	 	 	B-PRO
+Nerve.comin 	B-PRO	B-PRO	B-PRO
 omistamaa 	 	 	
 dataa 	 	 	
 , 	 	 	
@@ -13407,7 +13407,7 @@ Motherboardille   	 	B-ORG 	B-ORG
 <HEADLINE> 	 	 	
 Cortana-digiavustajan   	B-PRO 	B-PRO 	B-PRO
 jakelu 	 	 	
-Android-puhelimiin   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimiin   	B-MISC	B-MISC	B-MISC
 alkoi 	 	 	
  	 	 	
 <DATE> 	 	 	
@@ -13422,7 +13422,7 @@ on
 nyt   	 	 	B-TIM
 saatavilla 	 	 	
 myös 	 	 	
-Android-laitteille   	B-PRO 	B-PRO 	B-PRO
+Android-laitteille   	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Apuri 	 	 	
@@ -13481,17 +13481,17 @@ iPhone-puhelimissa   	B-PRO 	B-PRO 	B-PRO
 . 	 	 	
  	 	 	
 Cortanan   	B-PRO 	B-PRO 	B-PRO
-Android-versio   	I-PRO 	I-PRO 	I-PRO
+Android-versio   	B-MISC	B-MISC	B-MISC
 on 	 	 	
 nyt   	 	 	B-TIM
 saatavilla 	 	 	
 Google   	B-PRO 	B-PRO 	B-PRO
 Playstä   	I-PRO 	I-PRO 	I-PRO
 amerikkalaisille 	 	 	
-Android-puhelimille   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimille   	B-MISC	B-MISC	B-MISC
 , 	 	 	
 mutta 	 	 	
-Android-tableteissa   	B-PRO 	B-PRO 	B-PRO
+Android-tableteissa   	B-MISC	B-MISC	B-MISC
 se 	 	 	
 ei 	 	 	
 toimi 	 	 	
@@ -13517,7 +13517,7 @@ suunnilleen
 samalla 	 	 	
 tavalla 	 	 	
 kuin 	 	 	
-Windows-laitteissa   	B-PRO 	B-PRO 	B-PRO
+Windows-laitteissa   	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Sillä 	 	 	
@@ -13540,7 +13540,7 @@ kuitenkaan
 ole 	 	 	
 täysiä 	 	 	
 oikeuksia 	 	 	
-Android-puhelimeen   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimeen   	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Mikrofoniluvan 	 	 	
@@ -13576,7 +13576,7 @@ käynnistämään
 sovelluksia 	 	 	
 tai 	 	 	
 muuttamaan 	 	 	
-Android-puhelimen   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimen   	B-MISC	B-MISC	B-MISC
 asetuksia 	 	 	
 . 	 	 	
  	 	 	
@@ -13887,7 +13887,7 @@ jopa
 400 	 	 	
 tukiasemaa 	 	 	
 haitaten 	 	 	
-2G-liikennettä 	B-MISC 	B-MISC 	B-MISC
+2G-liikennettä 			
 Helsingin   	 	B-LOC 	B-LOC
 alueella 	 	 	
 . 	 	 	
@@ -14140,9 +14140,9 @@ ihonväriin
 <BODY> 	 	 	
 Suositun 	 	 	
 Whatsapp-pikaviestisovelluksen   	B-PRO 	B-PRO 	B-PRO
-Windows   	I-PRO 	I-PRO 	I-PRO
-Phone   	I-PRO 	I-PRO 	I-PRO
--versio   	I-PRO 	I-PRO 	I-PRO
+Windows   	B-MISC	B-MISC	B-MISC
+Phone   	I-MISC	I-MISC	I-MISC
+-versio   	I-MISC	I-MISC	I-MISC
 on 	 	 	
 päivittynyt 	 	 	
 . 	 	 	
@@ -14351,11 +14351,11 @@ verkkoyhteyden
 tyyppi 	 	 	
 ( 	 	 	
 esim. 	 	 	
-WiFi   	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-3G   	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-LTE   	B-PRO 	B-PRO 	B-PRO
+WiFi   			
+, 			
+3G   			
+, 			
+LTE   			
 ) 	 	 	
 ja 	 	 	
 palveluntarjoaja 	 	 	
@@ -14448,14 +14448,14 @@ jotka
 perustuvat 	 	 	
 esim. 	 	 	
 puhelimesi 	 	 	
-GPS-paikannukseen 	B-PRO 	B-PRO 	B-PRO
+GPS-paikannukseen 			
 tai 	 	 	
 muihin 	 	 	
 mobiililaitteiden 	 	 	
 paikannustapoihin 	 	 	
 ( 	 	 	
 esim. 	 	 	
-Bluetooth   	B-PRO 	B-PRO 	B-PRO
+Bluetooth   			
 ) 	 	 	
 . 	 	 	
  	 	 	
