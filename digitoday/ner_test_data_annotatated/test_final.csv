@@ -15156,7 +15156,7 @@ haitakkeilla
 Seagaten   	 	B-ORG 	B-ORG
 ja 	 	 	
 LaCien   	 	B-ORG 	B-ORG
-wlan-kiintolevyistä 	B-MISC 	B-MISC 	B-MISC
+wlan-kiintolevyistä 			
 on 	 	 	
 löytynyt 	 	 	
 kolme 	 	 	
@@ -15178,7 +15178,7 @@ useita
 tietoturva-aukkoja 	 	 	
 , 	 	 	
 varoittaa 	 	 	
-Cert.org 	 	 	B-ORG
+Cert.org 	 	B-ORG	B-ORG
 . 	 	 	
  	 	 	
 Ensimmäinen 	 	 	
@@ -15186,14 +15186,14 @@ aukko
 on 	 	 	
 levylle 	 	 	
 piilotettu 	 	 	
-telnet-palvelu 	 	 	B-PRO
+telnet-palvelu 	 	 	
 , 	 	 	
 jossa 	 	 	
 on 	 	 	
 vakiosalasana 	 	 	
 . 	 	 	
  	 	 	
-Telnet-yhteydellä   	B-MISC 	B-MISC 	B-MISC
+Telnet-yhteydellä   			
 on 	 	 	
 mahdollista 	 	 	
 päästä 	 	 	
@@ -15370,7 +15370,7 @@ asiakkaan
  	 	 	
 Lisäksi 	 	 	
 sivun 	 	 	
-html-koodissa 	B-MISC 	B-MISC 	B-MISC
+html-koodissa 			
 näkyivät 	 	 	
 tarkat 	 	 	
 osoitteet 	 	 	
@@ -15382,7 +15382,7 @@ etunimet
 . 	 	 	
  	 	 	
 Saittikohtainen 	 	 	
-trips.uber.com 	 	 	B-PRO
+trips.uber.com 	 		
 haku 	 	 	
 toimi 	 	 	
 Yhdysvaltojen   	 	B-LOC 	B-LOC
@@ -15811,7 +15811,7 @@ Daily   	 	B-ORG 	B-ORG
 Mail   	 	I-ORG 	I-ORG
 . 	 	 	
  	 	 	
-Wikipedia   	 	B-ORG 	B-ORG
+Wikipedia   	B-PRO	B-PRO	B-PRO
 tietää 	 	 	
 kertoa 	 	 	
 LSST-hankkeesta   	B-PRO 	B-PRO 	B-PRO
@@ -15886,7 +15886,7 @@ euron
 rahoituksen 	 	 	
 . 	 	 	
  	 	 	
-Energiaministeriö   	 	B-ORG 	B-ORG
+Energiaministeriö   	 		
 maksaa 	 	 	
 kameran 	 	 	
 rakennusurakan 	 	 	
@@ -16356,7 +16356,7 @@ Nokia   	 	B-ORG 	B-ORG
 myös 	 	 	
 etsii 	 	 	
 uusia  	 	 	B-TIM
-Android-älypuhelinten   	B-PRO 	B-PRO 	B-PRO
+Android-älypuhelinten   	B-MISC 	B-MISC 	B-MISC
 kehittäjiä 	 	 	
 . 	 	 	
  	 	 	
@@ -16601,7 +16601,7 @@ Kyberturvallisuuskeskus   	 	B-ORG 	B-ORG
 neuvoo 	 	 	
 6) 	 	 	
 käyttämään 	 	 	
-Android-laitteessa   	B-PRO 	B-PRO 	B-PRO
+Android-laitteessa   	B-MISC 	B-MISC 	B-MISC
 jotain 	 	 	
 tietoturvatuotetta 	 	 	
 . 	 	 	
@@ -16876,7 +16876,7 @@ tuumaa
 , 	 	 	
 ja 	 	 	
 perus-Xperia   	B-MISC 	B-MISC 	B-MISC
-Z5:ssä 	 	 	
+Z5:ssä 	B-PRO	B-PRO	B-PRO
 on 	 	 	
 5,2 	 	 	
 tuuman 	 	 	
@@ -16913,7 +16913,7 @@ Xperia-mallin   	B-PRO 	B-PRO 	B-PRO
 nimi 	 	 	
 oli 	 	 	
 Japanissa   	 	B-LOC 	B-LOC
-Z4 	 	 	B-PRO
+Z4 	B-PRO	B-PRO	B-PRO
 , 	 	 	
 mutta 	 	 	
 muualla 	 	 	
@@ -17031,7 +17031,7 @@ puhelinta
 3.9.2015 11:40 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Mashablen   	B-PRO 	B-PRO 	B-PRO
+Mashablen   		B-ORG	B-ORG
 teknologiatoimittajalla 	 	 	
 oli 	 	 	
 kummallinen 	 	 	
@@ -17114,7 +17114,7 @@ Mutta
 kyseessä 	 	 	
 olikin 	 	 	
 vain 	 	 	
-perus-Z5   	B-PRO 	B-PRO 	B-MISC
+perus-Z5   	B-MISC	B-MISC	B-MISC
 , 	 	 	
 jossa 	 	 	
 on 	 	 	
@@ -17517,7 +17517,7 @@ mitäkin
 . 	 	 	
  	 	 	
 Kokeilusta 	 	 	
-Youtube-video   	B-PRO 	B-PRO 	B-PRO
+Youtube-video   	B-MISC	B-MISC	B-MISC
 on 	 	 	
 nähtävissä 	 	 	
 alla 	 	 	
@@ -19446,9 +19446,9 @@ ja
 ne 	 	 	
 tukevat 	 	 	
 myös 	 	 	
-nfc-maksuja 	B-MISC 	B-MISC 	B-MISC
-. 	 	 	
- 	 	 	
+nfc-maksuja 			
+. 			
+ 			
 Akun 	 	 	
 on 	 	 	
 määrä 	 	 	
@@ -19467,7 +19467,7 @@ langattomalla
 latausalustalla 	 	 	
 . 	 	 	
  	 	 	
-Gps-vastaanotinta   	B-MISC 	B-MISC 	B-MISC
+Gps-vastaanotinta   			
 ei 	 	 	
 ole 	 	 	
 . 	 	 	
@@ -19544,7 +19544,7 @@ alkaessa
 . 	 	 	
  	 	 	
 Älykellon 	 	 	
-3G-versiossa 	B-MISC 	B-MISC 	B-MISC
+3G-versiossa 			
 on 	 	 	
 virtuaalinen 	 	 	
 sim-kortti 	 	 	
@@ -19634,7 +19634,7 @@ kirjoitti
 <HEADLINE> 	 	 	
 Syyte 	 	 	
 Nokia-puhelinten   	B-PRO 	B-PRO 	B-PRO
-3g:stä 	B-PRO 	B-PRO 	B-PRO
+3g:stä 			
 nurin 	 	 	
  	 	 	
 <DATE> 	 	 	
@@ -19664,7 +19664,7 @@ ettei
 Nokian   	 	B-ORG 	B-ORG
 puhelimissa 	 	 	
 käytetty 	 	 	
-3g-teknologia 	B-PRO 	B-PRO 	B-PRO
+3g-teknologia 			
 loukkaa 	 	 	
 yhtiön 	 	 	
 patentteja 	 	 	
@@ -19870,10 +19870,10 @@ Tätä
 kirjoittaessa 	 	 	
 Tablet   	B-PRO 	B-PRO 	B-PRO
 on 	 	 	
-versiossa   	 	 	B-PRO
-1.1.9.26 	 	 	I-PRO
+versiossa   	 	 	
+1.1.9.26 	 	 	
 " 	 	 	
-Eineheminlampi   	B-MISC 	B-MISC 	B-MISC
+Eineheminlampi   	B-PRO 	B-PRO 	B-PRO
 " 	 	 	
 ja 	 	 	
 testin 	 	 	
