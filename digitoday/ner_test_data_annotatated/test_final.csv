@@ -20054,7 +20054,7 @@ mobiilikäyttöjärjestelmissä
 Rauta 	 	 	
 riittää 	 	 	
  	 	 	
-Tablet 	 	 	
+Tablet 	B-PRO	B-PRO	B-PRO
 nojaa 	 	 	
 Intelin   	 	B-ORG 	B-ORG
 suorittimeen 	 	 	
@@ -20624,7 +20624,7 @@ Keskisuomalaisen   	B-PRO 	B-PRO 	B-PRO
 tietojen 	 	 	
 mukaan 	 	 	
 Soneran   	 	B-ORG 	B-ORG
-4g-verkoissa 	B-MISC 	B-MISC 	B-MISC
+4g-verkoissa 			
 on 	 	 	
 laajoja 	 	 	
 ongelmia 	 	 	
@@ -20642,12 +20642,12 @@ eivät
 löydä 	 	 	
 lainkaan 	 	 	
 kenttää 	 	 	
-4g-verkkoihin 	B-MISC 	B-MISC 	B-MISC
+4g-verkkoihin 			
 yrittäessä 	 	 	
 , 	 	 	
 eikä 	 	 	
 pelkkää 	 	 	
-4g:tä 	B-PRO 	B-PRO 	B-PRO
+4g:tä 			
 käyttävillä 	 	 	
 puhelimilla 	 	 	
 ja 	 	 	
@@ -20658,9 +20658,9 @@ soittaa
 . 	 	 	
  	 	 	
 Vanhempia 	 	 	
-2g- 	B-MISC 	B-MISC 	B-MISC
-ja 	 	 	
-3g-verkkoja 	B-MISC 	B-MISC 	B-MISC
+2g- 			
+ja 			
+3g-verkkoja 			
 käyttävät 	 	 	
 puhelimet 	 	 	
 toimivat 	 	 	
@@ -20906,7 +20906,7 @@ lunnaita
 8.9.2015 08:13 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Android-puhelimiin   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimiin   	B-MISC	B-MISC	B-MISC
 on 	 	 	
 levitetty 	 	 	
 Adult   	B-PRO 	B-PRO 	B-PRO
@@ -20938,7 +20938,7 @@ mukaan
 Adult   	B-PRO 	B-PRO 	B-PRO
 Player   	I-PRO 	I-PRO 	I-PRO
 houkutteli 	 	 	
-Android-puhelimen   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimen   	B-MISC	B-MISC	B-MISC
 omistajia 	 	 	
 lataamaan 	 	 	
 sovelluksen 	 	 	
@@ -21019,7 +21019,7 @@ ole
 ollut 	 	 	
 tarjolla 	 	 	
 virallisessa 	 	 	
-Android-kaupassa 	 	 	
+Android-kaupassa 	B-MISC	B-MISC	B-MISC
 Google   	B-PRO 	B-PRO 	B-PRO
 Playssä   	I-PRO 	I-PRO 	I-PRO
 vaan 	 	 	
@@ -21084,7 +21084,7 @@ Clans   	I-PRO 	I-PRO 	I-PRO
 kaikkien   	 	 	B-TIM
 aikojen   	 	 	I-TIM
 tuottoisin 	 	 	
-iOS-peli   	B-PRO 	B-PRO 	B-PRO
+iOS-peli   	B-MISC	B-MISC	B-MISC
  	 	 	
 <DATE> 	 	 	
 7.9.2015 12:01 	 	 	
@@ -21119,9 +21119,9 @@ noussut
 kaikkien   	 	 	B-TIM
 aikojen   	 	 	I-TIM
 tuottoisimmaksi 	 	 	
-App   	B-PRO 	B-PRO 	B-PRO
-Store   	I-PRO 	I-PRO 	I-PRO
--peliksi   	I-PRO 	I-PRO 	I-PRO
+App   	B-MISC	B-MISC	B-MISC
+Store   	I-MISC	I-MISC	I-MISC
+-peliksi   	I-MISC	I-MISC	I-MISC
 , 	 	 	
 kertovat 	 	 	
 sovelluslatauksia 	 	 	
@@ -21471,7 +21471,7 @@ Koum   	 	B-PER 	B-PER
 ilmoitti 	 	 	
 luvun 	 	 	
 lyhyessä 	 	 	
-Facebook-viestissä   	B-PRO 	B-PRO 	B-PRO
+Facebook-viestissä   	B-MISC	B-MISC	B-MISC
 perjantaina   	 	 	B-TIM
 . 	 	 	
  	 	 	
@@ -21758,7 +21758,7 @@ noin
 x 	 	 	
 20,2 	 	 	
 millimetrin 	 	 	
-cmos-kenno   	B-PRO 	B-PRO 	B-PRO
+cmos-kenno   			
 pystyy 	 	 	
 tallentamaan 	 	 	
 kuvia 	 	 	
@@ -21809,7 +21809,7 @@ tarkkuus
 on 	 	 	
 noin 	 	 	
 30-kertainen 	 	 	
-4k-videoon   	B-PRO 	B-PRO 	B-PRO
+4k-videoon   			
 verrattuna 	 	 	
 , 	 	 	
 mutta 	 	 	
@@ -22250,8 +22250,8 @@ parhaan
 testatun 	 	 	
 auton 	 	 	
 paikalta 	 	 	
-vuoden   	 	 	B-TIM
-2013   	 	B-DATE 	I-TIM
+vuoden   	 	B-DATE	B-TIM
+2013   	 	I-DATE	I-TIM
 Teslan   	B-PRO 	B-PRO 	B-PRO
 Model   	I-PRO 	I-PRO 	I-PRO
 S:n   	I-PRO 	I-PRO 	I-PRO
@@ -22359,7 +22359,7 @@ Se
 ole 	 	 	
 enää 	 	 	B-TIM
 autokokemus 	 	 	
-" 	 	 	
+;	 	 	
 se 	 	 	
 tuntuu 	 	 	
 huvipuiston 	 	 	
@@ -22454,7 +22454,7 @@ keskitasoa
 <HEADLINE> 	 	 	
 Facebookilta   	 	B-ORG 	B-ORG
 digiavustaja 	 	 	
- 	 	 	
+—	 	 	
 antaisitko 	 	 	
 M:n   	B-PRO 	B-PRO 	B-PRO
 shoppailla 	 	 	
@@ -22473,9 +22473,9 @@ digitaalisen
 avustajansa 	 	 	
 . 	 	 	
  	 	 	
-M-nimellä   	B-PRO 	B-PRO 	B-PRO
-tunnettu   	I-PRO 	I-PRO 	I-PRO
-assistentti   	I-PRO 	I-PRO 	I-PRO
+M-nimellä   	B-MISC	I-MISC	I-MISC
+tunnettu   			
+assistentti   			
 asuu 	 	 	
 Facebook   	B-PRO 	B-PRO 	B-PRO
 Messengerin   	I-PRO 	I-PRO 	I-PRO
@@ -24847,7 +24847,7 @@ verrattuna
 : 	 	 	
 Se 	 	 	
 toimii 	 	 	
-nfc-päätteiden 	B-MISC 	B-MISC 	B-MISC
+nfc-päätteiden 			
 lisäksi 	 	 	
 myös 	 	 	
 tavallisen 	 	 	
@@ -24859,16 +24859,16 @@ Siinä
 käytetään 	 	 	
 yrityksen 	 	 	
 omaa 	 	 	
- 	 	 	
-magnetic 	B-PRO 	B-PRO 	B-PRO
-secure   	I-PRO 	I-PRO 	I-PRO
-transmission 	I-PRO 	I-PRO 	I-PRO
- 	 	 	
-( 	 	 	
-MST   	B-PRO 	B-PRO 	B-PRO
-) 	 	 	
--tekniikkaa 	 	 	
-. 	 	 	
+“	 	 	
+magnetic 			
+secure   			
+transmission 			
+”			
+( 			
+MST   			
+) 			
+-tekniikkaa 			
+. 			
  	 	 	
 Maksusovelluksen 	 	 	
 tiedot 	 	 	
@@ -25302,7 +25302,7 @@ edellyttänyt
 " 	 	 	
 paljon 	 	 	
 iteraatioita 	 	 	
- 	 	 	
+–	 	 	
 enemmän 	 	 	
 kuin 	 	 	
 kuvittelimme 	 	 	
@@ -25326,7 +25326,7 @@ kuin
 Google   	 	B-ORG 	B-ORG
 oli 	 	 	
 ennakoinut 	 	 	
- 	 	 	
+–	 	 	
 toisin 	 	 	
 sanoen 	 	 	
 konseptin 	 	 	
@@ -25579,8 +25579,8 @@ seutuvilla
 . 	 	 	
  	 	 	
 <BODY> 	 	 	
-Intian   	 	B-ORG 	B-ORG
-avaruusjärjestö   	 	I-ORG 	I-ORG
+Intian   	 	B-LOC	B-LOC
+avaruusjärjestö   	 		
 julkaisi 	 	 	
 uuden  	 	 	B-TIM
 valokuvan 	 	 	
@@ -25921,7 +25921,7 @@ ohitettavissa
 Heikkous 	 	 	
 piilee 	 	 	
 yleisessä 	 	 	
-rfid-sirussa   	B-PRO 	B-PRO 	B-PRO
+rfid-sirussa   			
 , 	 	 	
 joka 	 	 	
 käytetään 	 	 	
@@ -27211,7 +27211,7 @@ haittaohjelma
 <INGRESS> 	 	 	
 Eri 	 	 	
 kiinalaisvalmistajien 	 	 	
-Android-puhelimia   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimia   	B-MISC	B-MISC	B-MISC
 on 	 	 	
 päässyt 	 	 	
 myyntiin 	 	 	
@@ -27621,7 +27621,7 @@ on
 päivittänyt 	 	 	
 web-palvelunsa 	 	 	
 versionumeroon 	 	 	
-0.1.4481 	 	 	B-PRO
+0.1.4481 	 	 	
 , 	 	 	
 jossa 	 	 	
 aukko 	 	 	
@@ -27916,8 +27916,8 @@ Kyberturvallisuuskeskus   	 	B-ORG 	B-ORG
  	 	 	
 Haavoittuva 	 	 	
 komponentti 	 	 	
-on 	 	 	
-Windows-koneissa   	B-PRO 	B-PRO 	B-PRO
+on 		 	
+Windows-koneissa   	B-MISC	B-MISC	B-MISC
 oleva 	 	 	
 F-Secure   	B-PRO 	B-PRO 	B-PRO
 Gatekeeper   	I-PRO 	I-PRO 	I-PRO
@@ -28237,7 +28237,7 @@ tueksi
 Hyökkäyssivusto 	 	 	
 käytti 	 	 	
 domain-nimeä 	 	 	
-electronicfrontierfoundation.org 	B-PRO 	B-PRO 	B-PRO
+electronicfrontierfoundation.org 			
 , 	 	 	
 kun 	 	 	
 amerikkalaisen 	 	 	
@@ -28245,7 +28245,7 @@ organisaation
 virallinen 	 	 	
 nettiosoite 	 	 	
 on 	 	 	
-eff.org 	B-PRO 	B-PRO 	B-PRO
+eff.org 			
 . 	 	 	
  	 	 	
 Näppäinnauhuria 	 	 	
@@ -28368,9 +28368,9 @@ tapaavat
 eikä 	 	 	
 arka 	 	 	
 aihe 	 	 	
- 	 	 	
+–	 	 	
 kyberturvallisuus 	 	 	
- 	 	 	
+–	 	 	
 jää 	 	 	
 käsittelemättä 	 	 	
 . 	 	 	
@@ -28836,8 +28836,8 @@ Valvonta
 Englannissa   	 	B-LOC 	B-LOC
 pahempaa 	 	 	
 kuin 	 	 	
-Orwellin   	B-PRO 	B-PRO 	B-PRO
-1984:ssä   	I-PRO 	I-PRO 	I-PRO
+Orwellin   		B-PER	B-PER
+1984:ssä   	B-PRO	B-PRO	B-PRO
  	 	 	
 <DATE> 	 	 	
 26.8.2015 14:48 	 	 	
@@ -29651,7 +29651,7 @@ sivuja
 koska 	 	 	
 Wikipedia   	B-PRO 	B-PRO 	B-PRO
 käyttää 	 	 	
-https-osoitetta 	B-MISC 	B-MISC 	B-MISC
+https-osoitetta 			
 . 	 	 	
  	 	 	
 Siksi 	 	 	
