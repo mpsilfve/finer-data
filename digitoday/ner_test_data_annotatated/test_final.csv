@@ -30178,8 +30178,8 @@ on
 aitoja 	 	 	
 . 	 	 	
  	 	 	
-Toronton   	 	B-ORG 	B-ORG
-poliisi   	 	I-ORG 	I-ORG
+Toronton   	 	B-LOC	B-LOC
+poliisi   	 		
 kertoi 	 	 	
 myös 	 	 	
 , 	 	 	
@@ -30484,7 +30484,7 @@ sivuja
 koska 	 	 	
 Wikipedia   	B-PRO 	B-PRO 	B-PRO
 käyttää 	 	 	
-https-osoitetta 	B-MISC 	B-MISC 	B-MISC
+https-osoitetta 			
 . 	 	 	
  	 	 	
 Venäjän   	 	B-LOC 	B-LOC
@@ -30579,7 +30579,7 @@ Vajaa   	 	 	B-TIM
 kaksi   	 	 	I-TIM
 viikkoa   	 	 	I-TIM
 sitten   	 	 	I-TIM
-Venäjä   	 	B-ORG 	B-ORG
+Venäjä   	 	B-LOC	B-LOC
 iski 	 	 	
 hampaansa 	 	 	
 Redditiin   	B-PRO 	B-PRO 	B-PRO
@@ -32059,10 +32059,10 @@ suhteellisen
 nopeasti 	 	 	
 niin 	 	 	
 sanotulla 	 	 	
-rainbow   	B-PRO 	B-PRO 	B-PRO
-table   	I-PRO 	I-PRO 	I-PRO
--tekniikalla   	I-PRO 	I-PRO 	I-PRO
-, 	 	 	
+rainbow   			
+table   			
+-tekniikalla   			
+, 			
 jossa 	 	 	
 kaikki 	 	 	
 mahdolliset 	 	 	
@@ -32190,7 +32190,7 @@ iski
 neljä 	 	 	
 kertaa 	 	 	
 Googlen   	 	B-ORG 	B-ORG
-Belgian-palvelinkeskuksen 	 	 	B-MISC
+Belgian-palvelinkeskuksen 	B-MISC	B-MISC	B-MISC
 sähköjohtoihin 	 	 	
 ja 	 	 	
 aiheutti 	 	 	
@@ -32897,8 +32897,8 @@ osoitetta
 , 	 	 	
 jotka 	 	 	
 kuuluvat 	 	 	
-Yhdysvaltain   	 	B-ORG 	B-ORG
-hallinnolle   	 	I-ORG 	I-ORG
+Yhdysvaltain   	 	B-LOC	B-LOC
+hallinnolle   	 		
 . 	 	 	
  	 	 	
 Osa 	 	 	
@@ -33086,7 +33086,7 @@ kappale
  	 	 	
 <HEADLINE> 	 	 	
 Googlelta   	 	B-ORG 	B-ORG
-wlan-reititin 	B-MISC 	B-MISC 	B-MISC
+wlan-reititin 			
  	 	 	
 sisältää 	 	 	
 toivotun 	 	 	
@@ -33163,7 +33163,7 @@ myyvää
 Googlea   	 	B-ORG 	B-ORG
 . 	 	 	
  	 	 	
-Wlanin 	B-PRO 	B-PRO 	B-PRO
+Wlanin 			
 toimivuus 	 	 	
 on 	 	 	
 edellytys 	 	 	
@@ -33363,9 +33363,9 @@ Weave   	B-PRO 	B-PRO 	B-PRO
 Laitetta 	 	 	
 voidaan 	 	 	
 ohjata 	 	 	
-iOS-   	B-PRO 	B-PRO 	B-PRO
+iOS-   	B-MISC	B-MISC	B-MISC
 tai 	 	 	
-Android-puhelimilla   	B-PRO 	B-PRO 	B-PRO
+Android-puhelimilla   	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -33634,7 +33634,7 @@ käytössä
  	 	 	
 Muussa 	 	 	
 tapauksessa 	 	 	
-3088903-korjaustiedoston   	B-PRO 	B-PRO 	B-PRO
+3088903-korjaustiedoston   			
 voi 	 	 	
 ladata 	 	 	
 Microsoftin   	 	B-ORG 	B-ORG
@@ -33844,7 +33844,7 @@ kopio
 viime   	 	 	B-TIM
 kuussa   	 	 	I-TIM
 nähdystä 	 	 	
-Tekniikkamaailman   	B-MISC 	B-MISC 	B-MISC
+Tekniikkamaailman   		B-ORG	B-ORG
 arvonnasta 	 	 	
 . 	 	 	
  	 	 	
@@ -33882,9 +33882,9 @@ Tekniikkamaailman 	 	B-ORG 	B-ORG
 tapauksessa 	 	 	
 , 	 	 	
 myöskään 	 	 	
- 	 	 	
-Tekniikkakeskus 	 	B-ORG 	B-ORG
- 	 	 	
+“	 	 	
+Tekniikkakeskus 		B-ORG	B-ORG
+“	 	 	
 ei 	 	 	
 ilmoita 	 	 	
 ylläpitäjiensä 	 	 	
@@ -33916,8 +33916,8 @@ eteenpäin
 markkinointitarkoituksessa 	 	 	
 . 	 	 	
  	 	 	
-Tekniikkamaailman   	B-MISC 	B-MISC 	B-MISC
-iPhone-kampanja   	B-PRO 	B-PRO 	B-PRO
+Tekniikkamaailman   		B-ORG	B-ORG
+iPhone-kampanja   	B-MISC	B-MISC	B-MISC
 on 	 	 	
 nyt   	 	 	B-TIM
 kadonnut 	 	 	
@@ -33976,7 +33976,7 @@ aikajanallaan
 <HEADLINE> 	 	 	
 Suomessa   	 	B-LOC 	B-LOC
 myydyssä 	 	 	
-wlan-reitittimessä 	B-MISC 	B-MISC 	B-MISC
+wlan-reitittimessä 			
 uhka 	 	 	
 : 	 	 	
 Hakkeri 	 	 	
@@ -34035,7 +34035,7 @@ hakkerit
 voivat 	 	 	
 esimerkiksi 	 	 	
 vakoilla 	 	 	
-wlan-reitittimen 	B-MISC 	B-MISC 	B-MISC
+wlan-reitittimen 			
 kautta 	 	 	
 kulkevaa 	 	 	
 verkkoliikennettä 	 	 	
@@ -34222,7 +34222,7 @@ kiistää
 että 	 	 	
 sen 	 	 	
 vanhempiin  	 	 	B-TIM
-Windows-versioihin   	B-MISC 	B-MISC 	B-MISC
+Windows-versioihin   	B-PRO	B-PRO	B-PRO
 jakamat 	 	 	
 päivitykset 	 	 	
 olisi 	 	 	
@@ -34587,7 +34587,7 @@ tietoturvaohjelmia
  	 	 	
 Keinot 	 	 	
 piiloutua 	 	 	
-Windows-tiedostojärjestelmään   	B-PRO 	B-PRO 	B-PRO
+Windows-tiedostojärjestelmään   	B-MISC	B-MISC	B-MISC
 se 	 	 	
 on 	 	 	
 saanut 	 	 	
@@ -34600,7 +34600,7 @@ on
 peräisin 	 	 	
 keino 	 	 	
 pyyhkiä 	 	 	
-Windows-tietokoneen   	B-PRO 	B-PRO 	B-PRO
+Windows-tietokoneen   	B-MISC	B-MISC	B-MISC
 Järjestelmän 	 	 	
 palautus 	 	 	
 -toiminnosta 	 	 	
@@ -34727,7 +34727,7 @@ Senakh   	 	B-PER 	B-PER
 on 	 	 	
 asetettu 	 	 	
 Minnesotan   	 	B-LOC 	B-LOC
-osavaltiossa 	 	 	I-LOC
+osavaltiossa 	 		
 syytteeseen 	 	 	
 useista 	 	 	
 tietokonepetoksista 	 	 	
