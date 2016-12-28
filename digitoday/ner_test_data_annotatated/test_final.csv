@@ -37749,7 +37749,7 @@ erityinen
 äänipiiri 	 	 	
 erottaa 	 	 	
 Marshall-puhelimen   	B-PRO 	B-PRO 	B-PRO
-perus-Androidista 	 	 	
+perus-Androidista 	B-MISC	B-MISC	B-MISC
 . 	 	 	
  	 	 	
 Puhelimessa 	 	 	
@@ -38402,7 +38402,7 @@ Wearables   	B-PRO 	B-PRO 	B-PRO
 " 	 	 	
 . 	 	 	
  	 	 	
-Wearables-sanalla 	 	 	
+Wearables-sanalla 	B-MISC	B-MISC	B-MISC
 tarkoitetaan 	 	 	
 päälle 	 	 	
 puettavaa 	 	 	
@@ -38509,7 +38509,7 @@ Sports   	B-PRO 	B-PRO 	B-PRO
 Tracker   	I-PRO 	I-PRO 	I-PRO
 -sovelluksen   	I-PRO 	I-PRO 	I-PRO
 yhtiön 	 	 	
-Symbian-puhelimille   	B-PRO 	B-PRO 	B-PRO
+Symbian-puhelimille   	B-MISC	B-MISC	B-MISC
 , 	 	 	
 joka 	 	 	
 mittasi 	 	 	
@@ -38520,7 +38520,7 @@ pyöräilynopeuden
 sekä 	 	 	
 reitin 	 	 	
 pituuden 	 	 	
-gps-paikannuksen 	 	 	B-PRO
+gps-paikannuksen 	 	 	
 avulla 	 	 	
 . 	 	 	
  	 	 	
@@ -38973,7 +38973,7 @@ MTV:n   	 	B-ORG 	B-ORG
 tietojen 	 	 	
 mukaan 	 	 	
 hallussaan 	 	 	
-Symbian-puhelinten   	B-PRO 	B-PRO 	B-PRO
+Symbian-puhelinten   	B-MISC	B-MISC	B-MISC
 kirjoitussalausavain 	 	 	
 . 	 	 	
  	 	 	
@@ -41291,7 +41291,7 @@ kamera
 sekä 	 	 	
 radio 	 	 	
 ja 	 	 	
-mp3-soitin   	B-MISC 	B-MISC 	B-MISC
+mp3-soitin   			
 . 	 	 	
  	 	 	
 Puhelimet 	 	 	
@@ -41556,7 +41556,7 @@ hyvin
 perusteltu 	 	 	
 . 	 	 	
  	 	 	
-Pc-kauppa 	B-MISC 	B-MISC 	B-MISC
+Pc-kauppa 			
 laskee 	 	 	
 , 	 	 	
 mutta 	 	 	
@@ -42319,7 +42319,7 @@ euroa
 . 	 	 	
  	 	 	
 Jos 	 	 	
-4g-mobiilidatan 	B-MISC 	B-MISC 	B-MISC
+4g-mobiilidatan 			
 jättää 	 	 	
 pois 	 	 	
 tai 	 	 	
@@ -42713,7 +42713,7 @@ kamerasoftaa
 käytettäessä 	 	 	
 . 	 	 	
  	 	 	
-4g-yhteys 	B-MISC 	B-MISC 	B-MISC
+4g-yhteys 			
 vaikuttaa 	 	 	
 hieman 	 	 	
 ylimitoitetulta 	 	 	
@@ -42729,7 +42729,7 @@ mukaan
 olisi 	 	 	
 hölmöä 	 	 	
 ujuttaa 	 	 	
-3g-yhteyttä 	B-MISC 	B-MISC 	B-MISC
+3g-yhteyttä 			
 , 	 	 	
 jos 	 	 	
 uudemman 	 	 	
@@ -43049,7 +43049,7 @@ pääsevät
 koeajamaan 	 	 	
 " 	 	 	
 Galaxyja   	B-PRO 	B-PRO 	B-PRO
- 	 	 	
+—	 	 	
 mälläys 	 	 	
 maksaa 	 	 	
 paljon 	 	 	
@@ -43388,7 +43388,7 @@ eteenpäin
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
-Android-kello   	B-PRO 	B-PRO 	B-PRO
+Android-kello   	B-MISC	B-MISC	B-MISC
 sai 	 	 	
 interaktiivisen 	 	 	
 , 	 	 	
@@ -44085,9 +44085,9 @@ pois
  	 	 	
  	 	 	
 <HEADLINE> 	 	 	
-4G 	B-MISC 	B-MISC 	B-MISC
-lte 	I-MISC 	I-MISC 	I-MISC
--liittymät 	I-MISC 	I-MISC 	I-MISC
+4G 			
+lte 			
+-liittymät 			
 ylittävät 	 	 	
 miljardin 	 	 	
 rajan 	 	 	
@@ -44098,7 +44098,7 @@ vuonna   	 	 	I-TIM
 8.9.2015 09:51 	 	 	
  	 	 	
 <INGRESS> 	 	 	
-Lte-liittymien 	B-MISC 	B-MISC 	B-MISC
+Lte-liittymien 			
 määrä 	 	 	
 lisääntyy 	 	 	
 nopeasti 	 	 	
@@ -44129,7 +44129,7 @@ lukuihin
 , 	 	 	
 joiden 	 	 	
 mukaan 	 	 	
-lte-liittymien 	B-MISC 	B-MISC 	B-MISC
+lte-liittymien 			
 lukumäärä 	 	 	
 ylsi 	 	 	
 noin 	 	 	
@@ -44152,11 +44152,11 @@ lopussa   	 	 	I-TIM
 . 	 	 	
  	 	 	
 Aito 	 	 	
-4G 	B-PRO 	B-PRO 	B-PRO
-, 	 	 	
-siis 	 	 	
-4G 	B-PRO 	B-PRO 	B-PRO
-lte 	I-PRO 	I-PRO 	I-PRO
+4G 			
+, 			
+siis 			
+4G 			
+lte 			
 , 	 	 	
 mahdollistaa 	 	 	
 huomattavasti 	 	 	
@@ -44164,7 +44164,7 @@ nopeamman
 langattoman 	 	 	
 laajakaistan 	 	 	
 kuin 	 	 	
-3G-verkot 	B-MISC 	B-MISC 	B-MISC
+3G-verkot 			
 ja 	 	 	
 laitteet 	 	 	
 . 	 	 	
@@ -44191,7 +44191,7 @@ operaattoria
 sai 	 	 	
 113,5 	 	 	
 miljoonaa 	 	 	
-lte-käyttäjää 	B-MISC 	B-MISC 	B-MISC
+lte-käyttäjää 			
 lisää 	 	 	
 . 	 	 	
  	 	 	
@@ -44204,13 +44204,13 @@ Kiinasta   	 	B-LOC 	B-LOC
 joka 	 	 	
 kasvatti 	 	 	
 oman 	 	 	
-lte-liittymämääränsä 	B-MISC 	B-MISC 	B-MISC
+lte-liittymämääränsä 			
 225 	 	 	
 miljoonaan 	 	 	
 . 	 	 	
  	 	 	
 Maailman 	 	 	
-lte-liittymistä 	B-MISC 	B-MISC 	B-MISC
+lte-liittymistä 			
 51 	 	 	
 prosenttia 	 	 	
 on 	 	 	
@@ -44242,7 +44242,7 @@ kirjoitti
 Koko 	 	 	
 maailman 	 	 	
 matkapuhelinliittymistä 	 	 	
-lte-liittymien 	B-MISC 	B-MISC 	B-MISC
+lte-liittymien 			
 osuus 	 	 	
 on 	 	 	
 jo 	 	 	
@@ -44252,7 +44252,7 @@ prosenttiin
 . 	 	 	
  	 	 	
 Huhti–kesäkuussa   	 	B-DATE 	B-TIM
-3G-liittymien 	B-MISC 	B-MISC 	B-MISC
+3G-liittymien 			
 määrä 	 	 	
 kasvoi 	 	 	
 edelleen 	 	 	B-TIM
@@ -44263,7 +44263,7 @@ miljoonalla
 kasvu 	 	 	
 jäi 	 	 	
 jälkeen 	 	 	
-lte:stä 	B-PRO 	B-PRO 	B-PRO
+lte:stä 			
 . 	 	 	
  	 	 	
 Perus-gsm-liittymien 	 	 	
@@ -44280,7 +44280,7 @@ julkaisemien
 lukujen 	 	 	
 mukaan 	 	 	
 maailman 	 	 	
-lte-liittymien 	B-MISC 	B-MISC 	B-MISC
+lte-liittymien 			
 määrä 	 	 	
 oli 	 	 	
 kesäkuun   	 	B-DATE 	B-TIM
@@ -46505,7 +46505,7 @@ toimintakaupungeissa
 He 	 	 	
 haluavat 	 	 	
 myös 	 	 	
-gps-seurannan 	B-PRO 	B-PRO 	B-PRO
+gps-seurannan 			
 kaikkiin 	 	 	
 autoihin 	 	 	
 . 	 	 	
@@ -47332,7 +47332,7 @@ sääntelyviidakko
 Volvo   	 	B-ORG 	B-ORG
 Carsin   	 	I-ORG 	I-ORG
 toimitusjohtaja   	 	B-TIT 	B-TIT
-Ha?kan   	 	B-PER 	B-PER
+Håkan   	 	B-PER 	B-PER
 Samuelsson   	 	I-PER 	I-PER
 tekee 	 	 	
 torstaisessa   	 	 	B-TIM
@@ -47535,7 +47535,7 @@ vaihtoehtoja
 . 	 	 	
  	 	 	
 Volvon   	 	B-ORG 	B-ORG
-Ha?kan   	 	B-PER 	B-PER
+Håkan   	 	B-PER 	B-PER
 Samuelsson   	 	I-PER 	I-PER
 uskoo 	 	 	
 robottiautojen 	 	 	
@@ -47595,7 +47595,7 @@ Electronics   	 	I-ORG 	I-ORG
 kertoi 	 	 	
 torstaina   	 	 	B-TIM
 avanneensa 	 	 	
-5G-teknologiaan 	B-PRO 	B-PRO 	B-PRO
+5G-teknologiaan 			
 erikoistuneen 	 	 	
 tutkimus- 	 	 	
 ja 	 	 	
@@ -48806,7 +48806,7 @@ Tiedotteen
 mukaan 	 	 	
 keskus 	 	 	
 keskittyy 	 	 	
-5G-radiotekniikan 	B-PRO 	B-PRO 	B-PRO
+5G-radiotekniikan 			
 ratkaisuihin 	 	 	
 ja 	 	 	
 niihin 	 	 	
@@ -48836,7 +48836,7 @@ olemaan
 erittäin 	 	 	
 tärkeää 	 	 	
 siirtyessämme 	 	 	
-5G-verkkojen 	B-MISC 	B-MISC 	B-MISC
+5G-verkkojen 			
 ja 	 	 	
 esineiden 	 	 	
 internetin 	 	 	
@@ -49208,7 +49208,7 @@ väärinkäsitykseen
 . 	 	 	
  	 	 	
 Suomessa 	 	 	
-Molotov-sana 	 	 	
+Molotov-sana 	B-MISC	B-MISC	B-MISC
 tarkoittaa 	 	 	
 yksiselitteisesti 	 	 	
 Stalinin   	 	B-PER 	B-PER
@@ -49221,7 +49221,7 @@ Vjateslav   	 	B-PER 	B-PER
 Mihailovit   	 	I-PER 	I-PER
 Molotovia   	 	I-PER 	I-PER
 ( 	 	 	
-1890—1986   	 	B-TIM 	B-TIM
+1890—1986   	 	B-DATE	B-TIM
 ) 	 	 	
 . 	 	 	
  	 	 	
@@ -49240,8 +49240,8 @@ suomen
 kielessä 	 	 	
 pidemmässä 	 	 	
 muodossaan 	 	 	
-Molotovin   	B-PRO 	B-PRO 	B-PRO
-cocktail   	I-PRO 	I-PRO 	I-PRO
+Molotovin   		B-PER	B-PER
+cocktail   			
 . 	 	 	
  	 	 	
 Palvelun 	 	 	
@@ -49283,7 +49283,7 @@ pahimpina
 Firma 	 	 	
 blokkasi 	 	 	
 julkisen 	 	 	
-wlanin 	 	 	B-PRO
+wlanin 	 	 	
 — 	 	 	
 myi 	 	 	
 omia 	 	 	
@@ -49324,7 +49324,7 @@ Holdings   	 	I-ORG 	I-ORG
 750 000 	 	 	
 dollaria 	 	 	
 julkisten 	 	 	
-wlan-yhteyksien 	B-MISC 	B-MISC 	B-MISC
+wlan-yhteyksien 			
 häirinnästä 	 	 	
 . 	 	 	
  	 	 	
@@ -49332,7 +49332,7 @@ Yhtiö
 esti 	 	 	
 ihmisiä 	 	 	
 käyttämästä 	 	 	
-wlan-yhteyksiään 	B-MISC 	B-MISC 	B-MISC
+wlan-yhteyksiään 			
 useissa 	 	 	
 konferenssikeskuksissa 	 	 	
 eri 	 	 	
@@ -49355,7 +49355,7 @@ kuluttajia
 käyttämästä 	 	 	
 omia 	 	 	
 henkilökohtaisia 	 	 	
-wlan-palvelupisteitään 	B-MISC 	B-MISC 	B-MISC
+wlan-palvelupisteitään 			
 , 	 	 	
 FCC:n 	 	B-ORG 	B-ORG
 toimeenpanoyksikön 	 	 	
@@ -49369,7 +49369,7 @@ Smart   	 	B-ORG 	B-ORG
 City   	 	I-ORG 	I-ORG
 laskutti 	 	 	
 oman 	 	 	
-wlan-palvelun 	B-MISC 	B-MISC 	B-MISC
+wlan-palvelun 			
 käytöstä 	 	 	
 jopa 	 	 	
 80 	 	 	
@@ -49405,7 +49405,7 @@ mukaan
 Smart   	 	B-ORG 	B-ORG
 City   	 	I-ORG 	I-ORG
 lopetti 	 	 	
-wlan-estot 	B-MISC 	B-MISC 	B-MISC
+wlan-estot 			
 lokakuussa   	 	B-DATE 	B-TIM
 sen 	 	 	
 jälkeen 	 	 	
@@ -49854,7 +49854,7 @@ tekevät
 päätökset 	 	 	
 hankinnasta 	 	 	
 elo—syyskuun   	 	B-DATE 	B-TIM
-aikana   	 	I-DATE 	I-TIM
+aikana   	 		I-TIM
 . 	 	 	
  	 	 	
 <HEADLINE> 	 	 	
@@ -49863,7 +49863,7 @@ Virustutkat
 eivät 	 	 	
 havaitse 	 	 	
 " 	 	 	
- 	 	 	
+—	 	 	
 kiristysohjelmasta 	 	 	
 tuli 	 	 	
 avointa 	 	 	
@@ -50329,9 +50329,9 @@ on
 käytetty 	 	 	
 iPhone-malleissa   	B-PRO 	B-PRO 	B-PRO
 5s   	I-PRO 	I-PRO 	I-PRO
-, 	 	 	I-PRO
+, 	I-PRO 	I-PRO 	I-PRO
 6   	I-PRO 	I-PRO 	B-PRO
-ja 	 	 	I-PRO
+ja 	I-PRO 	I-PRO 	I-PRO
 6   	I-PRO 	I-PRO 	B-PRO
 Plus   	I-PRO 	I-PRO 	I-PRO
 sekä 	 	 	
@@ -50486,7 +50486,7 @@ Uuteen-Seelantiin   	 	B-LOC 	B-LOC
 kuuluvalla 	 	 	
 Cookinsaarilla   	 	B-LOC 	B-LOC
 asuva 	 	 	
-Windows-käyttäjä 	 	 	
+Windows-käyttäjä 	B-MISC	B-MISC	B-MISC
 kertoo 	 	 	
 elokuun   	 	B-DATE 	B-TIM
 internetlaskunsa 	 	 	
@@ -50877,7 +50877,7 @@ ei
 voi 	 	 	
 enää 	 	 	B-TIM
 Kalifornian   	 	B-LOC 	B-LOC
-osavaltiossa 	 	 	I-LOC
+osavaltiossa 	 	 	
 vaatia 	 	 	
 käyttäjitietoja 	 	 	
 vaikkapa 	 	 	
