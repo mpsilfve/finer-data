@@ -37116,7 +37116,7 @@ viittasi
 sääntelyyn 	 	
 , 	 	
 jossa 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 määrättiin 	 	
 hyväksymään 	 	
 myös 	 	
@@ -46540,7 +46540,7 @@ Fiber       	I-PRO 	I-PRO
 pelottaa 	 	
 ? 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 avasi 	 	
 kilpailevan 	 	
 gigayhteyden 	 	
@@ -46564,7 +46564,7 @@ perinteisiä
 teleoperaattoreita 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ryhtyi 	 	
 tarjoamaan 	 	
 omaa 	 	
@@ -46581,7 +46581,7 @@ ensiasennuksesta
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 tarjoaa 	 	
 omaa 	 	
 GigaPower-palveluaan       	B-PRO 	B-PRO
@@ -46614,7 +46614,7 @@ ilman
 mainoksia 	 	
 . 	 	
  	 	
-AT&amp;T;:llä     	B-ORG 	B-ORG
+AT&T:llä	B-ORG 	B-ORG
 on 	 	
 kuitenkin 	 	
 etulyöntiasema 	 	
@@ -46660,7 +46660,7 @@ paikallisiin
 pylväisiin 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ei 	 	
 toki 	 	
 ole 	 	
@@ -53653,7 +53653,7 @@ kiivaasti
 . 	 	
  	 	
 – 	 	
-AT&amp;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 , 	 	
 Verizon       	B-ORG 	B-ORG
 ja 	 	
@@ -54639,7 +54639,7 @@ tammi–helmikuun       	B-DATE 	B-TIM
 vaihteessa       	 	I-TIM
 . 	 	
  	 	
-AT&amp;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ottaa 	 	
 jo 	 	
 vastaan 	 	
@@ -55045,7 +55045,7 @@ myynti
 39 	 	
 miljardilla 	 	
 dollarilla 	 	
-AT&amp;T;:lle    	B-ORG 	B-ORG
+AT&T:lle	B-ORG 	B-ORG
 törmäsi 	 	
 Yhdysvaltain       	B-ORG 	B-ORG
 viestintäkomission       	I-ORG 	I-ORG
@@ -55411,7 +55411,7 @@ Total       	B-ORG 	B-ORG
 Telecom       	I-ORG 	I-ORG
 viitaten 	 	
 konsulttiyhtiö 	 	
-AC&amp;M;:n    	B-ORG 	B-ORG
+AC&M:n	B-ORG 	B-ORG
 lukuihin 	 	
 . 	 	
  	 	
@@ -59382,7 +59382,7 @@ kampanjatarjous
 tulee 	 	
 kahden       	 	B-TIM
 vuoden       	 	I-TIM
-AT&amp;T;:n    	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 kytkysopimuksella 	 	
 . 	 	
  	 	
@@ -61178,7 +61178,7 @@ vuonna       	B-DATE 	B-TIM
 <BODY> 	 	
 T-Mobile       	B-ORG 	B-ORG
 voitti 	 	
-AT&amp;T;n    	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 tytäryhtiötä 	 	
 Aio       	B-ORG 	B-ORG
 Wirelessia       	I-ORG 	I-ORG
@@ -65200,7 +65200,7 @@ prosenttia
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 nousi 	 	
 kaista-ahmatiksi 	 	
 , 	 	
@@ -65223,8 +65223,9 @@ taajuushuutokaupassa
 eniten 	 	
 rahaa 	 	
 käytti 	 	
-AT&amp;T;    	B-ORG 	B-ORG
- 	 	
+AT&T	B-ORG 	B-ORG
+.	 	
+		
 Yllättäjäksi 	 	
 nousi 	 	
 satelliitti-tv-operaattori 	 	
@@ -65238,7 +65239,7 @@ kaistaoperaattori
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 huusi 	 	
 alueellisia 	 	
 radiotaajuuskaistoja 	 	
@@ -65305,7 +65306,7 @@ voittamaan
 taajuuksia 	 	
 . 	 	
  	 	
-AT&amp;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 , 	 	
 joka 	 	
 voitti 	 	
@@ -65346,7 +65347,7 @@ megahertsin
 taajuusalueet 	 	
 . 	 	
  	 	
-AT&AMP;T;    	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 aikoo 	 	
 tehdä 	 	
 yhteistyötä 	 	
@@ -66140,7 +66141,7 @@ dollaria
 Maan 	 	
 suurimmat 	 	
 operaattorit 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ja 	 	
 Verizon       	B-ORG 	B-ORG
 ovat 	 	
@@ -66165,7 +66166,7 @@ varainhankintatietojen
 perusteella 	 	
 , 	 	
 että 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ostaa 	 	
 taajuuksia 	 	
 20–22 	 	
@@ -67022,7 +67023,7 @@ kahden       	 	I-TIM
 vuoden       	 	I-TIM
 ajan       	 	I-TIM
 työskennellyt 	 	
-R&amp;D;-johtajana     	 	B-MISC
+R&D-johtajana     	 	B-MISC
 yhtiön 	 	
 Oulun       	B-LOC 	B-LOC
 tutkimuskeskuksesta 	 	
@@ -70364,7 +70365,7 @@ seuraavaksi
 eniten 	 	
 asiakkaita 	 	
 lisännyt 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 sai 	 	
 kasaan 	 	
 , 	 	
@@ -70452,7 +70453,7 @@ kovakouraisesta
 haastamisesta 	 	
 kuten 	 	
 esimerkiksi 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 ja 	 	
 Blackberryn       	B-ORG 	B-ORG
 johtajat 	 	
@@ -70493,7 +70494,7 @@ Se
 on 	 	
 enemmän 	 	
 kuin 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 Randall       	B-PER 	B-PER
 Stephensonin       	I-PER 	I-PER
 23 	 	
@@ -70684,7 +70685,7 @@ estämisaikeista
 Aikaisemmin       	 	B-TIM
 ne 	 	
 tyrmäsivät 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 ja 	 	
 T-Mobilen       	B-ORG 	B-ORG
 39 	 	
@@ -71050,7 +71051,7 @@ saakka       	 	I-TIM
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 lähtee 	 	
 kilpailuun 	 	
 lentomatkustajien 	 	
@@ -71063,7 +71064,7 @@ lentomatkustajien
 Suuri 	 	
 yhdysvaltalainen 	 	
 teleoperaattori 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 rakentaa 	 	
 lentomatkustajille 	 	
 oman 	 	
@@ -71085,7 +71086,7 @@ vuodeksi       	B-DATE 	B-TIM
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ilmoitti 	 	
 maanantaina       	 	B-TIM
 aikeistaan 	 	
@@ -71109,7 +71110,7 @@ katsovan
 tukiasemaverkon 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 hanke 	 	
 haastaa 	 	
 jo 	 	
@@ -71131,7 +71132,7 @@ Cnet       	B-ORG 	B-ORG
 kirjoitti 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 huomautti 	 	
 , 	 	
 että 	 	
@@ -71154,7 +71155,7 @@ Honeywellin       	B-ORG 	B-ORG
 kanssa 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 saa 	 	
 tehdä 	 	
 kovasti 	 	
@@ -73682,7 +73683,7 @@ Neowin       	B-ORG 	B-ORG
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 menee 	 	
 ryminällä 	 	
 Meksikoon       	B-LOC 	B-LOC
@@ -73695,7 +73696,7 @@ Yhdysvaltain       	B-LOC 	B-LOC
 toiseksi 	 	
 suurin 	 	
 matkapuhelinoperaattori 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ei 	 	
 aikaillut 	 	
 Meksikon       	B-LOC 	B-LOC
@@ -73720,7 +73721,7 @@ jälkeen
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 aikoo 	 	
 luoda 	 	
 Yhdysvaltain       	B-LOC 	B-LOC
@@ -73770,7 +73771,7 @@ Yhdysvaltain       	B-LOC 	B-LOC
 välillä 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 osti 	 	
 meksikolaisen 	 	
 Iusacellin 	 	
@@ -76932,7 +76933,7 @@ huhut
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 , 	 	
 Verizon       	B-ORG 	B-ORG
 ja 	 	
@@ -77111,7 +77112,7 @@ siitä
 Etulyöntiasema 	 	
 kuuluu 	 	
 kuitenkin 	 	
-AT&amp;T;:lle     	B-ORG 	B-ORG
+AT&T:lle	B-ORG 	B-ORG
 tai 	 	
 Verizonille       	B-ORG 	B-ORG
 , 	 	
@@ -81050,7 +81051,7 @@ melkein
 prosenttiin 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ja 	 	
 DirecTV:n     	B-ORG 	B-ORG
 välinen 	 	
@@ -83946,7 +83947,7 @@ ei
 halua 	 	
 käyttäjien 	 	
 siirtyvän 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 tai 	 	
 T-Mobilen       	B-ORG 	B-ORG
 asiakkaiksi 	 	
@@ -123861,7 +123862,7 @@ salasanansa
 . 	 	
  	 	
 <HEADLINE> 	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 keksi 	 	
 laskuttaa 	 	
 yksityisyydestä 	 	
@@ -123873,7 +123874,7 @@ erikseen
 <INGRESS> 	 	
 Yhdysvaltalainen 	 	
 telejätti 	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 on 	 	
 löytänyt 	 	
 uuden       	 	B-TIM
@@ -123885,7 +123886,7 @@ yksityisyysmaksun
 . 	 	
  	 	
 <BODY> 	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 tarjoaa 	 	
 huippunopean 	 	
 GigaPower-palvelun       	B-PRO 	B-PRO
@@ -123903,7 +123904,7 @@ dollaria
 kuukaudessa       	 	B-TIM
 . 	 	
  	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 kertoo 	 	
 asiasta 	 	
 suoraan 	 	
@@ -123984,7 +123985,7 @@ Mayer       	B-PER 	B-PER
 arveli 	 	
 , 	 	
 että 	 	
-AT&amp;T;:n      	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 kalliin 	 	
 yksityisyysmaksun 	 	
 tarkoitus 	 	
@@ -123997,7 +123998,7 @@ seurannan
 piirissä 	 	
 . 	 	
  	 	
-AT&amp;T;:n      	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 sakkomaksu 	 	
 yksityisyydestä 	 	
 näyttäisi 	 	
@@ -124022,7 +124023,7 @@ joka
 paikkaan 	 	
 . 	 	
  	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T   	B-ORG 	B-ORG
 lupasi 	 	
 luopua 	 	
 marraskuussa       	B-DATE 	B-TIM
@@ -124081,7 +124082,7 @@ New       	B-ORG 	B-ORG
 York       	I-ORG 	I-ORG
 Timesin       	I-ORG 	I-ORG
 mukaan 	 	
-AT&amp;T;      	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ei 	 	
 kuitenkaan 	 	
 takaa 	 	
@@ -150818,7 +150819,7 @@ Hän
 joutui 	 	
 vankilaan 	 	
 vietyään 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 järjestelmästä 	 	
 iPad-ostajien       	B-MISC 	B-MISC
 tietoja 	 	
@@ -152366,7 +152367,7 @@ Nokia       	I-PRO 	I-PRO
 ( 	 	
 Schildts       	B-ORG 	B-ORG
 &       	I-ORG 	I-ORG
-amp;S;öderströms     	I-ORG 	I-ORG
+Söderströms     	I-ORG 	I-ORG
 ) 	 	
 kirjoittaja 	 	
 , 	 	
@@ -190142,7 +190143,7 @@ sponsoreiden
 kanssa 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 , 	 	
 DeVry       	B-ORG 	B-ORG
 University       	I-ORG 	I-ORG
@@ -190474,7 +190475,7 @@ Apple       	B-ORG 	B-ORG
 , 	 	
 Microsoft       	B-ORG 	B-ORG
 , 	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 , 	 	
 Verizon       	B-ORG 	B-ORG
 , 	 	
@@ -190605,7 +190606,7 @@ kuitenkaan
 ostaa 	 	
 . 	 	
  	 	
-AT&amp;T;     	B-ORG 	B-ORG
+AT&T	B-ORG 	B-ORG
 ja 	 	
 Verizon       	B-ORG 	B-ORG
 kumpikin 	 	
@@ -195322,7 +195323,7 @@ nurin
 <INGRESS> 	 	
 IPad-omistajien       	B-MISC 	B-MISC
 tietoja 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 järjestelmistä 	 	
 kaivanut 	 	
 hakkeri 	 	
@@ -195376,7 +195377,7 @@ tempauksessa
 jossa 	 	
 osoitettiin 	 	
 teleyhtiö 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 verkkosivujen 	 	
 onneton 	 	
 suojaus 	 	
@@ -203430,7 +203431,7 @@ Tuomio
 oli 	 	
 seurausta 	 	
 teleyhtiö 	 	
-AT&amp;T;:n     	B-ORG 	B-ORG
+AT&T:n	B-ORG 	B-ORG
 bugista 	 	
 , 	 	
 jota 	 	
@@ -203524,7 +203525,7 @@ pitänyt
 ensin 	 	
 paljastaa 	 	
 löytönsä 	 	
-AT&amp;T;:lle     	B-ORG 	B-ORG
+AT&T:lle	B-ORG 	B-ORG
 journalistin 	 	
 sijaan 	 	
 . 	 	
