@@ -1,0 +1,1 @@
+java -cp ../stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier finer-model.ser.gz -testFile test > test.sys

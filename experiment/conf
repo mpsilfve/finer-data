@@ -1,0 +1,23 @@
+trainFile = train+dev
+serializeTo = finer-model.ser.gz
+map = word=0,answer=1,lemma=2,tag=3
+useGenericFeatures=true
+useClassFeature=true
+useGazettes=true
+gazette=w2v_gazette,wikipedia_gazette,omorfi_gazette
+cleanGazette=true
+useWord=true
+useTags=true
+useLemmas=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=6
+usePrev=true
+useNext=true
+useSequences=true
+usePrevSequences=false
+maxLeft=1
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+useDisjunctive=true
