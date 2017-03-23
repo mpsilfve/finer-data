@@ -82,8 +82,8 @@
 
 \begin{document}
 
-\title{Named Entity Recognition Resources for Finnish}
-\author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
+\title{Freely Available Named Entity Recognition Resources for Finnish}
+\author{Teemu Ruokolainen \and Miikka Silfverberg \and Pekka Kauppinen \and Krister Lind\'en}
 
 
 
@@ -100,7 +100,7 @@
 
 Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing documents in an article database \citep{}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014}. 
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014,kettunen2016a}. 
 
 %Chinese \citep{bai2001}
 
@@ -113,9 +113,9 @@ Since its inception in the early 1990s, NER has been studied extensively on a wi
 % For some languages, such as English and German, data resources were introduced already during the 1990s and early 2000s \citep{}. A wide range of statistical methods have been applied for performing 
 % Readily applicable toolkits, such as the Stanford Named Entity Recognizer \citep{}, trained on these corpora were releasted soon after.\footnote{For the Stanford Named Entity Recognizer, see \url{}.} 
 
-In this paper, we describe our work on developing freely available NER resources for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki. The trained statistical and rule-based systems are freely available and can be readily employed to automatically NER tag Finnish text.
+In this paper, we describe our work on developing freely available NER resources for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki. The trained statistical and rule-based systems are freely available and can be readily employed to automatically NER tag Finnish text.
 
-In an earlier work, \citet{kettunen2016} has applied the FiNER system to extract named entities in historical Finnish newspapers with little success. While undeniably modest, however, the results of this experimentation are difficult to interpret for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citep{kettunen2016}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text. Commerical toolkits and other work. 
+In an earlier work, \citet{kettunen2016a} has applied the FiNER system to extract named entities in historical Finnish newspapers with little success. While undeniably modest, however, the results of this experimentation are difficult to interpret for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citet{kettunen2016a}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text. In addition, there exists a commercial NER toolkit for Finnish developed by Connexor.\footnote{See \url{https://www.connexor.com/nlplib/?q=technology/name-recognition}} 
 
 % In a related work, \citet{makela2011} describes ARPA toolkit employed for semantic web tagging and linking of entities. However, Instead of locating named entities from a predefined set, ARPA aims to locate all entities that can be linked to strong identifiers elsewhere. Through these, it is then for example possible to source coordinates for identified places, or associate different name variants and spellings to a single individual. For the pure entity recognition task presented in this paper, ARPA is thus at a disadvantage. However, we wanted to see how it would fare in comparison to FiNER.While it might be possible to develop its , we do not consider the toolkit a named entity recognizer and, therefore, exclude it from the experiments of this paper.
 
@@ -132,18 +132,20 @@ Finally, conclusions on the work are presented in Section \ref{sec: conclusions}
 \section{Corpus}
 \label{sec: corpus}
 
-In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER data and systems developed for English, German, and Swedish \citep{muc,conll,swener,swedata}.
+In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER data and systems developed for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
 
 \subsection{Text}
 \label{sec: text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1194 articles (XXX word tokens) in total\footnote{In comparison, the English and German sections of the CoNLL-2003 data set \citep{tjong2003} contain X and Y word tokens in total, respectively.} In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1194 articles (XXX word tokens) in total. 
+%In comparison, the English and German sections of the CoNLL-2003 data set \citep{tjong2003} contain X and Y word tokens in total, respectively. 
+In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
 
 
 \subsection{Named Entities}
 \label{sec: named entities}
 
-The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles}. In the following, we discuss these classes in more detail.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles} which have been employed in previous work to varying extent. In the following, we discuss these classes in more detail.
 %In the following, we describe the classes in more detail.
 
 %While we do not consider the last two named entities, we will refer to them as such for simplicity. 
@@ -358,18 +360,19 @@ To be markable, each class must appear as a whole and not as a derivation or as 
 
 Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
 
-Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. The reason for this is purely practical. If the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
+Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. The justification for this choice is as follows: if the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
 
 
 \paragraph{Expression ''-niminen''}
 	
-Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as a single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
 
 
 \subsection{Annotation Process}
 
-In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C. The purpose of this three-stage procedure is to ensure a high test set quality.
+%In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C. The purpose of this three-stage procedure is to ensure a high test set quality.
 
+The annotation process was performed iteratively. 
 
 
 
