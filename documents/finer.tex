@@ -316,9 +316,9 @@ Dates, or more generally temporal expressions, have been incorporated in previou
 %Following the above presentation, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
 
 
-\paragraph{Title (TITLE)}
+%\paragraph{Title (TITLE)}
 
-Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
+%Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
 
 
 
@@ -360,8 +360,8 @@ To be markable, each class must appear as a whole and not as a derivation or as 
 
 Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
 
-Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. The justification for this choice is as follows: if the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
-
+Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. %The justification for this choice is as follows: if the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
+This rule also generalizes to multiple tokens: for example, consider '\textbf{Windows XP, Vista ja 10}''.
 
 \paragraph{Expression ''-niminen''}
 	
@@ -399,7 +399,7 @@ ORG & & \\
 PROD & & \\
 EVENT & & \\
 TITLE & & \\
-TEMP & & \\
+DATE & & \\
 \hline
 \noalign{\smallskip}
 TOTAL & & \\
@@ -415,7 +415,7 @@ ORG & & \\
 PROD & & \\
 EVENT & & \\
 TITLE & & \\
-TEMP & & \\
+DATE & & \\
 \hline
 \noalign{\smallskip}
 TOTAL & & \\\end{tabular}
@@ -561,7 +561,7 @@ PER  & x & y & z  \\
 PROD  & x & y & z  \\
 TITLE  & x & y & z  \\
 EVENT  & x & y & z  \\
-TEMP  & x & y & z  \\
+DATE  & x & y & z  \\
 \hline
 \noalign{\smallskip}
 Any & x & y & z  \\
@@ -584,7 +584,7 @@ Any & x & y & z  \\
 %\hline
 %\noalign{\smallskip}
 %\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-& LOC & ORG & PERSON & PROD & TITLE & EVENT & TEMP \\
+& LOC & ORG & PERSON & PROD & TITLE & EVENT & DATE \\
 \hline
 \noalign{\smallskip}
 LOC  & - & & & & & &  \\
@@ -593,7 +593,7 @@ PER  & & & - & & & &  \\
 PRO  & & & & - & & &  \\
 TITLE  & & & & & - & &  \\
 EVENT  & & & & & & - &  \\
-TEMP  & & & & & & &  - \\
+DATE  & & & & & & &  - \\
 \end{tabular}
 \end{center}
 %\end{small}
@@ -602,34 +602,7 @@ TEMP  & & & & & & &  - \\
 \end{table}
 
 
-%\paragraph{The effect of OOV words}
 
-\begin{table}[t!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{cccc} 
-%\hline
-%\noalign{\smallskip}
-%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-Entity class & pre & rec & F \\
-\hline
-\noalign{\smallskip}
-LOC  & x & y & z  \\
-ORG  & x & y & z  \\
-PER  & x & y & z  \\
-PROD  & x & y & z  \\
-TITLE  & x & y & z  \\
-EVENT  & x & y & z  \\
-TEMP  & x & y & z  \\
-\hline
-\noalign{\smallskip}
-Any & x & y & z  \\
-\end{tabular}
-\end{center}
-%\end{small}
-\caption{Precision, recall, and F-scores for each named entity class which contain one or more OOV word.}
-\label{tab: oov precision recall and f-scores}
-\end{table}
 
 \subsection{Discussion}
 \label{sec: discussion}
@@ -638,9 +611,13 @@ In the following, we provide comments for aspects of the experiments we deem mos
 
 First, the rule-based system did not provide any advantage over the statistical.
 
-Second, the product-class was difficult. Also noted lately in SweNER. Confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
 
-Third, the effect of OOV words.
+
+
+%Second, the product-class was difficult. Also noted lately in SweNER. Confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+
+%Third, the effect of OOV words.
 
 % Fourth, the temporal expressions could have been difficult but were not because the subclauses were left out?
 
@@ -678,6 +655,39 @@ Third, the effect of OOV words.
 
 
 \subsection{Old}
+
+
+%\paragraph{The effect of OOV words}
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+DATE & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class which contain one or more OOV word.}
+\label{tab: oov precision recall and f-scores}
+\end{table}
+
+
+
 
 
 The system utilizes two main components.
