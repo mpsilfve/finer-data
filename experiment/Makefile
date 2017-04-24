@@ -1,5 +1,7 @@
 PATH_TO_STANFORD_NER=../../stanford-ner-2016-10-31
 
+#comment
+
 finer-model.ser.gz:train+dev wikipedia_gazette w2v_gazette omorfi_gazette
 	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf
 
