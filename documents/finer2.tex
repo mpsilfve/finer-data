@@ -1,0 +1,747 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file template.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is a general template file for the LaTeX package SVJour3
+% for Springer journals.          Springer Heidelberg 2010/09/16
+%
+% Copy it to a new file with a new name and use it as the basis
+% for your article. Delete % signs as needed.
+%
+% This template includes a few options for different layouts and
+% content for various journals. Please consult a previous issue of
+% your journal as needed.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%
+%\RequirePackage{fix-cm}
+%
+%\documentclass{svjour3}                     % onecolumn (standard format)
+%\documentclass[smallcondensed]{svjour3}     % onecolumn (ditto)
+%\documentclass[smallextended]{svjour3}       % onecolumn (second format)
+%\documentclass[twocolumn]{svjour3}          % twocolumn
+%
+%\smartqed  % flush right qed marks, e.g. at end of proof
+%
+%\usepackage{graphicx}
+%
+% \usepackage{mathptmx}      % use Times fonts if available on your TeX system
+%
+% insert here the call for the packages your document requires
+%\usepackage{latexsym}
+% etc.
+%
+% please place your own definitions here and don't use \def but
+% \newcommand{}{}
+%
+% Insert the name of "your journal" with
+% \journalname{myjournal}
+%
+
+%% ===============================================
+
+
+%\RequirePackage{fix-cm}
+%
+%\documentclass{svjour3}                     % onecolumn (standard format)
+%\documentclass[smallcondensed]{svjour3}     % onecolumn (ditto)
+%\documentclass[smallextended]{svjour3}       % onecolumn (second format)
+%\documentclass[twocolumn]{svjour3}          % twocolumn
+%
+%\smartqed  
+
+\documentclass[11pt]{article}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{subfig, multicol}
+\usepackage[all]{xy}
+\usepackage[round]{natbib}
+\usepackage{url}
+%\usepackage[pdftex]{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{amsfonts}
+%\usepackage{amsthm}
+\usepackage{dsfont}
+\usepackage{arydshln}
+
+
+%% MINE
+
+% \setlength{\parindent}{0pt}
+
+\newcommand{\fixme}[1]{\textsl{[#1]}}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argtop}{arg\,top}
+
+%\newtheorem{definition}{Definition}
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{lemma}{Lemma}
+
+\begin{document}
+
+\title{Freely Available Named Entity Recognition Resources for Finnish}
+\author{Teemu Ruokolainen \and Miikka Silfverberg \and Pekka Kauppinen \and Krister Lind\'en}
+
+
+
+\maketitle
+
+
+\begin{abstract}
+\noindent 
+
+\end{abstract}
+
+\section{Introduction}
+\label{sec: introduction}
+
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+
+Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014,kettunen2016a}. 
+
+%Chinese \citep{bai2001}
+
+%While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. 
+%Currently, NER is most often viewed as a sequential prediction problem with several proposed model variations, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. 
+%Nervetheless, some recent work has been conducted on rule-based systems as well \citep{}. 
+
+%While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning, that is, development of statistical models and manually annotated corpora for their training. Since the 1990s, data sets with NER annotation have been created for a wide range of languages, including English \citep{grishman1996,tjong2003}, German \citep{tjong2003}, Chinese \citep{hovy2006}, Swedish \citep{}, Chinese, and Spanish. Similarly, a wide range of statistical methods have been proposed for the learning problem, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic depencies \citep{}. Nervetheless, despite the success and popularity of statistical methodology, some recent work has been conducted on rule-based system as well \citep{}. 
+
+% For some languages, such as English and German, data resources were introduced already during the 1990s and early 2000s \citep{}. A wide range of statistical methods have been applied for performing 
+% Readily applicable toolkits, such as the Stanford Named Entity Recognizer \citep{}, trained on these corpora were releasted soon after.\footnote{For the Stanford Named Entity Recognizer, see \url{}.} 
+
+In this paper, we describe our work on developing freely available NER resources for Finnish. Our main contributions are as follows. First, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The corpus is freely available. Second, we present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{finkel2005} and a rule-based FiNER system developed at the University of Helsinki. The trained statistical and rule-based systems are freely available and can be readily employed to automatically NER tag Finnish text.
+
+In an earlier work, \citet{kettunen2016a} has applied the FiNER system to extract named entities in historical Finnish newspapers with little success. While undeniably modest, however, the results of this experimentation are difficult to interpret for two reasons. First, the FiNER system was developed for modern Finnish and, therefore, is not expected to work properly on historical documents. Second, as pointed out by \citet{kettunen2016a}, the recognition result is majorly affected by the poor quality of the optical character recognition (OCR) applied to convert the scanned newspapers into text. In addition, there exists a commercial NER toolkit for Finnish developed by Connexor.\footnote{See \url{https://www.connexor.com/nlplib/?q=technology/name-recognition}} 
+
+% In a related work, \citet{makela2011} describes ARPA toolkit employed for semantic web tagging and linking of entities. However, Instead of locating named entities from a predefined set, ARPA aims to locate all entities that can be linked to strong identifiers elsewhere. Through these, it is then for example possible to source coordinates for identified places, or associate different name variants and spellings to a single individual. For the pure entity recognition task presented in this paper, ARPA is thus at a disadvantage. However, we wanted to see how it would fare in comparison to FiNER.While it might be possible to develop its , we do not consider the toolkit a named entity recognizer and, therefore, exclude it from the experiments of this paper.
+
+% we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
+
+The rest of the paper is organized as follows. We first describe the corpus with manually prepared named entity annotation in Section \ref{sec: corpus}. We then discuss the two applied named entity recognition systems and their empirical evaluation in Sections \ref{sec: named entity recognizers} and \ref{sec: experiments}, respectively.  
+% In Section \ref{sec: corpus}, we describe the corpus with manually prepared named entity annotation. In Section \ref{sec: named entity recognizer}, we present the named entity recognizer. 
+%We then present experimental evaluation of the systems in Section \ref{sec: experiments}. 
+Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
+
+
+
+
+\section{Corpus}
+\label{sec: corpus}
+
+In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER data and systems developed for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
+
+\subsection{Text}
+\label{sec: text}
+
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1194 articles (XXX word tokens) in total. 
+%In comparison, the English and German sections of the CoNLL-2003 data set \citep{tjong2003} contain X and Y word tokens in total, respectively. 
+In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
+
+
+\subsection{Named Entities}
+\label{sec: named entities}
+
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles} which have been employed in previous work to varying extent. In the following, we discuss these classes in more detail.
+%In the following, we describe the classes in more detail.
+
+%While we do not consider the last two named entities, we will refer to them as such for simplicity. 
+
+\paragraph{Person (PER)}
+
+Markable person names include:
+
+\begin{itemize}
+
+\item[1.] First names: e.g. Sauli, Barack
+\item[2.] Family names: e.g. Niinist\"o, Obama
+\item[3.] Aliases: e.g. DoctorClu
+
+\end{itemize}
+
+
+\paragraph{Location (LOC)}
+
+Markable locations include:
+
+\begin{itemize}
+
+\item[1.] Continents: e.g. Eurooppa (Europe)
+\item[2.] Countries: e.g. Suomi (Finland)
+\item[3.] Cities: e.g. Helsinki
+\item[4.] Planets: e.g. Mars
+\item[5.] Buildings: e.g. Valkoinen talo (the White House)
+
+
+
+\end{itemize}
+
+
+\paragraph{Organization (ORG)}
+
+Markable organizations include:
+
+\begin{itemize}
+
+\item[1.] Commercial companies: e.g. Nokia, Apple
+\item[1.] Communities of people: e.g. Google Orkut
+\item[1.] Education and research institutes: e.g. Turun Yliopisto
+\item[1.] Political parties: e.g. Kokoomus (the National Coalition Party)
+\item[1.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Unioni (the European Union) % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
+\item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
+\item[1.] Television network/station/channel: e.g. MTV3, FOX
+\item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
+%\item[1.] Websites (not single web-links, see below): e.g. Amazon
+
+\end{itemize}
+
+
+\paragraph{Product (PROD)}
+
+Markable products include:
+
+\begin{itemize}
+
+\item[1.] Laws: e.g. Patriot Act-laki (the Patriot Act law)
+\item[1.] Networks (other than television network): e.g. Tor
+\item[1.] Platforms: e.g. Google Play, Kickstarter
+\item[1.] Product series/collections: e.g. -sarja, -mallisto
+\item[1.] Projects/Programs: e.g. Vitja
+\item[1.] Protocols: e.g. pop3, imap
+\item[1.] Services/Platforms: e.g. Apple Store, Google Play
+\item[1.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
+\item[1.] Vehicles/Vessels: e.g. Tesla Model S, Opportunity
+\item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
+\item[1.] Technologies: HoloLens-teknologia
+\item[1.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker, Angry Birds
+ 
+\end{itemize}
+
+Version numbers of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Windows 10'', ''iPhone 6'', ''Android 5.0'', ''Androidin versio 5.0'' (version 5.0 of Android). In contrast, version names are considered markable even if they appear individually: for example, consider ''Vista'' and ''Lollipop'' referring to ''Windows Vista'' and ''Android Lollipop'', respectively.
+ 
+%Version numbers of products are considered markable parts of the whole expression if they appear in the immediate context of the product name: for example, consider ''Windows 10'', ''iPhone 6'', ''Android 5.0'', ''Androidin versio 5.0'' (version 5.0 of Android). Similarly, version names are considered parts of whole expression: for example, consider ''Android Lollipop'' or ''Android Jelly Bean''. The version names, however, are considered markable also when they appear individually.
+
+Entities considered here to belong in the \textit{product} class have been incorporated in previous work to varying extents. For example, in the English CoNLL-2003 data \citep{tjong2003}, projects/programs are included in an entity class labeled as \textit{miscellaneous}. Similarly, in the German NoSta-D corpus \citep{benikova2014}, products are included in an entity class labeled \textit{other}. Meanwhile, in the Swedish HSFT-SweNER system, \citet{kokkinakis2014} define classes \textit{artifact} (food/wine products, prizes, means of communication (vehicles), etc.) and \textit{work\&art} (printed material, names of films, novels and newspapers, sculptures, etc.), both of which are subsets of our \textit{product} class.
+
+\paragraph{Event (EVENT)}
+
+Markable events include:
+
+\begin{itemize}
+
+\item[1.] Expos: e.g. CES-messut
+\item[1.] Explicitly marked events: e.g. Mobile World-tapahtuma
+
+\end{itemize}
+
+Again, entities considered in this work as \textit{events} have been incorporated in previous work to varying extents. For example, the English and German CoNLL-2003 data \citep{tjong2003} assign events to the class labeled \textit{miscellaneous}, while the German NoSta-D corpus \citep{benikova2014} assigns events to the class \textit{other}. Meanwhile, the Swedish HSFT-SweNER system \citep{kokkinakis2014} has a separate class for events. 
+
+\paragraph{Date (DATE)} 
+
+A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be spelled out or expressed using digits.
+
+Expressions such as ''vuonna 2016'' (in the year 2016) and ''3. p\"aiv\"a lokakuuta" (3rd day of October) are considered markable as a whole. This is because the expressions ''3. p\"aiv\"a lokakuuta'' and ''vuonna 2016'' have the same meaning as ''3. lokakuuta'' and ''2016'', respectively. Months may sometimes have a purely nominal use and are not markable in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month). 
+
+Expressions employing coordination such as ''lokakuun 1. ja 2. p\"aiv\"a'' (1st and 2nd October) and ''vuosina 2000 ja 2001'' (during the years 2000 and 2001) are considered markable as a whole. Similarly, from-to expressions are markable as a single expression: for example, consider ''2000-2010'', ''2000 - 2010'', ''vuodesta 2000 vuoteen 2010'', ''1.-3. lokakuuta'', ''lokakuun ensimm\"aisest\"a p\"aivast\"a kolmanteen''. Adpositions within from-to expressions are considered markable: for example, consider ''vuosien 2010 ja 2011 aikana'' (during the years 2010 and 2011).
+
+The following contains a list of exemplar date expressions markable as single entities:
+
+\begin{itemize}
+\item[1.] 1.10.2016
+\item[2.] lokakuussa (in October)
+\item[3.] 1. lokakuuta (1st October)
+\item[4.] 1. p\"aiv\"a lokakuuta (1st day of October)
+\item[5.] lokakuun 1. (1st October)
+\item[6.] lokakuun 1. p\"aiv\"a (1st day of October)
+\item[7.] 2016
+\item[8.] vuonna 2016 (in the year 2016)
+\item[9.] syyskuussa 2016 (in October 2016)
+\item[10.] vuoden 2016 syyskuussa (in October 2016)
+\item[11.] 1. ja 2. lokakuuta (1st and 2nd October)
+\item[12.]  lokakuun 1. ja 2. p\"aiv\"a (1st and 2nd October)
+\item[13.] vuosina 2000 ja 2001 (during the years 2000 and 2001)
+\item[14.] 1.-10. lokakuuta (from 1st to 10th October)
+\item[15.] 1. - 10. lokakuuta (from 1st to 10th October)
+\item[16.] tammikuusta lokakuuhun (from January to October)
+\item[17.] tammi-lokakuussa (between January and October) 
+\item[18.] 2000-2001
+\item[19.] 2000 - 2001
+\item[20.] vuodesta 2000 vuoteen 2010 (from the year 2000 to 2001)
+\item[21.] vuoden 2000 lokakuusta vuoden 2001 tammikuukuuhun (from October 2000 to January 2001)
+\item[22.] vuoden 2000 tammikuusta lokakuuhun (from January to October in 2000)
+\end{itemize} 
+
+ 
+
+% In expressions such as ''vuonna 2016'' (in the year 2016), only the numeral part denoting year is markable.  Consequently, in from-to expressions, expressions are tagged as two instances: for example, consider ''vuodesta 2000 vuoteen 2010'' (from the year 2000 until the year 2010).  In from-to expressions using hyphenation, tagging follows tokenization: ''2000-2010'' is tagged as a single expression, while ''2000 - 2010'' is tagged as two instances separated by an outside tag.
+
+
+% Dates, or more generally temporal expressions, are one of the more rarely addressed entity types in previous NER work. 
+Dates, or more generally temporal expressions, have been incorporated in previous work to varying extents. For example, in the English and German CoNLL-2003 \citep{tjong2003} and the German NoSta-D \citep{benikova2014} data, temporal expressions are not considered.  Meanwhile, the MUC-6 and MUC-7 data sets and the HSFT-SweNER system \citep{kokkinakis2014} take into account a wide range of temporal expressions, including absolute expressions such as ''3.10.2016'' and relative ones such as ''next week''. In addition, it should be noted, that recognition of time expressions and temporal relations has been a research topic of its own interest: see, for example, the TempEval competition \citep{verhagen2007,verhagen2010,verhagen2013}.
+
+
+%\paragraph{Temporal (TEMP)} Markable temporal expressions include:
+
+%\begin{itemize}
+
+%\item[1.] Dates and partial dates: e.g. 24.10.2016, 24. lokakuuta (24th October), kahdeskymmenesnelj\"as lokakuuta (twenty-fourth October), lokakuussa 2016 (in October 2016), 2016
+%\item[2.] Days and months: e.g. maantanai (monday), marraskuu (November) 
+%\item[3.] Decades and centuries: e.g., 1930-luku (the 1930s), 1800-luku (the 19th century)
+%%\item[4.] Seasons in combination with a year: e.g. "kes\"all\"a 2016" (in the summer of 2016)
+%%\item[1.] Nouns: e.g. torstai (Thursday), tulevaisuus (the future)
+%%\item[2.] Noun Phrases: e.g. viimeiset kaksi vuotta (the last two years),  Runebergin p\"aiv\"a (Runeberg Day)
+%%\item[3.] Adjectives: e.g. t\"am\"anhetkinen (current), kymmenvuotias (ten-year-old) 
+%%\item[4.] Adjective Phrases: e.g. kymmenen tuntia pitk\"a (ten hours long) 
+%%\item[5.] Adverbs: e.g. \"askett\"ain (recently), kuukausittain (monthly)
+%%\item[6.] Adverb Phrases: e.g. kaksi viikkoa sitten (two weeks ago)
+
+%\end{itemize}
+
+% To be marked as a temporal expression, an entity must contain the name of a day or a month, or a numeral (year or date) expressed by digits or words, or a combination of these. In these cases, the entire expression is tagged. 
+%The name of a season in combination with a year is also tagged, but not the season alone: for example, consider "kesällä 2016" (in the summer of 2016). 
+
+%In from-to expressions, expressions are tagged as two instances: for example, consider ''vuodesta \textbf{2000} vuoteen \textbf{2010}'' (from the year 2000 until the year 2010).  In from-to expressions using hyphenation, tagging follows tokenization: ''2000-2010'' is tagged as a single expression, while ''2000 - 2010'' is tagged as two instances separated by an outside tag.
+% Words like ''30-luku'' (the 30s) and ''1800-luku'' (the 19th century) are regarded temporal expressions. 
+%Words which would be normally classified as temporal expressions may sometimes have a purely nominal use and should not be tagged in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month) or ''Vihaan maanantaita'' (I hate Mondays). % Finally, above definitions for temporal expressions are essentially the same as defined in the Swedish SUC 2.0 annotation standard \citep{} apart from two exceptions. First, their tags are divided into two categories with dates given their own category. Second, \citep{} does not consider decades and centuries as temporal expressions. 
+
+
+%Numerals expressed in digits or words are tagged. For range expressions, the same conventions as for <date> are used.
+
+
+%According to our definition, temporal expressions may contain adpositions. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). This practice is consistent with the Universal Dependencies guideline \cite{}. 
+
+%Following the above presentation, a wide range of temporal expressions are included in the annotation scheme. Note, however, that we omit such temporal expression-like subordinate clauses which do not explicitly denote a certain point in time, a duration, or a frequency. Consider, for example: Flappy  Bird -pelist\"a on tullut suuri mediat\"ahti sen j\"alkeen, kun kehitt\"aj\"a veti pelin pois Applen App Storesta (Flappy Bird has become a big media star after its developer withdrew the game from the Apple App Store).
+
+
+%\paragraph{Title (TITLE)}
+
+%Titles for people are markable if they appear in the immediate pre-context of proper names. For example, in the following, markable titles are bolded: \textbf{presidentti} Sauli Niinist\"o (\textbf{president} Sauli Niinist\"o), \textbf{perustaja} ja \textbf{varapuheenjohtaja} Ville Oksanen (\textbf{founder} and \textbf{vice president} Ville Oksanen).   
+
+
+
+
+%\paragraph{URL} Markable 
+
+%In general, temporal expressions refer to expressions denoting, for example, a certain point in time, a duration, or a frequency. In the following, we address some more detailed aspects concerning their annotation. 
+
+%First, to be markable, the syntactic head of the expression must be an appropriate lexical trigger. A lexical trigger is a word or numeric expression, the meaning of which conveys a temporal unit or concept, such as ''day'', ''month'', or ''year''. Additionally, one must be able to orient the trigger on a timeline, or at least orient it with relation to a time (past, present, future). As for related work, this general guideline is identical with the TIMEX3 annotation standard \citep{verhagen2010}.
+
+%Second, temporal expressions may contain adpositions, that is, we consider the adpositions to be subordinate to the head words. For example, the following are considered valid temporal expressions: ennen maanantaina (before Monday), tiistain j\"alkeen (after Tuesday). As for related work, this practice is consistent with the Universal Dependencies guideline \cite{}, while in TIMEX3 standard the adpositions are not included in the temporal expression extents.
+
+
+
+%Furthermore, in Finnish, adpositions are often included in the expressions via inflection. For example, consider the English expression "during the summer" which in Finnish can be expressed in two ways as in "kes\"all\"a" or by using postposition as in "kes\"an aikana". T 
+
+%In order to mark temporal expressions, we adopt the TIMEX3 annotation guideline specified for the SemEval-2010: Tempeval-2 evaluation task for English \citep{verhagen2010}.\footnote{The TIMEX3 guideline is available at \url{http://www.timeml.org/tempeval2/tempeval2-trial/guidelines/timex3guidelines-072009.pdf}} The guideline contains the following types of temporal expressions (TIMEXes): 
+ 
+%To be markable, the syntactic head of the expression must be an appropriate lexical trigger. Each lexical trigger is a word or numeric expression whose meaning conveys a temporal unit or concept, such as ''day'' or ''monthly''. Furthermore, to be a trigger, the referent must be able to be oriented on a timeline, or at least oriented with relation to a time (past, present, future). These basic constraints are adopted here as presented in the TIMEX2 guideline, an earlier version of the TIMEX3 standard.\footnote{The TIMEX2 guideline is available at \url{https://www.ldc.upenn.edu/sites/www.ldc.upenn.edu/files/english-timex2-guidelines-v0.1.pdf}} 
+
+%Note that \citet{verhagen2010} restricts the extents (or spans) of the expressions so that they can not begin with a Preposition or a clause of any type. For example, in the following, only the bolded parts are considered valid English temporal expressions: before \textbf{Thursday}, in \textbf{the morning}, after the strike ended on \textbf{Thursday}, over \textbf{the last 2 years}. As for Finnish, we extend this rule to consider Postpositions as well as Prepositions. Consequently, in the following, only the bolded parts are markable Finnish temporal expressions: ennen \textbf{torstaita} (before Thursday), \textbf{torstain} j\"alkeen (after Thursday). However, we allow the Prepositions and Postpositions if they are included in the expression via inflection. For example, we consider the following valid Finnish temporal expressions: \textbf{torstaina} (on Thursday), \textbf{kes\"all\"a} (in the summer).
+
+%Second, according to \citep{verhagen2010}, 
+
+
+\subsection{General Annotation Guidelines}
+
+In the following, we address some general aspects of the annotation.
+
+\paragraph{Multi-Word Entities and Nesting}
+
+The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' would be marked as an organization while its sub-part ''Manchester'' would be marked as a location.  In our annotation, however, we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous work, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
+
+\paragraph{Derivation and Compounding}
+
+To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, ''Suomi'' (Finland) is considered as a markable location, whereas ''suomalainen'' (Finnish) and ''Suomi-fani'' (a fan of Finland) are not.  An important exception to this rule is the set of cases, in which a markable named entity forms a part of a compound word while the whole compound word refers to that same entity: for example, consider the expression ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of  ''Google'' or ''iPhone-puhelin'' (iPhone phone) instead of ''iPhone''. In these cases, the compound word is considered markable.
+
+\paragraph{Coordination}
+
+Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
+
+Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. %The justification for this choice is as follows: if the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
+This rule also generalizes to multiple tokens: for example, consider '\textbf{Windows XP, Vista ja 10}''.
+
+\paragraph{Expression ''-niminen''}
+	
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the mark Tesla) and ''
+
+
+\subsection{Annotation Process}
+
+%In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C. The purpose of this three-stage procedure is to ensure a high test set quality.
+
+The annotation process was performed iteratively by in total four annotators. In other words, the annotation and annotation guideline were defined and improved during multiple passes over the data set. The annotation was performed over a span of one year.
+
+
+
+% Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
+
+
+\subsection{Annotation Statistics}
+
+The complete data set consists of X articles (X word tokens). In what follows, we will separate the data set into two non-overlapping sections, training and test sets.  In the training set, we include all articles published during 2014, while the test set consists of articles published in 2015. The resulting training and test sections contain 953 and 241 articles (xx and yy word tokens), respectively. The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
+
+
+\begin{table}[h!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lcc} 
+\hline
+\noalign{\smallskip}
+Training & count & \% \\ 
+\hline
+\noalign{\smallskip}
+PER & & \\
+LOC & &  \\
+ORG & & \\
+PROD & & \\
+EVENT & & \\
+TITLE & & \\
+DATE & & \\
+\hline
+\noalign{\smallskip}
+TOTAL & & \\
+& & \\
+\hline
+\noalign{\smallskip}
+Test & count & \% \\ 
+\hline
+\noalign{\smallskip}
+PER & & \\
+LOC & &  \\
+ORG & & \\
+PROD & & \\
+EVENT & & \\
+TITLE & & \\
+DATE & & \\
+\hline
+\noalign{\smallskip}
+TOTAL & & \\\end{tabular}
+\end{center}
+% \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
+\caption{Counts and relative portions of named entity classes in training and test sets.}
+\label{tab: statistics} 
+\end{table}
+
+
+\subsection{Gazetteers}
+
+In addition to the manually prepared named entity annotation, our corpus includes a set of gazetteers which map words into categories. For example, ''Samsung'' is mapped into the category ''yritys'' (''company'') and''Nokia'' into the categories''yritys'' and ''Suomen kunta'' (''Finnish town''). The categories are extracted from the info boxes of Finnish Wikipedia articles in an automatic manner.
+
+
+\subsection{File Format}
+
+
+
+
+
+%\subsection{Morphological Annotation}
+
+%In addition to the manually prepared named entity annotation, we augment the corpus with automatically assigned lemmas and morphological labels. To this end, we utilize the FinnPos toolkit \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, each word token in the corpus is tagged and lemmatized by FinnPos using the two models.
+
+
+
+
+
+% Specifically, the section is first annotated independently by Annotators A and B. Subsequently Subsequently, the annotations are compared by Annotator C. In case of conflicts
+
+%\subsection{Comments and Known Issues}
+
+%\paragraph{Organization versus Product} 1) For example, consider the two related but distinct meanings of Youtube in "Katsoa videoita Youtubesta" ja "Youtube on Googlen omistama yhti\"o". These are disambiguated according to context. 2) Websites are most often used in organisation-sense (Amazon.com, Verkkokauppa.com) but can be also used in product-sense ("Amazon.com-sivusto kaatui keskiy\"oll\"a."). The product-sense is chosen if appropriate.
+
+%\paragraph{Organization versus Location} For example, consider India as a geographical location in "" and India as a governmental organization in "".
+
+%\paragraph{Explicit naming} For example, consider "Nokia N1-niminen puhelin".
+
+
+
+% \section{A Part-of-Speech Tagger for Finnish}
+\section{Named Entity Recognition Systems}
+\label{sec: named entity recognizers}
+
+In this section, we describe the NER systems evaluated in the experiments in Section \ref{sec: experiments}. The recognizers are designed utilizing the annotated corpus described in Section \ref{sec: corpus} and can subsequently be applied to extract named entities in a running text. 
+
+\subsection{Stanford Named Entity Recognizer}
+
+The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+
+
+\subsection{A Rule-Based Named Entity Recognizer for Finnish}
+
+
+\section{Experiments}
+\label{sec: experiments}
+
+In this section, we present the evaluation of the named entity recognition system described in Section \ref{sec: named entity recognizer} on the corpus described in Section \ref{sec: corpus}.
+
+\subsection{Data}
+\label{sec: data}
+
+We employ the training and test set division of the data described in Section \ref{sec: corpus}. A separate development set is formed from the training data by extracting every 10th article, starting from the 10th article. (The articles are separated using the headline information referred to in Section \ref{sec: corpus}.) The resulting training, development, and test set sizes are presented in Table \ref{tab: set sizes}.
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lcc} 
+ & \#articles & \#tokens \\
+\hline
+\noalign{\smallskip}
+training & x & y  \\
+development  & x & y  \\
+test & x & y \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Training, development, and test set sizes.}
+\label{tab: set sizes}
+\end{table}
+
+
+\subsection{Evaluation and Error Analysis}
+\label{sec: evaluation}
+
+We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
+%\begin{equation}
+%\text{precision} = \frac{\text{number of correctly recognized entities}}{y}
+%\end{equation}
+%\begin{equation}
+%\text{recall} = \frac{x}{y} \\
+%\end{equation}
+%\begin{equation}
+%\text{F-score} = \frac{x}{y} \\
+%\end{equation}
+
+In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
+
+%Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
+
+
+
+\subsection{Results}
+\label{sec: results}
+
+
+\paragraph{Precision, Recall, and F-scores}
+% \label{sec: results1}
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+DATE  & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class.}
+\label{tab: precision recall and f-scores}
+\end{table}
+
+
+\paragraph{Confusion Matrix}
+% \label{sec: results2}
+
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccccccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+& LOC & ORG & PERSON & PROD & TITLE & EVENT & DATE \\
+\hline
+\noalign{\smallskip}
+LOC  & - & & & & & &  \\
+ORG  & & - & & & & &  \\
+PER  & & & - & & & &  \\
+PRO  & & & & - & & &  \\
+TITLE  & & & & & - & &  \\
+EVENT  & & & & & & - &  \\
+DATE  & & & & & & &  - \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Confusion matrix for named entity classes. Each element represent the number of times a row-entity was mislabeled as a column-entity. For example, a location-entity was incorrectly labeled as a person-entity X times.}
+\label{tab: confusion matrix}
+\end{table}
+
+
+
+
+\subsection{Discussion}
+\label{sec: discussion}
+
+In the following, we provide comments for aspects of the experiments we deem most important. 
+
+First, the rule-based system did not provide any advantage over the statistical.
+
+About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
+
+
+
+%Second, the product-class was difficult. Also noted lately in SweNER. Confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+
+%Third, the effect of OOV words.
+
+% Fourth, the temporal expressions could have been difficult but were not because the subclauses were left out?
+
+
+
+\section{Conclusions}
+\label{sec: conclusions}
+
+
+
+
+
+%%%%%%%%%%% The bibliography starts:
+\newpage
+\bibliographystyle{plainnat}
+%\bibliographystyle{spbasic}
+\bibliography{finer}
+
+
+
+
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+\subsection{Old}
+
+
+%\paragraph{The effect of OOV words}
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+DATE & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class which contain one or more OOV word.}
+\label{tab: oov precision recall and f-scores}
+\end{table}
+
+
+
+
+
+The system utilizes two main components.
+
+\begin{itemize}
+
+\item[1.] We interpret the NER task as a sequential tagging task and perform the tagging using the averaged perceptron algorithm \citep{collins2002}.
+
+\item[2.] In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes.
+
+%\subsection{FinnPos}
+%The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+
+ \end{itemize}
+
+%Given a sentence $x = (x_1, \dots, x_{|x|})$ and a label sequence $y = (y_1, \dots, y_{|x|})$, the structured perceptron classifier assigns the pair $(x,y)$ a score
+%
+%\begin{eqnarray}
+%\text{score}(x,y; \boldsymbol{w}) & = & \sum_{i=n}^{|x|} \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \, ,						
+%\label{eq: perceptron}
+%\end{eqnarray}
+%
+%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
+
+\subsection{Feature Extraction}
+
+The appeal of the perceptron classifier \citep{collins2002} lies in its capability of utilizing rich, overlapping feature sets when mapping a sentence to a corresponding tag sequence. Specifically, each word/label position $i$ in a given sentence is associated with  a set of features describing the input sentence. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+Moreover, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+\subsection{Implementation Details}
+\label{sec: implementation details}
+
+Bundled with the FinnPos system.
+
+
+
+
+
+
+
