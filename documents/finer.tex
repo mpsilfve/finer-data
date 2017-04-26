@@ -82,8 +82,8 @@
 
 \begin{document}
 
-\title{Freely Available Corpus for Finnish Named Entity Recognition}
-\author{Teemu Ruokolainen \and Miikka Silfverberg \and Pekka Kauppinen \and Krister Lind\'en}
+\title{A Finnish News Corpus for Named Entity Recognition}
+\author{Teemu Ruokolainen \and Miikka Silfverberg \and Krister Lind\'en}
 
 
 
@@ -100,7 +100,9 @@
 
 Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Since its inception in the early 1990s, NER has been studied extensively on a wide range of languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. In this work, we present a corpus consisting of technology related news articles with a manually prepared named entity annotation. The data set is the first freely available corpus with manual named entity annotation published for Finnish. In addition, we present experimental results using the well-known Stanford Named Entity Recognizer \citep{}.
+Development of NER systems requires manually annotated data used for evaluation and model training with machine learning techniques. Such data resources have been available for multiple Western languages since the 1990s. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
+
+In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. In addition, we examine the corpus empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results provide a baseline for later work on developing NER systems for Finnish.
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014,kettunen2016a}. 
 
@@ -123,7 +125,7 @@ Since its inception in the early 1990s, NER has been studied extensively on a wi
 
 % we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
 
-The rest of the paper is organized as follows. We first describe the corpus with manually prepared named entity annotation in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{} in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
+The rest of the paper is organized as follows. We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{} in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -136,7 +138,7 @@ In this section, we describe the text material, the set of named entity classes,
 \subsection{Text}
 \label{sec: text}
 
-The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1194 articles (XXX word tokens) in total. 
+The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1,194 articles (260,637 word tokens) in total. 
 %In comparison, the English and German sections of the CoNLL-2003 data set \citep{tjong2003} contain X and Y word tokens in total, respectively. 
 In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
 
@@ -144,7 +146,7 @@ In addition to raw word forms, the corpus includes meta data describing the publ
 \subsection{Named Entities}
 \label{sec: named entities}
 
-The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{temporal expressions}, and \textit{person titles} which have been employed in previous work to varying extent. In the following, we discuss these classes in more detail.
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. These three classes appear in the vast majority of published work on NER \citep{nadeau2007}. In addition, our annotation contains the classes \textit{products}, \textit{events}, \textit{dates}, and \textit{person titles} which have been employed in previous work to varying extent. In the following, we discuss these classes in more detail.
 %In the following, we describe the classes in more detail.
 
 %While we do not consider the last two named entities, we will refer to them as such for simplicity. 
@@ -168,11 +170,11 @@ Markable locations include:
 
 \begin{itemize}
 
-\item[5.] Buildings: e.g. Valkoinen talo (the White House)
-\item[3.] Cities: e.g. Helsinki, New York
-\item[1.] Continents: e.g. Eurooppa (Europe)
-\item[2.] Countries: e.g. Suomi (Finland)
-\item[4.] Planets: e.g. Mars
+\item[1.] Buildings: e.g. Valkoinen talo (the White House)
+\item[2.] Cities: e.g. Helsinki, New York
+\item[3.] Continents: e.g. Eurooppa (Europe)
+\item[4.] Countries: e.g. Suomi (Finland)
+\item[5.] Planets: e.g. Mars
 
 
 
@@ -186,13 +188,13 @@ Markable organizations include:
 \begin{itemize}
 
 \item[1.] Commercial companies: e.g. Nokia, Apple
-\item[1.] Communities of people: e.g. Google Orkut
-\item[1.] Education and research institutes: e.g. Turun Yliopisto
-\item[1.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
-\item[1.] Political parties: e.g. Kokoomus (the National Coalition Party)
-\item[1.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Unioni (the European Union) % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
-\item[1.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
-\item[1.] Television network/station/channel: e.g. MTV3, FOX
+\item[2.] Communities of people: e.g. Google Orkut
+\item[3.] Education and research institutes: e.g. Turun Yliopisto
+\item[4.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
+\item[5.] Political parties: e.g. Kokoomus (the National Coalition Party)
+\item[6.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Unioni (the European Union) % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
+\item[7.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
+\item[8.] Television network/station/channel: e.g. MTV3, FOX
 %\item[1.] Websites (not single web-links, see below): e.g. Amazon
 
 \end{itemize}
@@ -205,17 +207,17 @@ Markable products include:
 \begin{itemize}
 
 \item[1.] Laws: e.g. Patriot Act-laki (the Patriot Act law)
-\item[1.] Networks (other than television network): e.g. Tor
-\item[1.] Platforms: e.g. Google Play, Kickstarter
-\item[1.] Product series/collections: e.g. -sarja, -mallisto
-\item[1.] Projects/Programs: e.g. Vitja
-\item[1.] Protocols: e.g. pop3, imap
-\item[1.] Services/Platforms: e.g. Apple Store, Google Play
-\item[1.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
-\item[1.] Systems: e.g. Alipay-j\"arjestelm\"a
-\item[1.] Technologies: HoloLens-teknologia
-\item[1.] Vehicles/Vessels: e.g. Tesla Model S, Opportunity
-\item[1.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker, Angry Birds
+\item[2.] Networks (other than television network): e.g. Tor
+\item[3.] Platforms: e.g. Google Play, Kickstarter
+\item[4.] Product series/collections: e.g. -sarja, -mallisto
+\item[5.] Projects/Programs: e.g. Vitja
+\item[6.] Protocols: e.g. pop3, imap
+\item[7.] Services/Platforms: e.g. Apple Store, Google Play
+\item[8.] Software: e.g. Windows 10, Trojan-Banker.Win32.Chthonic
+\item[9.] Systems: e.g. Alipay-j\"arjestelm\"a
+\item[10.] Technologies: HoloLens-teknologia
+\item[11.] Vehicles/Vessels: e.g. Tesla Model S, Opportunity
+\item[12.] Works/Art: e.g. Tuntematon Sotilas, Hurt Locker, Angry Birds
  
 \end{itemize}
 
@@ -232,7 +234,7 @@ Markable events include:
 \begin{itemize}
 
 \item[1.] Expos: e.g. CES-messut
-\item[1.] Explicitly marked events: e.g. Mobile World-tapahtuma
+\item[2.] Explicitly marked events: e.g. Mobile World-tapahtuma
 
 \end{itemize}
 
@@ -240,7 +242,7 @@ Again, entities considered in this work as \textit{events} have been incorporate
 
 \paragraph{Date (DATE)} 
 
-A date is a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be spelled out or expressed using digits.
+We define a date as a time expression which can be expressed as a triplet (day, month, year): for example, consider ''3.10.2016'' and ''3. lokakuuta 2016'' (3rd October 2016). To be markable, at least the month or year has to be explicitly specified: for example, consider ''3. lokakuuta'' (3rd October), ''lokakuussa 2016'' (in October 2016), and ''2016''. Therefore, expressions such as ''3. p\"aiv\"a t\"at\"a kuuta'' (3rd of this month) are not markable. Numerics values can be spelled out or expressed using digits.
 
 Expressions such as ''vuonna 2016'' (in the year 2016) and ''3. p\"aiv\"a lokakuuta" (3rd day of October) are considered markable as a whole. This is because the expressions ''3. p\"aiv\"a lokakuuta'' and ''vuonna 2016'' have the same meaning as ''3. lokakuuta'' and ''2016'', respectively. Months may sometimes have a purely nominal use and are not markable in those instances: for example, consider 'Tammikuu on kylm\"a kuukausi'' (January is a cold month). 
 
@@ -394,13 +396,13 @@ The complete data set consists of X articles (X word tokens). The counts of each
 & count & \% \\ 
 \hline
 \noalign{\smallskip}
-PER & & \\
-LOC & &  \\
-ORG & & \\
-PROD & & \\
-EVENT & & \\
-TITLE & & \\
-DATE & & \\
+ORG & 11001 & 46.2 \\
+PROD & 5582 & 23.4 \\
+PER & 2636 & 11.1 \\
+LOC & 2544 &  10.7 \\
+DATE & 1194 & 5.0 \\
+TITLE & 759 & 3.2 \\
+EVENT & 110 & 0.5\\
 \hline
 \noalign{\smallskip}
 TOTAL & & \\
@@ -411,6 +413,7 @@ TOTAL & & \\
 \label{tab: statistics} 
 \end{table}
 
+        
 
 \subsection{Gazetteers}
 
@@ -419,8 +422,27 @@ In addition to the manually prepared named entity annotation, our corpus include
 
 \subsection{File Format}
 
-
-
+%\begin{table}[h!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lc} 
+%\hline
+%\noalign{\smallskip}
+Applen & B-ORG  \\      
+Tim & B-PER \\
+Cook & I-PER \\
+myy & O \\
+iPhoneja & B-PRO \\      
+suomalaisille & O \\
+. & O \\
+%\hline
+%\noalign{\smallskip}
+\end{tabular}
+\end{center}
+% \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
+%\caption{Counts and relative portions of named entity classes.}
+%\label{tab: statistics} 
+%\end{table}
 
 
 %\subsection{Morphological Annotation}
@@ -448,32 +470,55 @@ In addition to the manually prepared named entity annotation, our corpus include
 \section{Experiments}
 \label{sec: experiments}
 
-In this section, we 
-
-
+In this section, we present experimental results on the corpus employing the Stanford Named Entity Recognizer toolkit \citep{finkel2005}. In what follows, we will first describe the utilized training and test set splits in Section \ref{sec: data}. We then discuss the Stanford Named Entity Recognizer in Section \ref{sec: stanford named entity recognizer} and the employed evaluation measures in Section \ref{sec: evaluation}. Finally, we present and discuss the obtained results in Section \ref{sec: results}.
 
 
 \subsection{Data}
 \label{sec: data}
 
-As presented in Section \ref{sec: annotation statistics},  the complete data set consists of X articles (X word tokens). In order to carry out the experiments, we separate the data set into two non-overlapping sections, training and test sets.  In the training set, we include all articles published during 2014, while the test set consists of articles published in 2015. The resulting training and test sections contain 953 and 241 articles (xx and yy word tokens), respectively. In addition, we form a separate development set from the training data by extracting every 10th article, starting from the 10th article. (The articles are separated using the headline information referred to in Section \ref{sec: corpus}.) The resulting training, development, and test set sizes are presented in Table \ref{tab: set sizes}.
+As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 1,194 articles (260,637 word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include all articles published during 2014, while the test set consists of articles published in 2015. The resulting training and test sections contain 953 and 241 articles (210,132 and 50,505 word tokens), respectively. In addition, we form a separate development set from the training data by extracting every 10th article, starting from the 10th article. (The articles are separated using the headline information referred to in Section \ref{sec: corpus}.) %The resulting training, development, and test set sizes are presented in Table \ref{tab: set sizes}.
 
-\begin{table}[t!]
-%\begin{small}
-\begin{center}
-\begin{tabular}{lcc} 
- & \#articles & \#tokens \\
-\hline
-\noalign{\smallskip}
-training & x & y  \\
-development  & x & y  \\
-test & x & y \\
-\end{tabular}
-\end{center}
-%\end{small}
-\caption{Training, development, and test set sizes.}
-\label{tab: set sizes}
-\end{table}
+%\begin{table}[t!]
+%%\begin{small}
+%\begin{center}
+%\begin{tabular}{lcc} 
+% & \#articles & \#tokens \\
+%\hline
+%\noalign{\smallskip}
+%training & x & y  \\
+%development  & x & y  \\
+%test & x & y \\
+%\end{tabular}
+%\end{center}
+%%\end{small}
+%\caption{Training, development, and test set sizes.}
+%\label{tab: set sizes}
+%\end{table}
+
+
+
+\subsection{Stanford Named Entity Recognizer}
+\label{sec: stanford named entity recognizer}
+
+The Stanford Named Entity Recognizer \citep{finkel2005} is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+Gazetteers.
 
 
 \subsection{Evaluation}
@@ -495,53 +540,29 @@ We evaluate the system using the standard \textbf{precision} (the number of corr
 %Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
 
 
-\section{Stanford Named Entity Recognizer}
-\label{sec: stanford named entity recognizer}
-
-The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
-
-\begin{itemize}
-\item[1.] Bias (always active irrespective of input).
-\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
-\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
-\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
-\end{itemize}
-
-In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
-
-\begin{itemize}
-\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
-\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
-\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
-\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
-\end{itemize}
-
-
 
 
 \subsection{Results}
 \label{sec: results}
 
+Obtained results are presented in Table \ref{tab: precision recall and f-scores}. 
+
+
 \begin{table}[t!]
 %\begin{small}
 \begin{center}
-\begin{tabular}{cccc} 
-%\hline
-%\noalign{\smallskip}
-%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
-Entity class & pre & rec & F \\
+\begin{tabular}{l|ccc}
+ Type & Precision & Recall & F1\\
 \hline
-\noalign{\smallskip}
-LOC  & x & y & z  \\
-ORG  & x & y & z  \\
-PER  & x & y & z  \\
-PROD  & x & y & z  \\
-TITLE  & x & y & z  \\
-EVENT  & x & y & z  \\
-DATE  & x & y & z  \\
+ORG &  85.93 & 86.43 & 86.18\\
+PRO &  73.82 & 69.41 & 71.55\\
+PER &  70.09 & 75.62 & 72.75\\
+LOC &  86.02 & 89.13 & 87.55\\
+DATE &  88.06 & 86.69 & 87.37\\
+TIT &  91.13 & 87.60 & 89.33\\
+EVENT &  100.00 & 41.18 & 58.33\\
 \hline
-\noalign{\smallskip}
-ALL & x & y & z  \\
+ALL & 82.77 & 82.08 & 82.42
 \end{tabular}
 \end{center}
 %\end{small}
@@ -552,10 +573,8 @@ ALL & x & y & z  \\
 
 
 
-\subsection{Discussion}
-\label{sec: discussion}
-
-In the following, we provide comments for aspects of the experiments we deem most important. 
+%\subsection{Discussion}
+%\label{sec: discussion}
 
 About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
 
