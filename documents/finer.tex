@@ -91,7 +91,7 @@
 
 
 \begin{abstract}
-\noindent 
+\noindent We present a corpus of Finnish news articles with a manually prepared named entity annotation. The corpus consists of  1,194 articles (260,637 word tokens) with seven named entity classes (organization, location, person, product, date, event, person title) and is freely available for research purposes. In experiments employing the Stanford Named Entity Recognizer, we obtain an overall F-score of 82.42. 
 
 \end{abstract}
 
@@ -100,7 +100,7 @@
 
 Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
-Development of NER systems requires manually annotated data used for evaluation and model training with machine learning techniques. Such data resources have been available for multiple Western languages since the 1990s. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
+Development of NER systems requires manually annotated data. In addition to evalution, the data is employed to train models with machine learning techniques. Such data resources are currently available for multiple Western languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
 
 In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. In addition, we examine the corpus empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results provide a baseline for later work on developing NER systems for Finnish.
 
@@ -384,8 +384,8 @@ The annotation process was performed iteratively by in total four annotators. In
 \label{sec: annotation statistics}
 
 %The complete data set consists of X articles (X word tokens). In what follows, we will separate the data set into two non-overlapping sections, training and test sets.  In the training set, we include all articles published during 2014, while the test set consists of articles published in 2015. The resulting training and test sections contain 953 and 241 articles (xx and yy word tokens), respectively. The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
-
-The complete data set consists of X articles (X word tokens). The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
+ 
+The complete data set consists of 1,194 articles (260,637 word tokens). The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
 
 \begin{table}[h!]
 %\begin{small}
@@ -393,19 +393,19 @@ The complete data set consists of X articles (X word tokens). The counts of each
 \begin{tabular}{lcc} 
 \hline
 \noalign{\smallskip}
-& count & \% \\ 
+class & count & \% \\ 
 \hline
 \noalign{\smallskip}
-ORG & 11001 & 46.2 \\
-PROD & 5582 & 23.4 \\
-PER & 2636 & 11.1 \\
-LOC & 2544 &  10.7 \\
-DATE & 1194 & 5.0 \\
+ORG & 11,001 & 46.2 \\
+PROD & 5,582 & 23.4 \\
+PER & 2,636 & 11.1 \\
+LOC & 2,544 &  10.7 \\
+DATE & 1,194 & 5.0 \\
 TITLE & 759 & 3.2 \\
 EVENT & 110 & 0.5\\
-\hline
-\noalign{\smallskip}
-TOTAL & & \\
+%\hline
+%\noalign{\smallskip}
+%TOTAL & & \\
 \end{tabular}
 \end{center}
 % \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
@@ -422,6 +422,7 @@ In addition to the manually prepared named entity annotation, our corpus include
 
 \subsection{File Format}
 
+The data is presented in a two-column file format using the standard BIO notation. For example, consider the following sentence ''Applen Tim Cook myy iPhoneja suomalaisille.'' (''Tim Cook from Apple sells iPhones to the Finnish.''):
 %\begin{table}[h!]
 %\begin{small}
 \begin{center}
@@ -524,7 +525,7 @@ Gazetteers.
 \subsection{Evaluation}
 \label{sec: evaluation}
 
-We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
+We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F1-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
 %\begin{equation}
 %\text{precision} = \frac{\text{number of correctly recognized entities}}{y}
 %\end{equation}
@@ -552,7 +553,7 @@ Obtained results are presented in Table \ref{tab: precision recall and f-scores}
 %\begin{small}
 \begin{center}
 \begin{tabular}{l|ccc}
- Type & Precision & Recall & F1\\
+ class & precision & recall & F1\\
 \hline
 ORG &  85.93 & 86.43 & 86.18\\
 PRO &  73.82 & 69.41 & 71.55\\
@@ -576,7 +577,7 @@ ALL & 82.77 & 82.08 & 82.42
 %\subsection{Discussion}
 %\label{sec: discussion}
 
-About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
+%About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
 
 
 
