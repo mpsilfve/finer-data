@@ -98,10 +98,11 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. %The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+Named entity recognition (NER) is a textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
+
 Development of automatic NER systems requires manually annotated data. In addition to evaluation, the data is employed to train models with machine learning techniques. Such data resources are currently available for multiple Western languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
 
-In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. In addition, we examine the corpus empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results provide a baseline for later work on developing NER systems for Finnish.
+In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. In addition, we examine the corpus empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results provide a baseline for future NER systems developed using the corpus.
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014,kettunen2016a}. 
 
@@ -132,7 +133,7 @@ The rest of the paper is organized as follows. We first describe the corpus in S
 \section{Corpus}
 \label{sec: corpus}
 
-In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER data and systems developed for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
+In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER corpora published for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
 
 \subsection{Text}
 \label{sec: text}
@@ -365,7 +366,7 @@ This rule also generalizes to multiple tokens: for example, consider '\textbf{Wi
 
 \paragraph{Expression ''-niminen''}
 	
-Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the brand Tesla) and ''
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the brand Tesla) and ''Samsung-mallinen puhelin'' (a phone of the model Samsung). 
 
 
 \subsection{Annotation Process}
@@ -506,7 +507,7 @@ The Stanford Named Entity Recognizer \citep{finkel2005} is a freely available NE
 
 
 
-\subsection{Evaluation}
+\subsection{Evaluation Measures}
 \label{sec: evaluation}
 
 We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F1-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
@@ -530,21 +531,7 @@ We evaluate the system using the standard \textbf{precision} (the number of corr
 \subsection{Results}
 \label{sec: results}
 
-Obtained results are presented in Table \ref{tab: precision recall and f-scores}. The system yielded an overall F1-score of 82.42. In what follows, we will discuss the individual class performances. \\
-
-\noindent \textbf{Organization (ORG), Location (LOC), Person (PER)} 
-
-
-\noindent \textbf{Product (PRO)}
-
-
-\noindent \textbf{Date (DATE)}
-
-
-\noindent \textbf{Person title (TITLE)}
-
-
-\noindent \textbf{Event (EVENT)}
+Obtained results are presented in Table \ref{tab: precision recall and f-scores}. The system yielded an overall F1-score of 82.42 with precision and recall scores of 82.77 and 82.08, respectively.  In what follows, we will discuss the individual class performances.
 
 
 \begin{table}[t!]
@@ -570,6 +557,29 @@ ALL & 82.77 & 82.08 & 82.42
 \end{table}
 
 
+%\subsection{Discussion}
+%\label{sec: discussion}
+
+
+First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75. The difficulty of learning the person names might (or could this be verified?\fixme{}) stem from the fact that the corpus contains a considerable amount of news discussing global events and people. In future work, improving the recognition of person names would require a more careful design of gazetteers including not only Finnish and English but additionally Chinese, Indian, and Japanese names. 
+
+Second, it appears that product names are challenging to learn compared to, for example, organizations and locations. This is somewhat expected since comprehensive gazetteers of product names were found difficult to create. In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious.
+
+Third, dates and titles appear to be the easiest classes to learn. This is expected since they form the most restricted classes according to the annotation guideline discussed in Section \ref{sec: named entities}.
+
+Finally, we note that the results concerning the event class should be ignored since the small amount of annotated entities (see the class statistics in Table \ref{tab: statistics})) does not enable reliable evaluation. 
+
+
+%\noindent \textbf{Organization (ORG), Location (LOC), Person (PER)} 
+%\noindent \textbf{Product (PRO)}
+%\noindent \textbf{Date (DATE)}
+%\noindent \textbf{Person title (TITLE)}
+%\noindent \textbf{Event (EVENT)}
+
+
+
+
+
 
 
 %\subsection{Discussion}
@@ -590,7 +600,7 @@ ALL & 82.77 & 82.08 & 82.42
 \section{Conclusions}
 \label{sec: conclusions}
 
-We described a new corpus consisting of Finnish news articles with a manually prepared named entity annotation. The corpus is freely available. In addition, we presented preliminary experimental results on the corpus using the Stanford Named Entity recognizer. The resulting system yielded a total F1-score of 82.42. In future work, we aim to develop NER systems with a higher performance.
+In this paper, we described a new corpus consisting of Finnish news articles with a manually prepared named entity annotation. The corpus contains 1,194 articles (260,637 word tokens) annotated using a set of seven named entity classes, namely,  \textit{persons}, \textit{organizations}, \textit{locations}, \textit{products}, \textit{events}, \textit{dates}, and \textit{person titles}. The corpus is freely available. In addition to description of the data, we presented preliminary experimental results on the corpus employing the Stanford Named Entity recognizer. The resulting system yielded a total F1-score of 82.42.
 
 
 
