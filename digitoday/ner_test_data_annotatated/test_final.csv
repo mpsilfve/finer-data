@@ -35,11 +35,11 @@ on
 mitä 	 	
 todennäköisimmin 	 	
 joutumassa 	 	
-EU-viranomaisten   	B-MISC 	B-MISC
+EU-viranomaisten   	 	B-MISC
 toimien 	 	
 kohteeksi 	 	
 maassa 	 	
-Euroopan-pääkonttoriaan   	B-MISC 	B-MISC
+Euroopan-pääkonttoriaan   	 	B-MISC
 pitävän 	 	
 Applen   	B-ORG 	B-ORG
 verojärjestelyjen 	 	
@@ -680,7 +680,7 @@ Elon   	B-PER 	B-PER
 Musk   	I-PER 	I-PER
 paljasti 	 	
 " 	 	
-halpa-Teslan   	B-MISC	B-MISC
+halpa-Teslan   		B-MISC
 " 	 	
 aikataulun 	 	
  	 	
@@ -694,7 +694,7 @@ Elon   	B-PER 	B-PER
 Musk   	I-PER 	I-PER
 ilmoitti 	 	
 keskiviikkona   	 	B-TIM
-Twitter-viestillä   	B-MISC 	B-MISC
+Twitter-viestillä   	 	B-MISC
 " 	 	
 kansanmallin 	 	
 " 	 	
@@ -2210,7 +2210,7 @@ likoon
 1.2 	 	
 miljardia 	 	
 dollaria 	 	
-Kiinan-toimintansa   	B-MISC 	B-MISC
+Kiinan-toimintansa   	 	B-MISC
 laajentamiseen 	 	
 . 	 	
  	 	
@@ -3043,7 +3043,7 @@ versioon
 , 	 	
 joka 	 	
 estää 	 	
-Flash-muotoisten   	B-MISC 	B-MISC
+Flash-muotoisten   	 	B-MISC
 automaattivideoiden 	 	
 käynnistymisen 	 	
 taustalla 	 	
@@ -3053,7 +3053,7 @@ taustalla
 Google   	B-ORG 	B-ORG
 kertoi 	 	
 kesäkuussa   	B-DATE 	B-TIM
-Flash-rajoituksesta   	B-MISC 	B-MISC
+Flash-rajoituksesta   	 	B-MISC
 , 	 	
 joka 	 	
 estää 	 	
@@ -3091,7 +3091,7 @@ käyttäjälle
 Googlen   	B-ORG 	B-ORG
 blogissa 	 	
 perusteellaan 	 	
-Flash-rajoituksia   	B-MISC 	B-MISC
+Flash-rajoituksia   	 	B-MISC
 myös 	 	
 kannetavan 	 	
 tietokoneen 	 	
@@ -3165,7 +3165,7 @@ sen
 AdWord-mainosalusta   	B-PRO 	B-PRO
 muuntaa 	 	
 useimmat 	 	
-Flash-videot   	B-MISC 	B-MISC
+Flash-videot   	 	B-MISC
 html5-videoiksi   		
 . 	 	
  	 	
@@ -3616,7 +3616,7 @@ Valtaosa
 87 	 	
 prosenttia 	 	
 , 	 	
-Facebook-vierailuista   	B-MISC 	B-MISC
+Facebook-vierailuista   	 	B-MISC
 tehdään 	 	
 matkapuhelimen 	 	
 tai 	 	
@@ -3691,7 +3691,7 @@ tietoturva
 <INGRESS> 	 	
 Huawein   	B-ORG 	B-ORG
 oma 	 	
-Android-versio   	B-MISC 	B-MISC
+Android-versio   	 	B-MISC
 hidastaa 	 	
 tietoturvapäivitysten 	 	
 tekemistä 	 	
@@ -3752,7 +3752,7 @@ Huawei   	B-ORG 	B-ORG
 pyrkii 	 	
 erottumaan 	 	
 muista 	 	
-Android-valmistajista   	B-MISC 	B-MISC
+Android-valmistajista   	 	B-MISC
 , 	 	
 on 	 	
 yhtiön 	 	
@@ -3842,7 +3842,7 @@ että
 myös 	 	
 monilla 	 	
 muilla 	 	
-Android-valmistajilla   	B-MISC 	B-MISC
+Android-valmistajilla   	 	B-MISC
 on 	 	
 vaikeuksia 	 	
 saada 	 	
@@ -3852,7 +3852,7 @@ markkinoille
  	 	
 Esimerkiksi 	 	
 vakavan 	 	
-Stagefright-haavoittuvuuden   	B-MISC 	B-MISC
+Stagefright-haavoittuvuuden   	 	B-MISC
 on 	 	
 korjannut 	 	
 vasta 	 	
@@ -4532,9 +4532,9 @@ Brunner   	I-PER 	I-PER
 Obi   	B-ORG 	B-ORG
 Worldphonen   	I-ORG 	I-ORG
 julkistamat 	 	
-Android   	B-MISC	B-MISC
-Lollipop   	I-MISC	I-MISC
--puhelimet   	I-MISC	I-MISC
+Android   		B-MISC
+Lollipop   		I-MISC
+-puhelimet   		I-MISC
 , 	 	
 Obi   	B-PRO 	B-PRO
 Worldphone   	I-PRO 	I-PRO
@@ -6129,13 +6129,13 @@ Youtube   	B-PRO 	B-PRO
 näkyy 	 	
 . 	 	
  	 	
-Google   	B-MISC	B-MISC
-Play   	I-MISC	I-MISC
--   	I-MISC	I-MISC
+Google   		B-MISC
+Play   		I-MISC
+-   		I-MISC
 ja 	 	
-iOS   	B-MISC	B-MISC
--   	I-MISC	I-MISC
-sovellukset   	I-MISC	I-MISC
+iOS   		B-MISC
+-   		I-MISC
+sovellukset   		I-MISC
 tulevat 	 	
 jakeluun 	 	
 jo 	 	
@@ -6287,7 +6287,7 @@ Google   	B-PRO 	B-PRO
 Play   	I-PRO 	I-PRO
 -kaupan   	I-PRO 	I-PRO
 erityiselle 	 	
-Kiinan-versiolle 	B-MISC	B-MISC
+Kiinan-versiolle 		B-MISC
  	 	
 joka 	 	
 alistuu 	 	
@@ -6702,7 +6702,7 @@ muuttujia
 kuin 	 	
 lavaesiintymisten 	 	
 ja 	 	
-Instagram-seuraajien   	B-MISC 	B-MISC
+Instagram-seuraajien   	 	B-MISC
 lukumäärä 	 	
 , 	 	
 merkintöjen 	 	
@@ -6807,7 +6807,7 @@ jopa
 prosentilla 	 	
 . 	 	
  	 	
-Instagram-suosio   	B-MISC 	B-MISC
+Instagram-suosio   	 	B-MISC
 ja 	 	
 kuuluminen 	 	
 huipputoimiston 	 	
@@ -6929,7 +6929,7 @@ laajemmasta
 levityksestä 	 	
 . 	 	
  	 	
-Firefox-tilin   	B-MISC 	B-MISC
+Firefox-tilin   	 	B-MISC
 avulla 	 	
 käyttäjät 	 	
 voivat 	 	
@@ -7082,7 +7082,7 @@ harvinaisia
 trooppisia 	 	
 tauteja 	 	
 kuten 	 	
-chikungunya   	B-MISC 	B-MISC
+chikungunya   	 	B-MISC
 . 	 	
  	 	
 Tällä   	 	B-TIM
@@ -7207,7 +7207,7 @@ likoon
 1.2 	 	
 miljardia 	 	
 dollaria 	 	
-Kiinan-toimintansa   	B-MISC 	B-MISC
+Kiinan-toimintansa   	 	B-MISC
 laajentamiseen 	 	
 . 	 	
  	 	
@@ -8062,7 +8062,7 @@ optimointitavassa
 jota 	 	
 käytetään 	 	
 laskettaessa 	 	
-RSA-allekirjoituksia   	B-MISC 	B-MISC
+RSA-allekirjoituksia   	 	B-MISC
 . 	 	
  	 	
 Heikkous 	 	
@@ -8070,7 +8070,7 @@ voi
 tietyin 	 	
 edellytyksin 	 	
 paljastaa 	 	
-RSA-avaimen   	B-MISC 	B-MISC
+RSA-avaimen   	 	B-MISC
 , 	 	
 eli 	 	
 vaarantaa 	 	
@@ -8080,7 +8080,7 @@ luottamuksellisuuden
  	 	
 Ongelma 	 	
 on 	 	
-CRT-optimoinnissa   	B-MISC 	B-MISC
+CRT-optimoinnissa   	 	B-MISC
 ja 	 	
 se 	 	
 tiedettiin 	 	
@@ -8120,7 +8120,7 @@ selvittää
 yksityinen 	 	
 avain 	 	
 virheellisen 	 	
-RSA-allekirjoituksen   	B-MISC 	B-MISC
+RSA-allekirjoituksen   	 	B-MISC
 perusteella 	 	
 , 	 	
 Viestintävirasto   	B-ORG 	B-ORG
@@ -8151,7 +8151,7 @@ tarkistuksen
 väliin 	 	
 . 	 	
  	 	
-RSA-CRT-optimointia   	B-MISC 	B-MISC
+RSA-CRT-optimointia   	 	B-MISC
 käytetään 	 	
 salauskirjastoissa 	 	
 lähes 	 	
@@ -8562,7 +8562,7 @@ on
 olemassa 	 	
 , 	 	
 sillä 	 	
-RaaS-lyhennettä   	B-MISC 	B-MISC
+RaaS-lyhennettä   	 	B-MISC
 on 	 	
 käytetty 	 	
 joskus  	 	B-TIM
@@ -8953,7 +8953,7 @@ signaalia
  	 	
 <HEADLINE> 	 	
 225 000 	 	
-Apple-tiliä   	B-MISC 	B-MISC
+Apple-tiliä   	 	B-MISC
 varastettu 	 	
  	 	
 uhrien 	 	
@@ -8967,7 +8967,7 @@ ostoksia
  	 	
 <INGRESS> 	 	
 Applen   	B-ORG 	B-ORG
-iPhone-asiakkaat   	B-MISC 	B-MISC
+iPhone-asiakkaat   	 	B-MISC
 ovat 	 	
 kärsineet 	 	
 kenties 	 	
@@ -8996,7 +8996,7 @@ lainaa
  	 	
 Jopa 	 	
 225 000 	 	
-Apple-tiliä   	B-MISC 	B-MISC
+Apple-tiliä   	 	B-MISC
 on 	 	
 varastettu 	 	
 iPhone-puhelinten   	B-PRO 	B-PRO
@@ -9067,10 +9067,10 @@ mukaan
 KeyRaider   	B-PRO 	B-PRO
 luovuttaa 	 	
 uhrin 	 	
-iTunes   	B-MISC 	B-MISC
-App   	I-MISC 	I-MISC
-Store   	I-MISC 	I-MISC
--tiedot   	I-MISC 	I-MISC
+iTunes   	 	B-MISC
+App   	 	I-MISC
+Store   	 	I-MISC
+-tiedot   	 	I-MISC
 hyökkääjille 	 	
 mukaan 	 	
 lukien 	 	
@@ -9570,7 +9570,7 @@ turvallinen
 <INGRESS> 	 	
 Turvallisuussivusto 	 	
 arvostelee 	 	
-Android-puhelimien   	B-MISC	B-MISC
+Android-puhelimien   		B-MISC
 AppLock-sovelluslukon   	B-PRO 	B-PRO
 turvallisuutta 	 	
 . 	 	
@@ -9902,7 +9902,7 @@ yhteydessä
 . 	 	
  	 	
 Niinpä 	 	
-Flash-päivitys   	B-MISC	B-MISC
+Flash-päivitys   		B-MISC
 kertoo 	 	
 aukoista 	 	
 , 	 	
@@ -9932,7 +9932,7 @@ Angler-hyökkäystyökaluun   	B-PRO 	B-PRO
 on 	 	
 lisätty 	 	
 uusi  	 	B-TIM
-Flash-hyväksikäyttö   	B-MISC	B-MISC
+Flash-hyväksikäyttö   		B-MISC
 , 	 	
 joka 	 	
 iskee 	 	
@@ -10004,7 +10004,7 @@ pois
  	 	
 <HEADLINE> 	 	
 Tarkista 	 	
-HP-kannettava   	B-MISC	B-MISC
+HP-kannettava   		B-MISC
 : 	 	
 Ilkeä 	 	
 haavoittuvuus 	 	
@@ -10169,7 +10169,7 @@ tietokoneissa
 ja 	 	
 joissakin 	 	
 tietokoneissa 	 	
-AMT-toiminnon   	B-MISC 	B-MISC
+AMT-toiminnon   	 	B-MISC
 kytkeminen 	 	
 pois 	 	
 käytöstä 	 	
@@ -10261,7 +10261,7 @@ lentävät
 tuskallisen 	 	
 hitaasti 	 	
  	 	
-Pluto-luotaimen   	B-MISC 	B-MISC
+Pluto-luotaimen   	 	B-MISC
 paras 	 	
 saalis 	 	
 vielämatkalla 	 	
@@ -10272,7 +10272,7 @@ vielämatkalla
 <INGRESS> 	 	
 Nasan   	B-ORG 	B-ORG
 mukaan 	 	
-Pluto-luotaimen   	B-MISC 	B-MISC
+Pluto-luotaimen   	 	B-MISC
 ottamat 	 	
 tarkimmat 	 	
 valokuvat 	 	
@@ -10442,9 +10442,9 @@ muodossa
 <HEADLINE> 	 	
 Odotatko 	 	
 yhä 	 	B-TIM
-Windows   	B-MISC	B-MISC
-10   	I-MISC	I-MISC
--päivitystä   	I-MISC	I-MISC
+Windows   		B-MISC
+10   		I-MISC
+-päivitystä   		I-MISC
 ? 	 	
  	 	
 Tee 	 	
@@ -10938,9 +10938,9 @@ ei
 ole 	 	
 vielä 	 	
 tarjottu 	 	
-Windows   	B-MISC	B-MISC
-10   	I-MISC	I-MISC
--päivitystä   	I-MISC	I-MISC
+Windows   		B-MISC
+10   		I-MISC
+-päivitystä   		I-MISC
 tai 	 	
 et 	 	
 ole 	 	
@@ -11562,9 +11562,9 @@ pidemmälle
 . 	 	
  	 	
 Jos 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--tietojen   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-tietojen   	 	I-MISC
 kaiveleminen 	 	
 kiinnostaa 	 	
 , 	 	
@@ -11639,7 +11639,7 @@ Applen   	B-ORG 	B-ORG
 iOS-käyttöjärjestelmästä   	B-PRO 	B-PRO
 löytämänsä 	 	
 haavoittuvuuden 	 	
-Ins0mniaksi   	B-MISC 	B-MISC
+Ins0mniaksi   	 	B-MISC
 . 	 	
  	 	
 Applen   	B-ORG 	B-ORG
@@ -11690,7 +11690,7 @@ se
 mahdollisti 	 	
 hyökkäykset 	 	
 murtamattomia 	 	
-iOS-laitteita   	B-MISC	B-MISC
+iOS-laitteita   		B-MISC
 vastaan 	 	
 . 	 	
  	 	
@@ -11728,9 +11728,9 @@ olisi
 suurella 	 	
 todennäköisyydellä 	 	
 läpäissyt 	 	
-Apple   	B-MISC 	B-MISC
-Store   	I-MISC 	I-MISC
--tarkastuksen   	I-MISC 	I-MISC
+Apple   	 	B-MISC
+Store   	 	I-MISC
+-tarkastuksen   	 	I-MISC
 tehden 	 	
 siitä 	 	
 harvinaisen 	 	
@@ -11753,7 +11753,7 @@ kirjoittaa
  	 	
 Kaiken 	 	
 kaikkiaan 	 	
-Ins0mnia   	B-MISC 	B-MISC
+Ins0mnia   	 	B-MISC
 on 	 	
 siis 	 	
 omiaan 	 	
@@ -12858,7 +12858,7 @@ ESETin   	B-ORG 	B-ORG
 ohjelmistoista 	 	
 . 	 	
  	 	
-Kaspersky-haavoittuvuus   	B-MISC 	B-MISC
+Kaspersky-haavoittuvuus   	 	B-MISC
 mahdollistaa 	 	
 järjestelmään 	 	
 tunkeutumisen 	 	
@@ -12963,7 +12963,7 @@ ohjelmistoaan
  	 	
 <HEADLINE> 	 	
 Avaimet 	 	
-Android-puhelimen   	B-MISC	B-MISC
+Android-puhelimen   		B-MISC
 pyyhkäisylukkoon 	 	
 : 	 	
 Sormirasva 	 	
@@ -12992,7 +12992,7 @@ todisti
 Defcon-tapahtumassa   	B-EVENT 	B-EVENT
 , 	 	
 että 	 	
-Android-puhelinten   	B-MISC	B-MISC
+Android-puhelinten   		B-MISC
 lukituksen 	 	
 avaaminen 	 	
 näyttöä 	 	
@@ -13187,9 +13187,9 @@ kirjoittaa
 . 	 	
  	 	
 <BODY> 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--murron   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-murron   	 	I-MISC
 yhteydessä 	 	
 vuoti 	 	
 myös 	 	
@@ -13409,7 +13409,7 @@ Motherboardille   	B-ORG 	B-ORG
 <HEADLINE> 	 	
 Cortana-digiavustajan   	B-PRO 	B-PRO
 jakelu 	 	
-Android-puhelimiin   	B-MISC	B-MISC
+Android-puhelimiin   		B-MISC
 alkoi 	 	
  	 	
 <DATE> 	 	
@@ -13424,7 +13424,7 @@ on
 nyt   	 	B-TIM
 saatavilla 	 	
 myös 	 	
-Android-laitteille   	B-MISC	B-MISC
+Android-laitteille   		B-MISC
 . 	 	
  	 	
 Apuri 	 	
@@ -13483,17 +13483,17 @@ iPhone-puhelimissa   	B-PRO 	B-PRO
 . 	 	
  	 	
 Cortanan   	B-PRO 	B-PRO
-Android-versio   	B-MISC	B-MISC
+Android-versio   		B-MISC
 on 	 	
 nyt   	 	B-TIM
 saatavilla 	 	
 Google   	B-PRO 	B-PRO
 Playstä   	I-PRO 	I-PRO
 amerikkalaisille 	 	
-Android-puhelimille   	B-MISC	B-MISC
+Android-puhelimille   		B-MISC
 , 	 	
 mutta 	 	
-Android-tableteissa   	B-MISC	B-MISC
+Android-tableteissa   		B-MISC
 se 	 	
 ei 	 	
 toimi 	 	
@@ -13506,7 +13506,7 @@ Microsoft   	B-ORG 	B-ORG
 lupaa 	 	
 laajentaa 	 	
 Cortanan   	B-PRO 	B-PRO
-Android-jakelua   	B-MISC 	B-MISC
+Android-jakelua   	 	B-MISC
 myös 	 	
 Yhdysvaltain   	B-LOC 	B-LOC
 ulkopuolelle 	 	
@@ -13519,7 +13519,7 @@ suunnilleen
 samalla 	 	
 tavalla 	 	
 kuin 	 	
-Windows-laitteissa   	B-MISC	B-MISC
+Windows-laitteissa   		B-MISC
 . 	 	
  	 	
 Sillä 	 	
@@ -13542,7 +13542,7 @@ kuitenkaan
 ole 	 	
 täysiä 	 	
 oikeuksia 	 	
-Android-puhelimeen   	B-MISC	B-MISC
+Android-puhelimeen   		B-MISC
 . 	 	
  	 	
 Mikrofoniluvan 	 	
@@ -13578,7 +13578,7 @@ käynnistämään
 sovelluksia 	 	
 tai 	 	
 muuttamaan 	 	
-Android-puhelimen   	B-MISC	B-MISC
+Android-puhelimen   		B-MISC
 asetuksia 	 	
 . 	 	
  	 	
@@ -13949,7 +13949,7 @@ Chromelle   	B-PRO 	B-PRO
 ja 	 	
 Operalle   	B-PRO 	B-PRO
 kirjoitetut 	 	
-Blink-pohjaiset   	B-MISC 	B-MISC
+Blink-pohjaiset   	 	B-MISC
 laajennukset 	 	
 Firefoxiin   	B-PRO 	B-PRO
 vain 	 	
@@ -14116,7 +14116,7 @@ ominaispiirteitä
 <HEADLINE> 	 	
 Hoi 	 	
 , 	 	
-Lumia-kansa   	B-MISC 	B-MISC
+Lumia-kansa   	 	B-MISC
 : 	 	
 Whatsapp   	B-PRO 	B-PRO
 sai 	 	
@@ -14142,9 +14142,9 @@ ihonväriin
 <BODY> 	 	
 Suositun 	 	
 Whatsapp-pikaviestisovelluksen   	B-PRO 	B-PRO
-Windows   	B-MISC	B-MISC
-Phone   	I-MISC	I-MISC
--versio   	I-MISC	I-MISC
+Windows   		B-MISC
+Phone   		I-MISC
+-versio   		I-MISC
 on 	 	
 päivittynyt 	 	
 . 	 	
@@ -14201,7 +14201,7 @@ yhteyden
 ja 	 	
 lähettää 	 	
 henkilölle 	 	
-Whatsapp-viestejä   	B-MISC 	B-MISC
+Whatsapp-viestejä   	 	B-MISC
 . 	 	
  	 	
 Osa 	 	
@@ -14261,7 +14261,7 @@ Musiikkipalvelu
 Spotify   	B-ORG 	B-ORG
 aikoo 	 	
 laajentaa 	 	
-Android-sovelluksensa   	B-MISC 	B-MISC
+Android-sovelluksensa   	 	B-MISC
 vaatimia 	 	
 oikeuksia 	 	
 . 	 	
@@ -14636,7 +14636,7 @@ nyt   	 	B-TIM
 : 	 	
 Microsoft   	B-ORG 	B-ORG
 lopettaa 	 	
-Lumia-sovelluksia   	B-MISC 	B-MISC
+Lumia-sovelluksia   	 	B-MISC
  	 	
 <DATE> 	 	
 7.9.2015 14:13 	 	
@@ -15456,7 +15456,7 @@ Karu
 totuus 	 	
 valkeni 	 	
 : 	 	
-Firefox-hyökkäys   	B-MISC 	B-MISC
+Firefox-hyökkäys   	 	B-MISC
 johtui 	 	
 tietomurrosta 	 	
  	 	
@@ -15965,9 +15965,9 @@ materiasta
 . 	 	
  	 	
 <HEADLINE> 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--murto   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-murto   	 	I-MISC
 : 	 	
 Firma 	 	
 teki 	 	
@@ -16358,12 +16358,12 @@ Nokia   	B-ORG 	B-ORG
 myös 	 	
 etsii 	 	
 uusia  	 	B-TIM
-Android-älypuhelinten   	B-MISC 	B-MISC
+Android-älypuhelinten   	 	B-MISC
 kehittäjiä 	 	
 . 	 	
  	 	
 <HEADLINE> 	 	
-Android-aukot   	B-MISC 	B-MISC
+Android-aukot   	 	B-MISC
 uhkaavat 	 	
 joka 	 	
 suunnasta 	 	
@@ -16380,7 +16380,7 @@ Kyberturvallisuuskeskus   	B-ORG 	B-ORG
 erittelee 	 	
 kuusi 	 	
 uusinta 	 	
-Android-uhkaa   	B-MISC 	B-MISC
+Android-uhkaa   	 	B-MISC
 ja 	 	
 antaa 	 	
 myös 	 	
@@ -16411,17 +16411,17 @@ käyttäjiä
 Uutisissa 	 	
 ovat 	 	
 näkyneet 	 	
-Stagefright   	B-MISC 	B-MISC
-1   	I-MISC 	I-MISC
-ja   	I-MISC 	I-MISC
-2   	I-MISC 	I-MISC
+Stagefright   	 	B-MISC
+1   	 	I-MISC
+ja   	 	I-MISC
+2   	 	I-MISC
 , 	 	
-Silent   	B-MISC 	B-MISC
-Attack   	I-MISC 	I-MISC
+Silent   	 	B-MISC
+Attack   	 	I-MISC
 , 	 	
-Certifi-gate   	B-MISC 	B-MISC
+Certifi-gate   	 	B-MISC
 ja 	 	
-Multitasking-haavoittuvuus   	B-MISC 	B-MISC
+Multitasking-haavoittuvuus   	 	B-MISC
 . 	 	
  	 	
 Lisäksi 	 	
@@ -16435,7 +16435,7 @@ uudelleenkäynnistysten
 kierteeseen 	 	
 . 	 	
  	 	
-Android-käyttäjä   	B-MISC 	B-MISC
+Android-käyttäjä   	 	B-MISC
 on 	 	
 pitkälti 	 	
 Googlen   	B-ORG 	B-ORG
@@ -16559,7 +16559,7 @@ käytä
 . 	 	
  	 	
 Nimenomaan 	 	
-Stagefrightilta   	B-MISC 	B-MISC
+Stagefrightilta   	 	B-MISC
 varjelee 	 	
 , 	 	
 jos 	 	
@@ -16603,7 +16603,7 @@ Kyberturvallisuuskeskus   	B-ORG 	B-ORG
 neuvoo 	 	
 6) 	 	
 käyttämään 	 	
-Android-laitteessa   	B-MISC 	B-MISC
+Android-laitteessa   	 	B-MISC
 jotain 	 	
 tietoturvatuotetta 	 	
 . 	 	
@@ -16611,7 +16611,7 @@ tietoturvatuotetta
 <HEADLINE> 	 	
 Mehustaako 	 	
 Apple   	B-ORG 	B-ORG
-iPhone-julkistusta   	B-MISC 	B-MISC
+iPhone-julkistusta   	 	B-MISC
 Pro-tabletilla   	B-PRO 	B-PRO
 ? 	 	
  	 	
@@ -16627,7 +16627,7 @@ viikolla   	 	I-TIM
 myös 	 	
 kauan 	 	
 huhutun 	 	
-ammattilais-iPadin   	B-MISC 	B-MISC
+ammattilais-iPadin   	 	B-MISC
 , 	 	
 9to5Mac   	B-ORG 	B-ORG
 veikkaa 	 	
@@ -16877,7 +16877,7 @@ tuumaa
 720-tarkkuudella 	 	
 , 	 	
 ja 	 	
-perus-Xperia   	B-MISC 	B-MISC
+perus-Xperia   	 	B-MISC
 Z5:ssä 	B-PRO	B-PRO
 on 	 	
 5,2 	 	
@@ -17116,7 +17116,7 @@ Mutta
 kyseessä 	 	
 olikin 	 	
 vain 	 	
-perus-Z5   	B-MISC	B-MISC
+perus-Z5   		B-MISC
 , 	 	
 jossa 	 	
 on 	 	
@@ -17519,7 +17519,7 @@ mitäkin
 . 	 	
  	 	
 Kokeilusta 	 	
-Youtube-video   	B-MISC	B-MISC
+Youtube-video   		B-MISC
 on 	 	
 nähtävissä 	 	
 alla 	 	
@@ -17688,7 +17688,7 @@ markkinointimateriaali
 muistuttaa 	 	
 ainakin 	 	
 joidenkin 	 	
-Twitter-käyttäjien   	B-MISC 	B-MISC
+Twitter-käyttäjien   	 	B-MISC
 mielestä 	 	
 Nokian   	B-ORG 	B-ORG
 yli   	 	B-TIM
@@ -17797,7 +17797,7 @@ leikkaa
 , 	 	
 kommentoi 	 	
 yksi 	 	
-Twitter-käyttäjä   	B-MISC 	B-MISC
+Twitter-käyttäjä   	 	B-MISC
 . 	 	
  	 	
 Sekä 	 	
@@ -18057,8 +18057,8 @@ Hämmentävästi
 puhelin 	 	
 sai 	 	
 Japanissa   	B-LOC 	B-LOC
-Xperia   	B-MISC 	B-MISC
-Z4-nimen   	I-MISC 	I-MISC
+Xperia   	 	B-MISC
+Z4-nimen   	 	I-MISC
 , 	 	
 kun 	 	
 taas 	 	
@@ -18239,7 +18239,7 @@ on
 joskus  	 	B-TIM
 juhlinut 	 	
 akkukestolla 	 	
-iPhone-julkistuksissaan   	B-MISC 	B-MISC
+iPhone-julkistuksissaan   	 	B-MISC
 . 	 	
  	 	
 Voiko 	 	
@@ -19843,7 +19843,7 @@ on
 uusittu 	 	
 käyttöjärjestelmä 	 	
 , 	 	
-Linux-pohjainen   	B-MISC 	B-MISC
+Linux-pohjainen   	 	B-MISC
 Sailfish   	B-PRO 	B-PRO
 2.0   	I-PRO 	I-PRO
 , 	 	
@@ -20093,7 +20093,7 @@ pääosin
 sulava 	 	
 . 	 	
  	 	
-Android-sovelluksiin   	B-MISC 	B-MISC
+Android-sovelluksiin   	 	B-MISC
 siirtyessä 	 	
 kuvaelementit 	 	
 tosin 	 	
@@ -20306,10 +20306,10 @@ montaa
 natiivisovellusta 	 	
 . 	 	
  	 	
-Tablet-yhteensopivia   	B-MISC 	B-MISC
+Tablet-yhteensopivia   	 	B-MISC
 versioita 	 	
 vanhoista  	 	B-TIM
-Jolla-sovelluksista   	B-MISC 	B-MISC
+Jolla-sovelluksista   	 	B-MISC
 alkaa 	 	
 ilmestyä 	 	
 lähiaikoina   	 	B-TIM
@@ -20327,7 +20327,7 @@ Tablet   	B-PRO 	B-PRO
 tarjoaa 	 	
 virallisesti 	 	
 kaksi 	 	
-Android-sovellusten   	B-MISC 	B-MISC
+Android-sovellusten   	 	B-MISC
 kauppaa 	 	
 : 	 	
 venäläinen 	 	
@@ -20355,7 +20355,7 @@ käyttämään
 Valitettavasti 	 	
 Aptoidesta   	B-PRO 	B-PRO
 haettujen 	 	
-Android-sovelluksien   	B-MISC 	B-MISC
+Android-sovelluksien   	 	B-MISC
 käyttö 	 	
 ei 	 	
 onnistunut 	 	
@@ -20390,7 +20390,7 @@ ja
 korjautunee 	 	
 . 	 	
  	 	
-Android-tuen   	B-MISC 	B-MISC
+Android-tuen   	 	B-MISC
 ongelmat 	 	
 ovat 	 	
 seurausta 	 	
@@ -20425,7 +20425,7 @@ vaan
 niitä 	 	
 joudutaan 	 	
 tuunaamaan 	 	
-Sailfish-yhteensopiviksi   	B-MISC 	B-MISC
+Sailfish-yhteensopiviksi   	 	B-MISC
 . 	 	
  	 	
 Jolla   	B-ORG 	B-ORG
@@ -20434,7 +20434,7 @@ Aptoiden   	B-ORG 	B-ORG
 kanssa 	 	
 , 	 	
 jotta 	 	
-Jolla-yhteensopivat   	B-MISC 	B-MISC
+Jolla-yhteensopivat   	 	B-MISC
 versiot 	 	
 tärkeimmistä 	 	
 sovelluksista 	 	
@@ -20497,7 +20497,7 @@ asentaa
 Play-kauppa   	B-PRO 	B-PRO
 . 	 	
  	 	
-Android-tuen   	B-MISC 	B-MISC
+Android-tuen   	 	B-MISC
 keskeneräisyyden 	 	
 takia 	 	
 emme 	 	
@@ -20908,7 +20908,7 @@ lunnaita
 8.9.2015 08:13 	 	
  	 	
 <INGRESS> 	 	
-Android-puhelimiin   	B-MISC	B-MISC
+Android-puhelimiin   		B-MISC
 on 	 	
 levitetty 	 	
 Adult   	B-PRO 	B-PRO
@@ -20940,7 +20940,7 @@ mukaan
 Adult   	B-PRO 	B-PRO
 Player   	I-PRO 	I-PRO
 houkutteli 	 	
-Android-puhelimen   	B-MISC	B-MISC
+Android-puhelimen   		B-MISC
 omistajia 	 	
 lataamaan 	 	
 sovelluksen 	 	
@@ -21021,7 +21021,7 @@ ole
 ollut 	 	
 tarjolla 	 	
 virallisessa 	 	
-Android-kaupassa 	B-MISC	B-MISC
+Android-kaupassa 		B-MISC
 Google   	B-PRO 	B-PRO
 Playssä   	I-PRO 	I-PRO
 vaan 	 	
@@ -21062,7 +21062,7 @@ välttämiseksi
 ihmisiä 	 	
 kehotetaan 	 	
 lataamaan 	 	
-Andoid-sovelluksia   	B-MISC 	B-MISC
+Andoid-sovelluksia   	 	B-MISC
 vain 	 	
 Google   	B-PRO 	B-PRO
 Playstä   	I-PRO 	I-PRO
@@ -21086,7 +21086,7 @@ Clans   	I-PRO 	I-PRO
 kaikkien   	 	B-TIM
 aikojen   	 	I-TIM
 tuottoisin 	 	
-iOS-peli   	B-MISC	B-MISC
+iOS-peli   		B-MISC
  	 	
 <DATE> 	 	
 7.9.2015 12:01 	 	
@@ -21105,7 +21105,7 @@ Annien   	I-ORG 	I-ORG
 kaikkien   	 	B-TIM
 aikojen   	 	I-TIM
 tuottoisimpien 	 	
-iOS-pelien   	B-MISC 	B-MISC
+iOS-pelien   	 	B-MISC
 ykköseksi 	 	
 . 	 	
  	 	
@@ -21121,9 +21121,9 @@ noussut
 kaikkien   	 	B-TIM
 aikojen   	 	I-TIM
 tuottoisimmaksi 	 	
-App   	B-MISC	B-MISC
-Store   	I-MISC	I-MISC
--peliksi   	I-MISC	I-MISC
+App   		B-MISC
+Store   		I-MISC
+-peliksi   		I-MISC
 , 	 	
 kertovat 	 	
 sovelluslatauksia 	 	
@@ -21473,7 +21473,7 @@ Koum   	B-PER 	B-PER
 ilmoitti 	 	
 luvun 	 	
 lyhyessä 	 	
-Facebook-viestissä   	B-MISC	B-MISC
+Facebook-viestissä   		B-MISC
 perjantaina   	 	B-TIM
 . 	 	
  	 	
@@ -22032,7 +22032,7 @@ kannalta
 . 	 	
  	 	
 <HEADLINE> 	 	
-Pluto-luotaimelle   	B-MISC 	B-MISC
+Pluto-luotaimelle   	 	B-MISC
 löydettiin 	 	
 uusi  	 	B-TIM
 aarre 	 	
@@ -22475,7 +22475,7 @@ digitaalisen
 avustajansa 	 	
 . 	 	
  	 	
-M-nimellä   	I-MISC	I-MISC
+M-nimellä   		I-MISC
 tunnettu   		
 assistentti   		
 asuu 	 	
@@ -24278,7 +24278,7 @@ vaihdetaan
 . 	 	
  	 	
 Moni 	 	
-Twitter-kommentoija   	B-MISC 	B-MISC
+Twitter-kommentoija   	 	B-MISC
 tuntuu 	 	
 ajattelevan 	 	
 , 	 	
@@ -25064,7 +25064,7 @@ nopeasti
 sillä 	 	
 aikaisemmin   	 	B-TIM
 samaa 	 	
-Atlas-kummajaista   	B-MISC 	B-MISC
+Atlas-kummajaista   	 	B-MISC
 on 	 	
 esitelty 	 	
 lähinnä 	 	
@@ -25154,7 +25154,7 @@ avustustöissä
 . 	 	
  	 	
 <HEADLINE> 	 	
-Lego-puhelin   	B-MISC 	B-MISC
+Lego-puhelin   	 	B-MISC
 pulassa 	 	
 ? 	 	
  	 	
@@ -25235,7 +25235,7 @@ tettu
 Sen  	 	B-TIM
 jälkeen  	 	I-TIM
 hankkeen 	 	
-Twitter-tilillä   	B-MISC 	B-MISC
+Twitter-tilillä   	 	B-MISC
 julkaistiin 	 	
 lisää 	 	
 viestejä 	 	
@@ -25549,7 +25549,7 @@ Garrin   	I-PER 	I-PER
 <HEADLINE> 	 	
 Muistitko 	 	
 tämän 	 	
-Mars-luotaimen   	B-MISC 	B-MISC
+Mars-luotaimen   	 	B-MISC
 ? 	 	
  	 	
 Uusi  	 	B-TIM
@@ -25563,7 +25563,7 @@ säväyttää
 Yhdysvaltain   	B-LOC 	B-LOC
 ja 	 	
 Euroopan   	B-LOC 	B-LOC
-Mars-tehtävien   	B-MISC 	B-MISC
+Mars-tehtävien   	 	B-MISC
 tuoksinassa 	 	
 saattaa 	 	
 unohtua 	 	
@@ -25741,7 +25741,7 @@ kutinsa
  	 	
 Project   	B-PRO 	B-PRO
 Aran   	I-PRO 	I-PRO
-Twitter-tilillä   	B-MISC 	B-MISC
+Twitter-tilillä   	 	B-MISC
 julkaistiin 	 	
 enemmän 	 	
 tai 	 	
@@ -25785,7 +25785,7 @@ ovat
 saattaneet 	 	
 niin 	 	
 ajatella 	 	
-Twitter-tilin   	B-MISC 	B-MISC
+Twitter-tilin   	 	B-MISC
 hiljaiselon 	 	
 vuoksi 	 	
 . 	 	
@@ -26835,7 +26835,7 @@ ei
 saa 	 	
 uutta  	 	B-TIM
 käsittelyä 	 	
-Apple-jutussa   	B-MISC 	B-MISC
+Apple-jutussa   	 	B-MISC
  	 	
 <DATE> 	 	
 14.8.2015 10:30 	 	
@@ -26847,7 +26847,7 @@ torjui
 torstaina   	 	B-TIM
 Samsungin   	B-ORG 	B-ORG
 anomuksen 	 	
-Apple-patenttijutun   	B-MISC 	B-MISC
+Apple-patenttijutun   	 	B-MISC
 uudesta  	 	B-TIM
 käsittelystä 	 	
 . 	 	
@@ -27213,7 +27213,7 @@ haittaohjelma
 <INGRESS> 	 	
 Eri 	 	
 kiinalaisvalmistajien 	 	
-Android-puhelimia   	B-MISC	B-MISC
+Android-puhelimia   		B-MISC
 on 	 	
 päässyt 	 	
 myyntiin 	 	
@@ -27405,7 +27405,7 @@ G   	B-ORG 	B-ORG
 Data   	I-ORG 	I-ORG
 mainitsee 	 	
 muokatun 	 	
-Facebook-sovelluksen   	B-MISC 	B-MISC
+Facebook-sovelluksen   	 	B-MISC
 , 	 	
 joka 	 	
 antaa 	 	
@@ -27429,7 +27429,7 @@ vuodessa   	 	I-TIM
 Uuden  	 	B-TIM
 tutkimuksen 	 	
 mukaan 	 	
-Android-haittaohjelmien   	B-MISC 	B-MISC
+Android-haittaohjelmien   	 	B-MISC
 määrä 	 	
 on 	 	
 huimassa 	 	
@@ -27440,7 +27440,7 @@ G   	B-ORG 	B-ORG
 Datan   	I-ORG 	I-ORG
 mukaan 	 	
 löydettyjen 	 	
-Android-haittaohjelmien   	B-MISC 	B-MISC
+Android-haittaohjelmien   	 	B-MISC
 määrä 	 	
 kasvoi 	 	
 tämän   	 	B-TIM
@@ -27541,7 +27541,7 @@ uhrille
 lähetetään 	 	
 vCard-yhteystietoliitteen   	B-PRO 	B-PRO
 sisältävä 	 	
-WhatsApp-viesti   	B-MISC 	B-MISC
+WhatsApp-viesti   	 	B-MISC
 . 	 	
  	 	
 VCardiin   	B-PRO 	B-PRO
@@ -27809,9 +27809,9 @@ voivansa
 laskea 	 	
 aktiivisten 	 	
 naispuolisten 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--jäsenten   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-jäsenten   	 	I-MISC
 määrän 	 	
 näiden 	 	
 oletusten 	 	
@@ -27919,7 +27919,7 @@ Kyberturvallisuuskeskus   	B-ORG 	B-ORG
 Haavoittuva 	 	
 komponentti 	 	
 on 	 	
-Windows-koneissa   	B-MISC	B-MISC
+Windows-koneissa   		B-MISC
 oleva 	 	
 F-Secure   	B-PRO 	B-PRO
 Gatekeeper   	I-PRO 	I-PRO
@@ -28473,7 +28473,7 @@ horisontissa
 . 	 	
  	 	
 <HEADLINE> 	 	
-BitTorrent-käyttäjät   	B-MISC 	B-MISC
+BitTorrent-käyttäjät   	 	B-MISC
 vaarassa 	 	
  	 	
 nämä 	 	
@@ -29167,7 +29167,7 @@ listat
 ja 	 	
 niiden 	 	
 karsitut 	 	
-Suomi-versiot   	B-MISC 	B-MISC
+Suomi-versiot   	 	B-MISC
 levisivät 	 	
 vauhdikkaasti 	 	
 ja 	 	
@@ -29591,7 +29591,7 @@ Tiistaina   	 	B-TIM
 mediasääntelijä 	 	
 Roskomnadzor   	B-ORG 	B-ORG
 peruutti 	 	
-Wikipedia-kiellon   	B-MISC 	B-MISC
+Wikipedia-kiellon   	 	B-MISC
 , 	 	
 joka 	 	
 oli 	 	
@@ -29628,7 +29628,7 @@ sillä
 , 	 	
 että 	 	
 kyseistä 	 	
-Wikipedia-artikkelia   	B-MISC 	B-MISC
+Wikipedia-artikkelia   	 	B-MISC
 muokattiin 	 	
 lainmukaiseksi 	 	
 . 	 	
@@ -29705,9 +29705,9 @@ on
 vakuuttunut 	 	
 , 	 	
 että 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--tietovuoto   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-tietovuoto   	 	I-MISC
 tehtiin 	 	
 sisältä 	 	
 käsin 	 	
@@ -29866,9 +29866,9 @@ erillään
 toisistaan 	 	
 , 	 	
 mutta 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--tietovuodon   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-tietovuodon   	 	I-MISC
 tekijällä 	 	
 on 	 	
 ollut 	 	
@@ -29886,9 +29886,9 @@ ensimmäinen
 , 	 	
 joka 	 	
 epäilee 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--vuodon   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-vuodon   	 	I-MISC
 olevan 	 	
 sisäpiiriläisen 	 	
 tekemä 	 	
@@ -30845,7 +30845,7 @@ taas
 käytetään 	 	
 tuttujen 	 	
 löytämiseen 	 	
-Spotify-käyttäjien   	B-MISC 	B-MISC
+Spotify-käyttäjien   	 	B-MISC
 joukosta 	 	
 . 	 	
  	 	
@@ -31012,9 +31012,9 @@ päivittää
 Monelta 	 	
 meni 	 	
 kuitenkin 	 	
-Windows   	B-MISC 	B-MISC
-10   	I-MISC 	I-MISC
--kohujen   	I-MISC 	I-MISC
+Windows   	 	B-MISC
+10   	 	I-MISC
+-kohujen   	 	I-MISC
 lomassa 	 	
 ohi 	 	
 , 	 	
@@ -31227,9 +31227,9 @@ kirjoittava
 TorrentFreak   	B-ORG 	B-ORG
 kertoo 	 	
 piraattien 	 	
-Windows   	B-MISC 	B-MISC
-10   	I-MISC 	I-MISC
--huolien   	I-MISC 	I-MISC
+Windows   	 	B-MISC
+10   	 	I-MISC
+-huolien   	 	I-MISC
 nousseen 	 	
 melkoisiin 	 	
 mittasuhteisiin 	 	
@@ -31347,9 +31347,9 @@ piraattipalvelu
 on 	 	
 nyt   	 	B-TIM
 harkitsemassa 	 	
-Windows   	B-MISC 	B-MISC
-10   	I-MISC 	I-MISC
--käyttäjien   	I-MISC 	I-MISC
+Windows   	 	B-MISC
+10   	 	I-MISC
+-käyttäjien   	 	I-MISC
 estoa 	 	
 palveluistaan 	 	
 . 	 	
@@ -31577,9 +31577,9 @@ TorrentFreak   	B-ORG 	B-ORG
 ohjaa 	 	
 yksityisyydestään 	 	
 kiinnostuneet 	 	
-Windows   	B-MISC 	B-MISC
-10   	I-MISC 	I-MISC
--käyttäjät   	I-MISC 	I-MISC
+Windows   	 	B-MISC
+10   	 	I-MISC
+-käyttäjät   	 	I-MISC
 tutustumaan 	 	
 fix   	B-PRO 	B-PRO
 windows   	I-PRO 	I-PRO
@@ -31597,9 +31597,9 @@ suuntaan
 . 	 	
  	 	
 <HEADLINE> 	 	
-Ashley   	B-MISC 	B-MISC
-Madison   	I-MISC 	I-MISC
--painajainen   	I-MISC 	I-MISC
+Ashley   	 	B-MISC
+Madison   	 	I-MISC
+-painajainen   	 	I-MISC
 pahenee 	 	
 : 	 	
 Vuodettujen 	 	
@@ -32192,7 +32192,7 @@ iski
 neljä 	 	
 kertaa 	 	
 Googlen   	B-ORG 	B-ORG
-Belgian-palvelinkeskuksen 	B-MISC	B-MISC
+Belgian-palvelinkeskuksen 		B-MISC
 sähköjohtoihin 	 	
 ja 	 	
 aiheutti 	 	
@@ -32877,7 +32877,7 @@ mukana
 levisi 	 	
 myös 	 	
 johtajien 	 	
-Paypal-tilitietoja   	B-MISC 	B-MISC
+Paypal-tilitietoja   	 	B-MISC
 sekä 	 	
 yhtiön 	 	
 sisäisiä 	 	
@@ -33019,7 +33019,7 @@ kertoo
 saaneensa 	 	
 apua 	 	
 muilta 	 	
-Reddit-käyttäjiltä   	B-MISC 	B-MISC
+Reddit-käyttäjiltä   	 	B-MISC
 , 	 	
 jotka 	 	
 ovat 	 	
@@ -33365,9 +33365,9 @@ Weave   	B-PRO 	B-PRO
 Laitetta 	 	
 voidaan 	 	
 ohjata 	 	
-iOS-   	B-MISC	B-MISC
+iOS-   		B-MISC
 tai 	 	
-Android-puhelimilla   	B-MISC	B-MISC
+Android-puhelimilla   		B-MISC
 . 	 	
  	 	
 <HEADLINE> 	 	
@@ -33769,7 +33769,7 @@ ohittamiseksi
 . 	 	
  	 	
 <HEADLINE> 	 	
-IPhone-huijaus   	B-MISC 	B-MISC
+IPhone-huijaus   	 	B-MISC
 kloonattiin 	 	
 : 	 	
 Heti  	 	B-TIM
@@ -33784,7 +33784,7 @@ Useat
 suomalaiset 	 	
 haksahtivat 	 	
 Facebookin   	B-PRO 	B-PRO
-iPhone-huijaukseen   	B-MISC 	B-MISC
+iPhone-huijaukseen   	 	B-MISC
 , 	 	
 joka 	 	
 pukeutui 	 	
@@ -33807,7 +33807,7 @@ jossa
 kehotettiin 	 	
 ihmisiä 	 	
 osallistumaan 	 	
-Tekniikkakeskus-nimisen   	B-MISC 	B-MISC
+Tekniikkakeskus-nimisen   	 	B-MISC
 sivun 	 	
 järjestämään 	 	
 viiden 	 	
@@ -33909,7 +33909,7 @@ on
 usein  	 	B-TIM
 kerätä 	 	
 seuraajia 	 	
-Facebook-sivulle   	B-MISC 	B-MISC
+Facebook-sivulle   	 	B-MISC
 , 	 	
 joka 	 	
 myöhemmin   	 	B-TIM
@@ -33919,7 +33919,7 @@ markkinointitarkoituksessa
 . 	 	
  	 	
 Tekniikkamaailman   	B-ORG	B-ORG
-iPhone-kampanja   	B-MISC	B-MISC
+iPhone-kampanja   		B-MISC
 on 	 	
 nyt   	 	B-TIM
 kadonnut 	 	
@@ -33940,7 +33940,7 @@ KitchenAid-tuotepaketin   	B-PRO 	B-PRO
 , 	 	
  	 	
 täydellisen 	 	
-Apple-paketin 	B-MISC 	B-MISC
+Apple-paketin 	 	B-MISC
  	 	
 , 	 	
 Samsungin   	B-ORG 	B-ORG
@@ -34589,7 +34589,7 @@ tietoturvaohjelmia
  	 	
 Keinot 	 	
 piiloutua 	 	
-Windows-tiedostojärjestelmään   	B-MISC	B-MISC
+Windows-tiedostojärjestelmään   		B-MISC
 se 	 	
 on 	 	
 saanut 	 	
@@ -34602,7 +34602,7 @@ on
 peräisin 	 	
 keino 	 	
 pyyhkiä 	 	
-Windows-tietokoneen   	B-MISC	B-MISC
+Windows-tietokoneen   		B-MISC
 Järjestelmän 	 	
 palautus 	 	
 -toiminnosta 	 	
@@ -34851,7 +34851,7 @@ enintään
 2 300 	 	
 työpaikkaa 	 	
 ja 	 	
-Salon-yksikkö   	B-MISC 	B-MISC
+Salon-yksikkö   	 	B-MISC
 suljetaan 	 	
 . 	 	
  	 	
@@ -35229,14 +35229,14 @@ sisäisessä
 tapaamisessa 	 	
 , 	 	
 että 	 	
-Reddit-käyttäjä   	B-MISC 	B-MISC
+Reddit-käyttäjä   	 	B-MISC
 nimimerkillä 	 	
 aioyama  	B-PER 	B-PER
 meni 	 	
 liian 	 	
 pitkälle 	 	
 entistä 	 	
-Mozilla-työntekijää   	B-MISC 	B-MISC
+Mozilla-työntekijää   	 	B-MISC
 koskevissa 	 	
 viesteissä 	 	
 , 	 	
@@ -35437,7 +35437,7 @@ linjasi
 . 	 	
  	 	
 <HEADLINE> 	 	
-Apple-miljonääri   	B-MISC 	B-MISC
+Apple-miljonääri   	 	B-MISC
 oli 	 	
 naistenhakkaaja 	 	
  	 	
@@ -37405,7 +37405,7 @@ roolissa
 olivat 	 	
 Nokian   	B-ORG 	B-ORG
 entiset 	 	
-Meego-osaajat   	B-MISC 	B-MISC
+Meego-osaajat   	 	B-MISC
 . 	 	
  	 	
 <BODY> 	 	
@@ -37510,7 +37510,7 @@ saattaa
 heillä 	 	
 kaikilla 	 	
 on 	 	
-Nokia-tausta   	B-MISC 	B-MISC
+Nokia-tausta   	 	B-MISC
 . 	 	
  	 	
  	 	
@@ -37541,7 +37541,7 @@ työntekijöistä
 on 	 	
 taustoiltaan 	 	
 Nokian   	B-ORG 	B-ORG
-Meego-puolelta   	B-MISC 	B-MISC
+Meego-puolelta   	 	B-MISC
 , 	 	
 Väyrynen   	B-PER 	B-PER
 sanoo 	 	
@@ -37751,7 +37751,7 @@ erityinen
 äänipiiri 	 	
 erottaa 	 	
 Marshall-puhelimen   	B-PRO 	B-PRO
-perus-Androidista 	B-MISC	B-MISC
+perus-Androidista 		B-MISC
 . 	 	
  	 	
 Puhelimessa 	 	
@@ -38378,9 +38378,9 @@ muun
 muassa 	 	
 " 	 	
 kerätä 	 	
-Nokia   	B-MISC 	B-MISC
-Wellbeing   	I-MISC 	I-MISC
--ratkaisua   	I-MISC 	I-MISC
+Nokia   	 	B-MISC
+Wellbeing   	 	I-MISC
+-ratkaisua   	 	I-MISC
 tukevaa 	 	
 tieteellistä 	 	
 materiaalia 	 	
@@ -38404,7 +38404,7 @@ Wearables   	B-PRO 	B-PRO
 " 	 	
 . 	 	
  	 	
-Wearables-sanalla 	B-MISC	B-MISC
+Wearables-sanalla 		B-MISC
 tarkoitetaan 	 	
 päälle 	 	
 puettavaa 	 	
@@ -38511,7 +38511,7 @@ Sports   	B-PRO 	B-PRO
 Tracker   	I-PRO 	I-PRO
 -sovelluksen   	I-PRO 	I-PRO
 yhtiön 	 	
-Symbian-puhelimille   	B-MISC	B-MISC
+Symbian-puhelimille   		B-MISC
 , 	 	
 joka 	 	
 mittasi 	 	
@@ -38786,7 +38786,7 @@ Suomesta   	B-LOC 	B-LOC
 . 	 	
  	 	
 Jos 	 	
-Nokia-kaupan   	B-MISC 	B-MISC
+Nokia-kaupan   	 	B-MISC
 alaskirjaus 	 	
 ja 	 	
 irtisanomisiin 	 	
@@ -38975,7 +38975,7 @@ MTV:n   	B-ORG 	B-ORG
 tietojen 	 	
 mukaan 	 	
 hallussaan 	 	
-Symbian-puhelinten   	B-MISC	B-MISC
+Symbian-puhelinten   		B-MISC
 kirjoitussalausavain 	 	
 . 	 	
  	 	
@@ -39473,7 +39473,7 @@ Reuters   	B-ORG 	B-ORG
 joka 	 	
 kuuli 	 	
 asiasta 	 	
-Toshiba-tutkinnassa   	B-MISC 	B-MISC
+Toshiba-tutkinnassa   	 	B-MISC
 mukana 	 	
 olevalta 	 	
 henkilöltä 	 	
@@ -40608,9 +40608,9 @@ edestä
 bitcoineja 	 	
 tililleen 	 	
 kesken 	 	
-Silk   	B-MISC 	B-MISC
-Road   	I-MISC 	I-MISC
--tutkinnan   	I-MISC 	I-MISC
+Silk   	 	B-MISC
+Road   	 	I-MISC
+-tutkinnan   	 	I-MISC
 . 	 	
  	 	
 Uutistoimisto 	 	
@@ -40706,7 +40706,7 @@ kuultavaa
 . 	 	
  	 	
 <HEADLINE> 	 	
-Minecraft-miljardööri   	B-MISC 	B-MISC
+Minecraft-miljardööri   	 	B-MISC
 tilittää 	 	
 : 	 	
 Rahalla 	 	
@@ -40738,7 +40738,7 @@ valaisi
 avoimesti 	 	
 ajatuksiaan 	 	
 useissa 	 	
-Twitter-viesteissä   	B-MISC 	B-MISC
+Twitter-viesteissä   	 	B-MISC
 lauantaina   	 	B-TIM
 . 	 	
  	 	
@@ -40902,7 +40902,7 @@ ohitse
 Lauantain   	 	B-TIM
 jälkeen   	 	I-TIM
 hänen 	 	
-Twitter-viestinsä   	B-MISC 	B-MISC
+Twitter-viestinsä   	 	B-MISC
 ovat 	 	
 olleet 	 	
 iloisempia 	 	
@@ -41238,14 +41238,14 @@ näitä
 tulee 	 	
 : 	 	
 Kaksi 	 	
-Nokia-peruspuhelinta   	B-MISC 	B-MISC
+Nokia-peruspuhelinta   	 	B-MISC
 julkaistiin 	 	
  	 	
 <DATE> 	 	
 25.8.2015 16:53 	 	
  	 	
 <INGRESS> 	 	
-Nokia-nimellä   	B-MISC 	B-MISC
+Nokia-nimellä   	 	B-MISC
 varustettuja 	 	
 peruspuhelimia 	 	
 tulee 	 	
@@ -41263,7 +41263,7 @@ on
 julkistanut 	 	
 kaksi 	 	
 edullista 	 	
-Nokia-peruspuhelinta   	B-MISC 	B-MISC
+Nokia-peruspuhelinta   	 	B-MISC
 . 	 	
  	 	
 Molemmat 	 	
@@ -42528,7 +42528,7 @@ siitä
 että 	 	
 muun 	 	
 kuin 	 	
-lippulaiva-Androidin  	B-MISC 	B-MISC
+lippulaiva-Androidin  	 	B-MISC
 ostaja 	 	
 saattaa 	 	
 jäädä 	 	
@@ -43045,7 +43045,7 @@ prosenttiin
 . 	 	
  	 	
 <HEADLINE> 	 	
-IPhone-omistajat   	B-MISC 	B-MISC
+IPhone-omistajat   	 	B-MISC
 pääsevät 	 	
 " 	 	
 koeajamaan 	 	
@@ -43071,7 +43071,7 @@ Test   	I-PRO 	I-PRO
 Drive   	I-PRO 	I-PRO
 -kampanja   	I-PRO 	I-PRO
 vokottelee 	 	
-iPhone-käyttäjiä   	B-MISC 	B-MISC
+iPhone-käyttäjiä   	 	B-MISC
 vaihtamaan 	 	
 leiriä 	 	
 . 	 	
@@ -43085,7 +43085,7 @@ Ultimate   	B-PRO 	B-PRO
 Test   	I-PRO 	I-PRO
 Drive   	I-PRO 	I-PRO
 sallii 	 	
-iPhone-omistajien   	B-MISC 	B-MISC
+iPhone-omistajien   	 	B-MISC
 kokeilla 	 	
 yhtä 	 	
 useammasta 	 	
@@ -43390,7 +43390,7 @@ eteenpäin
 . 	 	
  	 	
 <HEADLINE> 	 	
-Android-kello   	B-MISC	B-MISC
+Android-kello   		B-MISC
 sai 	 	
 interaktiivisen 	 	
 , 	 	
@@ -43518,7 +43518,7 @@ Katso
 interaktiivisia 	 	
 kellotauluja 	 	
 esittelevä 	 	
-Youtube-video   	B-MISC 	B-MISC
+Youtube-video   	 	B-MISC
 alta 	 	
 . 	 	
  	 	
@@ -43580,7 +43580,7 @@ vielä
 antaa 	 	
 yhteystiedot 	 	
 ja 	 	
-Apple-tunnus   	B-MISC 	B-MISC
+Apple-tunnus   	 	B-MISC
 esittelijälle 	 	
 ennen 	 	
 kuin 	 	
@@ -48402,7 +48402,7 @@ on
 puheenparsi 	 	
 " 	 	
  	 	
-Stubb-viharyhmä   	B-MISC 	B-MISC
+Stubb-viharyhmä   	 	B-MISC
 saa 	 	
 jatkaa 	 	
 Facebookissa   	B-PRO 	B-PRO
@@ -49210,7 +49210,7 @@ väärinkäsitykseen
 . 	 	
  	 	
 Suomessa 	 	
-Molotov-sana 	B-MISC	B-MISC
+Molotov-sana 		B-MISC
 tarkoittaa 	 	
 yksiselitteisesti 	 	
 Stalinin   	B-PER 	B-PER
@@ -49277,7 +49277,7 @@ johtanutta
 ulkoministeri   	B-TIT 	B-TIT
 Molotovia   	B-PER 	B-PER
 pidetään 	 	
-Suomen-syöjistä   	B-MISC 	B-MISC
+Suomen-syöjistä   	 	B-MISC
 pahimpina 	 	
 . 	 	
  	 	
@@ -50488,7 +50488,7 @@ Uuteen-Seelantiin   	B-LOC 	B-LOC
 kuuluvalla 	 	
 Cookinsaarilla   	B-LOC 	B-LOC
 asuva 	 	
-Windows-käyttäjä 	B-MISC	B-MISC
+Windows-käyttäjä 		B-MISC
 kertoo 	 	
 elokuun   	B-DATE 	B-TIM
 internetlaskunsa 	 	
