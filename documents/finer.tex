@@ -566,9 +566,10 @@ ALL & 82.77 & 82.08 & 82.42
 %\label{sec: discussion}
 
 
-First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75.  
+First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75. According to manual inspection, we note that this appears to be largely due to difficulties in differentiating between English company, product, and person names which are abundant in the data.   
 
-Second, it appears that product names are challenging to learn compared to, for example, organizations and locations. This is somewhat expected since comprehensive gazetteers of product names were found difficult to create. In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious.
+Second, it appears that product names are challenging to learn compared to, for example, organizations and locations.
+This is somewhat expected since comprehensive gazetteers of product names were found difficult to create?  In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious?
 
 Third, dates and titles appear to be the easiest classes to learn. This is expected since they form the most restricted classes according to the annotation guideline discussed in Section \ref{sec: named entities}.
 
