@@ -98,17 +98,15 @@
 \section{Introduction}
 \label{sec: introduction}
 
-Named entity recognition (NER) is a fundamental textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. While the NER task was originally proposed already in the early 1990s, novel systems and techniques are developed and published in the natural language processing community continuously \citep{lample2016,}.
+Named entity recognition (NER) is a fundamental textual information extraction task, in which the aim is to locate and classify named entity expressions into pre-defined classes \citep{nadeau2007}. The set of classes typically include such entities as \textit{persons}, \textit{locations}, and \textit{organizations}. While the core NER task as known today was originally proposed already in the late 1990s \citep{grishman1996}, developing novel NER systems and techniques continues to be an active field of research in natural language processing to this day \citep{lample2016,strauss2016,leaman2016,nguyen2016,van2017}.
 
 %The extracted entities can be utilized in a straightforward manner, for example, when indexing articles in a document database \citep{neudecker2016}. On the other hand, the extraction is often employed as a preprocessing step in a more complex language processing pipeline. For example, consider relation extraction \citep{}, machine translation \citep{}, and \citep{}.
 
 %Development of automatic NER systems requires manually annotated data. In addition to evaluation of systems, the data is employed to train models with machine learning techniques. Such data resources are currently available for multiple Western languages, with the earliest sets published as early as the 1990s. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
 
-Development of automatic NER systems requires manually annotated data. In addition to evaluation of systems, the data is employed to train models with machine learning techniques. Such data resources are currently available for multiple Western languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
+Development of automatic NER systems requires manually annotated data. In addition to evaluate system performances, the data is employed to train models with machine learning techniques. Such data resources are currently available for multiple Western languages. For example, consider work on English \citep{grishman1996,tjong2003}, German \citep{tjong2003,faruqui2010,benikova2014}, Swedish \citep{dalianis2001,kokkinakis2014}, and French \citep{petasis2001,poibeau2003}. 
 
-In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. To our knowledge, this is the first freely available NER corpus published for Finnish.
-
-In addition to providing a description, we examine the corpus empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results provide a baseline for future NER systems developed using the corpus.
+In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available and can be readily used for development of NER systems for Finnish. To our knowledge, this is the first freely available NER corpus published for Finnish. Moreover, in addition to providing a description of the corpus, we examine it empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results obtained using the system provide a baseline for future NER systems developed using the corpus.
 
 %While early research on NER utilized rule-based systems, majority of the work has focused on statistical machine learning. In particular, NER is most often viewed as a sequential prediction problem with several proposed statistical modeling approaches, including voted perceptron \citep{}, conditional random fields \citep{}, and cyclic dependencies \citep{}. Nervetheless, some recent work has been conducted on rule-based systems as well \citep{kokkinakis2014,kettunen2016a}. 
 
@@ -131,7 +129,7 @@ In addition to providing a description, we examine the corpus empirically using 
 
 % we present a statistical named entity recognition system for Finnish. The system learns to perform the recognition from the annotated corpus utilizing the efficient structured perceptron algorithm \citep{collins2002}. The system is bundled with the recently published Finnish morphological annotation toolkit, FinnPos \citep{silfverberg2016}, and is freely available.
 
-The rest of the paper is organized as follows. We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer \citep{} in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
+The rest of the paper is organized as follows. We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -139,7 +137,7 @@ The rest of the paper is organized as follows. We first describe the corpus in S
 \section{Corpus}
 \label{sec: corpus}
 
-In this section, we describe the text material, the set of named entity classes, and the annotation process. When appropriate, we provide context for our specific choices using examples of NER corpora published for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
+In this section, we describe the corpus in terms of chosen text material, set of named entity classes, and annotation process. When appropriate, we provide context for our specific choices using examples of NER corpora published for English, German, and Swedish \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014}.
 
 \subsection{Text}
 \label{sec: text}
@@ -427,10 +425,11 @@ TOTAL & 23,826 & 100.1 \\
 
 In addition to the manually prepared named entity annotation, our corpus includes a set of gazetteers which map words into categories. For example, ''Samsung'' is mapped into the category ''yritys'' (''company'') and''Nokia'' into the categories''yritys'' and ''Suomen kunta'' (''Finnish town''). The categories are extracted from the info boxes of Finnish Wikipedia articles in an automatic manner.
 
+\fixme{more information}
 
 \subsection{File Format}
 
-The data is presented in a two-column file format using the standard BIO notation. For example, consider the following sentence ''Applen Tim Cook myy iPhoneja suomalaisille.'' (''Apple's Tim Cook sells iPhones to the Finnish.''):
+The data is presented in a two-column file format using the standard BIO notation with an empty line separating sentences. For example, consider the following sentence ''Applen Tim Cook myy iPhoneja suomalaisille.'' (''Apple's Tim Cook sells iPhones to the Finnish.''):
 %\begin{table}[h!]
 %\begin{small}
 \begin{center}
@@ -509,7 +508,7 @@ As presented in Section \ref{sec: annotation statistics},  the complete corpus c
 \subsection{Stanford Named Entity Recognizer}
 \label{sec: stanford named entity recognizer}
 
-The Stanford Named Entity Recognizer \citep{finkel2005} is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. We use a wide range of substring, word context and orthography features. In addition, we use the gazetteers described in Section \ref{sec: gazetteers} as well as a gazetteer containing the lemmas and morphological tags yielded by the FinnPos tagger.\footnote{See the configuration file} The morphological tagger FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}, of which we employ the latter. 
+The Stanford Named Entity Recognizer \citep{finkel2005} is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme specification, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. We use a wide range of substring, word context and orthography features. In addition, we use the gazetteers described in Section \ref{sec: gazetteers} as well as a gazetteer containing the lemmas and morphological tags yielded by the FinnPos tagger.\footnote{See the configuration file} The morphological tagger FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}, of which we employ the latter. 
 
 
 
