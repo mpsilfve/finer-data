@@ -8,6 +8,7 @@ def get_elem_type(string):
 
 def get_elements(data):
     elems = set()
+    uelems = set()
     elem_start = -1
     elem_type = None
     for i, e in enumerate(data):
@@ -23,15 +24,17 @@ def get_elements(data):
                 if elem_start != -1:
                     if not elem_type in discard_types:
                         elems.add((elem_start, i, elem_type))
+                        uelems.add((elem_start, i))
                 elem_start = i
                 elem_type = get_elem_type(label)
             elif label == 'O':
                 if elem_start != -1:
                     if not elem_type in discard_types:
                         elems.add((elem_start, i, elem_type))
+                        uelems.add((elem_start, i))
                 elem_start = -1
                 elem_type = None
-    return elems
+    return elems, uelems
 
 if len(argv) != 2:
     stderr.write('%s tagged_file\n' % argv[0])
@@ -51,8 +54,8 @@ for line in data:
         sys_data.append((wf, sys_label))
         gold_data.append((wf, gold_label))
 
-sys_elems = get_elements(sys_data)
-gold_elems = get_elements(gold_data)
+sys_elems, sys_uelems = get_elements(sys_data)
+gold_elems, gold_uelems = get_elements(gold_data)
 
 sys_found_counts = ddict(lambda : 0.0)
 gold_found_counts = ddict(lambda : 0.0)
@@ -62,6 +65,10 @@ sys_found_count = 0.0
 gold_found_count = 0.0
 sys_count = 0
 gold_count = 0
+sys_found_ucount = 0.0
+gold_found_ucount = 0.0
+sys_ucount = 0
+gold_ucount = 0
 for elem in sys_elems:
     if elem in gold_elems:
         sys_found_counts[elem[2]] += 1
@@ -69,12 +76,23 @@ for elem in sys_elems:
     sys_counts[elem[2]] += 1
     sys_count += 1
 
+for uelem in sys_uelems:
+    if uelem in gold_uelems:
+        sys_found_ucount += 1
+    sys_ucount += 1
+
 for elem in gold_elems:
     if elem in sys_elems:
         gold_found_counts[elem[2]] += 1
         gold_found_count += 1
     gold_counts[elem[2]] += 1
     gold_count += 1
+
+for uelem in gold_uelems:
+    if uelem in sys_uelems:
+        gold_found_ucount += 1
+    gold_ucount += 1
+
 print('\\documentclass{article}')
 print('\\begin{document}')
 print('\\begin{tabular}{l|ccc}')
@@ -91,6 +109,13 @@ precision = 100*sys_found_count / sys_count
 f = 2 * precision * recall / (precision + recall)
 print('\\hline')
 print('%s & %.2f & %.2f & %.2f' % ('ALL', precision, recall, f))
+
+urecall = 100*gold_found_ucount / gold_ucount
+uprecision = 100*sys_found_ucount / sys_ucount
+uf = 2 * uprecision * urecall / (uprecision + urecall)
+print('\\hline')
+print('%s & %.2f & %.2f & %.2f' % ('UALL', uprecision, urecall, uf))
+
 print('\\end{tabular}')
 print()
 
@@ -122,3 +147,4 @@ for gold_label in sorted(confusions.keys()):
     stdout.write('\\\\\n')
 print('\\end{tabular}')
 print('\\end{document}')
+
