@@ -566,12 +566,14 @@ ALL & 82.77 & 82.08 & 82.42
 %\label{sec: discussion}
 
 
-First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75. According to manual inspection, we note that this appears to be largely due to difficulties in differentiating between English company, product, and person names which are abundant in the data.   
+First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75. According to manual inspection, this appears to be largely due to the system's difficulty in differentiating between English person names from English company and product names which are abundant in the data. 
 
-Second, it appears that product names are challenging to learn compared to, for example, organizations and locations.
-This is somewhat expected since comprehensive gazetteers of product names were found difficult to create?  In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious?
+%Similarly, the low F1-score of 71.55 obtained for product names stems from a difficulty of differentiating product names from organization and person names . However, these difficulties are not reflected in the F1-score obtained for organization names since the organization name class is disctinctly the largest and is elevated by a relatively few, easily recognizable company names, such as ''Apple'' and ''Google''.  
 
-Third, dates and titles appear to be the easiest classes to learn. This is expected since they form the most restricted classes according to the annotation guideline discussed in Section \ref{sec: named entities}.
+Second, product names are challenging to learn compared to, for example, organizations and locations. This is because, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious.
+%This is somewhat expected since comprehensive gazetteers of product names were found difficult to create?  In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious?
+
+Third, dates and titles appear to be the easiest classes to learn. This is somewhat expected since they form the most restricted classes according to the annotation guideline discussed in Section \ref{sec: named entities}.
 
 Finally, we note that the results concerning the event class should be ignored since the small amount of annotated entities (see the class statistics in Table \ref{tab: statistics})) does not enable reliable evaluation. 
 
