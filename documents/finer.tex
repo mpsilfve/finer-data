@@ -355,7 +355,7 @@ In the following, we address some general aspects of the annotation.
 
 \paragraph{Multi-Word Entities and Nesting}
 
-The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' would be marked as an organization while its sub-part ''Manchester'' would be marked as a location.  In our annotation, however, we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous work, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
+The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' is marked as an organization while its sub-part ''Manchester'' is marked as a location.  In our annotation, however, we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous work, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
 
 \paragraph{Derivation and Compounding}
 
@@ -370,7 +370,7 @@ This rule also generalizes to multiple tokens: for example, consider '\textbf{Wi
 
 \paragraph{Expression \textit{-niminen}}
 	
-Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' would be marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the brand Tesla) and ''Samsung-mallinen puhelin'' (a phone of the model Samsung). 
+Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' is marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of mark) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the brand Tesla) and ''Samsung-mallinen puhelin'' (a phone of the model Samsung). 
 
 
 \subsection{Annotation Process}
