@@ -1,3 +1,5 @@
+# this is obsolete
+
 # -*- coding: utf-8 -*-
 
 import sys
@@ -9,7 +11,6 @@ import re
 
 reload(sys)
 sys.setdefaultencoding('UTF-8')
-
 
 # loop files in directory sys.argv[1]
 
@@ -24,7 +25,7 @@ for file_in in files:
     data_in = list(csv.reader(open(sys.argv[1] + '/' + file_in, 'rb'), delimiter='\t', quotechar='', quoting=csv.QUOTE_NONE, escapechar=''))
     word_index = int(sys.argv[2]) # which column to write out (counting from zero)
     
-    print '<FILENAME>' + '\n' + file_in[:-4] + '\n'
+    print '<FILENAME>' + '\t' + file_in[:-4] + '\n'
 
     for line_index in range(0, len(data_in)):
 

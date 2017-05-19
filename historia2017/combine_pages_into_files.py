@@ -1,3 +1,6 @@
+# this is obsolete
+
+
 import sys
 #import os.path
 import os

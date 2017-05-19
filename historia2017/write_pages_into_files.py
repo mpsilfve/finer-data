@@ -29,8 +29,8 @@ for line in data:
         line_num = 1
         continue
 
-    page_index = line[0]
-    year = line[29]
+    page_index = line[3]
+    year = line[1]
     
     if page_index != prev_page_index and page_data == None:
 
