@@ -12,13 +12,13 @@ for line in sys.stdin:
 
     if len(line) == 1:
 
-        word = line[0]
+        word = line[0].strip()
         tag = ''
 
     else:
 
-        word = line[0]
-        tag = line[1]
+        word = line[0].strip()
+        tag = line[1].strip()
 
     words.append(word.strip())
 
@@ -26,8 +26,14 @@ for line in sys.stdin:
 
     if tag == '':
 
-        tags.append('O')
+        if word != '':
 
+            tags.append('O')
+
+        else:
+            
+            tags.append('')
+            
     elif tag[0] == 'B':
 
         tags.append('B-' + tag[1:])
@@ -61,19 +67,24 @@ for i in range(len(words)-1):
     next_word = words[i+1]
     next_tag = tags[i+1]
 
-    if prev_word == '<FILENAME>' or next_word == '<FILENAME>' or this_word == '<FILENAME>':
+#    if prev_word == '<FILENAME>' or next_word == '<FILENAME>' or this_word == '<FILENAME>':
 
-        continue
+#        print this_word + '\t' + this_tag
+#        print
+#        continue
 
-    elif this_word == '':
+    if this_word == '':
 
         this_tag = ''
+        continue
+
+    else:
 
 #    elif this_tag == '':
 
 #        this_tag = 'O'
 
-    print this_word + '\t' + this_tag
+        print this_word + '\t' + this_tag
 
 
     

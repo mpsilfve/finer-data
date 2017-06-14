@@ -2,9 +2,9 @@
 \cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Helvetica;
 \f3\fnil\fcharset0 Menlo-Regular;\f4\froman\fcharset0 Times-Roman;}
 {\colortbl;\red255\green255\blue255;\red25\green25\blue25;\red87\green87\blue87;\red66\green66\blue66;
-}
+\red0\green0\blue0;\red255\green255\blue255;}
 {\*\expandedcolortbl;;\csgenericrgb\c9804\c9804\c9804;\csgenericrgb\c34118\c34118\c34118;\csgenericrgb\c25882\c25882\c25882;
-}
+\csgray\c0;\csgray\c100000;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww27040\viewh13560\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
@@ -317,7 +317,7 @@ Samantyyppinen ongelma kuin yl\'e4puolella. Eli pit\'e4isk\'f6 olla ORG ORG vai 
 \
 \
 Viimeinen rivi: 
-\f2 \CocoaLigature1 250469\
+\f2 \CocoaLigature1 250331\
 
 \f0 \CocoaLigature0 \
 \
@@ -326,6 +326,39 @@ Kokeile opettaa Stanford:\
 1. Nykyinen groundtruth.csv\
 2. Pienennetty erikoismerkkisetti ("; pois)\
 3. Pienennetty erikoismerkkisetti, lyhenteet pois, lauserajat (tyhj\'e4t rivit) pois\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f3\fs22 \cf5 \cb6 Invoked on Mon Jun 12 19:42:55 EEST 2017 with arguments: -loadClassifier model.ser.gz -testFile devel.csv\
+testFile=devel.csv\
+loadClassifier=model.ser.gz\
+Loading classifier from model.ser.gz ... done [9.0 sec].\
+CRFClassifier tagged 59361 words in 3600 documents at 3536.13 words per second.\
+         Entity	P	R	F1	TP	FP	FN\
+              ?	0.0000	0.0000	0.0000	0	0	1\
+            LOC	0.7582	0.7869	0.7723	831	265	225\
+           MISC	0.0000	0.0000	0.0000	0	0	4\
+             OC	0.0000	0.0000	0.0000	0	0	1\
+            ORG	0.7611	0.3663	0.4946	137	43	237\
+            PER	0.8178	0.6905	0.7488	781	174	350\
+         Totals	0.7840	0.6813	0.7291	1749	482	818\
+make: *** No rule to make target `model_reducedspecialchars.ser.gz'.  Stop.\
+Invoked on Mon Jun 12 19:43:22 EEST 2017 with arguments: -loadClassifier model.ser.gz -testFile devel_reducedspecialchars.csv\
+testFile=devel_reducedspecialchars.csv\
+loadClassifier=model.ser.gz\
+Loading classifier from model.ser.gz ... done [9.6 sec].\
+CRFClassifier tagged 56898 words in 3600 documents at 3558.13 words per second.\
+         Entity	P	R	F1	TP	FP	FN\
+              ?	0.0000	0.0000	0.0000	0	0	1\
+            LOC	0.7563	0.7907	0.7731	835	269	221\
+           MISC	0.0000	0.0000	0.0000	0	0	4\
+             OC	0.0000	0.0000	0.0000	0	0	1\
+            ORG	0.7778	0.3743	0.5054	140	40	234\
+            PER	0.8259	0.7003	0.7579	792	167	339\
+         Totals	0.7878	0.6884	0.7347	1767	476	800
+\f0\fs24 \cf0 \cb1 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
 \
 \
 }
