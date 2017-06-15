@@ -20,32 +20,37 @@ for line in sys.stdin:
         word = line[0].strip()
         tag = line[1].strip()
 
-    words.append(word.strip())
+    if word == '\xc2\x97' or word == '':
+        continue
 
-    tag = tag.strip().upper()
+    words.append(word)
 
-    if tag == '':
+#    tag = tag.upper()
 
-        if word != '':
+    if tag in ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'B-MISC', 'I-MISC']:
 
-            tags.append('O')
+        tags.append(tag)
 
-        else:
+    elif word == '<FILENAME>':
+
+        tags.append(tag)
+
+    elif tag == '':
+
+        tags.append('') # OUTSIDE
             
-            tags.append('')
-            
-    elif tag[0] == 'B':
+    elif tag[0].upper() == 'B':
 
-        tags.append('B-' + tag[1:])
-        tag = tag[1:]
+        tags.append('B-' + tag[1:].upper())
+#        tag = tag[1:]
 
     elif tag != prev_tag:
 
-        tags.append('B-' + tag)
+        tags.append('B-' + tag.upper())
 
     else:
 
-        tags.append('I-' + tag)
+        tags.append('I-' + tag.upper())
 
     prev_tag = tag
 
@@ -54,18 +59,16 @@ tags.append('<NONE>')
 
 
 
-
-
 for i in range(len(words)-1):
 
-    prev_word = words[i-1]
-    prev_tag = tags[i-1]
+#    prev_word = words[i-1]
+#    prev_tag = tags[i-1]
 
     this_word = words[i]
     this_tag = tags[i]
 
-    next_word = words[i+1]
-    next_tag = tags[i+1]
+#    next_word = words[i+1]
+#    next_tag = tags[i+1]
 
 #    if prev_word == '<FILENAME>' or next_word == '<FILENAME>' or this_word == '<FILENAME>':
 
@@ -73,18 +76,16 @@ for i in range(len(words)-1):
 #        print
 #        continue
 
-    if this_word == '':
+#        this_tag = ''
+#        continue
 
-        this_tag = ''
-        continue
-
-    else:
+#    else:
 
 #    elif this_tag == '':
 
 #        this_tag = 'O'
 
-        print this_word + '\t' + this_tag
+    print this_word + '\t' + this_tag
 
 
     
