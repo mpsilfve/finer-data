@@ -10,6 +10,8 @@ for line in sys.stdin:
 
     line = line.strip().split('\t')
 
+    print line
+
     if len(line) == 1:
 
         word = line[0].strip()
@@ -20,7 +22,7 @@ for line in sys.stdin:
         word = line[0].strip()
         tag = line[1].strip()
 
-    if word == '\xc2\x97' or word == '':
+    if word == '\xc2\x97' or word == '\xc2\x84' or word == '':
         continue
 
     words.append(word)
@@ -57,7 +59,7 @@ for line in sys.stdin:
 words.append('<NONE>')
 tags.append('<NONE>')
 
-
+exit()
 
 for i in range(len(words)-1):
 
