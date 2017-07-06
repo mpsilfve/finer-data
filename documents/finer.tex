@@ -144,7 +144,7 @@ In this section, we describe the corpus in terms of chosen text material, set of
 
 The text material is extracted from the archives of Digitoday, a Finnish online technology news source.\footnote{See \url{www.digitoday.fi}.} The material covers a variety of technology related topics, such as business, science, and information security.  The material is extracted from articles published between years 2014 and 2015. The extracted text contains 1,194 articles (260,637 word tokens) in total. 
 %In comparison, the English and German sections of the CoNLL-2003 data set \citep{tjong2003} contain X and Y word tokens in total, respectively. 
-In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. 
+In addition to raw word forms, the corpus includes meta data describing the publishing date of the articles and if the word tokens belong to a headline, an ingress, or an article body. Figures, tables, and respective captions were not included in the corpus.
 
 
 \subsection{Named Entities}
@@ -377,8 +377,12 @@ Written Finnish regularly employs a type of expression, in which a name is assoc
 
 %In order to annotate the text described in Section \ref{sec: text} using the named entities described in Section \ref{sec: named entities}, we first divide the text into two parts, training and test sections. In the training section, we include all articles published during 2014, while the test section consists of articles published in 2015. The resulting training and test sections contain xx and yy word tokens, respectively. Subsequently, the training section is annotated by a single annotator (Annotator A). Meanwhile, annotation of the test section is carried out by three annotators (Annotator A, Annotator B, and Annotator C). Specifically, the section is first annotated independently by Annotators A and B. Subsequently, found conflicts are resolved using the majority vote principle by Annotator C. The purpose of this three-stage procedure is to ensure a high test set quality.
 
-The annotation process was performed iteratively by in total four annotators. In other words, the annotation and annotation guideline were defined and improved during multiple passes over the data set. The annotation was performed over a span of one year.
+% The annotation process was performed iteratively by in total four annotators. In other words, the annotation and annotation guideline were defined and improved during multiple passes over the data set. The annotation was performed over a span of one year.
 
+The annotation was performed iteratively by a group of three people as follows. First, the group created an initial annotation guideline based on literature. Then, the material was annotated using this guideline. The annotation was performed by a single annotator. Subsequently, the guideline and annotation were revised by the group for two more iterations.   
+
+
+in total four annotators. In other words, the annotation and annotation guideline were defined and improved during multiple passes over the data set. The annotation was performed over a span of one year.
 
 
 % Specifically, the section is first annotated by Annotator A. Subsequently, the annotation is proof read by Annotator B. Found conflicts are then resolved using the majority vote principle by all Annotators A, B, and C.
@@ -409,7 +413,7 @@ TITLE & 759 & 3.2 \\
 EVENT & 110 & 0.5\\
 \hline
 \noalign{\smallskip}
-TOTAL & 23,826 & 100.1 \\
+TOTAL & 23,826 & 100.0 \\
 \end{tabular}
 \end{center}
 % \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
