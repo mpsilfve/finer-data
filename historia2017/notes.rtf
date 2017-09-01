@@ -361,6 +361,24 @@ Totals	0.9528	0.9054	0.9285	0	0\
 \
 \
 \
+Proseduuri:\
+\
+0. Kopioi groundtruth6.csv -> groundtruth7.csv (ilman nestausta eli cut -f 1,2)\
+1. Poista grountruth7.csv:st\'e4 erikoismerkit lukuunottamatta piste, pilkku, kaksoispiste, kysymysmerkki, huutomerkki\
+2. Ker\'e4\'e4 tiedostonimet listaan groundtruth7.csv:st\'e4, poista tiedostonimet \
+3. Opeta Stanford groundtruth7.csv:ll\'e4\
+4. Ker\'e4\'e4 tesseract-tulokset yhteen tiedostoon tmp. Poista erikoismerkit kuten 1., tokenisoi\
+5. Aja Stanford tmp:ille > annotoitu tesseract.csv\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 \

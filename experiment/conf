@@ -1,4 +1,4 @@
-trainFile = train+dev
+trainFile = dataset/digitoday.train+dev
 serializeTo = finer-model.ser.gz
 map = word=0,answer=1,lemma=2,tag=3
 useGenericFeatures=true
