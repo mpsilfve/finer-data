@@ -45698,7 +45698,7 @@ rahasto
 .		
 Wastattawaa		
 :		
-Säästöpankin		
+Säästöpankin	B-ORG	
 welka		
 149		
 :		
@@ -45750,7 +45750,7 @@ kanssa
 :		
 49		
 .		
-Säästöpankin		
+Säästöpankin	B-ORG	
 welka		
 156		
 :		
@@ -45768,7 +45768,7 @@ Summa
 :		
 79		
 .		
-Säästöpankin		
+Säästöpankin	B-ORG	
 warat		
 wuoden1869		
 lopulla		
@@ -109035,7 +109035,7 @@ Hypoteekiyhtiön	B-ORG
 welka-		
 83,84		
 .		
-Yhdyspankin		
+Yhdyspankin	B-ORG	
 osakk.s-100		
 108		
 ,		
@@ -133469,7 +133469,7 @@ osakkeet
 400		
 Etelä-Suomen	B-LOC	
 ivayhtiön		
-Yhdyspankin		
+Yhdyspankin	B-ORG	
 osakkeet		
 höyrylaiwayh-		
 tiön		
@@ -134081,7 +134081,7 @@ ja
 Lybeäin	B-LOC	
 wälillä		
 .		
-Yhdyspankki		
+Yhdyspankki	B-ORG	
 ilmoittaa		
 ,		
 että		
@@ -160727,9 +160727,9 @@ Tieteellistä
 28:ssa		
 osassa		
 englantilaista		
-British	B-PER	
-Gynaecological	I-PER	
-journal		
+British	B-ORG	
+Gynaecological	I-ORG	
+journal	I-ORG	
 nimistä		
 aikakauskirjaa		
 on		
@@ -160742,8 +160742,8 @@ Engströmin	I-PER
 tekemä		
 tutkimus		
 of		
-Prolapsed	B-PER	
-Urmas	I-PER	
+Prolapsed		
+Urmas		
 .		
 Sama		
 tutkimus		
@@ -160755,11 +160755,11 @@ wihkoon
 aikakauskirjaa		
 .		
 .		
-Annales	B-ORG	
-Gyncolcgie	I-ORG	
-et	I-ORG	
-dObst-	I-ORG	
-Kirjoituksen	I-ORG	
+Annales		
+Gyncolcgie		
+et		
+dObst-		
+Kirjoituksen		
 on		
 aikakauskirjan		
 toimitus		
@@ -161174,8 +161174,8 @@ m
 .		
 1885		
 .		
-Maariauhaminaii		
-kylpylaitos		
+Maariauhaminaii	B-ORG	
+kylpylaitos	I-ORG	
 .		
 Alilääkäriksi		
 Maarianhaminan	B-ORG	
@@ -161303,7 +161303,7 @@ Alfred	B-PER
 :		
 ,		
 .		
-Selin		
+Selin	B-PER	
 s		
 .		
 myynyt		
@@ -161346,7 +161346,7 @@ waarallisesti
 .		
 Comeaiukseii		
 juhla		
-Pray,issiu	B-LOC	
+Pray,issiu		
 Pragista	B-LOC	
 ,		
 28		
@@ -161375,7 +161375,7 @@ oli
 sytytetty		
 ilotulia		
 .		
-Peeussin		
+Peeussin	B-LOC	
 uuden		
 pääministeri		
 selitys		
@@ -161585,8 +161585,8 @@ p
 .		
 maalisk		
 .		
-Frei-	B-ORG	
-Zeitung	I-ORG	
+Frei-		
+Zeitung		
 makuuttaa		
 ,		
 että		
@@ -161749,7 +161749,7 @@ Norjassa	B-LOC
 ja		
 Wenäjällä	B-LOC	
 .		
-NeioYorkin		
+NeioYorkin	B-LOC	
 rahamiehet		
 owat		
 tehtäwäkseen		
@@ -161774,7 +161774,7 @@ Eräs
 Gale	B-PER	
 Jndianopolissa	B-LOC	
 ,		
-YHdyswalloissa		
+YHdyswalloissa	B-LOC	
 sai		
 äskettäin		
 eräältä		
@@ -161961,7 +161961,7 @@ jo
 warmaan		
 tiedossa		
 .		
-Kannista	B-LOC	
+Kannista		
 tieltä		
 .		
 Antiokian	B-LOC	
@@ -162500,8 +162500,8 @@ rohoot
 Kansakoulu		
 on		
 yhteinen		
-Karhulan		
-sahan		
+Karhulan	B-ORG	
+sahan	I-ORG	
 kanssa		
 .		
 Sen		
@@ -162647,7 +162647,7 @@ maassamme
 .		
 IU		
 .		
-Suomettaren		
+Suomettaren	B-ORG	
 Toimitukselle		
 .		
 Porwoon	B-LOC	
@@ -162919,7 +162919,7 @@ itäisenlaskuhaa-
 kautta		
 wesiään		
 .		
-Kotiaan	B-LOC	
+Kotiaan		
 on		
 wesitietä		
 3		
@@ -163662,8 +163662,8 @@ työnsä
 hedelmä		
 ,		
 että		
-Suomen	B-LOC	
-kansakoululaitoksella		
+Suomen	B-ORG	
+kansakoululaitoksella	I-ORG	
 ma		
 74		
 .		
@@ -164247,7 +164247,7 @@ mitään
 rahallista		
 apua		
 jos		
-Keski-Sawoa		
+Keski-Sawoa	B-LOC	
 warten		
 aiottu		
 kansanopisto		
@@ -165437,8 +165437,8 @@ suonialaisessa
 asussa		
 saman		
 tekijän		
-Wiimeinen	B-MISC	
-Mohikaaiii	I-MISC	
+Wiimeinen		
+Mohikaaiii		
 .		
 Kun		
 emme		
@@ -165574,8 +165574,8 @@ Päiwärinta	I-PER
 julkaissut		
 kolmannen		
 wihkon		
-Elämänsä	B-MISC	
-hawuinnoita	I-MISC	
+Elämänsä		
+hawuinnoita		
 .		
 Kuten		
 ennenkin		
@@ -165617,8 +165617,8 @@ surullisesta
 waikutuksesta		
 ,		
 nimitetty		
-Tahdon	B-MISC	
-ivoima	I-MISC	
+Tahdon		
+ivoima		
 ,		
 koska		
 tämän		
@@ -165725,8 +165725,8 @@ Toisen
 kertomuksen		
 nimi		
 on		
-Puutteen	B-MISC	
-Matti	I-MISC	
+Puutteen		
+Matti		
 .		
 Matti	B-PER	
 on		
@@ -165872,7 +165872,7 @@ tullitetaan
 maksetaan		
 kuitenkin		
 Turun	B-LOC	
-kuupungille		
+kuupungille	I-LOC	
 n		
 .		
 s		
@@ -166005,8 +166005,8 @@ yliopiston	I-ORG
 lainopilliselta		
 tiedekunnalta		
 on		
-Wenäjän	B-LOC	
-oikeustninisteristö		
+Wenäjän	B-ORG	
+oikeustninisteristö	I-ORG	
 pyytänyt		
 siellä		
 tehdystä		
@@ -166020,7 +166020,7 @@ U
 .		
 S		
 .		
-Yliopisto		
+Yliopisto	B-ORG	
 .		
 Lakitiedekunta		
 hywäksyi		
@@ -166353,8 +166353,8 @@ Yli-
 Helsingin	B-LOC	
 kaupungin	I-LOC	
 ja		
-Hämeen-		
-läänin		
+Hämeen-	B-LOC	
+läänin	I-LOC	
 asukkaita		
 sekä		
 Teitä		
@@ -166536,8 +166536,8 @@ Pietarin	B-LOC
 Riihimäen	I-LOC	
 linjalla	I-LOC	
 käy-		
-Kullerwon	B-MISC	
-Ruttot	I-MISC	
+Kullerwon		
+Ruttot		
 .		
 Kirjakauppaan		
 ilniestyuyt		
@@ -166604,7 +166604,7 @@ lisiä
 KulIertvo		
 wielä		
 piili		
-Kalewalan	B-MISC	
+Kalewalan		
 toisen		
 pai-		
 ilmitulou		
@@ -166680,8 +166680,8 @@ on
 ilmautunut		
 :		
 R		
-T	B-PER	
-Histori-	I-PER	
+T		
+Histori-		
 näytelmä		
 kolmessa		
 näy-		
@@ -167368,13 +167368,13 @@ howioikendenassesori
 Lindblom	B-PER	
 ,	I-PER	
 G	I-PER	
-,		
-A		
+,	I-PER	
+A	I-PER	
 kauppaneuwos		
 ,		
-Rönnbiirk		
-,		
-Ernst	B-PER	
+Rönnbiirk	B-PER	
+,	I-PER	
+Ernst	I-PER	
 ,		
 Keis	B-ORG	
 .	I-ORG	
@@ -167949,19 +167949,19 @@ Nämät
 owat		
 :		
 paukiiijohtaja		
-V	B-PER	
-.	I-PER	
-F	I-PER	
-kauppaneuwos	I-PER	
-G	I-PER	
+V		
+.		
+F		
+kauppaneuwos		
+G		
 .		
 ll		
 .		
 L		
 kapteeni		
-C	B-PER	
-.	I-PER	
-O	I-PER	
+C		
+.		
+O		
 ja		
 kruununwouti		
 F	B-PER	
@@ -168173,9 +168173,9 @@ julkaisema
 wäitöskirja		
 ,		
 nimeltä		
-Kunskap	B-MISC	
-och	I-MISC	
-ideal	I-MISC	
+Kunskap		
+och		
+ideal		
 .		
 Tiedekunnan		
 puolesta		
@@ -168236,9 +168236,9 @@ Grönlund	I-PER
 länsis		
 .		
 ja		
-W	B-PER	
-.	I-PER	
-Kan-	I-PER	
+W		
+.		
+Kan-		
 länsi1		
 .		
 julkisen		
@@ -168340,15 +168340,15 @@ joka
 on		
 otettu		
 pankkiirihuoneelta		
-M		
-.		
-A		
-.		
-oon		
-Rotschild	B-PER	
-Franksurt	I-PER	
-am		
-Mainissa	B-LOC	
+M	B-ORG	
+.	I-ORG	
+A	I-ORG	
+.	I-ORG	
+oon	I-ORG	
+Rotschild	I-ORG	
+Franksurt	B-LOC	
+am	I-LOC	
+Mainissa	I-LOC	
 .		
 Konwertteeraus		
 tulisi		
@@ -168379,8 +168379,8 @@ päällikkö
 ,		
 todellinen		
 waltioneuwos		
-Fe-	B-PER	
-von	I-PER	
+Fe-		
+von	B-PER	
 Willebrand	I-PER	
 ,		
 joka		
@@ -168550,7 +168550,7 @@ p
 .		
 kansakoulujen		
 Oskar	B-PER	
-Hy-	I-PER	
+Hy-		
 6		
 äänellä		
 Kaksi		
@@ -168620,9 +168620,9 @@ R
 ala		
 ,		
 das		
-Bolkepos	B-PER	
-der	I-PER	
-Finnen	I-PER	
+Bolkepos		
+der		
+Finnen		
 Uebersetzt		
 oon		
 H		
@@ -168668,7 +168668,7 @@ Johanna	I-PER
 L		
 asuwa		
 Helsingissä	B-LOC	
-Bergerin	I-LOC	
+Bergerin	B-LOC	
 huwilassa	I-LOC	
 Tölöössä	B-LOC	
 ,		
@@ -169548,7 +169548,7 @@ neitoja
 oli		
 eräs		
 kalastaja-wene		
-Waran	B-LOC	
+Waran		
 k		
 iinrjeht,mni		
 H		
@@ -169859,7 +169859,7 @@ huu-
 merikapteeni		
 Berndt	B-PER	
 Fredrik	I-PER	
-Ham-	I-PER	
+Ham-		
 wainajan		
 konkurssiin		
 luowutettu		
@@ -169906,7 +169906,7 @@ tilaisuudessa
 myydään		
 niinikään		
 leipuri		
-Klingstedtiu		
+Klingstedtiu	B-PER	
 konkurssipesän		
 jäljellä		
 olewa		
@@ -170250,7 +170250,7 @@ ei
 ollut		
 mikään		
 		
-Neo	B-PER	
+Neo		
 153		
 .		
 --		
@@ -171046,7 +171046,7 @@ on
 myönnetty		
 Turun	B-LOC	
 piirin	I-LOC	
-läänin	I-LOC	
+läänin		
 eläinlääkärille		
 L		
 .		
@@ -171102,8 +171102,8 @@ Wiittaamme
 ilmoitukseen		
 etusimulla		
 .		
-Turun	B-LOC	
-työtväenyhdistykseu		
+Turun	B-ORG	
+työtväenyhdistykseu	I-ORG	
 kansanhuwit		
 owat		
 tänäoänä		
@@ -171262,7 +171262,7 @@ painosta
 oli		
 musertunut		
 .		
-Laiwapäällikköyhdistyksen		
+Laiwapäällikköyhdistyksen	B-ORG	
 kokouk-		
 toissapäiw		
 keskusteltiin		
@@ -172175,7 +172175,7 @@ että
 parempi		
 suomalainen		
 moi		
-Tanskosto		
+Tanskosto	B-LOC	
 Englantiin	B-LOC	
 wietäessä		
 on		
@@ -172376,7 +172376,7 @@ sillä
 tunnettu		
 on		
 miten		
-Börni		
+Börni	B-PER	
 innolla		
 ja		
 menestyksellä		
@@ -173231,14 +173231,14 @@ ilahuttawa
 tapahtuma		
 .		
 Pääsyynä		
-Jtaalian		
+Jtaalian	B-LOC	
 nykyiseen		
 ministeripulaan		
 näet		
 on		
 ,		
 että		
-Jtaalian		
+Jtaalian	B-LOC	
 suurwaltapolitiikka		
 maksaa		
 hirmuisen		
@@ -173253,7 +173253,7 @@ kolminaisliitto
 ,		
 joka		
 pakoittaa		
-Jtaalialle		
+Jtaalialle	B-LOC	
 erityisiä		
 rahauhrauksia		
 .		
@@ -173299,7 +173299,7 @@ raha-asioista
 ja		
 pajuneteista		
 .		
-Jtaalia		
+Jtaalia	B-LOC	
 on		
 köyhä		
 maa		
@@ -173403,7 +173403,7 @@ Sitäpaitse
 takaawat		
 Saksa	B-LOC	
 ja		
-Jtäwalta-Unkari		
+Jtäwalta-Unkari	B-LOC	
 sekä		
 omien		
 maittensa		
@@ -173413,7 +173413,7 @@ loukkaamattomuuden
 ,		
 samalla		
 kun		
-Jtaalia		
+Jtaalia	B-LOC	
 puolestaan		
 ei		
 ole		
@@ -173492,7 +173492,7 @@ noudattaa
 sopimuksen		
 määräyksiä		
 .		
-Jtaalia		
+Jtaalia	B-LOC	
 pysyminen		
 kolminaisliitossa		
 riipPUI		
@@ -173533,7 +173533,7 @@ tässä
 politikassaan		
 ,		
 on		
-Jtaalia		
+Jtaalia	B-LOC	
 joskin		
 ähkäin		
 ja		
@@ -175807,8 +175807,8 @@ Thury	I-PER
 ,		
 König		
 Albert	B-PER	
-oon		
-Sachsen	B-PER	
+oon	I-PER	
+Sachsen	I-PER	
 y		
 .		
 in		
@@ -176382,9 +176382,9 @@ W	B-PER
 Kantola	I-PER	
 ,		
 talolliset		
-D	B-PER	
-.	I-PER	
-ja	I-PER	
+D		
+.		
+ja		
 N	I-PER	
 .	I-PER	
 Niemelä	I-PER	
@@ -176393,10 +176393,10 @@ O	B-PER
 .	I-PER	
 Mikkola	I-PER	
 ja		
-E		
-,		
-Petterson	B-PER	
-Tammion	I-PER	
+E	B-PER	
+,	I-PER	
+Petterson	I-PER	
+Tammion	B-LOC	
 ja		
 Mustanmaan	B-LOC	
 ulkosaarien		
@@ -176405,7 +176405,7 @@ Kiuskarin	B-LOC
 ,		
 ja		
 Huowarin	B-LOC	
-karien		
+karien	I-LOC	
 läheisyydessä		
 merestä		
 yhteensä		
@@ -177201,8 +177201,8 @@ p
 welwoittanut		
 Kymin	B-LOC	
 ja		
-Pyhtaän		
-pitäjäiii		
+Pyhtaän	B-LOC	
+pitäjäiii	I-LOC	
 tientekowelwolliset		
 talon-		
 tilanomistajat		
@@ -177397,7 +177397,7 @@ toimitettiin
 eli		
 täyt-		
 ainoastaan		
-Sigurdilla		
+Sigurdilla	B-ORG	
 j.m.s		
 .		
 Ruotsin	B-LOC	
@@ -177985,9 +177985,9 @@ teokset
 ,		
 joista		
 mainittakoon		
-Läran	B-MISC	
-om	I-MISC	
-staten	I-MISC	
+Läran		
+om		
+staten		
 waltiosta		
 ja		
 Onidetakademiska		
@@ -178006,10 +178006,10 @@ muassa
 tekijän		
 pidättämä		
 jatko		
-Fyra	B-MISC	
-gistermäl	I-MISC	
-Neljä	B-MISC	
-awioliittoa	I-MISC	
+Fyra		
+gistermäl		
+Neljä		
+awioliittoa		
 nimiseen		
 nowelliin		
 sekä		
@@ -178030,8 +178030,8 @@ ja
 kuudes		
 wihko		
 :		
-Kirjoitelmia	B-MISC	
-Saimasta	I-MISC	
+Kirjoitelmia		
+Saimasta		
 ,		
 Litteraturbladetista	B-ORG	
 ,		
@@ -178230,7 +178230,7 @@ riputteli
 .		
 Kahdestoistawihko		
 :		
-J-W.Snellmanin		
+J-W.Snellmanin	B-PER	
 elämäkerta		
 noin		
 30		
@@ -178454,7 +178454,7 @@ saapai
 eilen		
 Kotkasta	B-LOC	
 höyryalus		
-Estherillä	B-MISC	
+Estherillä		
 tarkastamaan		
 Haminan	B-ORG	
 tullikamaria	I-ORG	
@@ -178698,8 +178698,8 @@ noin
 72		
 puoli		
 putelia		
-Benediktiini	B-PER	
-Korissa	I-PER	
+Benediktiini		
+Korissa		
 olewat		
 kannun		
 putelit		
@@ -178906,7 +178906,7 @@ Hannen	I-PER
 .		
 Keittiön		
 emännöitsijäksi		
-Harjuu		
+Harjuu	B-LOC	
 niaanwiljelyskonlnlle		
 on		
 68		
@@ -179248,7 +179248,7 @@ U
 .		
 Kansanteaattert		
 tulee		
-Iywäskylästä		
+Iywäskylästä	B-LOC	
 ensi		
 wiikon		
 alussa		
@@ -179265,8 +179265,8 @@ kutsumus
 .		
 K.-S		
 .		
-Eirkus	B-ORG	
-Schiittsou	I-ORG	
+Eirkus		
+Schiittsou		
 antoi		
 eilen		
 resettinäytännön		
@@ -179555,8 +179555,8 @@ Minulta
 I		
 :		
 EomntU-öpail:liin		
-F	B-PER	
-N	I-PER	
+F		
+N		
 :		
 11		
 .		
@@ -179777,8 +179777,8 @@ asti
 .		
 Päälle		
 Ykeisölke		
-H	B-PER	
-Wiikko-Sanomia	I-PER	
+H		
+Wiikko-Sanomia		
 woidaan		
 wielä		
 yhä		
@@ -180147,7 +180147,7 @@ sen
 kautta		
 tie		
 rikkaaseen		
-Jutiaan	B-LOC	
+Jutiaan		
 käwisi		
 paljoa		
 lyhemmäksi		
@@ -180293,7 +180293,7 @@ niiden
 joukossa		
 Franskan	B-LOC	
 ja		
-Jtäwallan		
+Jtäwallan	B-LOC	
 keisarit		
 ynnä		
 monta		
@@ -180341,7 +180341,7 @@ wastaan-otetaan
 lehden		
 konttorissa		
 ,		
-Fabianinkatu14,piharakennukfesfa		
+Fabianinkatu14,piharakennukfesfa	B-LOC	
 .		
 Hinta		
 on		
@@ -180648,7 +180648,7 @@ kuljetuskukuugit
 esim		
 .		
 Englannista	B-LOC	
-Jutiaan	B-LOC	
+Jutiaan		
 Suezin	B-LOC	
 kanawaa	I-LOC	
 myöten		
@@ -180754,9 +180754,9 @@ k:n
 p:nä		
 antanut		
 kauppakirjuri		
-A	B-PER	
-.	I-PER	
-Lin-	I-PER	
+A		
+.		
+Lin-		
 luwan		
 tässä		
 kaupungissa		
@@ -180765,8 +180765,8 @@ julkaista
 aikakautista		
 kirjaa		
 ni-		
-Finlands	B-MISC	
-koinnnmikatianer	I-MISC	
+Finlands		
+koinnnmikatianer		
 .		
 Kirjapainoa		
 Kokkolaan	B-LOC	
@@ -180787,7 +180787,7 @@ Pr
 .		
 Kaupunginwaltuusmiesten		
 pn-		
-Suwonliniiassa	B-LOC	
+Suwonliniiassa		
 on		
 reh-		
 K	B-PER	
@@ -181086,8 +181086,8 @@ kertoa
 Satak		
 .		
 -		
-Jmatraii		
-koskeen		
+Jmatraii	B-LOC	
+koskeen	I-LOC	
 on		
 ,		
 kuten		
@@ -181573,7 +181573,7 @@ E	B-PER
 W	I-PER	
 .	I-PER	
 Rothman	I-PER	
-Iäinsästä	B-LOC	
+Iäinsästä		
 ,		
 D	B-PER	
 .	I-PER	
@@ -181604,11 +181604,11 @@ Sidensnöre	B-PER
 ,		
 ja		
 määrättiin		
-E	B-PER	
-.	I-PER	
-Thaauum	I-PER	
+E		
+.		
+Thaauum		
 kirkkoherranapalaiseksi		
-Jihin	B-PER	
+Jihin		
 ,		
 H	B-PER	
 .	I-PER	
@@ -181662,7 +181662,7 @@ rintaansa
 päiwänsä		
 päättänyt		
 .		
-Hagstinöm		
+Hagstinöm	B-PER	
 joka		
 ali		
 wasta		
@@ -181872,9 +181872,9 @@ p:nä
 auskultanteiksi		
 ottanut		
 ylioppilaat		
-W	B-PER	
-.	I-PER	
-Elsioengreniu,ivapaah	I-PER	
+W		
+.		
+Elsioengreniu,ivapaah		
 .		
 H		
 .		
@@ -181885,9 +181885,9 @@ ja
 I	B-PER	
 .	I-PER	
 E	I-PER	
-.		
-oon		
-Schantzin	B-PER	
+.	I-PER	
+oon	I-PER	
+Schantzin	I-PER	
 .		
 -		
 Json-Kyrön	B-ORG	
@@ -182036,7 +182036,7 @@ oikeuteen
 Hywä		
 tomeruus		
 .		
-Hagan		
+Hagan	B-LOC	
 kiiiiiiikaaiikartaiioii		
 torpparit		
 Ahwenanmaalla	B-LOC	
@@ -182112,18 +182112,18 @@ neidet
 H	B-PER	
 .	I-PER	
 Söder-	I-PER	
-A	I-PER	
+A	B-PER	
 .	I-PER	
 Lilias	I-PER	
 ,		
 ja		
 herrat		
-C	B-PER	
-.	I-PER	
-W	I-PER	
-.	I-PER	
-Hed-	I-PER	
-Juuso	I-PER	
+C		
+.		
+W		
+.		
+Hed-		
+Juuso	B-PER	
 Hedberg	I-PER	
 ,		
 K	B-PER	
@@ -182203,19 +182203,19 @@ asioista
 pidetään		
 arwokkaina		
 .		
-Monell,promasti		
+Monell,promasti	B-PER	
 ,		
 tähdistön		
 jäsen		
 ja		
-Jloinautsin	B-LOC	
+Jloinautsin		
 kirkkoherra		
 ,		
 waipui		
 kuolon		
 uneen		
-Jloinantsin	B-LOC	
-pappilassa	I-LOC	
+Jloinantsin		
+pappilassa		
 wiime		
 lauantaina		
 ,		
@@ -182552,18 +182552,18 @@ kädestä
 käännöksinä		
 ilmauntnneet		
 :		
-I		
-.		
-Bunianin	B-PER	
+I	B.LOC	
+.	I-LOC	
+Bunianin	I-LOC	
 pyhä		
 sota		
 m		
 .		
 1856		
 ,		
-J		
-.		
-Arndtin	B-PER	
+J	B-PER	
+.	I-PER	
+Arndtin	I-PER	
 postilla		
 ,		
 1862		
@@ -182576,8 +182576,8 @@ hoitamiseen
 .		
 .		
 Sanoma		
-Maanmiehen		
-ystäivä		
+Maanmiehen	B-ORG	
+ystäivä	I-ORG	
 Suo-		
 aputoimittajana		
 työskententeli		
@@ -182802,7 +182802,7 @@ lantamies
 lakitieteen		
 ylioppilas		
 Matti	B-PER	
-Nie-	I-PER	
+Nie-		
 onnistuneen		
 esitelmän		
 käräjäwäelle		
@@ -182949,7 +182949,7 @@ siwulta
 Fiirjeitä		
 Ylaaseudnikta		
 .		
-Heintolasta		
+Heintolasta	B-LOC	
 Helmikuun		
 alulla		
 1884		
@@ -183520,7 +183520,7 @@ ole
 .		
 Mitään		
 onnen		
-Sampoa	B-MISC	
+Sampoa		
 ei		
 hän		
 suoras-		
@@ -183544,7 +183544,7 @@ mieleen
 ,		
 että		
 heidän		
-Samponsa	B-MISC	
+Samponsa		
 taonta		
 on		
 ainoastaan		
@@ -183552,7 +183552,7 @@ heidän
 omassa		
 wallassaan		
 ,		
-Sampomme	B-MISC	
+Sampomme		
 seppä		
 ei		
 woi		
@@ -183593,7 +183593,7 @@ Suomi	B-LOC
 woi		
 itselleen		
 takoa		
-Sammon	B-MISC	
+Sammon		
 ,		
 yhtä		
 woimakkaan		
@@ -183647,7 +183647,7 @@ tarpeita
 .		
 .		
 tinn		
-Jlmarinen		
+Jlmarinen	B-PER	
 nyt		
 tarjoutuu		
 warsinkin		
@@ -184811,7 +184811,7 @@ sihteri
 Heinricius	B-PER	
 ,		
 kauppaneuwos		
-Tichanoss		
+Tichanoss	B-PER	
 ,		
 konsuli		
 Lorentz	B-PER	
@@ -185150,7 +185150,7 @@ Alexis	B-PER
 Kiweltä	I-PER	
 ,		
 nimellä		
-Kanerwala	B-PER	
+Kanerwala		
 ,		
 jonka		
 tekiä		
@@ -185253,14 +185253,14 @@ kirjapainossa
 että		
 myös		
 herrain		
-Cloubergin	B-PER	
-ja		
-kumpp		
-.		
-kirjakaupas		
+Cloubergin	B-ORG	
+ja	I-ORG	
+kumpp	I-ORG	
+.	I-ORG	
+kirjakaupas	I-ORG	
 Hinta		
 :		
-Wiipurissu		
+Wiipurissu	B-LOC	
 4		
 markkaa		
 koko-		
@@ -186825,7 +186825,7 @@ Säkksarwin
 Karl	B-PER	
 Säkkjänvi	I-PER	
 .		
-HenrikTiihosellen		
+HenrikTiihosellen	B-PER	
 ,		
 St	B-LOC	
 .	I-LOC	
@@ -186908,8 +186908,8 @@ Mint
 Frökeu	B-PER	
 Andersin	I-PER	
 .		
-FrökenEmelie		
-Sylwiin		
+FrökenEmelie	B-PER	
+Sylwiin	I-PER	
 .		
 Leski		
 Helena	B-PER	
@@ -187020,11 +187020,11 @@ G	I-PER
 .	I-PER	
 Andersson	I-PER	
 .	I-PER	
-Anna	I-PER	
+Anna	B-PER	
 .		
-KartFrediik		
-Johnson	B-PER	
-Stina	I-PER	
+KartFrediik	B-PER	
+Johnson	I-PER	
+Stina	B-PER	
 Maria	I-PER	
 Pakarinieni	I-PER	
 ,		
@@ -187045,9 +187045,9 @@ F
 d		
 .		
 underosieeraren		
-M		
-.		
-Qwik		
+M	B-PER	
+.	I-PER	
+Qwik	I-PER	
 ,		
 Iohan	B-PER	
 Lindroos	I-PER	
@@ -187079,8 +187079,8 @@ Timmerman
 Gnstafoson	B-PER	
 .		
 Timmerman		
-Iohan		
-Gustaf	B-PER	
+Iohan	B-PER	
+Gustaf	I-PER	
 GustafsTon	I-PER	
 .		
 Työmies		
@@ -187134,17 +187134,17 @@ Reinikainen	I-PER
 Johan	B-PER	
 .	I-PER	
 Koljander	I-PER	
+.		
+Berg	B-PER	
+.		
+Iernarbetaren		
+F		
+Plätslagaren		
+L	B-PER	
 .	I-PER	
-Berg	I-PER	
-.		
-Iernarbetaren	B-ORG	
-F	I-ORG	
-Plätslagaren	I-ORG	
-L		
-.		
-P		
-.		
-Peterssoni		
+P	I-PER	
+.	I-PER	
+Peterssoni	I-PER	
 .		
 Demoiselle		
 A		
@@ -187162,17 +187162,17 @@ R	B-PER
 G	I-PER	
 .	I-PER	
 Tukiainen	I-PER	
-.	I-PER	
-G	I-PER	
+.		
+G	B-PER	
 .	I-PER	
 F	I-PER	
 .	I-PER	
 Strömberg	I-PER	
-Anun	I-PER	
-Pyru	I-PER	
+Anun		
+Pyru		
 .		
-Auouuuapm	B-PER	
-Banwww	I-PER	
+Auouuuapm		
+Banwww		
 .		
 Ceunacuomy		
 .		
@@ -187190,7 +187190,7 @@ Pietarista	B-LOC
 .		
 C		
 .		
-Jnkeriimaalta		
+Jnkeriimaalta	B-LOC	
 I	B-PER	
 .	I-PER	
 A	I-PER	
@@ -187211,7 +187211,7 @@ C	B-PER
 .	I-PER	
 Jönsson	I-PER	
 till		
-Abo		
+Abo	B-LOC	
 ,		
 registreradt		
 ,		
@@ -187469,7 +187469,7 @@ armossaan
 on		
 säätänyt		
 Wiipuri	B-LOC	
-läänin	I-LOC	
+läänin		
 käyttämiseksi		
 2875		
 markkaa		
@@ -187568,13 +187568,13 @@ k
 jälellä		
 olewasta		
 osasta		
-Wanala	B-LOC	
-kaupungin	I-LOC	
+Wanala		
+kaupungin		
 osaa		
 ,		
 Terwaniemeltä	B-LOC	
 ja		
-Salakkalahe		
+Salakkalahe	B-LOC	
 Lauantaina		
 23		
 p		
@@ -187849,12 +187849,12 @@ siemeniiä
 ,		
 ,		
 ,		
-Heiniin	B-LOC	
+Heiniin		
 siemeniiii		
 .		
 Riigan	B-LOC	
-Pellawais	B-ORG	
-Cloubergin	I-ORG	
+Pellawais		
+Cloubergin	B-ORG	
 ja	I-ORG	
 Kumppint	I-ORG	
 kirjakaupassa	I-ORG	
@@ -187902,7 +187902,7 @@ Uunin-peltiä
 ,		
 Uunin-pliittojq		
 ,		
-Nanta-löyhyn	B-LOC	
+Nanta-löyhyn		
 ,		
 Hierottua		
 Oljy-maalia		
@@ -187910,7 +187910,7 @@ Oljy-maalia
 Keitettnä		
 lima-öljye-		
 myöpi		
-Stavekjohann	B-PER	
+Stavekjohann		
 ja		
 kump		
 ,		
@@ -187951,21 +187951,21 @@ kuin
 myös		
 Rommia		
 ja		
-Kontjakkia	B-ORG	
-Wuna-	I-ORG	
-Litööri-tehtaan	I-ORG	
+Kontjakkia		
+Wuna-		
+Litööri-tehtaan		
 teoksia		
 ,		
 myydään		
-J		
-.		
-Sapetoffin	B-LOC	
-talossa	I-LOC	
+J	B-PER	
+.	I-PER	
+Sapetoffin	I-PER	
+talossa		
 Uuden	B-LOC	
 portin	I-LOC	
 kadulla	I-LOC	
-Kamssonm	I-LOC	
-talossa	I-LOC	
+Kamssonm	B-PER	
+talossa		
 Wiipurin	B-LOC	
 esikaupungissa		
 .		
@@ -187974,11 +187974,11 @@ Tulitikkuja
 ja		
 wähitellen		
 .		
-Eloubergin	B-PER	
-ja		
-kmnpp		
-,		
-kirjakaupassa		
+Eloubergin	B-ORG	
+ja	I-ORG	
+kmnpp	I-ORG	
+,	I-ORG	
+kirjakaupassa	I-ORG	
 ,		
 Pietarilaintent		
 Palowaaran		
@@ -188024,9 +188024,9 @@ hakisan
 halua		
 myöten		
 .		
-Nosenius		
+Nosenius	B-PER	
 ja		
-Sesemaim		
+Sesemaim	B-PER	
 .		
 HentiiwatinutuS-.Seura		
 Leipzigissä	B-LOC	
@@ -188046,8 +188046,8 @@ toimittawat
 tuhannen		
 ä		
 :		
-Hoyrylauva	B-PER	
-Porthan	I-PER	
+Hoyrylauva		
+Porthan		
 ,		
 kapteeni		
 G	B-PER	
@@ -188089,8 +188089,8 @@ Otto	B-PER
 Spranger	I-PER	
 Wiipurissa	B-LOC	
 .		
-PietaiintWiipiiriii	B-LOC	
-Rautatie	I-LOC	
+PietaiintWiipiiriii		
+Rautatie		
 .		
 Aikataulu		
 rautatie-junllle		
@@ -188125,7 +188125,7 @@ Terijoelta	B-LOC
 Raiwolasta	B-LOC	
 15		
 Uudellakirkolla	B-LOC	
-Lähtee	B-LOC	
+Lähtee		
 13		
 Perkjärweltä	B-LOC	
 11		
@@ -188158,7 +188158,7 @@ tii-37
 :		
 .		
 16		
-Walkeasantress		
+Walkeasantress	B-LOC	
 12		
 Lewaschowosta	B-LOC	
 3		
@@ -188614,7 +188614,7 @@ n:o	B-LOC
 6	I-LOC	
 Aleksanderin	I-LOC	
 kadun	I-LOC	
-tunteella	I-LOC	
+tunteella		
 .		
 Muutamat		
 walioknnuat		
@@ -188723,14 +188723,14 @@ Hytvin
 tietäen		
 Wiipurin	B-LOC	
 kaupungin	I-LOC	
-sekäWiipurin		
+sekäWiipurin	B-LOC	
 maatienotki		
 tarmitieman		
 täl		
 tietoja		
 ,		
 on		
-Jlmarinien		
+Jlmarinien	B-ORG	
 ,		
 Suomen	B-ORG	
 Lehteen	I-ORG	
@@ -188744,7 +188744,7 @@ kaikkea
 tätä		
 ,		
 iillä		
-Jimarinen		
+Jimarinen	B-ORG	
 ,		
 jossa		
 on		
@@ -188785,7 +188785,7 @@ Työskennellen
 tvuotta		
 ,		
 jolloin		
-Jlmarisen		
+Jlmarisen	B-ORG	
 toimittajat		
 ensin		
 alussa		
@@ -188801,7 +188801,7 @@ lehden
 pysyttämiseksi		
 ,		
 on		
-Jlmariselle		
+Jlmariselle	B-ORG	
 wähitellen		
 tilaajoita		
 lisääntynyt		
@@ -188852,7 +188852,7 @@ wielä
 .		
 Kaupungissa		
 oli		
-Jlmarisella		
+Jlmarisella	B-ORG	
 jo		
 yli		
 300		
@@ -188913,7 +188913,7 @@ juuri
 sillä		
 odottamisellanne		
 Te		
-Jimarisenta.poittei		
+Jimarisenta.poittei	B-ORG	
 Te		
 maalaiset		
 taas		
@@ -188993,7 +188993,7 @@ eri
 tarkoitus		
 ,		
 kuin		
-Jlmarisella		
+Jlmarisella	B-ORG	
 .		
 Se		
 on		
@@ -189033,7 +189033,7 @@ tvähentyitvät
 se		
 myös		
 näyttää		
-Jlmarista		
+Jlmarista	B-ORG	
 ei		
 tällä		
 kertaa		
@@ -189118,7 +189118,7 @@ sitä
 enää		
 jatkaa		
 .		
-Jlmarinen		
+Jlmarinen	B-ORG	
 siis		
 kuolee		
 ,		
@@ -189131,11 +189131,11 @@ lukijoita
 ,		
 jotka		
 tänäkin		
-Jlmarisen		
+Jlmarisen	B-ORG	
 snrn-tvuotena		
 eitvät		
 ole		
-Jlmarista		
+Jlmarista	B-ORG	
 jättäneet		
 .		
 pahaksi		
@@ -189165,7 +189165,7 @@ postikonttoreista
 ,		
 joissa		
 olette		
-Jlmarista		
+Jlmarista	B-ORG	
 tilanneet		
 Ainoastaan		
 25		
@@ -189211,11 +189211,11 @@ takaisin
 odottajatki		
 saaiieetrahansa		
 takaisin		
-Jlmarisen		
+Jlmarisen	B-ORG	
 kuollessa		
 ,		
 sillä		
-Jlmarinen		
+Jlmarinen	B-ORG	
 on		
 ollut		
 ja		
@@ -189236,7 +189236,7 @@ ale
 mitään		
 hywää		
 sanottatva		
-Jlmarinen		
+Jlmarinen	B-ORG	
 kuollessaan		
 ei		
 siis		
@@ -189271,7 +189271,7 @@ kanpungista
 rautatien		
 wieressä		
 Sorwalin	B-LOC	
-siltaan		
+siltaan	I-LOC	
 kulkewa		
 maantie		
 ja		
@@ -190095,7 +190095,7 @@ onnellisuus
 Mitä		
 erittäin		
 tulee		
-Jtä-Suoinen		
+Jtä-Suoinen	B-LOC	
 oloihin		
 ,		
 niin		
@@ -190119,7 +190119,7 @@ kaikissa
 kohden		
 olewan		
 muusta		
-Suomcsta		
+Suomcsta	B-LOC	
 jä1110110110		
 ,		
 niin		
@@ -190179,15 +190179,15 @@ muut
 seitat		
 ja		
 kohdat		
-Jlmariscn		
+Jlmariscn	B-ORG	
 wastaisiksi		
 keskustelun		
 aineiksi		
 ,		
 Kotimaalta		
 .		
-Wiipnrist		
-Kiwennawant		
+Wiipnrist	B-LOC	
+Kiwennawant	B-LOC	
 lahjoitusmaat		
 .		
 H		
@@ -190219,7 +190219,7 @@ muuttaa
 ja		
 että		
 ruhtinas		
-Uhtomskisitoutun	B-PER	
+Uhtomskisitoutun		
 antamaan		
 talonpoikain		
 lunastaa		
@@ -190373,7 +190373,7 @@ niin
 ,		
 saaden		
 metsää		
-Hiuta	B-LOC	
+Hiuta		
 on		
 450,000		
 hopearup-		
@@ -190475,8 +190475,8 @@ heiniä
 sisältätvä		
 48		
 lettu-Sortawainnia		
-Solmin	B-LOC	
-kihlakunnissa	I-LOC	
+Solmin		
+kihlakunnissa		
 16		
 :		
 80		
@@ -190544,7 +190544,7 @@ Hanhi
 2		
 :		
 49,1nielkeen		
-Kano	B-LOC	
+Kano		
 1311111111111		
 1		
 :		
@@ -191344,7 +191344,7 @@ R	B-PER
 Lydeckenin	I-PER	
 ja		
 Viktor	B-PER	
-Ho-	I-PER	
+Ho-		
 joista		
 edellinen		
 on		
@@ -191385,9 +191385,9 @@ Huus-
 muuttui		
 huutokaupassa		
 herra		
-R	B-PER	
-.	I-PER	
-Ly-	I-PER	
+R		
+.		
+Ly-		
 herra		
 V	B-PER	
 .	I-PER	
@@ -191481,7 +191481,7 @@ lietsomahan
 .		
 Mainitut		
 säkeet		
-Kalewalastamme	B-MISC	
+Kalewalastamme		
 jolahti11101		
 heti		
 mieleeni		
@@ -192034,12 +192034,12 @@ puhua
 wieroan		
 kanssa		
 ?		
-Poulina		
+Poulina	B-PER	
 huusi		
 hän		
 äkkiään		
 .		
-Pierre-		
+Pierre-	B-PER	
 mastasi		
 hän		
 sinä		
@@ -192094,9 +192094,9 @@ kuiskasi
 Herra		
 Denon	B-PER	
 jotakin		
-Paulinankormaun	B-PER	
-.	I-PER	
-Paulina	I-PER	
+Paulinankormaun		
+.		
+Paulina	B-PER	
 punastui		
 ja		
 hymyili		
@@ -192225,7 +192225,7 @@ on
 minusta		
 Suomenmoan	B-LOC	
 .		
-Kalefornia		
+Kalefornia	B-LOC	
 ei		
 enään		
 Jmalo		
@@ -192758,7 +192758,7 @@ Wenäjän	B-LOC
 kei-		
 Bosnia	B-LOC	
 ja		
-Herzegowina		
+Herzegowina	B-LOC	
 .		
 .		
 Kunturk-		
@@ -193361,7 +193361,7 @@ St	B-LOC
 134.-		
 30		
 .		
-Amsterdamin-		
+Amsterdamin-	B-LOC	
 228		
 :		
 226		
@@ -193479,7 +193479,7 @@ ja
 palwelust		
 .		
 Ma-		
-Jsokangas		
+Jsokangas	B-PER	
 ,		
 mol		
 .		
@@ -193591,8 +193591,8 @@ mol
 .		
 Kelkkalasta		
 päreentekijä		
-Korl		
-Swedbacka		
+Korl	B-PER	
+Swedbacka	I-PER	
 ja		
 palwelust		
 Maria	B-PER	
@@ -193895,8 +193895,8 @@ niin
 etteitvät		
 ajanpitkään		
 jaksa		
-Ramaani	B-PER	
-Alexander	I-PER	
+Ramaani		
+Alexander	B-PER	
 L	I-PER	
 .	I-PER	
 Kiellandilta	I-PER	
@@ -194121,8 +194121,8 @@ tämän
 tuun		
 kuluessa		
 astumaan		
-senatiin	B-ORG	
-tvaltiotvarain-toimituskunnan	I-ORG	
+senatiin		
+tvaltiotvarain-toimituskunnan		
 päällikön		
 apulaisena		
 .		
@@ -194270,10 +194270,10 @@ sieltä
 takasin		
 ,		
 on		
-Undenmaan	B-LOC	
-läänin	I-LOC	
-hewosystätväin		
-yhdistys		
+Undenmaan	B-ORG	
+läänin	I-ORG	
+hewosystätväin	I-ORG	
+yhdistys	I-ORG	
 omassa		
 nimessään		
 ilmoittanut		
@@ -194341,7 +194341,7 @@ nyt
 waan		
 löytäisi		
 weli		
-Antini		
+Antini	B-PER	
 Nyt		
 saat		
 kuulla		
@@ -194358,7 +194358,7 @@ hän
 tulisi		
 tapaamaan		
 .		
-Kristinea		
+Kristinea	B-PER	
 satamaan		
 .		
 No		
@@ -194571,7 +194571,7 @@ esitetty
 .		
 Kumpiko		
 opetustapa		
-Piplian	B-MISC	
+Piplian		
 historiassa		
 ,		
 annlyytinen		
@@ -194702,16 +194702,16 @@ uusi,ehdottama
 katekisma		
 ,		
 Alopaeuseu	B-PER	
-Oppi	I-PER	
+Oppi		
 ja		
 Carl	B-PER	
 Lindin	I-PER	
-Tutkistelemuksia	B-MISC	
-Luth	I-MISC	
-.	I-MISC	
-lyhyestä	I-MISC	
-katekismosta	I-MISC	
-K:-Opettajille	I-MISC	
+Tutkistelemuksia		
+Luth		
+.		
+lyhyestä		
+katekismosta		
+K:-Opettajille		
 tutut		
 ja		
 mitkä		
@@ -194998,7 +194998,7 @@ toht
 Srhtoeinfarth		
 kertoa		
 .		
-Koirasta	B-LOC	
+Koirasta		
 eräälle		
 Riian	B-LOC	
 lehdelle		
@@ -195079,7 +195079,7 @@ jo
 tauotta		
 wanha		
 .		
-Weikko		
+Weikko	B-PER	
 Iuholie		
 Sysmässä	B-LOC	
 Sinun		
@@ -196871,7 +196871,7 @@ hywin
 K-S		
 Perustuslakien		
 rewisioni		
-Fransteen	B-LOC	
+Fransteen		
 Tunnettu		
 radikalinen		
 edustuskunnan		
@@ -197271,7 +197271,7 @@ päästämästä
 dynamitintuojia		
 Englantiin	B-LOC	
 .		
-Jrlannin		
+Jrlannin	B-LOC	
 asiat		
 saanewatonnellisemman		
 käänteen		
@@ -197434,7 +197434,7 @@ melkoisesti
 Sanalla		
 sanoen		
 :		
-Jrlanniu		
+Jrlanniu	B-LOC	
 talonpojat		
 pääsewät		
 sen		
@@ -197498,7 +197498,7 @@ mitä
 runsainta		
 siunausta		
 .		
-Entglantti		
+Entglantti	B-LOC	
 ,		
 Times	B-ORG	
 kirjoittaa		
@@ -198013,11 +198013,11 @@ kesäk
 6		
 p		
 .		
-Wientti-kauppahuone		
-George	B-PER	
-Brown	I-PER	
-amp		
-kumpp		
+Wientti-kauppahuone	B-ORG	
+George	I-ORG	
+Brown	I-ORG	
+amp	I-ORG	
+kumpp	I-ORG	
 .		
 on		
 tehnyt		
@@ -198177,14 +198177,14 @@ matkustnksia
 60		
 kapp		
 .		
-Erään	B-MISC	
-nuoren	I-MISC	
-tytön	I-MISC	
-elämäkerta	I-MISC	
+Erään		
+nuoren		
+tytön		
+elämäkerta		
 17		
 ,		
-Vegan	B-MISC	
-matka	I-MISC	
+Vegan		
+matka		
 11		
 koko		
 teos		
@@ -198194,8 +198194,8 @@ teosta
 wihkoja		
 153		
 ,		
-Piplian	B-MISC	
-Historia	I-MISC	
+Piplian		
+Historia		
 773		
 ---		
 Kirjakaiippioilla		
@@ -198258,8 +198258,8 @@ kirjoista
 :		
 20		
 .		
-Vegan	B-MISC	
-matkan	I-MISC	
+Vegan		
+matkan		
 kuwapai-		
 24		
 :		
@@ -198363,8 +198363,8 @@ Yhteenfä
 .		
 Mihltimii-tuitistus		
 .		
-C	B-PER	
-Jimi	I-PER	
+C		
+Jimi		
 .		
 Siinä		
 isossa		
@@ -198462,7 +198462,7 @@ hänen
 sulhasensa		
 ,		
 Hugo	B-PER	
-De-	I-PER	
+De-		
 jo		
 neljäkymmen		
 ja		
@@ -198494,7 +198494,7 @@ oma
 :		
 19		
 .		
-Yhdyspankissa		
+Yhdyspankissa	B-ORG	
 4.00		
 Rahaa		
 kassassa		
@@ -198571,7 +198571,7 @@ Yhteensä
 54		
 .		
 K		
-Säästöpankissa		
+Säästöpankissa	B-ORG	
 2,:123		
 54		
 .		
@@ -198602,7 +198602,7 @@ Yhteensä
 .		
 Kredit		
 :		
-Säästöpankissa		
+Säästöpankissa	B-ORG	
 167		
 :		
 69		
@@ -198617,7 +198617,7 @@ kerran
 ,		
 hywä		
 ukko		
-Jlmarinen		
+Jlmarinen	B-PER	
 wähän		
 myöskin		
 julkisen		
@@ -198994,7 +198994,7 @@ eksyksistä
 oikealle		
 tielle		
 saattawinansa		
-UttdenSuomettaren		
+UttdenSuomettaren	B-ORG	
 .		
 Tekijä		
 tekaisee		
@@ -199765,11 +199765,11 @@ Klami	B-PER
 ja		
 Stoekus	B-PER	
 .		
-Yiipurin		
+Yiipurin	B-LOC	
 51111111		
 .		
-Ftirjalrisnus	B-ORG	
-Fenran	I-ORG	
+Ftirjalrisnus		
+Fenran		
 toimilinutaan		
 walittiin		
 eiien		
@@ -199790,7 +199790,7 @@ waraesim
 .		
 kapt		
 .		
-G.Z.Sand-		
+G.Z.Sand-	B-PER	
 sihteritsi		
 lehtori		
 A	B-PER	
@@ -200536,7 +200536,7 @@ Euler	B-PER
 ,		
 Kepler	B-PER	
 ,		
-Leibnii		
+Leibnii	B-PER	
 ,		
 Calwin	B-PER	
 ,		
@@ -200558,13 +200558,13 @@ Milton	B-PER
 ,		
 Klopstoik	B-PER	
 ,		
-Naeine		
+Naeine	B-PER	
 ,		
-Eorneille		
+Eorneille	B-PER	
 ,		
-Boilean	B-LOC	
+Boilean	B-PER	
 ,		
-LHöpital		
+LHöpital	B-PER	
 ,		
 Saurin	B-PER	
 ,		
@@ -201196,8 +201196,8 @@ sunnuntai-iltana
 näyteltiin		
 täällä		
 huwinäytelmä		
-Rouwan	B-MISC	
-Salaisuudet	I-MISC	
+Rouwan		
+Salaisuudet		
 .		
 Kap-		
 näytti		
@@ -201395,7 +201395,7 @@ Mies
 häwi-mht		
 .		
 ajuri		
-Lit	B-PER	
+Lit		
 ,		
 Mikkelin	B-LOC	
 kaupungista	I-LOC	
@@ -201598,9 +201598,9 @@ k:lo
 jaetaan		
 ,		
 paitsi		
-Aksel		
-Sehnlttiu	B-ORG	
-kirjapainossa	I-ORG	
+Aksel	B-PER	
+Sehnlttiu		
+kirjapainossa		
 ,		
 myöskin		
 kauppiaitten		
@@ -201857,7 +201857,7 @@ atvoinna
 k:lo		
 päiw		
 .		
-Säästöpankki		
+Säästöpankki	B-ORG	
 awoinna		
 1:10		
 j		
@@ -201901,7 +201901,7 @@ vati
 lähtee		
 .		
 Lahden	B-LOC	
-rantatie-asemalle		
+rantatie-asemalle	I-LOC	
 :		
 Sunuuutaina		
 ,		
@@ -201931,8 +201931,8 @@ ja
 Kaugaoniemen	B-LOC	
 kautta		
 .		
-Mäutyharjnn		
-rantatie-asemalle		
+Mäutyharjnn	B-LOC	
+rantatie-asemalle	I-LOC	
 :		
 Perjantaina		
 k:lo		
@@ -201971,7 +201971,7 @@ Posti
 tulee		
 .		
 Lahden	B-LOC	
-rantatie-asemalta		
+rantatie-asemalta	I-LOC	
 :		
 Maauantaina		
 Keskitviikkona		
@@ -201994,7 +201994,7 @@ Joutsan	B-LOC
 ,		
 Harolan	B-LOC	
 ja		
-Svsmäu		
+Svsmäu	B-LOC	
 kautta		
 Maanantaina		
 ja		
@@ -202156,7 +202156,7 @@ yleiseen
 raastuwaukokoukseen		
 kutsutaan		
 täten		
-Heinolatt		
+Heinolatt	B-LOC	
 kaupunkikunnan		
 äänitoaltaisei		
 jäsenet		
@@ -202256,8 +202256,8 @@ p
 1892		
 .		
 ja		
-Kitktjwist	B-ORG	
-.	I-ORG	
+Kitktjwist		
+.		
 Finlantdissa	I-ORG	
 on		
 julkaistuna		
@@ -202615,9 +202615,9 @@ w
 t		
 .		
 asemapäällikön		
-K	B-PER	
-.	I-PER	
-Kö	I-PER	
+K		
+.		
+Kö		
 Yliwieskan	B-LOC	
 postitoimitukseen		
 w		
@@ -202646,11 +202646,11 @@ w
 t		
 .		
 asemapäällikön		
-K	B-PER	
-.	I-PER	
-W	I-PER	
-.	I-PER	
-T	I-PER	
+K		
+.		
+W		
+.		
+T		
 ja		
 Lapin	B-LOC	
 postitoimitukseen		
@@ -202659,9 +202659,9 @@ w
 t		
 .		
 asemapäällikön		
-R	B-PER	
-.	I-PER	
-L	I-PER	
+R		
+.		
+L		
 sekä		
 Kälwiän	B-LOC	
 postiaseman	I-LOC	
@@ -203100,7 +203100,7 @@ kolkuttaa
 ,		
 et		
 sinä		
-saa,Reeta		
+saa,Reeta	B-PER	
 ,		
 sanoi		
 pikku		
@@ -203516,7 +203516,7 @@ howioikeuteen
 .		
 Oikaisu		
 .		
-Finland	B-MISC	
+Finland		
 höyrylaiwa		
 oli		
 wiimeinen		
@@ -203544,7 +203544,7 @@ tuun
 9		
 päiwänä		
 Toiwo	B-ORG	
-raittiusseuran		
+raittiusseuran	I-ORG	
 hywäksi		
 ,		
 joista		
@@ -203689,7 +203689,7 @@ Uusi
 suomenkielinen		
 lastenlehti		
 .		
-Tiilhi		
+Tiilhi	B-ORG	
 niminen		
 lastenlehti		
 tulee		
@@ -203796,7 +203796,7 @@ N	B-PER
 O	I-PER	
 .	I-PER	
 Ponkalan	I-PER	
-Atatorniolka	I-PER	
+Atatorniolka	B-LOC	
 .		
 Laihian	B-LOC	
 kuntakokouksessa		
@@ -205337,7 +205337,7 @@ nöyrimmästi
 Oskar	B-PER	
 Smolander	I-PER	
 .		
-Iin-Olhawassa	B-LOC	
+Iin-Olhawassa		
 ,		
 Marraskuun		
 15		
@@ -205587,7 +205587,7 @@ kummaa
 kuin		
 rak-		
 jumalatar		
-Sukkamieli	B-MISC	
+Sukkamieli		
 ei		
 näy		
 ol-		
@@ -205596,7 +205596,7 @@ että
 ilman		
 leppanat-		
 elelee		
-Fenne	B-MISC	
+Fenne		
 .		
 Sotkamosta	B-LOC	
 ,		
@@ -206452,7 +206452,7 @@ läänin	I-LOC
 kuwernööri		
 on		
 erottanut		
-Jnarin		
+Jnarin	B-LOC	
 nimismiehen		
 X		
 .		
@@ -206762,8 +206762,8 @@ kirjoittajan
 ,		
 toht		
 .		
-K	B-PER	
-Re	I-PER	
+K		
+Re		
 nimi		
 .		
 Lehteä		
@@ -207074,8 +207074,8 @@ Siilainen
 mies		
 Juho	B-PER	
 Heikkala	I-PER	
-eli	I-PER	
-Paakkari	I-PER	
+eli		
+Paakkari	B-PER	
 wiime		
 keskiwiikkona		
 ajoi		
@@ -207306,7 +207306,7 @@ A	I-PER
 .	I-PER	
 Husgafwel	I-PER	
 on		
-saaYietarista		
+saaYietarista	B-LOC	
 ,		
 kuolema		
 teki		
@@ -207583,8 +207583,8 @@ Sen
 ohessaon		
 on		
 ilmaantunut		
-Kyläkir	B-ORG	
-Ku.valehden	I-ORG	
+Kyläkir		
+Ku.valehden		
 N:o		
 4		
 B		
@@ -207688,7 +207688,7 @@ wasta
 tänä-aamuna		
 järwestä		
 lähellä		
-Ranpnntiia	B-LOC	
+Ranpnntiia		
 .		
 Yohrskränt		
 syntyi		
@@ -209723,7 +209723,7 @@ puista
 tehdyt		
 tarjoukset		
 .		
-Pohjois-Pohjantnaan		
+Pohjois-Pohjantnaan	B-LOC	
 kaasatwpistun		
 kannattajain		
 listoihin		
@@ -210348,8 +210348,8 @@ tiistaina
 toi		
 englantilainen		
 höyrylaiwa		
-Glen	B-MISC	
-Tilt	I-MISC	
+Glen		
+Tilt		
 Ouluun	B-LOC	
 470,000		
 kiloa		
@@ -211029,8 +211029,8 @@ ajalla
 ostanut		
 kaupp		
 .		
-Sstähliltä	B-LOC	
-talon	I-LOC	
+Sstähliltä		
+talon		
 na		
 Lokakuun		
 7		
@@ -211127,9 +211127,9 @@ toistaiseksi
 joka		
 kuussa		
 .		
-W		
-.		
-S	B-PER	
+W	B-PER	
+.	I-PER	
+S	I-PER	
 .	I-PER	
 O	I-PER	
 .	I-PER	
@@ -211376,7 +211376,7 @@ ranskalainen
 kirjailija		
 ,		
 on		
-Prriisista		
+Prriisista	B-LOC	
 tulleiden		
 tietojen		
 mukaan		
@@ -211396,9 +211396,9 @@ hän
 tunnetuksi		
 kuuluisan		
 teoksensa		
-Vie	B-MISC	
-de	I-MISC	
-Jsus	I-MISC	
+Vie		
+de		
+Jsus		
 Jeesuksen	B-PER	
 elämä		
 kautta		
@@ -211575,12 +211575,12 @@ mk
 puolelta		
 wuodelta		
 seleä		
-G		
-.		
-m		
-.		
-Edlundin		
-kirjakaupasta		
+G	B-ORG	
+.	I-ORG	
+m	I-ORG	
+.	I-ORG	
+Edlundin	I-ORG	
+kirjakaupasta	I-ORG	
 nelnngislä		
 että		
 Suomen	B-LOC	
@@ -211671,7 +211671,7 @@ ulos
 Wirolaisten		
 suuren		
 kansallis-epoksen		
-Kalewipoeg	B-MISC	
+Kalewipoeg		
 .		
 Hän		
 knoli		
@@ -211985,11 +211985,11 @@ Niinkuin
 lukija		
 tietää		
 wastaa		
-Kalewipoeg	B-MISC	
+Kalewipoeg		
 meidän		
 suomalaista		
 kansalliseposta		
-Kalewalaa	B-MISC	
+Kalewalaa		
 sen		
 on		
 kerännyt		
@@ -212000,7 +212000,7 @@ kokonaiseksi
 järjestänyt		
 Kreuöwald	B-PER	
 .		
-Kalewipoeg	B-MISC	
+Kalewipoeg		
 antoi		
 Wirolaisille		
 heidän		
@@ -212841,7 +212841,7 @@ tarppariksi
 Wesilahdeu	B-LOC	
 ,		
 Tyr-		
-Kiik.an	B-LOC	
+Kiik.an		
 miehet		
 owatkin		
 10011661		
@@ -214027,7 +214027,7 @@ edustajainsa
 kanssa		
 .		
 --		
-Bäkisan	B-LOC	
+Bäkisan		
 11-0111011011001		
 ,		
 taikka		
@@ -214475,7 +214475,7 @@ toimittataulu
 Kotka	B-ORG	
 Jnsinnööri		
 John	B-PER	
-Sten-	I-PER	
+Sten-		
 on		
 kuollut		
 Helsingissä	B-LOC	
@@ -216821,7 +216821,7 @@ ylimalkaan
 niin		
 se		
 on		
-Nääkkylässäkin		
+Nääkkylässäkin	B-LOC	
 itse		
 asia		
 ,		
@@ -217112,7 +217112,7 @@ eiieiiitnistöä
 Mutta		
 taulun		
 he		
-Raäkkyläan		
+Raäkkyläan	B-LOC	
 saawat		
 sittenkin		
 ,		
@@ -217629,7 +217629,7 @@ saadaan
 iuaiiiuoiinkin		
 perustetuksi		
 .		
-Joensntassa	B-LOC	
+Joensntassa		
 21		
 Papisto		
 .		
@@ -217654,9 +217654,9 @@ omat
 saatieet		
 Kaaniin	B-LOC	
 kirkkoherra		
-I	B-PER	
-.	I-PER	
-G	I-PER	
+I		
+.		
+G		
 .		
 S		
 ä		
@@ -217732,7 +217732,7 @@ toittiittaiiiasta
 tämän		
 wuodeu		
 taltuikäräjät		
-Nnrmeksen		
+Nnrmeksen	B-LOC	
 pitäjääti		
 ja		
 Nautawaaran	B-LOC	
@@ -217779,10 +217779,10 @@ Rahatoimikamarin
 jäsenyydestä		
 wap.iutettiin		
 kauppias		
-M	B-PER	
-.	I-PER	
-G	I-PER	
-Piip	I-PER	
+M		
+.		
+G		
+Piip		
 ponen		
 ja		
 sijaan		
@@ -217841,9 +217841,9 @@ W
 t		
 .		
 kansakoulunopettajaksi		
-Kontiolahdeni		
-Piison		
-kylään		
+Kontiolahdeni	B-LOC	
+Piison	B-LOC	
+kylään	I-LOC	
 on		
 6:sta		
 hakijasta		
@@ -217900,7 +217900,7 @@ koltiiattaktniinientä
 .		
 Uttdet		
 mitat		
-Jlomantsin		
+Jlomantsin	B-LOC	
 lnterilais-		
 ja		
 kreikkalaisseurakutinaii		
@@ -218033,8 +218033,8 @@ k
 11		
 Raittiuden		
 tilasta		
-Wärtsitän		
-tehtaalla		
+Wärtsitän	B-ORG	
+tehtaalla	I-ORG	
 kertoo		
 kirjeenttt.iihtaj.iiniiie		
 seiiraatuaa		
@@ -218322,8 +218322,8 @@ seuraama
 määrä		
 sanomalehtiä		
 :		
-Asetus	B-ORG	
-Kokon	I-ORG	
+Asetus		
+Kokon		
 1		
 ,		
 Diiodeeiiu		
@@ -218377,12 +218377,12 @@ Sawo	B-ORG
 Sporteu	B-ORG	
 2		
 ,		
-Suomen	B-ORG	
-Maattiviljelys	I-ORG	
-Suonien	I-ORG	
-O.sietsiinhoitoiehtt	I-ORG	
-Suomen	I-ORG	
-Teoltisunstelni	I-ORG	
+Suomen	B-LOC	
+Maattiviljelys		
+Suonien		
+O.sietsiinhoitoiehtt		
+Suomen	B-LOC	
+Teoltisunstelni		
 2		
 ,		
 Suomen	B-ORG	
@@ -218391,8 +218391,8 @@ Förentngetis	I-ORG
 Tidskrift	I-ORG	
 t		
 ,		
-Ilmi	B-ORG	
-Suometar	I-ORG	
+Ilmi		
+Suometar	B-ORG	
 ll		
 ,		
 Waltvoia		
@@ -218404,8 +218404,8 @@ Aatteita
 Matti	B-ORG	
 2		
 ,		
-Ostra		
-Fintand	B-PER	
+Ostra	B_ORG	
+Fintand	I-ORG	
 l		
 ,		
 ja		
@@ -218425,14 +218425,14 @@ maiuit-.it
 lehdet		
 kaikki		
 Nurmeksen	B-LOC	
-kitiinan	I-LOC	
+kitiinan		
 osaksi		
 .		
 U		
 .		
 S		
 .		
-Jlomantsin		
+Jlomantsin	B-LOC	
 postitoimistosta		
 on		
 täksi		
@@ -218441,8 +218441,8 @@ tilattii
 seuraainvia		
 ianomalehtiä		
 :		
-Uusi		
-Siiometar		
+Uusi	B-ORG	
+Siiometar	I-ORG	
 10		
 ,		
 tkyläkitjaston		
@@ -218487,17 +218487,17 @@ Wiikko-	I-ORG
 iljettiI-Kokons		
 1		
 ,		
-Sttottien	B-ORG	
-Mäanwiljelys-lehit	I-ORG	
+Sttottien		
+Mäanwiljelys-lehit		
 2		
 ,		
-Suomen	B-ORG	
-Metsän	I-ORG	
+Suomen	B-LOC	
+Metsän		
 :		
 1		
 ,		
 Walwoja	B-ORG	
-Wartia	I-ORG	
+Wartia		
 Teolltluu		
 ?		
 Suoitiett		
@@ -218515,7 +218515,7 @@ Pithän
 Raamatun		
 1		
 ,		
-Kuukanslehti		
+Kuukanslehti	B_ORG	
 l		
 ,		
 1		
@@ -218527,8 +218527,8 @@ Pyhäkonlnlehti	B-ORG
 litis		
 l		
 ,		
-Finland	B-ORG	
-l	I-ORG	
+Finland	B-LOC	
+l		
 ,		
 2		
 ,		
@@ -218547,10 +218547,10 @@ Iernkontorets
 attiialer		
 1		
 ,		
-chr	B-ORG	
-Land	I-ORG	
-iiud	I-ORG	
-Meer	I-ORG	
+chr		
+Land		
+iiud		
+Meer		
 1		
 .		
 		
@@ -218673,7 +218673,7 @@ Päiwärinta	I-PER
 tohtori		
 se		
 .		
-Krohn		
+Krohn	B-PER	
 ,		
 neidet		
 L	B-PER	
@@ -218703,7 +218703,7 @@ Könönen	I-PER
 ,		
 ti		
 .		
-Lewoii		
+Lewoii	B-PER	
 ,		
 A	B-PER	
 .	I-PER	
@@ -218762,7 +218762,7 @@ edun
 että		
 lehdeii		
 hinta		
-Kansaiiwalistusieuran		
+Kansaiiwalistusieuran	B-ORG	
 asiamiehen		
 kautta		
 tilattuna		
@@ -218872,7 +218872,7 @@ on
 otettu		
 neiti		
 Hiltunen	B-PER	
-Kaaiyilta	B-LOC	
+Kaaiyilta		
 täksi		
 lukitkaudeksi		
 .		
@@ -218968,7 +218968,7 @@ loppua
 .		
 Jtäiseu		
 piirin		
-Oulnn		
+Oulnn	B-LOC	
 ,		
 Kuopion	B-LOC	
 ,	I-LOC	
@@ -219562,7 +219562,7 @@ käwi
 että		
 seurakunnassa		
 on		
-KARJALATAB		
+KARJALATAB	B-ORG	
 muutamia		
 kykäkuntia		
 ,		
@@ -219899,7 +219899,7 @@ kiihkoinen
 mies		
 Eräs		
 talollinen		
-Karjalasia		
+Karjalasia	B-LOC	
 on		
 niin		
 kiintynytkorttipeliiti,etteiwoimuitten		
@@ -220335,7 +220335,7 @@ Wäittilyä
 Wastaus		
 neiti		
 Tekla	B-PER	
-Hulii-	I-PER	
+Hulii-		
 Kirj		
 .		
 J	B-PER	
@@ -220592,7 +220592,7 @@ myöntämästaaii
 ivaltioaiviista		
 Lomiisaini		
 ja		
-Marianhamiiiau		
+Marianhamiiiau	B-LOC	
 kylpylaitolselle		
 pidättänyt		
 tästä		
@@ -221699,7 +221699,7 @@ ränstyneeltä
 ,		
 että		
 oli		
-juuTapanin		
+juuTapanin	B-PER	
 olisi		
 ayöwä.rien		
 luolaan		
@@ -222255,7 +222255,7 @@ puolestaan
 on		
 ainoa		
 kansa-moni-		
-Jtäwallan		
+Jtäwallan	B-LOC	
 yhteydessä		
 ,		
 jonka		
@@ -222454,7 +222454,7 @@ J	B-PER
 Balthasar	I-PER	
 137		
 ,		
-O.IAppelberg		
+O.IAppelberg	B-PER	
 130		
 ,		
 ja		
@@ -222602,7 +222602,7 @@ Talonomistajista
 saiwat		
 herrat		
 :		
-K.Falck		
+K.Falck	B-PER	
 93		
 ja		
 E	B-PER	
@@ -222748,7 +222748,7 @@ mereltä
 .		
 Täkäläinen		
 parkkilaiwa		
-Jobb	B-MISC	
+Jobb		
 ,		
 kapteni		
 A	B-PER	
@@ -222812,7 +222812,7 @@ että
 naapuri		
 pitäjäämme		
 priki		
-Ilmarinien	B-MISC	
+Ilmarinien		
 ,		
 kapteni		
 E		
@@ -224115,8 +224115,8 @@ lukijakin
 sen		
 tilaamalla		
 .		
-Balkauin		
-niemimaan		
+Balkauin	B-LOC	
+niemimaan	I-LOC	
 asiat		
 .		
 Kun		
@@ -224375,10 +224375,10 @@ Yhä
 warmemmaksi		
 näyttää		
 so111i11to		
-tanu-111Weuäjän		
+tanu-111Weuäjän	B-LOC	
 l1al11t11k1en		
 ja		
-SBulaauan	B-LOC	
+SBulaauan		
 piireja		
 Wenäjällä	B-LOC	
 ,		
@@ -224387,7 +224387,7 @@ owat
 olleet		
 enimmin		
 wihoissaan		
-Alelsanteri		
+Alelsanteri	B-PER	
 ruhtinaalle		
 ,		
 lienee		
@@ -224503,7 +224503,7 @@ korkein
 sotilas-		
 P		
 .		
-Yrjön		
+Yrjön	B-PER	
 risti		
 .		
 Kmi		
@@ -224681,7 +224681,7 @@ hyöty
 Erään		
 pitäjän		
 kansakouluneuwosto		
-Norjas-		
+Norjas-	B-LOC	
 on		
 päättänyt		
 kieltää		
@@ -224732,7 +224732,7 @@ hamaintonsa
 Erään		
 talon		
 tellarissa		
-Jnsbuekissä		
+Jnsbuekissä	B-LOC	
 oli		
 yhtenään		
 kadonuut		
@@ -224909,11 +224909,11 @@ kuun
 11:sta		
 päiwästä		
 .		
-A		
-.		
-F		
-,		
-Nyinalm		
+A	B-PER	
+.	I-PER	
+F	I-PER	
+,	I-PER	
+Nyinalm	I-PER	
 K	B-PER	
 Aladin	I-PER	
 .		
@@ -224973,8 +224973,8 @@ tonnissa
 ottaa		
 walwoakseusa		
 ,		
-Sallmen		
-Kotkass		
+Sallmen	B-PER	
+Kotkass	B-LOC	
 jotka		
 owat		
 welkaa		
@@ -225066,8 +225066,8 @@ ai
 Gtalsn		
 Kotkassa	B-LOC	
 ,		
-K.W.We1nanin	B-ORG	
-kirjapainossa	I-ORG	
+K.W.We1nanin		
+kirjapainossa		
 ,		
 1886		
 .		
@@ -225413,7 +225413,7 @@ Pietarin	B-LOC
 junan		
 tultua		
 suoraan		
-Jywäs-	B-LOC	
+Jywäs-		
 Siitä		
 tulee		
 sanomalehtiin		
@@ -225758,9 +225758,9 @@ K	B-PER
 Lindroth	I-PER	
 ja		
 wiiwottaja		
-A		
-,		
-Järwenpää		
+A	B-PER	
+,	I-PER	
+Järwenpää	I-PER	
 .		
 Herra		
 senaattoria		
@@ -226055,11 +226055,11 @@ Laulukunnan
 wielä		
 laulettua		
 suomeksi		
-Sawolaisen	B-MISC	
-laulun	I-MISC	
+Sawolaisen		
+laulun		
 ja		
 ruotsiksi		
-Maamme	B-MISC	
+Maamme		
 nosti		
 tuo		
 tuhansiin		
@@ -226118,8 +226118,8 @@ kehua
 ,		
 ensin		
 kokoontuneina		
-Platen	B-PER	
-kahwilaan		
+Platen	B-ORG	
+kahwilaan	I-ORG	
 sieltä		
 kolmatta		
 sataisena		
@@ -226133,8 +226133,8 @@ kanssa
 yhteen		
 .		
 P-		
-L	B-PER	
-Halla	I-PER	
+L		
+Halla		
 .		
 Toukokuun		
 2324		
@@ -226309,8 +226309,8 @@ rannikolla
 joutu-		
 haaksirikkoon		
 toisena		
-Helluntai-	B-PER	
-Merellä	I-PER	
+Helluntai-		
+Merellä		
 oli		
 paluumatkalla		
 olewaa		
@@ -226352,7 +226352,7 @@ mereen
 .		
 Kun		
 merimies		
-Kurki		
+Kurki	B-PER	
 koetti		
 saada		
 ankkuria		
@@ -226591,7 +226591,7 @@ Turusta	B-LOC
 tyhj		
 .		
 n		
-Maja	B-MISC	
+Maja		
 ,		
 kapt		
 .		
@@ -226606,8 +226606,8 @@ Kes
 Tanskal		
 .		
 kaljaasi		
-Larsens	B-MISC	
-Pladc	I-MISC	
+Larsens		
+Pladc		
 ,		
 kapt		
 .		
@@ -226725,13 +226725,13 @@ toi
 näet		
 Toiwaisen	B-PER	
 konttoristi		
-Girssnin	B-PER	
-puotiin		
+Girssnin	B-ORG	
+puotiin	I-ORG	
 kokonaisnossa		
 9		
 kappaletta		
-Girsenin	B-PER	
-liikkeen		
+Girsenin	B-ORG	
+liikkeen	I-ORG	
 entisiä		
 kirjoja		
 ,		
@@ -227690,7 +227690,7 @@ sitä
 wastaan		
 wastalauseensa		
 .		
-Shiwtow		
+Shiwtow	B-PER	
 on		
 Stambulossin	B-PER	
 parhaita		
@@ -228459,7 +228459,7 @@ myrskyinen
 keskustelu		
 .		
 Edusmies		
-Rioet		
+Rioet	B-PER	
 säi		
 ensiksi		
 sänänwuoron		
@@ -228709,8 +228709,8 @@ ministeristön
 me		
 tarwitsemme		
 .		
-C	B-PER	
-Carmauxiss	I-PER	
+C		
+Carmauxiss	B-PER	
 käydessämme		
 me		
 nojauduimme		
@@ -229089,9 +229089,9 @@ ja
 w.-p		
 .		
 suutari		
-P		
-.		
-Jkonen		
+P	B-PER	
+.	I-PER	
+Jkonen	I-PER	
 III		
 kompp		
 .		
@@ -229475,8 +229475,8 @@ Kiitettäwää
 harrastusta		
 JtäKarjalassa	B-LOC	
 .		
-Jmpilahden		
-kunta		
+Jmpilahden	B-LOC	
+kunta	I-LOC	
 päätti		
 wiime		
 kuun		
@@ -230012,7 +230012,7 @@ lakiehdotuksen
 asiassa		
 .		
 Mitä		
-Murtaja	B-MISC	
+Murtaja		
 maksaa		
 ,		
 Sähkö-		
@@ -230020,7 +230020,7 @@ ja
 uusine		
 pumppulaitok-		
 on		
-Murtaja	B-MISC	
+Murtaja		
 tullut		
 maksamaan		
 noin		
@@ -230399,7 +230399,7 @@ eräs
 hra		
 Schwantensliigelin	B-PER	
 kirjoitus		
-Kalewalan	B-MISC	
+Kalewalan		
 siwistyshistoriallisesta		
 merkityksestä		
 .		
@@ -230524,7 +230524,7 @@ m
 kokosi		
 ja		
 julkaisi		
-Kalewalan	B-MISC	
+Kalewalan		
 ,		
 silloin		
 saiwat		
@@ -230650,7 +230650,7 @@ puhuja
 eräs		
 opettaja		
 Leidig	B-PER	
-Schwa-	I-PER	
+Schwa-		
 Bayerissa	B-LOC	
 .		
 y6täwät		
@@ -231013,8 +231013,8 @@ Hannikainen	I-PER
 Parikkalasta	B-LOC	
 Alekkeksintöä	I-LOC	
 ,		
-sandra		
-Kaartinen	B-PER	
+sandra	B-PER	
+Kaartinen	I-PER	
 ,		
 Sotkamosta	B-LOC	
 Santen		
@@ -231055,8 +231055,8 @@ Augusta	I-PER
 Miettinen	I-PER	
 ,		
 Kuopiosta	B-LOC	
-Jda		
-Sofia	B-PER	
+Jda	B-PER	
+Sofia	I-PER	
 Mole0106	I-PER	
 ,		
 Tainmelasta		
@@ -231349,7 +231349,7 @@ k
 .		
 :		
 pnä		
-Suojärwettä		
+Suojärwettä	B-LOC	
 kutsutuita		
 oli		
 henkeä		
@@ -231606,7 +231606,7 @@ saawuttamista
 .		
 8ie		
 :		
-Sähkösanoma-Toimisto		
+Sähkösanoma-Toimisto	B-ORG	
 antanut		
 .		
 näin		
@@ -232040,7 +232040,7 @@ päällikkönä
 Hallaa		
 on		
 ollut		
-Etelä-Suomessu		
+Etelä-Suomessu	B-LOC	
 yöllä		
 lauantaita		
 1		
@@ -232701,7 +232701,7 @@ Johan	I-PER
 Wihawainen	I-PER	
 4k		
 .		
-Wäätälänmäki,5		
+Wäätälänmäki,5	B-LOC	
 Lois		
 Susanna	B-PER	
 Hämäläinen	I-PER	
@@ -232771,15 +232771,15 @@ pantuja
 Lois	B-PER	
 Johan	I-PER	
 Paawonp	I-PER	
-.		
-Löppönen	B-LOC	
+.	I-PER	
+Löppönen	I-PER	
 ja		
 me		
 t		
 .		
 Jda	B-PER	
 Maria	I-PER	
-Hämäläinen,111111rtilan1uäeltä	B-LOC	
+Hämäläinen,111111rtilan1uäeltä	B-PER	
 me		
 p		
 .		
@@ -232812,7 +232812,7 @@ Pellinen	I-PER
 ja		
 me		
 Ewa	B-PER	
-Kat1i11a	I-PER	
+Kat1i11a		
 Lohilahdelta	B-LOC	
 me		
 .		
@@ -232850,8 +232850,8 @@ Kustaawa	B-PER
 Hintsanen	I-PER	
 Tunnilasta	B-LOC	
 S1saan		
-Renki	B-PER	
-Robert	I-PER	
+Renki		
+Robert	B-PER	
 Ruottinen	I-PER	
 ,		
 Puumalasta	B-LOC	
@@ -232869,8 +232869,8 @@ Tiainen	I-PER
 Säämingistä	B-LOC	
 .		
 Löysäläinen		
-A111andaFredrika	B-PER	
-Wiljakainen	I-PER	
+A111andaFredrika		
+Wiljakainen	B-PER	
 Rantasalmelta	B-LOC	
 Puu		
 :		
@@ -232914,7 +232914,7 @@ Wilhelm	I-PER
 Piispa		
 perheineen		
 Ju1valleRenki		
-OttoWillelm961nonenuwalleme		
+OttoWillelm961nonenuwalleme	B-PER	
 t		
 .		
 Maria	B-PER	
@@ -232929,8 +232929,8 @@ Kappal
 .		
 t		
 .		
-Jda		
-Augusti	B-PER	
+Jda	B-PER	
+Augusti	I-PER	
 Lindh	I-PER	
 Padasjoelle	B-LOC	
 Piika		
@@ -233194,8 +233194,8 @@ Saarennosta	B-LOC
 ,		
 Talonp		
 Tuomas	B-PER	
-Syl1o	I-PER	
-Puolakka	I-PER	
+Syl1o		
+Puolakka	B-PER	
 ja		
 palm		
 piika		
@@ -233230,7 +233230,7 @@ Orawalasta	B-LOC
 ,		
 leski		
 Jaakko	B-PER	
-Taawiup..i1a11ppila,naapalastaja	I-PER	
+Taawiup..i1a11ppila,naapalastaja		
 piika		
 Albertiina	B-PER	
 Jokelasta	B-LOC	
@@ -233698,7 +233698,7 @@ kanpungin
 pormestaria		
 ,		
 assessori		
-Schog-		
+Schog-	B-PER	
 lähtemään		
 Helsinkiin	B-LOC	
 Wähäisen		
@@ -233715,7 +233715,7 @@ ollut-
 edusmiestä		
 tirehtööri		
 Enebergia	B-PER	
-Hel-	I-PER	
+Hel-		
 tekemään		
 tiedustelemisia		
 .		
@@ -233979,9 +233979,9 @@ keksimällä
 kirjoitusta111allaan		
 raamattua		
 kääntää		
-Norjan	B-LOC	
+Norjan		
 kielestä		
-Lapinkielelle	B-LOC	
+Lapinkielelle		
 .		
 Wangistossa		
 Nw		
@@ -234058,9 +234058,9 @@ siaan
 ylim		
 .		
 maakontt		
-J	B-PER	
-.	I-PER	
-J.Smedl1erg1n	I-PER	
+J		
+.		
+J.Smedl1erg1n		
 .		
 Wenäläinen		
 seuranäytelmä		
@@ -234141,7 +234141,7 @@ norjalainen
 insiööri		
 Mörck	B-PER	
 aiko-		
-Jmatran		
+Jmatran	B-LOC	
 wesi		
 putoukseen		
 rakentaa		
@@ -234622,8 +234622,8 @@ tilit
 hywäksyttiin		
 seilaisinaan		
 .		
-Pikisaaren		
-wiinatehtaan		
+Pikisaaren	B-ORG	
+wiinatehtaan	I-ORG	
 tontti		
 ,		
 Käsitettäessä		
@@ -234897,7 +234897,7 @@ tähän
 toalmisteluknnkaan		
 herrat		
 ioärjäriystehtailija		
-Rynön		
+Rynön	B-PER	
 ja		
 iiisiuöri		
 Grönlund	B-PER	
@@ -235036,7 +235036,7 @@ p
 :		
 122		
 :		
-Berlini		
+Berlini	B-LOC	
 l-		
 a		
 .		
@@ -235125,7 +235125,7 @@ ja
 Uudenkanpungin	B-LOC	
 raja-sähkösanoma-asemalla-		
 .		
-Snomen		
+Snomen	B-LOC	
 raknnnarykinentille		
 ostetaan		
 joku		
@@ -235185,7 +235185,7 @@ Mikkelissä	B-LOC
 25		
 p		
 .		
-Jlmajoen		
+Jlmajoen	B-LOC	
 ,		
 27		
 p		
@@ -235669,9 +235669,9 @@ päiwästä
 alkaen		
 lähtewät		
 höyryalukset		
-Sorea	B-MISC	
+Sorea		
 ja		
-Leporello	B-MISC	
+Leporello		
 Lappeenrannasta	B-LOC	
 Mikkeliin	B-LOC	
 joka		
@@ -235780,8 +235780,8 @@ aikana
 niinkuin		
 tawallisesti		
 .		
-Don	B-MISC	
-Juan	I-MISC	
+Don		
+Juan		
 saapui		
 tänne		
 perjantai-aamuna		
@@ -235794,8 +235794,8 @@ wasta
 myöhemmin		
 päiivällä		
 ,		
-Don	B-MISC	
-Juan	I-MISC	
+Don		
+Juan		
 muuten		
 tawallisesti		
 saapnn		
@@ -236307,7 +236307,7 @@ k
 p:uä		
 ,		
 höyrypursi		
-Tiiralla	B-MISC	
+Tiiralla		
 wesille		
 päin		
 lähtien		
@@ -236351,7 +236351,7 @@ numerossa
 Kitje-laatilko		
 .		
 Saarna-poika		
-Taipalsaar		
+Taipalsaar	B-LOC	
 Kauniit		
 kiitokset		
 .		
@@ -236649,9 +236649,9 @@ lääk
 .		
 kand		
 .		
-I	B-PER	
-.	I-PER	
-T	I-PER	
+I		
+.		
+T		
 .		
 slummien		
 ,		
@@ -236784,7 +236784,7 @@ suomalainen
 teateri		
 aikonntsyksyn		
 kuluessa		
-käydä.Wiipurissa		
+käydä.Wiipurissa	B-LOC	
 ,		
 mutta		
 kun		
@@ -237057,7 +237057,7 @@ hätvittää
 myöskin		
 tiirivattoman		
 Werlvoschytzin	B-LOC	
-kyIän		
+kyIän	I-LOC	
 ,		
 kun		
 eiwät		
