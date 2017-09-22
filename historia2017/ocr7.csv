@@ -10227,7 +10227,7 @@ Taalintehdas	B-LOC
 3	
 m	
 Väinö	B-PER
-Rei1111	I-PER
+Rei1111	
 ,	
 Luopioinen	B-LOC
 4	
@@ -20354,8 +20354,8 @@ Grönsorsin	B-PER
 PllödiiL	
 Mittarit	
 Lehtori	
-Palanderin	B-LOC
-talossa	I-LOC
+Palanderin	B-PER
+talossa	
 .	
 Ensi	
 sunnuntaina	
@@ -21615,7 +21615,7 @@ A
 Jaaksi	
 Rukoussalissa	
 Jsokatu	B-LOC
-18	I-LOC
+18	
 lauantai-	
 mittiuIItama	
 klo	
@@ -33438,7 +33438,7 @@ mainitsimme
 ,	
 että	
 Hämeent	B-LOC
-Orawaisten	B-LOC
+Orawaisten	
 sioitettu	
 pataljona	
 on	
@@ -33837,10 +33837,10 @@ K	B-PER
 Henrikssonin	I-PER
 ,	
 jonka	
-Raaseporin	B-ORG
-kihlak	I-ORG
-.	I-ORG
-oikeus	I-ORG
+Raaseporin	B-LOC
+kihlak	
+.	
+oikeus	
 wiime	
 maalisk	
 .	
@@ -43626,9 +43626,9 @@ täydessä
 woimassa	
 olleen	
 wiiiia-hotelli	
-Juho	B-LOC
-Tikan	I-LOC
-talossa	I-LOC
+Juho	B-PER
+Tikan	I-PER
+talossa	
 .	
 Tästä	
 tuulee	
@@ -52468,8 +52468,8 @@ Italian	B-LOC
 perintö-kuninkaaksi	
 ,	
 Umbrian	B-LOC
-ja	I-LOC
-Kampagnan	I-LOC
+ja	
+Kampagnan	B-LOC
 maakunnat	I-LOC
 owat	
 lähettäneet	
@@ -53419,8 +53419,8 @@ ivaltainaaniien
 siinä	
 kuin	
 Kaerlan	B-LOC
-MuiIin	I-LOC
-talon	I-LOC
+MuiIin	B-PER
+talon	
 ja	
 Taskulan	B-LOC
 kappalaisen	
@@ -53514,8 +53514,8 @@ joo
 myydään	
 kultasepän	
 lesken	
-öiterntannin	B-LOC
-talossa	I-LOC
+öiterntannin	
+talossa	
 Länsi-Aurakadun	B-LOC
 warrella	
 tässä	
@@ -53615,9 +53615,9 @@ joka
 halulltsille	
 ostajille	
 il	
-Turun	B-ORG
-kaupungin	I-ORG
-huutokamarista	I-ORG
+Turun	B-LOC
+kaupungin	I-LOC
+huutokamarista	
 lokatuotetaan	
 .	
 29	
@@ -54097,8 +54097,8 @@ joukoissa
 helpolla	
 hintaa	
 kauppias	
-Aistanin	B-LOC
-talossa	I-LOC
+Aistanin	B-PER
+talossa	
 Uudenmaan	B-LOC
 kadun	I-LOC
 wartalla	
@@ -54108,9 +54108,7 @@ G
 Rieks	
 ,	
 Allekirjoitetulla	
-P	
-.	
-tneijan	
+P.tneijan	
 kylässä	
 Kiukaisten	B-LOC
 kappelissa	I-LOC
@@ -54176,8 +54174,8 @@ P	B-PER
 F-	I-PER
 Sibelius	I-PER
 entisessä	
-Klngelinin	B-LOC
-talossa	I-LOC
+Klngelinin	B-PER
+talossa	
 ,	
 Ilmoituksia	
 Allekirjottanut	
@@ -54855,8 +54853,8 @@ p
 .	
 warastettiin	
 eläinlääkäri	
-Palmgrenin	B-LOC
-talosta	I-LOC
+Palmgrenin	B-PER
+talosta	
 treuki	
 R	B-PER
 .	I-PER
@@ -54982,8 +54980,8 @@ oli
 käynyt	
 pihatossa	
 kaupunginnotarin	
-Stälhandsken	B-LOC
-talossa	I-LOC
+Stälhandsken	B-PER
+talossa	
 ,	
 lypsänyt	
 siellä	
@@ -55526,11 +55524,11 @@ Efraim	B-PER
 Mähkö	I-PER
 Parkanolta	B-LOC
 ,	
-Iohan	
-Kihlström	B-PER
+Iohan	B-PER
+Kihlström	I-PER
 Nurmijärrveltä	B-LOC
 ,	
-Johan	B-PER
+Johan	B-pER
 Kajalin	I-PER
 Porista	B-LOC
 ja	
@@ -57392,10 +57390,10 @@ pitäjässä	I-LOC
 ,	
 johon	
 kuuluu	
-Knaapin	B-LOC
-ja	I-LOC
-Heikkilän	I-LOC
-frälsitalot	I-LOC
+Knaapin	B-PER
+ja	
+Heikkilän	B-PER
+frälsitalot	
 ,	
 yhteensä	
 19	
@@ -57680,8 +57678,8 @@ A	I-PER
 .	I-PER
 Grönrosilla	I-PER
 rouwa	
-Lindemannin	B-LOC
-talossa	I-LOC
+Lindemannin	B-PER
+talossa	
 liki	
 Wenäjän	B-LOC
 kirkkoa	I-LOC
@@ -57814,8 +57812,8 @@ T	I-PER
 .	I-PER
 Lundeberg	I-PER
 apteekari	
-Aschanin	B-LOC
-talossa	I-LOC
+Aschanin	B-PER
+talossa	
 Turussa	B-LOC
 .	
 E	
@@ -57858,8 +57856,8 @@ alle
 Eurajoen	B-LOC
 pitäjää	I-LOC
 kuuluwassa	
-Kainun	B-LOC
-talossa	I-LOC
+Kainun	B-PER
+talossa	
 lehmäkarja	
 ,	
 jossa	
@@ -58355,15 +58353,15 @@ on
 muuttanut	
 entisestä	
 seppä	
-Iernströmin	B-LOC
-talosta	I-LOC
+Iernströmin	B-PER
+talosta	
 leskirouwa	
-Rangellin	B-LOC
-taloon	I-LOC
+Rangellin	B-PER
+taloon	
 kauppias	
 .	
-Kraftin	B-LOC
-talon	I-LOC
+Kraftin	B-PER
+talon	
 wieressä	
 Wähän	B-LOC
 Hämeenkadun	I-LOC
@@ -58929,8 +58927,8 @@ Heintäk
 2	
 p	
 .	
-Sankarin	B-LOC
-talon	I-LOC
+Sankarin	B-PER
+talon	
 tytär	
 Wilhelmina	B-PER
 Mynämäen	B-LOC
@@ -58967,8 +58965,8 @@ sanoi
 hänen	
 asunItostansa	
 kauppias	
-Äkermanin	B-LOC
-talosta	I-LOC
+Äkermanin	B-PER
+talosta	
 wiedyn	
 sylinterikellon	
 .	
@@ -59022,8 +59020,8 @@ syyskuun
 p	
 .	
 Widkullan	B-LOC
-Westergärdin	B-LOC
-talo	I-LOC
+Westergärdin	B-PER
+talo	
 Paraisten	B-LOC
 pitäjässä	I-LOC
 .	
@@ -59521,8 +59519,8 @@ wuosilta
 korwaamattomat	
 pa-	
 perämies	
-Kumeniusen	B-LOC
-talossa	I-LOC
+Kumeniusen	B-PER
+talossa	
 Turussa	B-LOC
 ja	
 Jywäskylän	B-LOC
@@ -60549,9 +60547,9 @@ Limnell	I-PER
 ,	
 Wenäjän	B-LOC
 kirkkokadulla	I-LOC
-ta!osso	I-LOC
-n:o	I-LOC
-9	I-LOC
+ta!osso	
+n:o	
+9	
 ,	
 wastaanottaa	
 willoja	
@@ -63029,8 +63027,8 @@ Littoisten	B-LOC
 kylässä	I-LOC
 ,	
 että	
-Jso-Kauslan	B-LOC
-talon	I-LOC
+Jso-Kauslan	B-PER
+talon	
 laitumelta	
 oli	
 kadonnut	
@@ -65230,8 +65228,8 @@ Prunkkalan	B-LOC
 kappeli	I-LOC
 Pitkäniitun	B-LOC
 kylä	I-LOC
-Nokan	B-LOC
-talo	I-LOC
+Nokan	B-PER
+talo	
 tiluksilla	
 .	
 Turun	B-ORG
@@ -66321,14 +66319,14 @@ ar-
 antaisi	
 apurahaa	
 Wiipurin	B-LOC
-,	I-LOC
-Oulun	I-LOC
-,	I-LOC
-Hämeenlinnan	I-LOC
-,	I-LOC
-Mikkelin	I-LOC
-ja	I-LOC
-Poriu	I-LOC
+,	
+Oulun	B-LOC
+,	
+Hämeenlinnan	B-LOC
+,	
+Mikkelin	B-LOC
+ja	
+Poriu	B-LOC
 kaupunkei-	I-LOC
 yksityisten	
 kokoamilla	
@@ -68075,11 +68073,11 @@ W-
 Kiinteinien	
 kauppa	
 .	
-Talon	B-LOC
-n:o	I-LOC
-4	I-LOC
-Sairashuonekadun	I-LOC
-warrella	I-LOC
+Talon	
+n:o	
+4	
+Sairashuonekadun	B-LOC
+warrella	
 on	
 tämän	
 kuun	
@@ -68865,8 +68863,8 @@ Lähetyssaarnaaja
 ,	
 Turussa	B-LOC
 Länsitorikatu	B-LOC
-N:o	I-LOC
-10	I-LOC
+N:o	
+10	
 .	
 Turustm	
 Kappalaisenwaalia	
@@ -72034,8 +72032,8 @@ Wolgan	B-LOC
 wasemmalla	
 rannalla	
 Kosmodemjanskin	B-LOC
-ja	I-LOC
-Kasanin	I-LOC
+ja	
+Kasanin	B-LOC
 kaupunkien	I-LOC
 wälillä	
 asuwat	
@@ -72142,8 +72140,8 @@ Kauimpana
 idässä	
 ,	
 Ob	B-LOC
-ja	I-LOC
-Jriiseh	I-LOC
+ja	
+Jriiseh	B-LOC
 wirtain	I-LOC
 ympärillä	
 asuivat	
@@ -72195,21 +72193,21 @@ allekirjoittaneen
 pääl-	
 on	
 muutettu	
-talosta	B-LOC
-N:o	I-LOC
-6	I-LOC
-Wähän	I-LOC
+talosta	
+N:o	
+6	
+Wähän	B-LOC
 Braahekadun	I-LOC
-warrella	I-LOC
+warrella	
 rautakauppias	
-H	B-LOC
-.	I-LOC
-Koskisen	I-LOC
-taloon	I-LOC
+H	B-PER
+.	I-PER
+Koskisen	I-PER
+taloon	
 ,	
 Liiinaukata	B-LOC
-N:o	I-LOC
-1	I-LOC
+N:o	
+1	
 .	
 Hulda	
 Wiime	
@@ -72331,9 +72329,9 @@ kesäk
 .	
 p	
 .	
-Reuhas	B-PER
-,	I-PER
-Troberg	I-PER
+Reuhas	
+,	
+Troberg	B-PER
 ,	
 Turkuun	B-LOC
 .	
@@ -72555,7 +72553,7 @@ Löfström	I-PER
 Filos	
 .	
 magisier	
-Ewert	I-PER
+Ewert	B-PER
 Maiin	I-PER
 ,	
 Työmies	
@@ -72594,12 +72592,12 @@ Herr
 Karl	B-PER
 Salonen	I-PER
 ,	
-Per	B-PER
-A	I-PER
+Per	
+A	B-PER
 .	I-PER
 Sjöholm	I-PER
 ,	
-Henriksson	B-PER
+Henrik	B-PER
 Suulman	I-PER
 ,	
 Fru	
@@ -72959,7 +72957,7 @@ G	I-PER
 .	I-LOC
 ahlmanilla	I-PER
 Käsityöläiskatu	B-LOC
-18	I-LOC
+18	
 .	
 Hywää	
 kuorittua	
@@ -72970,8 +72968,8 @@ kannu
 ,	
 Läntinen	B-LOC
 pitkäkatu	I-LOC
-N:o	I-LOC
-7	I-LOC
+N:o	
+7	
 ,	
 toiset	
 portaat	
@@ -73010,8 +73008,8 @@ W	I-PER
 Suudqwistilla	I-PER
 Wähä	B-LOC
 Hämeenkatu	I-LOC
-N:o	I-LOC
-10	I-LOC
+N:o	
+10	
 .	
 Hnimtaa	
 !	
@@ -73102,7 +73100,7 @@ Pahlmanin	I-PER
 höyrysorwaustehtaassa	
 ,	
 Käsityöiäistatu	B-LOC
-18	I-LOC
+18	
 .	
 Taitawai	
 Satulamaakani	
@@ -73125,8 +73123,8 @@ oppiin
 2	
 oikaa	
 Arseninpoikkikatu	B-LOC
-N:o	I-LOC
-5	I-LOC
+N:o	
+5	
 .	
 Lllpfeniijttö	
 Inoittaa	
@@ -75158,9 +75156,9 @@ että
 surusaatto	
 lähtee	
 Erikinkadun	B-LOC
-talosta	I-LOC
-N:o	I-LOC
-9	I-LOC
+talosta	
+N:o	
+9	
 perjantaina	
 tammiluun	
 !	
@@ -75171,7 +75169,7 @@ k:lo
 j.pp	
 Wenäjän	B-LOC
 kirkkokatu	I-LOC
-9	I-LOC
+9	
 ,	
 surku	
 ,	
@@ -75197,7 +75195,7 @@ kulettamisessa
 Someron	B-LOC
 pitäiässä	I-LOC
 Miiärämäen	B-LOC
-talossa	I-LOC
+talossa	
 sekä	
 Sauwon	B-LOC
 pitäjässä	I-LOC
@@ -75218,15 +75216,15 @@ kulettamisessa
 Ingon	B-LOC
 pitäsäsiä	I-LOC
 Bolstan	B-LOC
-sa	I-LOC
-Bartan	I-LOC
-talojen	I-LOC
+sa	
+Bartan	B-LOC
+talojen	
 metiässä	
 sekä	
 Pohjan	B-LOC
 pitäjässä	I-LOC
 Brödtorpan	B-LOC
-talon	I-LOC
+talon	
 metsässä	
 .	
 Sauomain	
@@ -75254,7 +75252,7 @@ konttoriimme
 ,	
 Läntinen	B-LOC
 Rantakatu	I-LOC
-21	I-LOC
+21	
 .	
 Painettua	
 Makulaturia	
@@ -77308,9 +77306,9 @@ Wäkeä
 keskinkertaisesti	
 .	
 Jämsässä	B-LOC
-Juo	I-LOC
+Juo	
 Punaniemen	B-LOC
-talossa	I-LOC
+talossa	
 .	
 Wäkeä	
 runsaasti	
@@ -77339,8 +77337,8 @@ muuten
 paranewat	
 .	
 Kuorehwedellä	B-LOC
-Kolhin	B-LOC
-talossa	I-LOC
+Kolhin	B-PER
+talossa	
 .	
 Wäkeä	
 hywin	
@@ -77476,8 +77474,8 @@ Tawarajunan
 421	
 kulkiessa	
 Kuurilan	B-LOC
-ja	I-LOC
-Toijalan	I-LOC
+ja	
+Toijalan	B-LOC
 asemien	I-LOC
 wäliä	
 k:lo	
@@ -78237,22 +78235,22 @@ liikennettä
 warten	
 Joensaasta	B-LOC
 Nurmeksen	B-LOC
-,	I-LOC
-Luhmoniemen	I-LOC
-,	I-LOC
-Suomussalmen	I-LOC
-,	I-LOC
-Kuusamon	I-LOC
-,	I-LOC
-Kemijärwen	I-LOC
-,	I-LOC
-Sodankylän	I-LOC
-,	I-LOC
-Kittilän	I-LOC
-,	I-LOC
-Muonioniskan	I-LOC
-ja	I-LOC
-Enontekiäisten	I-LOC
+,	
+Luhmoniemen	B-LOC
+,	
+Suomussalmen	B-LOC
+,	
+Kuusamon	B-LOC
+,	
+Kemijärwen	B-LOC
+,	
+Sodankylän	B-LOC
+,	
+Kittilän	B-LOC
+,	
+Muonioniskan	B-LOC
+ja	
+Enontekiäisten	B-LOC
 kuntain	I-LOC
 kautta	
 Lyngen-	
@@ -78344,14 +78342,14 @@ S
 .	
 että	
 Wiipurin	B-LOC
-,	I-LOC
-Sawonlinnan	I-LOC
-,	I-LOC
-Sortawalan	I-LOC
-,	I-LOC
-Kuopion	I-LOC
-ja	I-LOC
-Joensuun	I-LOC
+,	
+Sawonlinnan	B-LOC
+,	
+Sortawalan	B-LOC
+,	
+Kuopion	B-LOC
+ja	
+Joensuun	B-LOC
 kaupunkien	I-LOC
 edusmiesten	
 pitäisi	
@@ -79695,11 +79693,11 @@ ja
 Jokioisten	B-LOC
 piireissä	I-LOC
 Tammelan	B-LOC
-,	I-LOC
-sekä	I-LOC
-Korpilahden	I-LOC
-ja	I-LOC
-Jämsän	I-LOC
+,	
+sekä	
+Korpilahden	B-LOC
+ja	
+Jämsän	B-LOC
 piireissä	I-LOC
 Jämsän	B-LOC
 kihlakuntaa	I-LOC
@@ -79736,20 +79734,20 @@ keskinkertaista
 parempaa	
 satoa	
 Tammelan	B-LOC
-,	I-LOC
-Luopioisten	I-LOC
-,	I-LOC
-Hollolan	I-LOC
-ja	I-LOC
-Nastolan	I-LOC
-nimismiespiireissä	I-LOC
+,	
+Luopioisten	B-LOC
+,	
+Hollolan	B-LOC
+ja	
+Nastolan	B-LOC
+nimismiespiireissä	
 ,	
 keskin-	
 wähempää	
 satoa	
 Pälkäneen	B-LOC
-ja	I-LOC
-Jämsän	I-LOC
+ja	
+Jämsän	B-LOC
 piireissä	I-LOC
 sekä	
 keskinkertaista	
@@ -85291,8 +85289,8 @@ Jämsässä	B-LOC
 kuolleita:KestiManu	
 Juhonpoika	B-PER
 ,	
-Jaman	B-LOC
-talosta	I-LOC
+Jaman	B-PER
+talosta	
 ,	
 wuod	
 :	
@@ -85300,8 +85298,8 @@ piika
 Rosa	B-PER
 Lind	I-PER
 ,	
-Eskolan	B-LOC
-talosta	I-LOC
+Eskolan	B-PER
+talosta	
 ,	
 18	
 wuod	
@@ -85331,8 +85329,8 @@ kesti
 Juho	B-PER
 Matinpoika	I-PER
 ,	
-Kolmusen	B-LOC
-talosta	I-LOC
+Kolmusen	B-PER
+talosta	
 ,	
 82	
 wuod	
@@ -85340,8 +85338,8 @@ wuod
 kesti	
 Nikodemus	B-PER
 Eeronpoika	I-PER
-Köyhän	B-LOC
-talosta	I-LOC
+Köyhän	I-PER
+talosta	
 62	
 wuod	
 .	
@@ -86055,8 +86053,8 @@ ompelustyötä
 Asuntoni	
 on	
 herra	
-Mäkisen	B-LOC
-talossa	I-LOC
+Mäkisen	B-PER
+talossa	
 Aleksandra	B-PER
 Pohjolain	I-PER
 .	
@@ -86105,8 +86103,8 @@ saapi
 sopia	
 kanssa	
 kotonani	
-Laukkalan	B-LOC
-talossa	I-LOC
+Laukkalan	B-PER
+talossa	
 Korpilahdella	B-LOC
 .	
 Likempiä	
@@ -86217,8 +86215,8 @@ kappelin
 Haawiston	B-LOC
 kylään	I-LOC
 ,	
-Ridan	B-LOC
-taloon	I-LOC
+Ridan	B-PER
+taloon	
 ,	
 jotakin	
 tietoa	
@@ -86260,8 +86258,8 @@ F
 ,	
 lander	
 Kauppias	
-Poikolin	B-LOC
-talossa	I-LOC
+Poikolin	B-PER
+talossa	
 .	
 Lakiasioita	
 toimittaa	
@@ -86384,8 +86382,8 @@ j.p.p
 herra	
 nikkari	
 6	
-Lundellin	B-LOC
-taloon	I-LOC
+Lundellin	B-PER
+taloon	
 keskus-	
 telemaan	
 käsityöläisten-	
@@ -86474,8 +86472,8 @@ päiwää
 wasten	
 katoi	
 JywäskyP	B-LOC
-Tanttilan	B-LOC
-talon	I-LOC
+Tanttilan	B-PER
+talon	
 pihasta	
 ruuna	
 he-	
@@ -86524,8 +86522,8 @@ omistaja
 saapi	
 Eewalta	B-PER
 entisessä	
-Tawaststjernan	B-LOC
-talossa	I-LOC
+Tawaststjernan	B-PER
+talossa	
 .	
 413	
 ensi	
@@ -92321,10 +92319,10 @@ alaikäisten
 lasten	
 omima	
 Kuhaniemenwapatila	B-LOC
-N:o	I-LOC
-18	I-LOC
-manttaalia	I-LOC
-kylässä	I-LOC
+N:o	
+18	
+manttaalia	
+kylässä	
 Laukaan	B-LOC
 .	
 pitäjässä	
@@ -92517,8 +92515,8 @@ e
 pp	
 .	
 inyydäan-	
-Kaokkalan	B-LOC
-talossa	I-LOC
+Kaokkalan	B-PER
+talossa	
 huutokaupalIa	
 otria	
 ,	
@@ -94142,7 +94140,7 @@ E
 .	
 Määt	
 Hedberg	B-PER
-J	B-PER
+J	I-PER
 .	I-PER
 Partviainen	I-PER
 ,	
@@ -95589,8 +95587,8 @@ Wiime
 p:nä	
 myytiin	
 pakkohuutokatipalla	
-Tutinpään	B-LOC
-talo	I-LOC
+Tutinpään	B-PER
+talo	
 Karstulassa	B-LOC
 norja-	
 Hallan	B-ORG
@@ -95601,8 +95599,8 @@ kuun
 p:nä	
 myytiin	
 niini-	
-Jylhän	B-LOC
-talo	I-LOC
+Jylhän	B-PER
+talo	
 Jywäskylän	B-LOC
 pitäjässä	I-LOC
 maanwiljelijä	
@@ -97180,9 +97178,9 @@ p:nä
 julistanut	
 kihlakunnantuomarin-wirat	
 Saarijärwen	B-LOC
-ja	I-LOC
-Wiitasaaren	I-LOC
-tuomiokunnissa	I-LOC
+ja	
+Wiitasaaren	B-LOC
+tuomiokunnissa	
 awonainotusta	
 haettawiksi	
 53	
@@ -100233,20 +100231,20 @@ Hollolan	B-ORG
 seurakuntaan	I-ORG
 kuuluwista	
 Lahden	B-LOC
-,	I-LOC
-Jalkarannan	I-LOC
-,	I-LOC
-Iärwenpään	I-LOC
-,	I-LOC
-Heinlammin	I-LOC
-,	I-LOC
-Kukkilan	I-LOC
-,	I-LOC
-Mukkulan	I-LOC
-,	I-LOC
-Kalliolan	I-LOC
-ja	I-LOC
-Paimelan	I-LOC
+,	
+Jalkarannan	B-LOC
+,	
+Iärwenpään	B-LOC
+,	
+Heinlammin	B-LOC
+,	
+Kukkilan	B-LOC
+,	
+Mukkulan	B-LOC
+,	
+Kalliolan	B-LOC
+ja	
+Paimelan	B-LOC
 kylistä	I-LOC
 ,	
 joilta	
@@ -100415,8 +100413,8 @@ puheenjohtajana
 oli	
 wapaaherra	
 Eskil	B-PER
-S	I-PER
-Balmn	I-PER
+s	
+Balmn	B-PER
 .	
 Syytetyn	
 Alänin	B-PER
@@ -103105,9 +103103,9 @@ halli
 into	
 Danskanmaata	B-LOC
 wastaan	
-pöhöämässä	
+pöhöämässä	B-LOC
 ,	
-Shleswigin	B-LOC
+Shleswigin	
 111110111	
 .	
 Tätä	
@@ -105223,8 +105221,8 @@ mihin
 rokonpano-osuuteen	
 kuuluii	
 Wehmaan	B-LOC
-ja	I-LOC
-Taiivassalon	I-LOC
+ja	
+Taiivassalon	B-LOC
 pitäjät	I-LOC
 ,	
 thämäeu	
@@ -106624,12 +106622,12 @@ warrella
 5	
 tyhjää	
 jauhokulia	
-talosta	B-LOC
-n:o	I-LOC
-12	I-LOC
-Merimiehen	I-LOC
+talosta	
+n:o	
+12	
+Merimiehen	B-LOC
 kadun	I-LOC
-warrella	I-LOC
+warrella	
 ,	
 jonka	
 warkauden	
@@ -106666,10 +106664,10 @@ musta
 dosselpalttoo	
 lukitsemattomasta	
 eteisestä	
-talossa	B-LOC
-n:o	I-LOC
-3	I-LOC
-Hallituskadun	I-LOC
+talossa	
+n:o	
+3	
+Hallituskadun	B-LOC
 ja	
 wanhempi	
 hopeinen	
@@ -106690,10 +106688,10 @@ p
 kirwes	
 lukitusta	
 liiteristä	
-talossa	B-LOC
-u:o	I-LOC
-8	I-LOC
-Wuorikadun	I-LOC
+talossa	
+u:o	
+8	
+Wuorikadun	B-LOC
 warrella	I-LOC
 ,	
 ja	
@@ -106701,11 +106699,11 @@ sjupinnahkainen
 turkki	
 lukitsemattomasta	
 eteisestä	
-talossa	B-LOC
-u:o	I-LOC
-läusi-Henrikin	I-LOC
+talossa	
+u:o	
+läusi-Henrikin	B-LOC
 kadun	I-LOC
-warrella	I-LOC
+warrella	
 ,	
 joka	
 turkki	
@@ -106763,12 +106761,12 @@ tulipalo
 rautasepän	
 pajan	
 eteisessä	
-talossa	B-LOC
-n:o	I-LOC
-58	I-LOC
-Wladimirin	I-LOC
+talossa	
+n:o	
+58	
+Wladimirin	B-LOC
 kadun	I-LOC
-warrella	I-LOC
+warrella	
 ,	
 maan	
 saatiin	
@@ -106817,12 +106815,12 @@ Helena	B-PER
 Lundblad	I-PER
 ,	
 asuwa	
-talossa	B-LOC
-n:o	I-LOC
-23	I-LOC
-Annan	I-LOC
+talossa	
+n:o	
+23	
+Annan	B-LOC
 kadun	I-LOC
-warrella	I-LOC
+warrella	
 on	
 ilmoittanut	
 ottaueensa	
@@ -107883,8 +107881,8 @@ w
 1868	
 .	
 Erland	B-PER
-ja	I-PER
-Klas	I-PER
+ja	
+Klas	B-PER
 Sihwola	I-PER
 ,	
 Pesän	
@@ -110757,10 +110755,10 @@ jälkeen
 puolenpäiwän	
 pakoitettiiuperäytymään	
 Champignyn	B-LOC
-,	I-LOC
-Briett	I-LOC
-ja	I-LOC
-Villiersiu	I-LOC
+,	
+Briett	B-LOC
+ja	
+Villiersiu	B-LOC
 kylistä	I-LOC
 .	
 Koska	
@@ -112693,8 +112691,8 @@ Koulu
 pidettiin	
 herastuomari	
 Tiioinas	B-LOC
-Mängälän	I-LOC
-talossa	I-LOC
+Mängälän	B-PER
+talossa	
 ,	
 jossa	
 myös	
@@ -113648,9 +113646,9 @@ tvillashaaliiukittista
 tainburista	
 Fabianin	B-LOC
 kadun	I-LOC
-talossa	I-LOC
-n:o	I-LOC
-27	I-LOC
+talossa	
+n:o	
+27	
 ,	
 joka	
 shaali	
@@ -113697,9 +113695,9 @@ lukitsemattomasta
 huoneesta	
 Erikin	B-LOC
 kadun	I-LOC
-talossa	I-LOC
-n:o	I-LOC
-16	I-LOC
+talossa	
+n:o	
+16	
 sekä	
 1	
 ruskea	
@@ -113725,9 +113723,9 @@ lukitsemattomasta
 huoneesta	
 Laiwareitarin	B-LOC
 kadun	I-LOC
-talossa	I-LOC
-n:o	I-LOC
-1	I-LOC
+talossa	
+n:o	
+1	
 .	
 S	
 .	
@@ -113743,9 +113741,9 @@ lakitsemattomasta
 huoneesta	
 Mikaelin	B-LOC
 kadun	I-LOC
-talossa	I-LOC
-n:o	I-LOC
-10	I-LOC
+talossa	
+n:o	
+10	
 ,	
 josta	
 artillerisotamies	
@@ -113763,9 +113761,9 @@ on
 kadonnutwiirukas	
 röijy	
 Kasarmikadun	B-LOC
-talosta	I-LOC
-n:o	I-LOC
-25	I-LOC
+talosta	
+n:o	
+25	
 .	
 Sikarikotelo	
 ,	
@@ -114399,8 +114397,8 @@ Liudebäik	I-PER
 S.51333	
 Kihlakunnanoikeuden	
 Karknn	B-LOC
-ja	I-LOC
-Monhijärwen	I-LOC
+ja	
+Monhijärwen	B-LOC
 pitäjäin	I-LOC
 käräjäkunnassa	I-LOC
 tänään	
@@ -117991,7 +117989,9 @@ kihlakunnassa	I-LOC
 pyyiänot	
 että	
 Maakauppias	
-Asikkala:t	B-LOC
+Asikkala	B-LOC
+:	
+t	
 pitäjässä	I-LOC
 .	
 iiaarie	
@@ -118517,10 +118517,10 @@ Wikman	I-PER
 220833	
 Kihlakunnanoikeuden	
 Euran	B-LOC
-,	I-LOC
-Köyliön	I-LOC
-ja	I-LOC
-Säkylän	I-LOC
+,	
+Köyliön	B-LOC
+ja	
+Säkylän	B-LOC
 pitäjäin	I-LOC
 käräjäkannassa	
 tänään	
@@ -118611,10 +118611,10 @@ M:tty
 220933	
 Kihlakutmanoikeudeti	
 Euran	B-LOC
-,	I-LOC
-Köyliön	I-LOC
-ja	I-LOC
-Säky!än	I-LOC
+,	
+Köyliön	B-LOC
+ja	
+Säky!än	B-LOC
 pitäjäin	I-LOC
 käräjäkunnassa	
 tänään	
@@ -118712,11 +118712,11 @@ M:tty
 221033	
 Kihlakunnanoikeuden	
 Euran	B-LOC
-,	I-LOC
-.	I-LOC
-kköyliön	I-LOC
-ja	I-LOC
-Säkylän	I-LOC
+,	
+.	
+kköyliön	B-LOC
+ja	
+Säkylän	B-LOC
 pitäjäin	I-LOC
 käräjäkunnassa	I-LOC
 tänään	
@@ -120198,7 +120198,9 @@ lateuiatta
 .	
 Helsiiigissä	B-LOC
 ,	
-Koulutoiu:en	
+Koulutoiu	
+:	
+en	
 Ylihallituksesta	
 ,	
 2	
@@ -120263,7 +120265,9 @@ tatetitatta
 .	
 Helsiugissä	B-LOC
 ,	
-ttoulutoin.en	
+ttoulutoin	
+.	
+en	
 Ylihallituksesta	
 ,	
 2	
@@ -124202,8 +124206,8 @@ sanomain
 konttorissa	
 ,	
 Kirkkokatu	B-LOC
-N:o	I-LOC
-14	I-LOC
+N:o	
+14	
 ,	
 jossa	
 sen	
@@ -124812,8 +124816,8 @@ Såuomaainen
 Toimituspaikka	
 :	
 Ranltankatu	B-LOC
-N:o	I-LOC
-14	I-LOC
+N:o	
+14	
 ,	
 Telesoni	
 N:o	
@@ -126336,8 +126340,8 @@ halemuskirjassa
 waatinut	
 talokasten	
 Juho	B-PER
-ja	I-PER
-Niilo	I-PER
+ja	
+Niilo	B-PER
 Tolosen	I-PER
 ,	
 samasta	
@@ -126422,8 +126426,8 @@ on
 että	
 welalliset	
 Juho	B-PER
-ja	I-PER
-Niilo	I-PER
+ja	
+Niilo	B-PER
 Tolonen	I-PER
 owat	
 siirtyneet	
@@ -129709,8 +129713,8 @@ kesänä
 kuormia	
 wietäwiä	
 Kesälahden	B-LOC
-ja	I-LOC
-Kiteen	I-LOC
+ja	
+Kiteen	B-LOC
 pitäjäin	I-LOC
 kautta	
 Liperiin	B-LOC
@@ -129730,8 +129734,8 @@ Lossimiehelle
 siinä	
 maksawat	
 Kiteen	B-LOC
-ja	I-LOC
-Kesälahden	I-LOC
+ja	
+Kesälahden	B-LOC
 pitäjän	I-LOC
 isäntiät	
 palkka-kapat	
@@ -132933,10 +132937,10 @@ iveikainen
 paino	
 ln1	
 esikamarista	
-talossa	B-LOC
-n:o	I-LOC
-3	I-LOC
-Hallituskadun	I-LOC
+talossa	
+n:o	
+3	
+Hallituskadun	B-LOC
 3	
 Yöllä	
 11	
@@ -132944,11 +132948,11 @@ iviirukkaine
 pumpiilikankaiiien	
 leninki	
 taloeta	
-n:o	B-LOC
-15	I-LOC
-Fabianin	I-LOC
+n:o	
+15	
+Fabianin	B-LOC
 kadun	I-LOC
-warinella	I-LOC
+warinella	
 .	
 11	
 päiwänä	
@@ -132957,10 +132961,10 @@ pienempi
 neliskulmainen	
 purje	
 talosta	
-n:o	B-LOC
-3	I-LOC
-Kirkkokadun	I-LOC
-warrella	I-LOC
+n:o	
+3	
+Kirkkokadun	B-LOC
+warrella	
 sininen	
 piioliivillainen	
 sängynpeite	
@@ -132997,10 +133001,10 @@ silkkinen
 sateeiiiveilio	
 lukitsemattomasta	
 porotuwasta	
-talossa	B-LOC
-n:o	I-LOC
-pohjoisen	I-LOC
-Makasiinikadun	I-LOC
+talossa	
+n:o	
+pohjoisen	
+Makasiinikadun	B-LOC
 ivarrella	I-LOC
 .	
 Enälnulonalaisilta	
@@ -134320,16 +134324,16 @@ Se
 on	
 Fsitteni,tlmaaituuut	
 Wladimirin	B-LOC
-,	I-LOC
-Wilnan	I-LOC
-,	I-LOC
-Kosironian	I-LOC
-,	I-LOC
-Wologdan	I-LOC
-,	I-LOC
-Jaroslawin	I-LOC
-ja	I-LOC
-Pietarinkin	I-LOC
+,	
+Wilnan	B-LOC
+,	
+Kosironian	B-LOC
+,	
+Wologdan	B-LOC
+,	
+Jaroslawin	B-LOC
+ja	
+Pietarinkin	B-LOC
 läänissä	I-LOC
 .	
 Tämä	
@@ -136594,16 +136598,16 @@ piirilääkäriu-aluuksien
 toisin	
 järjestäntisestä	
 Turun	B-LOC
-ja	I-LOC
-Porin	I-LOC
-,	I-LOC
-Hämeenlinnan	I-LOC
-,	I-LOC
-Waasan	I-LOC
-,	I-LOC
-Mikkelin	I-LOC
-ja	I-LOC
-Uudenmaan	I-LOC
+ja	
+Porin	B-LOC
+,	
+Hämeenlinnan	B-LOC
+,	
+Waasan	B-LOC
+,	
+Mikkelin	B-LOC
+ja	
+Uudenmaan	B-LOC
 lääneissä	I-LOC
 .	
 Annettu	
@@ -136792,12 +136796,12 @@ erinäiset
 muntoiset	
 ja	
 Porin	B-LOC
-,	I-LOC
-Hämeenlinnan	I-LOC
-,	I-LOC
-Waasan	I-LOC
-ja	I-LOC
-Mikkelin	I-LOC
+,	
+Hämeenlinnan	B-LOC
+,	
+Waasan	B-LOC
+ja	
+Mikkelin	B-LOC
 läänien	I-LOC
 hallitushoidollisessa	
 jaossa	
@@ -138377,36 +138381,36 @@ toimessa
 anun	
 ,	
 Porin	B-LOC
-,	I-LOC
-Waasan	I-LOC
-,	I-LOC
-Kokkolan	I-LOC
-,	I-LOC
-Raaheen	I-LOC
-,	I-LOC
-Oulun	I-LOC
-,	I-LOC
-Tampereen	I-LOC
-,	I-LOC
-Hämeenlinnan	I-LOC
-,	I-LOC
-Porwoon	I-LOC
-,	I-LOC
-Lowisan	I-LOC
-,	I-LOC
-Haminan	I-LOC
-,	I-LOC
-Wiipurin	I-LOC
-,	I-LOC
-Kuopion	I-LOC
-,	I-LOC
-Joensuun	I-LOC
-,	I-LOC
-Mikkelin	I-LOC
-,	I-LOC
-Jywäskylän	I-LOC
-ja	I-LOC
-Tammisaaren	I-LOC
+,	
+Waasan	B-LOC
+,	
+Kokkolan	B-LOC
+,	
+Raaheen	B-LOC
+,	
+Oulun	B-LOC
+,	
+Tampereen	B-LOC
+,	
+Hämeenlinnan	B-LOC
+,	
+Porwoon	B-LOC
+,	
+Lowisan	B-LOC
+,	
+Haminan	B-LOC
+,	
+Wiipurin	B-LOC
+,	
+Kuopion	B-LOC
+,	
+Joensuun	B-LOC
+,	
+Mikkelin	B-LOC
+,	
+Jywäskylän	B-LOC
+ja	
+Tammisaaren	B-LOC
 kaupungeissa	I-LOC
 .	
 Yhtiökokouksessa	
@@ -144474,9 +144478,9 @@ Freden
 Kotkaan	B-LOC
 anna	
 ,	
-Anna	
-,	
-Jansson	
+Anna	B-PER
+,	I-PER
+Jansson	I-PER
 ,	
 Marianhaminaan	B-LOC
 Hulda	
@@ -144587,8 +144591,8 @@ G	B-PER
 A	I-PER
 .	I-PER
 Finnen	I-PER
-Aakkulan	B-LOC
-talon	I-LOC
+Aakkulan	B-PER
+talon	
 Herttualan	B-LOC
 kylään	I-LOC
 Stangasalan	B-LOC
@@ -144797,8 +144801,8 @@ huoneesta
 L	B-LOC
 .	I-LOC
 Rantak	I-LOC
-.	I-LOC
-18	I-LOC
+.	
+18	
 20	
 p.nahkaremeli	
 weitsen	
@@ -144807,8 +144811,8 @@ waskitupen
 keralla	
 lukitsemattamusta	
 huoneesta	
-2ohanssonin	B-LOC
-huwilasta	I-LOC
+2ohanssonin	B-PER
+huwilasta	
 Töölössä	B-LOC
 yöllä	
 21	
@@ -144847,8 +144851,8 @@ kenkiä
 lukitsemattomasta	
 saunan	
 eteisestä	
-Fjelldalin	B-LOC
-huwilasta	I-LOC
+Fjelldalin	B-PER
+huwilasta	
 ,	
 josta	
 warkaudesta	
@@ -145066,8 +145070,8 @@ täten
 ilmoitamme	
 .	
 Anna	B-PER
-ja	I-PER
-Simo	I-PER
+ja	
+Simo	B-PER
 Wallsu	I-PER
 .	
 S	
@@ -145406,8 +145410,8 @@ ase-
 sekä	
 Hywinkään	B-LOC
 asemasta	I-LOC
-Kor-	I-LOC
-asemaan	I-LOC
+Kor-	
+asemaan	
 1	
 markka	
 20	
@@ -145953,7 +145957,7 @@ K	B-PER
 Sandström	I-PER
 ,	
 Fabianinkatu	B-LOC
-28	I-LOC
+28	
 .	
 Hywiä	
 Nahkiaisia	
@@ -145996,8 +146000,8 @@ Lindberg	I-PER
 .	
 Residensi	B-LOC
 katu	I-LOC
-N:o	I-LOC
-96	I-LOC
+N:o	
+96	
 .	
 Myytawantal	
 Kaikenlaisia	
@@ -146011,8 +146015,8 @@ halpothtn
 hintoio	
 .	
 Wuorikadulla	B-LOC
-N:o	I-LOC
-8	I-LOC
+N:o	
+8	
 .	
 O-	
 I	B-PER
@@ -146058,7 +146062,7 @@ pp
 ,	
 Kasarmink	B-LOC
 .	I-LOC
-48	I-LOC
+48	
 k:lo	
 12	
 j	
@@ -146144,8 +146148,8 @@ Allekirjoittaneen
 Tapettikauppa	
 on	
 Unioninkadulle	B-LOC
-N:o	I-LOC
-23	I-LOC
+N:o	
+23	
 ,	
 ent	
 ,	
@@ -146722,7 +146726,7 @@ Taiteilijaseuran	B-ORG
 näyttely	
 Bulewardtk	B-LOC
 .	I-LOC
-2	I-LOC
+2	
 k:lo	
 123	
 j	
@@ -147167,7 +147171,7 @@ poika
 Lohjalta	B-LOC
 ,	
 Fabianink	B-LOC
-22	I-LOC
+22	
 toht	
 J6polatoffMos-	
 .	
@@ -147184,7 +147188,7 @@ Kirkkonummelta	B-LOC
 ,	
 Maneesink	B-LOC
 .	I-LOC
-8	I-LOC
+8	
 rouwa	
 Edlund	B-PER
 Malmgärdista	B-LOC
@@ -147415,7 +147419,7 @@ p
 .	
 Unionink	B-LOC
 .	I-LOC
-32	I-LOC
+32	
 ,	
 Telefoni	
 35	
@@ -147634,9 +147638,9 @@ päiwästä
 alkaen	
 muutettu	
 Andreankadulta	B-LOC
-9	I-LOC
+9	
 Andreankadulle	B-LOC
-11	I-LOC
+11	
 nitistä	
 paikkaa	
 lähimpään	
@@ -149026,14 +149030,14 @@ kaiwaa
 sellaisia	
 reikiä	
 kuin	
-Mont	B-LOC
-Cenis-	I-LOC
+Mont	
+Cenis-	
 Gotthard-wuorten	B-LOC
 tunnelit	
 ,	
 Suetsin	B-LOC
-ja	I-LOC
-Panaman	I-LOC
+ja	
+Panaman	B-LOC
 kanawat	I-LOC
 y	
 .	
@@ -151260,10 +151264,10 @@ Esplanadik	I-LOC
 .	
 Talonkauppoja	
 .	
-Talon	B-LOC
-n:o	I-LOC
-9	I-LOC
-Mariankadulla	I-LOC
+Talon	
+n:o	
+9	
+Mariankadulla	B-LOC
 on	
 ,	
 kuten	
@@ -151286,10 +151290,10 @@ Bergbom	I-PER
 94,000	
 m:kasta	
 .	
-Talon	B-LOC
-n:o	I-LOC
-13	I-LOC
-Mariankadulla	I-LOC
+Talon	
+n:o	
+13	
+Mariankadulla	B-LOC
 on	
 ,	
 ku	
@@ -151321,7 +151325,7 @@ eilen
 Kauppaseu-	
 huoneistossa	
 Aleksanterinkadulla	B-LOC
-12	I-LOC
+12	
 .	
 Osan-otto	
 oli	
@@ -152057,7 +152061,7 @@ salissa
 ,	
 Korkeawuorenk	B-LOC
 .	I-LOC
-22	I-LOC
+22	
 ,	
 kello	
 8	
@@ -153004,7 +153008,7 @@ syksiinä
 sitten	
 kun	
 Kouwola	B-LOC
-Kotkan	B-LOC
+Kotkan	
 ratatyöt	
 omat	
 päättyneet	
@@ -153898,8 +153902,8 @@ A	I-PER
 .	I-PER
 Renfors	I-PER
 Lassilassa	B-LOC
-Puumalan	B-LOC
-talon	I-LOC
+Puumalan	B-PER
+talon	
 wainiolta	
 ,	
 kesäkyntöä	
@@ -157211,7 +157215,7 @@ nuorimies
 Lisäksi	
 oli	
 hä	
-Paris	B-LOC
+Paris	
 .	
 vielä	
 suuret	
@@ -157415,7 +157419,8 @@ Dulac	B-PER
 nimiä	
 olla	
 enemmänkin	
-Parisissa.-	B-LOC
+Parisissa	B-LOC
+.-	
 Hän	
 tarkasteli	
 uudelleen	
@@ -158577,7 +158582,7 @@ ja
 E	B-PER
 .	I-PER
 Holm	I-PER
-Berg	I-PER
+Berg	B-PER
 362	
 ääniä	
 .	
@@ -159674,7 +159679,7 @@ Adam	B-PER
 Karttujen	I-PER
 omistamassa	
 Kakkuharjun	B-LOC
-talossa	I-LOC
+talossa	
 t	
 .	
 k	
@@ -160523,8 +160528,8 @@ löytö
 Kun	
 Kurikan	B-LOC
 pitäjän	I-LOC
-Alajyrän	B-LOC
-talon	I-LOC
+Alajyrän	B-PER
+talon	
 miehet	
 wiime	
 wiikolla	
@@ -165839,8 +165844,8 @@ Matti
 Matti	B-PER
 on	
 kyllä	
-Puutteen	B-LOC
-talon	I-LOC
+Puutteen	B-PER
+talon	
 isäntä	
 ,	
 mutta	
@@ -167082,7 +167087,7 @@ j.pp
 .	
 Maalansniakasnm	
 Linnankatu	B-LOC
-27	I-LOC
+27	
 .	
 Walokuwaaja	
 O	B-PER
@@ -167523,8 +167528,8 @@ ja
 painopaikka	
 :	
 Linnankatu	B-LOC
-N:o	I-LOC
-23B	I-LOC
+N:o	
+23B	
 .	
 Lehden	
 vastuunalainen	
@@ -172153,7 +172158,7 @@ pitäjän	I-LOC
 hautausmaalle	I-LOC
 .	
 Suomen	B-LOC
-Wenäjän	B-LOC
+Wenäjän	I-LOC
 rajaa	
 piti	
 wiime	
@@ -172416,8 +172421,8 @@ Euran	B-LOC
 pitäjän	I-LOC
 Sorkkisten	B-LOC
 kylän	I-LOC
-Arwoanttilan	B-LOC
-talossa	I-LOC
+Arwoanttilan	B-PER
+talossa	
 t	
 .	
 k	
@@ -172636,7 +172641,7 @@ tilille
 .	
 KunsntllisOsakePankli	
 Linnankatu	B-LOC
-18	I-LOC
+18	
 wastaanottaa	
 rahoja	
 talletustilille	
@@ -177337,8 +177342,8 @@ yleiseltä
 maantieltä	
 talokas	
 Simon	B-LOC
-Jaanun	I-LOC
-talon	I-LOC
+Jaanun	B-PER
+talon	
 läheisyydestä	
 Ylänummen	B-LOC
 kylässä	I-LOC
@@ -178850,7 +178855,7 @@ on
 että	
 räätäli	
 Summelinin	B-LOC
-talo	I-LOC
+talo	
 on	
 juuri	
 se	
@@ -178937,7 +178942,7 @@ W	I-PER
 Hagelstam	I-PER
 ,	
 tohtori	
-J	
+J	I-PER
 .	
 sekä	
 maisterit	
@@ -180465,7 +180470,6 @@ lehden
 konttorissa	
 ,	
 Fabianinkatu14	B-LOC
-,	
 piharakennukfesfa	
 .	
 Hinta	
@@ -182680,7 +182684,7 @@ käännöksinä
 ilmauntnneet	
 :	
 I	B.LOC
-.	I-LOC
+.	
 Bunianin	I-LOC
 pyhä	
 sota	
@@ -184469,9 +184473,9 @@ tuun
 p:nä	
 talollinen	
 Johanneksen	B-LOC
-eli	I-LOC
-.	I-LOC
-Ratin	I-LOC
+eli	
+.	
+Ratin	B-LOC
 pitäjästä	I-LOC
 Sakari	B-PER
 Koli	I-PER
@@ -187149,7 +187153,7 @@ J	B-PER
 G	I-PER
 .	I-PER
 Andersson	I-PER
-.	
+.	I-PER
 Anna	B-PER
 .	
 Kart	B-PER
@@ -188057,8 +188061,8 @@ Kartanossa	I-LOC
 paratitoriu	
 wierellä	
 ja	
-Biidanowan	B-LOC
-Talossa	I-LOC
+Biidanowan	B-PER
+Talossa	
 Pietarporin	B-LOC
 esikaupungissa	
 ,	
@@ -188743,9 +188747,9 @@ wuokratun
 suojia	
 Lietvendalin	B-LOC
 kiwikartanossa	I-LOC
-n:o	B-LOC
-6	I-LOC
-Aleksanderin	I-LOC
+n:o	
+6	
+Aleksanderin	B-LOC
 kadun	I-LOC
 tunteella	
 .	
@@ -193969,8 +193973,8 @@ koskee
 lahjoitusmaiden	
 lunastamista	
 Wiipurin	B-LOC
-ja	I-LOC
-Mitkelin	I-LOC
+ja	
+Mitkelin	B-LOC
 lääneissä	I-LOC
 .	
 Waliokunta	
@@ -197224,9 +197228,9 @@ puistossa	I-LOC
 Kowin	
 oli	
 sir	
-Watkin	B-LOC
-Wynnin	I-LOC
-talossa	I-LOC
+Watkin	B-PER
+Wynnin	I-PER
+talossa	
 ,	
 joka	
 on	
@@ -199927,11 +199931,11 @@ waraesim
 .	
 kapt	
 .	
-G	B-PER
-.	I-PER
-Z	I-PER
-.	I-PER
-Sand-	I-PER
+G	
+.	
+Z	
+.	
+Sand-	
 sihteritsi	
 lehtori	
 A	B-PER
@@ -203243,7 +203247,7 @@ et
 sinä	
 saa	
 ,	
-Reeta	B-PER
+Reeta	
 ,	
 sanoi	
 pikku	
@@ -211867,10 +211871,10 @@ näyttely
 johon	
 kar-	
 Kuopion	B-LOC
-,	I-LOC
-Mikkelin	I-LOC
-ja	I-LOC
-Wiipu-	I-LOC
+,	
+Mikkelin	B-LOC
+ja	
+Wiipu-	B-LOC
 läänistä	I-LOC
 ottiwat	
 osaa	
@@ -212494,9 +212498,9 @@ senaattirakennuksesfa
 Kansankirasto	
 awoinna	
 Kaiwokaoulla	B-LOC
-n:o	I-LOC
-8	I-LOC
-.	I-LOC
+n:o	
+8	
+.	
 Lu	I-LOC
 59	
 .	
@@ -212854,8 +212858,8 @@ paikkakunnan
 kaup-	
 weljesten	
 Johan	B-PER
-ja	I-PER
-Baltzar	I-PER
+ja	
+Baltzar	B-PER
 Fellmannin	I-PER
 työ	
 ,	
@@ -214548,7 +214552,7 @@ huutokaupalla
 Siiman-pitäs	
 Petroioaaran	B-LOC
 kylässä	I-LOC
-tilalla	I-LOC
+tilalla	
 N:o	
 10	
 Tälollisen	
@@ -219121,10 +219125,10 @@ piirin
 Oulnn	B-LOC
 ,	
 Kuopion	B-LOC
-,	I-LOC
-Mikkelin	I-LOC
-ja	I-LOC
-Wiipurin	I-LOC
+,	
+Mikkelin	B-LOC
+ja	
+Wiipurin	B-LOC
 läänien	I-LOC
 metsänhoidonneuwoja	
 on	
@@ -221852,7 +221856,7 @@ ränstyneeltä
 että	
 oli	
 juu	
-Tapanin	B-PER
+Tapanin	
 olisi	
 ayöwä.rien	
 luolaan	
@@ -232950,7 +232954,7 @@ Maria	I-PER
 Hämäläinen	B-PER
 ,	
 111111rtilan1uäeltä	
-me	
+ 	
 p	
 .	
 Anders	B-PER
@@ -233087,7 +233091,8 @@ Piispa
 perheineen	
 Ju1valleRenki	
 Otto	B-PER
-Willelm961nonenuwalleme	
+Willelm	I-PER
+961nonenuwalleme	
 t	
 .	
 Maria	B-PER
@@ -233114,7 +233119,7 @@ Piika
 Ulla	B-PER
 Maria	I-PER
 Halinen	I-PER
-Rantasal111elle	
+Rantasal111elle	B-LOC
 Nenki	
 Nenki	
 Karl	B-PER
@@ -236964,7 +236969,7 @@ aikonntsyksyn
 kuluessa	
 käydä	
 .	
-Wiipurissa	B-LOC
+Wiipurissa	
 ,	
 mutta	
 kun	
