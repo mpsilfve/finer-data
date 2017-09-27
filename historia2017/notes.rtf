@@ -390,6 +390,155 @@ jani marjanen, comhis, ocr-ner-tulokset\
 \
 \
 \
+NER-raportti Kimmollle:\
+\
+Moi, \
+\
+Edellisen postin voi ignoorata --- t\'e4ss\'e4 on paremmin j\'e4sennellyt tulokset.\
+\
+Countit testiaineistoista (34 sivua):\
+\
+counts from test GT data (LOC, PER, ORG)\
+    1619\
+    1173\
+     487\
+counts from test OCR data (LOC, PER, ORG)\
+    1432\
+    1068\
+     337\
+\
+OCR:ss\'e4 on siis s\'e4ilyny:\
+\
+LOC	88.4%\
+PER	91.0&\
+ORG	69.2%\
+\
+N\'e4ytt\'e4\'e4k\'f6 tuo h\'e4vikki suurin piirtein johdonmukaiselta niiden sun aikasempien laskelmien kanssa, esim. sen ett kuinka suuri osa OCR-tuloksesta on omorfin tunnistamia?\
+\
+Sitten itse NER-tulokset (opetussetti 136 sivua, testisetti 34 sivua):\
+\
+opetus: groundtruth \
+testi: groundtruth\
+\
+Entity	Pre	Rec	F1	#my	#gold\
+LOC	0.8260	0.7735	0.7989	1517	1619\
+ORG	0.7452	0.3183	0.4460	208	487\
+PER	0.7741	0.7042	0.7375	1067	1173\
+Totals	0.8001	0.6811	0.7358	2792	3279\
+\
+opetus: groundtruth\
+testi: ocr\
+\
+Entity	Pre	Rec	F1	#my	#gold\
+LOC	0.8336	0.6745	0.7456	1310	1619\
+ORG	0.7389	0.2382	0.3602	157	487\
+PER	0.7675	0.6249	0.6889	955	1173\
+Totals	0.8014	0.5919	0.6809	2422	3279\
+\
+Eli GT->GT-skenaariosta tulee tiputusta F-scoressa 73.58 -> 68.09, kun tunnistetaan OCR-tekstist\'e4. N\'e4iss\'e4 luvuissa on otettu huomioon tuon yll\'e4lasketun OCR-h\'e4vikin vaikutus Recalliin (koska OCR:ss\'e4 h\'e4vinneit\'e4 nimi\'e4 ei voi en\'e4\'e4 nimentunnistuksella l\'f6yt\'e4\'e4). Mik\'e4li OCR-h\'e4vikki\'e4 ei otettais huomioon, niin luvut n\'e4ytt\'e4is t\'e4lt\'e4:\
+\
+         Entity	P	R	F1	TP	FP	FN\
+            LOC	0.8336	0.7615	0.7959	1092	218	342\
+            ORG	0.7389	0.3422	0.4677	116	41	223\
+            PER	0.7686	0.6860	0.7249	734	221	336\
+         Totals	0.8018	0.6824	0.7373	1942	480	904 \
+\
+mut n\'e4\'e4 ei tietysti oo realistisia lukuja.\
+\
+Seuraavaks mik\'e4 pit\'e4is tehd\'e4 mun mielest\'e4 on ett ton organisaatio-luokan vois supistaa. Seh\'e4n n\'e4ytt\'e4\'e4 t\'e4ll\'e4 hetkell\'e4 t\'e4lt\'e4:\
+\
+- Yhdistykset, j\'e4rjest\'f6t, seurat: Suomen evankelis-luterilainen pyh\'e4kouluyhdistys, Pelastusarmeija, Airiston purjehdusseura, Wen\'e4j\'e4n Palovakuutusseura\
+- Sanomalehdet ja lehdet: Suomen Wiikkolehti, Pyh\'e4koululehti, Uusi Suometar\
+- Senaatit, parlamentit, hallitukset: Suomen keisarillinen senaatti, Englannin parlamentti, Ven\'e4j\'e4n hallitus\
+- Virastot, maistraatit: Konginkankaan Pastorinvirasto, Tuuloksen kirkkoherranvirasto, Heinolan kaupungin maistraatti\
+- Oikeuslaitokset: Raaseporin kihkakunnanoikeus, Turun hovioikeus, Kuopion raastuvanoikekus\
+- Koulut/opistot: Suomen yliopisto, Kodiksamin kansakoulu, H\'e4meenlinnan kutomakoulu (Huom. Pyh\'e4koulut ei kuulu mukaan)\
+- Seurakunnat, hiippakunnat: Kuopion seurakunta, Kuopion hiippakunta\
+- Tuomiokapitulit: Turun tuomiokapituli, Porvoon hiippakunnan tuomiokapituli\
+- Kaupat, puodit, tehtaat, kestikievarit, hotellit, ravintolat: O. Jalanderin kirjakauppa, Ruikan kestikievari, Bahnen puoti, Daalintehdas, Phoenix-hotelli, Phoenix-ravintola\
+- Yhti\'f6t, yritykset: Kirkollinen kirja- ja paperikauppa O Y, Werner S\'f6derstr\'f6m Osakeyhti\'f6, Turun Rautakalutehdas-yhti\'f6, \CocoaLigature1 Georg Segerstr\'e5lan Lakiasiain toimisto\CocoaLigature0 \
+- Kirjapainot: Weilin & Gr\'f6\'f6sin osakeyhti\'f6n kirjapaino, H\'e4meen Sanomain kirjapaino, Kuopion kirjapaino\
+- Armeijat, rykmentit, pataljoonat: Ruotsin armeija, Porin rykmentti, Turun pataljoona\
+- Kamarit: Tampereen Tullikamari, Turun Poliisikamar\
+- Valiokunnat: Yleinen valitusvaliokunta, Talousvaliokunta\
+- Ritarikunnat: S:t Stanislauksen ritarikunta, Andrean ritarikunta\
+- Pankit: Suomen pankki, Englannin pankki, Pohjoismaiden s\'e4\'e4st\'f6pankki\
+- Tuomiokunnat: Rannan tuomiokunta\
+\
+Karsittu setti:\
+\
+Yleiset\
+\
+- Yhdistykset, j\'e4rjest\'f6t, seurat: Suomen evankelis-luterilainen pyh\'e4kouluyhdistys, Pelastusarmeija, Airiston purjehdusseura, Wen\'e4j\'e4n Palovakuutusseura\
+\
+Koulutus\
+\
+- Koulut/opistot: Suomen yliopisto, Kodiksamin kansakoulu, H\'e4meenlinnan kutomakoulu (Huom. Pyh\'e4koulut ei kuulu mukaan)\
+\
+Hallinnolliset ja sotavoimat\
+\
+- Senaatit, parlamentit, hallitukset: Suomen keisarillinen senaatti, Englannin parlamentti, Ven\'e4j\'e4n hallitus\
+- Virastot, maistraatit, kansliat: Konginkankaan Pastorinvirasto, Tuuloksen kirkkoherranvirasto, Heinolan kaupungin maistraatti, H\'e4meen l\'e4\'e4nin maakanslia\
+- Oikeuslaitokset: Raaseporin kihkakunnanoikeus, Turun hovioikeus, Kuopion raastuvanoikekus\
+- Armeijat, rykmentit, pataljoonat: Ruotsin armeija, Porin rykmentti, Turun pataljoona\
+\
+Kirkolliset\
+\
+- Seurakunnat, hiippakunnat: Kuopion seurakunta, Kuopion hiippakunta\
+- Tuomiokapitulit: Turun tuomiokapituli, Porvoon hiippakunnan tuomiokapituli\
+- Tuomiokunnat: Rannan tuomiokunta\
+\
+Kaupalliset\
+\
+- Kaupat, puodit, tehtaat, kestikievarit, hotellit, ravintolat: O. Jalanderin kirjakauppa, Ruikan kestikievari, Bahnen puoti, Daalintehdas, Phoenix-hotelli, Phoenix-ravintola\
+- Yhti\'f6t, yritykset: Kirkollinen kirja- ja paperikauppa O Y, Werner S\'f6derstr\'f6m Osakeyhti\'f6, Turun Rautakalutehdas-yhti\'f6, \CocoaLigature1 Georg Segerstr\'e5lan Lakiasiain toimisto\CocoaLigature0 , H\'e4meen Sanomain kirjapaino\
+- Pankit: Suomen pankki, Englannin pankki, Pohjoismaiden s\'e4\'e4st\'f6pankki\
+\
+Sanomalehdet\
+\
+- Sanomalehdet ja lehdet: Suomen Wiikkolehti, Pyh\'e4koululehti, Uusi Suometar\
+\
+\
+Pudonneet:\
+\
+######- Konttorit: K\'e4kisalmen postikonttori, l\'e4\'e4ninkonttorit\
+######- Kamarit: Tampereen Tullikamari, Turun Poliisikamari\
+######- Valiokunnat: Yleinen valitusvaliokunta, Talousvaliokunta\
+######- Ritarikunnat: S:t Stanislauksen ritarikunta, Andrean ritarikunta\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 \
