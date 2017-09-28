@@ -231279,9 +231279,9 @@ yhdessä	O	O
 Sesemanin	B-PER	O
 kanssa	O	O
 toiminimellä	O	O
-Seseman	O	B-ORG
+Seseman	B-PER	B-ORG
 ja	O	I-ORG
-Rosenius	O	I-ORG
+Rosenius	B-PER	I-ORG
 harjoitti	O	O
 suurta	O	O
 puutawaraliikettä	O	O
