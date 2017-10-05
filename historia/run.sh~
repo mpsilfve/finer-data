@@ -9,11 +9,11 @@ tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
 
 # train
 
-#Make gt-model.ser.gz
+Make gt-model.ser.gz
 
 # tag
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
  
 rm gt-model.ser.gz
 
