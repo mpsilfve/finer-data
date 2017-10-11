@@ -1,3 +1,6 @@
+
+
+# preprocess (apply this command when tagging DIGI)
 tail -n +271457 gt.all.csv | python3 remove_empty_lines.py | grep -v -e '^$' | sed 's/^<FILENAME>.*//g' | python3 remove_special_chars.py | python3 tokenize1.py | python3 tokenize2.py | python3 add_O.py > temp
 
 GT="gt.annotated.csv"
