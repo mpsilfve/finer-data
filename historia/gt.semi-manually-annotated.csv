@@ -89483,7 +89483,7 @@ Ilmoitetaan	O	O
 että	O	O
 rakas	O	O
 mieheni	O	O
-Masuunin	B-PER	O
+Masuunin	O	O
 työntekijä	O	O
 Herman	B-PER	O
 Färm	I-PER	O
@@ -89577,7 +89577,7 @@ Gullsten	I-PER	O
 Messukylän	B-LOC	O
 kirkossa	I-LOC	O
 :	O	O
-Nurmin	B-PER	O
+Nurmin	B-LOC	O
 Nattarin	B-LOC	O
 renki	O	O
 ,	O	O
@@ -89613,8 +89613,8 @@ Wilhelmina	B-PER	O
 Juhantytär	I-PER	O
 Walenius	I-PER	O
 ,	O	O
-Messukylän	B-LOC	O
-emäseurakunnasta	O	O
+Messukylän	B-LOC	borg
+emäseurakunnasta	O	org
 rautatien	O	O
 työmies	O	O
 ,	O	O
@@ -89636,8 +89636,8 @@ nuorimies	O	O
 Kaarle	B-PER	O
 Zefanias	I-PER	O
 Zefanianpoika	I-PER	O
-Pirkkalan	B-LOC	O
-emäseurakunnasta	O	O
+Pirkkalan	B-LOC	borg
+emäseurakunnasta	O	org
 ja	O	O
 pellawatehtaan	O	O
 työntekijä	O	O
@@ -89645,8 +89645,8 @@ Gustawa	B-PER	O
 Wilhelmina	I-PER	O
 Wilhelmintytär	I-PER	O
 Wigrn	I-PER	O
-Messukylän	B-LOC	O
-emäseurakunnasta	O	O
+Messukylän	B-LOC	borg
+emäseurakunnasta	O	org
 .	O	O
 Toimitus	O	O
 yhdistyy	O	O
@@ -89754,8 +89754,8 @@ miehenä	O	O
 nimellä	O	O
 Don	B-PER	O
 Pedro	I-PER	O
-d	O	O
-Alcantara	O	O
+d	per	O
+Alcantara	per	O
 .	O	O
 Hänen	O	O
 seurassaan	O	O
@@ -89781,7 +89781,7 @@ en	O	O
 kortare	O	O
 tid	O	O
 besöka	O	O
-Tammerfors	O	O
+Tammerfors	bloc	O
 .	O	O
 Laulajaiset	O	O
 tänä-iltana	O	O
@@ -89888,7 +89888,7 @@ Pietarin	B-LOC	O
 pääkaduilla	O	O
 .	O	O
 Isolla	O	O
-Morskajalla	O	O
+Morskajalla	bloc	O
 ja	O	O
 Newskin	B-LOC	O
 prospektillä	O	O
@@ -89949,7 +89949,7 @@ W	I-PER	O
 .	I-PER	O
 GRÖNROOS	I-PER	O
 .	O	O
-Åbo	O	O
+Åbo	bloc	O
 .	O	O
 Raastuwankokouksesta	O	O
 ,	O	O
