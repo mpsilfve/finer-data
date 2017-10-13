@@ -2,24 +2,25 @@ GT="gt.annotated"
 OCR="ocr.annotated"
 
 # make train and test sets (LOC and PER)
-#head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv 
-#tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
+head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv 
+head -n 100000 gt.semi-manually-annotated.csv | cut -f 1,2 >> train.gt.csv
+tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
 
-#tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
+tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
 
 # train
 
-#Make gt-model.ser.gz
+Make gt-model.ser.gz
 
 # tag
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
  
 #rm gt-model.ser.gz
 
 # evaluate with my evaluate.py
-#cat gt+gt-loc-per.log | python evaluate_offset.py
-#cat gt+ocr-loc-per.log | python evaluate_offset.py
+cat gt+gt-loc-per.log | python evaluate_offset.py
+cat gt+ocr-loc-per.log | python evaluate_offset.py
 
 
 
@@ -27,6 +28,7 @@ OCR="ocr.annotated"
 
 # make train and test sets (ORG)
 head -n 181456 $GT.csv | cut -f 1,3 > train.gt.csv 
+head -n 100000 gt.semi-manually-annotated.csv | cut -f 1,3 >> train.gt.csv
 tail -n +181458 $GT.csv | cut -f 1,3 > test.gt.csv # last 34/170 pages
 
 tail -n +172999 $OCR.csv | cut -f 1,3 > test.ocr.csv # last 34/170 pages
@@ -42,7 +44,6 @@ java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanfor
 # evaluate with my evaluate.py
 cat gt+gt-org.log | python evaluate_offset.py
 cat gt+ocr-org.log | python evaluate_offset.py
-
 
 rm gt-model.ser.gz
 

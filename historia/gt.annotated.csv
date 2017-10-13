@@ -130075,7 +130075,7 @@ F	I-PER	O
 .	I-PER	O
 Lindbergin	I-PER	O
 konttorinkirjoittajaksi	O	O
-Wiipurin	B-OC	O
+Wiipurin	B-LOC	O
 postikonttoriin	O	O
 .	O	O
 Maksu	O	O

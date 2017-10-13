@@ -54,14 +54,14 @@ seuraawat	O	O
 määrät	O	O
 :	O	O
 Pietarin	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 63,800	O	O
 wiime	O	O
 wuonna	O	O
 77,600	O	O
 ,	O	O
 Hankoniemen	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 4,000	O	O
 w	O	O
 .	O	O
@@ -70,13 +70,13 @@ w	O	O
 4,400	O	O
 ,	O	O
 Turun	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 14,100	O	O
 w	O	O
 .	O	O
 w.15,500	O	O
 Waasan	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 8,600	O	O
 w	O	O
 .	O	O
@@ -85,7 +85,7 @@ tv	O	O
 10,100	O	O
 ,	O	O
 Oulun	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 8,400	O	O
 w	O	O
 .	O	O
@@ -94,7 +94,7 @@ w	O	O
 8,300	O	O
 ja	O	O
 Sawon	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 8,800	O	O
 w	O	O
 .	O	O
@@ -108,7 +108,7 @@ toniluku	O	O
 osottaa	O	O
 alennusta	O	O
 Pietarin	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 noin	O	O
 3,000	O	O
 tonia	O	O
@@ -120,7 +120,7 @@ noin	O	O
 tonia	O	O
 ja	O	O
 Waasan	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 niinikään	O	O
 noin	O	O
 2,000	O	O
@@ -144,7 +144,7 @@ noin	O	O
 tonia	O	O
 ja	O	O
 Sawon	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 noin	O	O
 1,000	O	O
 tonia	O	O
@@ -153,14 +153,14 @@ Ylöskanto	O	O
 on	O	O
 wähentynyt	O	O
 Pietarin	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 noin	O	O
 47,000	O	O
 mk	O	O
 .	O	O
 ,	O	O
 Waasan	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 noin	O	O
 7,000	O	O
 mk	O	O
@@ -181,13 +181,13 @@ m	O	O
 .	O	O
 ,	O	O
 Turun	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 15,000	O	O
 mk	O	O
 .	O	O
 ja	O	O
 Oulun	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 1,000	O	O
 mk	O	O
 .	O	O
@@ -484,7 +484,7 @@ suukeksi	O	O
 osaksi	O	O
 Englannista	B-LOC	B-LOC
 .	O	O
-Englanin	B-LOC	O
+Englanin	B-LOC	B-LOC
 politiikka	O	O
 näkyy	O	O
 ylipäänsä	O	O
@@ -558,7 +558,7 @@ paperit	O	O
 tulewat	O	O
 heti	O	O
 menettämään	O	O
-Jtaaliassa	B-LOC	O
+Jtaaliassa	B-LOC	B-LOC
 arwonsa	O	O
 ja	O	O
 kysymys	O	O
@@ -570,7 +570,7 @@ uusi	O	O
 kolminaisliitto	O	O
 Englannin	B-LOC	B-LOC
 ,	O	O
-Jtaalian	B-LOC	O
+Jtaalian	B-LOC	B-LOC
 ja	O	O
 Ranskan	B-LOC	B-LOC
 kesken	O	O
@@ -1240,7 +1240,7 @@ Eilen	O	O
 tähti	O	O
 Wienistä	B-LOC	B-LOC
 matkaan	O	O
-Cumberlandin	B-LOC	B-PER
+Cumberlandin	B-LOC	B-LOC
 herttua	O	O
 puolisonsa	O	O
 ja	O	O
@@ -2118,7 +2118,7 @@ Mikä	O	O
 lietsari	O	O
 kalaa	O	O
 johtaneekin	O	O
-Zyrichjärwen	B-LOC	O
+Zyrichjärwen	B-LOC	B-LOC
 läwitse	O	O
 Liukwirtaan	B-LOC	O
 ,	O	O
@@ -2127,7 +2127,7 @@ ken	O	O
 johdattaa	O	O
 kalaa	O	O
 matkallaan	O	O
-Reuswirran	B-LOC	O
+Reuswirran	B-LOC	B-LOC
 alajuoksusta	O	O
 pitkäweteisen	O	O
 Vierwaldstettenin	B-LOC	O
@@ -2187,7 +2187,7 @@ Kuinka	O	O
 paljon	O	O
 lieneekään	O	O
 lohia	O	O
-Siberian	B-LOC	O
+Siberian	B-LOC	B-LOC
 ja	O	O
 Pohjois-Amerikan	B-LOC	B-LOC
 wirroissa	O	O
@@ -2631,7 +2631,7 @@ warmaankin	O	O
 hywin	O	O
 huwittawia	O	O
 .	O	O
-Liutu	O	B-LOC
+Liutu	O	O
 laulaa	O	O
 ,	O	O
 hewonen	O	O
@@ -2664,7 +2664,7 @@ kohtaan	O	O
 .	O	O
 Hedelmäpuntarha	O	O
 .	O	O
-Mansikka	O	O
+Mansikka	O	B-PER
 .	O	O
 Jatkoa	O	O
 .	O	O
@@ -3110,9 +3110,9 @@ prikaatin	O	O
 komentaja	O	O
 ,	O	O
 kenraalimajuri	O	O
-K	B-PER	O
-.	I-PER	O
-Kononowits	I-PER	O
+K	B-PER	B-PER
+.	I-PER	I-PER
+Kononowits	I-PER	I-PER
 tarkasmassa	O	O
 wiime	O	O
 torstaina	O	O
@@ -3463,7 +3463,7 @@ Kansallis-osakepankkiin	O	O
 .	O	O
 lLäb	O	O
 .	O	O
-Harjun	B-LOC	O
+Harjun	B-LOC	B-LOC
 maanwiljelyskouluan	O	O
 on	O	O
 tänä	O	O
@@ -3516,7 +3516,7 @@ lausuu	O	O
 toiwomuksena	O	O
 ,	O	O
 että	O	O
-Harjun	B-LOC	O
+Harjun	B-LOC	B-LOC
 maanwiljelyskouluiin	O	O
 perustettaisiin	O	O
 erityinen	O	O
@@ -4053,7 +4053,7 @@ Jyr	O	O
 Konnantyö	O	O
 rautatiellä	O	O
 Kun	O	O
-Kouwolaan	B-LOC	O
+Kouwolaan	B-LOC	B-LOC
 menewä	O	O
 iltajuna	O	O
 31	O	O
@@ -4653,7 +4653,7 @@ isäntänsä	O	O
 kanssa	O	O
 aseinnainnimistä	O	O
 Kotkan	B-LOC	B-LOC
-radalla	I-LOC	O
+radalla	I-LOC	I-LOC
 ,	O	O
 joilla	O	O
 silloin	O	O
@@ -5022,7 +5022,7 @@ Finlantds	B-LOC	B-LOC
 Allmänna	O	O
 Tidningistä	O	O
 ,	O	O
-Morgonbladetista	O	O
+Morgonbladetista	O	B-LOC
 .	O	O
 Seitsemäs	O	O
 ja	O	O
@@ -5356,7 +5356,7 @@ kaikilta	O	O
 maamme	O	O
 kirjakauppiailta	O	O
 ja	O	O
-Otawan	O	O
+Otawan	O	B-LOC
 asiamiehiltä	O	O
 .	O	O
 Yksityisille	O	O
@@ -5391,7 +5391,7 @@ ja	O	O
 Pitäjänsaarella	B-LOC	B-LOC
 27	O	O
 ja	O	O
-Sawiniemessä	B-LOC	O
+Sawiniemessä	B-LOC	B-LOC
 28	O	O
 p:nä	O	O
 tätä	O	O
@@ -5452,7 +5452,7 @@ jota	O	O
 useinkin	O	O
 käwelin	O	O
 .	O	O
-Olin	O	B-PER
+Olin	O	O
 tullut	O	O
 erään	O	O
 kauppapiiodin	O	O
@@ -5494,7 +5494,7 @@ seisahtuwat	O	O
 paodin	O	O
 kohdalle	O	O
 .	O	O
-Olin	O	B-PER
+Olin	O	O
 seisahtunut	O	O
 ilman	O	O
 waan,sniinkuin	O	O
@@ -5693,7 +5693,7 @@ wei	O	O
 juomat	O	O
 määräpaikkaansa	O	O
 räätäli	O	O
-Summelinin	B-PER	O
+Summelinin	B-PER	B-PER
 pihaan	O	O
 ,	O	O
 samassa	O	O
@@ -5844,9 +5844,9 @@ sotawäen	O	O
 paraatti	O	O
 .	O	O
 Kauppaasijoitsija	O	O
-F	B-PER	O
-.	I-PER	O
-Fiuikeu	I-PER	O
+F	B-PER	B-PER
+.	I-PER	I-PER
+Fiuikeu	I-PER	I-PER
 konkurssissa	O	O
 walwottiin	O	O
 tämän	O	O
@@ -6202,8 +6202,8 @@ rautatienhallitus	O	O
 nimittänyt	O	O
 ja	O	O
 siirtänyt	O	O
-Tawastilan	B-LOC	O
-asemapäällikön	O	O
+Tawastilan	B-LOC	B-LOC
+asemapäällikön	O	I-LOC
 B	B-PER	B-PER
 .	I-PER	I-PER
 W	I-PER	I-PER
@@ -6619,8 +6619,8 @@ toteuttamiseksi	O	O
 .	O	O
 Kirjoituksessaan	O	O
 kuwailli	O	O
-de	B-PER	O
-Lesseps	I-PER	O
+de	B-PER	B-PER
+Lesseps	I-PER	I-PER
 eläwimmillä	O	O
 wäreillä	O	O
 siitä	O	O
@@ -6892,7 +6892,7 @@ kolme	O	O
 Suezin	B-LOC	B-LOC
 kanawa	I-LOC	I-LOC
 .	O	O
-Wälimeren	B-LOC	O
+Wälimeren	B-LOC	B-LOC
 kaakkois-nurkalla	O	O
 yhty-	O	O
 Aasian	B-LOC	B-LOC
@@ -7170,7 +7170,7 @@ puhuttiin	O	O
 siitä	O	O
 ,	O	O
 kuinka	O	O
-Wälimeren	B-LOC	O
+Wälimeren	B-LOC	B-LOC
 ranta	O	O
 sillä	O	O
 paikalla	O	O
@@ -7357,7 +7357,7 @@ mitä	O	O
 loistawimpia	O	O
 ja	O	O
 maksoiwatkin	O	O
-Egyptin	B-LOC	B-PER
+Egyptin	B-LOC	B-LOC
 kediwille	O	O
 hän	O	O
 oli	O	O
@@ -7424,7 +7424,7 @@ Timsas-järwen	B-LOC	O
 yli	O	O
 mentyä	O	O
 tullaan	O	O
-Tussumiin	B-LOC	B-LOC
+Tussumiin	B-LOC	O
 ,	O	O
 josta	O	O
 on	O	O
@@ -7777,7 +7777,7 @@ Pr	O	O
 .	O	O
 Kaupunginwaltuusmiesten	O	O
 pn-	O	O
-Suwonliniiassa	O	O
+Suwonliniiassa	O	B-LOC
 on	O	O
 reh-	O	O
 K	B-PER	B-PER
@@ -8063,8 +8063,8 @@ rautatielainan	O	O
 takaukseen	O	O
 ,	O	O
 niin	O	O
-Ulwilan	B-LOC	O
-kuntakin	I-LOC	O
+Ulwilan	B-LOC	B-LOC
+kuntakin	I-LOC	I-LOC
 on	O	O
 halakas	O	O
 siihen	O	O
@@ -8547,9 +8547,9 @@ yhteensä	O	O
 .	O	O
 H	O	O
 .	O	O
-D	O	B-PER
-.	O	I-PER
-Waaliin	O	I-PER
+D	O	O
+.	O	O
+Waaliin	O	O
 lukkarin	O	O
 ja	O	O
 urkurin	O	O
@@ -8573,7 +8573,7 @@ ja	O	O
 A	B-PER	B-PER
 .	I-PER	I-PER
 Kumlin	I-PER	I-PER
-Jaalasta	B-LOC	O
+Jaalasta	B-LOC	B-LOC
 .	O	O
 Papiksi	O	O
 wihittiin	O	O
@@ -8646,7 +8646,7 @@ nuorukainen	O	O
 Emil	B-PER	B-PER
 Hagström	I-PER	I-PER
 asunnossaan	O	O
-Arkadia-teaatterissa	B-LOC	O
+Arkadia-teaatterissa	B-LOC	B-LOC
 ampumalla	O	O
 rintaansa	O	O
 päiwänsä	O	O
@@ -8866,11 +8866,11 @@ W	O	B-PER
 .	O	I-PER
 Elsioengreniu,ivapaah	O	I-PER
 .	O	O
-H	O	O
-.	O	O
-F	O	O
-.	O	O
-Pal-	O	O
+H	O	B-PER
+.	O	I-PER
+F	O	I-PER
+.	O	I-PER
+Pal-	O	I-PER
 ja	O	O
 I	B-PER	B-PER
 .	I-PER	I-PER
@@ -9164,7 +9164,7 @@ Pr	O	O
 .	O	O
 tietää	O	O
 ,	O	O
-Russilan	B-LOC	B-LOC
+Russilan	B-LOC	O
 maatilalla	I-LOC	O
 lähellä	O	O
 Turkiia	B-LOC	B-LOC
@@ -9480,7 +9480,7 @@ w	O	O
 nimitettiin	O	O
 toiseksi	O	O
 kappalaiseksi	O	O
-Mikkeliin	B-LOC	B-PER
+Mikkeliin	B-LOC	B-LOC
 1856	O	O
 ja	O	O
 Ilamatsin	B-LOC	B-LOC
@@ -10523,8 +10523,8 @@ takokoot	O	O
 kansalaiset	O	O
 itse	O	O
 yh-	O	O
-Nykyisen	O	B-PER
-Ilmarisen	B-PER	I-PER
+Nykyisen	O	O
+Ilmarisen	B-PER	O
 tarkoituksena	O	O
 on	O	O
 juuri	O	O
@@ -10888,7 +10888,7 @@ lampaat	O	O
 Sittenhän	O	O
 olisi	O	O
 jotakin	O	O
-Wiipu-	B-LOC	O
+Wiipu-	B-LOC	B-LOC
 uudelle	O	O
 torille	O	O
 wiedä	O	O
@@ -11325,7 +11325,7 @@ talonpojan	O	O
 säädyn	O	O
 puolesta	O	O
 Rannan	B-LOC	B-LOC
-tuomiokunnassa	O	I-LOC
+tuomiokunnassa	O	O
 walittiin	O	O
 tämän	O	O
 tuun	O	O
@@ -11367,7 +11367,7 @@ on	O	O
 rautatien	O	O
 tarpeellisuudesta	O	O
 Helsinki-Hämeenlinnan	B-LOC	B-LOC
-rautatien	I-LOC	O
+rautatien	I-LOC	I-LOC
 ja	O	O
 Pietarin	B-LOC	B-LOC
 wälillä	O	O
@@ -11405,7 +11405,7 @@ ulkopuolella	O	O
 Pilettiä	O	O
 saadaan	O	O
 Pietarissa	B-LOC	B-LOC
-Obuhowan	B-LOC	O
+Obuhowan	B-LOC	B-LOC
 sillalla	I-LOC	O
 Serapinan	B-PER	B-LOC
 rawintolassa	O	O
@@ -11554,7 +11554,7 @@ se	O	O
 ei	O	O
 sowikkaan	O	O
 Wiipurin	B-LOC	B-LOC
-kunnialle	O	O
+kunnialle	O	I-LOC
 ja	O	O
 uudelle	O	O
 suuruudelle	O	O
@@ -11773,7 +11773,7 @@ Oker-Blom	B-PER	B-PER
 ,	O	O
 howineuwoksen	O	O
 rouwa	O	O
-Orn	B-PER	B-LOC
+Orn	B-PER	B-PER
 ,	O	O
 howioikeuden	O	O
 neuwok	O	O
@@ -11812,9 +11812,9 @@ maisteri	O	O
 Hougberg	B-PER	B-PER
 ja	O	O
 kauppapuukhollari	O	O
-V	B-PER	O
-,	I-PER	O
-Hoving	I-PER	O
+V	B-PER	B-PER
+,	I-PER	I-PER
+Hoving	I-PER	I-PER
 .	O	O
 Puheena	O	O
 olewa	O	O
@@ -12223,8 +12223,8 @@ N	O	O
 illiaeusen	O	O
 kirjapainossa	O	O
 ,	O	O
-Neitsyniemellä	B-LOC	O
-Dibowan	O	O
+Neitsyniemellä	B-LOC	B-LOC
+Dibowan	O	I-LOC
 kauppapuodissa	O	O
 ja	O	O
 Pietarin	B-LOC	B-LOC
@@ -12250,7 +12250,7 @@ kumpp	O	O
 kirjakaupas	O	O
 Hinta	O	O
 :	O	O
-Wiipurissu	B-LOC	O
+Wiipurissu	B-LOC	B-LOC
 4	O	O
 markkaa	O	O
 koko-	O	O
@@ -13813,8 +13813,8 @@ Säkksarwin	O	O
 .	O	O
 Karl	B-PER	B-PER
 Säkkjänvi	I-PER	I-PER
-.	O	I-PER
-Henrik	B-PER	I-PER
+.	O	O
+Henrik	B-PER	B-PER
 Tiihosellen	I-PER	I-PER
 ,	O	O
 St	B-LOC	O
@@ -13847,8 +13847,8 @@ Wikam	I-PER	I-PER
 Adele	B-PER	I-PER
 Raiman	I-PER	B-LOC
 .	O	O
-Fredrika	B-PER	O
-Molandex	I-PER	O
+Fredrika	B-PER	B-PER
+Molandex	I-PER	I-PER
 .	O	O
 Anna	B-PER	B-PER
 Katarina	I-PER	I-PER
@@ -13862,9 +13862,9 @@ Rautatientyömies	O	O
 Thomas	B-PER	B-PER
 Nickinen	I-PER	I-PER
 .	O	O
-Johaunes	B-PER	B-PER
-Tuomaanpoika	I-PER	I-PER
-Sawenius	I-PER	I-PER
+Johaunes	B-PER	O
+Tuomaanpoika	I-PER	O
+Sawenius	I-PER	B-PER
 .	O	O
 Chr	B-PER	B-PER
 .	I-PER	I-PER
@@ -13960,8 +13960,8 @@ Reitti	I-PER	I-PER
 Maskiiiisten	O	O
 Johan	B-PER	B-PER
 Hiltunen	I-PER	I-PER
-.	O	I-PER
-N	B-PER	I-PER
+.	O	O
+N	B-PER	B-PER
 .	I-PER	I-PER
 Fournier	I-PER	I-PER
 .	O	O
@@ -14021,12 +14021,12 @@ Stina	B-PER	I-PER
 Maria	I-PER	I-PER
 Pakarinieni	I-PER	I-PER
 ,	O	O
-St	B-LOC	O
-.	I-LOC	O
-Andrew	I-LOC	B-PER
-.	O	I-PER
-Tininmerman	O	I-PER
-Matts	B-PER	I-PER
+St	B-LOC	B-PER
+.	I-LOC	I-PER
+Andrew	I-LOC	I-PER
+.	O	O
+Tininmerman	O	O
+Matts	B-PER	B-PER
 Matlsson	I-PER	I-PER
 .	O	O
 Plätslagaren	O	O
@@ -14064,12 +14064,12 @@ A	B-PER	I-PER
 I	I-PER	I-PER
 .	I-PER	I-PER
 Oloffsson	I-PER	I-PER
-Anders	B-PER	I-PER
+Anders	B-PER	B-PER
 Gustaf	I-PER	I-PER
 Michelsson	I-PER	I-PER
 .	O	O
 Timmerman	O	O
-Gnstafoson	B-PER	O
+Gnstafoson	B-PER	B-PER
 .	O	O
 Timmerman	O	O
 Iohan	B-PER	O
@@ -14127,8 +14127,8 @@ Ulrita	B-PER	O
 Reinikainen	I-PER	B-PER
 .	O	I-PER
 Johan	B-PER	I-PER
-.	I-PER	I-PER
-Koljander	I-PER	I-PER
+.	I-PER	O
+Koljander	I-PER	B-PER
 .	O	I-PER
 Berg	B-PER	I-PER
 .	O	O
@@ -14166,8 +14166,8 @@ Strömberg	I-PER	I-PER
 Anun	O	I-PER
 Pyru	O	O
 .	O	O
-Auouuuapm	O	O
-Banwww	O	O
+Auouuuapm	O	B-PER
+Banwww	O	I-PER
 .	O	O
 Ceunacuomy	O	O
 .	O	O
@@ -14563,8 +14563,8 @@ k	O	O
 jälellä	O	O
 olewasta	O	O
 osasta	O	O
-Wanala	O	O
-kaupungin	O	O
+Wanala	O	B-LOC
+kaupungin	O	I-LOC
 osaa	O	O
 ,	O	O
 Terwaniemeltä	B-LOC	B-LOC
@@ -14630,7 +14630,7 @@ osasta	O	O
 mainittua	O	O
 esikaupunkia	O	O
 ,	O	O
-Pantsarlahdelta	B-LOC	O
+Pantsarlahdelta	B-LOC	B-LOC
 ,	O	O
 Papulasta	B-LOC	B-LOC
 ,	O	O
@@ -14651,9 +14651,9 @@ p:nä	O	O
 Huhtikuuta	O	O
 1870	O	O
 .	O	O
-Ch	B-PER	O
-.	I-PER	O
-Tawast	I-PER	O
+Ch	B-PER	B-PER
+.	I-PER	I-PER
+Tawast	I-PER	I-PER
 .	O	O
 Pata	O	O
 tahtoisi	O	O
@@ -14690,7 +14690,7 @@ ennen	O	O
 Huhtikuun	O	O
 loppua	O	O
 .	O	O
-Juwalla	B-LOC	O
+Juwalla	B-LOC	B-LOC
 31	O	O
 p	O	O
 .	O	O
@@ -14721,7 +14721,7 @@ kello	O	O
 edellä	O	O
 puolen	O	O
 päiwän	O	O
-Walkjärwen	B-LOC	O
+Walkjärwen	B-LOC	B-LOC
 seurakunnan	O	O
 pitäjä	O	O
 tuwalla	O	O
@@ -14914,13 +14914,13 @@ Palowiinaa	O	O
 !	O	O
 Wakiwiinaa	O	O
 myydään	O	O
-Theslessin	B-LOC	B-PER
-Kartanossa	I-LOC	I-PER
+Theslessin	B-LOC	O
+Kartanossa	I-LOC	O
 paratitoriu	O	O
 wierellä	O	O
 ja	O	O
-Biidanowan	B-PER	B-PER
-Talossa	O	I-PER
+Biidanowan	B-PER	B-LOC
+Talossa	O	I-LOC
 Pietarporin	B-LOC	B-LOC
 esikaupungissa	O	O
 ,	O	O
@@ -15019,7 +15019,7 @@ hakisan	O	O
 halua	O	O
 myöten	O	O
 .	O	O
-Nosenius	B-PER	O
+Nosenius	B-PER	B-PER
 ja	O	O
 Sesemaim	B-PER	O
 .	O	O
@@ -15035,7 +15035,7 @@ tv	O	O
 Wakuutuksia	O	O
 ,	O	O
 ulottuwat	O	O
-Thaleriin	B-LOC	O
+Thaleriin	B-LOC	B-PER
 ,	O	O
 toimittawat	O	O
 tuhannen	O	O
@@ -15120,7 +15120,7 @@ Terijoelta	B-LOC	B-LOC
 Raiwolasta	B-LOC	B-LOC
 15	O	O
 Uudellakirkolla	B-LOC	B-LOC
-Lähtee	O	B-LOC
+Lähtee	O	O
 13	O	O
 Perkjärweltä	B-LOC	B-LOC
 11	O	O
@@ -15181,7 +15181,7 @@ toistaiseksi	O	O
 joka	O	O
 päiwä	O	O
 lähetetään	O	O
-Piekarista	B-LOC	O
+Piekarista	B-LOC	B-LOC
 ja	O	O
 Wiipurista	B-LOC	B-LOC
 .	O	O
@@ -16098,7 +16098,7 @@ wuosikerrasta	O	O
 .	O	O
 .	O	O
 Run	O	O
-Ilmarisen	O	B-PER
+Ilmarisen	O	O
 ainoastaan	O	O
 paino	O	O
 ja	O	O
@@ -16325,7 +16325,7 @@ tatvalla	O	O
 otettu	O	O
 kiinni	O	O
 .	O	O
-Sorwalin	B-LOC	O
+Sorwalin	B-LOC	B-LOC
 kallis	O	O
 silta	O	O
 on	O	O
@@ -16472,7 +16472,7 @@ ehkä	O	O
 parasta	O	O
 hylätä	O	O
 koko	O	O
-Sorwalin	B-LOC	B-PER
+Sorwalin	B-LOC	B-LOC
 silta	I-LOC	O
 ja	O	O
 koitella	O	O
@@ -16636,7 +16636,7 @@ rapa	O	O
 on	O	O
 aina	O	O
 Sorwalin	B-LOC	B-LOC
-saaresta	I-LOC	I-LOC
+saaresta	I-LOC	O
 asti	O	O
 sinne	O	O
 tveoettätvä	O	O
@@ -17194,7 +17194,7 @@ kertoa	O	O
 :	O	O
 Kauppakirjassa	O	O
 ruhtinas	O	O
-Uhtomskin	B-PER	B-LOC
+Uhtomskin	B-PER	B-PER
 ja	O	O
 Wenäjän	B-LOC	B-LOC
 tykistöhallituksen	O	O
@@ -17499,7 +17499,7 @@ letto	O	O
 maissa	O	O
 Wiipu-	B-LOC	B-LOC
 läänin	I-LOC	I-LOC
-kihlakunnissa	O	O
+kihlakunnissa	O	I-LOC
 28	O	O
 :	O	O
 80	O	O
@@ -18470,8 +18470,8 @@ keskipaikoilla	O	O
 .	O	O
 on	O	O
 seppo	B-PER	O
-Ilmarinen	I-PER	B-PER
-Jtse	O	I-PER
+Ilmarinen	I-PER	O
+Jtse	O	O
 loihe	O	O
 lietsomahan	O	O
 .	O	O
@@ -18490,7 +18490,7 @@ sanomalehdissä	O	O
 ilmoitetuksi	O	O
 sinut	O	O
 ,	O	O
-Seppo	B-PER	B-LOC
+Seppo	B-PER	B-PER
 ,	O	O
 taasen	O	O
 rupeotvan	O	O
@@ -18994,7 +18994,7 @@ henkisten	O	O
 rientojen	O	O
 Äkkiä	O	O
 tuli	O	O
-Pierren	B-PER	B-LOC
+Pierren	B-PER	B-PER
 mieleen	O	O
 että	O	O
 Pauli-	B-PER	O
@@ -19087,7 +19087,7 @@ silmällä	O	O
 Wihdoin	O	O
 kuiskasi	O	O
 Herra	O	O
-Denon	B-PER	O
+Denon	B-PER	B-PER
 jotakin	O	O
 Paulinankormaun	O	B-PER
 .	O	I-PER
@@ -19349,7 +19349,7 @@ hullu	O	O
 ole	O	O
 kuin	O	O
 herra	O	O
-Woljakan	B-PER	O
+Woljakan	B-PER	B-LOC
 palkittu	O	O
 saapas	O	O
 myöskin	O	O
@@ -19383,7 +19383,7 @@ Jatk	O	O
 .	O	O
 Tursin	B-LOC	B-LOC
 alusmaat	O	O
-Eutopnösn	O	O
+Eutopnösn	O	B-PER
 .	O	O
 Jatkoa	O	O
 73	O	O
@@ -19460,7 +19460,7 @@ usein	O	O
 Pierreen	B-PER	B-LOC
 .	O	O
 Herro	O	O
-Denon	B-PER	O
+Denon	B-PER	B-PER
 ,	O	O
 sanoi	O	O
 Pierre	B-PER	B-PER
@@ -20160,7 +20160,7 @@ korkeamman	O	O
 weron	O	O
 .	O	O
 Wä-	O	O
-Turkki	B-LOC	B-PER
+Turkki	B-LOC	B-LOC
 ei	O	O
 suostu	O	O
 ,	O	O
@@ -20237,7 +20237,7 @@ päi-	O	O
 asti	O	O
 .	O	O
 Turkkilaiset	O	O
-Alexinatsissa	B-LOC	O
+Alexinatsissa	B-LOC	B-LOC
 owat	O	O
 huonossa	O	O
 tilassa	O	O
@@ -20246,7 +20246,7 @@ ne	O	O
 omat	O	O
 melkein	O	O
 piiritettyi-	O	O
-Serbialaisilta	O	O
+Serbialaisilta	O	B-LOC
 joukoilta	O	O
 .	O	O
 Eilen	O	O
@@ -20315,7 +20315,7 @@ p	O	O
 .	O	O
 Snnsäuuia	O	O
 Kurssit	O	O
-Diskonttikurs	O	O
+Diskonttikurs	O	B-PER
 .	O	O
 Wekselikurssi	O	O
 .	O	O
@@ -20380,7 +20380,7 @@ seurak	O	O
 työmiehenwaimo	O	O
 Maria	B-PER	B-PER
 Gustaswa	I-PER	I-PER
-Wiljamaa	I-PER	O
+Wiljamaa	I-PER	I-PER
 43	O	O
 tv	O	O
 .	O	O
@@ -21121,15 +21121,15 @@ päällikön	O	O
 apulaisena	O	O
 .	O	O
 Hewoisnäytteiy	O	O
-Moskowan	B-LOC	O
+Moskowan	B-LOC	B-LOC
 näyttunnettu	O	O
 sanoa	O	O
 nimimerkki	O	O
-R	O	B-PER
-.	O	I-PER
-E	O	I-PER
-.	O	I-PER
-H	O	I-PER
+R	O	O
+.	O	O
+E	O	O
+.	O	O
+H	O	O
 .	O	O
 D:ssa	O	O
 on	O	O
@@ -21265,7 +21265,7 @@ takasin	O	O
 ,	O	O
 on	O	O
 Undenmaan	B-LOC	B-LOC
-läänin	O	I-LOC
+läänin	O	O
 hewosystätväin	O	O
 yhdistys	O	O
 omassa	O	O
@@ -21793,7 +21793,7 @@ tarkastus	O	O
 .	O	O
 .	O	O
 Kenraliluntnantti	O	O
-Mahotin	B-PER	O
+Mahotin	B-PER	B-PER
 ,	O	O
 Wenäjän	B-LOC	B-LOC
 kaikkien	O	O
@@ -22040,7 +22040,7 @@ kastai	O	O
 joka	O	O
 nyt	O	O
 kaslvaa	O	O
-Aigeriassa	B-LOC	O
+Aigeriassa	B-LOC	B-LOC
 ja	O	O
 Syriassa	B-LOC	B-LOC
 ,	O	O
@@ -22642,7 +22642,7 @@ meidän	O	O
 tuuluisa	O	O
 ,	O	O
 nykyjään	O	O
-Hiekan	O	B-PER
+Hiekan	O	B-LOC
 rannalla	O	O
 makaa-	O	O
 mudankaitvoproomi	O	O
@@ -23149,7 +23149,7 @@ woi	O	O
 kuten	O	O
 hra	O	O
 B	O	B-PER
-.	O	O
+.	O	I-PER
 ,	O	O
 antaa	O	O
 jonkinmoisen	O	O
@@ -23864,7 +23864,7 @@ hywin	O	O
 K-S	O	O
 Perustuslakien	O	O
 rewisioni	O	O
-Fransteen	O	O
+Fransteen	O	B-LOC
 Tunnettu	O	O
 radikalinen	O	O
 edustuskunnan	O	O
@@ -23946,7 +23946,7 @@ Jules	B-PER	B-PER
 Ferry	I-PER	I-PER
 tekee	O	O
 ,	O	O
-Kamarissa	O	B-LOC
+Kamarissa	O	O
 on	O	O
 rewisionia	O	O
 warten	O	O
@@ -24055,8 +24055,8 @@ wasta-	O	O
 polisipäällikön	O	O
 toimistoa	O	O
 ,	O	O
-Scotland	B-LOC	B-PER
-Yardissa	O	O
+Scotland	B-LOC	B-LOC
+Yardissa	O	I-LOC
 .	O	O
 Osa	O	O
 lähellä	O	O
@@ -24137,7 +24137,7 @@ räjäyksct	O	O
 tapahtuiwat	O	O
 löydettiin	O	O
 lä-	O	O
-Nelson-patsasta	B-LOC	O
+Nelson-patsasta	B-LOC	B-LOC
 Trafalgar-	O	O
 18	O	O
 pakettia	O	O
@@ -24165,7 +24165,7 @@ neljä	O	O
 henkeä	O	O
 on	O	O
 wiety	O	O
-Charing-Crossin	B-LOC	O
+Charing-Crossin	B-LOC	B-LOC
 sairas-	O	O
 hywin	O	O
 arweluttawassa	O	O
@@ -24173,9 +24173,9 @@ tilassa	O	O
 ,	O	O
 ennen	O	O
 räjäyksiä	O	O
-St	B-LOC	O
-.	I-LOC	O
-Jamesin	I-LOC	B-PER
+St	B-LOC	B-PER
+.	I-LOC	I-PER
+Jamesin	I-LOC	I-PER
 puistossa	I-LOC	O
 oli	O	O
 eräs	O	O
@@ -24769,7 +24769,7 @@ kruununprinssin	O	O
 wälillä	O	O
 ja	O	O
 suuriruhtinatar	O	O
-Katharina	B-PER	O
+Katharina	B-PER	B-PER
 kruununprinssin	O	O
 wieressä	O	O
 .	O	O
@@ -24901,7 +24901,7 @@ prinssi	O	O
 Waldemar	B-PER	B-PER
 lähtee	O	O
 torstaina	O	O
-Helgolantiin	B-LOC	B-LOC
+Helgolantiin	B-LOC	O
 ,	O	O
 josta	O	O
 hän	O	O
@@ -24956,7 +24956,7 @@ Aleksandriasta	B-LOC	B-LOC
 wieden	O	O
 lisäwäkeä	O	O
 Suakinin	B-LOC	B-LOC
-linnan	I-LOC	O
+linnan	I-LOC	I-LOC
 wahwistukseksi	O	O
 .	O	O
 Agramista	B-LOC	O
@@ -25278,7 +25278,7 @@ Maksuja	O	O
 wuoden	O	O
 kululla	O	O
 :	O	O
-Welan	O	B-LOC
+Welan	O	O
 suoritukseen	O	O
 .	O	O
 1,420	O	O
@@ -25302,7 +25302,7 @@ mak	O	O
 Jäännös	O	O
 alkawaan	O	O
 11	O	O
-Yhdyspankissa	O	O
+Yhdyspankissa	O	B-LOC
 500	O	O
 :	O	O
 Rahaa	O	O
@@ -25404,7 +25404,7 @@ pie-	O	O
 lehdossa	O	O
 ,	O	O
 seisoi	O	O
-Maud	B-PER	O
+Maud	B-PER	B-PER
 puidensuo-	O	O
 ja	O	O
 katseli	O	O
@@ -26858,7 +26858,7 @@ poika	O	O
 ,	O	O
 ja	O	O
 sinä	O	O
-Maud	B-PER	O
+Maud	B-PER	B-PER
 olit	O	O
 pieni	O	O
 lapsi	O	O
@@ -27536,7 +27536,7 @@ Leibnii	B-PER	O
 ,	O	O
 Calwin	B-PER	B-LOC
 ,	O	O
-Lutherus	B-PER	O
+Lutherus	B-PER	B-PER
 ,	O	O
 Melanchton	B-PER	O
 ,	O	O
@@ -27564,7 +27564,7 @@ LHöpital	B-PER	O
 ,	O	O
 Saurin	B-PER	B-PER
 ,	O	O
-Maeillon	B-PER	B-LOC
+Maeillon	B-PER	O
 ,	O	O
 Calmet	B-PER	B-PER
 owat	O	O
@@ -28607,8 +28607,8 @@ W	B-PER	B-PER
 .	I-PER	I-PER
 Bnrgmanin	I-PER	I-PER
 ,	O	O
-N	B-PER	O
-A	I-PER	B-PER
+N	B-PER	B-PER
+A	I-PER	I-PER
 .	I-PER	I-PER
 Malmin	I-PER	I-PER
 ,	O	O
@@ -28835,7 +28835,7 @@ j	O	O
 .	O	O
 Lanantaina	O	O
 .	O	O
-Kanpungin	O	B-LOC
+Kanpungin	O	O
 kappalaisen	O	O
 tauolla	O	O
 awoluua	O	O
@@ -28981,7 +28981,7 @@ pp	O	O
 Mikkelin	B-LOC	B-LOC
 rautatie-asemalta	I-LOC	O
 :	O	O
-Kangaauiemen	B-LOC	O
+Kangaauiemen	B-LOC	B-LOC
 ,	O	O
 Leiwonmäen	B-LOC	B-LOC
 ,	O	O
@@ -29101,7 +29101,7 @@ joka	O	O
 on	O	O
 werrattawa	O	O
 hywään	O	O
-Es-Spanian	B-LOC	O
+Es-Spanian	B-LOC	B-LOC
 wiiniin	O	O
 ,	O	O
 myywät	O	O
@@ -29112,8 +29112,8 @@ Heinolassa	B-LOC	B-LOC
 Abel	B-PER	B-PER
 Wkalin	I-PER	I-PER
 ,	O	O
-DIilhelt-t	B-PER	O
-Burgman	I-PER	B-LOC
+DIilhelt-t	B-PER	B-PER
+Burgman	I-PER	I-PER
 ,	O	O
 Erik	B-PER	B-PER
 Andersson	I-PER	I-PER
@@ -29127,8 +29127,8 @@ Saxberg	I-PER	I-PER
 ,	O	O
 ja	O	O
 summittain	O	O
-Brntnto	B-PER	O
-Yoschner	I-PER	O
+Brntnto	B-PER	B-PER
+Yoschner	I-PER	I-PER
 :	O	O
 :	O	O
 Helsiugissä	B-LOC	B-LOC
@@ -29253,7 +29253,7 @@ p	O	O
 ja	O	O
 Kitktjwist	O	O
 .	O	O
-Finlantdissa	B-LOC	O
+Finlantdissa	B-LOC	B-LOC
 on	O	O
 julkaistuna	O	O
 eräs	O	O
@@ -29261,8 +29261,8 @@ kirje	O	O
 Joh	B-PER	B-PER
 .	I-PER	I-PER
 Ludw	I-PER	I-PER
-.	I-PER	I-PER
-Runebergilta	I-PER	I-PER
+.	I-PER	O
+Runebergilta	I-PER	O
 ,	O	O
 heinäkuun	O	O
 5	O	O
@@ -29290,7 +29290,7 @@ Runeberg	B-PER	B-PER
 piti	O	O
 silloin	O	O
 13-wuotiaasta	O	O
-Ahlqwistista	B-PER	O
+Ahlqwistista	B-PER	B-LOC
 .	O	O
 Jo	O	O
 ylioppilaana	O	O
@@ -29612,7 +29612,7 @@ asemapäällikön	O	O
 K	O	O
 .	O	O
 Kö	O	O
-Yliwieskan	B-LOC	O
+Yliwieskan	B-LOC	B-LOC
 postitoimitukseen	O	O
 w	O	O
 .	O	O
@@ -29640,11 +29640,11 @@ w	O	O
 t	O	O
 .	O	O
 asemapäällikön	O	O
-K	O	O
-.	O	O
-W	O	O
-.	O	O
-T	O	O
+K	O	B-PER
+.	O	I-PER
+W	O	I-PER
+.	O	I-PER
+T	O	I-PER
 ja	O	O
 Lapin	B-LOC	B-LOC
 postitoimitukseen	O	O
@@ -29657,7 +29657,7 @@ R	O	O
 .	O	O
 L	O	O
 sekä	O	O
-Kälwiän	B-LOC	O
+Kälwiän	B-LOC	B-LOC
 postiaseman	I-LOC	O
 hoitajaksi	O	O
 m	O	O
@@ -30237,7 +30237,7 @@ Hanna	B-PER	B-PER
 ?	O	O
 Minä	O	O
 kuulin	O	O
-Hannan	B-PER	B-PER
+Hannan	B-PER	B-LOC
 äänen	O	O
 eikö	O	O
 hän	O	O
@@ -30498,7 +30498,7 @@ wahinkoa	O	O
 Kumminkin	O	O
 Wikström	B-PER	B-PER
 welwoitettiin	O	O
-Yhdyspaniille	O	O
+Yhdyspaniille	O	B-LOC
 maksamaan	O	O
 oikeuden	O	O
 käymiskuluja	O	O
@@ -30512,7 +30512,7 @@ howioikeuteen	O	O
 .	O	O
 Oikaisu	O	O
 .	O	O
-Finland	O	B-PER
+Finland	O	B-LOC
 höyrylaiwa	O	O
 oli	O	O
 wiimeinen	O	O
@@ -30554,7 +30554,7 @@ m	O	O
 p	O	O
 .	O	O
 ja	O	O
-Kuiwaniemellä	B-LOC	O
+Kuiwaniemellä	B-LOC	B-LOC
 tämän	O	O
 tuun	O	O
 8	O	O
@@ -30840,7 +30840,7 @@ perustamishommissa	O	O
 ollaan	O	O
 ,	O	O
 kertoo	O	O
-Tapio	O	B-PER
+Tapio	O	O
 ,	O	O
 Maaningalla	B-LOC	B-LOC
 .	O	O
@@ -31156,7 +31156,7 @@ S	O	O
 wihityn	O	O
 tarkoitukseensa	O	O
 Mouhijärwen	B-LOC	B-LOC
-kirkkoon	I-LOC	O
+kirkkoon	I-LOC	I-LOC
 Pyhäinmiesten	O	O
 päiwänä	O	O
 .	O	O
@@ -31959,7 +31959,7 @@ lienee	O	O
 waikia	O	O
 ratkaista	O	O
 .	O	O
-Nuokin	O	B-LOC
+Nuokin	O	O
 kansan	O	O
 isä	O	O
 .	O	O
@@ -33192,7 +33192,7 @@ ole	O	O
 ,	O	O
 arisästä	O	O
 ,	O	O
-Simo	B-PER	B-LOC
+Simo	B-PER	B-PER
 .	O	O
 Eikö	O	O
 käynyt	O	O
@@ -33955,7 +33955,7 @@ silmiin	O	O
 waan	O	O
 ympärilleen	O	O
 .	O	O
-Jukuri	B-PER	B-LOC
+Jukuri	B-PER	O
 on	O	O
 14	O	O
 wuotinen	O	O
@@ -34688,7 +34688,7 @@ wasta	O	O
 tänä-aamuna	O	O
 järwestä	O	O
 lähellä	O	O
-Ranpnntiia	O	O
+Ranpnntiia	O	B-LOC
 .	O	O
 Yohrskränt	O	O
 syntyi	O	O
@@ -34867,7 +34867,7 @@ luwussa	O	O
 .	O	O
 Ainoastaan	O	O
 Turun	B-LOC	B-LOC
-tuomiokirkon	I-LOC	I-LOC
+tuomiokirkon	I-LOC	O
 urkurilla	O	O
 on	O	O
 tietääksemme	O	O
@@ -36750,7 +36750,7 @@ osakunta	O	O
 päätti	O	O
 maanantaillisessa	O	O
 kokouksessaan	O	O
-Jlmajoen	B-LOC	O
+Jlmajoen	B-LOC	B-LOC
 kansanopiston	O	O
 kannattaja-yhdistyksen	O	O
 johtokunnalle	O	O
@@ -36964,8 +36964,8 @@ A	I-PER	I-PER
 .	I-PER	I-PER
 Palmqwist	I-PER	I-PER
 ,	O	O
-Jin	B-LOC	B-PER
-piirin	I-LOC	O
+Jin	B-LOC	B-LOC
+piirin	I-LOC	I-LOC
 nimismies	O	O
 J	B-PER	B-PER
 .	I-PER	I-PER
@@ -37134,7 +37134,7 @@ Ruisjauhoja	O	O
 235,500	O	O
 Nisujauhoja	O	O
 96,843	O	O
-Rukiin	O	B-LOC
+Rukiin	O	O
 maltaita	O	O
 1,760	O	O
 ,	O	O
@@ -37360,7 +37360,7 @@ sekasotkua	O	O
 sattuu	O	O
 ehtimiseen	O	O
 Pudasjärwen	B-LOC	B-LOC
-kunnan	I-LOC	O
+kunnan	I-LOC	I-LOC
 wanhain	O	O
 kunnalliswerorästein	O	O
 ulosotossa	O	O
@@ -37762,7 +37762,7 @@ Tulwa	O	O
 onkin	O	O
 noussutsuunnattomiin	O	O
 .	O	O
-Pudasjärweltä	B-LOC	O
+Pudasjärweltä	B-LOC	B-LOC
 kirjottelee	O	O
 kirjeenwaihtajamme	O	O
 tämän	O	O
@@ -38107,7 +38107,7 @@ seuranneen	O	O
 M	B-PER	O
 .	I-PER	O
 Udeliuksen	I-PER	O
-Jlmajoelta	B-LOC	O
+Jlmajoelta	B-LOC	B-LOC
 .	O	O
 Kattnis	O	O
 päätös	O	O
@@ -38396,9 +38396,9 @@ tunnetuksi	O	O
 kuuluisan	O	O
 teoksensa	O	O
 Vie	O	O
-de	O	O
-Jsus	O	O
-Jeesuksen	B-PER	B-PER
+de	O	B-PER
+Jsus	O	I-PER
+Jeesuksen	B-PER	I-PER
 elämä	O	O
 kautta	O	O
 ,	O	O
@@ -38694,7 +38694,7 @@ Elias	B-PER	B-PER
 Lönnrotin	I-PER	I-PER
 ,	O	O
 ja	O	O
-Krentzwald	B-PER	O
+Krentzwald	B-PER	B-PER
 tulee	O	O
 kaksi	O	O
 tapausta	O	O
@@ -38917,7 +38917,7 @@ Pietarihowista	B-LOC	B-LOC
 Gatsjinaan	B-LOC	B-LOC
 .	O	O
 Kruunaus	O	O
-Moskowassa	B-LOC	O
+Moskowassa	B-LOC	B-LOC
 kuuluu	O	O
 wenäläisten	O	O
 sanomalehtien	O	O
@@ -41002,7 +41002,7 @@ pelastunut	O	O
 .	O	O
 21110	O	O
 1011111111101	O	O
-Gnglaniiissä	O	O
+Gnglaniiissä	O	B-LOC
 on	O	O
 eiyt	O	O
 säanut	O	O
@@ -41165,7 +41165,7 @@ Kontiolahden	B-LOC	B-LOC
 1111991111-	O	O
 ja	O	O
 Joenisnmi	B-LOC	B-LOC
-kanpnngin	I-LOC	O
+kanpnngin	I-LOC	I-LOC
 arwänheittoalu-en	O	O
 kanssa	O	O
 perjantaina	O	O
@@ -41470,7 +41470,7 @@ sanialla	O	O
 Kotkan	B-LOC	B-LOC
 Saitomat	O	O
 toimittataulu	O	O
-Kotka	B-LOC	B-LOC
+Kotka	B-LOC	O
 Jnsinnööri	O	O
 John	B-PER	B-PER
 Sten-	O	I-PER
@@ -42319,11 +42319,11 @@ taskuwarkaan	O	O
 kuuden	O	O
 kuukauden	O	O
 pak-	O	O
-Dakjon	B-LOC	O
+Dakjon	B-LOC	B-LOC
 määrää	O	O
 rahaa	O	O
 .	O	O
-Romasta	B-LOC	O
+Romasta	B-LOC	B-LOC
 ilmoitetaan	O	O
 :	O	O
 Cataniassa	B-LOC	B-LOC
@@ -42375,7 +42375,7 @@ wuorokansiksi	O	O
 keskey.tynyt	O	O
 Makedoniassa	B-LOC	O
 ja	O	O
-Tessaliassa	B-LOC	O
+Tessaliassa	B-LOC	B-LOC
 wallitsee	O	O
 ankara	O	O
 patkaiuen	O	O
@@ -42736,7 +42736,7 @@ fkolast1kolle	O	O
 Eräs	O	O
 skolastikko	O	O
 on	O	O
-Karjalattaren	O	B-LOC
+Karjalattaren	O	O
 6:ssa	O	O
 numerossa	O	O
 minua	O	O
@@ -43222,7 +43222,7 @@ se	O	O
 olisi	O	O
 Rääkkylän	B-LOC	B-LOC
 kunta	I-LOC	I-LOC
-Syrjäisimmissäkin	O	B-LOC
+Syrjäisimmissäkin	O	O
 salokylissä	O	O
 ,	O	O
 yksin	O	O
@@ -43290,7 +43290,7 @@ Kysymys	O	O
 kuitenkaan	O	O
 ei	O	O
 ole	O	O
-Nääkkylässä	B-LOC	O
+Nääkkylässä	B-LOC	B-LOC
 eileiien	O	O
 päiwän	O	O
 asia	O	O
@@ -44699,8 +44699,8 @@ Rautalamniilla	O	O
 J	B-PER	B-PER
 .	I-PER	I-PER
 G	I-PER	I-PER
-.	O	O
-K	O	O
+.	O	I-PER
+K	O	I-PER
 .	O	O
 D	O	O
 Kappalaiswirkaa	O	O
@@ -44710,10 +44710,10 @@ hakentit	O	O
 artii	O	O
 .	O	O
 siellä	O	O
-L	O	O
-.	O	O
-J	O	O
-K	B-PER	B-PER
+L	O	B-PER
+.	O	I-PER
+J	O	I-PER
+K	B-PER	I-PER
 .	I-PER	I-PER
 Wiipuriu	I-PER	I-PER
 hotvioikens	O	O
@@ -44734,7 +44734,7 @@ pitäjääti	O	O
 ja	O	O
 Nautawaaran	B-LOC	B-LOC
 kappelin	I-LOC	I-LOC
-käräjäkunnassa	I-LOC	I-LOC
+käräjäkunnassa	I-LOC	O
 ja	O	O
 samalla	O	O
 tnäärännyt	O	O
@@ -44860,7 +44860,7 @@ malittu	O	O
 neiti	O	O
 Anna	B-PER	B-PER
 Miett	I-PER	I-PER
-Nilkitistä	B-LOC	O
+Nilkitistä	B-LOC	B-LOC
 .	O	O
 Nurmeksen	B-LOC	B-LOC
 kansakoulnissa	O	O
@@ -45326,7 +45326,7 @@ Kokon	O	O
 Diiodeeiiu	O	O
 l	O	O
 ,	O	O
-Finland	B-LOC	B-PER
+Finland	B-LOC	B-LOC
 2	O	O
 ,	O	O
 Iinsk	O	O
@@ -45452,7 +45452,7 @@ Tttriin	O	O
 Lelttt	O	O
 3	O	O
 ,	O	O
-Turitii	O	B-LOC
+Turitii	O	O
 l	O	O
 ,	O	O
 Camo	O	O
@@ -45524,7 +45524,7 @@ Pyhäkonlnlehti	O	O
 litis	O	O
 l	O	O
 ,	O	O
-Finland	B-LOC	B-PER
+Finland	B-LOC	B-LOC
 l	O	O
 ,	O	O
 2	O	O
@@ -45785,7 +45785,7 @@ on	O	O
 Lukijoillemine	O	O
 .	O	O
 Matkamuistelmia	O	O
-Skandinawiasta	B-LOC	O
+Skandinawiasta	B-LOC	B-LOC
 .	O	O
 Wähän	O	O
 kansanopiston	O	O
@@ -45830,7 +45830,7 @@ omien	O	O
 wirkojensa	O	O
 ohessa	O	O
 toistaiseksi	O	O
-Niuwanniemen	B-LOC	O
+Niuwanniemen	B-LOC	B-LOC
 hoiirulaitoksen	O	O
 saarnaajatsi	O	O
 .	O	O
@@ -46216,9 +46216,9 @@ mk	O	O
 p:iä	O	O
 .	O	O
 Jloniaiitsissa	O	O
-P	B-PER	B-PER
-.	I-PER	I-PER
-Turuselle	I-PER	I-PER
+P	B-PER	O
+.	I-PER	O
+Turuselle	I-PER	B-LOC
 asuinrakennuksesta	O	O
 ja	O	O
 irtaimistosta	O	O
@@ -46230,7 +46230,7 @@ Nurmeksessa	B-LOC	B-LOC
 kaupv	O	O
 .	O	O
 Olawi	B-PER	O
-Korhoselle	I-PER	B-PER
+Korhoselle	I-PER	B-LOC
 ajuin-	O	O
 ja	O	O
 ulkohuoneista	O	O
@@ -47180,7 +47180,7 @@ myöskin	O	O
 Möhkön	B-LOC	B-LOC
 tehtaalle	O	O
 ,	O	O
-Jlomantlissa	B-LOC	B-LOC
+Jlomantlissa	B-LOC	O
 ,	O	O
 rahan	O	O
 kurssi	O	O
@@ -47590,7 +47590,7 @@ myöntämästaaii	O	O
 ivaltioaiviista	O	O
 Lomiisaini	O	O
 ja	O	O
-Marianhamiiiau	B-LOC	O
+Marianhamiiiau	B-LOC	B-PER
 kylpylaitolselle	O	O
 pidättänyt	O	O
 tästä	O	O
@@ -47870,7 +47870,7 @@ Hyrynsalmella	B-LOC	B-LOC
 ,	O	O
 on	O	O
 lähetetty	O	O
-Louhen	O	B-PER
+Louhen	O	O
 toimitukselle	O	O
 näytteeksi	O	O
 .	O	O
@@ -48756,7 +48756,7 @@ aikana	O	O
 oltiin	O	O
 wasta	O	O
 tuon	O	O
-Tonawan	B-LOC	O
+Tonawan	B-LOC	B-LOC
 nousewan	O	O
 wuoren	O	O
 juurella	O	O
@@ -48764,7 +48764,7 @@ juurella	O	O
 jonka	O	O
 kukkutalla	O	O
 nähdään	O	O
-Wyshegradin	B-LOC	B-PER
+Wyshegradin	B-LOC	O
 linnanrauniot	O	O
 .	O	O
 Ilta	O	O
@@ -48838,13 +48838,13 @@ mainio	O	O
 silta	O	O
 ,	O	O
 joka	O	O
-Buda-Pestin	B-LOC	O
+Buda-Pestin	B-LOC	B-PER
 yhdistää	O	O
 .	O	O
 Höyry	O	O
 meni	O	O
 ensin	O	O
-Ofenin	B-LOC	B-PER
+Ofenin	B-LOC	O
 rantaan	O	O
 purkaaksensa	O	O
 sinne	O	O
@@ -49573,9 +49573,9 @@ palkannauttioista	O	O
 saiwat	O	O
 herrat	O	O
 :	O	O
-K	B-PER	O
-.	I-PER	O
-Holst	I-PER	O
+K	B-PER	B-PER
+.	I-PER	I-PER
+Holst	I-PER	I-PER
 95	O	O
 ja	O	O
 O	B-PER	B-PER
@@ -49803,8 +49803,8 @@ tämän	O	O
 kuun	O	O
 9	O	O
 p:nä	O	O
-Leithin	B-LOC	B-LOC
-satamaan	I-LOC	I-LOC
+Leithin	B-LOC	O
+satamaan	I-LOC	O
 .	O	O
 Myrsky	O	O
 on	O	O
@@ -51176,7 +51176,7 @@ sanomaa	O	O
 .	O	O
 Wäliin	O	O
 ilmoitetaan	O	O
-Serwian	B-LOC	O
+Serwian	B-LOC	B-LOC
 puolelta	O	O
 että	O	O
 bulgarialaisia	O	O
@@ -51219,7 +51219,7 @@ sotamiestä	O	O
 Mitä	O	O
 nyt	O	O
 näihin	O	O
-Serwian	B-LOC	O
+Serwian	B-LOC	B-LOC
 puolelta	O	O
 saapuwiin	O	O
 ilmoituksiiu	O	O
@@ -51327,7 +51327,7 @@ ollenkaan	O	O
 kummas-	O	O
 jos	O	O
 huomenna	O	O
-Serwian	B-LOC	O
+Serwian	B-LOC	B-LOC
 puolelta	O	O
 puhuttaisiin	O	O
 näennäisistä	O	O
@@ -51354,8 +51354,8 @@ ei	O	O
 ole	O	O
 epäilemistä	O	O
 etteiivät	O	O
-Kystendilin	B-LOC	O
-piirikunnassa	I-LOC	O
+Kystendilin	B-LOC	B-LOC
+piirikunnassa	I-LOC	I-LOC
 tapahtuneet	O	O
 seikat	O	O
 tu-	O	O
@@ -51430,7 +51430,7 @@ jossa	O	O
 werrattiin	O	O
 toisiinsa	O	O
 Bulgarian	B-LOC	B-LOC
-Aleksanteria	B-PER	I-LOC
+Aleksanteria	B-PER	B-PER
 ja	O	O
 Seririaii	O	B-PER
 Milan	B-PER	I-PER
@@ -51510,7 +51510,7 @@ Yrjön	B-PER	I-PER
 risti	O	O
 .	O	O
 Kmi	O	O
-Aleksanteri	B-PER	O
+Aleksanteri	B-PER	B-PER
 ruhtinas	O	O
 julkisesti	O	O
 on	O	O
@@ -51732,7 +51732,7 @@ seuraawan	O	O
 merkillisen	O	O
 hamaintonsa	O	O
 :	O	O
-Erään	O	B-PER
+Erään	O	O
 talon	O	O
 tellarissa	O	O
 Jnsbuekissä	B-LOC	O
@@ -52069,7 +52069,7 @@ ai	O	O
 Gtalsn	O	B-PER
 Kotkassa	B-LOC	B-LOC
 ,	O	O
-K.W.We1nanin	O	O
+K.W.We1nanin	O	B-LOC
 kirjapainossa	O	O
 ,	O	O
 1886	O	O
@@ -52415,7 +52415,7 @@ Pietarin	B-LOC	B-LOC
 junan	O	O
 tultua	O	O
 suoraan	O	O
-Jywäs-	O	B-LOC
+Jywäs-	O	O
 Siitä	O	O
 tulee	O	O
 sanomalehtiin	O	O
@@ -53120,7 +53120,7 @@ kehua	O	O
 ,	O	O
 ensin	O	O
 kokoontuneina	O	O
-Platen	O	O
+Platen	O	B-PER
 kahwilaan	O	O
 sieltä	O	O
 kolmatta	O	O
@@ -53303,16 +53303,16 @@ alus	O	O
 galeasi	O	O
 Ke-	O	O
 Wiipurista	B-LOC	B-LOC
-Koiwiston	B-LOC	O
-pitä-	O	O
+Koiwiston	B-LOC	B-LOC
+pitä-	O	I-LOC
 on	O	O
 Ruotsin	B-LOC	B-LOC
 rannikolla	O	O
 joutu-	O	O
 haaksirikkoon	O	O
 toisena	O	O
-Helluntai-	O	B-PER
-Merellä	O	I-PER
+Helluntai-	O	O
+Merellä	O	B-LOC
 oli	O	O
 paluumatkalla	O	O
 olewaa	O	O
@@ -53354,7 +53354,7 @@ mereen	O	O
 .	O	O
 Kun	O	O
 merimies	O	O
-Kurki	B-PER	O
+Kurki	B-PER	B-PER
 koetti	O	O
 saada	O	O
 ankkuria	O	O
@@ -53418,7 +53418,7 @@ lääkäri	O	O
 oli	O	O
 saa-	O	O
 Merimies	O	O
-Kurki	B-PER	O
+Kurki	B-PER	B-PER
 toimitettiin	O	O
 Serafimin	O	B-PER
 lasarettiin	O	O
@@ -53593,7 +53593,7 @@ Turusta	B-LOC	B-LOC
 tyhj	O	O
 .	O	O
 n	O	O
-Maja	O	B-LOC
+Maja	O	O
 ,	O	O
 kapt	O	O
 .	O	O
@@ -53724,7 +53724,7 @@ asiassa	O	O
 Keskiwiikko-aamuna	O	O
 toi	O	O
 näet	O	O
-Toiwaisen	B-PER	O
+Toiwaisen	B-PER	B-PER
 konttoristi	O	O
 Girssnin	B-PER	B-PER
 puotiin	O	O
@@ -53744,7 +53744,7 @@ pääkirjatkin	O	O
 Kirjakokoelma	O	O
 oli	O	O
 löydetty	O	O
-Toiwaisen	B-PER	O
+Toiwaisen	B-PER	B-PER
 puodin	O	O
 puolelta	O	O
 peräkämmäristä	O	O
@@ -54556,7 +54556,7 @@ wälillä	O	O
 puuhataan	O	O
 kauppasopimusta	O	O
 .	O	O
-Serbian	B-LOC	O
+Serbian	B-LOC	B-LOC
 puolelta	O	O
 on	O	O
 komiteaan	O	O
@@ -54670,7 +54670,7 @@ olojen	O	O
 waatimana	O	O
 .	O	O
 Opetusministeri	O	O
-Shiwkow	B-PER	O
+Shiwkow	B-PER	B-PER
 ,	O	O
 koululain	O	O
 warsinainen	O	O
@@ -54765,8 +54765,8 @@ päästä	O	O
 pois	O	O
 .	O	O
 Eräässä	O	O
-Unkarilaisessa	O	O
-kaupungissa	O	O
+Unkarilaisessa	O	B-LOC
+kaupungissa	O	I-LOC
 tapahtui	O	O
 äsken	O	O
 raaka	O	O
@@ -55607,7 +55607,7 @@ saiwat	O	O
 armon	O	O
 .	O	O
 Oikeusministeri	O	O
-Ricard	B-PER	O
+Ricard	B-PER	B-PER
 :	O	O
 Culiue	O	O
 säi	O	O
@@ -55668,7 +55668,7 @@ Melua	O	O
 Cassaguac	B-PER	O
 :	O	O
 Hra	O	O
-Clämeneean	B-PER	O
+Clämeneean	B-PER	B-PER
 ei	O	O
 moi	O	O
 kieltää	O	O
@@ -56061,7 +56061,7 @@ seppä	O	O
 J	B-PER	B-PER
 .	I-PER	I-PER
 Tahwanainen	I-PER	I-PER
-I	O	I-PER
+I	O	O
 kompp	O	O
 .	O	O
 päälliköksi	O	O
@@ -56318,8 +56318,8 @@ liiaksikin	O	O
 .	O	O
 siwurata	O	O
 .	O	O
-Jaakkiman	B-LOC	B-PER
-kunnan	I-LOC	O
+Jaakkiman	B-LOC	B-LOC
+kunnan	I-LOC	I-LOC
 toimesta	O	O
 ja	O	O
 kustannuksella	O	O
@@ -56476,8 +56476,8 @@ harrastusta	O	O
 Jtä	B-LOC	O
 Karjalassa	I-LOC	B-LOC
 .	O	O
-Jmpilahden	B-LOC	O
-kunta	I-LOC	O
+Jmpilahden	B-LOC	B-LOC
+kunta	I-LOC	I-LOC
 päätti	O	O
 wiime	O	O
 kuun	O	O
@@ -56531,7 +56531,7 @@ käyttää	O	O
 nykyisiä	O	O
 hautausmaitansa	O	O
 .	O	O
-Pitkärannan	B-LOC	B-PER
+Pitkärannan	B-LOC	B-LOC
 tehtaan	O	O
 ehdotukseen	O	O
 että	O	O
@@ -57232,7 +57232,7 @@ luwan	O	O
 Oulun	B-LOC	B-LOC
 kaupungissa	I-LOC	I-LOC
 ulosantaa	O	O
-Louhi	O	B-PER
+Louhi	O	O
 nimistä	O	O
 sanomalehteä	O	O
 .	O	O
@@ -57878,7 +57878,7 @@ opettajakokouksen	O	O
 ja	O	O
 lahdim.ne	O	O
 sieltä	O	O
-Sweitsiin	B-LOC	O
+Sweitsiin	B-LOC	B-LOC
 .	O	O
 ja	O	O
 Marjalasta	B-LOC	B-LOC
@@ -57971,8 +57971,8 @@ Risto	B-PER	B-PER
 Ku16manen	I-PER	I-PER
 ,	O	O
 Lapinlahdelta	B-LOC	B-LOC
-Yrjö	B-PER	I-LOC
-William	I-PER	B-PER
+Yrjö	B-PER	B-PER
+William	I-PER	I-PER
 Leinonen	I-PER	I-PER
 ,	O	O
 Paltamosta	B-LOC	B-LOC
@@ -58057,7 +58057,7 @@ Miettinen	I-PER	I-PER
 Kuopiosta	B-LOC	B-LOC
 Jda	B-PER	B-PER
 Sofia	I-PER	I-PER
-Mole0106	I-PER	O
+Mole0106	I-PER	I-PER
 ,	O	O
 Tainmelasta	O	O
 Katri	B-PER	B-PER
@@ -58246,7 +58246,7 @@ m	O	O
 8	O	O
 p	O	O
 .	O	O
-Lehmäin	O	B-LOC
+Lehmäin	O	O
 wakuutus-rahasto	O	O
 .	O	O
 Tämän	O	O
@@ -58481,7 +58481,7 @@ jääpi	O	O
 muka	O	O
 tähteeksi	O	O
 Kar	O	O
-LAATOKKA	O	B-LOC
+LAATOKKA	O	O
 .	O	O
 jalan	O	O
 rataa	O	O
@@ -58796,7 +58796,7 @@ koko	O	O
 omaisuutensa	O	O
 ,	O	O
 80,000	O	O
-Thaleria	O	O
+Thaleria	O	B-PER
 ,	O	O
 siihen	O	O
 tarkoitukseen	O	O
@@ -59533,7 +59533,7 @@ Wanhan	O	O
 papin	O	O
 sanat	O	O
 tekiwät	O	O
-Franckeen	B-PER	O
+Franckeen	B-PER	B-LOC
 sywän	O	O
 waikutuksen	O	O
 .	O	O
@@ -59599,7 +59599,7 @@ Antti	B-PER	B-PER
 Miettinen	I-PER	I-PER
 57	O	O
 11	O	O
-Sulkawalta	B-LOC	O
+Sulkawalta	B-LOC	B-LOC
 ,	O	O
 me	O	O
 leski	O	O
@@ -59613,7 +59613,7 @@ Lohilahdelta	B-LOC	B-LOC
 1	O	O
 ,	O	O
 Lois	B-PER	O
-Ronkanen	I-PER	B-LOC
+Ronkanen	I-PER	B-PER
 43	O	O
 10	O	O
 .	O	O
@@ -59634,7 +59634,7 @@ p	O	O
 Toiwo	B-PER	B-PER
 Wilhelm	I-PER	I-PER
 Johanne3	I-PER	I-PER
-Suu	O	O
+Suu	O	I-PER
 2	O	O
 w	O	O
 .	O	O
@@ -59652,7 +59652,7 @@ Molander	B-PER	B-PER
 7	O	O
 k	O	O
 ,	O	O
-Myllärin	O	B-PER
+Myllärin	O	O
 isä	O	O
 J11han.11än111rä1116n7710	O	O
 Kaartilasta	B-LOC	B-LOC
@@ -59817,7 +59817,7 @@ Johan	I-PER	I-PER
 Pellinen	I-PER	I-PER
 ja	O	O
 me	O	O
-Ewa	B-PER	O
+Ewa	B-PER	B-PER
 Kat1i11a	O	O
 Lohilahdelta	B-LOC	B-LOC
 me	O	O
@@ -59883,8 +59883,8 @@ Rantasalmelta	B-LOC	B-LOC
 Puu	O	O
 :	O	O
 malasta	O	O
-R	O	B-PER
-Jeremias	B-PER	I-PER
+R	O	O
+Jeremias	B-PER	B-PER
 Rouhiainen	I-PER	I-PER
 Rant-	O	O
 Lois	O	O
@@ -59930,8 +59930,8 @@ t	O	O
 Maria	B-PER	B-PER
 Lowisa	I-PER	I-PER
 Hintsanen	I-PER	I-PER
-Puumalaan	B-LOC	I-PER
-Saham	O	I-PER
+Puumalaan	B-LOC	B-LOC
+Saham	O	B-PER
 Johan	B-PER	I-PER
 Kuuwa	I-PER	O
 Ruokolahdelle	B-LOC	B-LOC
@@ -59951,8 +59951,8 @@ Piika	O	O
 Ulla	B-PER	B-LOC
 Maria	I-PER	B-PER
 Halinen	I-PER	I-PER
-Rantasal111elle	B-LOC	I-PER
-Nenki	O	O
+Rantasal111elle	B-LOC	B-LOC
+Nenki	O	I-LOC
 Nenki	O	O
 Karl	B-PER	B-PER
 Miettinen	I-PER	I-PER
@@ -59973,7 +59973,7 @@ Kuolleita	O	O
 Tammik	O	O
 ,	O	O
 Talonwanhaisäntä	O	O
-Jisakki	B-PER	O
+Jisakki	B-PER	B-PER
 Pulsa	I-PER	B-LOC
 80	O	O
 w	O	O
@@ -60062,8 +60062,8 @@ kylässä	I-LOC	I-LOC
 Renki	O	O
 Jsmael	B-PER	B-PER
 Aadaminp	I-PER	I-PER
-.	I-PER	O
-Lendfelt	I-PER	O
+.	I-PER	I-PER
+Lendfelt	I-PER	I-PER
 ja	O	O
 ent	O	O
 .	O	O
@@ -60191,7 +60191,7 @@ kylästä	I-LOC	I-LOC
 Talonpoika	O	O
 Sylwester	B-PER	B-PER
 Taawetinp	I-PER	I-PER
-Lawi	B-LOC	O
+Lawi	B-LOC	I-PER
 ,	O	O
 Ruottulasta	B-LOC	B-LOC
 ja	O	O
@@ -60252,7 +60252,7 @@ Torp	O	O
 .	O	O
 poika	O	O
 Taawetti	B-PER	O
-Jakon	I-PER	O
+Jakon	I-PER	B-LOC
 p	I-PER	O
 Puhjo	I-PER	B-PER
 ,	O	O
@@ -60285,7 +60285,7 @@ Erkinp	B-PER	O
 Niweri	I-PER	O
 ,	O	O
 Tuohikodista	B-LOC	O
-Lappeentrantntasta	B-LOC	O
+Lappeentrantntasta	B-LOC	B-LOC
 Helmik	O	O
 23	O	O
 p:nä	O	O
@@ -60569,7 +60569,7 @@ Hetta	I-PER	O
 on	O	O
 Syntynyt	O	O
 Norjalainen	O	O
-Kautokeinossa	B-LOC	O
+Kautokeinossa	B-LOC	B-LOC
 ,	O	O
 oli	O	O
 hän	O	O
@@ -60768,8 +60768,8 @@ Bruun	B-PER	B-PER
 Buch	B-PER	B-PER
 ,	O	O
 Grönlund	B-PER	B-PER
-,	O	O
-Hallman	B-PER	B-PER
+,	O	I-PER
+Hallman	B-PER	I-PER
 ja	O	O
 Pelkonen	B-PER	B-PER
 sekä	O	O
@@ -60925,7 +60925,7 @@ L	B-PER	O
 .	I-PER	O
 Hetta	I-PER	O
 tuli	O	O
-Kristianian	B-LOC	O
+Kristianian	B-LOC	B-LOC
 wangistoon	O	O
 ,	O	O
 Norjan	B-LOC	B-LOC
@@ -62073,7 +62073,7 @@ P-	O	O
 .	O	O
 .	O	O
 h	O	O
-Lappeeiiraittiasta	B-LOC	O
+Lappeeiiraittiasta	B-LOC	B-LOC
 .	O	O
 Snonien	O	O
 postitirehtöri	O	O
@@ -62199,7 +62199,7 @@ Mikkelissä	B-LOC	B-LOC
 25	O	O
 p	O	O
 .	O	O
-Jlmajoen	B-LOC	O
+Jlmajoen	B-LOC	B-LOC
 ,	O	O
 27	O	O
 p	O	O
@@ -62687,7 +62687,7 @@ Sorea	O	B-LOC
 ja	O	O
 Leporello	O	O
 Lappeenrannasta	B-LOC	B-LOC
-Mikkeliin	B-LOC	I-LOC
+Mikkeliin	B-LOC	B-LOC
 joka	O	O
 arkipäiwä	O	O
 kello	O	O
@@ -63072,9 +63072,9 @@ ja	O	O
 lahjoitettiin	O	O
 tilaisuudessa	O	O
 rowaotinna	O	O
-A	B-PER	O
-,	I-PER	O
-Majanderille	I-PER	B-PER
+A	B-PER	B-PER
+,	I-PER	I-PER
+Majanderille	I-PER	I-PER
 kaunis	O	O
 uushopeainen	O	O
 kahwitannu	O	O
@@ -63100,7 +63100,7 @@ wielä	O	O
 puheita	O	O
 opettaja	O	O
 E,.ltottkktt	O	O
-Piekarista	B-LOC	O
+Piekarista	B-LOC	B-LOC
 ja	O	O
 seurakunnan	O	O
 suntio	O	O
@@ -63812,7 +63812,7 @@ aikaan	O	O
 esiytytyioä	O	O
 kuin	O	O
 hra	O	O
-Arppenkiu	B-PER	O
+Arppenkiu	B-PER	B-PER
 seura	O	O
 ja	O	O
 !	O	O
@@ -64072,7 +64072,7 @@ ja	O	O
 hätvittää	O	O
 myöskin	O	O
 tiirivattoman	O	O
-Werlvoschytzin	B-LOC	B-PER
+Werlvoschytzin	B-LOC	O
 kyIän	I-LOC	O
 ,	O	O
 kun	O	O
