@@ -110372,7 +110372,7 @@ juna	O	O
 oli	O	O
 ajanut	O	O
 .	O	O
-Kelttu-Rääsywän	O	O
+Kelttu-Rääsywän	B-LOC	O
 kirkkoherran	O	O
 wirkaan	O	O
 Inkerinmaalla	B-LOC	O
@@ -110732,8 +110732,7 @@ E	I-PER	O
 .	I-PER	O
 G	I-PER	O
 .	I-PER	O
-Oker	I-PER	O
-Blom	I-PER	O
+Okerblom	I-PER	O
 on	O	O
 määrätty	O	O
 kolmeksi	O	O
@@ -110803,8 +110802,8 @@ lääket	O	O
 .	O	O
 lis	O	O
 .	O	O
-O	O	O
-Londn	B-LOC	O
+O	B-PER	O
+Londn	I-PER	O
 sekä	O	O
 Kotkan	B-LOC	O
 ensimmäinen	O	O
@@ -110845,7 +110844,7 @@ ainoastaan	O	O
 tieteellisen	O	O
 siwistyksen	O	O
 puoleen	O	O
-Renania	O	O
+Renania	B-PER	O
 wastaan	O	O
 nousi	O	O
 waltawa	O	O
@@ -110976,8 +110975,8 @@ weden	O	O
 plankton	O	O
 kalainrawintona	O	O
 .	O	O
-Länsi	O	O
-Lapin	B-LOC	O
+Länsi	B-LOC	O
+Lapin	I-LOC	O
 kalastuksista	O	O
 sananen	O	O
 .	O	O
@@ -111040,8 +111039,7 @@ puolta	O	O
 ,	O	O
 hän	O	O
 on	O	O
-Rans	O	O
-kan	O	O
+Ranskan	B-LOC	O
 itsetajunnassa	O	O
 ollut	O	O
 melkein	O	O
@@ -111180,7 +111178,7 @@ hengen	O	O
 ihan	O	O
 warmaan	O	O
 .	O	O
-Ibsenillä	O	O
+Ibsenillä	B-PER	O
 esimerkiksi	O	O
 on	O	O
 se	O	O
@@ -111230,7 +111228,7 @@ jota	O	O
 ne	O	O
 edustawat	O	O
 .	O	O
-Renanin	O	O
+Renanin	B-PER	O
 epäilewä	O	O
 henki	O	O
 kaiwaa	O	O
@@ -111249,7 +111247,7 @@ Hänen	O	O
 henkensä	O	O
 on	O	O
 kuten	O	O
-Diudet	O	O
+Diudet	B-PER	O
 kerran	O	O
 wiisaasti	O	O
 on	O	O
@@ -111352,8 +111350,8 @@ Helsingissä	B-LOC	O
 waipui	O	O
 kuolemaan	O	O
 kihlakunnantuomari	O	O
-Ylä-	O	O
-Satakunnan	B-LOC	B-ORG
+Ylä-	B-LOC	B-ORG
+Satakunnan	I-LOC	I-ORG
 yläpuolen	O	I-ORG
 tuomiokunnassa	O	I-ORG
 ,	O	O
@@ -111423,7 +111421,7 @@ tulipalo	O	O
 tapahtui	O	O
 pitkäperjantaina	O	O
 kirkonaikaan	O	O
-Nousiasten	O	O
+Nousiasten	B-LOC	O
 Alakylässä	B-LOC	O
 lähellä	O	O
 kirkkoa	O	O
@@ -111620,7 +111618,7 @@ ja	O	O
 tuota	O	O
 emme	O	O
 hra	O	O
-Sörensenistä	O	O
+Sörensenistä	B-PER	O
 soisi	O	O
 .	O	O
 Sama	O	O
@@ -111808,7 +111806,7 @@ ja	O	O
 Ltzenin	B-LOC	O
 kentillä	O	O
 sekä	O	O
-Lech-joella	O	O
+Lech-joella	bloc	O
 kyllä	O	O
 owat	O	O
 mielessämme	O	O
@@ -112348,7 +112346,7 @@ miestä	O	O
 ,	O	O
 ja	O	O
 Wenäläisten	B-LOC	O
-rataa	I-LOC	O
+rataa	O	O
 ajawat	O	O
 woimat	O	O
 ,	O	O
@@ -112357,7 +112355,7 @@ suurempi	O	O
 osa	O	O
 täytyi	O	O
 jäädä	O	O
-etelä-Suomeen	O	O
+etelä-Suomeen	bloc	O
 ,	O	O
 oliwat	O	O
 wähenneet	O	O
@@ -112426,7 +112424,7 @@ joiden	O	O
 johdattajina	O	O
 oliwat	O	O
 ewersti	O	O
-Palmfelt	O	O
+Palmfelt	bper	O
 ,	O	O
 ewersti	O	O
 Adlerereuz	B-PER	O
@@ -112496,7 +112494,7 @@ ja	O	O
 mainio	O	O
 ,	O	O
 walpas	O	O
-Kulneff	O	O
+Kulneff	bper	O
 .	O	O
 Niin	O	O
 otteliwat	O	O
@@ -112651,7 +112649,7 @@ Pyhäjoella	B-LOC	O
 katkaista	O	O
 Suomalaisten	O	O
 marssi	O	O
-Praheen	O	O
+Praheen	bloc	O
 ,	O	O
 mutta	O	O
 yritys	O	O
@@ -112697,9 +112695,9 @@ että	O	O
 etewin	O	O
 sankari	O	O
 Pyhäjoella	B-LOC	O
-v	O	O
-.	O	O
-Döbeln	O	O
+v	bper	O
+.	per	O
+Döbeln	per	O
 määrättiin	O	O
 toisen	O	O
 osakunnan	O	O
@@ -112716,7 +112714,7 @@ meno	O	O
 Klinsgsporin	B-PER	O
 sotawehkeissä	O	O
 .	O	O
-Adlerereutz	O	O
+Adlerereutz	bper	O
 ,	O	O
 koko	O	O
 upsieristo	O	O
@@ -112732,7 +112730,7 @@ pakoon	O	O
 wihollisen	O	O
 edeltä	O	O
 .	O	O
-Klinpspor	O	O
+Klinpspor	bper	O
 jätti	O	O
 sotajoukon	O	O
 johdattamisen	O	O
@@ -112807,7 +112805,7 @@ Ouluun	B-LOC	O
 ,	O	O
 oli	O	O
 Siikajoen	B-LOC	O
-kirkko	O	O
+kirkko	loc	O
 wasemmalla	O	O
 puolen	O	O
 noin	O	O
@@ -112886,8 +112884,8 @@ oli	O	O
 oikealla	O	O
 puolen	O	O
 maantietä	O	O
-Kerttulan	B-LOC	O
-keskiewari	O	O
+Kerttulan	B-LOC	borg
+keskiewari	O	org
 ,	O	O
 josta	O	O
 itäänpäin	O	O
@@ -112899,8 +112897,8 @@ wasen	O	O
 puoli	O	O
 maantietä	O	O
 ,	O	O
-Kerttu-	O	O
-lan	O	O
+Kerttu-	bloc	O
+lan	loc	O
 kohdalta	O	O
 kirkkoon	O	O
 ja	O	O
@@ -113005,7 +113003,7 @@ porilaista	O	O
 kahdella	O	O
 kanuunalla	O	O
 .	O	O
-Meren	B-PER	O
+Meren	O	O
 jäällä	O	O
 myöskin	O	O
 näkyi	O	O
@@ -113045,8 +113043,8 @@ johon	O	O
 kuului	O	O
 3	O	O
 pataljoona	O	O
-Porin	B-LOC	O
-rykmenttiä	O	O
+Porin	B-LOC	borg
+rykmenttiä	O	org
 ja	O	O
 5	O	O
 komppaniaa	O	O
@@ -113080,9 +113078,9 @@ oliut	O	O
 sopiwa	O	O
 ,	O	O
 lewitti	O	O
-v	O	O
-.	O	O
-Döbeln	O	O
+v	bper	O
+.	per	O
+Döbeln	per	O
 käskyn	O	O
 mukaan	O	O
 joukkonsa	O	O
@@ -113224,7 +113222,7 @@ oliwat	O	O
 waienneet	O	O
 .	O	O
 Waan	O	O
-Björnstjerna	O	O
+Björnstjerna	bper	O
 ,	O	O
 kummeksien	O	O
 ,	O	O
@@ -113265,7 +113263,7 @@ saamatta	O	O
 mitään	O	O
 aikaan	O	O
 .	O	O
-Björnstjerna	O	O
+Björnstjerna	bper	O
 kiiwaasti	O	O
 käski	O	O
 häntä	O	O
@@ -113541,8 +113539,8 @@ monia	O	O
 kertoja	O	O
 esitellyt	O	O
 erästä	O	O
-Madam	B-PER	O
-Angots	I-PER	O
+Madam	O	O
+Angots	bper	O
 dotter	O	O
 nimistä	O	O
 näytelmää	O	O
@@ -113814,7 +113812,7 @@ lännessä	O	O
 ,	O	O
 etelässä	O	O
 tai	O	O
-Pohjolassa	B-LOC	O
+Pohjolassa	O	O
 !	O	O
 Talwi	O	O
 alkoi	O	O
@@ -113835,7 +113833,7 @@ tämähän	O	O
 onkin	O	O
 tuon	O	O
 wanhan	O	O
-Pohjolan	B-LOC	O
+Pohjolan	O	O
 herran	O	O
 ,	O	O
 halli-parran	O	O
@@ -113858,7 +113856,7 @@ meitä	O	O
 jotka	O	O
 elämme	O	O
 täällä	O	O
-Pohjan	B-LOC	O
+Pohjan	O	O
 tähden	O	O
 alla	O	O
 ,	O	O
@@ -114227,7 +114225,7 @@ ollenkaan	O	O
 Puolikesän	O	O
 ajoissa	O	O
 katosi	O	O
-Hautalan	B-LOC	O
+Hautalan	bper	O
 aitauksesta	O	O
 yksi	O	O
 hewonen	O	O
@@ -114507,7 +114505,7 @@ mainitun	O	O
 waltakunnan	O	O
 lähettiläälle	O	O
 lordi	O	O
-Loftuselle	O	O
+Loftuselle	bper	O
 on	O	O
 herättänyt	O	O
 yleisen	O	O
@@ -114533,9 +114531,9 @@ sanomalehdet	O	O
 moittiwat	O	O
 ankarasti	O	O
 yliministeriä	O	O
-Beakonsfieldiä	O	O
+Beakonsfieldiä	bper	O
 eli	O	O
-Disraeliä	O	O
+Disraeliä	bper	O
 hänen	O	O
 loukkaawista	O	O
 uhkapuheistaan	O	O
@@ -114666,7 +114664,7 @@ kowasti	O	O
 Wenäjän	B-LOC	O
 tahtowan	O	O
 anastaa	O	O
-Konstanttinopelia	O	O
+Konstanttinopelia	bloc	O
 ,	O	O
 mutta	O	O
 itseltään	O	O
@@ -114791,7 +114789,7 @@ näet	O	O
 wiime	O	O
 Krimin	B-LOC	O
 eli	O	O
-Sewastopolin	O	O
+Sewastopolin	bloc	O
 sodasta	O	O
 lähtein	O	O
 ollut	O	O
@@ -115002,7 +115000,7 @@ laittelewat	O	O
 innokkaimmasti	O	O
 sotawarustuksiaan	O	O
 .	O	O
-Hellesponton	O	O
+Hellesponton	bloc	O
 ja	O	O
 Konstanttinopelin	B-LOC	O
 salmea	O	O
@@ -115016,7 +115014,7 @@ warustelewat	O	O
 räjähys	O	O
 wirityksillä	O	O
 .	O	O
-Salmille	B-LOC	O
+Salmille	O	O
 asetetaan	O	O
 järeimpiä	O	O
 tykkejä	O	O
@@ -115025,7 +115023,7 @@ Linnoitukset	O	O
 Turkin	B-LOC	O
 aasialaisissa	O	O
 ja	O	O
-Europalaisissa	B-LOC	O
+Europalaisissa	O	O
 maakun-	O	O
 nissa	O	O
 warustetaan	O	O
@@ -115237,7 +115235,7 @@ alamaisuudessa	O	O
 anoisiwat	O	O
 pohjoispuolella	O	O
 Päijänteen	B-LOC	O
-järweä	O	O
+järweä	loc	O
 tehtäwiksi	O	O
 aiottujen	O	O
 kanawoitustöiden	O	O
@@ -115827,8 +115825,8 @@ kehottaa	O	O
 ,	O	O
 että	O	O
 Waltiosäädyt	O	O
-Suomen	B-LOC	O
-sotawäestä	O	O
+Suomen	B-LOC	borg
+sotawäestä	O	org
 olewain	O	O
 kustannusten	O	O
 suorittamista	O	O
@@ -116161,7 +116159,7 @@ nähdä	O	O
 ,	O	O
 Jack	B-PER	O
 !	O	O
-Fordin	O	O
+Fordin	bper	O
 perheen	O	O
 jäsenet	O	O
 ja	O	O
@@ -116174,7 +116172,7 @@ pian	O	O
 tutustuiwat	O	O
 likeisesti	O	O
 Uuteen	O	O
-Aberfoyleen	O	O
+Aberfoyleen	bloc	O
 .	O	O
 Wiimeksi	O	O
 maiuittu	O	O
@@ -116207,7 +116205,7 @@ tuon	O	O
 hiilisuonen	O	O
 yläpuolella	O	O
 on	O	O
-Clyde-lahti	B-PER	O
+Clyde-lahti	bloc	O
 ,	O	O
 että	O	O
 tuolla	O	O
@@ -116220,7 +116218,7 @@ Katrine-järwi	B-LOC	O
 Nuo	O	O
 pylwäät	O	O
 oliwat	O	O
-Grampianwuorten	O	O
+Grampianwuorten	bloc	O
 tukena	O	O
 ja	O	O
 kannattiwat	O	O
@@ -116236,7 +116234,7 @@ Tämän	O	O
 lammikon	O	O
 yläpuolella	O	O
 kulki	O	O
-Baklochin	B-PER	O
+Baklochin	bloc	O
 rata	O	O
 .	O	O
 Tuossa	O	O
@@ -116364,8 +116362,8 @@ Yhteensä	O	O
 24	O	O
 .	O	O
 Opettajaksi	O	O
-Ulwilan	B-LOC	O
-kansakouluun	O	O
+Ulwilan	B-LOC	borg
+kansakouluun	O	org
 on	O	O
 otettu	O	O
 neljännen	O	O
@@ -116391,7 +116389,7 @@ selityksen	O	O
 kanssa	O	O
 hywäntahtoisesti	O	O
 lähetetty	O	O
-Satakunnan	B-LOC	B-ORG
+Satakunnan	O	B-ORG
 toimitukselle	O	O
 .	O	O
 Piirustus	O	O
@@ -116491,8 +116489,8 @@ nahkurinoppilas	O	O
 Henrik	B-PER	O
 Werner	I-PER	O
 Salonen	I-PER	O
-.	I-PER	O
-Nikkarin-kisällin	I-PER	O
+.	O	O
+Nikkarin-kisällin	O	O
 apukassasta	O	O
 oli	O	O
 kisälli	O	O
@@ -116531,7 +116529,7 @@ rakasti	O	O
 myöskin	O	O
 tuota	O	O
 Uutta	O	O
-Aberfoylea	O	O
+Aberfoylea	bloc	O
 .	O	O
 Monen	O	O
 monta	O	O
@@ -116583,7 +116581,7 @@ wesissä	O	O
 uiskentelewia	O	O
 kaloja	O	O
 .	O	O
-Harryn	O	O
+Harryn	bper	O
 silmät	O	O
 näytti	O	O
 olewan	O	O
@@ -116605,7 +116603,7 @@ Kukiessaan	O	O
 näin	O	O
 ympäri	O	O
 oli	O	O
-Harryssä	O	O
+Harryssä	bper	O
 melkein	O	O
 wastustamattomasti	O	O
 pysynyt	O	O
@@ -116669,8 +116667,8 @@ Yritystä	O	O
 ,	O	O
 joka	O	O
 ennen	O	O
-Uuden	O	O
-Aberfoylen	O	O
+Uuden	bloc	O
+Aberfoylen	loc	O
 löytöä	O	O
 tehtiin	O	O
 wanhan	O	O
@@ -116695,7 +116693,7 @@ saa	O	O
 luulla	O	O
 elämän	O	O
 alhaalla	O	O
-Coal-Cityssä	O	O
+Coal-Cityssä	bloc	O
 kuluneen	O	O
 yksitoik-	O	O
 täjälle	O	O
@@ -116902,8 +116900,7 @@ m:kaa	O	O
 p:iä	O	O
 kassassa	O	O
 .	O	O
-Franz	B-PER	O
-enin	O	O
+Franzenin	B-PER	O
 stipeudiorahastossa	O	O
 oli	O	O
 waroja	O	O
@@ -117130,9 +117127,9 @@ myöskin	O	O
 säkkipillin	O	O
 äänen	O	O
 kajahtelewan	O	O
-Malcolm	B-PER	O
--	O	O
-järwen	O	O
+Malcolm	bloc	O
+-	loc	O
+järwen	loc	O
 rannoilla	O	O
 .	O	O
 Skotlantilaiset	O	O
@@ -117175,7 +117172,7 @@ sanojen	O	O
 mukaan	O	O
 ,	O	O
 että	O	O
-Coal-City	O	O
+Coal-City	bloc	O
 wähitellen	O	O
 woi	O	O
 kilpailla	O	O
@@ -117204,7 +117201,7 @@ tähden	O	O
 sitä	O	O
 syystä	O	O
 nimitetään	O	O
-Old-Reeky	O	O
+Old-Reeky	bloc	O
 .	O	O
 Kolmastoista	O	O
 Luku	O	O
@@ -117500,10 +117497,10 @@ kuluessa	O	O
 oli	O	O
 kaupunkiin	O	O
 kuuluwilla	O	O
-Tahko-	O	O
-Isokatawa-	O	O
+Tahko-	bloc	O
+Isokatawa-	bloc	O
 ja	O	O
-Pihlawanluodoilla	O	O
+Pihlawanluodoilla	bloc	O
 6	O	O
 perhekuntaa	O	O
 ,	O	O
@@ -117562,7 +117559,7 @@ yhä	O	O
 kiinteemmäksi	O	O
 ,	O	O
 niinkuin	O	O
-Madge	O	O
+Madge	bper	O
 sanoi	O	O
 .	O	O
 Jack	B-PER	O
@@ -117587,8 +117584,8 @@ edestakaisin	O	O
 Malcolm-järwen	B-LOC	O
 raunalla	O	O
 .	O	O
-Coal-	O	O
-Eity	O	O
+Coal-	bloc	O
+Eity	loc	O
 wietti	O	O
 lepopäiwäansä	O	O
 .	O	O
@@ -117611,7 +117608,7 @@ ylhäällä	O	O
 kreiwikunnan	O	O
 pinnalla	O	O
 .	O	O
-Coal-Cityssä	O	O
+Coal-Cityssä	bloc	O
 sitäwastoin	O	O
 wallitsi	O	O
 täydellinen	O	O
@@ -118159,7 +118156,7 @@ korkea-arwoisuutenne	O	O
 kassamiehekseen	O	O
 ?	O	O
 kysyi	O	O
-Endreffy	O	O
+Endreffy	bper	O
 .	O	O
 Niin	O	O
 .	O	O
@@ -118175,7 +118172,7 @@ Kyllä	O	O
 .	O	O
 Tämän	O	O
 kuullessaan	O	O
-Endreffy	O	O
+Endreffy	bper	O
 wähän	O	O
 hämmentyi	O	O
 .	O	O
@@ -118210,7 +118207,7 @@ otti	O	O
 lompakon	O	O
 pöytälaatikosta	O	O
 .	O	O
-Endreffy	O	O
+Endreffy	bper	O
 hämmästyi	O	O
 yhä	O	O
 enemmän	O	O
@@ -118513,9 +118510,9 @@ Wiime	O	O
 waltiopäiwillä	O	O
 edusti	O	O
 tuomiokuntaa	O	O
-E	O	O
-.	O	O
-Hirwonen	O	O
+E	bper	O
+.	per	O
+Hirwonen	per	O
 .	O	O
 -	O	O
 Talonpoikaissäädyn	O	O
@@ -118545,8 +118542,8 @@ siihen	O	O
 joutunee	O	O
 piankin	O	O
 .	O	O
-Hämeenlinnan	B-LOC	O
-Normaalilyseossa	I-LOC	O
+Hämeenlinnan	B-LOC	borg
+Normaalilyseossa	O	org
 toimitetussa	O	O
 koetuswaalissa	O	O
 asetettiin	O	O
@@ -118562,8 +118559,8 @@ Walitus	O	O
 waltiopäiwämiehen	O	O
 waalia	O	O
 wastaan	O	O
-Pielaweden	B-LOC	O
-tuomiokunnassa	O	O
+Pielaweden	B-LOC	borg
+tuomiokunnassa	O	org
 on	O	O
 tehty	O	O
 Kuopion	B-LOC	O
@@ -118642,7 +118639,7 @@ wiime	O	O
 wuotena	O	O
 henkikirjuriksi	O	O
 Tyrwään	B-LOC	O
-kihlakuntaan	O	O
+kihlakuntaan	loc	O
 .	O	O
 Wainaja	O	O
 oli	O	O
@@ -118774,7 +118771,7 @@ setelit	O	O
 pitkälle	O	O
 pöydälle	O	O
 .	O	O
-Endreffy	O	O
+Endreffy	bper	O
 oli	O	O
 kowin	O	O
 suutuksissaan	O	O
@@ -118876,7 +118873,7 @@ muutetaan	O	O
 alaluutnantin	O	O
 arwoksi	O	O
 .	O	O
-Kaartin	B-LOC	O
+Kaartin	O	O
 wänrikit	O	O
 koroitetaan	O	O
 heti	O	O
@@ -119044,7 +119041,7 @@ wilkas	O	O
 liike	O	O
 syntynyt	O	O
 uuden	O	O
-Panama-kanawan	O	O
+Panama-kanawan	bloc	O
 kaiwaus-työn	O	O
 johdosta	O	O
 .	O	O
@@ -119092,11 +119089,11 @@ hengeksi	O	O
 ja	O	O
 uusi	O	O
 nimi	O	O
-Aspinwall	B-PER	O
+Aspinwall	bloc	O
 on	O	O
 walittu	O	O
 wanhan	O	O
-Colon-	O	O
+Colon-	bloc	O
 nimen	O	O
 sijaan	O	O
 .	O	O
@@ -119254,7 +119251,7 @@ kukkia	O	O
 joista	O	O
 näytteeksi	O	O
 lähetämme	O	O
-Satakunnan	B-LOC	O
+Satakunnan	O	borg
 toimitukselle	O	O
 yhden	O	O
 .	O	O
@@ -119639,13 +119636,13 @@ kenraali	O	O
 Gurkon	B-PER	O
 kanssa	O	O
 ja	O	O
-H	B-PER	O
-.	I-PER	O
-K	I-PER	O
-.	I-PER	O
-K	I-PER	O
-.	I-PER	O
-Perintöruhtinas	I-PER	O
+H	O	O
+.	O	O
+K	O	O
+.	O	O
+K	O	O
+.	O	O
+Perintöruhtinas	O	O
 rouwa	O	O
 Gurkon	B-PER	O
 kanssa	O	O
@@ -119718,7 +119715,7 @@ manöwereihin	O	O
 .	O	O
 Ulkomailta	O	O
 .	O	O
-Sodasta	B-LOC	O
+Sodasta	O	O
 Kiinassa	B-LOC	O
 näyttää	O	O
 wihdoinkin	O	O
@@ -119729,7 +119726,7 @@ jos	O	O
 saa	O	O
 luottaa	O	O
 ranskalaiseen	O	O
-National-lehteen	O	O
+National-lehteen	O	borg
 ,	O	O
 joka	O	O
 kertoo	O	O
@@ -119847,8 +119844,8 @@ wielä	O	O
 tunne	O	O
 ,	O	O
 on	O	O
-Ranskan	B-LOC	O
-hallitusta	O	O
+Ranskan	B-LOC	borg
+hallitusta	O	org
 pakoittanut	O	O
 näihin	O	O
 tuumiin	O	O
@@ -119862,7 +119859,7 @@ ettei	O	O
 wielä	O	O
 kuulu	O	O
 mitään	O	O
-Kelungin	O	O
+Kelungin	bloc	O
 walloituksesta	O	O
 ,	O	O
 waikka	O	O
@@ -119918,7 +119915,7 @@ Pekingin	B-LOC	O
 puolustamista	O	O
 warten	O	O
 ja	O	O
-Tonkin	B-LOC	O
+Tonkin	bper	O
 armejan	O	O
 wahwistamiseksi	O	O
 ja	O	O
@@ -119946,7 +119943,7 @@ lähettänyt	O	O
 ,	O	O
 000	O	O
 miestä	O	O
-Tonkinia	O	O
+Tonkinia	bper	O
 wastaan	O	O
 häwittämään	O	O
 siellä	O	O
@@ -119963,8 +119960,8 @@ Rnskalainen	O	O
 kenraali	O	O
 Briere	B-PER	O
 de	I-PER	O
-l	O	O
-Isle	O	O
+l	per	O
+Isle	per	O
 ilmoittaa	O	O
 päinwastoin	O	O
 ,	O	O
@@ -120034,7 +120031,7 @@ uskota	O	O
 matkustajille	O	O
 ,	O	O
 waan	O	O
-ODonowanin	O	O
+ODonowanin	bper	O
 tunnetuille	O	O
 asiamiehille	O	O
 ,	O	O
