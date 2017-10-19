@@ -2,7 +2,7 @@ GT="gt.annotated"
 OCR="ocr.annotated"
 
 # make train and test sets (LOC and PER)
-head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv 
+head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv # first 136 pages
 head -n 100000 gt.semi-manually-annotated.csv | cut -f 1,2 >> train.gt.csv
 tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
 
