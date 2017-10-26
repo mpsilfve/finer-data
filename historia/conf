@@ -5,9 +5,9 @@ map = word=0,answer=1
 useGenericFeatures=true
 useClassFeature=true
 useGazettes=true
-gazette=gazettes
+gazette=gazettes.empty
 cleanGazette=true
-#sloppyGazette=true
+sloppyGazette=true
 useWord=true
 useTags=true
 useLemmas=true
