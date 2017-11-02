@@ -1,7 +1,6 @@
 trainFile = train.gt.csv
 serializeTo = gt-model.ser.gz
-#map = word=0,tag=1,answer=2
-map = word=0,answer=1
+map = word=0,tag=1,answer=2
 useGenericFeatures=true
 useClassFeature=true
 useGazettes=true

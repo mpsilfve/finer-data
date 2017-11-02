@@ -184696,7 +184696,7 @@ Sittenkuin	O	O
 Kuopion	B-LOC	B-ORG
 kaupungin-	O	I-ORG
 ja	O	I-ORG
-maaseurakuntain	O	gorg
+maaseurakuntain	O	I-ORG
 jäsenet	O	O
 yhteisessä	O	O
 pitäjän	O	O

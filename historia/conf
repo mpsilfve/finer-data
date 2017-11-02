@@ -5,7 +5,7 @@ map = word=0,answer=1
 useGenericFeatures=true
 useClassFeature=true
 useGazettes=true
-gazette=gazettes.empty
+gazette=gazettes.kk.yso
 cleanGazette=true
 sloppyGazette=true
 useWord=true
