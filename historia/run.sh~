@@ -3,7 +3,7 @@ OCR="ocr.annotated"
 
 # make train and test sets (LOC and PER)
 head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv # first 136 pages
-head -n 150000 gt.semi-manually-annotated.csv | cut -f 1,2 >> train.gt.csv
+head -n 200000 gt.semi-manually-annotated.csv | cut -f 1,2 >> train.gt.csv
 
 tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
 tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
@@ -11,26 +11,26 @@ tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
 # train
 
 rm gt-model.ser.gz
-#Make gt-model.ser.gz
+Make gt-model.ser.gz
 
 # tag
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
  
 # evaluate with my evaluate.py
 cat gt+gt-loc-per.log | python3 evaluate-gt.py
 cat gt+ocr-loc-per.log | python3 evaluate-ocr.py
 
 
-exit
+
 
 
 # make train and test sets (ORG)
-head -n 181456 $GT.csv | cut -f 1,3 > train.gt.csv 
-head -n 150000 gt.semi-manually-annotated.csv | cut -f 1,3 >> train.gt.csv
+head -n 181456 $GT.csv | cut -f 1,2,3 > train.gt.csv 
+head -n 200000 gt.semi-manually-annotated.csv | cut -f 1,2,3 >> train.gt.csv
 
-tail -n +181458 $GT.csv | cut -f 1,3 > test.gt.csv # last 34/170 pages
-tail -n +172999 $OCR.csv | cut -f 1,3 > test.ocr.csv # last 34/170 pages
+tail -n +181458 $GT.csv | cut -f 1,2,3 > test.gt.csv # last 34/170 pages
+tail -n +172999 $OCR.csv | cut -f 1,2,3 > test.ocr.csv # last 34/170 pages
 
 # train
 
