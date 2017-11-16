@@ -4,18 +4,18 @@ SEMI="gt.semi-manually-annotated"
 
 # make train and test sets (LOC and PER)
 head -n 181456 $GT.csv | cut -f 1,2 > train.gt.csv # first 136 pages
-head -n 200000 $SEMI.csv | cut -f 1,2 >> train.gt.csv
+head -n 211134 $SEMI.csv | cut -f 1,2 >> train.gt.csv # 101 pages
 
 tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
 tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
 
 # train
-#rm gt-model.ser.gz
-#Make gt-model.ser.gz
+rm gt-model.ser.gz
+Make gt-model.ser.gz
 
 # predict
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
  
 # evaluate with my evaluate.py
 ###cat gt+gt-loc-per.log | python3 evaluate-gt.py
@@ -39,12 +39,12 @@ paste temp1.gt temp2.gt > test.gt.csv
 paste temp1.ocr temp2.ocr > test.ocr.csv
 
 # train
-#rm gt-org-model.ser.gz
-#Make gt-org-model.ser.gz
+rm gt-org-model.ser.gz
+Make gt-org-model.ser.gz
 
 # predict
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-org-model.ser.gz -testFile test.gt.csv > gt+gt-org.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-org-model.ser.gz -testFile test.ocr.csv > gt+ocr-org.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-org-model.ser.gz -testFile test.gt.csv > gt+gt-org.log
+java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-org-model.ser.gz -testFile test.ocr.csv > gt+ocr-org.log
  
 
 
@@ -64,12 +64,15 @@ cat ocr-loc-per.log ocr-org.log | python3 evaluate-ocr.py test.gt.csv
 cat gt+ocr-loc-per.log gt+ocr-org.log | python3 evaluate-ocr.py test.gt.csv
 
 # remove temps
-#rm temp1.gt
-#rm temp1.ocr
-#rm temp2.gt
-#rm temp2.ocr
-#rm temp1
-#rm temp2
+rm temp1.gt
+rm temp1.ocr
+rm temp2.gt
+rm temp2.ocr
+rm temp1
+rm temp2
+
+
+
 
 
 # make train and test sets (ORG) without PER AND LOC

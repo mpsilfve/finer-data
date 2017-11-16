@@ -1,0 +1,612 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file template.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is a general template file for the LaTeX package SVJour3
+% for Springer journals.          Springer Heidelberg 2010/09/16
+%
+% Copy it to a new file with a new name and use it as the basis
+% for your article. Delete % signs as needed.
+%
+% This template includes a few options for different layouts and
+% content for various journals. Please consult a previous issue of
+% your journal as needed.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%
+%\RequirePackage{fix-cm}
+%
+%\documentclass{svjour3}                     % onecolumn (standard format)
+%\documentclass[smallcondensed]{svjour3}     % onecolumn (ditto)
+%\documentclass[smallextended]{svjour3}       % onecolumn (second format)
+%\documentclass[twocolumn]{svjour3}          % twocolumn
+%
+%\smartqed  % flush right qed marks, e.g. at end of proof
+%
+%\usepackage{graphicx}
+%
+% \usepackage{mathptmx}      % use Times fonts if available on your TeX system
+%
+% insert here the call for the packages your document requires
+%\usepackage{latexsym}
+% etc.
+%
+% please place your own definitions here and don't use \def but
+% \newcommand{}{}
+%
+% Insert the name of "your journal" with
+% \journalname{myjournal}
+%
+
+%% ===============================================
+
+
+%\RequirePackage{fix-cm}
+%
+%\documentclass{svjour3}                     % onecolumn (standard format)
+%\documentclass[smallcondensed]{svjour3}     % onecolumn (ditto)
+%\documentclass[smallextended]{svjour3}       % onecolumn (second format)
+%\documentclass[twocolumn]{svjour3}          % twocolumn
+%
+%\smartqed  
+
+\documentclass[11pt]{article}
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{amsmath}
+\usepackage{subfig, multicol}
+\usepackage[all]{xy}
+\usepackage[round]{natbib}
+\usepackage{url}
+%\usepackage[pdftex]{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{amsfonts}
+%\usepackage{amsthm}
+\usepackage{dsfont}
+\usepackage{arydshln}
+
+
+%% MINE
+
+% \setlength{\parindent}{0pt}
+
+\newcommand{\fixme}[1]{\textsl{[#1]}}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argtop}{arg\,top}
+
+%\newtheorem{definition}{Definition}
+%\newtheorem{theorem}{Theorem}
+%\newtheorem{lemma}{Lemma}
+
+\begin{document}
+
+\title{A Historical Finnish Corpus for Named Entity Recognition}
+%\author{Teemu Ruokolainen \and Kimmo Kettunen}
+
+
+
+\maketitle
+
+
+\begin{abstract}
+\noindent We present a corpus of Finnish news articles with a manually prepared named entity annotation. The corpus consists of  1,194 articles (260,637 word tokens) with seven named entity classes (organization, location, person, product, date, event, and person title). The articles are extracted from the archives of Digitoday, a Finnish online technology news source. The corpus is freely available for research purposes. In experiments employing the Stanford Named Entity Recognizer, the system yields an overall F1-score of 82.42. The result provides a baseline for future NER systems developed using the corpus.
+
+
+\end{abstract}
+
+\section{Introduction}
+\label{sec: introduction}
+
+
+In this work, we present a corpus consisting of Finnish technology related news articles with a manually prepared named entity annotation. The corpus is freely available for research purposes and can be readily used for development of NER systems for Finnish.\footnote{The corpus is available at \url{https://github.com/mpsilfve/finer-data}} To our knowledge, this is the first freely available NER corpus published for Finnish. Moreover, in addition to providing a description of the corpus, we examine it empirically using the well-known Stanford Named Entity Recognizer \citep{finkel2005}. The results obtained using the system provide a baseline for future NER systems developed using the corpus.
+
+The rest of the paper is organized as follows. We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
+
+
+
+
+\section{Corpus}
+\label{sec: corpus}
+
+\subsection{Text}
+\label{sec: text}
+
+
+
+\subsection{Named Entities}
+\label{sec: named entities}
+
+The set of named entity classes contains the three fundamental entity types, \textit{person}, \textit{organization}, \textit{location}, collectively referred to as the \textit{enamex} since MUC-6 competition \citep{grishman1996}. 
+\paragraph{Person (PER)}
+
+Markable person names include:
+
+\begin{itemize}
+
+\item[1.] First names: e.g. Sauli, Barack
+\item[2.] Family names: e.g. Niinist\"o, Obama
+\item[3.] Aliases: e.g. DoctorClu, Kim Dotcom
+
+\end{itemize}
+
+
+\paragraph{Location (LOC)}
+
+Markable locations include:
+
+\begin{itemize}
+
+\item[1.] Buildings: e.g. Valkoinen talo (the White House)
+\item[2.] Cities: e.g. Helsinki, New York
+\item[3.] Continents: e.g. Eurooppa (Europe)
+\item[4.] Countries: e.g. Suomi (Finland)
+\item[5.] Planets: e.g. Mars
+
+
+
+\end{itemize}
+
+
+\paragraph{Organization (ORG)}
+
+Markable organizations include:
+
+\begin{itemize}
+
+\item[1.] Commercial companies: e.g. Nokia, Apple
+\item[2.] Communities of people: e.g. Google Orkut
+\item[3.] Education and research institutes: e.g. Turun Yliopisto
+\item[4.] News agencies/News services/Newspapers/Newsrooms/News sites/News blogs: e.g. Reuters, Helsingin Sanomat
+\item[5.] Political parties: e.g. Kokoomus (the National Coalition Party)
+\item[6.] Public administration: e.g. Suomen hallitus (the Finnish Government), Euroopan Unioni (the European Union) % Ulkoministeri\"o (the Ministry for Foreign Affairs), Suomen hallitus (the Finnish Government)
+\item[7.] Stock exchange: e.g. New Yorkin p\"orssi (New York Stock Exchange)
+\item[8.] Television network/station/channel: e.g. MTV3, FOX
+%\item[1.] Websites (not single web-links, see below): e.g. Amazon
+
+\end{itemize}
+
+
+
+\subsection{General Annotation Guidelines}
+
+In the following, we address some general aspects of the annotation.
+
+\paragraph{Multi-Word Entities and Nesting}
+
+%The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' is marked as an organization while its sub-part ''Manchester'' is marked as a location.  In our annotation, however, we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous work, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
+
+\paragraph{Derivation and Compounding}
+
+To be markable, each class must appear as a whole and not as a derivation or as a part of a token. For example, ''Suomi'' (Finland) is considered as a markable location, whereas ''suomalainen'' (Finnish) and ''Suomi-fani'' (a fan of Finland) are not.  An important exception to this rule is the set of cases, in which a markable named entity forms a part of a compound word while the whole compound word refers to that same entity: for example, consider the expression ''Google-ohjelmistoyhti\"o'' (the software company Google) instead of  ''Google'' or ''iPhone-puhelin'' (iPhone phone) instead of ''iPhone''. In these cases, the compound word is considered markable.
+
+\paragraph{Coordination}
+
+\fixme{should this be mentioned? happens in modern Finnish but not in our data}
+Written Finnish regularly employs a type of coordination between compound words which share a common part. For example, the expression ''Windows-k\"aytt\"oj\"arjestelm\"a ja Linux-k\"aytt\"oj\"arjestelm\"a'' (Windows operating system and Linux operating system) is written in a more concise manner as ''Windows- ja Linux-k\"aytt\"oj\"arjestelm\"at'' (Windows and Linux operating systems). In these cases, the tokens ''Windows-" and ''Linux-k\"aytt\"oj\"arjestelm\"at'' are both considered markable. This rule generalizes to multiple tokens as well: for example, consider ''\textbf{Windows-}, \textbf{Linux}- ja \textbf{OSX-k\"aytt\"oj\"arjestelm\"at}''.
+
+Another coordination issue addresses such cases as ''Windows 8 ja 10'' (Windows 8 and 10) or ''iPhone 6 sek\"a 6s Plus'' (iPhone 6 as well as 6s Plus). We consider these cases to be markable as single expressions. %The justification for this choice is as follows: if the expression ''Windows 8 ja 10'' would be divided into two entities, ''Windows 8'' and ''10'', the connection between ''Windows'' and ''10'' would be lost. Finally, the rule also generalizes to multiple tokens: for example, consider 'Windows XP, Vista ja 10''.
+This rule also generalizes to multiple tokens: for example, consider '\textbf{Windows XP, Vista ja 10}''.
+
+\paragraph{Expression \textit{-niminen}}
+
+	
+%Written Finnish regularly employs a type of expression, in which a name is associated with a noun using a suffix ''-niminen'': for example, consider ''Sauli-niminen henkil\"o'' (a person named Sauli) or ''iPhone-niminen puhelin'' (a phone named iPhone). In these cases, we consider the complete expression markable, that is, 'Sauli-niminen henkil\"o'' and ''iPhone-niminen puhelin'' is marked as single \textit{person} and \textit{product} entities, respectively. We generalize this rule to also cover cases ''-merkkinen'' (of brand) and ''-mallinen'' (of model): for example, consider ''Tesla-merkkinen auto'' (a car of the brand Tesla) and ''Samsung-mallinen puhelin'' (a phone of the model Samsung). 
+
+
+\subsection{Annotation Process}
+
+% The annotation and the annotation guideline were created iteratively by a primary annotator (first author) and two auxiliary experts (second and third authors) as follows. First, an initial annotation guideline was created based on literature \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014} and samples from the corpus. The material was then annotated using this guideline by the primary annotator. Subsequently, the guideline and annotation were revised for two more iterative passes over the data set. The work was performed over a span of one year.
+
+
+\subsection{Annotation Statistics}
+\label{sec: annotation statistics}
+ 
+The complete data set consists of X pages (X word tokens). The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
+
+\begin{table}[h!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lcc} 
+%\hline
+%\noalign{\smallskip}
+class & count & \% \\ 
+\hline
+\noalign{\smallskip}
+PER &  &  \\
+LOC &  &  \\
+ORG & &  \\
+\hline
+\noalign{\smallskip}
+TOTAL & &  \\
+\end{tabular}
+\end{center}
+% \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
+\caption{Counts and relative portions of named entity classes.}
+\label{tab: statistics} 
+\end{table}
+
+        
+
+\subsection{Gazetteers}
+\label{sec: gazetteers}
+
+In addition to manually prepared named entity annotation, our corpus is accompanied by three different gazetteers which map words into semantically motivated categories.
+
+
+
+\subsection{File Format}
+
+The data is presented in a two-column file format using the standard BIO notation with an empty line separating sentences. For example, consider the following sentence ''Applen Tim Cook myy iPhoneja suomalaisille.'' (''Apple's Tim Cook sells iPhones to the Finns.''):
+%\begin{table}[h!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{lc} 
+%\hline
+%\noalign{\smallskip}
+Applen & B-ORG  \\      
+Tim & B-PER \\
+Cook & I-PER \\
+myy & O \\
+iPhoneja & B-PRO \\      
+suomalaisille & O \\
+. & O \\
+%\hline
+%\noalign{\smallskip}
+\end{tabular}
+\end{center}
+% \caption{Statistics of the training and test sets including total number of tokens and named entity classes.}
+%\caption{Counts and relative portions of named entity classes.}
+%\label{tab: statistics} 
+%\end{table}
+
+
+
+
+
+\section{Experiments}
+\label{sec: experiments}
+
+In this section, we present experimental results on the corpus employing the Stanford Named Entity Recognizer toolkit \citep{finkel2005}. In what follows, we will first describe the utilized training and test set splits in Section \ref{sec: data}. We then discuss the Stanford Named Entity Recognizer in Section \ref{sec: stanford named entity recognizer} and the employed evaluation measures in Section \ref{sec: evaluation}. Finally, we present and discuss the obtained results in Section \ref{sec: results}.
+
+
+\subsection{Data}
+\label{sec: data}
+
+As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 1,194 articles (260,637 word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include all articles published during 2014, while the test set consists of articles published in 2015. The resulting training and test sections contain 953 and 241 articles (210,132 and 50,505 word tokens), respectively. In addition, we form a separate development set from the training data by extracting every 10th article, starting from the 10th article. (The articles are separated using the headline information referred to in Section \ref{sec: corpus}.) %The resulting training, development, and test set sizes are presented in Table \ref{tab: set sizes}.
+
+%\begin{table}[t!]
+%%\begin{small}
+%\begin{center}
+%\begin{tabular}{lcc} 
+% & \#articles & \#tokens \\
+%\hline
+%\noalign{\smallskip}
+%training & x & y  \\
+%development  & x & y  \\
+%test & x & y \\
+%\end{tabular}
+%\end{center}
+%%\end{small}
+%\caption{Training, development, and test set sizes.}
+%\label{tab: set sizes}
+%\end{table}
+
+
+
+\subsection{Stanford Named Entity Recognizer}
+\label{sec: stanford named entity recognizer}
+
+The Stanford Named Entity Recognizer \citep{finkel2005} is a freely available NER toolkit based on machine learning methodology.\footnote{Available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}} Given an annotated training data set and a feature extraction scheme specification, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. We use a wide range of substring, word context and orthography features. In addition, we use the gazetteers described in Section \ref{sec: gazetteers} as well as a gazetteer containing the lemmas and morphological tags yielded by the FinnPos tagger \citep{Silfverberg2016}.\footnote{See the configuration file.} The morphological tagger FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}, of which we employ the latter. 
+
+
+\subsection{Evaluation Measures}
+\label{sec: evaluation}
+
+We evaluate the system using the standard \textbf{precision} (the number of correctly recognized entities divided by the number of all recognized entities), \textbf{recall} (the number of correctly recognized entities divided by the the number of all annotated entities in data), and \textbf{F1-score} (the harmonic mean of precision and recall). %More formally, precision, recall, and F-score (for each named entity class separately) are defined as follows:
+%\begin{equation}
+%\text{precision} = \frac{\text{number of correctly recognized entities}}{y}
+%\end{equation}
+%\begin{equation}
+%\text{recall} = \frac{x}{y} \\
+%\end{equation}
+%\begin{equation}
+%\text{F-score} = \frac{x}{y} \\
+%\end{equation}
+
+%In order to gain more insight on the type of errors produced by the system, we analyze a \textbf{confusion matrix} of entities. In the matrix, we consider all entities which are located correctly, i.e., have a correct span over word tokens, by the system. The elements of the matrix then indicate which entity-spans were correctly detected but then assigned an incorrect entity-label. 
+
+%Due to the rich morphology of Finnish, we are also interested in examining the effect of \textbf{out-of-vocabulary} (\textbf{OOV}) words on the recognition performance. To this end, we study the precision, recall, and F-scores obtained for entities in test set which include one or more OOV word form. A word form is considered OOV if it does not appear in the training data set.
+
+
+
+
+\subsection{Results}
+\label{sec: results}
+
+Obtained results are presented in Table \ref{tab: precision recall and f-scores}. The system yielded an overall F1-score of 82.42 with precision and recall scores of 82.77 and 82.08, respectively.  In what follows, we will discuss the individual class performances.
+
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{l|ccc}
+ class & precision & recall & F1\\
+\hline
+ORG &  85.93 & 86.43 & 86.18\\
+PRO &  73.82 & 69.41 & 71.55\\
+PER &  70.09 & 75.62 & 72.75\\
+LOC &  86.02 & 89.13 & 87.55\\
+DATE &  88.06 & 86.69 & 87.37\\
+TITLE &  91.13 & 87.60 & 89.33\\
+EVENT &  100.00 & 41.18 & 58.33\\
+\hline
+ALL & 82.77 & 82.08 & 82.42
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class.}
+\label{tab: precision recall and f-scores}
+\end{table}
+
+
+%\subsection{Discussion}
+%\label{sec: discussion}
+
+% se keskeisin juttu on musta just ett‰ ne englenninkieliset productit, persoonat ja orgit menee sekaisin. orgit on helpoin ryhm‰ koska niiss‰ on v‰hiten vaihtelua. toisaalta orgeja on niin paljon ett‰ ne v‰‰rin labeloidut orgit painaa paljon siell‰ producteissa ja personeissa
+
+First, as for the conventional enamex classes (organization, location, and person names), we note that, perhaps surprisingly, the person names were most challenging to learn. While organization and location names yielded F1-scores of 86.18 and 87.55, respectively, the person names yielded a much lower F1-score of 72.75. According to manual inspection, this appears to be largely due to the system's difficulty in differentiating between English person names from English company and product names which are abundant in the data. Similarly, the low F1-score of 71.55 obtained for product names stems from the system's difficulty of differentiating English product names from English organization and person names. In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious. Meanwhile, these difficulties are not reflected heavily in the F1-score obtained for organization class since its F1-score is elevated by frequently appearing and easily recognizable company names. such as ''Apple'' and ''Google''.\footnote{Four most frequent company names (Apple, Google, Microsoft, Samsung) comprise 17\% of all marked organizations in the corpus.}
+
+%Second, product names are challenging to learn compared to, for example, organizations and locations. This is because, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious.
+%This is somewhat expected since comprehensive gazetteers of product names were found difficult to create?  In addition, compared to organizations and locations, product names are more versatile given that they can contain version numbers and version names according to the annotation guideline discussed in Section \ref{sec: named entities} which makes learning more tedious?
+
+Second, dates and titles appear to be the easiest classes to learn. This is somewhat expected since they form the most restricted classes according to the annotation guideline discussed in Section \ref{sec: named entities}.
+
+Finally, we note that the results concerning the event class should be ignored since the small amount of annotated entities (see the class statistics in Table \ref{tab: statistics}) does not enable reliable evaluation. 
+
+
+%\noindent \textbf{Organization (ORG), Location (LOC), Person (PER)} 
+%\noindent \textbf{Product (PRO)}
+%\noindent \textbf{Date (DATE)}
+%\noindent \textbf{Person title (TITLE)}
+%\noindent \textbf{Event (EVENT)}
+
+
+
+
+
+
+
+%\subsection{Discussion}
+%\label{sec: discussion}
+
+%About classes:  Persons are difficult (multiple nationalities). Products are difficult (easily confused with locations, organizatinons and persons). 
+
+
+
+%Second, the product-class was difficult. Also noted lately in SweNER. Confusion matrix revelas something about the PRODUCT/ORGANIZATION relationship?
+
+%Third, the effect of OOV words.
+
+% Fourth, the temporal expressions could have been difficult but were not because the subclauses were left out?
+
+
+
+\section{Conclusions}
+\label{sec: conclusions}
+
+In this paper, we described a new corpus consisting of Finnish news articles with a manually prepared named entity annotation. The corpus contains 1,194 articles (260,637 word tokens) annotated using a set of seven named entity classes, namely,  \textit{persons}, \textit{organizations}, \textit{locations}, \textit{products}, \textit{events}, \textit{dates}, and \textit{person titles}. In addition, the corpus is accompanied by three gazetteers which map words into semantically motivated categories. The corpus is freely available for research purposes. In addition to description of the data, we presented experimental results on the corpus employing the Stanford Named Entity recognizer. The resulting system yielded a total F1-score of 82.42. The result provides a baseline for future NER systems developed using the corpus.
+
+
+
+%%%%%%%%%%% The bibliography starts:
+\newpage
+\bibliographystyle{plainnat}
+%\bibliographystyle{spbasic}
+\bibliography{finer}
+
+
+
+
+
+
+
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\paragraph{Confusion Matrix}
+% \label{sec: results2}
+
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccccccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+& LOC & ORG & PERSON & PROD & TITLE & EVENT & DATE \\
+\hline
+\noalign{\smallskip}
+LOC  & - & & & & & &  \\
+ORG  & & - & & & & &  \\
+PER  & & & - & & & &  \\
+PRO  & & & & - & & &  \\
+TITLE  & & & & & - & &  \\
+EVENT  & & & & & & - &  \\
+DATE  & & & & & & &  - \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Confusion matrix for named entity classes. Each element represent the number of times a row-entity was mislabeled as a column-entity. For example, a location-entity was incorrectly labeled as a person-entity X times.}
+\label{tab: confusion matrix}
+\end{table}
+
+
+
+
+% \section{A Part-of-Speech Tagger for Finnish}
+\section{Named Entity Recognition Systems}
+\label{sec: named entity recognizers}
+
+In this section, we describe the NER systems evaluated in the experiments in Section \ref{sec: experiments}. The recognizers are designed utilizing the annotated corpus described in Section \ref{sec: corpus} and can subsequently be applied to extract named entities in a running text. 
+
+\subsection{Stanford Named Entity Recognizer}
+
+The Stanford Named Entity Recognizer is a freely available NER toolkit based on machine learning methodology.\footnote{The toolkit is available at \url{http://nlp.stanford.edu/software/CRF-NER.shtml}.} Given an annotated training data set and a feature extraction scheme, the toolkit can be employed to learn new NER models. Specifically, the toolkit contains an implementation of an arbitrary order conditional random field (CRF) model \citep{lafferty2001,finkel2005}. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{Silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+
+
+\subsection{A Rule-Based Named Entity Recognizer for Finnish}
+
+
+\subsection{Old}
+
+
+%\paragraph{The effect of OOV words}
+
+\begin{table}[t!]
+%\begin{small}
+\begin{center}
+\begin{tabular}{cccc} 
+%\hline
+%\noalign{\smallskip}
+%\multicolumn{1}{c}{}  & \multicolumn{2}{c}{tag acc.} &  \multicolumn{2}{c}{lemma acc.} & \multicolumn{2}{c}{train. time} &  \multicolumn{1}{c}{dec. speed (tok/s)} \\
+Entity class & pre & rec & F \\
+\hline
+\noalign{\smallskip}
+LOC  & x & y & z  \\
+ORG  & x & y & z  \\
+PER  & x & y & z  \\
+PROD  & x & y & z  \\
+TITLE  & x & y & z  \\
+EVENT  & x & y & z  \\
+DATE & x & y & z  \\
+\hline
+\noalign{\smallskip}
+Any & x & y & z  \\
+\end{tabular}
+\end{center}
+%\end{small}
+\caption{Precision, recall, and F-scores for each named entity class which contain one or more OOV word.}
+\label{tab: oov precision recall and f-scores}
+\end{table}
+
+
+
+
+
+The system utilizes two main components.
+
+\begin{itemize}
+
+\item[1.] We interpret the NER task as a sequential tagging task and perform the tagging using the averaged perceptron algorithm \citep{collins2002}.
+
+\item[2.] In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{Silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes.
+
+%\subsection{FinnPos}
+%The FinnPos system \citep{silfverberg2015} is an open-source morphological tagging and lemmatization toolkit for Finnish. The morphological tagging component of the system is based on the averaged structured perceptron classifier \citep{collins2002}. The perceptron learning and decoding is accelerated using a combination of two approximations, namely, beam search and a model cascade. Meanwhile, the lemmatization is performed using a combination of OMorFi, an open-source morphological analyzer for Finnish \citep{pirinen2008}, and a statistical lemmatization model. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{} and FinnTreeBank (FTB) \citep{}. In other words, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. 
+
+ \end{itemize}
+
+%Given a sentence $x = (x_1, \dots, x_{|x|})$ and a label sequence $y = (y_1, \dots, y_{|x|})$, the structured perceptron classifier assigns the pair $(x,y)$ a score
+%
+%\begin{eqnarray}
+%\text{score}(x,y; \boldsymbol{w}) & = & \sum_{i=n}^{|x|} \boldsymbol{w} \cdot \boldsymbol{\phi}(y_{i-n}, \dots, y_i, x, i) \, ,						
+%\label{eq: perceptron}
+%\end{eqnarray}
+%
+%where $n$ denotes the model order, $\boldsymbol{w}$ the model parameter vector, and $\boldsymbol{\phi}$ the feature extraction function. The word forms $x_i$ are assigned labels from a potentially large label set $\mathcal{Y}$, that is, $y_i \in \mathcal{Y}$ for all $i = 1, \dots, |x|$. As shown in Table \ref{tab: tdt ftb}, for TDT and FTB, the label sets $\mathcal{Y}$ contain roughly 2,000 and 1,400 morphological tags, respectively.
+
+\subsection{Feature Extraction}
+
+The appeal of the perceptron classifier \citep{collins2002} lies in its capability of utilizing rich, overlapping feature sets when mapping a sentence to a corresponding tag sequence. Specifically, each word/label position $i$ in a given sentence is associated with  a set of features describing the input sentence. Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+Moreover, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+\fixme{Describe sub-lemmas and sub-tags} 
+
+\subsection{Implementation Details}
+\label{sec: implementation details}
+
+Bundled with the FinnPos system.
+
+
+
+
+
+Our basic feature set contains the following features:
+
+\begin{itemize}
+\item[1.] Bias (always active irrespective of input).
+\item[2.] Word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[3.] Prefixes and suffixes of the word form $x_i$ up to length $\delta_{affix}$.
+\item[4.] The brief and long generalized forms of the word forms $x_{i-2}, \dots, x_{i+2}$ following \citet{collins2002}.
+\end{itemize}
+
+In order to alleviate data sparseness caused by the rich morphology of Finnish, we utilize the FinnPos system \citep{Silfverberg2016}, a recently published morphological and lemmatization toolkit for Finnish. FinnPos contains two separate tagging and lemmatization models learned from Finnish Turku Dependency Treebank (TDT) \citep{haverinen2014} and FinnTreeBank (FTB) \citep{voutilainen2011}. Thus, any given sentence can be readily tagged and lemmatized by FinnPos using two varying annotation schemes. In particular, we augment the word tokens of each processed sentence with morphological tags and lemmas by applying both TDT and FTB models of the FinnPos system. As a result, each training word token is associated with two morphological tags and two lemmas. Subsequently, we expand our feature set using the following features (for both TDT and FTB separately):
+
+\begin{itemize}
+\item[5.] The lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[6.] The sub-lemmas for word forms $x_{i-2}, \dots, x_{i+2}$. 
+\item[7.] The morphological tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\item[8.] The morphological sub-tags for word forms $x_{i-2}, \dots, x_{i+2}$.
+\end{itemize}
+
+Gazetteers.
+
+
+
+
+
+
