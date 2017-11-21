@@ -99,7 +99,7 @@
 \label{sec: introduction}
 
 
-The rest of the paper is organized as follows. We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
+The rest of the paper is organized as follows. % We first describe the corpus in Section \ref{sec: corpus}. We then present experimental results on the corpus using the Stanford Named Entity Recognizer in Section \ref{sec: experiments}. Finally, conclusions on the work are presented in Section \ref{sec: conclusions}.
 
 
 
@@ -112,7 +112,7 @@ The rest of the paper is organized as follows. We first describe the corpus in S
 
 \fixme{Text description: Newspaper text, manually corrected?}
 
-271 pages.
+271 pages. Simple tokenization (special characters removed apart from .,!?, special characters assigned to their own lines)
 
 \subsection{Named Entities}
 \label{sec: named entities}
@@ -228,7 +228,7 @@ Abbreviated word tokens are considered markable if they appear in a multi-token 
 
 The marked entities can span multiple word tokens, for example, consider "Elias Lönnrot" or ''Suomen Pankki''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Suomen Pankki'' (Bank of Finland) is marked as an organization while its sub-part ''Suomen'' is marked as a location.  In our annotation, we follow this nested annotation approach in cases of multi-token organizations, that is, in case a multi-token organization entity contains location or person entities, the latter are also considered markable. For example, consider the previous example "Suomen Pankki" or ''O. Jalanderin kirjakauppa'' (bookstore of O. Jalander) where the organization entity contains three tokens in addition to the nested person entity ''O. Jalander''.
 
-In previous work, the non-nested annotation has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}. This is probably due to the added annotation effort required by the nested approach. 
+In previous work, the non-nested annotation has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}. This is most likely due to the added annotation effort required by the nested approach. 
 
 
 %The marked entities can span multiple word tokens, for example, consider "Sauli Niinist\"o" or ''Nokia Solutions and Networks''. As for multi-token entities, it is in general possible to employ either a \textit{nested} (overlapping) or \textit{non-nested} (non-overlapping) annotation approach. In the nested case, an expression such as ''Manchester United'' is marked as an organization while its sub-part ''Manchester'' is marked as a location.  In our annotation, however, we follow the non-nested annotation approach, that is, only the longer span is considered markable. In previous work, this has been the prevalent annotation strategy, apart from a few expections \citep{byrne2007,benikova2014}.
