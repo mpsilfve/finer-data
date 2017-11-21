@@ -283,9 +283,9 @@ Total & 12858 & 100.0 \\
 %\multicolumn{4}{l}{semi-manual annotation} \\
 \hline
 \noalign{\smallskip}
-PER & 5355 & 50.844   \\
-LOC & 6981 & 39.002  \\
-ORG & 1394 & 10.152 \\
+PER & 5355 & 50.85   \\
+LOC & 6981 & 39.00  \\
+ORG & 1394 & 10.15 \\
 Total & 13730 & 100.0 \\
 \end{tabular}
 \end{center}
@@ -315,7 +315,7 @@ In this section, we present experimental results on the corpus employing the Sta
 \subsection{Data}
 \label{sec: data}
 
-As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 271 pages (X word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include 136 manually annotated pages and all 101 semi-manually annotated pages. Meanwhile, the test set consists of the remaining 34 manually annotated pages. The resulting training and test sections, therefore, contain 237 and 34 pages (X and Y word tokens), respectively. In addition, we form a separate development set from the training data by extracting every 10th page, starting from the 10th page.
+As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 271 pages (X word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include 136 manually annotated pages and all 101 semi-manually annotated pages. Meanwhile, the test set consists of the remaining 34 manually annotated pages. The resulting training and test sections, therefore, contain 237 and 34 pages (X and Y word tokens), respectively. Furthermore, we create a second version of the test pages, where the text has been produced by an automatic OCR system instead of manually recognized (the NE annotation are). % In addition, we form a separate development set from the training data by extracting every 10th page, starting from the 10th page.
 
 %\begin{table}[t!]
 %%\begin{small}
@@ -365,7 +365,7 @@ We evaluate the system using the standard \textbf{precision} (the number of corr
 \subsection{Results}
 \label{sec: results}
 
-Obtained results are presented in Table \ref{tab: precision recall and f-scores}. The system yielded an overall F1-score of 82.01 with precision and recall scores of 87.90 and 76.87, respectively. 
+Obtained results on the groundtruth test set are presented in Table \ref{tab: precision recall and f-scores groundtruth}. The system yielded an overall F1-score of 82.01 with precision and recall scores of 87.90 and 76.87, respectively. 
 
 \begin{table}[t!]
 %\begin{small}
@@ -385,6 +385,7 @@ Totals & 0.8790 & 0.7687 & 0.8201 & 3066 & 3504 \\
 \end{table}
 
 
+Obtained results on the OCR test set are presented in Table \ref{tab: precision recall and f-scores ocr}. 
 
 \begin{table}[t!]
 %\begin{small}
