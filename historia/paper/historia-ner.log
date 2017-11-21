@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.24)  16 NOV 2017 14:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.4.24)  21 NOV 2017 19:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -345,7 +345,7 @@ Package: arydshln 2016/04/28 v1.73
 \adl@everyvbox=\toks27
 \adl@LTpagetotal=\dimen170
 )
-No file historia-ner.aux.
+(./historia-ner.aux)
 \openout1 = `historia-ner.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -361,6 +361,7 @@ LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 83.
+
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
@@ -389,181 +390,78 @@ LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 93.
-
-Overfull \hbox (6.79726pt too wide) in paragraph at lines 94--95
-\T1/ptm/m/n/10 avail-able for re-search pur-poses. In ex-per-i-ments em-ploy-in
-g the Stan-ford Named
- []
-
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 99.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 103.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 103.
-
-
-Package natbib Warning: Citation `finkel2005' on page 1 undefined on input line
- 103.
-
-
-LaTeX Warning: Reference `sec: corpus' on page 1 undefined on input line 105.
-
-
-LaTeX Warning: Reference `sec: experiments' on page 1 undefined on input line 1
-05.
-
-
-LaTeX Warning: Reference `sec: conclusions' on page 1 undefined on input line 1
-05.
-
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 98.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 110.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 120.
 
 Package natbib Warning: Citation `grishman1996' on page 1 undefined on input li
-ne 121.
+ne 120.
+
+
+Overfull \hbox (5.49643pt too wide) in paragraph at lines 134--136
+\T1/ptm/m/n/10.95 Sa-lon kaup-pala, Jäm-sän pi-iri, Pel-tomaan torppa, Hangon k
+ylä, Ant-tolan pitäjä,
+ []
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (14.03609pt too wide) in paragraph at lines 161--162
-[]\T1/ptm/m/n/10.95 News agen-cies/News ser-vices/Newspapers/Newsrooms/News sit
-es/News blogs:
+Overfull \hbox (9.58171pt too wide) in paragraph at lines 143--144
+[]\T1/ptm/m/n/10.95 Buildings: Pu-u-tarhakadun ruk-oushuone, Tu-run tuomiokirkk
+o, Niko-lain kirkko,
+ []
+
+
+Overfull \hbox (3.25131pt too wide) in paragraph at lines 186--187
+[]\T1/ptm/m/n/10.95 Schools, academies, uni-ver-si-ties: e.g. Suomen yliopisto,
+ Kodik-samin kansak-
+ []
+
+
+Overfull \hbox (10.3029pt too wide) in paragraph at lines 190--191
+[]\T1/ptm/m/n/10.95 Senates, par-lia-ments, gov-ern-ments: e.g. Suomen keis-ar-
+illi-nen senaatti, Englan-
  []
 
 [2]
-LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/it' tried instead on input line 194.
 
-
-Package natbib Warning: Citation `grishman1996' on page 3 undefined on input li
-ne 205.
-
-
-Package natbib Warning: Citation `tjong2003' on page 3 undefined on input line 
-205.
-
-
-Package natbib Warning: Citation `faruqui2010' on page 3 undefined on input lin
-e 205.
+Package natbib Warning: Citation `byrne2007' on page 3 undefined on input line 
+231.
 
 
 Package natbib Warning: Citation `benikova2014' on page 3 undefined on input li
-ne 205.
-
-
-Package natbib Warning: Citation `dalianis2001' on page 3 undefined on input li
-ne 205.
-
-
-Package natbib Warning: Citation `kokkinakis2014' on page 3 undefined on input 
-line 205.
+ne 231.
 
 [3]
 
-LaTeX Warning: Reference `tab: statistics' on page 4 undefined on input line 21
-5.
+Package natbib Warning: Citation `finkel2005' on page 4 undefined on input line
+ 312.
 
 [4]
 
-Package natbib Warning: Citation `pirinen2008' on page 5 undefined on input lin
-e 252.
+Package natbib Warning: Citation `finkel2005' on page 5 undefined on input line
+ 342.
 
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 342.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
 
-Package natbib Warning: Citation `mikolov2013' on page 5 undefined on input lin
-e 254.
-
-
-Package natbib Warning: Citation `Rehurek2010' on page 5 undefined on input lin
-e 254.
-
-
-Overfull \hbox (5.7867pt too wide) in paragraph at lines 254--256
-[]\T1/ptm/m/n/10.95 Our fi-nal gazetteer is based on word clus-ters which are d
-e-rived from the Suomi24
- []
-
-
-Overfull \hbox (4.82744pt too wide) in paragraph at lines 254--256
-\T1/ptm/m/n/10.95 cor-pus[] which con-tains text ma-te-rial from dis-cus-sion f
-o-rums of the Finnish Suomi24
- []
+Package natbib Warning: Citation `lafferty2001' on page 5 undefined on input li
+ne 342.
 
 
 Package natbib Warning: Citation `finkel2005' on page 5 undefined on input line
- 310.
+ 342.
 
 
-LaTeX Warning: Reference `sec: data' on page 5 undefined on input line 310.
+LaTeX Warning: Reference `tab: precision recall and f-scores' on page 5 undefin
+ed on input line 368.
 
-
-LaTeX Warning: Reference `sec: stanford named entity recognizer' on page 5 unde
-fined on input line 310.
-
-
-LaTeX Warning: Reference `sec: evaluation' on page 5 undefined on input line 31
-0.
-
-
-LaTeX Warning: Reference `sec: results' on page 5 undefined on input line 310.
-
-[5]
-
-LaTeX Warning: Reference `sec: annotation statistics' on page 6 undefined on in
-put line 316.
-
-
-LaTeX Warning: Reference `sec: corpus' on page 6 undefined on input line 316.
-
-
-Package natbib Warning: Citation `finkel2005' on page 6 undefined on input line
- 340.
-
-
-Package natbib Warning: Citation `lafferty2001' on page 6 undefined on input li
-ne 340.
-
-
-Package natbib Warning: Citation `finkel2005' on page 6 undefined on input line
- 340.
-
-
-LaTeX Warning: Reference `sec: gazetteers' on page 6 undefined on input line 34
-0.
-
-
-Package natbib Warning: Citation `Silfverberg2016' on page 6 undefined on input
- line 340.
-
-
-Package natbib Warning: Citation `haverinen2014' on page 6 undefined on input l
-ine 340.
-
-
-Package natbib Warning: Citation `voutilainen2011' on page 6 undefined on input
- line 340.
-
-[6]
-
-LaTeX Warning: Reference `tab: precision recall and f-scores' on page 7 undefin
-ed on input line 367.
-
-
-LaTeX Warning: Reference `sec: named entities' on page 7 undefined on input lin
-e 398.
-
-
-LaTeX Warning: Reference `sec: named entities' on page 7 undefined on input lin
-e 403.
-
-[7]
-
-LaTeX Warning: Reference `tab: statistics' on page 8 undefined on input line 40
-5.
-
-[8]
+[5] [6]
 No file historia-ner.bbl.
 
 Package natbib Warning: There were undefined citations.
@@ -572,29 +470,25 @@ Package natbib Warning: There were undefined citations.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 5933 strings out of 493014
- 79545 string characters out of 6133351
- 185268 words of memory out of 5000000
- 9361 multiletter control sequences out of 15000+600000
- 55811 words of font info for 94 fonts, out of 8000000 for 9000
+ 5923 strings out of 493014
+ 79481 string characters out of 6133351
+ 189268 words of memory out of 5000000
+ 9352 multiletter control sequences out of 15000+600000
+ 51965 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,10n,42p,3249b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,10n,42p,3249b,307s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/font
-s/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/ut
-mri8a.pfb>
-Output written on historia-ner.pdf (8 pages, 80701 bytes).
+dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts
+/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on historia-ner.pdf (6 pages, 74416 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

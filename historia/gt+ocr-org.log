@@ -5233,7 +5233,7 @@ tehdyn	O	O
 sopimuksen	O	O
 johdosta	O	O
 on	O	O
-Otawa	B-ORG	B-ORG
+Otawa	B-ORG	O
 ottanut	O	O
 toimekseen	O	O
 tämän	O	O
@@ -7761,8 +7761,8 @@ koinnnmikatianer	O	O
 Kirjapainoa	O	O
 Kokkolaan	O	O
 aitoo	O	O
-Wasa	B-ORG	O
-Tidningin	I-ORG	O
+Wasa	B-ORG	B-ORG
+Tidningin	I-ORG	I-ORG
 kirjapainon	I-ORG	O
 faktori	O	O
 I	O	O
@@ -33521,9 +33521,9 @@ A	O	O
 B	O	O
 .	O	O
 Ny-	O	O
-Oulun	B-ORG	B-ORG
-suomalaiseen	I-ORG	I-ORG
-Iyseoon	I-ORG	I-ORG
+Oulun	B-ORG	O
+suomalaiseen	I-ORG	O
+Iyseoon	I-ORG	O
 on	O	O
 nimitetty	O	O
 kielenopettaja	O	O
@@ -34866,8 +34866,8 @@ ensimmäisten	O	O
 luwussa	O	O
 .	O	O
 Ainoastaan	O	O
-Turun	O	B-ORG
-tuomiokirkon	O	I-ORG
+Turun	O	O
+tuomiokirkon	O	O
 urkurilla	O	O
 on	O	O
 tietääksemme	O	O
@@ -36706,8 +36706,8 @@ Paltamon	O	O
 ,	O	O
 Pyhäjoen	O	O
 ja	O	O
-Kalajoen	O	O
-hoitoalueen	O	O
+Kalajoen	O	B-ORG
+hoitoalueen	O	I-ORG
 puista	O	O
 tehdyt	O	O
 tarjoukset	O	O
@@ -42736,7 +42736,7 @@ fkolast1kolle	O	O
 Eräs	O	O
 skolastikko	O	O
 on	O	O
-Karjalattaren	B-ORG	B-ORG
+Karjalattaren	B-ORG	O
 6:ssa	O	O
 numerossa	O	O
 minua	O	O
@@ -47870,7 +47870,7 @@ Hyrynsalmella	O	O
 ,	O	O
 on	O	O
 lähetetty	O	O
-Louhen	B-ORG	O
+Louhen	B-ORG	B-ORG
 toimitukselle	O	O
 näytteeksi	O	O
 .	O	O
@@ -52069,8 +52069,8 @@ ai	O	O
 Gtalsn	O	O
 Kotkassa	O	O
 ,	O	O
-K.W.We1nanin	O	B-ORG
-kirjapainossa	O	I-ORG
+K.W.We1nanin	O	O
+kirjapainossa	O	O
 ,	O	O
 1886	O	O
 .	O	O
@@ -52674,7 +52674,7 @@ hänen	O	O
 eroamisensa	O	O
 johdosta	O	O
 .	O	O
-Senaattori	O	O
+Senaattori	O	B-ORG
 1	O	O
 Mechelin	O	O
 ja	O	O
@@ -56531,8 +56531,8 @@ käyttää	O	O
 nykyisiä	O	O
 hautausmaitansa	O	O
 .	O	O
-Pitkärannan	B-ORG	B-ORG
-tehtaan	I-ORG	I-ORG
+Pitkärannan	B-ORG	O
+tehtaan	I-ORG	O
 ehdotukseen	O	O
 että	O	O
 kunnallismaksut	O	O
