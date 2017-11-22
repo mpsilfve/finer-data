@@ -255,14 +255,14 @@ In previous work, the non-nested annotation has been the prevalent annotation st
 
 % The annotation and the annotation guideline were created iteratively by a primary annotator (first author) and two auxiliary experts (second and third authors) as follows. First, an initial annotation guideline was created based on literature \citep{grishman1996,tjong2003,faruqui2010,benikova2014,dalianis2001,kokkinakis2014} and samples from the corpus. The material was then annotated using this guideline by the primary annotator. Subsequently, the guideline and annotation were revised for two more iterative passes over the data set. The work was performed over a span of one year.
 
-We first annotated manually 170 pages. Subsequently, we learned a Stanford NER system using these pages, tagged the remaining 101 pages using the resulting system and manually corrected the automatically annotated pages.
+We first annotated manually 170 pages (248,544 word tokens). Subsequently, we learned a Stanford NER system using these pages, tagged the remaining 101 pages (211,034 word tokens) using the resulting system and manually corrected the automatically annotated pages.
 
 
 
 \subsection{Annotation Statistics}
 \label{sec: annotation statistics}
  
-The complete data set consists of 170 manually annotated pages (X word tokens) and 101 semi-manually annotated pages (Y word tokens). The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
+The complete data set consists of 170 manually annotated pages (248,544 word tokens) and 101 semi-manually annotated pages (211,034 word tokens). The counts of each named entity class in these sections are presented in Table \ref{tab: statistics}.
 
 \begin{table}[h!]
 %\begin{small}
@@ -315,7 +315,7 @@ In this section, we present experimental results on the corpus employing the Sta
 \subsection{Data}
 \label{sec: data}
 
-As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 271 pages (X word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include 136 manually annotated pages and all 101 semi-manually annotated pages. Meanwhile, the test set consists of the remaining 34 manually annotated pages. The resulting training and test sections, therefore, contain 237 and 34 pages (X and Y word tokens), respectively. Furthermore, we create a second version of the test pages, where the text has been produced by an automatic OCR system instead of manually recognized (the NE annotation are). % In addition, we form a separate development set from the training data by extracting every 10th page, starting from the 10th page.
+As presented in Section \ref{sec: annotation statistics},  the complete corpus consists of 271 pages (459,578 word tokens). In order to carry out the experiments, we separate the data into two non-overlapping sections, training and test sets.  In the training set, we include 136 manually annotated pages and all 101 semi-manually annotated pages. Meanwhile, the test set consists of the remaining 34 manually annotated pages. The resulting training and test sections, therefore, contain 237 and 34 pages (381,356 and 67,223 word tokens), respectively. Furthermore, we create a second version of the test pages, where the text has been produced by an automatic OCR system instead of manually recognized (the NE annotation are manually corrected). % In addition, we form a separate development set from the training data by extracting every 10th page, starting from the 10th page.
 
 %\begin{table}[t!]
 %%\begin{small}
@@ -385,7 +385,7 @@ Totals & 0.8790 & 0.7687 & 0.8201 & 3066 & 3504 \\
 \end{table}
 
 
-Obtained results on the OCR test set are presented in Table \ref{tab: precision recall and f-scores ocr}. 
+Obtained results on the OCR test set are presented in Table \ref{tab: precision recall and f-scores ocr}. The table contains two sets of values. The upper block presents the loss in recall caused by the OCR process and hence the upper limit to the NER performance. The lower block, meanwhile, shows the final NER performance taking into account both errors yielded by the OCR process and the Stanford NER system. 
 
 \begin{table}[t!]
 %\begin{small}
