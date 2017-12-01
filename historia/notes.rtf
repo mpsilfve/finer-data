@@ -1,11 +1,12 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf830
 \cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 ArialMT;\f2\fswiss\fcharset0 Helvetica;
-\f3\fnil\fcharset0 Menlo-Regular;\f4\froman\fcharset0 Times-Roman;}
+\f3\fnil\fcharset0 Menlo-Regular;\f4\froman\fcharset0 Times-Roman;\f5\fmodern\fcharset0 Courier;
+}
 {\colortbl;\red255\green255\blue255;\red25\green25\blue25;\red87\green87\blue87;\red66\green66\blue66;
-}
+\red0\green0\blue0;\red0\green0\blue0;}
 {\*\expandedcolortbl;;\csgenericrgb\c9804\c9804\c9804;\csgenericrgb\c34118\c34118\c34118;\csgenericrgb\c25882\c25882\c25882;
-}
-\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh16500\viewkind0
+\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww31800\viewh18420\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 0031-4188_1904-04-01_4_29:\
@@ -361,7 +362,61 @@ Sekalaiset # fixme: ei tule annotaatioon, liian v\'e4h\'e4n\
 \
 \
 \
+In our annotated data set, we included a subset of 271 pages, for which we applied the following simple tokenization procedure. First, we discarded all special characters apart from the following: comma, period, exclamation mark, question mark, and colon. Subsequently, we assigned each special character to its own token. For example, the following sentence fragment ''Alennusmyynti Herra J. Olssonin puodissa!'' would be tokenized as ''Alennusmyynti Herra J . Olssonin puodissa !'' As a result of tokenization, the complete set of 271 pages contains 459,578 word tokens.\
 \
+\
+\pard\pardeftab720\sl360\sa240\partightenfactor0
+
+\fs32 \cf5 \expnd0\expndtw0\kerning0
+\CocoaLigature1 Obtained results on the ground truth test set are presented in Table 2. The system yielded an overall F1-score of 82.01 with precision and recall scores of 87.90 and 76.87, respectively. + Discussion\
+\
+Table 2 shows the results on the groundtruth test set. These values, however, are overly optimistic since in a realistic use case, the recognition has to be performed on an OCRed text with a lower quality. Therefore, we will next discuss results obtained in this scenario.\
+We begin by noting that some NEs can be lost due to the OCR process itself due to word tokens contained in NEs being not recognized properly. This leads to a reduction in recall of NEs since no NER system can recover the entities. The reduction in recall is presented in Table 3 (vanhan Table 3:n yl\'e4osa). As can be seen, the OCR process has resulted in the loss of 235, 117, and 149 location, person, and organization entities, respectively, with a corresponding reduction in the recall and F-score. Subsequently, we can examine the final NE recognition result which takes into account both recognition errros yielded by the OCR process and the Stanford system. These results are presented in Table 4 (vanhan Table 3:n alaosa). \cf5 The system yielded an overall F1-score of 
+\fs29\fsmilli14667 \cf5 72.85 
+\fs32 \cf5 with precision and recall scores of 
+\fs29\fsmilli14667 \cf5 85.12 
+\fs32 \cf5 and 
+\fs29\fsmilli14667 \cf5 63.67
+\fs32 \cf5 , respectively.\
+\
+In our experiments, we employed the Stanford NER system which has the benefit of being able to perform well in an out-of-the-box usage scenario and being capable of incorporating gazetteers. However, it should be noted that the current state of the art in NER and in NLP in general is yielded by deep learning methodology (Goldberg, 2017). In particular, we refer to the deep architecture presented by Lample et al. (2016) which was shown to yield state-of-the-art accuracy on multiple languages (English, Dutch, German, Spanish). It is notable that their approach utilizes a supervised annotated corpus and unsupervised word representations (embeddings) learned from unannotated corpora. In other words, their model does not rely on language-specific features or hand-crafted gazetteers. In our work, however, we were not able to utilize their system since the word representations would have to be learned from the available OCR text which currently is not of high enough quality. This line of work should, nevertheless, be explored further in the future given that higher quality OCR can be obtained.\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f5\fs24 \cf6 \outl0\strokewidth0 \strokec6 @book\{goldberg2017neural,\
+  title=\{Neural Network Methods in Natural Language Processing\},\
+  author=\{Goldberg, Yoav\},\
+  year=\{2017\},\
+  publisher=\{Morgan \\& Claypool Publishers\}\
+\}\
+\pard\pardeftab720\sl360\sa240\partightenfactor0
+
+\f0\fs32 \cf5 \outl0\strokewidth0 \
+
+\f5\fs24 \cf6 \outl0\strokewidth0 \strokec6 @inproceedings\{lample2016neural,\
+\pard\pardeftab720\sl280\partightenfactor0
+\cf6   title=\{Neural Architectures for Named Entity Recognition\},\
+  author=\{Lample, Guillaume and Ballesteros, Miguel and Subramanian, Sandeep and Kawakami, Kazuya and Dyer, Chris\},\
+  booktitle=\{Proceedings of NAACL-HLT\},\
+  pages=\{260--270\},\
+  year=\{2016\}\
+\}\
+\pard\pardeftab720\sl360\sa240\partightenfactor0
+
+\f0 \cf0 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+\
+The choice of employing the Stanford Named Entity Recognizer can appear questionable due to it being\
+\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f4 \cf6 \expnd0\expndtw0\kerning0
+\CocoaLigature1 \outl0\strokewidth0 \strokec6 Experiments in English, Dutch, German, and Spanish show that we are able to obtain statearXiv:1603.01360v3 [cs.CL] 7 Apr 2016 of-the-art NER performance with the LSTM-CRF model in Dutch, German, and Spanish, and very near the state-of-the-art in English without any hand-engineered features or gazetteers (\'a75)
+\f0 \cf0 \kerning1\expnd0\expndtw0 \CocoaLigature0 \outl0\strokewidth0 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
 \
 \
 \
