@@ -3,11 +3,14 @@ PATH_TO_STANFORD_NER=../../../Downloads/stanford-ner-2016-10-31
 
 #comment
 
-gt-model.ser.gz:train.gt.csv
-	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf
+gt-loc-per-model.ser.gz:train.gt.csv
+	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf-loc-per
 
 gt-org-model.ser.gz:train.gt.csv
 	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf-org
+
+gt-sent-extractor-model.ser.gz:train.gt.sent.csv
+	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf-sent
 
 #ocr-model.ser.gz:gt.csv
 #	java -Xmx12000M -cp $(PATH_TO_STANFORD_NER)/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop conf.ocr

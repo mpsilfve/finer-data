@@ -10,20 +10,14 @@ tail -n +181458 $GT.csv | cut -f 1,2 > test.gt.csv # last 34/170 pages
 tail -n +172999 $OCR.csv | cut -f 1,2 > test.ocr.csv # last 34/170 pages
 
 # train
-#rm gt-model.ser.gz
-#Make gt-model.ser.gz
+#rm gt-loc-per-model.ser.gz
+#Make gt-loc-per-model.ser.gz
 
 # predict
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
+#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-loc-per-model.ser.gz -testFile test.gt.csv > gt+gt-loc-per.log
+#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-loc-per-model.ser.gz -testFile test.ocr.csv > gt+ocr-loc-per.log
  
-# evaluate with my evaluate.py
-###cat gt+gt-loc-per.log | python3 evaluate-gt.py
-###cat gt+ocr-loc-per.log | python3 evaluate-ocr.py test.gt.csv
-
-
-
-
+ 
 
 # make train and test sets (ORG) with PER AND LOC
 head -n 181456 $GT.csv | cut -f 1,2,3 > train.gt.csv 
@@ -48,8 +42,24 @@ paste temp1.ocr temp2.ocr > test.ocr.csv
  
 
 
+# make train and test sets (ORG) without PER AND LOC
+head -n 181456 $GT.csv | cut -f 1,3 > train.gt.csv 
+head -n 200000 gt.semi-manually-annotated.csv | cut -f 1,3 >> train.gt.csv
 
-# evaluate
+tail -n +181458 $GT.csv | cut -f 1,3 > test.gt.csv # last 34/170 pages
+tail -n +172999 $OCR.csv | cut -f 1,3 > test.ocr.csv # last 34/170 pages
+
+# train
+
+#rm gt-model.ser.gz
+#Make gt-model.ser.gz
+
+# tag
+#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-org.log
+#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-org.log
+ 
+
+# evaluate with my scripts
 tail -n +181458 $GT.csv | cut -f 1,2,3 > test.gt.csv # last 34/170 pages
 
 tail -n +172999 $OCR.csv | cut -f 1,2 > temp1 # last 34/170 pages
@@ -59,11 +69,14 @@ tail -n +172999 $OCR.csv | cut -f 1,3 > temp1 # last 34/170 pages
 tail -n +172999 $OCR.csv | cut -f 3 > temp2 # last 34/170 pages
 paste temp1 temp2 > ocr-org.log
 
+echo
 echo "evaluation: GT" 
 cat gt+gt-loc-per.log gt+gt-org.log | python3 evaluate-gt.py
+echo
 echo "evaluation: effect of OCR" 
 cat ocr-loc-per.log ocr-org.log | python3 evaluate-ocr.py test.gt.csv
-echo "evaluation: effect of OCR and Stanford" 
+echo
+echo "evaluation: effect of OCR and NER system" 
 cat gt+ocr-loc-per.log gt+ocr-org.log | python3 evaluate-ocr.py test.gt.csv
 
 # remove temps
@@ -76,33 +89,8 @@ rm temp2
 
 
 
-
-
-# make train and test sets (ORG) without PER AND LOC
-#head -n 181456 $GT.csv | cut -f 1,3 > train.gt.csv 
-#head -n 200000 gt.semi-manually-annotated.csv | cut -f 1,3 >> train.gt.csv
-
-#tail -n +181458 $GT.csv | cut -f 1,3 > test.gt.csv # last 34/170 pages
-#tail -n +172999 $OCR.csv | cut -f 1,3 > test.ocr.csv # last 34/170 pages
-
-# train
-
-#rm gt-model.ser.gz
-#Make gt-model.ser.gz
-
-# tag
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.gt.csv > gt+gt-org.log
-#java -cp ../../../Downloads/stanford-ner-2016-10-31/stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -loadClassifier gt-model.ser.gz -testFile test.ocr.csv > gt+ocr-org.log
- 
-# evaluate with my evaluate.py
-#cat gt+gt-org.log | python evaluate-gt.py
-#cat gt+ocr-org.log | python evaluate-ocr.py
-
-
-
-
-
 # counts from all data
+echo
 echo "counts from all GT data (LOC, PER, ORG)"
 grep "B-LOC" $GT.csv | wc -l
 grep "B-PER" $GT.csv | wc -l
@@ -121,10 +109,12 @@ grep "B-ORG" $OCR.csv | wc -l
 # counts from test data
 tail -n +181458 $GT.csv | cut -f 1,2,3 > test.gt.csv # last 34/170 pages
 tail -n +172999 $OCR.csv | cut -f 1,2,3 > test.ocr.csv # last 34/170 pages
+echo
 echo "counts from test GT data (LOC, PER, ORG)"
 grep "B-LOC" test.gt.csv | wc -l
 grep "B-PER" test.gt.csv | wc -l
 grep "B-ORG" test.gt.csv | wc -l
+echo
 echo "counts from test OCR data (LOC, PER, ORG)"
 grep "B-LOC" test.ocr.csv | wc -l
 grep "B-PER" test.ocr.csv | wc -l

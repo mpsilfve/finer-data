@@ -4,7 +4,7 @@ map = word=0,tag=1,answer=2
 useGenericFeatures=true
 useClassFeature=true
 useGazettes=true
-gazette=gazettes.kk.yso
+gazette=gazettes.kk.yso.oy
 cleanGazette=true
 sloppyGazette=true
 useWord=true

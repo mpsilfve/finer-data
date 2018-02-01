@@ -7,6 +7,8 @@ for word in sys.stdin:
 
     word = word.strip()
 
+    word = re.sub(r'[^a-zåäöA-ZÅÄÖ0-9\.\,\!\?\:\-\_]', '', word)
+
     if word == '':
         print()
     else:
