@@ -1,5 +1,22 @@
 # finer-data
 
+## Introduction
+
+This repository contains a corpus of Finnish technology related news
+articles with a manually prepared named entity annotation. The text
+material was extracted from the archives of Digitoday, a Finnish
+online technology news source (www.digitoday.fi). The corpus consists
+of 953 articles (193,742 word tokens) with six named entity classes
+(organization, location, person, product, event, and date). The corpus
+is available for research purposes and can be readily used for
+development of NER systems for Finnish.
+
+In addition, the repository contains the Digitoday (in-domain) and
+Wikipedia (out-of-domain) evaluation sets employed in the article
+
+"A Finnish News Corpus for Named Entity Recognition"
+
+along with the system predictions.
 
 ## Experiments
 
