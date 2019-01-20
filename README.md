@@ -2,23 +2,27 @@
 
 ## Introduction
 
-This repository contains a corpus of Finnish technology related news
-articles with a manually prepared named entity annotation. The text
-material was extracted from the archives of Digitoday, a Finnish
+The directory data contains a corpus of Finnish technology related news
+articles with a manually prepared named entity annotation (digitoday.2014.csv). 
+The text material was extracted from the archives of Digitoday, a Finnish
 online technology news source (www.digitoday.fi). The corpus consists
 of 953 articles (193,742 word tokens) with six named entity classes
 (organization, location, person, product, event, and date). The corpus
 is available for research purposes and can be readily used for
 development of NER systems for Finnish.
 
-In addition, the repository contains the Digitoday (in-domain) and
-Wikipedia (out-of-domain) evaluation sets employed in the article
+In addition, the repository contains the Digitoday (digitoday.2015.test.csv) 
+and Wikipedia (wikipedia.test.csv) evaluation sets employed in the experiments
+of the article
 
 "A Finnish News Corpus for Named Entity Recognition"
 
-along with the system predictions.
+The training and development sets formed of digitoday.2014.csv employed in the experiments
+can be found from files digitoday.2014.train.csv and digitoday.2014.dev.csv, respectively.
 
-## Experiments
+
+
+## System Predictions in Experiments
 
 The directory experiments contains the predictions of systems FiNER, Gungor-NN, and Sohrab-NN in the paper "A Finnish News Corpus for Named Entity Recognition" on the Digitoday and Wikipedia test sets.
 
