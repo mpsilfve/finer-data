@@ -60,3 +60,7 @@ Sohrab-NN:
   url = 	"http://aclweb.org/anthology/D18-1309"
 }
 ```
+
+## License 
+
+[CC BY-ND-NC 1.0](https://creativecommons.org/licenses/by-nd-nc/1.0/fi/legalcode)
