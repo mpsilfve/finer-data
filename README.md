@@ -63,4 +63,4 @@ Sohrab-NN:
 
 ## License 
 
-[CC BY-ND-NC 1.0](https://creativecommons.org/licenses/by-nd-nc/1.0/fi/legalcode)
+The Digitoday material is licensed under [CC BY-ND-NC 1.0](https://creativecommons.org/licenses/by-nd-nc/1.0/fi/legalcode) and the Wikipedia material is licensed under [CC BY-SA 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
