@@ -37,9 +37,9 @@ Gungor-NN:
 
 ```
 @InProceedings{C18-1177,
-  author = 	"Gungor, Onur
-		and Uskudarli, Suzan
-		and Gungor, Tunga",
+  author = 	"G{\"{u}}ng{\"{o}}r, Onur
+		and {\"{U}}sk{\"{u}}darli, Suzan
+		and G{\"{u}}ng{\"{o}}r, Tunga",
   title = 	"Improving Named Entity Recognition by Jointly Learning to Disambiguate Morphological Tags",
   booktitle = 	"Proceedings of the 27th International Conference on Computational Linguistics",
   year = 	"2018",
