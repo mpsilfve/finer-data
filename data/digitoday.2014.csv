@@ -58516,7 +58516,7 @@ Lumia	B-PRO	O
 520	I-PRO	O
 .	O	O
 
-Lumia	I-PRO	O
+Lumia	B-PRO	O
 520:n	I-PRO	O
 osuus	O	O
 käytössä	O	O
@@ -58684,7 +58684,7 @@ joulukuussa	B-DATE	O
 2013	I-DATE	O
 .	O	O
 
-Microsoft	I-ORG	O
+Microsoft	B-ORG	O
 pönkittää	O	O
 Lumioitaan	B-PRO	O
 Foursquare-sopimuksella	O	O
@@ -63289,7 +63289,7 @@ Applen	B-ORG	O
 iPhone	B-PRO	O
 6	I-PRO	O
 ja	O	O
-6	I-PRO	O
+6	B-PRO	O
 Plus	I-PRO	O
 -älypuhelinten	I-PRO	O
 jättimäiseen	O	O
@@ -65844,7 +65844,7 @@ Applen	B-ORG	O
 iPhone	B-PRO	O
 6-	I-PRO	O
 ja	O	O
-6	I-PRO	O
+6	B-PRO	O
 Plus	I-PRO	O
 -älypuhelinten	I-PRO	O
 suurkysyntä	O	O
