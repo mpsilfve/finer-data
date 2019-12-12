@@ -125119,7 +125119,7 @@ Lähde	O	O
 :	O	O
 SplashData	B-ORG	O
 
-F-Secure	I-ORG	O
+F-Secure	B-ORG	O
 USA:lle	B-LOC	O
 :	O	O
 Toisetko	O	O
@@ -163540,7 +163540,7 @@ siihen	O	O
 Tulkoon	O	O
 Chromecast	B-PRO	O
 
-Chromecastin	I-PRO	O
+Chromecastin	B-PRO	O
 pakkaus	O	O
 sisältöineen	O	O
 on	O	O
