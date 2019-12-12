@@ -1,0 +1,16 @@
+Golfautosta tuli itseohjautuva : Lisko aiheutti ongelmia
+Googlen robottiautoa pienemmilläkin ajoneuvoilla voidaan testata itseään ohjaavia liikennevälineitä .
+Singaporen kokeilussa robottigolfautot kruisailivat suuressa puutarhassa .
+Massachusetts Institute of Technology -yliopisto ( MIT ) ja Singaporen kansallinen tutkimuslaitos kehittivät yksinkertaistetun anturi- ja ohjausjärjestelmän , jonka avulla noin 500 ihmistä ajeli automaattigolfautolla puutarhavieraiden keskuudessa .
+Kokeessa ei testattu ainoastaan ajoneuvon selviytymistä , vaan mukana oli myös tilausjärjestelmä , jonka avulla matkustajat voivat siirtyä yhdeltä kymmenestä " pysäkiltä " toiselle .
+Kutsujärjestelmä voisi laajentua tulevaisuudessa palvelemaan vaikka Uberin asiakkaita tai Helsingin seudun Kutsu Plus -järjestelmää .
+Golfauton silminä käytettiin vain kameroita ja kaupan hyllyltä saatavia lasertutkia .
+Järjestelmässä ei ole läheskään niin paljon teknologiaa kuin esimerkiksi Googlen robottiautoissa .
+– Uskomme , että strategisesti asetellut anturit ja luotettavat algoritmit tuottavat kestäviä tuloksia .
+Ne vaativat vähemmän laskentaa eivätkä jämähdä keskenään ristiriitaisten anturien viesteihin , tutkijat kirjoittivat Engadgetin mukaan .
+Raportin pääkirjoittajan Daniela Rusin mukaan hitaasti liikkuvat robottiajoneuvot voisivat kuljettaa vanhoja ihmisiä sellaisissa paikoissa kuin ostoskeskukset tai lähiöt .
+Robottigolfautot liikkuivat puistossa tasa-arvoisina muun liikenteen seassa .
+MIT Newsin mukaan niiden törmäyksenestojärjestelmä ajautui vaikeuksiin vain kerran .
+Suuri , hitaasti tien poikki liikkuva lisko aiheutti hämmennystä .
+– Siinä jouduttiin pysähdy-ja-liiku peliin , kumpi tekee mitäkin .
+Kokeilusta Youtube-video on nähtävissä alla .

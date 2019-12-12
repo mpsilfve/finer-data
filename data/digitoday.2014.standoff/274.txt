@@ -1,0 +1,17 @@
+Globalstar kytkee satelliittiyhteyden wlan-laitteisiin
+Satelliittiviestintäyritys Globalstar on valmis aloittamaan Sat-Fi palvelun , jolla wlan-kelpoiset älypuhelimet ja tabletit saavat kaksisuuntaiset puhe- ja datayhteydet satelliittien kautta .
+Satelliittiyhteyden käyttäminen tarvitsee vain sovelluksen .
+Puhelinnumero säilyy entisellään .
+Globalstar , joka on paikoittanut miljardin dollarin satelliittiverkon avaruuteen , uskoo saavansa toimiluvan Yhdysvaltain viestintäregulaattorilta FCC:ltä toisen vuosineljänneksen aikana .
+Satelliitit eivät keskustele suoraan älypuhelimien kanssa vaan välittäjänä toimivat tehokkaat 5,1 gigahertsin radiotaajuutta käyttävät wlan-tukiasemat .
+5150-5250 megahertsin taajuusalue on vapaassa käytössä sisätiloissa , mutta ulkona vapaa käyttö koskee vain heikkotehoisia radiolähettimiä .
+Globalstarin suunnitelma perustuu lisenssiin , joka antaa sen käyttää suuritehoisia radiotukiasemia .
+5,1 GHz:n kaistaa kuitenkin himoitsevat kokonaan vapaaseen käyttöön monet tahot , ennen kaikkea kaapelitelevisioyritykset .
+Ne voisivat käyttää sitä kilpaillessaan teleoperaattorien kanssa datayhteyksien tarjonnassa .
+Globalstar vastustaa ehdottomasti voimakkaiden lähettimien vapaata sallimista , sillä se uskoo , että ne peittäisivät alleen sen wlan-majakoiden radioyhteydet .
+Tilanne saattaa muuttua samanlaiseksi kuin se , jossa Light Squared -yhtiö ajautui vararikkoon .
+FCC veti pois toimiluvan gps-teollisuuden painostuksesta .
+4G-käyttöön rakennetun verkon radiosignaalit häiritsivät gps-laitteita , joiden valmistajat eivät olleet suojanneet niitä kunnolla .
+Meneillään on samantapainen tekninen kädenvääntö siitä , häiritseekö 5,1 GHz:n täysi vapauttaminen ja laaja käyttö Globalstarin satelliitti-wlan-verkkoa .
+Kumpikin puoli on toimittanut FCC:lle omaa kantaansa tukevia tutkimuksia .
+Asiasta kirjoitti Fierce Wireless , joka myös julkaisi Globalstarin asiaa koskevan tiedotteen .

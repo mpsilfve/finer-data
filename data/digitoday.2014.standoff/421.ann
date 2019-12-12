@@ -1,0 +1,12 @@
+T1	PRO 0 7	Sojuzin
+T2	PRO 143 160	Sojuz-avaruusalus
+T3	PRO 255 273	ISS-avaruusasemaan
+T4	PER 349 368	Alexander Skvortsov
+T5	PER 372 385	Oleg Artemjev
+T6	PER 405 418	Steve Swanson
+T7	PRO 421 428	Sojuzin
+T8	ORG 797 802	Nasan
+T9	PER 938 947	Skvortsov
+T10	PER 950 958	Artemjev
+T11	PER 962 969	Swanson
+T12	DATE 1006 1016	syyskuussa

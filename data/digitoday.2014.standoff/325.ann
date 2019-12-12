@@ -1,0 +1,27 @@
+T1	LOC 2 8	Suomen
+T2	LOC 44 50	Suomen
+T3	ORG 64 69	Jolla
+T4	LOC 96 102	Viroon
+T5	ORG 103 109	Elisan
+T6	ORG 154 159	Jolla
+T7	LOC 182 188	Viroon
+T8	ORG 191 197	Jollan
+T9	LOC 218 225	Virossa
+T10	ORG 232 237	Elisa
+T11	ORG 267 280	Aripäev-lehti
+T12	ORG 288 306	Jolla users -blogi
+T13	PRO 319 334	Jolla-puhelinta
+T14	ORG 395 403	Jollalla
+T15	LOC 443 449	Suomen
+T16	DATE 465 476	Helmikuussa
+T17	ORG 477 483	Jollan
+T18	PER 500 514	Tomi Pienimäki
+T19	ORG 522 534	Digitodaylle
+T20	ORG 535 541	Jollan
+T21	LOC 576 585	Venäjälle
+T22	ORG 588 594	Jollan
+T23	PER 613 624	Marc Dillon
+T24	LOC 648 654	Suomen
+T25	LOC 714 721	Virossa
+T26	PER 841 852	Marc Dillon
+T27	DATE 885 889	2014

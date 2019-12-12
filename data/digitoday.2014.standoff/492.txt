@@ -1,0 +1,18 @@
+Rovio : Angry Birds -sivu töhrittiin — mutta vain minuuteiksi
+Hakkerit vaihtoivat keskiviikkoyönä Rovion Angry Birds -pelin verkkosivuille muokatun kuvan .
+Rovion mukaan muokattu kuva ehti olla julki muutamia minuutteja .
+Peliyhtiö Rovion Angry Birds -hittipelin verkkosivu hakkeroitiin viime yönä .
+Asiasta kertoi Suomessa ensimmäisenä Helsingin Sanomat .
+Murtautuja vaihtoi Angrybirds.com-verkkosivulle muokatun kuvan , jossa pelihahmojen lisäksi näkyi muun muassa teksti Spying Birds ja Yhdysvaltojen turvallisuusviraston NSA:n tunnus .
+Murto liittyy tietovuotaja Edward Snowdenin paljastamiin tietoihin , joiden mukaan NSA pystyy vakoilemaan muun muassa Angry Birds -pelaajien puhelimien tietoja .
+– Voimme vahvistaa , että viime yönä joku pääsi hyvin hetkellisesti vaihtamaan sinne tällaisen kuvan , kerrotaan Rovion viestinnästä .
+Rovion mukaan kuva ehti olla näkyvillä vain muutaman minuutin .
+Tämän jälkeen sivusto ajettiin alas turvallisuussyistä .
+Helsingin Sanomien mukaan sivu oli poissa toiminnasta keskiviikkoyönä ainakin klo 1-2.30 .
+Sivusto on nyt jälleen toiminnassa , ja Rovion mukaan sen tietoturva on jälleen kunnossa .
+Rovio ei kommentoi , kuka mahdollisesti oli hakkeroinnin takana .
+Hakkeriryhmä Syrian Electronic Army kertoi Angry Birds -sivun hakkeroinnista Twitter-viestissään ja nimitti hyökkääjää " ystäväksi " .
+Syyrian hallitusta ja presidentti Bašar al-Assadia tukeva ryhmä on tullut tunnetuksi verkkoiskuistaan muun muassa Microsoftin sekä useiden kansainvälisten tiedotusvälineiden verkkosivuille .
+Rovio kiisti eilen välittävänsä pelaajien tietoja valtioiden vakoojajärjestöille .
+Yhtiön epäilee , että vakoilu on tehty mainosyhtiön kautta , joka vastaa pelin ohessa näkyvistä mobiilimainoksista .
+Toimitusjohtaja Mikael Hedin mukaan yhtiö harkitsee jatkotoimia .

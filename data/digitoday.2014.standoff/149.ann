@@ -1,0 +1,26 @@
+T1	ORG 9 16	Intelin
+T2	ORG 52 57	Intel
+T3	PRO 103 130	Intel Appup -sovelluskauppa
+T4	DATE 145 157	maaliskuussa
+T5	ORG 181 186	Intel
+T6	ORG 261 266	Intel
+T7	PRO 375 386	Intel Appup
+T8	ORG 426 432	Applen
+T9	PRO 433 442	App Store
+T10	ORG 445 452	Googlen
+T11	PRO 453 464	Google Play
+T12	ORG 473 484	Microsoftin
+T13	PRO 485 498	Windows Store
+T14	PRO 502 521	Windows Phone Store
+T15	PRO 636 641	Appup
+T16	DATE 657 668	vuonna 2010
+T17	ORG 812 819	Intelin
+T18	ORG 869 878	Intelillä
+T19	ORG 1015 1022	Intelin
+T20	ORG 1081 1089	Inquirer
+T21	ORG 1104 1109	Intel
+T22	PRO 1170 1177	Appupin
+T23	ORG 1391 1398	Intelin
+T24	DATE 1533 1586	28. tammikuuta alkaen aina 19. joulukuuta 2014 saakka
+T25	DATE 1641 1649	kesäkuun
+T100001	ORG 453 459	Google

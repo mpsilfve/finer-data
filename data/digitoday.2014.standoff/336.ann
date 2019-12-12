@@ -1,0 +1,21 @@
+T1	ORG 0 5	Nokia
+T2	ORG 9 19	SK Telecom
+T3	ORG 50 55	Nokia
+T4	ORG 100 110	SK Telecom
+T5	DATE 230 241	vuonna 2018
+T6	DATE 268 272	2020
+T7	ORG 275 281	Nokian
+T8	ORG 285 296	SK Telcomin
+T9	PRO 733 771	3rd Generation Partnership Projektissa
+T10	PRO 774 778	3GPP
+T11	DATE 999 1011	marraskuussa
+T12	PRO 1049 1080	Cloud vRAN -virtuaalitukiasemaa
+T13	ORG 1166 1171	Nokia
+T14	ORG 1175 1185	SK Telecom
+T15	LOC 1220 1232	Etelä-Korean
+T16	LOC 1322 1332	Bundangiin
+T17	ORG 1361 1366	Nokia
+T18	ORG 1424 1436	SK Telecomin
+T19	PER 1455 1468	Choi Jin-sung
+T20	ORG 1472 1478	Nokian
+T21	PER 1497 1510	Hossein Moiin

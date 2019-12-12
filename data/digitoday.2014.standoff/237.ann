@@ -1,0 +1,26 @@
+T1	PER 0 10	Kim Dotcom
+T2	PRO 44 49	Skype
+T3	PER 99 109	Kim Dotcom
+T4	ORG 121 143	Mega-tallennuspalvelun
+T5	PER 155 167	Kim Dotcomin
+T6	DATE 238 242	2014
+T7	DATE 284 295	vuoden 2014
+T8	PER 331 337	Dotcom
+T9	ORG 414 418	Mega
+T10	PRO 547 552	Skype
+T11	PER 555 561	Dotcom
+T12	ORG 696 704	Skypellä
+T13	ORG 756 782	Yhdysvaltain hallitukselle
+T14	PER 785 791	Dotcom
+T15	ORG 851 862	VentureBeat
+T16	LOC 938 950	Yhdysvaltain
+T17	ORG 951 963	NSA-viraston
+T18	PRO 1009 1015	Skypen
+T19	ORG 1029 1034	NSA:n
+T20	ORG 1087 1091	Mega
+T21	LOC 1102 1121	Uudesta-Seelannista
+T22	PER 1214 1222	Dotcomin
+T23	PRO 1249 1257	MegaChat
+T24	PER 1292 1302	Kim Dotcom
+T25	PRO 1472 1477	Megan
+T100001	LOC 756 768	Yhdysvaltain

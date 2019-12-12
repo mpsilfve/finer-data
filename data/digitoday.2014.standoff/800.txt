@@ -1,0 +1,71 @@
+Testi : Edullinen Wiskytablet on katkeraa kalkkia iPadille
+Windows-tabletit alkavat olla iskukunnossa .
+Wisky-valmistajan Windows-tabletti panee kampoihin niin iPadeille kuin parhaille Android-tableteillekin .
+Microsoftilla on ollut vaikea päästä tablettimarkkinoille .
+Yhtiö heitti Windows RT:n roskiin ja käynnisti Tablettimarkkinahyökkäys 2.0:n " oikealla " Windows 8:lla .
+Sen jälkeen yhtiö on alkanut jakaa käyttöjärjestelmää ilmaiseksi alle 9-tuumaisella näytöllä varustettuihin laitteisiin ja muikealla alennuksella isompiin laitteisiin ( Windows 8 Bingin kanssa ) .
+Kun tähän lisätään siruvalmistaja Intelin aggressiivisesti hinnoitellut yritykset kasvattaa markkinaosuutta , ovat asetelmat edullisten Windows-tablettien valmistamiselle mitä oivallisimmat .
+Ei nimi tablettia pahenna
+Ensimmäisenä markkinoille tulevat nimettömät valmistajat , kuten viime kuussa testaamamme Linx .
+Uusi , täysin tuntematon Wisky-merkki ei herättänyt minkäännäköisiä tunteita .
+Huomion kiinnitti kuitenkin laitteen ominaisuuksiin nähden erinomainen hinta .
+Otimme testiin 9,7-tuumaisen , 220 euroa maksavan 3G068I-mallin .
+Valmistaja tarjoaa myös 7,9-tuumaista mallia neljä kymppiä halvemmalla .
+Wiskyn takapuoli lienee muovia , mutta se on saatu tuntumaltaan niin metalliseksi , että huijaus on hyvin onnistunut .
+Vimpain istuu hyvin käteen .
+Laite lainailee ulkoasullaan sekä Samsungeja että iPadeja .
+Kollegalta tullut " miksi tuosta iPadista puuttuu nappi ?
+" -kysymys kertoo paljon .
+Wisky on paksuudeltaan 8 milliimetriä .
+Wisky yllättää etenkin näytöllään .
+9 , 7-ips-tuumainen näyttö on tarkkuudeltaan sama kuin iPad Air 2:n retina , eli 2048 x 1536 .
+Värit ovat kirkkaat , katselukulmat hyvät , eikä näyttö myöskään heijastele liikaa .
+On hatunnoston arvoinen suoritus , että tämän hintaluokan laitteessa on tällainen näyttö .
+Myös tabletin liitettävyys saa kiitettävän arvosanan .
+Wiskyssä on normaalien bluetoothien ja wlanien ohella mikro-hdmi- ja - usb-liitännät .
+Lisäksi tarjolla on paikka mobiilidatan sim-kortille ja muistikortille .
+Sim-korttipaikka on plussaa , sillä sitä näkee harvemmin halpalaitteissa .
+Applella mobiilidatan lisääminen tablettiin tuo hintaan yli satasen lisää .
+Oikea Windows oikeassa tabletissa
+Kamera ei ole tabletin tärkein ominaisuus , mutta nekin pitää olla viivakoodinlukua ja videopuheluita varten .
+Wiskyn päävalokuvauskone on tarkkuudeltaan 5 ja selfie-kamera 2 megapikseliä .
+Etenkin jälkimmäisen suhteellinen laatu yllättää iloisesti , sillä kohinaa on paljon vähemmän kuin useimpien halpatablettien kamerantapaisissa .
+Pääkamera on laadultaan korkeintaan tyydyttävä , sillä jyrkät kontrastit ovat sille liikaa ja kohina on kovaa .
+Koska Windows 8 suunniteltiin alun perin x86-suorittimiin perustuvien pöytäkoneiden käyttöjärjestelmäksi , Microsoft on virranhallinnassa kilpailijoitaan jäljessä .
+Intelin x86-Atomit imevät enemmän sähköä kuin kilpailijoiden Arm-prosessorit .
+Tämä näkyy kilpailijoita heikompana akkukestona .
+Akussa on kapasiteettia mainiot 8000 milliampeerituntia .
+Wisky jaksaa videokatselua ja muuta raskasta käyttöä nelisen tuntia .
+Sen jälkeen laturin kutsua ei käy enää vastustaminen .
+Pihistelyllä pärjää pidempäänkin .
+Laitteen muistikorttipaikalle tulee nopeasti tarvetta , sillä Wiskyn sisäänrakennettu tallennustila on vain 16 gigatavua .
+Muistikortille voi kuitenkin tallentaa vain tiedostoja , sillä Windows 8:ssa ei onnistu ohjelmien asentaminen muistikortille ( ainakaan virallisesti ja ilman järjestelmärekisterin puukottamista ) .
+Tallennustilaa voi toki jatkaa myös pilveen , mutta se ei ratkaise asennustilaongelmaa .
+Toinen moite menee kaiuttimille , joiden ääni on melkoista pihinää .
+Ulkoinen ämyri tai kuulokkeet ovat pakkohankinta , jos haluaa jenkkakoneen .
+Olisi myös ollut kiva , jos mobiilidata olisi onnistunut 4g:llä .
+Se ei ole Android , älä suhtaudu siihen sellaisena
+Osa pikkurutinoista liittyy Windows 8:n juuriin .
+Reunavalikoihin ja pyyhkäisyihin perustuvan Windows 8:n käyttölogiikka poikkeaa muista mobiilikäyttöjärjestelmistä .
+Tämä voi olla omena- tai androidikansalle ongelma , Windows-ihmisille ei niinkään .
+Tabletti Windows-työpöytänäkymässä .
+Siitä ei silti pääse mihinkään , että hiiren oikean klikkauksen korvaaminen pitkällä painalluksella on kömpelöä .
+Osittain ongelma on sovelluskohtainen .
+Chromessa pitkä painallus toimii luontevammin kuin Internet Explorerissa .
+Chrome myös hallitsee flash-valikot paremmin .
+Iso näyttötarkkuus ja " aito pc-mäisyys " johtaa yllättävään ongelmaan .
+Selaimiin aukeavat verkkosivujen työpöytäversiot , jotka on tehty hiirellä ohjattavaksi .
+Kosketusoptimoiduille mobiiliversioille ei kaikilla sivustoilla pääse .
+Vaikka teknisesti laite on pc , siihen kannattaa suhtautua myös tablettina .
+1,3 gigahertsin suoritin ja 2 gigatavun keskusmuistilla ei uusia callofgrandtheftfarcryseiskoja pelailla .
+Wisky-tabletti saa kokonaisuutena ehdottoman kiittävän tuomion .
+Kompromisseja hinnan kohtuullisena pitämiseksi on tehty oikeissa paikoissa .
+Laite antaa iPadille kovan vastuksen voittaen sen joillakin osa-alueilla ( yhteensopivuus pc-ohjelmien kanssa ) , ollen tasoissa toisilla ( näyttö ) ja häviten joissakin ( pienet kömpelyydet Windows 8:n työpöytänäkymää kosketuksella ohjattaessa ) .
+Mikä ostajan kannalta merkittävintä , paketti maksaa alle puolet siitä , mitä edullisin iPad Air 2. .
+Tällä voi alkaa olla merkitystä suuremmassakin mittakaavassa , kun hintaviin Appleihin alkaa kohdistua paineita kahdesta eri suunnasta .
+Vastaavia laitteita tulee lisää muiltakin valmistajilta .
+Windows-tablettimaailmassa ollaan samassa tilanteessa kuin nyt pc-maailmassa vähän jälkeen vuoden 0 .
+Nimettömiltä valmistajilta alkaa tulla kloonilaitteita , jotka kilpailevat hinnan ja laadun yhdistelmällä .
+Se jää nähtäväksi , miten kisassa Androidia ja iOS:ää vastaan käy .
+Mutta Windows-leirillä on nyt ainakin asialliset varusteet taistoon .
+Laite näyttää ahteripuolelta metalliselta .

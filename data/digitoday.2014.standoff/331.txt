@@ -1,0 +1,55 @@
+Yksi asia jää kännyköissä testaamatta — ei enää
+Puhelimien kuuluvuudessa neljän tolpan kentän ulkopuolella on isoja eroja .
+Niistä on kuitenkin vaikea saada tietoa .
+Entinen nokialainen Janne Knuutinen työskentelee tehdäkseen näkymättömästä näkyvää .
+Ei signaalia ?
+Mikä vuoksi verkkosivu latautuu puhelimella näin hitaasti ?
+Entä miksi akku kuluu niin nopeasti ?
+Tuttuja kysymyksiä useimmille .
+Vaikka puhelimet ovat yhä enemmän sosiaalisen median alustoja , leffankatselulaitteita ja poppikoneita , pitäisi niiden silti olla myös puhelimia .
+Ihan aina näin ei kuitenkaan ole .
+Aina ei ole kyse operaattorien verkoista vaan siitä , että yhden tai kahden palkin kuuluvuusalueella osa puhelimista yksinkertaisesti toimii toisia huonommin .
+Näin sanoo 44-vuotias Oulusta kotoisin oleva ex-nokialainen Janne Knuutinen .
+Nykyisin Britanniassa majaa pitävä yrittäjä työskenteli Nokialla 14 vuoden ajan , ensin tuotekehityksessä ja sitten yhdessä operaattorien kanssa puhelinten vastaanottokykyä mittaillen .
+— Kun kenttä on hyvä , kaikki laitteet toimivat hyvin .
+Minä testaan normaaleissa käyttöolosuhteissa .
+Suorituskykyerot todellisessa tiedonsiirtokyvyssä ovat todella isoja , Knuutinen sanoo .
+Janne Knuutinen
+Kuuluvuustiedosta on saatavilla hyvin vähän julkista tietoa .
+Kännykkävalmistajat tekevät omia testejään , mutta ne ovat salaisia .
+Operaattoreita bisnes ei kiinnosta , ja monille se voisi olla vahingollistakin .
+— Jos myyt laitteita , ei ole aina sinun etusi , jos asiakas saa tietää eroista , Knuutinen sanoo .
+Nyt Knuutinen aikoo tuotteistaa puhelimien kuuluvuuden ja tehdä tähän asti salatusta näkyvää .
+Kaksi vuotta sitten oman RF Benchmark -yrityksensä perustanut mies ylläpitää Devicereception.com-nimistä verkkosivustoa ja aikoo avata kevään aikana myös suomenkielisen Kuuluuko.fi-sivuston .
+Nokialla työskennellessään Knuutinen teki testit kenttäkokeina .
+Sen jälkeen hän on kehitellyt puitteet kuuluvuuden testaamiseen kaiuttomassa laboratoriossa .
+Toistaiseksi hän toteuttaa testaamisen alihankinta .
+— Oma laboratorio maksaisi ison omakotitalon hinnan , satoja tuhansia .
+Laitteet testataan kaiuttomassa laboratoriossa eri asennoissa wifi- , 4g data- , 3g puhe- ja 2g puhe -suorituskyvyltään .
+3g datan testaaminen on ollut hankalaa , mutta Knuutinen lupaa senkin olevan tulossa .
+Lumiat laahaavat jäljessä
+Tällä hetkellä Knuutisen sivustolla on testattuna 17 puhelinta ja 21 tablettimallia .
+Lisää on tulossa .
+Moderneista kalliimman ja ylemmän keskiluokan laitteista koostuvassa tilastossa kärkipaikkaa pitää iPhone 5s , kakkosena on Samsung Galaxy S5 ja kolmantena Huawei Ascend P7 .
+Kolme heikointa ovat puolestaan Lumia 930 , HTC One M8 sekä iPhone 5c .
+Koko puhelinlistauksen näet täältä ja tabletit täältä .
+— Jostain syystä Lumia ja Windows eivät ihan huippuluokkana yllä , Knuutinen vahvistaa .
+Uudemmat iPhonet puolestaan pärjäävät hyvin — edullisemmasta päästä olevaa 5c:tä lukuun ottamatta .
+Tätä Knuutinen selittää iPhone 4:n " antennigatella " ja Applen sittemmin tekemillä korjausliikkeillä .
+Yhtä selittävää tekijää hyvälle vastaanottokyvylle Knuutinen ei osaa kuitenkaan antaa .
+Asia ei selity kaikessa yksinkertaisuudessaan merkillä tai hinnalla .
+— Puhelin on yksilö ja laitteen kokonaisuudessa kaikki vaikuttaa kaikkeen .
+Knuutinen huomauttaa , että laitteiden välillä voi olla yksilövaihtelua .
+Saman puhelimen elinkaaren aikana sen komponentit saattavat vaihtua , ja suorituskyky muuttua kumpaan tahansa suuntaan .
+Testitilanteessa puhelin kiinnitetään kaiuttoman huoneen testialustaan .
+Testausta kontrolloidaan suljetun huoneen ulkopuolelta käyttäen testeihin soveltuvia radiokanavatestereitä .
+Seuraava vaihe on toiminnan kaupallistaminen .
+Operaattorit haluavat vierittää mittausvastuun valmistajille , mutta muitakin asiakkaita saattaisi olla .
+Mittausten ei tarvitse olla pelkästään laitteiden eroihin keskittyvää : Bisnesmatkustajia saattaisi hyvinkin kiinnostaa verkkojen kuuluvuus hotelleissa .
+Tai junamatkustajia operaattorikohtaiset erot junaosuuksilla .
+Lisäksi Knuutinen suunnittelee uutta mittauskategoriaa : Akkukestoa heikon kuuluvuuden alueella .
+Kuuluvuuden ollessa heikko puhelimet joutuvat lisäämään lähetystehoaan , mikä imee akun nopeasti tyhjäksi .
+Tässäkin on suuria puhelinkohtaisia eroja .
+Knuutisella on ideoita vieläkin pidemmälle .
+Ne liittyvät yhtä lailla puhelimien kuuluvuuteen ja ihmisten elämän helpottamiseen .
+Kuten hän sanoo : " Onhan se hassua , jos puhelin ei toimi puhelimena . "

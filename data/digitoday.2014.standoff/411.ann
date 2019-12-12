@@ -1,0 +1,11 @@
+T1	ORG 18 24	Amazon
+T2	ORG 181 193	Amazon.comin
+T3	PER 325 335	Jeff Bezos
+T4	DATE 353 364	joulukuussa
+T5	DATE 440 451	vuoden 2013
+T6	ORG 488 504	Prime Air -tiimi
+T7	PER 632 637	Bezos
+T8	ORG 661 673	TechCrunchin
+T9	ORG 688 699	Prime Airin
+T10	LOC 783 795	Yhdysvaltain
+T11	ORG 975 983	Amazonin

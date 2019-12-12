@@ -1,0 +1,11 @@
+Anthemilta vietiin 80 miljoonan henkilötiedot kalastelusyötiksi
+Sairausvakuutusyhtiö Anthemin murron tutkijat seuraavat viitteitä siitä , että asialla olisivat olleet Kiinan valtion sponsoroimat hakkerit .
+Uutistoimisto Bloomberg viittaa kolmeen tutkimuksista tietävään henkilöön ja kirjoittaa , että Yhdysvaltain toiseksi suurimmalta sairausvakuutusyhtiöltä Anthemilta vietiin mahdollisesti 80 miljoonan asiakkaan henkilötietoja .
+Ne sisältävät muun muassa sosiaaliturvatunnukset ja kontaktitiedot .
+Tietovarkauden motiivina ei olisi suora voiton tavoittelu , vaan siinä etsittäisiin mahdollisuutta tunkeutua tiettyjen ihmisten henkilökohtaiseen elämään .
+Pääsyä haettaisiin muun muassa puolustusteollisuuden ja valtion palveluksessa olevien ihmisten tietokoneisiin .
+Tietomassasta seulottaisiin esiin syöttejä kalasteluun .
+Tietoturvablogi Krebs on Security yhdistää Bloombergin uutisen FBI:n viime viikolla levittämään varoitukseen , jonka mukaan kiinalaiset hakkerit ovat kohdistamassa urkintaa Yhdysvaltain kaupallisella sektorilla ja valtion palveluksessa olevien ihmisten henkilökohtaiseen tietoon .
+Anthemin sairausvakuutuksen piirissä ovat muun muassa Northrop Grummanin työntekijät ja Boeingin puolustusteollisuushaaran Missourin 15\_000 työntekijää .
+Myös presidentti Obaman kyberturvallisuuden pääneuvonantaja Michael Danielilla on sairausvakuutus Anthemissa .
+Hän sanoi torstaina webseminaarissa aikovansa vaihtaa salasanansa .

@@ -1,0 +1,14 @@
+T1	ORG 127 137	RadioShack
+T2	ORG 207 227	New Yorkin pörssissä
+T3	ORG 357 368	Bloombergin
+T4	ORG 410 416	Sprint
+T5	ORG 459 471	RadioShackin
+T6	ORG 548 554	Amazon
+T7	ORG 673 683	RadioShack
+T8	ORG 774 786	RadioShackin
+T9	ORG 865 876	Brookstonen
+T10	ORG 943 953	Brookstone
+T11	ORG 1097 1108	Bloombergin
+T12	ORG 1126 1132	Sprint
+T13	ORG 1136 1146	RadioShack
+T100001	LOC 207 217	New Yorkin

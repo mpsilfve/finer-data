@@ -1,0 +1,20 @@
+T1	ORG 0 13	Microsoftilta
+T2	ORG 55 64	Microsoft
+T3	DATE 101 111	lokakuussa
+T4	ORG 162 171	The Verge
+T5	ORG 222 234	The Vergelle
+T6	ORG 273 279	WPDang
+T7	ORG 295 306	Microsoftin
+T8	DATE 334 344	lokakuussa
+T9	ORG 347 356	The Verge
+T10	PRO 433 448	Lumia-puhelinta
+T11	PRO 465 488	Lumia 950:n ja 950 XL:n
+T12	PRO 558 581	Surface Pro 4 -tabletti
+T13	PRO 585 610	Microsoft Band 2 -ranneke
+T14	ORG 613 623	The Vergen
+T15	ORG 631 640	Microsoft
+T16	PRO 722 738	Surface-tabletit
+T17	ORG 790 799	Microsoft
+T18	PRO 919 930	Surface Hub
+T19	ORG 950 959	Microsoft
+T100001	ORG 585 594	Microsoft

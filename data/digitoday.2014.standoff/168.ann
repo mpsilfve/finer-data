@@ -1,0 +1,14 @@
+T1	PRO 0 12	Windows 10:n
+T2	PRO 61 78	Windows Updatella
+T3	PRO 97 106	Windows 7
+T4	PRO 111 122	Windows 8.1
+T5	ORG 151 160	Microsoft
+T6	PRO 198 225	Windows 7- tai 8.1 -asennus
+T7	PRO 234 246	Windows 10:n
+T8	ORG 371 380	Microsoft
+T9	PRO 435 445	Windows 10
+T10	PRO 470 491	Windows 10 build 9926
+T11	ORG 552 561	Microsoft
+T12	PRO 758 773	Windows Updaten
+T13	PRO 937 962	Windows 10 build 9926:sta
+T14	ORG 1190 1199	Softpedia

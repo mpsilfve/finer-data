@@ -1,0 +1,16 @@
+Oliko raha avoimuutta tärkeämpää kun SteamOS:n Linuxia valittiin ?
+Muun muassa Half-Lifeista ja Steam-palvelusta tunnettu Valve ilmoitti Windows 8:n julkaisun hetkillä kääntävänsä katseensa Linuxiin .
+Pohjalla olevan Linux-jakelun valikoituminen ei ollut kuitenkaan itsestään selvää .
+Valven pomo Gabe Newell on osoittanut epäluuloa Windows 8:aa kohtaan alusta asti .
+Syyksi Newell on ilmoittanut järjestelmän sulkeutuneisuuden .
+Syy saattaa piillä myös siinä , että Windows 8 on kova kilpailija Valven tulevaisuudensuunnitelmille .
+Valven omistama latauskauppa Steam takoo yhtiölle rahaa .
+Uusia asiakkaita lähdetään etsimään julkaisemalla oma olohuoneen peli- ja viihdekeskus Steam Machine , jonka käyttöjärjestelmänä toimii Linux .
+Valven lupaus tuoda Steam Linuxille aiheutti positiivista hurraahuutoja internetissä .
+Kehityskumppaniksi valikoitui Linux-maailman valtias , eteläafrikkalaisen monimiljonääri Mark Shuttleworthin omistaman Canonicalin kehittämä Ubuntu .
+Valvella oli kuitenkin tarkoituksena kehittää oma Linuxiin pohjautuva käyttöjärjestelmä , SteamOS .
+Kehitystyö aloitettiin käyttämällä pohjalla Ubuntua .
+Ennen ensimmäisen varsinaisen beetaversion ilmestymistä Valve kuitenkin ilmoitti yllättäen , että SteamOS perustuu Debianiin , samaan Linux-jakeluun , johon myös Ubuntu perustuu .
+Päätöstä kummeksuttiin laajalti , mutta syy saattaa piillä lainsäädännöllisissä ongelmissa , joita Valve todennäköisesti olisi julkaisun yhteydessä kohdannut .
+Saksalaisen Heise.de-verkkosivuston ( saksaksi ) mukaan Canonical olisi todennäköisesti halunnut palan SteamOS:n tuomasta rahasta , eikä Valve halunnut jakaa .
+Rahan valuminen Ubuntusta muiden kuin Canonicalin laariin tuskin sopi Shuttleworthille , sillä Canonicalille Ubuntu on ensisijaisesti tuote ja samalla paljon muutakin kuin vain yksi Linux-jakelu .

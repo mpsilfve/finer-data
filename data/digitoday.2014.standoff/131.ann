@@ -1,0 +1,14 @@
+T1	ORG 0 6	Nokian
+T2	ORG 43 49	Nokian
+T3	ORG 73 82	Microsoft
+T4	ORG 117 124	Samsung
+T5	ORG 174 185	Microsoftin
+T6	ORG 186 194	Nokialta
+T7	ORG 217 224	Samsung
+T8	ORG 278 286	Nokialle
+T9	ORG 324 335	Microsoftin
+T10	ORG 345 351	Nokian
+T11	ORG 378 385	Samsung
+T12	ORG 502 511	Microsoft
+T13	ORG 531 537	Nokian
+T14	DATE 569 573	2013

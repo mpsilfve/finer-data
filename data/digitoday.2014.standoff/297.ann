@@ -1,0 +1,32 @@
+T1	ORG 0 6	Nokian
+T2	PRO 19 31	Androideissa
+T3	PER 84 93	evleaksin
+T4	ORG 140 146	Nokian
+T5	PRO 147 161	Windows Phonen
+T6	ORG 284 289	Nokia
+T7	PRO 337 348	Androidista
+T8	ORG 408 415	Googlen
+T9	PRO 432 441	Androidin
+T10	ORG 469 475	Nokian
+T11	PRO 511 524	Windows Phone
+T12	PER 555 562	evleaks
+T13	PRO 577 588	Twitterissä
+T14	ORG 629 635	Nokian
+T15	PRO 649 664	Lumia-puhelinta
+T16	PRO 665 693	Android-käyttöjärjestelmällä
+T17	PER 739 746	Evleaks
+T18	PRO 1069 1076	Ashalle
+T19	PRO 1099 1113	Windows Phonea
+T20	PRO 1255 1265	Androideja
+T21	PRO 1341 1364	Asha-käyttöjärjestelmän
+T22	PER 1382 1391	Evleaksin
+T23	ORG 1456 1462	Nokian
+T24	PRO 1463 1467	N9:n
+T25	ORG 1510 1516	Nokian
+T26	PRO 1582 1586	N9:n
+T27	PRO 1587 1594	Meegoon
+T28	PRO 1604 1609	Jolla
+T29	ORG 1612 1617	Nokia
+T30	PRO 1638 1642	N9:n
+T31	ORG 1950 1958	Nokialla
+T32	ORG 2018 2026	Jollahan

@@ -1,0 +1,18 @@
+T1	LOC 0 6	Turkki
+T2	PRO 120 129	Twitterin
+T3	ORG 226 257	Turkin perustuslakituomioistuin
+T4	PRO 284 293	Twitterin
+T5	ORG 478 496	Turkin hallituksen
+T6	DATE 519 534	20. marraskuuta
+T7	PRO 545 555	Twitteriin
+T8	PRO 638 647	Twitterin
+T9	PER 694 714	Recep Tayyip Erdogan
+T10	PRO 769 778	Twitterin
+T11	PRO 848 857	Twitterin
+T12	LOC 865 871	Turkki
+T13	PRO 885 893	Youtuben
+T14	ORG 1036 1053	Los Angeles Times
+T15	LOC 1067 1073	Turkin
+T100001	LOC 226 232	Turkin
+T100002	LOC 478 484	Turkin
+T100003	LOC 1036 1047	Los Angeles

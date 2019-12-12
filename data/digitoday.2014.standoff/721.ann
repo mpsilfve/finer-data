@@ -1,0 +1,14 @@
+T1	ORG 85 97	Myontec Oy:n
+T2	LOC 145 156	Münchenissä
+T3	ORG 272 290	Helsingin Sanomien
+T4	EVENT 345 358	ISPO-messujen
+T5	ORG 450 456	ISPO:n
+T6	PRO 565 579	Google Glassin
+T7	ORG 623 641	The New York Times
+T8	ORG 652 661	Myontecin
+T9	DATE 678 693	kesäkuussa 2012
+T10	PRO 988 1001	Mbody-housuja
+T11	PRO 1182 1206	Movescount-sovelluksella
+T100001	LOC 272 281	Helsingin
+T100002	ORG 565 571	Google
+T100003	LOC 627 635	New York

@@ -1,0 +1,18 @@
+IE-käyttäjät joutuivat vaaraan Aftonbladetissa
+Ruotsin suosituimpiin verkkosivustoihin kuuluva Aftonbladet joutui hetkeksi väärän virustorjunnan jakelukanavaksi .
+Haitalliset verkkomainokset , jotka vaivasivat äskettäin esimerkiksi Yahoon käyttäjiä , eivät jätä suosittuja verkkosivuja rauhaan .
+Normaalisti luotettava BusinessInsider esimerkiksi esitti hiljattain haittamainosta ja torstaina oli ruotsalaisen Aftonbladet.se:n vuoro .
+Ruotsin kuudenneksi suosituin verkkosivusto ei ilmeisesti ollut itse saastunut , vaan kyse oli ulkoa tulleesta mainoksesta .
+Kyberturvallisuuskeskuksen mukaan " verkkosivustojen mainokset ladataan yleensä kolmannen osapuolen palvelimelta .
+Ne saattavat sisältää haitallista koodia , sillä mainoksien sisältöä ei usein valvota kovinkaan tarkasti " .
+Aftonbladetin tapauksesta kertoi tuoreeltaan Kaspersky Labin David Jacoby .
+Hänen mukaansa vierailijoiden ei tarvinnut erikseen klikata kyseistä mainosta joutuakseen vaaraan .
+Riitti , että sivuille ylipäätään suunnisti IE-selaimella .
+Hyökkäys ei toiminut muissa selaimissa .
+– Kun Aftonbladetissa vieraili Internet Explorerilla , joutui uudelleenohjatuksi toiselle verkkosivustolle , Jacoby selvittää .
+Sivusto esitti Microsoft Security Essentials -työkalun nimissä väärän varoituksen tietokoneen viruksista .
+Tässä vaiheessa tilanne oli vielä pelastettavissa .
+Mutta jos varoitusta klikkasi , latasi käyttäjä tietokoneelleen haittaohjelman , joka esti kaikkien muiden ohjelmien toiminnan .
+Help Net Securityn mukaan uhri saattoi suostua maksamaan väärän virustorjunnan " täysversiosta " , koska muutakaan tietä ulos tilanteesta ei näyttänyt olevan .
+Aftonbladet poisti haittamainoksen nopeasti , mutta Kyberturvallisuuskeskuksen mukaan se saattoi ehtiä saastuttaa runsaasti verkonkäyttäjien tietokoneita .
+Keskus ei arvioi asiaa tarkemmin , mutta huijauksen saattoi hyvinkin kohdata myös jokunen suomalainen käyttäjä .

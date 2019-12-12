@@ -1,0 +1,30 @@
+T1	PRO 0 21	Cortana-digiavustajan
+T2	ORG 54 65	Microsoftin
+T3	PRO 96 103	Cortana
+T4	LOC 166 176	Amerikkaan
+T5	ORG 179 190	Microsoftin
+T6	PRO 246 255	Windowsin
+T7	PRO 326 334	Cortanan
+T8	PRO 342 352	Androidiin
+T9	ORG 355 366	Microsoftin
+T10	PRO 389 400	Google Nown
+T11	PRO 429 436	Cortana
+T12	ORG 456 462	Applen
+T13	PRO 484 491	Sirille
+T14	PRO 526 544	iPhone-puhelimissa
+T15	PRO 547 555	Cortanan
+T16	PRO 589 603	Google Playstä
+T17	ORG 683 693	TechCrunch
+T18	ORG 705 714	Microsoft
+T19	PRO 731 739	Cortanan
+T20	LOC 761 773	Yhdysvaltain
+T21	PRO 789 796	Cortana
+T22	PRO 804 815	Androidissa
+T23	PRO 958 968	Cortanalla
+T24	PRO 1096 1103	Cortana
+T25	PRO 1124 1136	Google Now’n
+T26	ORG 1157 1166	Googlelle
+T27	PRO 1171 1178	Cortana
+T100001	ORG 389 395	Google
+T100002	ORG 589 595	Google
+T100003	ORG 1124 1130	Google

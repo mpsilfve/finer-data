@@ -1,0 +1,15 @@
+Norjalaiset panssarikuskit ajavat Oculus Rift - virtuaalisilmikoilla
+Norjan armeijan tankkeja ajetaan virtuaalisilmikot päässä .
+Armeija on ottanut testikäyttöön Oculus VR:n tekemiä virtuaalisilmikoita , joilla panssarivaunun kuljettaja näkee ympäristönsä seinien läpi .
+Norjalaisilla on koekäytössä matalaresoluutionäyttöisiä silmikoita , jotka voivat tehdä käyttäjänsä pahoinvoivaksi , Engadget kirjoitti .
+Testissä käytetään ilmakuvauksesta aloittaneen norjalaisen Making View -yrityksen ohjelmistoa .
+Norjalainen TUTV esitteli virtuaalisilmikon käyttöä videolla .
+Testissä oleva järjestelmä on riittävän hyvä siihen , että silmikkoa käyttävä panssarivaunun ajaja pystyy navigoimaan lähes itsenäisesti .
+Oculus Rift -silmikossa näkymää ohjataan päätä kääntämällä .
+Reaalimaailman kuva otetaan neljällä kameralla , joista kuva syötetään järjestelmään .
+Kamerakuvista luotuun näkymään voidaan lisätä videopeleistä tuttuja elementtejä kuten karttoja .
+Norjalaisten arvioiden mukaan järjestelmä voisi tulla käyttöön joskus viiden vuoden päästä .
+Järjestelmän suurin etu lienee laitteiston kaupallisessa saatavuudessa .
+Sotavoimien käyttöön kehitetty järjestelmä olisi luultavasti kertaluokkaa kalliimpi .
+Oculus VR on ollut ahkerasti esillä mediassa varsinkin sen jälkeen , kun Facebook ilmoitti ostavansa sen kahdella miljardilla dollarilla .
+Korjaus : Oculus VR on firma ja Oculus Rift sen kehittämä tuote .

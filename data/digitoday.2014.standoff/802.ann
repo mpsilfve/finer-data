@@ -1,0 +1,15 @@
+T1	ORG 0 6	Nokian
+T2	PRO 76 94	Nokia N1 -tabletin
+T3	LOC 131 139	Kiinassa
+T4	PRO 158 176	Nokia N1 -tabletin
+T5	LOC 184 192	Kiinassa
+T6	ORG 250 281	Nokia Power User -verkkosivusto
+T7	PER 284 295	Riitta Mård
+T8	ORG 296 302	Nokian
+T9	ORG 326 338	Digitodaylle
+T10	ORG 474 481	Foxconn
+T11	ORG 538 543	Nokia
+T12	PRO 744 756	N1-tablettia
+T13	DATE 845 859	22. helmikuuta
+T100001	ORG 76 81	Nokia
+T100002	ORG 158 163	Nokia

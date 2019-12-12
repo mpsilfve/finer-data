@@ -1,0 +1,38 @@
+T1	ORG 0 9	Googlesta
+T2	LOC 51 62	Saksassakin
+T3	PER 96 106	Max Mosley
+T4	ORG 195 202	Googlen
+T5	PER 216 223	Mosleyn
+T6	ORG 297 303	Google
+T7	ORG 393 408	The Independent
+T8	PER 434 441	Mosleyn
+T9	LOC 466 475	Ranskassa
+T10	ORG 478 484	Google
+T11	PER 613 630	Rupert Murchdocin
+T12	ORG 658 683	News of the World -lehden
+T13	DATE 684 695	vuonna 2008
+T14	PER 737 744	Mosleyn
+T15	PER 869 875	Mosley
+T16	ORG 1093 1117	News of the World -lehti
+T17	ORG 1196 1202	Google
+T18	ORG 1256 1262	Google
+T19	ORG 1353 1359	Google
+T20	DATE 1367 1377	syyskuussa
+T21	ORG 1697 1729	Euroopan ihmisoikeustuomioistuin
+T22	ORG 1730 1733	EIT
+T23	DATE 1740 1749	tammikuun
+T24	ORG 1852 1855	EIT
+T25	PER 1870 1884	Susan Ruususen
+T26	PER 1899 1910	Kari Ojalan
+T27	PRO 1944 1965	Pääministerin morsian
+T28	PER 1974 1982	Ruusunen
+T29	PER 2013 2027	Matti Vanhasen
+T30	PER 2037 2045	Ruususen
+T31	DATE 2107 2118	Vuonna 2007
+T32	PER 2141 2151	Ruususelle
+T33	DATE 2211 2222	vuonna 2010
+T34	ORG 2225 2230	EIT:n
+T35	ORG 2265 2277	Ilta-Sanomat
+T36	ORG 2292 2295	EIT
+T37	LOC 2310 2318	Suomelle
+T100001	LOC 1697 1705	Euroopan

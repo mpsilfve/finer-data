@@ -1,0 +1,11 @@
+Dropboxin katoaminen säikäytti 200 miljoonaa käyttäjää
+Suuriin pilvipalveluihin kuuluva Dropbox säikäytti 200 miljoonan henkilön ja neljän miljoonan yrityksen käyttäjäkuntansa perjantaina .
+Palvelu katosi kokonaan verkosta .
+Dropbox kiirehti torjumaan perjantaina huhut siitä , että hakkerit olisivat kaataneet sen .
+Palvelun katoamisen syyksi se ilmoitti rutiinipäivityksen .
+Yrityksen mukaan kaikkien käyttäjien tiedot , valokuvat ja tiedostot ovat tallessa .
+Palvelu palasi osittain verkkoon muutaman tunnin kuluttua ja sunnuntai-iltana Dropbox ilmoitti , että 99 prosenttia käyttäjistä pääsee jälleen kiinni tiedostoihinsa , mutta viidellä prosentilla on ongelmia tiedostojen synkronoinnissa työpöydän kanssa ja 20 prosentilla on ongelmia palvelun mobiilisovelluksen kanssa .
+Dropbox tallentaa kaikki poistetut ja aikaisemmat tiedostoversiot 30 päivän ajaksi .
+Palvelu toimii Amazonin Simple Storage Servicen päällä .
+Tiedostot tallennetaan salattuina .
+Asiasta uutisoivat muun muassa PC World ja The Escapist .

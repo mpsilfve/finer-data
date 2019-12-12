@@ -1,0 +1,28 @@
+T1	LOC 37 43	Turkki
+T2	ORG 53 62	Twitteriä
+T3	LOC 76 84	Turkille
+T4	LOC 190 196	Turkki
+T5	ORG 236 243	Twitter
+T6	ORG 372 381	SlashGear
+T7	LOC 384 390	Turkki
+T8	ORG 449 455	BirGun
+T9	LOC 516 522	Turkin
+T10	EVENT 546 569	Syyrian sisällissodassa
+T11	LOC 653 660	Syyrian
+T12	PRO 805 812	Twitter
+T13	ORG 826 834	BirGunin
+T14	ORG 895 913	Turkin hallinnossa
+T15	PRO 925 934	Twitterin
+T16	ORG 1050 1066	Turkin hallintoa
+T17	PRO 1093 1104	Twitterissä
+T18	ORG 1172 1179	Googlen
+T19	PRO 1180 1195	Youtube-palvelu
+T20	LOC 1244 1250	Turkki
+T21	LOC 1281 1289	Syyriaan
+T22	PER 1342 1362	Recep Tayyip Erdoğan
+T23	ORG 1398 1407	Twitteriä
+T24	ORG 1464 1473	Twitterin
+T25	ORG 1505 1512	Twitter
+T26	LOC 1613 1621	Turkissa
+T100001	LOC 546 553	Syyrian
+T100002	LOC 895 901	Turkin

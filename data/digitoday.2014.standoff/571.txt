@@ -1,0 +1,13 @@
+Helppo tapa kaataa Androidin sähköposti — koskee hurjaa määrää laitteita
+Palvelunestohyökkäys voidaan toistaa kerta toisensa jälkeen , eikä kaikkia puhelimia voi päivittää kuntoon , The Hacker News kertoo .
+Googlen Android-käyttöjärjestelmän oletussähköposti on haavoittuvainen etänä tehtävälle palvelunestohyökkäykselle .
+The Hacker Newsin mukaan haavoittuvuus koskee suurinta osaa Android-älypuhelinten käyttäjiä , joita on maailmalla miljoonittain ja taas miljoonittain .
+Kyseinen sähköpostisovellus tulee esiasennettuna virallisten Android-versioiden mukana .
+Tietoturvatutkija Hector Marco kirjoitti haavoittuvuudesta jo tammikuussa .
+Hänen mukaansa Androidin sähköpostin kaatamiseen ei tarvita muuta kuin tietyllä tavalla muotoiltu sähköpostiviesti .
+Kun laite vastaanottaa sen , palvelu kaatuu .
+Jos sähköpostisovelluksen yrittää avata uudestaan , se kaatuu jälleen .
+Haitallinen viesti on siksi poistettava esimerkiksi toisen sähköpostisovelluksen tai verkon kautta .
+Mutta tämä ei estä teoreettisia hyökkääjiä lähettämästä lisää palvelun kaatavia viestejä kännykkään .
+Marcon mukaan haavoittuvuus koskee Androidin perussähköpostin versiota 4.2.2.0200 ja ilmeisesti myös sitä vanhempia versioita .
+Ongelmaa ei ole versiossa 4.2.2.0400 , mutta kaikkia puhelimia ei voi siihen versioon päivittää .

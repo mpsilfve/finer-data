@@ -1,0 +1,20 @@
+XP menettää asemia — mutta takaraja häämöttää jo
+Microsoftin harras toive Windows XP:n alasajosta näyttää saavan vastakaikua , kaksi markkinatutkijaa havaitsi .
+Mutta loppuuko aika kesken ?
+Antiikkinen ja sen vuoksi tietoturvaton Windows XP -käyttöjärjestelmä vajosi uusille kymmenluvuille joulukuussa , Net Applications mittasi .
+XP:n osuudeksi tietokoneiden käyttöjärjestelmissä tuli noin 29 prosenttia marraskuun noin 31 prosentin sijaan .
+Tätä ennen XP:n osuus oli pysytellyt paikoillaan useita kuukausia .
+Käytetyin oli Windows 7 , joka itse asiassa nosti osuuttaan noin prosenttiyksiköllä 47,5:een .
+Saman verran nousi uusin Windows 8.1 , joka sai 3,6 prosentin kannatuksen , mutta edeltävä versio 8.0 on edelleen selvästi yleisempi .
+Yhdessä Windows 8:t rikkoivat 10 prosentin rajapyykin .
+Prosentin kymmenyksiin ei kuitenkaan kannata kiinnittää liikaa huomiota , sillä varsinkin Net Applicationsin lukuihin on toisinaan suhtauduttu kriittisesti .
+Ja ylipäätään vain yhden markkinatutkijan lukujen seuraaminen antaa vaillinaisen kuvan tilanteesta .
+Siksi onkin syytä katsastaa myös StatCounterin luvut käyttöjärjestelmien osuuksista .
+Koska mittaustapa on erilainen , ovat osuuslukematkin kovin toisenlaisia .
+Varsinaisten lukujen sijaan kiinnostavatkin yleiset trendit ja niiden mukaan Windows XP näyttää todella olevan selvässä laskussa .
+StatCounterin mukaan XP:n osuus putosi joulukuussa alle 20 prosenttiin , kun se vuotta aiemmin oli 27 prosenttia .
+Windows 7 ja Windows 8 puolestaan junnasivat joulukuussa paikoillaan .
+StatCounter ei eritellyt Windows 8.1:n osuutta .
+Microsoft on kampanjoinut käyttäjiä eroon XP:stä , koska sen tietoturvatuki loppuu huhtikuussa .
+Microsoftin Suomen Windows-johtajan mielestä XP on jopa " riesa koko internetille " .
+Ja vaikka XP:n käyttö vähenee , näyttää yhä mahdolliselta , että se on edelleen maailman toiseksi suosituin tietokoneiden käyttöjärjestelmä huhtikuun koittaessa .

@@ -1,0 +1,19 @@
+T1	ORG 0 9	Suomi24:n
+T2	ORG 220 232	Aller Median
+T3	ORG 242 249	Suomi24
+T4	PRO 347 363	Suomi24-palvelua
+T5	ORG 481 488	Allerin
+T6	PER 518 532	Pirjo Väyrynen
+T7	PER 542 550	Väyrysen
+T8	ORG 1041 1060	Viestintävirastossa
+T9	ORG 1061 1070	Suomi24:n
+T10	ORG 1196 1212	Viestintävirasto
+T11	ORG 1231 1240	Suomi24:n
+T12	ORG 1271 1288	Viestintäviraston
+T13	PER 1338 1351	Ilari Karisen
+T14	ORG 1490 1497	Suomi24
+T15	ORG 1624 1631	Suomi24
+T16	ORG 1821 1833	Aller Median
+T17	PER 1834 1842	Väyrynen
+T18	PER 1851 1859	Väyrysen
+T19	ORG 1867 1874	Suomi24

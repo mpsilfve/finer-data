@@ -1,0 +1,14 @@
+Kädet taskuun !
+Sormenjäljen voi varastaa kameralla
+Älypuhelimen tai tietokoneen sormenjälkisuojaus murtuu kameralla .
+Saksankielisessä maailmassa vaikuttavan , laajasti tunnetun tietotekniikkayhdistyksen Chaos Computer Clubin tapaamisessa tutkija Jan Krissler esitteli Saksan puolustusministerin Ursula von der Leyenin sormenjälkiä .
+Hän sai sormenjäljet valokuvaamalla ministerin kädet tämän pitäessä puhetta .
+Valokuvasta saatu sormenjäljen kuva on riittävän tarkka , jotta sillä voidaan avata älypuhelin tai tietokone , joka on suojattu sormenjälkitunnistuksella , Krissler sanoi Chaos Communication Congressissa viikonlopun aikana .
+Krissler sanoi , että hänen valokuvansa merkitys on siinä , ettei tietomurtajien tarvitse hankkia enää käsiinsä uhrin käsitteleviä esineitä päästääkseen käsiin sormenjälkiin .
+Hänen mukaansa sormenjälkien kaappaaminen esineistä on osoitettu monta kertaa toimivaksi menetelmäksi sormenjälkitunnistuksen ohittamisessa .
+Tavallisen Applen tai Samsungin älypuhelimen omistajan ei tarvitse pitää käsiään taskussa tai ryhtyä pitämään hansikkaita , mutta poliitikkojen , korkeiden virkamiesten tai liikemiesten kannattaa ajatella toisenkin kerran ennen kuin luottavat sormenjälkitunnistukseen laitteissa , joissa on arkaluonteista tai varastamisen arvoista tietoa .
+Biometrisiin tietoihin perustuvia tunnistusmenetelmiä on kritisoitu niiden käytön ensimmäisistä päivistä lähtien .
+Mutta sormenjälkien , iiriksen tai kasvojen tunnistamiseen perustuvat ovat alkaneet yleistyä laajaan käyttöön vasta parin viime vuoden aikana .
+Asiasta kirjoittanut BBC nosti esille sen , että biometriseen dataan perustuvien menetelmien heikkoutta voidaan korjata käyttämällä elävään kudokseen perustuvaa biometristä tunnistusta .
+Japanissa ja Puolassa pankkiautomaatit tunnistavat käyttäjän elävien verisuonten perusteella .
+Syyskuussa Barclays-pankki ryhtyi tarjoamaan liikemiesasiakkaille sormen verisuoniin perustuvaa tunnistusta .

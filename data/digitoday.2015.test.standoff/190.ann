@@ -1,0 +1,11 @@
+T1	ORG 0 11	Microsoftin
+T2	PRO 30 41	Surface Hub
+T3	ORG 127 138	Microsoftin
+T4	PRO 162 186	Surface Hub -tietokoneen
+T5	DATE 238 250	1. syyskuuta
+T6	DATE 424 433	heinäkuun
+T7	ORG 443 454	Microsoftin
+T8	DATE 790 802	1. syyskuuta
+T9	PER 832 842	Brian Hall
+T10	PER 867 871	Hall
+T11	DATE 928 935	elokuun

@@ -1,0 +1,18 @@
+T1	ORG 0 7	Samsung
+T2	ORG 72 81	Samsungin
+T3	PRO 128 152	Tizen-käyttöjärjestelmää
+T4	ORG 215 222	Samsung
+T5	ORG 310 319	Samsungin
+T6	ORG 663 672	Samsungin
+T7	ORG 780 787	Samsung
+T8	ORG 832 836	Cnet
+T9	ORG 854 863	Samsungin
+T10	PRO 874 898	Tizen-käyttöjärjestelmän
+T11	ORG 1036 1042	Cnetin
+T12	ORG 1050 1061	Samsungilla
+T13	PRO 1141 1146	Tizen
+T14	ORG 1199 1208	Samsungin
+T15	EVENT 1256 1297	CES 2015 -kuluttajaelektroniikkamessuilla
+T16	LOC 1298 1311	Las Vegasissa
+T17	ORG 1314 1323	Samsungin
+T18	ORG 1568 1577	Samsungin

@@ -1,0 +1,6 @@
+Tarkista HP-kannettava : Ilkeä haavoittuvuus uhkaa
+Hewlett-Packardin monissa yrityskannettavissa voi olla haavoittuvuus , jolla koneen saa kaapattua haltuun .
+Viestintäviraston mukaan tietyistä yrityskäyttöön tarkoitetuista HP:n kannettavista tietokoneista on löytynyt kaksi haavoittuvuutta , joista vakavampi sallii hyökkääjälle mielivaltaisten komentojen suorittamisen kaukaa .
+Tiedotteessa listataan lähemmäs 40 tietokonemallia , jotka voivat kärsiä aukosta .
+Mallin lisäksi koneessa on oltava HP lt4112 LTE / HSPA + Gobi 4G -moduuli ja versiota 12.500.00.15.1803 vanhempi firmware .
+HP on julkaissut haavoittuvuuksiin korjauksen .

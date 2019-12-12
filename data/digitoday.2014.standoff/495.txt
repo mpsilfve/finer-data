@@ -1,0 +1,12 @@
+Miljoonamurto tehtiin laskutusyhteyden kautta
+Targetin käyttämä LVI-yritys korjaa mediassa esiintyneitä tietoja ja antoi samalla ymmärtää , miten murto todellisuudessa tapahtui .
+Yhdysvaltalaisen Target-ketjun käyttämä LVI-yritys antoi uutta tietoa elektronisesta murtautumisesta , joka johti massiiviseen tietovarkauteen Targetin järjestelmistä .
+Fazio Mechanical Services kiistää epäilyt , että se hoitaisi etäyhteydellä Targetin myymälöiden lämmitystä tai jäähdytystä .
+Oli arveltu , että tällainen etäyhteys olisi mahdollistanut rikollisille tunnuksien varastamisen Targetin yritysverkkoon .
+Mutta Fazion mukaan heidän ainoa datayhteytensä Targetiin on sähköistä laskutusta , sopimusten jättämistä ja projektinhallintaa varten .
+Target on myös ainoa asiakas , jonka kanssa näitä asioita hoidetaan etäältä .
+– Murto ei kosketa muita asiakkaitamme , Fazio painottaa ( pdf ) .
+Kaikesta päätellen murto kuitenkin tapahtui tämän yhden datayhteyden kautta .
+Lisäksi näyttää siltä , että Target ei ollut eristänyt kassajärjestelmiään kunnolla muusta yritysverkostaan , kun kerran hyökkääjät pystyivät asentamaan maksukorttien tietoja keräävän haittaohjelman kassoihin .
+Fazio vakuuttaa , että sen it-järjestelmä ja tietoturva vastaa alan käytäntöjä .
+Yhtiö sanoo olevansa Targetin tavoin hienostuneen kyberhyökkäyksen uhri ja työskentelevänsä Yhdysvaltain salaisen palvelun ja Targetin kanssa tunnistaakseen murtautumisen syyn .

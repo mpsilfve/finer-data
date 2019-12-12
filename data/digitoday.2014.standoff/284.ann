@@ -1,0 +1,30 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 20 30	Lumioitaan
+T3	ORG 55 65	Foursquare
+T4	ORG 157 170	Microsoftilta
+T5	ORG 298 309	Foursquaren
+T6	ORG 329 340	Microsoftin
+T7	PRO 350 358	Bingissä
+T8	PRO 361 374	Windows 8:ssa
+T9	PRO 378 394	Windows Phonessa
+T10	ORG 408 416	Nokialta
+T11	ORG 448 453	Nokia
+T12	ORG 467 478	Foursquaren
+T13	PRO 484 504	Asha-laiteperheeseen
+T14	ORG 507 512	Nokia
+T15	ORG 616 627	Microsoftin
+T16	ORG 631 642	Foursquaren
+T17	ORG 761 771	Techcrunch
+T18	PRO 784 816	Windows Phone -käyttöjärjestelmä
+T19	PER 884 894	Jon Tinter
+T20	ORG 895 906	Microsoftin
+T21	ORG 1012 1025	Microsoftille
+T22	ORG 1028 1038	Fourquaren
+T23	ORG 1172 1183	Microsoftin
+T24	PRO 1184 1188	Bing
+T25	ORG 1207 1218	Foursquaren
+T26	ORG 1275 1286	Foursquaren
+T27	PER 1317 1331	Holger Luedorf
+T28	ORG 1451 1464	Microsoftille
+T29	ORG 1487 1496	Microsoft
+T30	ORG 1602 1615	Foursquarelle

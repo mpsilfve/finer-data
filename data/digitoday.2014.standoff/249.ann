@@ -1,0 +1,37 @@
+T1	ORG 27 34	Foxconn
+T2	PRO 57 69	iPhone 5S:ää
+T3	ORG 70 84	ChinaMobilelle
+T4	ORG 85 97	China Mobile
+T5	PRO 134 160	Apple iPhone -älypuhelimia
+T6	PRO 177 200	IPhone 5S -älypuhelimia
+T7	ORG 209 216	Foxconn
+T8	ORG 330 337	Foxconn
+T9	ORG 401 416	China Mobilelle
+T10	PRO 450 476	Apple iPhone 5S -puhelimia
+T11	ORG 501 520	Wall Street Journal
+T12	DATE 587 596	helmikuun
+T13	ORG 642 647	Apple
+T14	ORG 701 713	China Mobile
+T15	PRO 737 744	iPhonen
+T16	DATE 762 776	25. joulukuuta
+T17	ORG 817 829	China Mobile
+T18	PRO 914 921	iPhonea
+T19	ORG 956 964	Applelle
+T20	ORG 973 982	Gartnerin
+T21	PER 995 1005	Sandy Shen
+T22	PRO 1023 1030	iPhonea
+T23	ORG 1054 1066	China Unicom
+T24	ORG 1070 1083	China Telecom
+T25	PRO 1121 1128	iPhonea
+T26	PRO 1181 1194	iPhone-mallit
+T27	ORG 1232 1245	China Mobilen
+T28	ORG 1257 1263	Applen
+T29	LOC 1278 1286	Kiinassa
+T30	ORG 1325 1332	Samsung
+T31	ORG 1335 1341	Lenovo
+T32	ORG 1344 1351	Coolpad
+T33	ORG 1354 1360	Yulong
+T34	ORG 1366 1372	Huawei
+T100001	ORG 134 139	Apple
+T100002	ORG 450 455	Apple
+T100003	LOC 501 512	Wall Street

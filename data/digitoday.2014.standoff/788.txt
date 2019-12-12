@@ -1,0 +1,16 @@
+Googlen tv-palikka tuli Suomeen — taas
+Google julkaisi Chromecast-viihdelaitteensa virallisesti Suomessa .
+Palikkaa on kyllä saanut Suomesta jo aikaisemminkin .
+Google toteutti lupauksensa ja alkoi myydä pientä Chromecast-laitettaan Yhdysvaltain ulkopuolella , myös Suomessa .
+Yhtiön mukaan vempainta saa Gigantista ja Googlen Play-verkkokaupasta .
+Amazon tosin aloitti ilmeisen suositun laitteen myymisen Suomeen jo lokakuussa , mutta myynti katkesi lyhyeen luultavasti Googlen vastustuksen vuoksi .
+Sittemmin Chromecastia on myynyt esimerkiksi Verkkopaukka.com , joskin hinta on kaksinkertainen Googlen suositushintaan nähden .
+Chromecast on pieni palikka , joka kytketään teräväpiirtotelevision hdmi-porttiin .
+Laitetta ohjataan älypuhelimella tai tietokoneella .
+Chromecastilla voi katsoa televisioruudulta videoita sitä tukevien ohjelmien , kuten Youtuben kautta .
+Mutta esimerkiksi Netflix vaatii erillisen tilauksen , jotta sen sisältöä voi katsella .
+Yksi tapa laajentaa ilmaista katselua on siirtää televisioruudulle pc:n Chrome-selaimessa esitettävä sisältö .
+Tällä tavalla televisiossa voi katsella vaikka Yle Areenaa .
+Chromecast tukee Android- ja iOS -mobiililaitteita , Mac- ja Windows-tietokoneita ja eri Chromebook-laitteita , mutta ei Windows Phonea .
+Laite edellyttää wlan-yhteyttä .
+Googlen on väitetty kehittävän myös toista televisioon kytkettävää laitetta " Nexus TV:tä " , joka kilpailisi Apple TV:n kanssa .

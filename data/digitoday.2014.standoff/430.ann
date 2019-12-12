@@ -1,0 +1,13 @@
+T1	ORG 51 60	Nintendon
+T2	ORG 195 216	Tubingenin yliopiston
+T3	ORG 285 294	Nintendon
+T4	PRO 295 319	Super Mario World -pelin
+T5	PER 372 377	Mario
+T6	PER 489 495	Marion
+T7	PER 533 538	Mario
+T8	PER 584 592	Mariolle
+T9	PER 649 656	Goomban
+T10	PER 865 871	Marion
+T11	PER 937 942	Mario
+T100001	LOC 195 205	Tubingenin
+T100002	PER 301 306	Mario

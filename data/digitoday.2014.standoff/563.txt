@@ -1,0 +1,14 @@
+Kiireellinen Flash-korjaus jaossa — näin tarkistat koneesi tilanteen
+Jos olet Adoben Flash Playerin käyttäjä , olet voinut jo saada kriittisen Flash-korjauksen koneellesi .
+Adobe paiski töitä ja laittoi etuajassa jakoon korjauksen Flash Playerin haavoittuvuudelle , jota alettiin hyödyntää hyökkäyksissä .
+Korjauksen piti tulla saataville tällä viikolla , mutta se ilmestyi jo viime viikon puolella .
+Flash-ohjelmisto on saattanut jo paikata itse itsensä .
+Jos näin on , ohjelmiston version tulisi olla 16.0.0.296 sekä Windows- että Mac-ympäristössä .
+Version voi tarkistaa Windows 7:ssä valitsemalla Aloitus > Ohjauspaneeli > Flash Player > Lisäasetukset-välilehti .
+Versionumero kerrotaan näkymän Päivitykset-osiossa .
+Windows 8.1:ssä Flashin voi käynnistää esimerkiksi klikkaamalla aloitusnappia hiiren oikealla painikkeella , valitsemalla Etsi ja kirjoittamalla hakukenttään " flash " .
+Sen pitäisi tuottaa Flashin kuvake , jota klikkaamalla ohjelma käynnistyy .
+Korjaus on julkaistu myös Flashin vanhemmille 13.x-versioille sekä Linuxille .
+Hyökkäyksiä on havaittu vain Windowsia vastaan mukaan lukien uusin Windows 8.1 .
+Adobe ei ole vielä julkaissut käsin ladattavaa korjausta Flashiin .
+Sen pitäisi tulla saataville tällä viikolla .

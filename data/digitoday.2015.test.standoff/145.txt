@@ -1,0 +1,16 @@
+Kremlin nettisensuuri uudelle tasolle : Pääsy Wikipediaan estetään Venäjällä
+Presidentti Putinin toinen presidenttikausi toi mukanaan kiristyvän sensuurin Venäjälle .
+Nyt se ulottanut kouransa myös Wikipedian venäjänkieliseen sivustoon .
+Venäjän internet-regulaattori Roskomnadzor määräsi teleoperaattorit estämään kokonaan Wikipedia.ru-sivut , koska sivuston ylläpitäjä ei suostunut poistamaan yhtä artikkelia .
+Se koski hashiksen charas-muotoa .
+Roskomnadzorin tulkinnan mukaan sivusto jakoi tuomioistuimen kesäkuussa kieltämiä ohjeita huumausaineen valmistamiseksi .
+Wikipedia-organisaatio yritti viikonlopun aikana noudattaa kieltoa siirtämällä kyseisen artikkelin toiseen osoitteeseen , mutta koska artikkeliin pääsi edelleen käsiksi , toimenpide ei kelvannut regulaattorille .
+Internet-operaattorit eivät voi estää yksittäisiä sivuja , koska Wikipedia käyttää https-osoitetta .
+Venäjän Wikipedia ilmoitti valittavansa päätöksestä .
+Financial Timesin mukaan Wikipedian sivut olivat avoinna muutama tunti päätöksen julkistamisen jälkeen .
+Lehden mukaan Kremlin nettisensuuri nousee aivan uudelle tasolle , koska Wikipedian käyttäjäkunta on hyvin laaja .
+Nyt ei ole kyse yksittäisistä sivuista , jotka kritisoivat presidentti Vladimir Putinin hallintoa .
+Wikipedia.run estäminen tulee viikkoa ennen kuin uusi laki venäläisten netin käyttäjien tietojen tallentamisesta Venäjällä sijaitseviin palvelimiin tulee voimaan .
+Wikipedialla on sulkemisen varalta sivut , joilla neuvotaan , kuinka estoa voi kiertää .
+Vajaa kaksi viikkoa sitten Venäjä iski hampaansa Redditiin niin ikään huumekeskustelujen nojalla .
+Osa maan internet-operaattoreista esti pääsyn koko sivustolle , osa vain kiisteltyyn keskusteluun .

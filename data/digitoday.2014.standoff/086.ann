@@ -1,0 +1,19 @@
+T1	ORG 0 6	Nokian
+T2	PER 7 16	Siilasmaa
+T3	ORG 69 75	Nokian
+T4	PER 102 118	Risto Siilasmaan
+T5	ORG 179 185	Nokian
+T6	ORG 258 264	Nokian
+T7	PER 295 306	Rajeev Suri
+T8	PER 309 325	Risto Siilasmaan
+T9	PER 333 337	Suri
+T10	PER 526 535	Siilasmaa
+T11	ORG 542 548	Nokian
+T12	LOC 571 577	Espoon
+T13	LOC 578 590	Karaportissa
+T14	PER 687 697	Siilasmaan
+T15	ORG 705 710	Nokia
+T16	ORG 765 768	NSN
+T17	ORG 820 833	Microsoftille
+T18	PER 937 947	Siilasmaan
+T19	ORG 955 963	Nokialla

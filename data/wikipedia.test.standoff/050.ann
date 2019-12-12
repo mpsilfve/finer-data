@@ -1,0 +1,53 @@
+T1	LOC 0 9	Kruunupyy
+T2	LOC 10 19	Kruunupyy
+T3	ORG 23 35	Suomen kunta
+T4	LOC 53 63	Pohjanmaan
+T5	LOC 235 245	Kruunupyyn
+T6	LOC 265 273	Evijärvi
+T7	LOC 276 285	Kaustinen
+T8	LOC 288 295	Kokkola
+T9	PER 298 303	Luoto
+T10	LOC 306 316	Pedersören
+T11	LOC 326 332	Veteli
+T12	LOC 434 443	Kruunupyy
+T13	DATE 459 477	1. tammikuuta 1969
+T14	LOC 484 496	Kruunupyyhyn
+T15	LOC 508 519	Teerijärven
+T16	LOC 523 533	Alavetelin
+T17	LOC 559 590	Kokkola-Pietarsaaren lentoasema
+T18	LOC 593 603	Kruunupyyn
+T19	DATE 632 649	22. elokuuta 1607
+T20	PER 669 678	Kaarle IX
+T21	LOC 685 702	Påraksen kappelin
+T22	PER 783 790	Kaarlen
+T23	PER 852 858	Kaarle
+T24	LOC 874 884	Kokkolasta
+T25	PER 907 921	Mårten Jacobin
+T26	LOC 922 932	Kruunupyyn
+T27	DATE 986 1004	14. kesäkuuta 1974
+T28	LOC 1036 1045	Alaveteli
+T29	LOC 1049 1059	Teerijärvi
+T30	LOC 1072 1082	Kruunupyyn
+T31	DATE 1090 1094	1969
+T32	LOC 1175 1185	Alavetelin
+T33	LOC 1199 1210	Teerijärven
+T34	LOC 1221 1231	Kruunupyyn
+T35	DATE 1266 1285	15. helmikuuta 1955
+T36	LOC 1298 1308	Kruunupyyn
+T37	LOC 1380 1389	Alaveteli
+T38	LOC 1392 1402	Nedervetil
+T39	LOC 1407 1412	Bråtö
+T40	LOC 1415 1422	Hopsala
+T41	LOC 1425 1431	Norrby
+T42	LOC 1434 1439	Poras
+T43	LOC 1442 1447	Påras
+T44	LOC 1452 1459	Söderby
+T45	LOC 1462 1472	Teerijärvi
+T46	LOC 1475 1482	Terjärv
+T47	LOC 1487 1497	Vähätkylät
+T48	LOC 1500 1510	Småbönders
+T49	LOC 1515 1525	Ytterbråtö
+T50	LOC 1528 1537	Överbråtö
+T51	DATE 1618 1631	vuodesta 1980
+T52	DATE 1663 1671	1.1.2017
+T100001	LOC 23 29	Suomen

@@ -1,0 +1,66 @@
+T1	DATE 219 235	vuodet 1890–1960
+T2	PRO 422 445	" Journal des savants "
+T3	DATE 448 452	1655
+T4	PRO 458 477	" Acta eruditorum "
+T5	DATE 480 484	1682
+T6	ORG 494 507	Royal Society
+T7	PRO 510 561	" Philosophical Transactions of the Royal Society "
+T8	DATE 564 568	1665
+T9	ORG 574 590	Ranskan akatemia
+T10	PER 712 735	William Torrey Harrisin
+T11	PRO 746 783	" Journal of Speculative Philosophy "
+T12	DATE 786 795	1867–1893
+T13	PER 800 816	Alexander Bainin
+T14	PRO 827 835	" Mind "
+T15	DATE 838 843	1876–
+T16	PER 848 864	Théodule Ribotin
+T17	PRO 875 898	" Revue philosophique "
+T18	DATE 901 906	1876–
+T19	PER 914 928	Ludwig Steinin
+T20	PRO 939 980	" Archiv für Geschichte der Philosophie "
+T21	DATE 983 987	1888
+T22	PRO 1029 1039	" Monist "
+T23	DATE 1042 1046	1888
+T24	PRO 1053 1063	" Ethics "
+T25	DATE 1066 1070	1890
+T26	PRO 1077 1120	" Proceedings of the Aristotelian Society "
+T27	DATE 1123 1127	1891
+T28	PRO 1134 1158	" Philosophical Review "
+T29	DATE 1161 1165	1892
+T30	PRO 1172 1210	" Revue de métaphysique et de morale "
+T31	DATE 1213 1217	1893
+T32	PRO 1225 1241	" Kant-Studien "
+T33	PRO 1315 1340	" Journal of Philosophy "
+T34	DATE 1343 1347	1904
+T35	PRO 1352 1366	" Philosophy "
+T36	DATE 1369 1373	1926
+T37	LOC 1378 1384	Wienin
+T38	PRO 1392 1406	" Erkenntnis "
+T39	DATE 1409 1418	1930–1940
+T40	PRO 1423 1456	" The Journal of Symbolic Logic "
+T41	DATE 1459 1463	1936
+T42	PRO 1471 1496	" Review of Metaphysics "
+T43	DATE 1499 1503	1947
+T44	LOC 1577 1583	Suomen
+T45	PRO 1620 1630	" Ajatus "
+T46	DATE 1633 1637	1926
+T47	PRO 1645 1674	" Acta Philosophica Fennica "
+T48	DATE 1677 1681	1935
+T49	PRO 1719 1734	" Niin & näin "
+T50	DATE 1737 1741	1994
+T51	PRO 1777 1801	" Königsberg " -lehdessä
+T52	DATE 1804 1808	1996
+T53	PRO 1876 1887	" Ateneum "
+T54	PRO 1890 1898	" Aika "
+T55	PRO 1901 1912	" Euterpe "
+T56	DATE 1915 1924	1901–1905
+T57	PRO 1929 1948	" Finsk Tidskrift "
+T58	PRO 1961 1972	" Genesis "
+T59	PRO 1975 1987	" Nykyaika "
+T60	DATE 1990 1999	1898–1899
+T61	PRO 2004 2032	" Teologinen aikakauskirja "
+T62	PRO 2035 2046	" Valvoja "
+T63	DATE 2049 2053	1881
+T64	PRO 2061 2072	" Vartija "
+T65	DATE 2075 2079	1888
+T100001	LOC 574 581	Ranskan

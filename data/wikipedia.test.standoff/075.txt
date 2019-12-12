@@ -1,0 +1,14 @@
+Stardust ( videopeli )
+Stardust on suomalaisen Bloodhouse-pelitalon kehittämä shoot ' em up -videopeli , jonka Team 17 julkaisi Amigalle vuonna 1993 .
+Peli on " Asteroids " -klooni moderneilla muutoksilla , joita ovat muun muassa power-up-voimat , aluksen käyttämät suojakilvet , teknomusiikkiraita ja värien elävä käyttö .
+Pelin tavoitteena on pelastaa Voi Levi -niminen prinsessa ilkeältä professori Schaumundilta .
+Lopputaistelu sijoittuu Imatra-nimiselle planeetalle .
+Kuuden ylhäältä päin kuvatun taistelukentän jälkeen pelikulma siirtyy aluksen taakse , jolloin alus siirtyy 3D-poimuajoon .
+Pelin ohjelmoija Harri Tikkanen aloitti pelin kehittämisen vuonna 1992 harrastusprojektina yhden grafiikkarutiinin ympäriltä .
+Ennen julkaisua pelin koodia kirjoitettiin paljon uudelleen , ja ainoastaan esirenderöity grafiikka on jäljellä ensimmäisestä pelattavasta versiosta .
+Peli käännettiin myös PC:lle , mutta ei alkuperäisten ohjelmoijien toimesta .
+Pelin vuonna 1995 ilmestynyt Atari ST -käännös oli poikkeuksellinen julkaisu sikäli , että se tehtiin myöhemmän STe-tietokonemallin ominaisuudet hyödyntäen .
+Paranneltu jatko-osa " Super Stardust " julkaistiin kolme vuotta myöhemmin Amiga CD32:lle ja PC:lle .
+Huhtikuussa 2007 Sony Computer Entertainment julkaisi " Super Stardust HD:n " ladattavana pelinä Playstation Networkissa .
+Amiga Format -lehti antoi pelin uudelleenjulkaisulle pisteiksi 88 % .
+The One -lehti antoi pelille pisteiksi 91 % .

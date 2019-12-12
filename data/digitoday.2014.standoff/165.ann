@@ -1,0 +1,32 @@
+T1	PRO 0 2	XP
+T2	ORG 49 60	Microsoftin
+T3	PRO 74 86	Windows XP:n
+T4	PRO 230 259	Windows XP -käyttöjärjestelmä
+T5	DATE 290 301	joulukuussa
+T6	ORG 304 320	Net Applications
+T7	PRO 331 335	XP:n
+T8	DATE 405 415	marraskuun
+T9	PRO 454 458	XP:n
+T10	PRO 525 534	Windows 7
+T11	PRO 631 642	Windows 8.1
+T12	PRO 697 707	versio 8.0
+T13	PRO 749 760	Windows 8:t
+T14	ORG 887 905	Net Applicationsin
+T15	ORG 1089 1102	StatCounterin
+T16	PRO 1294 1304	Windows XP
+T17	ORG 1348 1361	StatCounterin
+T18	PRO 1369 1373	XP:n
+T19	DATE 1387 1398	joulukuussa
+T20	PRO 1463 1472	Windows 7
+T21	PRO 1476 1485	Windows 8
+T22	DATE 1508 1519	joulukuussa
+T23	ORG 1534 1545	StatCounter
+T24	PRO 1559 1572	Windows 8.1:n
+T25	ORG 1583 1592	Microsoft
+T26	PRO 1625 1631	XP:stä
+T27	DATE 1666 1677	huhtikuussa
+T28	ORG 1680 1691	Microsoftin
+T29	LOC 1692 1698	Suomen
+T30	PRO 1725 1727	XP
+T31	PRO 1776 1780	XP:n
+T32	DATE 1906 1915	huhtikuun

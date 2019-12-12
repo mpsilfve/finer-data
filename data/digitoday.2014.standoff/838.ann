@@ -1,0 +1,15 @@
+T1	LOC 60 72	Yhdysvaltain
+T2	ORG 237 241	Aclu
+T3	LOC 306 318	Yhdysvaltain
+T4	PER 503 516	Edward Korman
+T5	ORG 525 530	Aclun
+T6	DATE 539 552	vuodelta 2010
+T7	ORG 574 592	The New York Times
+T8	ORG 638 643	Aclun
+T9	PER 1111 1124	Pascal Abidor
+T10	PER 1186 1194	Abidorin
+T11	LOC 1203 1210	Kanadan
+T12	LOC 1214 1226	Yhdysvaltain
+T13	ORG 1373 1377	Aclu
+T14	DATE 1556 1568	maaliskuussa
+T100001	LOC 578 586	New York

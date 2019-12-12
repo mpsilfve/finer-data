@@ -1,0 +1,32 @@
+T1	ORG 0 12	Teliasoneran
+T2	ORG 17 26	Cukurovan
+T3	ORG 55 67	Teliasoneran
+T4	ORG 71 80	Cukurovan
+T5	ORG 91 101	Turkcellin
+T6	ORG 218 229	Teliasonera
+T7	ORG 237 246	Cukurovan
+T8	DATE 287 298	vuonna 2011
+T9	ORG 305 313	Cukurova
+T10	ORG 335 349	Teliasoneralle
+T11	ORG 389 397	Cukurova
+T12	ORG 430 444	Teliasoneralle
+T13	PER 490 507	Mikhail Fridmanin
+T14	ORG 520 527	Alfalle
+T15	ORG 530 541	Teliasonera
+T16	ORG 624 633	Cukurovan
+T17	ORG 649 658	Cukurovan
+T18	DATE 705 716	heinäkuussa
+T19	ORG 717 751	Britannian korkeimmassa oikeudessa
+T20	ORG 764 775	Cukurovalle
+T21	ORG 822 830	Cukurova
+T22	ORG 940 945	Alfan
+T23	ORG 953 961	Cukurova
+T24	ORG 1014 1025	Teliasonera
+T25	ORG 1096 1111	Financial Times
+T26	PER 1124 1143	Mehmet Karamehmetin
+T27	ORG 1155 1163	Cukurova
+T28	LOC 1185 1191	Turkin
+T29	ORG 1221 1241	Turkin hallituksella
+T30	ORG 1274 1284	Turkcellin
+T100001	LOC 717 727	Britannian
+T100002	LOC 1221 1227	Turkin

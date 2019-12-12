@@ -1,0 +1,13 @@
+Microsoft korjasi 56 aukkoa — mutta ei pahaa IE-virhettä
+Internet Explorerin xss-haavoittuvuus ei mahtunut Microsoftin suureen helmikuun korjauspakettiin .
+Microsoft julkaisi rutkasti paikkauksia tiistaina illalla .
+Helmikuun korjauspaketissa on yhdeksän tiedotetta 56 haavoittuvuuteen – ja ennen kaikkea Microsoft korjasi yli 40 aukkoa pelkästään Internet Explorerista jätettyään selaimen kokonaan ilman paikkauksia tammikuussa .
+Internet Explorerin aslr-suojausmekanismin ( address space layout randomization ) ohittavaa haavoittuvuutta on Microsoftin mukaan käytetty kohdennetuissa hyökkäyksissä , kun taas yksi toinen IE-haavoittuvuus on julkisesti tiedossa .
+Microsoft ei kuitenkaan vielä korjannut sitä julkista haavoittuvuutta , joka löytyi Internet Explorerista viime viikolla .
+Tämä xss-haavoittuvuus mahdollistaa vakuuttavat verkkohuijaukset , joissa uhrilta voidaan kalastella tärkeitä tietoja varsin huomaamattomasti .
+Kolme helmikuun tiedotetta on kriittisiä eli kaikista kiireellisimpiä .
+Viestintäviraston Kyberturvallisuuskeskuksen mukaan kriittiset haavoittuvuudet liittyvät muistinkäsittelyvirheisiin Internet Explorer -selaimessa , kirjasintyyppien käsittelyyn Windowsin ytimessä sekä ryhmäkäytäntöjen ( group policy ) hallintaan .
+Jostain syystä Kyberturvallisuuskeskus puhuu 55 haavoittuvuudesta Microsoftin ilmoittaman 56:n sijaan .
+Korjaus ryhmäkäytäntöjen kriittiseen aukkoon vei yli vuoden , koska se oli ZDNetin mukaan poikkeuksellinen ja edellytti Windowsin ydinosien uusimista .
+Korjausta ei julkaista lainkaan Windows Server 2003:lle , mikä antaa sitä vielä käyttäville lisää kannustimia vaihtaa uudempaan käyttöjärjestelmään .
+Windows Server 2003 lakkaa saamasta tietoturvakorjauksia kokonaan ensi heinäkuussa , mutta se on yhä käytössä monissa yrityksissä .

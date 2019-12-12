@@ -1,0 +1,21 @@
+T1	ORG 0 7	Spotify
+T2	ORG 71 92	Wall Street Journalin
+T3	ORG 123 131	Spotifyn
+T4	ORG 206 213	Spotify
+T5	ORG 283 298	Goldman Sachsin
+T6	ORG 327 346	Wall Street Journal
+T7	ORG 384 392	Spotifyn
+T8	ORG 529 537	Spotifyn
+T9	ORG 834 840	Google
+T10	DATE 846 857	vuonna 2013
+T11	ORG 871 879	Spotifyn
+T12	ORG 910 919	Googlelle
+T13	ORG 935 941	Google
+T14	PRO 978 994	Google Playllaan
+T15	PRO 1014 1045	Youtube Music Key -palvelullaan
+T100001	LOC 71 82	Wall Street
+T100002	PER 283 290	Goldman
+T100003	PER 291 298	Sachsin
+T100004	LOC 327 338	Wall Street
+T100005	ORG 978 984	Google
+T100006	ORG 1014 1021	Youtube

@@ -1,0 +1,15 @@
+Entistä ehompi Oculus Rift myyntiin , mutta " ei ihan holokansi "
+Videopelaamisen potentiaalisesta mullistajasta ilmestyi uusi kehittäjille suunnattu versio .
+Virtuaalisilmikko Oculus Riftin kehittäjäversio päivittyi noin vuosi sen jälkeen , kun alkuperäisen laitteen toimitukset alkoivat .
+Oculus Rift Development Kit 2 on myynnissä verkossa , ja laitteen pitäisi alkaa saapua ostajille heinäkuusta lukien .
+Pelinäkymän ja muun 3d-sisällön esittämiseen tarkoitettu silmikko on yksi niistä uutuuksista muun muassa Sonyn Morpheuksen kanssa , jotka saattavat vihdoin tehdä 1990-luvulla hypetetystä virtuaalitodellisuudesta arkea .
+Oculus Riftin tiimi toteaa , että laitteen alkuperäinen versio oli teknisesti sen verran rajoittunut , ettei siitä ollut kunnollisen virtuaalitodellisuuden tarjoamiseen .
+Mutta DK2:ssa on muun muassa entistä tarkempi näyttö ja alhaisen latenssin liikeseuranta käyttäjän päälle .
+– DK2 ei ole identtinen Riftin kuluttajaversion kanssa , mutta perustavanlaatuiset rakennuspalikat loistavalle virtuaalitodellisuudelle ovat mukana , tiimi kirjoittaa blogissaan .
+Yleistä käyttökokemusta on vielä parannettava ennen kuluttajajulkaisua .
+– DK2 ei ole vielä holokansi , mutta se on merkittävä askel oikeaan suuntaan , tiimi viittaa Star Trekin Enterprise-aluksen keinotodellisuuslaitteistoon .
+Kuluttajaversiota varten aiotaan parantaa ainakin mukavuutta , näytön tarkkuutta , päänseurantaa , softaa ja optiikkaa .
+Ilman toimituskuluja tai tullimaksuja 350 dollarin hintainen Oculus Rift Development Kit 2 on nimensä mukaisesti siis vain kehittäjille tarkoitettu .
+Kuluttajien kannattaa tiimin mukaan odottaa lopullista versiota .
+Lisäksi on selvää , että pelituki laitteelle on varsin rajallinen tällä hetkellä .
+Tuki on tosin luvattu useampaan kehityksen alla olevaan peliin .

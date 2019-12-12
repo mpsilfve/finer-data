@@ -1,0 +1,23 @@
+T1	PER 0 6	Obaman
+T2	ORG 23 28	CGI:n
+T3	PRO 38 56	Healthcare.govista
+T4	PER 126 139	Barack Obaman
+T5	ORG 156 180	Yhdysvaltain hallituksen
+T6	ORG 189 231	Centers for Medicare and Medicaid Services
+T7	PRO 264 293	Healthcare.gov-verkkosivuston
+T8	ORG 322 335	CGI Federalin
+T9	ORG 354 363	Accenture
+T10	ORG 378 393	Washington Post
+T11	ORG 403 408	CGI:n
+T12	DATE 409 420	helmikuussa
+T13	ORG 462 471	Accenture
+T14	PER 617 630	Barack Obaman
+T15	PRO 689 703	Healthcare.gov
+T16	DATE 715 725	lokakuussa
+T17	ORG 952 967	Valkoisen talon
+T18	PRO 978 994	Healthcare.govin
+T19	DATE 1017 1026	joulukuun
+T20	ORG 1199 1205	CGI:tä
+T21	ORG 1225 1235	Accenturen
+T100001	LOC 156 168	Yhdysvaltain
+T100002	LOC 378 388	Washington

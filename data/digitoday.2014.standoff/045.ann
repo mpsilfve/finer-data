@@ -1,0 +1,17 @@
+T1	ORG 0 5	Yahoo
+T2	ORG 81 86	Yahoo
+T3	ORG 192 208	Wander-yrityksen
+T4	ORG 211 216	Yahoo
+T5	ORG 268 274	Wander
+T6	PRO 345 366	Days-niminen sovellus
+T7	DATE 381 397	toukokuussa 2013
+T8	ORG 462 470	Wanderin
+T9	ORG 506 512	Yahoon
+T10	LOC 513 527	New York Cityn
+T11	PRO 634 647	Days-sovellus
+T12	ORG 825 830	Yahoo
+T13	ORG 923 928	Yahoo
+T14	ORG 940 948	Wanderin
+T15	PRO 949 967	Days-sovelluksesta
+T16	ORG 1012 1023	VentureBeat
+T17	PRO 1048 1052	Days

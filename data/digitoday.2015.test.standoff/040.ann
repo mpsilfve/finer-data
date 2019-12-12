@@ -1,0 +1,14 @@
+T1	LOC 63 75	Yhdysvaltain
+T2	ORG 160 181	Yhdysvaltain hallitus
+T3	ORG 204 216	OPM-viraston
+T4	ORG 410 417	Reuters
+T5	ORG 427 439	OPM-viraston
+T6	DATE 456 466	kesäkuussa
+T7	DATE 503 514	heinäkuussa
+T8	ORG 643 664	Yhdysvaltain hallitus
+T9	ORG 697 709	OPM-viraston
+T10	ORG 1033 1059	Yhdysvaltain hallitukselle
+T11	LOC 1206 1217	Yhdysvallat
+T100001	LOC 160 172	Yhdysvaltain
+T100002	LOC 643 655	Yhdysvaltain
+T100003	LOC 1033 1045	Yhdysvaltain

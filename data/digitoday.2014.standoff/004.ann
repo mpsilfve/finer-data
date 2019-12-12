@@ -1,0 +1,18 @@
+T1	ORG 14 30	Alcatel-Lucentin
+T2	ORG 52 60	Nokialle
+T3	ORG 89 105	Alcatel-Lucentin
+T4	ORG 137 143	Nokian
+T5	ORG 179 195	Alcatel-Lucentin
+T6	ORG 287 300	Gores Groupin
+T7	ORG 304 313	Siemensin
+T8	ORG 327 332	Unify
+T9	ORG 349 358	Bloomberg
+T10	LOC 465 477	Yhdysvaltain
+T11	ORG 531 540	Bloomberg
+T12	ORG 639 655	Alcatel-Lucentin
+T13	DATE 713 724	vuonna 2012
+T14	ORG 853 869	Alcatel-Lucentin
+T15	ORG 901 906	Nokia
+T16	ORG 910 918	Ericsson
+T17	ORG 982 989	Alcatel
+T18	ORG 1048 1056	Nokialle

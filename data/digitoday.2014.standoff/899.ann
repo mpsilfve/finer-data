@@ -1,0 +1,17 @@
+T1	PER 7 17	Dotcomille
+T2	LOC 78 92	Yhdysvaltoihin
+T3	ORG 138 168	Uuden-Seelannin korkein oikeus
+T4	ORG 191 203	Megauploadin
+T5	PER 215 227	Kim Dotcomin
+T6	LOC 292 304	Yhdysvaltain
+T7	ORG 428 440	Ars Technica
+T8	PER 477 483	Dotcom
+T9	DATE 580 591	vuoden 2012
+T10	LOC 625 635	Aucklandin
+T11	PER 712 718	Dotcom
+T12	PER 856 862	Dotcom
+T13	DATE 1105 1116	heinäkuussa
+T14	LOC 1119 1130	Yhdysvallat
+T15	PER 1138 1150	Kim Dotcomin
+T16	PER 1254 1260	Dotcom
+T100001	LOC 138 153	Uuden-Seelannin

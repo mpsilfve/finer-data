@@ -1,0 +1,17 @@
+T1	ORG 21 26	NSA:n
+T2	LOC 68 80	Yhdysvaltain
+T3	ORG 207 233	The Intercept -julkaisulle
+T4	ORG 236 266	Yhdysvaltain tiedusteluvirasto
+T5	ORG 267 272	NSA:n
+T6	ORG 520 546	The Intercept -julkaisulle
+T7	PER 580 596	Edward Snowdenin
+T8	PER 632 647	Glenn Greenwald
+T9	LOC 650 662	Yhdysvaltain
+T10	LOC 741 755	Afganistanissa
+T11	LOC 759 769	Somaliassa
+T12	ORG 789 792	NSA
+T13	ORG 1614 1631	The Interceptille
+T14	LOC 1663 1675	Yhdysvaltain
+T15	LOC 1965 1977	Yhdysvaltain
+T16	PER 1990 2002	Barack Obama
+T100001	LOC 236 248	Yhdysvaltain

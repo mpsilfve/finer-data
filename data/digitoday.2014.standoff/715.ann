@@ -1,0 +1,29 @@
+T1	PRO 30 36	Lumiaa
+T2	ORG 57 63	Nokian
+T3	PRO 148 173	Android-käyttöjärjestelmä
+T4	PRO 210 224	Windows Phonea
+T5	PER 275 282	evleaks
+T6	ORG 317 323	Nokian
+T7	PRO 334 354	Normandy-puhelimesta
+T8	PRO 376 386	Androidiin
+T9	ORG 423 429	Nokian
+T10	ORG 484 491	Googlen
+T11	PRO 492 520	Android-käyttöjärjestelmästä
+T12	PER 539 548	Evleaksin
+T13	ORG 576 582	Nokian
+T14	PRO 593 600	Android
+T15	PRO 647 680	Windows Phone -käyttöjärjestelmää
+T16	PER 683 692	Evleaksin
+T17	PRO 741 759	Normandy-puhelinta
+T18	PRO 794 826	Windows Phone -käyttöliittymältä
+T19	ORG 1046 1069	The Verge -verkkolehden
+T20	PRO 1077 1104	Nokia Normandy -puhelimessa
+T21	ORG 1134 1144	Qualcommin
+T22	PRO 1145 1158	S4-prosessori
+T23	LOC 1348 1360	Barcelonassa
+T24	EVENT 1385 1395	MWC-messut
+T25	PRO 1398 1407	Normandyn
+T26	ORG 1448 1459	Microsoftin
+T27	ORG 1478 1484	Nokian
+T28	DATE 1522 1532	maaliskuun
+T100001	ORG 1077 1082	Nokia

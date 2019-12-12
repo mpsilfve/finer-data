@@ -1,0 +1,12 @@
+T1	ORG 0 5	Intel
+T2	ORG 168 173	Intel
+T3	PER 245 257	Barack Obama
+T4	LOC 288 300	Yhdysvaltain
+T5	ORG 373 380	Intelin
+T6	PRO 396 402	Fab 42
+T7	LOC 403 413	Arizonassa
+T8	ORG 498 503	Intel
+T9	ORG 589 597	PC World
+T10	ORG 600 605	Intel
+T11	ORG 829 834	Intel
+T12	LOC 979 987	Arizonan

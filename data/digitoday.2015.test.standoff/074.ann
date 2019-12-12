@@ -1,0 +1,21 @@
+T1	ORG 60 67	Mozilla
+T2	PRO 95 105	Bugzillaan
+T3	PRO 203 219	Firefox-selainta
+T4	ORG 230 237	Mozilla
+T5	DATE 247 254	elokuun
+T6	ORG 427 434	Mozilla
+T7	PRO 469 477	Bugzilla
+T8	ORG 575 583	Mozillan
+T9	PRO 619 625	WebKit
+T10	PRO 628 635	Linuxin
+T11	PRO 643 650	FreeBSD
+T12	PRO 653 658	Gnome
+T13	PRO 661 667	Apache
+T14	PRO 671 678	Red Hat
+T15	PRO 808 825	Firefox-selaimeen
+T16	PRO 886 895	Bugzillan
+T17	PRO 954 963	Bugzillan
+T18	ORG 1234 1241	Mozilla
+T19	ORG 1258 1265	Mozilla
+T20	PRO 1581 1590	Bugzillan
+T21	ORG 1625 1636	VentureBeat

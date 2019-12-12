@@ -1,0 +1,9 @@
+T1	ORG 107 127	Kanadan veroviraston
+T2	ORG 144 179	Kanadan kuninkaallinen ratsupoliisi
+T3	ORG 340 359	Kanadan verovirasto
+T4	PER 536 550	Gilles Michaud
+T5	DATE 828 837	heinäkuun
+T6	PRO 1023 1040	OpenSSL-kirjaston
+T100001	LOC 107 114	Kanadan
+T100002	LOC 144 151	Kanadan
+T100003	LOC 340 347	Kanadan

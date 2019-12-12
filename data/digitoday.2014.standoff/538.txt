@@ -1,0 +1,14 @@
+Lenovo lopettaa mainosohjelman asentamisen : " Emme löydä tietoturvahuolia "
+Lenovo lopettaa Superfish-mainosohjelman asentamisen kannettaviin tietokoneisiinsa .
+Lenovo ilmoitti torstaina , ettei se enää esiasenna Superfish-mainosohjelmaa joihinkin kannettaviinsa .
+Asentaminen loppui tammikuussa , ja aiemman tiedon mukaan päätös oli väliaikainen .
+Nyt siitä tulee pysyvä .
+Lisäksi Lenovo sanoo kytkeneensä mainosohjelman pois toiminnasta kaikista markkinoilla olevista tuotteistaan , joista se löytyi .
+Kiinalainen pc-valmistaja vastasi samalla asiantuntijoiden syytöksiin , joiden mukaan Superfish on haittaohjelma ja vaarantaa käyttäjien tietoturvan .
+Superfishin sanottiin avaavan salattuja yhteyksiä ja mahdollistavan tietokoneiden vakoilemisen .
+– Olemme tutkineet tämän teknologian läpikotaisesti , emmekä löydä mitään todisteita , jotka perustelisivat tietoturvahuolet , Lenovon edustaja sanoi uutistoimisto Reutersille .
+Edustajan mukaan Superfish ei profiloi tai tarkkaile käyttäjien tekemisiä , eikä tallenna käyttäjätietoja .
+Mainosohjelma ei edustajan mukaan tiedä , kuka käyttäjä on , eikä heitä seurata .
+Lenovo myös katsoo , että ohjelman taloudellinen merkitys on sille pieni .
+Lenovon mukaan Superfish laitettiin joihinkin kuluttajakannettaviin , jotka toimitettiin syys–joulukuussa .
+Lausunto ei selitä , miksi käyttäjät sitten alkoivat Reutersin mukaan valittaa Superfishistä jo viime kesäkuussa .

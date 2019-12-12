@@ -1,0 +1,14 @@
+Facebook salli käyttäjien valokuvien joukkotuhon — vain moraali estivahingot
+Tutkija keksi helpon tavan tuhota Facebook-käyttäjien julkisia valokuva-albumeita .
+Onneksi hän kertoi asiasta Facebookille .
+Intiassa asuva Laxman Muthiyah huomasi , että Facebook sallii minkä tahansa julkisen valokuva-albumin hävittämisen pienellä koodin pätkällä ja käyttämällä hyväksi erästä Facebookin ohjelmointirajapintaa .
+Asiasta kertoo muun muassa tietoturvayhtiö Sophos , joka kiittää tutkijaa vastuullisesta haavoittuvuuden raportoinnista .
+Tutkija todisti kuvien poiston omalla albumillaan ja ilmoitti aukosta Facebookille .
+Tunteja myöhemmin aukko oli korjattu , ja mies oli rikastunut 12\_500 dollarilla , jotka Facebook hänelle maksoi .
+Muthiyah olisi luultavasti voinut myydä aukon kalliimmalla rikollisille tai käyttää sitä itse vahinkojen aiheuttamiseksi Facebookin käyttäjille .
+Albumien tuhoaminen satunnaisesti oli mahdollista , koska niillä on ykkösestä eteenpäin etenevä numeerinen koodi .
+Käyttäjäalbumien hävittäminen suuressa mitassa vaatisi kuitenkin paljon työtä tai esimerkiksi bottiverkollisen verran hevosvoimia .
+Facebookilla saattaa myös olla rajoitteita , jotka pysäyttäisivät touhun nopeasti .
+Lisäksi hyökkäyksen kohdistaminen tiettyyn haluttuun käyttäjään olisi vaatinut hänen albuminsa tunnistenumeron tietämistä .
+Facebookista on valtavana palveluna paljastunut ajoittain kiusallisia bugeja .
+Vuonna 2011 toinen bugi mahdollisti käyttäjien yksityisten valokuvien katsomisen kaikille .

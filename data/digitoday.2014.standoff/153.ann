@@ -1,0 +1,13 @@
+T1	ORG 0 8	Pentagon
+T2	ORG 18 24	Darpan
+T3	ORG 119 152	Yhdysvaltain puolustusministeriön
+T4	ORG 161 166	Darpa
+T5	ORG 258 263	Darpa
+T6	ORG 266 307	Defense Advanced Research Projects Agency
+T7	PRO 461 477	Open Catalogilla
+T8	ORG 554 560	Darpan
+T9	PER 576 587	Chris White
+T10	ORG 779 784	PCMag
+T11	PRO 981 1002	Open Catalog -sivujen
+T12	ORG 1090 1095	Darpa
+T100001	LOC 119 131	Yhdysvaltain

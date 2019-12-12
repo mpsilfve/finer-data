@@ -1,0 +1,17 @@
+T1	ORG 46 65	Viestintävirastolle
+T2	ORG 66 72	Elisan
+T3	ORG 75 82	Soneran
+T4	ORG 86 91	DNA:n
+T5	LOC 193 199	Suomen
+T6	ORG 232 237	Elisa
+T7	ORG 240 246	Sonera
+T8	ORG 250 253	DNA
+T9	DATE 390 402	1. syyskuuta
+T10	DATE 509 531	vuoden 2015 marraskuun
+T11	ORG 547 563	Viestintävirasto
+T12	LOC 897 903	Suomen
+T13	ORG 966 970	EU:n
+T14	ORG 1072 1089	Viestintäviraston
+T15	PER 1125 1140	Marja Lehtimäki
+T16	ORG 1156 1162	EU:ssa
+T17	ORG 1330 1333	DNA

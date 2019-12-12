@@ -1,0 +1,15 @@
+Jollan tabletille uusi joukkorahoitus — muutoksia jo myytyihin laitteisiin
+Jolla aloitti tablettinsa joukkorahoituksen uudelleen .
+Aiemman mallin tilanneet pääosin hyötyvät uudistuksista .
+Puhelin- ja ohjelmistoyhtiö Jolla on alkanut tarjota Indiegogo-joukkorahoituspalvelussa 64 gigatavun tallennustilalla varustettua uutta versiota Jolla-tabletistaan .
+Jolla järjesti samanlaisen myyntikampanjan viime marras–joulukuussa , jossa myynnissä oli 32 gigatavun malli .
+Jolla myi edellisellä kierroksella runsaat 13\_000 tablettia ja keräsi 1,82 miljoonaa dollaria .
+Uusi versio maksaa 249 dollaria ( 204 euroa ) .
+Tablettien toimitus alkaa huhti–kesäkuussa .
+Ensimmäiseen joukkorahoituskierrokseen osallistuneet voivat vaihtaa tilaamansa mallin suuremmalla muistilla varustettuun versioon 25 dollarin lisämaksulla .
+Jolla kertoi myös , että se lisää myös ensimmäisessä erässä myytyihin Tablet-laitteisiin ominaisuuksia , joita se ei luvannut vielä marras–joulukuussa keräyskampanjan aikana .
+Sekä 32 gigatavun että 64 gigatavun maleihin tulee aiemmin ilmoitettua suurempi 4450 mAh -akku .
+Alun perin yhtiö ilmoitti , että Tablet-laitteisiin tulee 4300 mAh -akku .
+Ikävämpi yllätys saattaa joillekin olla muistikorttitekniikan muutos .
+Alkuperääisestä suunnitelmasta poiketen tableteissä käytetyt yli 32 gigan muistikortit eivät toimi Windows-tietokoneissa tai muissa laitteissa , jotka käyttävät microSDXC-formaattia .
+Syynä on siirtymä avoimeen koodin muistikottitekniikkaan , ja siihen liittyviin Microsoftin lisnssiehtoihin .

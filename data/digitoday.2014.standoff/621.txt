@@ -1,0 +1,16 @@
+Jäikö tärkeä Android-päivitys väliin ?
+Facebook-tilisi voi olla vaarassa
+Miljoonissa Android-puhelimissa on tietoturva-aukko , jonka avulla hyökkääjät pääsevät Facebook-tilille .
+Aukon voi paikata päivityksellä tai poistamalla selaimen käytöstä .
+Miljoonissa käytössä olevissa Android-puhelimissa on aukko , jota käyttämällä hakkerit voivat päästä muokkaamaan uhrin Facebook-tiliä .
+Mahdollisesti vaarallinen tietoturva-aukko on Android-puhelimissa , joiden käyttöjärjestelmä on vanhempi kuin Googlen Android 4.4 , eli niin sanottu KitKat-versio , kertoo TrendMicro-tietoturvayhtiö blogissaan .
+Yhtiön tutkijat ovat huomanneet , että tietoturva-aukkoa käytetään hyväksi .
+Aukko löytyy puhelimissa valmiina olevasta verkkoselaimesta .
+Yksi Android-puhelimien tietoturvamenetelmistä on Same Origin Policy ( SOP ) , jonka tehtävä on varmistaa , ettei verkkosivujen kautta voida ladata ulkopuolista koodia .
+Android 4.4 -käyttöjärjestelmää vanhemmissa versioissa tämän tarkistuksen pystyy kuitenkin ohittamaan .
+Käytännössä Android-puhelimellaan Facebookia käyttävä voidaan huijata linkin kautta verkkosivulle , jonka kautta hyökkääjä onnistuu lataamaan puhelimelle JavaScript-tiedoston .
+Tämän avulla hyökkääjä voi esimerkiksi lisätä uhrin Facebook-tilille ystäviä , tykätä ja seurata Facebook-sivuja sekä muokata uutisvirtaan tilattuja Facebook-tilejä .
+Hyökkääjä voi myös kerätä Facebookin analytiikkatietoja käyttäjästä , kuten tämän sijaintitietoja .
+Samoin hyökkääjä voi päästä lukemaan käyttäjän tietoja sekä julkaisemaan päivityksiä tämän tilillä .
+Google on julkistanut korjaavan päivityksen jo syyskuussa , mutta Trend Micron mukaan monet eivät ole pystyneet asentamaan sitä , koska operaattorit tai puhelinvalmistajat eivät ole jakaneet sitä puhelimien käyttäjille .
+Toinen keino torjua hyökkäys on poistaa Android-puhelimen oletusselain käytöstä puhelimen asetuksista .

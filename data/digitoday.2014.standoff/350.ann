@@ -1,0 +1,21 @@
+T1	LOC 0 6	Norjan
+T2	ORG 7 12	Tele2
+T3	ORG 24 36	TeliaSoneran
+T4	ORG 45 56	TeliaSonera
+T5	ORG 91 120	Norjan kilpailuviranomaiselle
+T6	ORG 144 151	Tele2:n
+T7	ORG 171 182	TeliaSonera
+T8	DATE 188 199	heinäkuussa
+T9	ORG 210 222	Tele2 Norjan
+T10	ORG 279 291	TeliaSoneran
+T11	ORG 292 312	NetCom-operaattoriin
+T12	ORG 315 342	Norjan kilpailuviranomainen
+T13	ORG 449 460	TeliaSonera
+T14	ORG 464 471	Telenor
+T15	ORG 523 537	TeliaSoneralle
+T16	ORG 655 667	TotalTelecom
+T17	ORG 705 717	TeliaSoneran
+T18	DATE 882 901	helmikuun 5. päivää
+T100001	LOC 91 97	Norjan
+T100002	LOC 216 222	Norjan
+T100003	LOC 315 321	Norjan

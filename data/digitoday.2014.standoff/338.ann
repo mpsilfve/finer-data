@@ -1,0 +1,19 @@
+T1	ORG 0 8	Ericsson
+T2	ORG 20 32	TeliaSoneran
+T3	LOC 50 59	Ruotsissa
+T4	ORG 82 90	Ericsson
+T5	ORG 115 127	TeliaSoneran
+T6	LOC 166 175	Ruotsissa
+T7	DATE 215 226	vuoden 2013
+T8	ORG 235 241	Huawei
+T9	ORG 252 262	Ericssonin
+T10	ORG 276 281	TDC:n
+T11	ORG 312 322	Ericssonin
+T12	DATE 404 415	vuonna 2010
+T13	LOC 512 521	Ruotsissa
+T14	LOC 570 578	Suomessa
+T15	ORG 736 744	Ericsson
+T16	ORG 748 754	Huawei
+T17	ORG 866 880	FierceWireless
+T18	ORG 893 907	ABI Researchin
+T19	ORG 923 928	Nokia

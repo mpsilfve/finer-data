@@ -1,0 +1,16 @@
+T1	ORG 0 5	Nokia
+T2	LOC 28 36	Qatariin
+T3	ORG 37 42	Nokia
+T4	LOC 68 75	Qatarin
+T5	ORG 103 113	Ooredoolle
+T6	EVENT 114 148	jalkapallon vuoden 2022 MM-kisojen
+T7	ORG 162 168	Nokian
+T8	ORG 359 372	Total Telecom
+T9	ORG 494 510	Nokia Networksin
+T10	ORG 625 633	Ooredoon
+T11	PER 650 665	Waleed Al Sayed
+T12	ORG 687 695	Nokialle
+T13	PRO 764 798	NetAct-verkonhallintasovelluksensa
+T14	ORG 941 946	Nokia
+T15	LOC 979 986	Qatarin
+T16	LOC 1000 1005	Dohan

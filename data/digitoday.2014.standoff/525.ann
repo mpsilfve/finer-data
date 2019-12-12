@@ -1,0 +1,32 @@
+T1	ORG 0 6	Google
+T2	ORG 101 110	Impermium
+T3	ORG 190 197	Googlen
+T4	ORG 229 235	Google
+T5	ORG 283 289	Google
+T6	ORG 309 317	Yahoolta
+T7	ORG 347 354	Googlen
+T8	ORG 363 374	Impermiumin
+T9	PER 419 430	Mark Risher
+T10	ORG 459 465	Yahoon
+T11	ORG 525 533	Yahoolta
+T12	PER 557 569	Naveen Jamal
+T13	PER 573 585	Vish Ramarao
+T14	PER 588 596	Risherin
+T15	ORG 663 672	Googlella
+T16	ORG 725 738	Impermiumilla
+T17	ORG 806 815	WordPress
+T18	ORG 818 824	Tumblr
+T19	ORG 827 836	Pinterest
+T20	ORG 839 843	ESPN
+T21	ORG 846 849	CNN
+T22	ORG 853 868	Washington Post
+T23	ORG 1012 1021	Googlelta
+T24	PRO 1044 1053	Google+:n
+T25	PER 1064 1084	Bradley Horowitzilta
+T26	ORG 1106 1110	Cnet
+T27	PRO 1194 1201	Gmailin
+T28	ORG 1237 1243	Google
+T29	PRO 1368 1377	Google+:n
+T30	PRO 1405 1421	Gmail-sähköposti
+T31	LOC 1539 1547	Kiinasta
+T100001	LOC 853 863	Washington

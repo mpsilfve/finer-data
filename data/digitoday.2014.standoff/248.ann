@@ -1,0 +1,25 @@
+T1	ORG 0 7	Googlen
+T2	ORG 65 71	Google
+T3	PER 141 151	Amit Singh
+T4	ORG 168 188	Business Insiderille
+T5	ORG 207 213	Google
+T6	ORG 241 252	Microsoftin
+T7	ORG 274 281	Googlen
+T8	PER 311 321	Amit Singh
+T9	ORG 329 349	Business Insiderille
+T10	ORG 392 403	Microsoftin
+T11	ORG 422 428	Google
+T12	ORG 518 540	At Work -divisioonansa
+T13	PRO 556 595	Google Apps for Work -ohjelmistopaketti
+T14	PER 661 668	Singhin
+T15	ORG 688 695	Googlen
+T16	ORG 748 755	Googlen
+T17	PRO 792 799	Officen
+T18	ORG 961 968	Googlen
+T19	PRO 996 1003	Officen
+T20	PRO 1058 1067	Officesta
+T21	ORG 1230 1237	Googlen
+T22	LOC 1403 1411	Suomessa
+T23	ORG 1424 1427	Yle
+T24	ORG 1441 1448	Googlen
+T100001	ORG 556 562	Google

@@ -1,0 +1,11 @@
+Super-Mario sai tekoälyn — oppi tappamaan käskystä
+Nintendon Mario-pelihahmo on saanut tekoälyn , jonka avulla se pystyy oppimaan sekä kokemuksen että puhuttujen kommenttien kautta .
+Saksalaisen Tubingenin yliopiston tekoälytutkimukseen erikoistunut yksikkö on ottanut koekaniinikseen Nintendon Super Mario World -pelin .
+Työn tuloksena on tekoälyllä varustettu putkimies Mario , joka pystyy tutkijoiden mukaan havainnoimaan ympäristöään sekä oppimaan siitä .
+Työryhmä kertoo tekoälykkään Marion järjenjuoksusta oheisella videolla .
+Mario ymmärtää myös puhuttuja käskyjä ja neuvoja .
+Mariolle voi esimerkiksi opettaa , miten pelin vastuksina olevan Goomban voi tappaa hyppäämällä sen päälle , ja pelisankari ottaa keinon käyttöön .
+Tutkijoiden mukaan kyse ei ole etukäteen ohjelmoiduista komennoista , vaan aidosta kyvystä ymmärtää ainakin yksinkertaisia ohjeita .
+Marion " tunnetilojen " säätäminen onnistuu sekin puheella .
+Nälkäisenä Mario metsästää kolikoita , ja uteliaalla tuulella etsii piilotettuja esineitä .
+Pelihahmo pystyy myös havainnoimaan ympäristöään , ja suunnittelemaan itse etenemisreittinsä .

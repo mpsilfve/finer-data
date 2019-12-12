@@ -1,0 +1,21 @@
+T1	LOC 31 39	Euroopan
+T2	PRO 40 48	ATV-alus
+T3	LOC 63 71	Euroopan
+T4	PRO 82 97	ATV-avaruusalus
+T5	LOC 133 144	Tyynenmeren
+T6	LOC 195 203	Euroopan
+T7	PRO 235 279	Automated Transfer Vehicle -robottirahtialus
+T8	PRO 333 352	ISS-avaruusasemalta
+T9	PRO 473 494	ATV Georges Lemaîtren
+T10	PRO 696 707	ATV-ohjelma
+T11	PRO 874 881	ISS:ään
+T12	PRO 905 910	ATV:n
+T13	LOC 918 926	Eurooppa
+T14	PRO 936 943	ISS:lle
+T15	LOC 1102 1114	Yhdysvaltain
+T16	PRO 1123 1142	Orion-avaruusalusta
+T17	PRO 1155 1160	ATV:n
+T18	ORG 1321 1345	Euroopan avaruusjärjestö
+T19	ORG 1346 1349	ESA
+T100001	PER 477 494	Georges Lemaîtren
+T100002	LOC 1321 1329	Euroopan

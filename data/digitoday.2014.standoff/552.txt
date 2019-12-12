@@ -1,0 +1,45 @@
+Paypal-maksuhuijaukset leviävät Suomessa — Varo näitä verkko-ostajia
+Erilaiset maksuvälinepetokset ovat Suomessa kovassa kasvussa .
+Esimerkiksi Paypal- ja Western Union -maksupalveluja käyttävät huijaukset ovat levinneet autokaupasta osto- ja myyntisivustoille .
+Tori.fi-verkkopalvelussa sohvaansa myyvä helsinkiläismies sai sähköpostiinsa tarjouksen :
+" Thanks , am satisfied with the price and I have arranged for a pickup agent ( Shipper ) who will be coming to pick it up as soon as the payment is made and i ' ll like to pay u through paypal , and do u have a paypal acct so i can make the payment of the fund ?
+"
+Tuotteesta kiinnostunut " Pedro Willson " kertoi siis olevansa tyytyväinen pyydettyyn hintaan ja järjestäneensä kuljetuksen heti , kun maksu on tehty .
+Maksun hän haluaisi kuitenkin tehdä yhdysvaltalaisen Paypal-maksupalvelun kautta .
+Kysely alkoi epäilyttää myyjää — ja syystä .
+Samankaltaisia viestejä on lähetetty verkkohuijauksissa , joissa pyritään saamaan rahaa jonkin tuotteen myyjältä .
+Ehkä pisimpään näitä huijauksia on Suomessa esiintynyt verkon automyyntisivustoilla .
+— Vaikka Kanadasta saatetaan ottaa yhteyttä myyjään , joka kauppaa käytettyä Toyotaa 500 eurolla , kertoo rikosylikonstaapeli Tero Toivonen Keskusrikospoliisista huijauksen normaalista kulusta .
+Viestissä ylistetään autoa ja halutaan se Kanadaan .
+Ostaja kertoo lähettävänsä 10\_000 dollaria , josta myyjää neuvotaan ottamaan auton hinta ja rahtikustannukset , ja lähettämään yli jääneet rahat ostajalle esimerkiksi Western Union -palvelun kautta .
+— Ihmiset luulevat saaneensa Toyotan myytyä , ja kuvittelevat pystyvänsä pistämään viisi tonnia taskuun , koska " Ei se tyyppi tajua , ettei se rahti niin paljoa maksa " .
+Sitten he lähettävät viisi tonnia Kanadaan .
+Pian tämän jälkeen he saavat 10\_000 dollarin summan välittäneeltä taholta ilmoituksen , että kyseessä on petos , ja se peritään takaisin .
+Näin myyjä on menettänyt maksamansa 5000 dollarin summan huijarille .
+— Kannattaisi kysyä esimerkiksi , miksi joku Kanadasta haluaisi ostaa auton Suomesta , Toivonen sanoo .
+— Tätä on kuitenkin käytetty jo vuosikausia , ja ihmiset lankeavat siihen , koska he ovat ahneita , ja sokaistuvat eteen tulleesta tuhannen taalan paikasta .
+Toivosen mukaan kannattaa aina miettiä , onko tarjous liian hyvä ollakseen totta .
+Lisäksi ei koskaan pidä palauttaa rahaa eri kautta kuin mitä sen on saanut .
+Näin Paypal-huijaus etenee
+Helsinkiläismies myi sohvansa Willsonin sijasta muualle .
+" Pedro Willsonin " kanssa sohvakauppa olisi todennäköisesti edennyt seuraavasti .
+Willson olisi esimerkiksi ilmoittanut , ettei hän voi jostain syystä itse maksaa suoraan sohvan kuljettajalle .
+Ostajalla ei esimerkiksi ole luottokorttia , jolla voisi hoitaa maksun .
+Voisiko siis myyjä hoitaa maksun vaikkapa Western Union -palvelun kautta , jos Willson siirtää tarvittavat rahat Paypalin välityksellä myyjälle ?
+Tämän jälkeen myyjä saattaa saada Paypal-tililleen sovitun summan , ja hän maksaa rahtikulut Western Unionin kautta " sohvan kuljettajalle " , eli käytännössä huijarille tai hänen apurilleen .
+Paypalin ominaisuuksiin kuuluu maksun peruuttaminen .
+Ostaja saa useissa tapauksissa peruuttaa Paypal-palvelun kautta toiselle Paypal-tilille tekemänsä maksun , vetoamalla esimerkiksi siihen , ettei tuote vastannut myyjän kuvausta .
+Huijari siis peruuttaa koko maksun .
+Myyjä ei kuitenkaan voi enää peruuttaa Western Unionin kautta tekemäänsä maksua , joten rahat ovat hävinneet huijareiden taskuun .
+Huijauksesta on pieniä muunnelmia .
+Huijarin käyttämä Paypal-tili saattaa olla varastettu , eli huijari on saanut haltuunsa jonkun toisen käyttäjän Paypal-tilin tunnukset .
+Tilin oikea omistaja saattaa huomata rahojen katoamisen , ja hän peruuttaa ostoksen .
+Myyjä saattaa myös saada sähköpostiinsa Paypalilsta ilmoituksen hänen tililleen tehdystä maksusta .
+Viesti on kuitenkin väärennetty , ja lähettäjänä ei olekaan Paypal-palvelu , vaikka paypal-sanat saattavatkin olla osa viestin lähettäjän osoitetta .
+Maksuvälinepetokset kovassa kasvussa
+Paypal on Toivosen mukaan sinänsä turvallinen palvelu , jos vain käyttäjän Paypal-tunnukset eivät pääse vuotamaan verkkorikollisille .
+Hänen mukaansa vastaavia huijauksia on tehty myös muilla maksuvälineillä .
+— Paypal on vain yksi kymmenistä tavoista .
+Luottokortteja on käytetty pitkään , shekkejä , matkashekkejä , sekä aitoja varastettuja että väärennettyjä , sanoo Toivonen .
+Suomessa ilmoitettiin viime vuonna noin 8\_000 erilaista maksuvälinepetosta , mutta tarkkoja tilastoja niiden tekotavoista ei ole .
+Toivosen mukaan suurin osa oli netissä tehtyjä korttipetoksia , joiden määrä on viiden viime vuoden aikana tuplaantunut .

@@ -1,0 +1,28 @@
+T1	ORG 0 7	Huawein
+T2	LOC 27 34	Suomeen
+T3	ORG 73 80	Huawein
+T4	ORG 159 165	Huawei
+T5	LOC 186 194	Suomessa
+T6	PRO 201 221	Honor 7 -puhelimensa
+T7	PRO 224 242	Honor-puhelinsarja
+T8	ORG 474 480	Huawei
+T9	PRO 544 568	EmotionUI-käyttöliittymä
+T10	PRO 605 612	iPhonen
+T11	ORG 656 663	Huawein
+T12	PRO 664 680	Honor-puhelimien
+T13	LOC 681 705	Itä- ja Pohjois-Euroopan
+T14	PER 719 729	Jin Yiming
+T15	PRO 827 843	EmotionUI-versio
+T16	PRO 844 855	Androidista
+T17	PRO 878 887	Androidin
+T18	PER 1000 1006	Yiming
+T19	PER 1027 1033	Yiming
+T20	ORG 1080 1087	Huawein
+T21	PER 1117 1129	Mika Engblom
+T22	PRO 1344 1351	Android
+T23	ORG 1469 1475	Google
+T24	ORG 1478 1480	LG
+T25	ORG 1484 1491	Samsung
+T26	PER 1683 1690	Engblom
+T27	ORG 1738 1744	Huawei
+T28	ORG 1936 1943	Huawein

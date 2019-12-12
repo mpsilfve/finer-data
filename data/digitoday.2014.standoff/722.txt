@@ -1,0 +1,44 @@
+Video : Sony Walkman palvelee hifistiä — kunhan maksaa ekstraa
+Siinä on vajaan neljän tuuman kosketusnäyttö , ja käyttäjää tervehtii maltilla räätälöity Android-käyttöjärjestelmä .
+Sovelluksia saa Google Playstä , ja laitteessa toimii Facebook , Twitter , Gmail , Youtube ja Chrome .
+Sony NWZ-F886 käyttäytyy siis kuin mikä tahansa Android-puhelin .
+Ainoa vaan ettei se ole puhelin .
+Siinä ei ole edes paikkaa sim-kortille .
+Uskokaa tai älkää , Sonyn uutuuslaite on mp3-soitin .
+Tai pikemminkin korrektimpi termi lienee musiikkisoitin .
+Puhelimesta se eroaa sillä , että se osaa oletuksena soittaa useimpia musiikkiformaatteja ja olennaisimpana häviöttömiä flac-tiedostoja .
+Toki sama onnistuu muillakin älylaitteilla , kun hankkii sopivat sovellukset .
+Toinen ero on vaikeammin ohitettavissa .
+Sonyn soittimessa on kunnollinen kuulokelähtö .
+Tarkoittaa sitä , että kuulokevahvistimessa on riittävästi potkua käskemään laadukkaita kuulokkeita , jotka monesti eivät ole kovin herkkiä , jolloin niistä ei saa mitään irti heikommalla kuulokelähdöllä .
+Älylaitteissa kuulokelähdön laatu ja vahvistimen teho vaihtelee todella paljon .
+Sonyn soittimessa se on taattu .
+Harmi että soittimen mukaan ei ole pakattu parempia kuulokkeita .
+Mukana tulevat ovat paremmat kuin älypuhelinten kylkiäisinä tulevat , mutta Sonylla oli aikoinaan tapana pakata parempien mp3-soitintensa mukaan todella laadukkaat nappikuulokkeet .
+Tuntuu kohtuuttomalta , että pitkälle yli 300 euron hintaisen soittimen kaveriksi pitää vielä erikseen käydä hakemassa kelvolliset kuulokkeet .
+Kolmas ero älypuhelimiin on sisäänrakennettu vastamelutoiminto .
+Yleensähän ominaisuus on kuulokkeissa ja vaatii erillisen pulikan väliin pattereita varten .
+Vastamelutoiminnon upottaminen soittimeen on yllättävä , mutta järkeenkäypä ratkaisu , koska virta tulee sieltä missä sitä on tarjolla muutenkin .
+Se toimii kohtalaisen hyvin , tosin tehokkaampiakin hälyn estäjiä on tarjolla , tosin silloin hintakin harppaa reippaasti .
+Viimeinen , ja ehkä vähäisin soittimen erottava tekijä , ovat monipuoliset äänen säädöt ja ekvalisaattori , joita ei löydy perus-Androidista .
+Se minkä verran kokee tarpeelliseksi kikkailla erilaisten äänitilojen kanssa ja muokata vaikkapa äänen ääripäitä on niin vahvasti makuasia , että sitä on turha arvottaa .
+Itse olen sitä mieltä , että äänen pitäisi toistua mahdollisimman neutraalisti .
+Sonyn soitin on selvästi tehty perinteiseen musiikinkuunteluun .
+Siis sellaiseen , jossa musiikki on soittimen muistilla tiedostoina .
+Toki sillä toimii myös striimauspalvelut kuten Spotify tai Sonyn oma Music Unlimited , mutta se on wlan-verkkojen varassa , koska soittimelle ei saa omaa nettiliittymää .
+Striimaus jää kuriositeetiksi , kun se ei onnistu liikkeellä ollessa , ellei suunnittele reittejään avointen wlan-verkkojen mukaan .
+Sisäänrakennetulle 32 gigan muistille tosin mahtuu niin hillitön määrä biisejä , ettei striimaus välttämättä tule heti mieleen .
+Silti Spotifyihin tottuneelle käyttö tuntuu turhan rajoitetulta .
+Soittimen rooli jää hämäräksi .
+Hintaa on saman verran kuin keskihintaisella älypuhelimella , mutta vastineeksi todella tarpeellisia toimintoja ei ole kuin tavallista parempi kuulokelähtö .
+Kaikki muu hoituu lähes millä tahansa älypuhelimella , kunhan sille on hankkinut sopivat softat .
+Tällaisenaan soitin jäänee kuriositeetiksi , eräänlaiseksi menneen maailman viimeiseksi yritykseksi kamppailla muutosta vastaan .
+Sony Walkman NWZ-F886
+Hinta : 350 euroa
+Liitännät : USB ( Sonyn oma liitin ) , 3,5 mm kuuloke
+Muistin koko : 32 Gt
+Näyttö : 4” 854 x 480
+Käyttöjärjestelmä : Android 4.1 Ääniformaatit : mp3 , flac , aac , wma , lpcm
+Videoformaatit : mpeg4 , avc , wmv9
+Muuta : nappikuulokkeet , fm-viritin , vastamelutoiminto
+Mitat : 5,9 x 1,6 x 0,8 cm , 103 g

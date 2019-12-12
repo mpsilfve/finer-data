@@ -1,0 +1,10 @@
+T1	ORG 0 5	Apple
+T2	ORG 48 53	Apple
+T3	PRO 85 92	iPhonen
+T4	ORG 416 422	Applen
+T5	LOC 423 437	Yhdysvalloissa
+T6	PRO 527 534	iPhonen
+T7	ORG 705 710	Apple
+T8	PRO 731 753	CarPlay-teknologiaansa
+T9	ORG 921 932	PC Magazine
+T10	LOC 984 992	Suomessa

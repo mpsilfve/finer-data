@@ -1,0 +1,41 @@
+T1	LOC 0 7	Belgian
+T2	LOC 15 22	Belgian
+T3	LOC 112 121	Belgiassa
+T4	LOC 855 862	Belgian
+T5	PRO 896 916	D'Hondtin menetelmää
+T6	LOC 1076 1079	BHV
+T7	LOC 1096 1105	Brysselin
+T8	LOC 1132 1143	Flanderista
+T9	LOC 1221 1232	Vervieersin
+T10	LOC 1353 1365	Belgiassakin
+T11	DATE 1492 1520	tammikuun ensimmäisen päivän
+T12	LOC 1666 1677	Walloniassa
+T13	DATE 1837 1857	10. maaliskuuta 2004
+T14	LOC 1891 1899	Euroopan
+T15	LOC 2015 2022	Belgian
+T16	LOC 2195 2202	Belgian
+T17	LOC 2363 2372	Belgiassa
+T18	DATE 2623 2651	tammikuun ensimmäisen päivän
+T19	LOC 2727 2734	Belgian
+T20	LOC 2821 2828	Belgian
+T21	LOC 2903 2912	Belgiassa
+T22	ORG 2959 2982	Wallonian parlamentissa
+T23	ORG 3090 3117	Brysselin alueparlamentissa
+T24	LOC 3399 3406	Flaamin
+T25	LOC 3562 3571	Belgiassa
+T26	ORG 3738 3780	Belgian liittovaltion edustajainhuoneeseen
+T27	LOC 3886 3893	Belgian
+T28	LOC 4152 4186	Bruxelles-Hal-Vilvorde-vaalipiiriä
+T29	LOC 4236 4247	Antwerpenin
+T30	LOC 4251 4268	Itäisen Flanderin
+T31	ORG 4392 4410	Belgian senaatissa
+T32	ORG 4763 4785	Euroopan parlamentissa
+T33	LOC 4786 4795	Belgialla
+T34	DATE 4813 4817	2007
+T35	LOC 4997 5031	Bruxelles-Hal-Vilvorde-vaalipiiriä
+T100001	PER 896 905	D'Hondtin
+T100002	LOC 2959 2968	Wallonian
+T100003	LOC 3090 3099	Brysselin
+T100004	LOC 3738 3745	Belgian
+T100005	LOC 4392 4399	Belgian
+T100006	LOC 4763 4771	Euroopan

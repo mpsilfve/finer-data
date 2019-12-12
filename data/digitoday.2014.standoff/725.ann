@@ -1,0 +1,29 @@
+T1	ORG 0 3	WSJ
+T2	ORG 6 11	Nokia
+T3	DATE 46 57	helmikuussa
+T4	ORG 58 63	Nokia
+T5	ORG 130 149	Wall Street Journal
+T6	ORG 158 164	Nokian
+T7	PRO 165 174	Androidin
+T8	ORG 198 217	Wall Street Journal
+T9	ORG 220 223	WSJ
+T10	ORG 244 249	Nokia
+T11	LOC 286 296	Barcelonan
+T12	EVENT 297 332	Mobile World Congress -tapahtumassa
+T13	DATE 386 402	helmikuun aikana
+T14	ORG 405 424	Wall Street Journal
+T15	ORG 529 535	Nokian
+T16	ORG 536 543	Googlen
+T17	PRO 544 553	Androidia
+T18	ORG 666 673	Googlen
+T19	PRO 677 703	Android-käyttöjärjestelmän
+T20	ORG 723 726	WSJ
+T21	ORG 749 754	Nokia
+T22	ORG 758 767	Microsoft
+T23	ORG 802 807	WSJ:n
+T24	ORG 839 846	Reuters
+T25	ORG 860 866	Google
+T26	ORG 902 908	Nokian
+T100001	LOC 130 141	Wall Street
+T100002	LOC 198 209	Wall Street
+T100003	LOC 405 416	Wall Street

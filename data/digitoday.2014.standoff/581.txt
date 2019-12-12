@@ -1,0 +1,14 @@
+Uusi Snowden-paljastus : Tiedämme , kuinka huono olet Angry Birdsissä
+Viimeisimmät Snowden-paljastukset kertovat kiinalaisten vieneen amerikkalaisen F-35:n hävittäjän täydet tiedot .
+Niistä paljastuu myös , että mobiilimainosten välittäjäyritykset keräävät kännyköiden käyttäjistä tarkkoja tunnistetietoja .
+Nyt kiinalaisetkin tietävät , että amerikkalainen F-35 hävittäjäkone on surkea , The Register päätteli Der Spiegelin julkaisemista Edward Snowdenin vuotamista tiedoista .
+Lehden artikkeli keskittyy NSA:n suunnitelmiin tulevasta kybersodasta , jossa internet näyttelee suurta roolia .
+Tietovuoto vahvistaa aikaisemmat epäilyt siitä , että kiinalaiset tiedustelupalvelut kopioivat teratavuittain tietoa hävittäjästä .
+Ne kattoivat muun muassa tutkajärjestelmät , moottoripiirustukset , lämpöprofiilit ja suunnitelmat pakokaasujen viilentämiseksi .
+Tiedot vietiin Lockheed Martinin järjestelmistä useassa eri otteessa .
+Tavallisia käyttäjiä kiinnostanee Brittitiedustelu GCHQ:n asiakirjoista ilmi käynyt paljastus , jonka mukaan BADASS ( Begal automated deployment and survey system ) -niminen ( pdf ) ohjelma urkki matkapuhelinten mainosverkkoja ja löytää niistä käyttäjiin henkilöitäviä tietoja .
+GCHQ:n koulutuksen tarkoitettu kalvosarja alkaa toteamuksella : We know how bad you are at " Angry Birds " .
+Exploring and exploiting leaky mobile apps with BADASS ( OtH ) .
+Huolimatta siitä , että Mobclix , AdMob , Mydas ja Dataflurry lupaavat julkisesti ja vakuuttavat käyttösopimuksissaan , etteivät kerää käyttäjiin suoraan yhdistettäviä tietoja , Badass löysi tiedoista muun muassa puhelimen tarkasti yksilöiviä imei-koodeja , paikkatietoja ja puhelinnumeroita .
+Noin vuosi sitten uutisoitiin , miten mainosverkostot mahdollistaisivat Angry Birdsin kautta puhelimien urkinnan .
+Tällöin vakoilusta ei ollut varmuutta , mutta nyt paljastetut asiakirjat vahvistavat urkintaa todella tapahtuneen suomalaisen mobiilipelin kautta .

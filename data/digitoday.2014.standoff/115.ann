@@ -1,0 +1,22 @@
+T1	PRO 0 11	Apple Watch
+T2	DATE 25 36	helmikuussa
+T3	DATE 54 63	helmikuun
+T4	ORG 89 98	9to5Macin
+T5	ORG 120 126	Applea
+T6	ORG 149 156	9to5Mac
+T7	ORG 199 205	Applen
+T8	LOC 249 263	Yhdysvalloissa
+T9	DATE 264 274	maaliskuun
+T10	ORG 294 300	Applen
+T11	PRO 349 364	Apple Watchille
+T12	ORG 584 591	9to5Mac
+T13	DATE 722 734	maaliskuussa
+T14	ORG 737 742	Apple
+T15	PRO 758 771	Apple Watchin
+T16	DATE 802 806	2015
+T17	DATE 904 918	19. helmikuuta
+T18	ORG 1041 1046	Apple
+T19	DATE 1090 1104	14. helmikuuta
+T100001	ORG 0 5	Apple
+T100002	ORG 349 354	Apple
+T100003	ORG 758 763	Apple

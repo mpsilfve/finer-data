@@ -1,0 +1,13 @@
+T1	ORG 50 58	Applelle
+T2	ORG 59 65	Applen
+T3	ORG 153 159	Applen
+T4	PRO 181 193	Apple Storen
+T5	PER 334 347	William Alsup
+T6	LOC 348 364	San Franciscossa
+T7	ORG 421 427	Recode
+T8	DATE 437 448	Vuonna 2013
+T9	ORG 502 525	Apple Store -liikkeiden
+T10	ORG 745 751	Applen
+T11	ORG 957 963	Applen
+T12	PER 978 990	Tim Cookille
+T100001	ORG 181 186	Apple

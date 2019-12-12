@@ -1,0 +1,15 @@
+Piste i:n päälle : Huippuvakoojan alkuperä varmistui
+Hätkähdyttävän osaava Regin-haittaohjelma on NSA:n tekosia , Kaspersky selvitti yhdessä Der Spiegelin kanssa .
+Monipuolinen ja vuosikausia käytetty vakoiluohjelma Regin ihmetytti ja hämmästytti viime vuonna .
+Tähän asti on pidetty melko selvänä , että Regin on Yhdysvaltojen , mutta kenties myös Ison-Britannian aikaansaama .
+Nyt Der Spiegel vei johtopäätökset pidemmälle .
+Saksalaislehti oli vähän aikaa sitten julkaissut lähdekoodin Yhdysvaltain tiedusteluvirasto NSA:n haittaohjelmasta , joka paljastui Edward Snowdenin vuotamien asiakirjojen kautta .
+Venäläinen tietoturvayhtiö Kaspersky Lab verta si lähdekoodia Reginin koodiin ja huomasi koodin olevan identtinen .
+– Olemme varmoja , että tässä on Reginin keylogger-moduuli , Kaspersky totesi havainnoistaan Der Spiegelin mukaan .
+Keylogger on ohjelma , joka osaa lukea näppäimistön painallukset tietokoneella ja pystyy tällä tavalla varastamaan runsaasti tietoja salasanoja myöten .
+Lisäksi paljastui , että Regin on kaikesta päätellen hyökkäysalusta , jota voivat käyttää useat eri instituutiot eri maissa , käytännössä ilmeisesti niin kutsutun Viiden silmän allianssin kesken , joka koostuu Yhdysvalloista , Isosta-Britanniasta , Kanadasta , Australiasta ja Uudesta-Seelannista .
+Jopa 14 maata uhreina
+Kaspersky ei nimennyt suoraan ketään Reginin tekijäksi , mutta Der Spiegel ei arkaile sanoa , että enää ei ole paljoakaan mahdollisuuksia jossitella haittaohjelman alkuperällä .
+Regin on sen verran hienostunut , että sitä on verrattu jopa Yhdysvaltojen ja Israelin tekemään Stuxnet-haittaohjelmaan , jolla aiheutettiin fyysistä vahinkoa iranilaisessa uraaninrikastamossa .
+Tietoturvayhtiö Symantec kertoi marraskuussa , että Reginillä on hyökätty ennen kaikkea venäläisiä ja ja saudiarabialaisia kohteita vastaan .
+Kasperskyn mukaan Reginiä on käytetty jopa kymmenen vuotta ja sillä on isketty ainakin 14:ää maata vastaan mukaan lukien Saksa , Belgia ja Brasilia .

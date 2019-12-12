@@ -1,0 +1,31 @@
+T1	ORG 0 4	Sony
+T2	PRO 15 42	Windows Phone -älypuhelimia
+T3	ORG 75 79	Sony
+T4	PRO 122 155	Windows Phone -käyttöjärjestelmän
+T5	ORG 180 185	Sonyn
+T6	ORG 222 229	Googlen
+T7	PRO 230 256	Android-käyttöjärjestelmää
+T8	ORG 265 284	Sony Mobile Europen
+T9	PER 293 306	Pierre Perron
+T10	ORG 316 329	TechRadarille
+T11	ORG 337 341	Sony
+T12	PRO 368 392	Windows Phone -laitteita
+T13	ORG 419 430	Microsoftin
+T14	PRO 503 525	Windows Phone -alustan
+T15	PER 598 604	Perron
+T16	PER 860 866	Perron
+T17	ORG 895 904	Googlella
+T18	ORG 929 934	Sonyn
+T19	ORG 952 959	Sonylla
+T20	ORG 973 984	Microsoftin
+T21	PRO 1034 1051	Windows Mobilesta
+T22	DATE 1070 1081	vuonna 2008
+T23	PRO 1105 1118	Xperia X1:ssä
+T24	PRO 1169 1171	X2
+T25	ORG 1212 1218	Nokian
+T26	PRO 1219 1234	Lumia-puhelimet
+T27	PRO 1253 1275	Windows Phone -alustan
+T28	ORG 1307 1320	Microsoftille
+T29	ORG 1411 1420	TechRadar
+T30	PRO 1428 1442	Windows Phonen
+T31	ORG 1471 1476	Sonyn

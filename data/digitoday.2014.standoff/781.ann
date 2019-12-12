@@ -1,0 +1,22 @@
+T1	ORG 16 24	Amazonin
+T2	ORG 123 126	BGR
+T3	ORG 215 220	BGR:n
+T4	ORG 248 256	Amazonin
+T5	ORG 322 325	BGR
+T6	ORG 374 382	Amazonin
+T7	ORG 464 467	BGR
+T8	PRO 508 516	iPhoneen
+T9	PRO 519 539	Galaxy S -puhelimiin
+T10	PRO 544 553	HTC Oneen
+T11	ORG 621 627	Nokian
+T12	ORG 643 654	Microsoftin
+T13	PRO 655 673	Lumia 620 -malliin
+T14	PRO 726 740	Windows Phonen
+T15	PRO 852 871	Snapdragon-suoritin
+T16	ORG 930 940	Amazonille
+T17	PRO 941 953	Kindle Firen
+T18	PRO 989 1017	Android-käyttöjärjestelmästä
+T19	ORG 1229 1232	BGR
+T20	PRO 1258 1274	Amazon-puhelimen
+T21	ORG 1489 1497	Amazonin
+T22	DATE 1529 1537	kesäkuun

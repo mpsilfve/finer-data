@@ -1,0 +1,11 @@
+T1	ORG 0 7	Googlen
+T2	ORG 50 57	Googlen
+T3	ORG 253 260	Googlen
+T4	PER 300 312	Chris Urmson
+T5	PER 774 780	Urmson
+T6	ORG 793 800	Googlen
+T7	LOC 915 932	Mountain View'ssä
+T8	LOC 933 946	Kaliforniassa
+T9	PER 1220 1226	Urmson
+T10	ORG 1267 1273	Google
+T11	PER 1367 1373	Urmson

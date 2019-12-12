@@ -1,0 +1,26 @@
+T1	PER 0 10	Ihamuotila
+T2	ORG 38 43	Nokia
+T3	PRO 91 105	Lumia-laitetta
+T4	DATE 108 122	Loka-joulukuun
+T5	PRO 186 201	Lumia-puhelimia
+T6	ORG 238 243	Nokia
+T7	PRO 248 263	Lumia-puhelimia
+T8	DATE 315 327	vuoteen 2012
+T9	PER 351 366	Timo Ihamuotila
+T10	ORG 576 589	Microsoftille
+T11	PRO 711 727	Lumia-laitteiden
+T12	PER 829 839	Ihamuotila
+T13	PRO 885 900	Nokia Lumia 520
+T14	PER 923 933	Ihamuotila
+T15	ORG 952 957	Nokia
+T16	ORG 1010 1015	Nokia
+T17	DATE 1020 1036	loka–joulukuussa
+T18	PRO 1077 1092	Lumia-puhelinta
+T19	ORG 1095 1101	Nokian
+T20	DATE 1179 1195	tammi–syyskuussa
+T21	PRO 1309 1325	Lumia-laitteiden
+T22	DATE 1326 1340	loka–joulukuun
+T23	ORG 1425 1430	Nokia
+T24	DATE 1544 1560	heinä–syyskuussa
+T25	DATE 1582 1610	vuoden 2012 loka–joulukuussa
+T100001	ORG 885 890	Nokia

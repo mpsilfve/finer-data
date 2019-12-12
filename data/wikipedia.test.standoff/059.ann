@@ -1,0 +1,71 @@
+T1	PER 0 13	Eric Whitacre
+T2	PER 14 27	Eric Whitacre
+T3	DATE 33 51	2. tammikuuta 1970
+T4	PRO 139 153	" Cloudburst "
+T5	DATE 166 177	vuoden 2007
+T6	PRO 201 208	Grammyn
+T7	DATE 226 230	2012
+T8	PRO 247 263	" Light & Gold "
+T9	PRO 294 301	Grammyn
+T10	PER 304 312	Whitacre
+T11	PRO 328 361	" Virtual Choir " -projekteistaan
+T12	PER 450 463	Eric Whitacre
+T13	LOC 471 478	Renossa
+T14	LOC 481 490	Nevadassa
+T15	PER 656 664	Whitacre
+T16	PER 814 822	Mozartin
+T17	PRO 823 836	" Requiemin "
+T18	PRO 949 969	" Go , Lovely Rose "
+T19	PER 1113 1121	Whitacre
+T20	ORG 1162 1182	Nevadan yliopistosta
+T21	ORG 1248 1267	Juilliard Schooliin
+T22	LOC 1268 1279	New Yorkiin
+T23	PER 1308 1324	John Coriglianon
+T24	PER 1328 1343	David Diamondin
+T25	DATE 1366 1377	vuonna 1997
+T26	PRO 1461 1476	" Ghost Train "
+T27	ORG 1515 1528	Juilliardista
+T28	PRO 1554 1571	" Ghost Trainin "
+T29	LOC 1611 1625	Los Angelesiin
+T30	PER 1673 1687	Eric Whitacren
+T31	PRO 1695 1711	" Light & Gold "
+T32	PRO 1719 1726	Grammyn
+T33	DATE 1727 1738	vuonna 2012
+T34	LOC 1785 1792	USA:ssa
+T35	LOC 1796 1808	Britanniassa
+T36	PER 1840 1849	Whitacren
+T37	PRO 1866 1881	" Water Night "
+T38	DATE 1894 1905	vuonna 2012
+T39	ORG 1961 1982	Eric Whitacre Singers
+T40	ORG 1987 2015	Lontoon sinfoniaorkesterilta
+T41	PER 2018 2041	Julian Lloyd Webberiltä
+T42	PER 2045 2062	Hila Plitmannilta
+T43	PER 2065 2073	Whitacre
+T44	ORG 2102 2130	Lontoon sinfoniaorkesterille
+T45	ORG 2133 2152	Tallis Scholarsille
+T46	ORG 2155 2173	King's Singersille
+T47	ORG 2177 2200	Minnesotan orkesterille
+T48	PER 2246 2259	Hans Zimmerin
+T49	PER 2286 2294	Whitacre
+T50	PER 2336 2344	Whitacre
+T51	EVENT 2356 2374	TED-konferenssissa
+T52	PER 2405 2418	Eric Whitacre
+T53	EVENT 2443 2488	Barlowin kansainvälisestä sävellyskilpailusta
+T54	ORG 2491 2532	American Choral Directors Associationilta
+T55	ORG 2535 2563	American Composers Forumilta
+T56	DATE 2567 2578	vuonna 2001
+T57	PRO 2616 2654	Raymond W. Brock Commission -palkinnon
+T58	DATE 2674 2685	Vuonna 2007
+T59	PRO 2706 2743	" Cloudburst and Other Choral Works "
+T60	DATE 2765 2776	Vuonna 2012
+T61	PER 2777 2791	Eric Whitacren
+T62	PRO 2799 2815	" Light & Gold "
+T63	PRO 2823 2839	Grammy-palkinnon
+T100001	LOC 1162 1169	Nevadan
+T100002	PER 1248 1257	Juilliard
+T100003	LOC 1987 1994	Lontoon
+T100004	LOC 2102 2109	Lontoon
+T100005	PER 2133 2139	Tallis
+T100006	LOC 2177 2187	Minnesotan
+T100007	PER 2443 2451	Barlowin
+T100008	PER 2616 2632	Raymond W. Brock

@@ -1,0 +1,23 @@
+T1	ORG 12 16	OP:n
+T2	ORG 55 59	OP:n
+T3	ORG 185 194	F-Securen
+T4	PER 211 225	Mikko Hyppönen
+T5	ORG 243 252	OP-pankin
+T6	ORG 365 369	OP:n
+T7	LOC 412 420	Suomessa
+T8	ORG 998 1002	OP:n
+T9	PER 1020 1037	Carina Geber-Teir
+T10	ORG 1281 1290	F-Securen
+T11	PER 1308 1322	Mikko Hyppösen
+T12	PER 1499 1507	Hyppönen
+T13	PER 1761 1769	Hyppösen
+T14	LOC 1933 1947	Yhdysvalloissa
+T15	ORG 2042 2057	Bank of America
+T16	ORG 2061 2065	Visa
+T17	ORG 2117 2143	Wikileaks-verkkosivustolle
+T18	LOC 2179 2192	Yhdysvaltojen
+T19	ORG 2226 2237	Wikileaksia
+T20	ORG 2261 2270	Anonymous
+T21	ORG 2351 2366	Bank of America
+T22	PER 2410 2418	Hyppönen
+T23	ORG 2438 2442	Visa

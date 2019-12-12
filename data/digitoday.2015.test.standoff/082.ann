@@ -1,0 +1,13 @@
+T1	ORG 57 64	Googlen
+T2	LOC 159 169	Singaporen
+T3	ORG 234 290	Massachusetts Institute of Technology -yliopisto ( MIT )
+T4	ORG 294 331	Singaporen kansallinen tutkimuslaitos
+T5	ORG 734 740	Uberin
+T6	LOC 756 765	Helsingin
+T7	PRO 773 797	Kutsu Plus -järjestelmää
+T8	ORG 959 966	Googlen
+T9	ORG 1207 1217	Engadgetin
+T10	PER 1252 1265	Daniela Rusin
+T11	ORG 1477 1487	MIT Newsin
+T100001	LOC 234 247	Massachusetts
+T100002	LOC 294 304	Singaporen

@@ -1,0 +1,18 @@
+T1	ORG 0 5	Nokia
+T2	ORG 94 99	Nokia
+T3	ORG 196 201	Nokia
+T4	ORG 353 380	Nokia Technologies -yksikkö
+T5	ORG 500 506	Nokian
+T6	LOC 507 519	Sunnyvalessa
+T7	LOC 520 533	Kaliforniassa
+T8	ORG 713 719	Nokiaa
+T9	PRO 1200 1221	Wearables -ohjelmassa
+T10	ORG 1571 1577	Nokian
+T11	ORG 1940 1945	Nokia
+T12	ORG 1993 1998	Nokia
+T13	DATE 2063 2074	vuonna 2004
+T14	PRO 2075 2102	Sports Tracker -sovelluksen
+T15	DATE 2256 2267	vuonna 2010
+T16	ORG 2323 2346	Sports Tracker -yhtiönä
+T17	ORG 2349 2360	Amer Sports
+T18	DATE 2373 2382	toukokuun

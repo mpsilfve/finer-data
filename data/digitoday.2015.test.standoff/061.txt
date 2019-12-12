@@ -1,0 +1,12 @@
+Avaimet Android-puhelimen pyyhkäisylukkoon : Sormirasva ja vasen yläkulma
+Pyyhkäisykuvioon perustuva älypuhelinten lukitus sisältää sudenkuoppia .
+Norjalainen tutkija Marte Løge todisti Defcon-tapahtumassa , että Android-puhelinten lukituksen avaaminen näyttöä pyyhkäisemällä on vain niin turvallinen kuin mitä käyttäjä viitsii siitä tehdä .
+Asiasta kirjoittaa muun muassa Naked Security -blogi .
+Pyyhkäistävä kuvio voi olla mikä tahansa 389\_112:sta yhdistelmästä , mutta käytännössä suuri osa ihmisistä tyytyy lyhyisiin ja ennalta arvattaviin kuvioihin , jotka kulkevat vasemmalta oikealle ja ylhäältä alas .
+Tunnistuksessa käytetään yhdeksää pistettä ruudulla , mutta keskimäärin ihmiset käyttivät niistä vain viittä .
+Løgen tutkimuksessa 44 prosenttia pyyhkäisyistä alkoi vasemmasta ylänurkasta ja jopa 77 prosenttia jostakin neljästä kulmasta .
+Løge huomautti , että käyttäjät valitsevat pyyhkäistävän kuvion samaan tapaan kuin perinteisen salasanan – liian monimutkainen yhdistelmä on vaikea muistaa .
+Lisäksi Naked Security muistuttaa sormien rasvan olevan tehokas vihje varkaalle puhelimen lukituksen avaamiseksi .
+Jos näyttöä ei jatkuvasti putsaa , lukituksen voi ehkä purkaa vain seuraamalla siinä näkyviä rasvaviivoja .
+Pyyhkäisyä ei silti tarvitse julistaa kelvottomaksi tavaksi suojata puhelin .
+Tässä pätee sama sääntö kuin esimerkiksi sormenjälkitunnistuksessa : Puutteellinen suojaus on parempi kuin ei suojausta ollenkaan .

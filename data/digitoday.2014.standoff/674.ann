@@ -1,0 +1,23 @@
+T1	ORG 0 10	VKontakten
+T2	LOC 27 34	Venäjän
+T3	PER 63 74	Pavel Durov
+T4	ORG 165 175	TechCrunch
+T5	LOC 185 194	Venäjällä
+T6	ORG 220 230	VKontakten
+T7	PER 249 260	Pavel Durov
+T8	LOC 300 309	Venäjältä
+T9	PER 359 364	Durov
+T10	ORG 371 385	TechCrunchille
+T11	PER 388 393	Durov
+T12	LOC 482 491	Venäjältä
+T13	ORG 570 582	TechCrunchin
+T14	PER 717 722	Durov
+T15	ORG 808 819	VKontakteen
+T16	PER 927 938	Pavel Durov
+T17	ORG 985 995	VKontakten
+T18	PER 1036 1043	Durovin
+T19	LOC 1057 1064	Venäjän
+T20	PER 1146 1153	Durovin
+T21	ORG 1161 1171	VKontaktea
+T22	PER 1210 1224	Ališer Usmanov
+T23	PER 1228 1239	Igor Setšin

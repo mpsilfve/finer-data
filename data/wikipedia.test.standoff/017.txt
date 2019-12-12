@@ -1,0 +1,22 @@
+QuakeNet
+QuakeNet on maailman kolmanneksi suurin IRC-verkko .
+Uusin ennätyslukema tuli 8. helmikuuta 2005 , jolloin verkossa oli 243\_394 yhtäaikaista yhteyttä .
+QuakeNet oli alun perin Quaken pelaajien verkko , jonka takia siellä on nykyäänkin paljon klaanitoimintaa , mutta myös kaikenlaista muuta toimintaa .
+QuakeNet ei salli piratismia , pornoa eikä mitään muutakaan laitonta tai käyttäjiä häiritsevää toimintaa .
+Toisin kuin esimerkiksi IRCnetissä , QuakeNetissä on verkkopalveluita , jotka näkyvät IRC-botteina .
+Osa verkkopalveluista on tarkoitettu auttamaan kanavan ylläpidossa , ja sellaisen botin voi saada omalle kanavalle .
+QuakeNet hoitaa verkkokatkojen jälkeen tapahtuvan yhdistämisen arvojärjestyksen aikamerkinnöillä ( timestamp-järjestelmä eli TS ) .
+Ongelmana on vielä se , että IRC-palvelimet saattavat olla eri mieltä tilanteesta , ennen kuin yhdistäminen on mennyt kokonaan loppuun ja moodit asetettu .
+Verkkokatkon tunnistaa QuakeNetissä siitä , että kanavalta lähtee käyttäjiä syyllä " *.net *split " .
+Jotta palvelunestohyökkäyksien kiinnostavuus vähenisi , ei myöskään käyttäjien käyttämää palvelinta kerrota muille käyttäjille .
+QuakeNet on kuitenkin nykyään usein palvelunestohyökkäyksien kohteena , joten siellä esiintyy viiveitä tai verkkokatkoja aika usein .
+Kanavan hallussapito on luotettavaa , jos siellä on Q-botti ja käyttäjät pitävät omat Q-tunnuksensa salasanan omana tietonaan eivätkä anna oikeuksia ihmisille , joihin eivät luota .
+Suurehko ongelma QuakeNetissä on mainosbotit — siihen ei ole vielä kunnollista ratkaisua .
+QuakeNetissä ei ole nimimerkkipalvelua .
+Tämä tarkoittaa sitä , että nimimerkkiään ei voi rekisteröidä vaan se on kaikkien saatavilla heti sen vapauduttua .
+Mutta jos vaihdat oman nimimerkkisi QuakeNetin palvelun tai IRC-operaattorin nimimerkin kaltaiseksi , sinut poistetaan verkosta tai sinulle voidaan asettaa lyhyt pääsykielto verkkoon .
+QuakeNet tarkistaa aina verkkoon liityttäessä , onko koneella avonaisia välityspalvelimia .
+Tämä on varotoimi häirintäbotteja vastaan .
+QuakeNetiin ei pääse root-käyttäjätunnuksella , ja se rajoittaa yhdestä IP-osoitteesta tulevien yhteyksien määrän viiteen , jos käyttäjällä ei ole erikoisoikeuksia .
+Muutamien palveluntarjoajien kohdalla , joilta tulee suurin osa häiriköinnistä , on tämä rajoitus asetettu kahteen yhteyteen .
+Tämän voi ylittää hetkellisesti , mutta siitä saa helposti lyhyen pääsykiellon QuakeNetiin .

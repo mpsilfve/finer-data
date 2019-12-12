@@ -1,0 +1,17 @@
+T1	ORG 0 7	Youtube
+T2	ORG 35 42	Youtube
+T3	PRO 111 119	Twitchin
+T4	ORG 239 246	Googlen
+T5	ORG 247 254	Youtube
+T6	ORG 311 318	Youtube
+T7	ORG 412 421	Twitch.tv
+T8	ORG 505 512	Fortune
+T9	ORG 523 529	Amazon
+T10	PRO 535 543	Twitchin
+T11	ORG 574 581	Youtube
+T12	DATE 591 601	kesäkuussa
+T13	LOC 733 739	Suomen
+T14	PRO 810 817	Youtube
+T15	LOC 901 915	Yhdysvalloissa
+T16	LOC 919 931	Britanniassa
+T17	ORG 934 941	Youtube

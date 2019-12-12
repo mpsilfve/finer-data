@@ -1,0 +1,15 @@
+Hätäpuheluun hullu vastaus : " Lataa sovellus "
+Tässä tapauksessa omituinen kehotus osoittautui kuitenkin toimivaksi ratkaisuksi , ohjelmistoyhtiö Digia sanoo .
+Digian kehittämä 112 Suomi -sovellusta on ladattu noin 250\_00 kertaa ensimmäisen kolmen kuukauden aikana .
+Tiedotteessa yhtiö kertoo sovellusta käytetyn hätäilmoituksen tekoon 3500 kertaa .
+Yksi apua saanut oli metsässä eksynyt nainen , jolla sovellusta ei vielä silloin ollut .
+Hätänumerosta häntä opastettiin lataamaan 112 Suomi -sovellus , vaikka olosuhteet eivät olleet siihen otollisimmat .
+Hän kuvailee tiedotteessa , että " ehdotus kuulosti hullulta " .
+Lataus kuitenkin onnistui huonosta kentästä huolimatta , ja hänet paikannettiin yhdeksän metrin tarkkuudella .
+Laajalta etsintäoperaatiolta vältyttiin .
+Sovelluksen ilmestyessä siinä oli ilmeinen ongelma , joka toimi täsmälleen turvallisuutta vastaan .
+Sovellus nimittäin söi puhelimen akkua ainakin iPhonessa , eikä pimeästä puhelimesta ole hätätilanteessa iloa .
+Sovellusta korjattiin myöhemmin , vaikka akkukeston paraneminen ei ollut heti selvää .
+112 Suomi myös ravisteli uusiksi perinteisiä käsityksiä hätäpuhelujen soittamisesta .
+Digia teki selväksi , että sovellus pitää käynnistää ennen hätäpuhelun soittamista , jotta siitä on hyötyä .
+Joissakin tilanteissa nämä voivat olla kriittisiä ylimääräisiä sekunteja .

@@ -1,0 +1,19 @@
+T1	LOC 62 76	Yhdysvalloissa
+T2	ORG 327 342	Storedot-yhtiön
+T3	ORG 452 455	BBC
+T4	LOC 696 709	Las Vegasissa
+T5	EVENT 710 745	CES-kuluttajaelektroniikkamessuilla
+T6	PER 824 841	Doron Myersdorfin
+T7	LOC 874 888	Yhdysvalloista
+T8	LOC 891 905	Etelä-Koreasta
+T9	LOC 908 916	Kiinasta
+T10	LOC 920 929	Japanista
+T11	DATE 1132 1143	vuonna 2017
+T12	ORG 1241 1251	Storedotin
+T13	EVENT 1275 1287	CES-messujen
+T14	ORG 1770 1773	BBC
+T15	ORG 1863 1873	Storedotin
+T16	ORG 1955 1981	CCS Insight-tutkimusyhtiön
+T17	PER 1994 2002	Ben Wood
+T18	PER 2212 2216	Wood
+T19	ORG 2223 2230	BBC:lle

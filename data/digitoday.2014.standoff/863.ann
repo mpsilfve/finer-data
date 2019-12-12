@@ -1,0 +1,16 @@
+T1	ORG 0 7	Twitter
+T2	LOC 38 46	Turkissa
+T3	LOC 123 131	Turkissa
+T4	ORG 159 166	Twitter
+T5	LOC 178 186	Turkissa
+T6	LOC 323 329	Turkin
+T7	PER 344 364	Recep Tayyip Erdogan
+T8	ORG 465 471	Cnetin
+T9	LOC 531 537	Turkin
+T10	ORG 612 619	Twitter
+T11	ORG 628 646	Turkin hallituksen
+T12	PRO 720 727	Twitter
+T13	LOC 757 765	Turkissa
+T14	PRO 915 924	Twitterin
+T15	ORG 968 975	Twitter
+T100001	LOC 628 634	Turkin

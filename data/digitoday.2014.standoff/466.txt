@@ -1,0 +1,11 @@
+Verizon paljasti yli 320\_000 luovutuspyyntöä
+Yhdysvaltain suurimpiin teleoperaattoreihin kuuluva Verizon paljasti keskiviikkona saaneensa lainvalvojilta 321\_000 pyyntöä tietojen luovutuksesta pelkästään viime vuonna .
+Verizon , jonka tytäryhtiö Verizon Wireless on Yhdysvaltain suurin matkapuhelinoperaattori , liittyi siihen suurten viestintäyritysten joukkoon , joka on kertonut julkisuuteen poliisiviranomaisten vaatimien tietoluovutusten määrän .
+Tietovuotaja Edward Snowdenin paljastama massiivinen urkintaskandaalihan puhkesi julkisuuteen juuri tiedolla , jonka mukaan NSA oli kerännyt miljoonien Verizonin asiakkaiden teletiedot .
+Verizon kertoi , että sen vuonna 2013 saamista oikeuden määräyksistä yli 6\_000 oli sellaisia , jotka oikeuttivat viranomaisen saamaan reaaliaikaista tietoa asiakkaan valitsemasta numerosta tai ip-osoitteesta tai osoitteesta , josta asiakkaaseen otettiin yhteyttä .
+Lisäksi operaattori oli saanut 1\_000 – 2\_000 kansallisen turvallisuuden salaista tiedonluovutusmääräystä .
+Tiedonluovutusraportti , jossa on myös kansainvälisiä tietopyyntöjä käsittelevä osuus , on ladattavissa yhtiön läpinäkyvyyssivulta .
+Raportin tilastoissa kerrotaan , mitä tietoja lainvalvojat pyysivät ja kuinka usein mukaan lukien paikka- , sisältö- , soitto- ja tukiasematiedot .
+Siinä eritellään myös , millä perusteilla tietoluovutuksia pyydettiin .
+Vuosien 2001 ja 2004 välillä Verizon ja muut teleoperaattorit luovuttivat suuria määriä asiakkaiden tietoja valtion laitoksille ilman minkäänlaista oikeuden määräystä .
+Lokakuussa 2012 Yhdysvaltojen korkein oikeus jätti voimaan alemman oikeusasteen päätöksen , jonka mukaan nuo tietoluovutukset jälkikäteen siunannut laki oli pätevä , Ars Technica kirjoitti .

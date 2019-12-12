@@ -1,0 +1,14 @@
+T1	ORG 98 118	Filippiinien poliisi
+T2	ORG 148 168	Filippiinien poliisi
+T3	ORG 294 296	AP
+T4	ORG 309 323	Yahoo Newsissa
+T5	DATE 677 688	heinäkuussa
+T6	LOC 841 853	Yhdysvaltain
+T7	ORG 914 924	Interpolin
+T8	ORG 1078 1099	Filippiinien poliisin
+T9	ORG 1317 1325	Interpol
+T10	ORG 1328 1363	Yhdysvaltain turvallisuusministeriö
+T100001	LOC 98 110	Filippiinien
+T100002	LOC 148 160	Filippiinien
+T100003	LOC 1078 1090	Filippiinien
+T100004	LOC 1328 1340	Yhdysvaltain

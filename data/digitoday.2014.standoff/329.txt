@@ -1,0 +1,10 @@
+Asiakkaiden wlaneista nuivaillut hotelliketju sai tyrmäyksen
+Yhdysvaltain viestintäkomissio FCC varoitti tiistaina hotelleja ja muita organisaatioita estämästä henkilökohtaisen langattoman lähiverkon käyttöä .
+Se sanoi estämisen olevan laitonta ja johtavan raskaisiin sakkoihin .
+– Valvontavirasto on havainnut huolestuttavan trendin , jossa hotellit ja kaupalliset toimijat estävät kuluttajia käyttämästä omia wlan-palveluita tiloissaan , FCC sanoi verkkosivuillaan .
+FCC:n varoituksessa viitataan suoraan Marriott-hotelliketjun Tenneseen Gaylord Opryland Hotel & Convention Centerissä harjoittamaan vapaassa käytössä olevien radioyhteyksien estoon , vaikka ne eivät aiheuttaneet mitään uhkaa .
+Marriott on suostunut maksamaan 600\_000 dollarin sakot Tennesseen estoista .
+FCC varoitus tyrmää täysin Marriottin ja hotelliyhdistyksen hakeman luvan estää vieraiden omat wlan-yhteydet .
+Nykyään lähes kaikilla hotellivierailla on älypuhelin .
+Se voi toimia wlan-palvelupisteenä usealle tietokoneelle , jotka voivat sitä kautta olla yhteydessä internetiin .
+Tämä ohittaa tehokkaasti hotellien maksulliset viestiyhteydet .

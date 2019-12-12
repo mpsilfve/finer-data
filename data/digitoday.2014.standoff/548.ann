@@ -1,0 +1,21 @@
+T1	ORG 0 7	Lenovon
+T2	ORG 218 225	Lenovon
+T3	PRO 300 348	Superfish-nimisestä adware- eli mainosohjelmasta
+T4	PRO 437 450	Superfishistä
+T5	DATE 471 481	kesäkuussa
+T6	PRO 505 531	Windows-käyttöjärjestelmää
+T7	ORG 753 769	Errata Securityn
+T8	PER 781 794	Robert Graham
+T9	ORG 802 813	Reutersille
+T10	ORG 821 828	Lenovon
+T11	ORG 986 993	Lenovon
+T12	PER 1116 1122	Graham
+T13	ORG 1132 1143	Reutersille
+T14	ORG 1169 1176	Lenovon
+T15	DATE 1216 1225	tammikuun
+T16	PRO 1247 1256	Superfish
+T17	LOC 1462 1476	Yhdysvalloissa
+T18	ORG 1706 1711	NSA:n
+T19	ORG 1824 1831	NSA:sta
+T20	ORG 2095 2102	Reuters
+T21	ORG 2118 2125	Lenovon

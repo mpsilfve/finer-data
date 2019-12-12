@@ -1,0 +1,8 @@
+Sydänverivuodon jälkeen : Salauskirjastossa lisää korjattavaa
+Laajasti käytetty ja Heartbleed-aukon myötä myös valtamediaan päässyt OpenSSL-kirjasto julkaisi korjaukset useaan aukkoon .
+OpenSSL-salauskirjastosta korjattiin kohtuullisen tai alhaisen uhkatason haavoittuvuuksia .
+Vaikka kriittisiä uhkia ei joukossa ollut , aukkoja on useita , yhteensä kahdeksan erilaista .
+Viestintäviraston mukaan tiettyjen haavoittuvuuksien onnistunut hyväksikäyttö mahdollistaa kohdejärjestelmän kaatamisen palvelunestolla .
+Yhden haavoittuvuuden raportointiin osallistuivat Codenomiconin Antti Karjalainen ja Tuomo Untinen .
+Ainakin Karjalainen oli mukana löytämässä myös viime kevään Heartbleed-haavoittuvuutta OpenSSL:stä .
+Heartbleed pääsi otsikoihin muuallakin kuin it-uutisissa ja oli vakava haavoittuvuus suoraan internetin sydämessä .

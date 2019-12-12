@@ -1,0 +1,20 @@
+T1	ORG 0 6	Google
+T2	ORG 69 75	Google
+T3	ORG 211 217	Google
+T4	PRO 228 257	Google Glass -älylasihankkeen
+T5	ORG 352 359	Googlen
+T6	ORG 439 446	Googlen
+T7	PRO 447 466	Titanium-mallistoon
+T8	ORG 581 597	CNN-uutiskan ava
+T9	ORG 608 614	Google
+T10	ORG 682 689	Googlen
+T11	ORG 728 735	Googlen
+T12	ORG 974 981	Googlen
+T13	LOC 1124 1138	Yhdysvalloissa
+T14	LOC 1153 1166	Kaliforniassa
+T15	LOC 1396 1403	Ohiossa
+T16	ORG 1522 1529	Googlen
+T17	ORG 1694 1701	Googlen
+T18	LOC 1777 1791	Yhdysvalloissa
+T19	ORG 1809 1845	" Stop the Cyborgs " -kansalaisliike
+T100001	ORG 228 234	Google

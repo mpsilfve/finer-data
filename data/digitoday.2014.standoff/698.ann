@@ -1,0 +1,19 @@
+T1	ORG 0 10	Symantecin
+T2	PER 52 65	Steve Bennett
+T3	ORG 192 202	Symantecin
+T4	PER 214 227	Steve Bennett
+T5	PER 286 303	Enrique Salemille
+T6	ORG 348 356	Symantec
+T7	ORG 443 462	Wall Street Journal
+T8	ORG 585 590	WSJ:n
+T9	PER 619 628	Bennettiä
+T10	ORG 777 784	WSJ:lle
+T11	PER 809 816	Bennett
+T12	ORG 892 902	Symantecin
+T13	ORG 1066 1074	Symantec
+T14	PER 1086 1101	Steve Bennettiä
+T15	DATE 1202 1206	2012
+T16	PER 1217 1224	Bennett
+T17	ORG 1306 1316	Symantecin
+T18	PER 1376 1389	Michael Brown
+T100001	LOC 443 454	Wall Street

@@ -1,0 +1,22 @@
+T1	ORG 68 75	Netflix
+T2	LOC 168 180	Yhdysvaltain
+T3	ORG 220 231	Verizonille
+T4	ORG 234 241	Netflix
+T5	ORG 346 353	Netflix
+T6	ORG 357 364	Verizon
+T7	PRO 419 428	Netflixin
+T8	ORG 524 531	Netflix
+T9	LOC 539 551	Yhdysvaltain
+T10	ORG 582 591	Comcastin
+T11	PRO 652 661	Netflixin
+T12	ORG 737 744	Verizon
+T13	ORG 750 757	Comcast
+T14	ORG 874 879	FCC:n
+T15	DATE 911 925	15. toukokuuta
+T16	ORG 928 931	FCC
+T17	ORG 987 996	Verizonin
+T18	ORG 1024 1031	Comcast
+T19	ORG 1085 1103	Time Warner Cablea
+T20	ORG 1189 1198	Netflixin
+T21	ORG 1231 1236	FCC:n
+T22	PER 1252 1265	Tom Wheelerin

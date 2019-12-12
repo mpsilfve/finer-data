@@ -1,0 +1,8 @@
+OpenSSH-ohjelmistossa haavoittuvuus — päivitä heti
+Viestintävirasto tiedottaa tärkeän nettikomponentin vuotavan .
+OpenSSH-ohjelmisto on päivittynyt versioon 7.1 .
+Uusi versio korjaa aiemmasta OpenSSH 7.0:sta löytyneen haavoittuvuuden , joka mahdollisti tietoturvakontrollin ohittamisen , tiedottaa Viestintävirasto .
+Versiossa 7.0 on voinut kirjautua pääkäyttäjän tunnuksilla salasanaa käyttäen ssh-palvelimeen , vaikka se olisi estetty asetuksissa .
+Haavoittuvuus koskee asetusta " PermitRootLogin=prohibit-password/without-password " .
+OpenSSH tulee päivittää palvelimista ja työasemista uuteen 7.1-versioon joko käyttöjärjestelmän paketinhallinnan kautta , tai OpenSSH-projektin sivustolta .
+OpenSSH:ta käytetään erityisesti palvelimien etähallintaan .

@@ -1,0 +1,22 @@
+T1	ORG 0 9	Microsoft
+T2	ORG 72 81	Microsoft
+T3	PRO 118 130	Windows XP:n
+T4	DATE 163 174	huhtikuussa
+T5	PRO 214 218	XP:n
+T6	ORG 264 273	Microsoft
+T7	PRO 329 338	Windowsin
+T8	PRO 352 356	XP:n
+T9	DATE 383 394	huhtikuussa
+T10	ORG 476 485	Microsoft
+T11	PRO 494 504	Windows XP
+T12	DATE 553 564	Huhtikuussa
+T13	PRO 606 616	Windows XP
+T14	ORG 671 685	Microsoftinkin
+T15	DATE 793 804	heinäkuulle
+T16	ORG 807 816	Microsoft
+T17	PRO 895 906	Windows 8:n
+T18	PRO 988 1002	Windows XP:lle
+T19	DATE 1016 1029	8. huhtikuuta
+T20	ORG 1076 1087	Microsoftin
+T21	ORG 1140 1145	Avast
+T22	PRO 1188 1202	Windows XP:lle

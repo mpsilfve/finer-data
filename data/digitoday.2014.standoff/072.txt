@@ -1,0 +1,16 @@
+Amazon tunkee WorkMaililla Microsoftin ja Googlen tontille
+Verkkokauppa- ja pilvipalveluyritys Amazon uskoo sähköpostin tulevaisuuteen .
+Se julkisti keskiviikkona yrityksille tarkoitetun sähköposti- ja kalenteriohjelmiston , jolla se yrittää tunkeutua enimmäkseen Microsoftin ja osittain Googlen hallitsemalle bisnessektorille .
+Amazon ei ole ainoa , joka uskoo työpaikan sähköpostin strategiseen tärkeyteen .
+Viime syksynä IBM lähti mukaan työpaikan sähköpostikisaan ja myös Dropbox tarjoaa omia email-palveluita yrityksille .
+– Asiakkaat eivät ole tyytyväisiä nykyiseen sähköpostiratkaisuunsa .
+Monien mielestä ratkaisut ovat kalliita ja monimutkaisia , Amazon Web Services -divisioonan johtaja Adam Selipsky sanoi Wall Street Journalille ( maksumuuri ) .
+Amazon perustaa oman sähköpostiratkaisunsa myynnin palvelun käytön yksinkertaisuuteen ja turvallisuuteen .
+Se ohittaa suurimman myyntiesteen , käyttäjien uudelleen koulutuksen , jättämällä Microsoftin Outlookin asiakasosuuden paikoilleen ja tarjoamalla yrityksille omaa taustaratkaisuaan .
+Workmailin taustaprosessit toimivat Amazonin pilvipalvelussa , jossa kaikki data salakirjoitetaan .
+Yritykset hallitsevat itse salausavaimia .
+Amazon uskoo tämän vetoavan erityisesti viranomaisvalvonnassa oleviin aloihin ja yksityisyydestä tarkkoihin eurooppalaisiin yrityksiin .
+Amazon lupaa myös tallentaa tiedot vain sovituille maantieteellisille alueille .
+Amazonin palvelu maksaa saman verran kuin Googlen Apps for Work ja Microsoftin Office 365 eli neljä euroa sähköpostilaatikolta kuukaudessa .
+Amazon voi tehdä WorkMaililla miljardi dollaria liikevaihtoa vuodessa , arvioi Baird Equity Researchin analyytikko Colin Sebastian .
+Hänen mukaansa Googlen vastaava liikevaihto on miljardin ja on realistista uskoa Amazonin pystyvän samaan .

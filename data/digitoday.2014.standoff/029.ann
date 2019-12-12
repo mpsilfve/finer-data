@@ -1,0 +1,24 @@
+T1	ORG 0 18	Verkkokauppa.comin
+T2	ORG 69 85	Verkkokauppa.com
+T3	ORG 146 166	Verkkokauppa.com Oyj
+T4	DATE 239 251	maaliskuussa
+T5	LOC 311 322	Tallinnasta
+T6	ORG 389 409	Verkkokauppa.com Oyj
+T7	ORG 412 423	Arctecho OÜ
+T8	ORG 427 433	Teosto
+T9	ORG 436 442	Teosto
+T10	ORG 449 467	Verkkokauppa.comia
+T11	LOC 491 502	Tallinnasta
+T12	ORG 529 542	Arctecho OÜ:n
+T13	DATE 580 593	vuodesta 2006
+T14	ORG 614 632	Verkkokauppa.comin
+T15	ORG 778 798	Verkkokauppa.com Oyj
+T16	LOC 976 984	Suomessa
+T17	ORG 1015 1033	Verkkokauppa.comin
+T18	PER 1050 1064	Samuli Seppälä
+T19	ORG 1090 1106	Verkkokauppa.com
+T20	ORG 1114 1123	Arctechon
+T21	PER 1167 1181	Samuli Seppälä
+T22	PER 1216 1223	Seppälä
+T23	DATE 1278 1290	maaliskuussa
+T24	ORG 1291 1309	Verkkokauppa.comin

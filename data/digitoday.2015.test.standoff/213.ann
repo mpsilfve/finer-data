@@ -1,0 +1,23 @@
+T1	LOC 0 11	Yhdysvallat
+T2	LOC 54 59	Kiina
+T3	LOC 82 87	Kiina
+T4	ORG 133 148	Washington Post
+T5	LOC 162 173	Yhdysvallat
+T6	LOC 177 182	Kiina
+T7	DATE 191 201	syyskuussa
+T8	ORG 354 375	The Washington Postin
+T9	LOC 383 388	Kiina
+T10	PER 453 465	Xi Jinpingin
+T11	LOC 482 496	Yhdysvaltoihin
+T12	LOC 499 504	Kiina
+T13	LOC 549 561	Yhdysvaltain
+T14	LOC 574 585	Yhdysvallat
+T15	LOC 597 603	Kiinaa
+T16	LOC 728 740	Yhdysvaltain
+T17	ORG 877 898	The Washington Postin
+T18	LOC 906 918	Yhdysvaltain
+T19	LOC 963 968	Kiina
+T20	LOC 998 1004	Kiinaa
+T100001	LOC 133 143	Washington
+T100002	LOC 358 368	Washington
+T100003	LOC 881 891	Washington

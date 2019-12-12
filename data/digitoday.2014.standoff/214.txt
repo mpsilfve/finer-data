@@ -1,0 +1,10 @@
+Pc:n tai Macin tietoihin pääsee nyt käsiksi iPhonella
+Etähallinnan mahdollistava Remote Desktop -sovellus on tarjolla nyt myös Applen mobiililaitteille .
+Google on julkaissut iOS-version Remote Desktop -sovelluksesta .
+Yhtiö kertoo asiasta Google+:ssa .
+Kyseessä on etähallintaohjelmisto , joka mahdollistaa tietokoneen etähallinnan mobiililaitteelta .
+Tätä varten tietokoneeseen on asennettava erillinen Chrome Remote Desktop -ohjelmisto .
+Itse kirjautuminen tapahtuu käyttäjän määrittelemällä pin-koodilla .
+Remote Desktop päästää etäkäyttäjän käsiksi tietokoneen tietoihin ja sovelluksiin .
+Se mahdollistaa myös toisen henkilön päästämisen etänä tietokoneen työpöydälle esimerkiksi yhteistä ongelmanratkaisua varten .
+Remote Desktopista on ollut jo aikaisemmin olemassa versio Android-laitteille .

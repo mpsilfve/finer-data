@@ -1,0 +1,34 @@
+T1	PER 0 8	Hyppönen
+T2	EVENT 34 47	TrustyConissa
+T3	EVENT 80 96	RSA-konferenssin
+T4	EVENT 160 167	EFF:lle
+T5	ORG 170 179	F-Securen
+T6	PER 196 210	Mikko Hyppönen
+T7	EVENT 217 234	RSA-konferenssiin
+T8	EVENT 257 270	TrustyConissa
+T9	ORG 280 289	Softpedia
+T10	PER 292 300	Hyppönen
+T11	PRO 316 327	Twitterissä
+T12	PER 361 369	Hyppönen
+T13	ORG 407 412	RSA:n
+T14	ORG 451 454	RSA
+T15	ORG 501 508	NSA:lle
+T16	PER 515 523	Hyppönen
+T17	PRO 530 612	Governments as malware authors ( Hallitukset haittaohjelmien tekijöinä ) -puheensa
+T18	DATE 613 618	27.2.
+T19	LOC 619 635	San Franciscossa
+T20	EVENT 649 662	TrystyConissa
+T21	EVENT 698 713	RSA Conferencen
+T22	EVENT 723 732	TrustyCon
+T23	ORG 756 761	RSA:n
+T24	ORG 765 770	NSA:n
+T25	ORG 883 886	EFF
+T26	ORG 889 919	Electronic Frontier Foundation
+T27	PER 937 945	Hyppösen
+T28	ORG 978 983	EFF:n
+T29	PER 1001 1015	Marcia Hofmann
+T30	PER 1051 1071	Christopher Soghoian
+T31	ORG 1074 1081	Googlen
+T32	PER 1082 1094	Chris Palmer
+T33	ORG 1100 1109	Def Conin
+T34	PER 1120 1129	Jeff Moss

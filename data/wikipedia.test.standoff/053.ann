@@ -1,0 +1,35 @@
+T1	PER 0 16	Sonja Hämäläinen
+T2	PER 17 44	Sonja ” Soikku ” Hämäläinen
+T3	DATE 50 69	21. toukokuuta 1991
+T4	PER 343 353	Hämäläisen
+T5	PER 478 488	Hämäläinen
+T6	DATE 538 553	Syyskuussa 2014
+T7	PER 554 560	Soikun
+T8	PER 597 607	Hämäläinen
+T9	PRO 694 702	YouTuben
+T10	DATE 714 725	vuonna 2005
+T11	DATE 826 837	Vuonna 2011
+T12	PER 838 848	Hämäläinen
+T13	PRO 866 885	" i can match you "
+T14	DATE 889 900	vuonna 2012
+T15	DATE 1008 1022	Elokuussa 2013
+T16	DATE 1061 1072	toukokuussa
+T17	DATE 1139 1155	Toukokuussa 2013
+T18	ORG 1180 1201	" Helsingin Sanomat "
+T19	PER 1209 1219	Hämäläistä
+T20	LOC 1220 1226	Suomen
+T21	PER 1262 1272	Hämäläinen
+T22	DATE 1301 1312	Vuonna 2013
+T23	ORG 1337 1346	Yle TV1:n
+T24	PRO 1347 1374	Itsenäisyyspäivän jatkoilla
+T25	DATE 1437 1441	2014
+T26	PER 1442 1452	Hämäläinen
+T27	PRO 1470 1506	" Tanssii tähtien kanssa " -ohjelman
+T28	PER 1549 1564	Jurijs Trosenko
+T29	PER 1586 1605	Abigail Callaghanin
+T30	PRO 1624 1638	" Big Hero 6 "
+T31	DATE 1650 1654	2016
+T32	PER 1655 1665	Hämäläinen
+T33	PRO 1675 1699	Lakon ja Herban BOKSISSA
+T100001	PER 1675 1680	Lakon
+T100002	PER 1684 1690	Herban

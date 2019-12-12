@@ -1,0 +1,17 @@
+Poistitko Flashin ?
+Jos et , tee tämä
+Adobe julkaisi hätäkorjauksen Flash Playeriin .
+Nyt käyttäjien on syytä tarkistaa , että se on asentunut tietokoneelle .
+Hyvin laajasti käytetyssä Flash Playerissa oli haavoittuvuus , jota ehdittiin käyttää hyökkäyksissä ennen korjauksen saapumista .
+Nyt sellainen on kuitenkin jaossa , Viestintävirasto kertoo , ja asetuksista riippuen paikkaus voi olla jo asentunut .
+Lainataksemme vinkkiä äskettäisestä uutisesta koskien edellistä Flash-aukkoa , Windows-tietokoneen tilanteen voi tarkistaa näin :
+Version voi tarkistaa Windows 7:ssä valitsemalla Aloitus > Ohjauspaneeli > Flash Player > Lisäasetukset-välilehti .
+Versionumero kerrotaan näkymän Päivitykset-osiossa .
+Windows 8.1:ssä Flashin voi käynnistää esimerkiksi klikkaamalla aloitusnappia hiiren oikealla painikkeella , valitsemalla Etsi ja kirjoittamalla hakukenttään " flash " .
+Sen pitäisi tuottaa Flashin kuvake , jota klikkaamalla ohjelma käynnistyy .
+Adobe antaa myös lisää ohjeita .
+Jos ruudulle ilmestyy viesti Flash Playerin vanhentumisesta tai uuden version saatavuudesta , oman tilanteensa voi selvittää vierailemalla Flash Player Help -sivulla .
+Siellä voi klikata " Check Now " -nappia , mikä tarjoaa tiedot oman Flash Player -asennuksen tilanteesta .
+Tosin jostain syystä tuon napin painaminen ei ilmeisesti aina toimi kunnolla .
+Voi käydä niin , että onnitteluteksti Flashin ajantasaisuudesta jää näkymättä , vaikka viimeisin päivitys olisi asennettu .
+Viestintävirasto kehottaa harkitsemaan vakavasti koko Flash Playerin poistamista koneelta .

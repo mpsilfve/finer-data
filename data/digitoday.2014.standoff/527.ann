@@ -1,0 +1,14 @@
+T1	ORG 54 73	Target-kauppaketjun
+T2	PER 164 175	Brian Krebs
+T3	ORG 270 278	Targetin
+T4	PER 354 367	Brian Krebsin
+T5	ORG 448 456	Targetin
+T6	PER 490 499	Krebsillä
+T7	PER 562 569	Krebsin
+T8	ORG 623 632	Targetiin
+T9	PER 929 938	Krebsille
+T10	ORG 991 999	Symantec
+T11	PRO 1015 1025	" Reedum "
+T12	DATE 1143 1158	27. marraskuuta
+T13	ORG 1179 1195	Virustotal.comin
+T14	PRO 1365 1375	BlackPOSin

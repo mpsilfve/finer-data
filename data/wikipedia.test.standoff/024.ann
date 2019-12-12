@@ -1,0 +1,76 @@
+T1	LOC 0 7	Kaarila
+T2	LOC 8 15	Kaarila
+T3	LOC 26 37	" Kaarela "
+T4	LOC 43 52	Tampereen
+T5	LOC 106 115	Tampereen
+T6	LOC 130 137	Kaarila
+T7	LOC 160 167	Epilään
+T8	LOC 177 184	Hyhkyyn
+T9	LOC 196 207	Pyhäjärveen
+T10	LOC 220 228	Raholaan
+T11	ORG 254 282	Tampereen Kaupunkiliikenteen
+T12	LOC 299 307	Kaarilan
+T13	LOC 311 317	Epilän
+T14	LOC 342 368	Vaakkolammi -niminen järvi
+T15	LOC 402 410	Kaarilan
+T16	LOC 440 449	Pirkkalan
+T17	DATE 458 469	vuoden 1510
+T18	LOC 496 507	Kankaantaan
+T19	LOC 511 517	Viikin
+T20	PER 552 574	" Hinzze Karletainen "
+T21	LOC 602 610	Kaarilan
+T22	LOC 653 665	" Kaarlela "
+T23	LOC 681 689	Kaarilan
+T24	LOC 734 746	" Karlberg "
+T25	LOC 823 829	Suomen
+T26	DATE 851 868	Vuosina 1728–1800
+T27	LOC 869 877	Kaarilan
+T28	PER 890 896	Gaddin
+T29	ORG 952 967	Turun akatemian
+T30	PER 986 1002	Pehr Adrian Gadd
+T31	PER 1005 1015	Gadd-suvun
+T32	LOC 1029 1036	Raholan
+T33	LOC 1076 1085	Tampereen
+T34	LOC 1110 1123	Kaarilan tila
+T35	DATE 1134 1145	vuoden 1540
+T36	LOC 1184 1196	" Kaarlela "
+T37	DATE 1199 1210	Vuonna 1838
+T38	LOC 1211 1219	Kaarilan
+T39	PER 1233 1244	Thunebergin
+T40	DATE 1306 1317	vuonna 1963
+T41	ORG 1318 1336	Tampereen kaupunki
+T42	PER 1413 1435	Thuneberg-Tuurna-suvun
+T43	LOC 1456 1464	Viipurin
+T44	PER 1492 1503	Arno Tuurna
+T45	LOC 1506 1514	Kaarilan
+T46	LOC 1539 1548	Tampereen
+T47	LOC 1586 1603	Pohjois-Pirkkalan
+T48	LOC 1613 1622	Tampereen
+T49	DATE 1634 1645	vuoden 1937
+T50	LOC 1655 1663	Kaarilan
+T51	LOC 1666 1672	Hyhkyn
+T52	LOC 1676 1682	Epilän
+T53	DATE 1732 1743	vuonna 1953
+T54	LOC 1747 1756	Kaarilaan
+T55	LOC 1811 1819	Kaarilan
+T56	LOC 1880 1897	Kaarilan kartanon
+T57	LOC 1915 1926	Hedelmäkatu
+T58	LOC 1929 1940	Köynnöskatu
+T59	LOC 1943 1953	Pensaskatu
+T60	LOC 2044 2059	" Simolankatu "
+T61	LOC 2129 2150	Vaakkola-niminen talo
+T62	LOC 2171 2189	Kaarilan kartanoon
+T63	LOC 2192 2203	Vaakkolammi
+T64	DATE 2238 2249	vuonna 1767
+T65	LOC 2258 2273	" Waackojerwi "
+T66	LOC 2276 2288	Vaakkolammin
+T67	LOC 2313 2325	Liittokallio
+T68	LOC 2358 2370	Sopimusvuori
+T69	LOC 2374 2382	Likomäki
+T70	LOC 2391 2403	Liittokallio
+T71	LOC 2407 2419	Sopimusvuori
+T72	LOC 2472 2480	Likomäki
+T73	LOC 2515 2529	Vaakkolammissa
+T100001	LOC 254 263	Tampereen
+T100002	LOC 952 957	Turun
+T100003	LOC 1318 1327	Tampereen

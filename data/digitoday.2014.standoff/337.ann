@@ -1,0 +1,34 @@
+T1	PRO 0 19	Samsung Galaxy S6:n
+T2	ORG 68 75	Samsung
+T3	PRO 92 121	Galaxy S6 -lippulaivamallinsa
+T4	DATE 122 132	maaliskuun
+T5	PRO 166 184	Galaxy S -sarjalle
+T6	ORG 221 228	Samsung
+T7	PRO 255 280	Galaxy S6 -huippumallinsa
+T8	DATE 297 309	maaliskuussa
+T9	ORG 333 342	Bloomberg
+T10	EVENT 421 456	Mobile World Congress -tapahtumassa
+T11	DATE 477 487	maaliskuun
+T12	LOC 495 507	Barcelonassa
+T13	ORG 532 539	Samsung
+T14	ORG 576 586	Qualcommin
+T15	PRO 595 622	Snapdragon 810 -prosessoria
+T16	ORG 664 671	Samsung
+T17	PRO 755 758	BGR
+T18	PRO 771 791	Galaxy S6 -puhelimen
+T19	PRO 904 932	Quad HD Super Amoled -näyttö
+T20	ORG 1189 1196	Samsung
+T21	PRO 1205 1221	Galaxy S -sarjan
+T22	PRO 1262 1285	Galaxy Alpha -puhelimen
+T23	PRO 1297 1323	Samsung Galaxy S6 -puhelin
+T24	PRO 1327 1332	BGR:n
+T25	ORG 1367 1374	Samsung
+T26	PRO 1378 1383	BGR:n
+T27	PRO 1430 1446	Galaxy S -sarjan
+T28	PRO 1482 1491	Galaxy S6
+T29	PRO 1525 1541	Galaxy S5 -malli
+T30	ORG 1568 1575	Samsung
+T31	PRO 1591 1613	Galaxy S6 -puhelimessa
+T32	PRO 1662 1673	S5-mallista
+T100001	ORG 0 7	Samsung
+T100002	ORG 1297 1304	Samsung

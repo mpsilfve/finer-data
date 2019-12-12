@@ -1,0 +1,23 @@
+T1	ORG 11 16	Apple
+T2	PRO 36 50	Pro-tabletilla
+T3	ORG 53 58	Apple
+T4	ORG 131 138	9to5Mac
+T5	ORG 149 158	9to5Macin
+T6	DATE 192 204	9. syyskuuta
+T7	ORG 205 210	Apple
+T8	PRO 234 241	iPhonet
+T9	PRO 279 297	iPad Pro -tabletin
+T10	PRO 317 327	iPad minin
+T11	PRO 368 376	iPad Pro
+T12	ORG 422 427	Apple
+T13	PRO 542 552	iWatchista
+T14	PRO 574 587	Apple Watchin
+T15	ORG 597 603	Applen
+T16	PRO 630 638	IPad Pro
+T17	DATE 659 671	marraskuussa
+T18	DATE 703 711	lokakuun
+T19	ORG 722 729	9to5Mac
+T20	ORG 789 794	Apple
+T21	PRO 805 814	iPad Pron
+T22	PRO 862 874	IPad Airista
+T100001	ORG 574 579	Apple

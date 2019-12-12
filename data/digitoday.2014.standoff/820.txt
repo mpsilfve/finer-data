@@ -1,0 +1,13 @@
+Älä kuvaa uutta Raspberryä salamalla
+Tällä tavalla laitteen voi saada kaatumaan , video todistaa .
+Raspberry Pi 2 järisytti ilmestymisellään markkinoita .
+Erittäin pieneen tilaan ahdettu kokonainen tietokone on hankintahinnaltaan erittäin edullinen – ja siksi aina loppuunmyyty .
+Uusi mallisarja on huomattavasti edeltäjäänsä tehokkaampi , minkä lisäksi myös Microsoft on kiinnostunut siitä .
+Microsoftilta luvataankin uudelle Raspberry Pi 2 -minitietokoneelle ilmainen Windows 10 IoT -lisenssi ( Internet of Things ) , mikä on ilahduttanut suuresti Raspberry Pi -säätiön toimitusjohtajaa .
+Ikävä kyllä uutuuslaitteesta on löytynyt myös melko kiusallinen vika .
+Xenon-salamavalon käyttö saa laitteen jäätymään ja käynnistymään uudelleen .
+Ensimmäinen vian huomannut käyttäjä luonnehtikin Raspberry Pi 2:ta " kameraujoksi " .
+Vaikka tietokonepiirin herkkyys salamavalolle ei olekaan ennenkuulumatonta , ovat valmistajat yleensä valmistautuneet tähän suojaamalla piirin ulkoisilta valonlähteiltä .
+Raspberry Pi 2:n vika saattaa aiheuttaa vahinkoa tuotteen muuten hyvälle maineelle ja se toivottavasti korjataan seuraavan parannussarjan yhteydessä .
+Raspberry Pi 2:n salamavalokammosta on julkaistu myös videoita , jotka voi tarkistaa alta .
+Asiasta kertoi muun muassa Neowin .

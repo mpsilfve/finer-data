@@ -1,0 +1,30 @@
+T1	ORG 0 4	Nasa
+T2	LOC 25 33	Venäjään
+T3	ORG 54 58	Nasa
+T4	LOC 92 100	Venäjään
+T5	ORG 103 112	The Verge
+T6	LOC 135 141	Venäjä
+T7	ORG 192 197	Nasan
+T8	PER 206 220	Charles Bolden
+T9	ORG 347 356	The Verge
+T10	ORG 397 402	Nasan
+T11	LOC 484 492	Venäjään
+T12	EVENT 493 507	Krimin kriisin
+T13	LOC 538 547	Venäjälle
+T14	LOC 570 577	Venäjän
+T15	ORG 609 614	Nasan
+T16	PRO 709 739	Kansainväliseen avaruusasemaan
+T17	ORG 858 863	Nasan
+T18	LOC 901 908	Venäjän
+T19	ORG 1009 1013	Nasa
+T20	ORG 1069 1079	The Vergen
+T21	LOC 1162 1168	Venäjä
+T22	ORG 1169 1174	Nasan
+T23	PER 1233 1243	Boldenilta
+T24	ORG 1254 1277	Yhdysvaltain kongressin
+T25	LOC 1302 1308	Venäjä
+T26	PER 1380 1386	Bolden
+T27	ORG 1436 1441	Nasan
+T28	LOC 1516 1530	Yhdysvalloilla
+T100001	LOC 493 499	Krimin
+T100002	LOC 1254 1266	Yhdysvaltain

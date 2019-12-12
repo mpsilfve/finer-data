@@ -1,0 +1,35 @@
+T1	ORG 20 26	Google
+T2	ORG 56 63	Googlen
+T3	ORG 196 204	Sprintin
+T4	ORG 208 222	T-Mobile USA:n
+T5	ORG 263 280	The Informationin
+T6	ORG 370 376	Google
+T7	LOC 400 412	Yhdysvaltain
+T8	ORG 455 463	Sprintin
+T9	ORG 489 498	T-Mobilen
+T10	ORG 537 543	Google
+T11	PRO 640 662	Google Fiber -verkosto
+T12	LOC 702 716	Yhdysvalloissa
+T13	ORG 953 959	Google
+T14	ORG 1221 1228	Googlen
+T15	ORG 1310 1319	Googlella
+T16	ORG 1408 1415	Googlen
+T17	PRO 1500 1516	Nexus-puhelinten
+T18	PRO 1581 1610	Google Play -sovelluskaupassa
+T19	ORG 1613 1626	Ars Technican
+T20	ORG 1634 1641	Googlen
+T21	DATE 1713 1724	huhtikuussa
+T22	ORG 1753 1759	Google
+T23	ORG 1779 1787	Sprintin
+T24	ORG 1791 1800	Verizonin
+T25	ORG 1832 1854	Wall Street Journaliin
+T26	ORG 1917 1925	Sprintin
+T27	ORG 1943 1953	SoftBankin
+T28	ORG 2113 2130	The Informationin
+T29	PRO 2173 2177	Nova
+T30	PRO 2239 2244	Novaa
+T31	PER 2252 2260	Nick Fox
+T100001	LOC 217 222	USA:n
+T100002	ORG 640 646	Google
+T100003	ORG 1581 1587	Google
+T100004	LOC 1832 1843	Wall Street

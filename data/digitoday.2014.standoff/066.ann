@@ -1,0 +1,17 @@
+T1	ORG 0 5	Yahoo
+T2	PRO 15 26	Firefoxilla
+T3	ORG 34 41	Googlen
+T4	ORG 104 110	Google
+T5	ORG 159 167	Yahoolle
+T6	PRO 203 212	Firefoxin
+T7	ORG 232 239	Googlen
+T8	LOC 246 258	Yhdysvaltain
+T9	DATE 282 293	tammikuussa
+T10	ORG 422 427	Yahoo
+T11	DATE 460 470	marraskuun
+T12	ORG 506 534	San Francisco Business Times
+T13	ORG 544 557	StatCounterin
+T14	ORG 575 580	Yahoo
+T15	ORG 608 614	Applen
+T16	PRO 615 622	Safarin
+T100001	LOC 506 519	San Francisco

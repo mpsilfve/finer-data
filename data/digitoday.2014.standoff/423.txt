@@ -1,0 +1,12 @@
+DeepFace tunnistaa kasvot lähes yhtä hyvin kuin ihminen
+Facebookin kasvojentunnistustekniikka pieksee aiemmin nähdyt menetelmät tarkkuudessa .
+MIT Technology Review kertoo Facebookin uudesta DeepFace-tekniikasta , jolla tunnistetaan kasvoja kuvista .
+DeepFace on huomattava parannus aiempiin vastaaviin tekniikoihin .
+Sen suorituskyky lähestyy ihmisen kykyä erottaa kasvot toisistaan .
+DeepFace tunnistaa kasvot 3d-mallinnuksen avulla .
+Se muuttaa valokuvan kasvoista 3d-malliksi ja kääntää kasvot suoraan kameraan päin .
+Tällä tekniikalla samat kasvot tunnistetaan kahdesta eri kuvasta oikein peräti 97,25 prosentin todennäköisyydellä .
+Ihminen taas tunnistaa kahdessa eri kuvassa olevat kasvot samoiksi 97,53 prosentin tarkkuudella .
+Toistaiseksi tekniikka on tutkimusasteella , eikä sitä vielä varsinaisesti käytetä mihinkään .
+Se on kuitenkin valtava askel eteenpäin kasvojentunnistuksessa .
+DeepFacea kehittäneen tutkimusryhmän jäsen Yaniv Taigman kertoo uuden tekniikan parantavan kasvojentunnistuksen tarkkuutta jopa neljänneksellä aiempiin menetelmiin nähden .

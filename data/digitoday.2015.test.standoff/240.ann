@@ -1,0 +1,24 @@
+T1	ORG 0 6	Applen
+T2	LOC 18 26	Kiinassa
+T3	ORG 46 51	Apple
+T4	LOC 138 146	Kiinassa
+T5	ORG 188 202	New York Times
+T6	ORG 230 236	Applen
+T7	PRO 237 250	News-sovellus
+T8	LOC 273 287	Yhdysvalloissa
+T9	LOC 309 321	Britanniassa
+T10	LOC 325 337	Australiassa
+T11	LOC 346 354	Kiinassa
+T12	LOC 371 385	Yhdysvalloissa
+T13	LOC 460 468	Kiinassa
+T14	ORG 679 692	Kiinan valtio
+T15	LOC 771 779	Kiinassa
+T16	ORG 939 944	Apple
+T17	ORG 997 1013	New York Timesin
+T18	ORG 1021 1027	Applen
+T19	LOC 1109 1115	Kiinan
+T20	ORG 1131 1136	Apple
+T21	ORG 1218 1223	Apple
+T100001	LOC 188 196	New York
+T100002	LOC 679 685	Kiinan
+T100003	LOC 997 1005	New York

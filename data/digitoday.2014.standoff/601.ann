@@ -1,0 +1,17 @@
+T1	ORG 67 74	Googlen
+T2	ORG 200 207	Googlen
+T3	ORG 267 277	Secunialla
+T4	PER 293 311	Kasper Lindgaardin
+T5	PER 327 338	Lindgaardin
+T6	ORG 346 359	Microsoftille
+T7	PRO 406 439	Windows 8.1 -käyttöjärjestelmästä
+T8	ORG 528 535	Googlen
+T9	ORG 600 611	Microsoftin
+T10	DATE 629 639	syyskuussa
+T11	PER 642 653	Lindgaardin
+T12	ORG 722 735	Microsoftille
+T13	ORG 787 798	Microsoftin
+T14	PER 1051 1060	Lindgaard
+T15	ORG 1074 1083	Microsoft
+T16	DATE 1194 1203	tammikuun
+T17	ORG 1266 1275	Softpedia

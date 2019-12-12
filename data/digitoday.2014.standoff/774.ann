@@ -1,0 +1,31 @@
+T1	ORG 0 16	Venäjän hallitus
+T2	PRO 25 32	iPadien
+T3	ORG 40 59	Venäjän hallituksen
+T4	ORG 84 90	Applen
+T5	PRO 91 100	iPadeista
+T6	ORG 101 110	Samsungin
+T7	LOC 145 158	Yhdysvaltojen
+T8	LOC 162 169	Venäjän
+T9	ORG 233 252	Venäjän hallituksen
+T10	PRO 277 285	iPadinsa
+T11	ORG 286 295	Samsungin
+T12	ORG 332 341	Itar-Tass
+T13	ORG 388 394	Applen
+T14	PRO 395 402	iPadeja
+T15	PER 581 598	Nikolai Nikiforov
+T16	ORG 636 645	Samsungin
+T17	LOC 817 823	Krimin
+T18	LOC 841 854	Yhdysvaltojen
+T19	LOC 858 865	Venäjän
+T20	ORG 907 914	Samsung
+T21	PRO 937 963	Android-käyttöjärjestelmää
+T22	ORG 1043 1055	Trend Micron
+T23	PRO 1063 1090	Andoid-käyttöjärjestelmälle
+T24	ORG 1134 1140	Applen
+T25	ORG 1196 1232	Yhdysvaltojen turvallisuusvirastolle
+T26	ORG 1233 1240	NSA:lle
+T27	ORG 1243 1248	Apple
+T100001	LOC 0 7	Venäjän
+T100002	LOC 40 47	Venäjän
+T100003	LOC 233 240	Venäjän
+T100004	LOC 1196 1209	Yhdysvaltojen

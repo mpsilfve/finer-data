@@ -1,0 +1,23 @@
+T1	ORG 0 3	NSA
+T2	LOC 62 68	Suomea
+T3	ORG 131 139	Gemalton
+T4	LOC 169 181	Yhdysvaltain
+T5	LOC 185 195	Britannian
+T6	ORG 246 259	The Intercept
+T7	ORG 262 269	Gemalto
+T8	LOC 434 446	Yhdysvaltain
+T9	ORG 499 507	Gemalton
+T10	PER 559 575	Edward Snowdenin
+T11	ORG 606 619	The Intercept
+T12	PER 660 669	Snowdenin
+T13	LOC 722 734	Yhdysvaltain
+T14	ORG 735 740	NSA:n
+T15	LOC 744 754	Britannian
+T16	ORG 755 761	GCHQ:n
+T17	ORG 829 837	Gemalton
+T18	ORG 1200 1207	Gemalto
+T19	DATE 1374 1387	vuodesta 2010
+T20	ORG 1549 1564	The Interceptin
+T21	DATE 1595 1614	27. huhtikuuta 2010
+T22	ORG 1641 1656	The Interceptin
+T23	ORG 1740 1749	ZDNetistä

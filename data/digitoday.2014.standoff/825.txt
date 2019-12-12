@@ -1,0 +1,20 @@
+Snowden : " Kaikki vakoilu ei ole pahasta "
+Vakoilulla on paikkansa , NSA-vuotaja Edward Snowden katsoi kysy ja vastaa -sessiossa .
+Mutta 120 miljoonan puhelimen massaseuranta onkin sitten toinen juttu .
+– Kaikki vakoilu ei ole pahasta , sanoi Edward Snowden torstai-iltana pidetyssä verkon kysy ja vastaa -sessiossa .
+Varsinainen ongelma on massaseuranta , missä valtiot kaappaavat miljardeittain viattomien kansalaisten viestintää päivittäin .
+– Tätä ei tehdä , koska se on tarpeellista ... vaan , koska uudet teknologiat tekevät siitä helppoa ja halpaa , Snowden kirjoitti häntä tukevalla Free Snowden -sivustolla .
+Yhdysvaltalainen ja nykyään Venäjällä asuva Edward Snowden on yrittänyt viheltää tiedusteluvirasto NSA:n suurvakoilua poikki viime kesäkuusta lukien , ja tänään hän sai runsaasti apua Yhdysvaltain kongressille raportoivan asiantuntijaraadin mielipiteistä .
+Riippumaton Privacy & Civil Liberties Oversight Board ( PCLOB ) -aivoriihi sanoi torstaina raportissaan NSA:n vakoilleen ainakin 120 miljoonaa amerikkalaista puhelinta , mutta vetäneen vesiperän kansalaisten suojelussa .
+– Emme tiedä yhtäkään tapausta , missä seurantaohjelma olisi suoraan vaikuttanut aiemmin tuntemattoman terroristijuonen paljastumiseen tai terroristihyökkäyksen estämiseen , raportissa todetaan .
+PCLOB vaatii puhelinten niin sanotun metadatan keräämisen lopettamista lain vastaisena .
+Sillä ei kuitenkaan ole muuta toimivaltaa kuin esittää suosituksia .
+Siltikin Snowden uskoo , että kongressi ei voi sivuuttaa raporttia olankohautuksella .
+Edward Snowden lohdutti myös niitä , jotka pelkäävät NSA:n pystyvän päihittämään kaiken salatun viestinnän .
+– Kuten olen aiemmin sanonut , oikein implementoitu vahva salaus toimii .
+Huolissaan pitää olla päätepisteistä .
+Jos joku pystyy varastamaan salausavaimesi , ei mikään määrä kryptografiaa suojele sinua .
+Mutta se ei tarkoita , että päästä päähän -kryptografia olisi menetetty tapaus .
+Yhdistämällä vahva päätepisteen turvallisuus kuljetuksen turvallisuuteen ihmiset voivat luottaa huomattavasti enemmän päivittäiseen viestintäänsä , Snowden arvioi .
+Kuten arvata saattoi , Free Snowden -sivusto lakkasi session aikana ajoittain toimimasta joko valtavan kiinnostuksen tai sitten tahallisen häirinnän vuoksi .
+Kenties sen vuoksi sessio on venynyt jatkoajalle ja oli vielä käynnissä uutista julkaistaessa .

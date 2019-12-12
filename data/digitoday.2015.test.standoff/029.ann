@@ -1,0 +1,22 @@
+T1	ORG 0 5	Tekes
+T2	ORG 63 70	Tekesin
+T3	LOC 86 92	Suomen
+T4	LOC 166 172	Suomen
+T5	ORG 241 248	Tekesin
+T6	PRO 263 356	10 years of Tekes funding and networks for the Finnish game industry 2004-2014 -selvityksestä
+T7	DATE 374 385	Vuonna 2004
+T8	LOC 386 392	Suomen
+T9	LOC 494 502	Suomessa
+T10	DATE 554 565	Vuonna 2013
+T11	LOC 597 603	Suomen
+T12	ORG 629 634	Tekes
+T13	DATE 770 781	vuonna 2012
+T14	PRO 782 822	Skene – Games Refueled -nimisen ohjelman
+T15	ORG 892 899	Tekesin
+T16	PRO 998 1012	Skene-ohjelman
+T17	PER 1020 1033	Kari Korhonen
+T18	ORG 1040 1047	Tekesin
+T19	PER 1134 1142	Korhonen
+T20	PRO 1283 1302	Besti Fiends -pelin
+T100001	ORG 275 280	Tekes
+T100002	DATE 332 341	2004-2014

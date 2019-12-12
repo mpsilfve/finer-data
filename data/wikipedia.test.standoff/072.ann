@@ -1,0 +1,51 @@
+T1	PRO 0 10	Voiton tie
+T2	PRO 11 21	Voiton tie
+T3	PER 49 62	Tuure Lehénin
+T4	LOC 63 79	Neuvostoliitossa
+T5	PER 107 124	" Alfred Langer "
+T6	PER 188 194	Marxin
+T7	PER 198 205	Leninin
+T8	DATE 316 327	vuonna 1926
+T9	PRO 345 365	" Der Weg zum Sieg "
+T10	ORG 399 420	Kustannusliike Kirjan
+T11	DATE 434 445	vuonna 1928
+T12	PER 452 459	Lehénin
+T13	PRO 477 546	" Voittamisen taito : Marxin ja Leninin teoria vallan valtaamisesta "
+T14	PRO 585 621	" Marx ja aseellisen kapinan taito "
+T15	PRO 624 640	" Tie voittoon "
+T16	PRO 643 669	" Lenin ja kapinan taito "
+T17	PRO 675 715	" Historiallisia esimerkkejä kapinasta "
+T18	PER 718 723	Lehén
+T19	LOC 790 800	Zürichissä
+T20	DATE 801 812	vuonna 1931
+T21	PRO 821 880	" Der Weg zum Sieg : die Kunst des bewaffneten Aufstandes "
+T22	DATE 893 904	vuonna 1932
+T23	LOC 905 918	Leningradissa
+T24	PRO 927 941	" Voiton tie "
+T25	LOC 979 985	Saksan
+T26	LOC 1031 1039	Saksassa
+T27	PRO 1083 1097	" Put Pobedy "
+T28	PRO 1100 1116	" Voiton tietä "
+T29	LOC 1153 1164	Leningradin
+T30	ORG 1165 1209	Lännen vähemmistökansallisuuksien yliopiston
+T31	LOC 1213 1221	Moskovan
+T32	ORG 1222 1234	Lenin-koulun
+T33	LOC 1340 1348	Suomessa
+T34	DATE 1416 1427	vuonna 1976
+T35	PRO 1444 1459	" Voiton tien "
+T36	PER 1835 1850	Markku Salomaan
+T37	PER 1906 1927	Carl von Clausewitzin
+T38	PER 1947 1952	Lehén
+T39	PER 2346 2351	Lehén
+T40	PRO 2356 2371	" Voiton tien "
+T41	LOC 2381 2389	Suomessa
+T42	ORG 2483 2494	Kominternin
+T43	LOC 2567 2583	Neuvostoliitossa
+T44	PRO 2653 2668	" Voiton tien "
+T45	PER 2691 2698	Lehénin
+T46	ORG 2723 2728	SKP:n
+T47	DATE 2729 2740	vuoden 1948
+T100001	PER 499 505	Marxin
+T100002	PER 509 516	Leninin
+T100003	PER 587 591	Marx
+T100004	PER 645 650	Lenin

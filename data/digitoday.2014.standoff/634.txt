@@ -1,0 +1,15 @@
+Pankkirosvot hakkeroivat pankkiautomaatilta suuria seteleitä
+Venäläinen ja ukrainalainen pankkirosvoryhmä onnistui muuttamaan kymmenien pankkiautomaattien ohjelmia niin , että automaatti antoi 5\_000 ruplan seteleitä 10-ruplaisten asemesta .
+Tunnettu ja kertaalleen kiinni otettu hakkerijengi on onnistunut kalastelemaan tiensä 50 itäeurooppalaisen pankin järjestelmiin , KrebsonSecurity-blogi kirjoittaa hollantilaisen Foc-IT:n ja venäläisen Group-IB -tietoturvayrityksen raportin ( pdf ) pohjalta .
+Krebsin mukaan pankkiautomaattien salaryöstöt ovat kaikki tapahtuneet Yhdysvaltain ja Länsi-Euroopan ulkopuolella , mutta ne voisivat ihan hyvin tapahtua missä tahansa .
+Ainakin osa pankkiautomaattiryöstöjen takana olevasta ryhmästä oli aikaisemmin osallisena kaksi miljoonaa dollaria vieneessä Carberp-troijalaishyökkäyksessä .
+Kahdeksan miestä otettiin kiinni Moskovassa vuonna 2012 epäiltynä Carberpin tekemisestä ja käytöstä , mutta he pääsivät vapaaksi jo muutaman tunnin kuluttua .
+Anunak groupiksi nimetty ryhmä on vienyt tähän mennessä pankeilta ainakin 15 miljoonaa dollaria .
+He lähettivät pankkien henkilökunnalle Venäjän pankkiregulaattorin nimissä viestejä , jotka sisälsivät haittaohjelmia .
+Ne hyödynsivät äskettäin Microsoftin toimisto-ohjelmista paikattuja aukkoja .
+Ryhmä myös osti toisilta hakkeriryhmiltä palveluna pääsyn pankkien tietokoneille .
+Anunak onnistui pääsemään pankkijärjestelmien sisällä käsiksi erillisiin , pankkiautomaatteja hallitseviin ohjelmiin ja muuttamaan niitä .
+Ryhmä muutti 52:n pankkiautomaatin ohjelmistossa setelien osoitteita niin , että kun heidän jäsenensä nostivat sadan ruplan arvoiset 10 seteliä , he saivatkin kymmenen 5\_000 ruplan seteliä .
+Krebsin omien lähteiden mukaan saman ryhmän uskotaan olevan myös useiden amerikkalaisten luotto- ja pankkikorttivarkauksien takana .
+Niiden joukossa ovat muun muassa Bebe Stores , Sheplers ja Staples .
+Aikaisemmin eri tietolähde kertoi Krebsille , että Staplesin ja Michaelsin tietovarkauksissa käytettiin samaa haittaohjelmaa .

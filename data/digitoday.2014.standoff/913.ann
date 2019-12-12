@@ -1,0 +1,13 @@
+T1	ORG 0 7	Googlen
+T2	PRO 8 16	Kääntäjä
+T3	ORG 142 148	Google
+T4	PRO 172 191	Kääntäjä-palveluaan
+T5	ORG 228 234	Google
+T6	PRO 262 281	Kääntäjä-palveluaan
+T7	ORG 535 544	DailyTech
+T8	ORG 864 873	Googlella
+T9	PRO 1132 1150	Google Kääntäjällä
+T10	ORG 1433 1440	Googlea
+T11	LOC 1528 1535	Venäjän
+T12	DATE 1596 1607	helmikuussa
+T100001	ORG 1132 1138	Google

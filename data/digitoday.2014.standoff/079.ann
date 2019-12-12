@@ -1,0 +1,32 @@
+T1	ORG 46 67	Oculus VR - startupin
+T2	PER 125 139	John Carmackin
+T3	ORG 184 197	ZeniMax Media
+T4	PRO 227 258	Oculus Rift - virtuaalisilmikon
+T5	ORG 335 354	Wall Street Journal
+T6	ORG 419 426	ZeniMax
+T7	ORG 471 484	Oculus VR:lle
+T8	ORG 490 502	Facebookille
+T9	ORG 535 543	Oculusia
+T10	ORG 572 583	ZeniMaxilla
+T11	ORG 601 610	Oculusiin
+T12	DATE 617 626	elokuussa
+T13	PER 637 649	John Carmack
+T14	ORG 697 705	Oculusia
+T15	ORG 776 784	Oculusin
+T16	PRO 805 826	Oculus Rift -silmikko
+T17	ORG 933 939	Oculus
+T18	ORG 983 990	WSJ:lle
+T19	ORG 1097 1105	Engadget
+T20	ORG 1115 1124	ZeniMaxin
+T21	ORG 1209 1216	ZeniMax
+T22	PER 1224 1233	Carmackin
+T23	ORG 1242 1251	Oculusiin
+T24	ORG 1312 1321	ZeniMaxin
+T25	ORG 1332 1344	id Softwaren
+T26	ORG 1361 1370	ZeniMaxin
+T27	ORG 1390 1398	Oculusin
+T28	ORG 1482 1490	Engadget
+T29	ORG 1531 1541	Facebookin
+T30	PER 1542 1557	Mark Zuckerberg
+T31	ORG 1605 1615	Oculusista
+T100001	LOC 335 346	Wall Street

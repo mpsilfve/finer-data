@@ -1,0 +1,21 @@
+Minäkö pornotähtenä ?
+Säikäyttävä Facebook-huijaus kerää uhreja Suomessakin
+Pornovideolla houkutteleva ansa on lauennut lukuisia kertoja ympäri maailman , koska moni ei vieläkään mieti , mitä painaa .
+Viestintäviraston Kyberturvallisuuskeskus antaa kaikille internetin käyttäjille aina ajankohtaisen ja kullanarvoisen ohjeen : Älä klikkaa tuntemattomia verkkolinkkejä .
+Syynä on uusi Facebook-huijaus , joka sinänsä on hyvin samanlainen kuin lukuisat aiemmat .
+Tammikuun lopulla käynnistynyt huijauskampanja väittää vastaanottajan esiintyvän pornovideolla .
+Video kuitenkin johdattaa haitalliselle verkkosivulle , joka syöttää käyttäjälle " Flash-ohjelman päivitystä " .
+Päivitys on oikeasti haittaohjelma , joka levittää huijausta eteenpäin ja asentaa uhrin koneelle keylogger-vakoojaohjelman .
+Se osaa lukea näppäinpainalluksia vaikkapa salasanojen varastamiseksi .
+Huijaukseen on langennut ainakin 110\_000 ihmistä ympäri maailman .
+Suomessakin on tartuntoja , Kyberturvallisuuskeskus tietää .
+– Haittaohjelmatartunta perustuu siihen , että käyttäjä uskoo verkkorikollisten Facebook-palveluun syöttämät valheet siitä , että on olemassa aikuisviihdevideo , jolla hän tai hänen kaverinsa esiintyy , ja että videon katsominen edellyttää ohjelman asentamista .
+Useimmat ajantasalle päivitetyt haittaohjelmien torjuntaohjelmat tunnistavat tarjotun ohjelman haitalliseksi ja ainakin varoittavat käyttäjää , mutta se on vasta puolustuksen toinen linja , keskus korostaa .
+Huijaus on näkynyt Suomessa ilmeisesti esimerkiksi kansanedustaja Mauri Pekkarisen ( kesk ) Facebook-sivulla .
+Muun muassa Ilta-Sanomat kertoi hänen Facebook-seinälleen ilmestyneen useampia linkkejä haitalliseen videoon .
+Helsingin Sanomien mukaan linkkejä on löytynyt myös puolustusministeri Carl Haglundin ( r ) ja ulkoministeri Erkki Tuomiojan ( sd ) Facebook-sivuilla .
+Tämä ei siis tarkoita , että Pekkarinen tai ministerit olisivat langenneet huijaukseen , vaan joku heidän Facebook-ystävistään on saattanut klikata linkkiä .
+Kun yksi käyttäjä saastuu , videoklippi jaetaan eteenpäin merkitsemällä eli tagaamalla siihen jopa 20 uhrin Facebook-ystävää .
+Huijauksesta kertoi alun perin tietoturvatutkija Mohammad Faghani .
+On mahdollista , että Facebook on saamassa tämän nimenomaisen huijauksen pian taltutettua .
+Mutta on selvää , että uusia tulee niin kauan kuin ihmiset jatkavat niiden uskomista .

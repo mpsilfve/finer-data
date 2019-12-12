@@ -1,0 +1,11 @@
+Ihmiset voittanut Watson vahvistuu miljardilla dollarilla
+Watson saa tuntuvan tujauksen IBM:n perustaessa sen ympärille uuden liiketoimintayksikön , Wall Street Journal kertoo .
+IBM sijoittaa yli miljardi dollaria Watson-supertietokoneeseensa , yhtiö kertoi Wall Street Journalin mukaan .
+Rahasummalla rakennetaan uusi liiketoimintayksikkö , joka työllistää yli 2000 henkeä .
+Nykyisin tietokoneen parissa työskentelee satoja ihmisiä .
+Useat palkattavista ovat kuitenkin muita kuin insinöörejä , kuten myyntiväkeä ja konsultteja , joiden tehtävänä on keksiä IBM:n asiakkaille uusia tapoja hyödyntää luonnollista kieltä ymmärtävää Watsonia .
+Watson tuli kuuluisaksi kolme vuotta sitten , kun se voitti ihmiset Yhdysvalloissa suositussa Jeopardy-tietovisassa .
+Sen jälkeen IBM on pyrkinyt viemään Watsonia muun muassa terveydenhuoltoon ja on pedannut sille paikkaa myös asiakaspalvelutehtävissä .
+Mutta WSJ:n mukaan IBM:llä on ollut vaikeuksia muuttaa Watson skaalautuvaksi ohjelmistomallistoksi , ja Watsonin liikevaihto on jäänyt kauas IBM:n tavoitteista .
+Nyt liiketoimintaa kuitenkin laajennetaan entistä nopeammin , IBM vakuutti lehdelle .
+Osana miljardia dollaria IBM käynnistää sadan miljoonan dollarin riskisijoitusrahaston synnyttääkseen lisää Watsonin teknologiaa hyödyntäviä sovelluksia .

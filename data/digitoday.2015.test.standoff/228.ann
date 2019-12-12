@@ -1,0 +1,10 @@
+T1	ORG 0 12	Volkswagenin
+T2	ORG 71 83	Volkswagenin
+T3	ORG 145 155	Volkswagen
+T4	DATE 213 224	vuoden 2016
+T5	PER 280 295	Matthias Müller
+T6	ORG 311 344	Frankfurter Allegemeine Zeitungin
+T7	DATE 402 413	tammikuussa
+T8	ORG 432 473	Saksan liittovaltion liikenneviranomainen
+T9	PER 530 538	Müllerin
+T100001	LOC 432 438	Saksan

@@ -1,0 +1,14 @@
+Ahdistelusta syytetty GitHubin perustaja lähti
+Työpaikkakiusaamisesta syytetty GitHub ei löytänyt todisteita laittomuuksista , mutta yksi perustajista irtisanoutui silti .
+Kohun synnyttänyt ex-työntekijä on edelleen käärmeissään .
+Softaprojektien isännöijä GitHub on tutkituttanut rankat syytökset työpaikkakiusaamisesta ulkopuolisella taholla , ja perustaja/pääjohtaja Chris Wanstrath julkisti tulokset blogissa .
+Laittomuuksia ei löytynyt .
+Kehittäjä Julie Ann Horvath erosi GitHubista maaliskuussa ja sanoi joutuneensa useamman henkilön kiusaamaksi mukaan lukien firman toinen perustaja Tom Preston-Werner .
+Horvath kertoi jopa kokeneensa kauhun hetkiä Preston-Wernerin vaimon edessä .
+– Tutkinta ei löytänyt todisteita tukemaan Tomia ja tämän vaimoa vastaan esitettyjä väitteitä seksuaalisesta tai sukupuoleen perustuvasta ahdistelusta tai kostamisesta tai seksistisestä taikka vihamielisestä työympäristöstä , Wanstrath aloittaa .
+Mutta vaikka lakia ei olisi rikottu , tutkinta paljasti todisteita virheellisestä toiminnasta .
+– Löydösten valossa Tom on jättänyt eroanomuksensa , minkä yhtiö on hyväksynyt , Wanstrath kirjoittaa .
+Hän kertoo GitHubin panostavan eri tavoin työilmapiirin parantamiseen ja tiedostavansa , että töitä on yhä jäljellä .
+Kaikki tämä on kuitenkin liian vähän Julie Ann Horvathille .
+Hän on ilmaissut mielipiteitään valtavalla joukolla viestejä Twitterissä .
+– GitHubin naiset , jotka nousivat puolustamaan minua ahdistelleita miehiä : On naiivia ajatella , että sama ei voisi tapahtua , eikä tapahtuisi teille , yksi viesteistä kuului .

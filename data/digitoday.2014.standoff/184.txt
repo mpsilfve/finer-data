@@ -1,0 +1,13 @@
+Google alkaa penkoa kaiken käyttäjän datan
+Google kertoo uusituissa käyttöehdoissaan analysoivansa vastaisuudessa kaiken käyttäjän datan .
+Hakujätti Google asettaa uusilla käyttäjäehdoillaan kyseenalaiseksi oman tunnuslauseensa " Don't be evil " .
+Uudet ehdot antavat Googlelle luvan analysoida käyttäjiensä kaiken sisällön , myös sähköpostin .
+Hyväksymällä Googlen uudet ehdot annat yhtiölle luvan analysoida kaiken Googlen palveluiden kautta lähetettävän , vastaanotettavan tai niihin tallennettavan tiedon .
+Uudet ehdot koskevat myös Googlen sähköpostia .
+Googlen mukaan uuden toimintatavan taustalla on halu filtteröidä entistä tarkemmin roskapostia , tunnistaa haittaohjelmia sekä tarjota palveluidensa käyttäjille entistä kohdistetumpia mainoksia .
+Merkittävin uusista käyttöehdoista löytyvä kohta tiivistää Googlen uudet suunnitelmat .
+Se kuuluu :
+" Our automated systems analyze your content ( including emails ) to provide you personally relevant product features , such as customized search results , tailored advertising , and spam and malware detection .
+This analysis occurs as the content is sent , received , and when it is stored .
+"
+Toistaiseksi Googlen uudet ehdot eivät vielä koske esimerkiksi Suomea , mutta asia muuttuu todennäköisesti hyvinkin pian .

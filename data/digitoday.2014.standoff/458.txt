@@ -1,0 +1,14 @@
+Esimakua tulevasta ?
+Esineiden internet hyökkää !
+Jääkaappi osallistui roskapostin lähettämiseen verkkohyökkäyksessä , joka saattaa olla ensimmäinen laatuaan maailmassa .
+Tietoturvayritys Proofpoint sanoo löytäneensä kenties ensimmäisen todistetun tapauksen , missä verkkohyökkäys on toteutettu niin sanotun esineiden internetin avulla .
+Globaalissa hyökkäyksessä käytettiin hyväksi jopa 100\_000 kodin nettiin kytkettyä laitetta , kuten reitittimiä , televisioita ja jopa ainakin yhtä jääkaappia .
+Ne joutuivat osaksi uudenlaista bottiverkkoa , joka koostui saastutetuista laitteista ja jakoi roskapostia ja kalasteluviestejä arviolta 750\_000 kappaletta .
+Esineiden internetin odotetaan mullistavan verkkoviestintää , kun mitä erilaisimmat laitteet sydämentahdistimista suihkumoottorin anturiin tai vaikka paidan nappiin saattavat saada nettiyhteyden .
+Niiden määrän odotetaan ylittävän moninkertaisesti perinteiset nettiin kytketyt tietokoneet muutamassa vuodessa .
+Proofpointin mukaan sen löytämällä hyökkäyksellä onkin merkittäviä turvallisuusvaikutuksia , joita ei sovi sivuuttaa .
+Esineiden internetin käyttäminen rikolliseen tarkoitukseen ei näytä olevan enää scifiä vaan täyttä totta .
+Ongelmaa pahentaa se , että kotitalouksien laitteet saattavat olla huonosti suojattuja tunkeutumisia vastaan .
+Jääkaappia käyttänyt hyökkäys alkoi juuri ennen joulua ja päättyi loppiaisena 6. tammikuuta .
+Yli neljännes haittaposteista lähetettiin laitteilla , jotka eivät olleet perinteisiä tietokoneita tai mobiililaitteita .
+Useassa tapauksessa näihin laitteisiin päästiin käsiksi helposti , koska ne oli väärin konfiguroitu tai ne käyttivät valmistajan asettamaa oletussalasanaa .

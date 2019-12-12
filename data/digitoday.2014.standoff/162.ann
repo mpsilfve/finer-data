@@ -1,0 +1,28 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 37 50	Thresholdista
+T3	PRO 57 70	" Windows 9 "
+T4	ORG 71 80	Microsoft
+T5	PRO 141 150	Windows 9
+T6	ORG 161 174	Winsupersiten
+T7	PER 175 188	Paul Thurrott
+T8	PER 191 206	Paul Thurrottin
+T9	PRO 234 247	" Threshold "
+T10	PRO 298 307	Windows 9
+T11	ORG 324 333	Microsoft
+T12	PRO 384 397	Windows 8:aan
+T13	EVENT 445 469	Build 2014 -konferenssin
+T14	DATE 486 497	huhtikuussa
+T15	ORG 566 579	Microsoftilla
+T16	EVENT 614 632	Build-konferenssin
+T17	PRO 687 704	Windows Phone 8.1
+T18	PRO 717 728	Windows 9:n
+T19	ORG 752 763	Microsoftin
+T20	PRO 803 830	Surface-tablet-tietokoneita
+T21	PRO 851 862	Windows 9:n
+T22	PER 877 887	Thurrottin
+T23	PRO 1109 1122	Windows 9:stä
+T24	PER 1269 1279	Thurrottin
+T25	DATE 1295 1303	huhtikuu
+T26	PRO 1311 1324	Windows 8.1:n
+T27	DATE 1398 1406	huhtikuu
+T28	PRO 1415 1428	Windows 8:aan

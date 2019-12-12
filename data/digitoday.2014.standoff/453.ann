@@ -1,0 +1,20 @@
+T1	ORG 69 78	F-Securen
+T2	ORG 86 94	Targetin
+T3	LOC 203 217	Yhdysvalloissa
+T4	ORG 252 260	Targetin
+T5	ORG 472 481	F-Securen
+T6	ORG 581 589	Targetin
+T7	ORG 653 662	F-Securen
+T8	PER 676 689	Sean Sullivan
+T9	PER 708 716	Sullivan
+T10	ORG 725 745	The New York Timesin
+T11	ORG 783 791	Targetin
+T12	ORG 862 868	Target
+T13	ORG 948 954	Target
+T14	ORG 1227 1233	Target
+T15	ORG 1421 1427	Target
+T16	PER 1492 1500	Sullivan
+T17	ORG 1511 1519	Targetin
+T18	PER 1701 1711	Sullivanin
+T19	ORG 1752 1761	Targetiin
+T100001	LOC 729 737	New York

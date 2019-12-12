@@ -1,0 +1,15 @@
+T1	ORG 216 250	Yhdysvaltain viestintäkomissio FCC
+T2	ORG 265 294	Smart City Holdings -yritystä
+T3	LOC 445 457	Yhdysvaltoja
+T4	ORG 622 627	FCC:n
+T5	PER 655 669	Travis LeBlanc
+T6	ORG 685 695	Smart City
+T7	ORG 817 820	FCC
+T8	DATE 839 850	tammikuussa
+T9	ORG 942 952	Smart City
+T10	DATE 972 982	lokakuussa
+T11	ORG 1080 1096	Orlando Sentinel
+T12	ORG 1099 1109	Smart City
+T13	LOC 1123 1156	Orange County Convention Centerin
+T100001	LOC 216 228	Yhdysvaltain
+T100002	LOC 1080 1087	Orlando

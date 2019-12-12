@@ -1,0 +1,37 @@
+T1	ORG 0 7	Samsung
+T2	ORG 51 58	Samsung
+T3	PRO 88 113	Tizen-käyttöjärjestelmään
+T4	ORG 192 201	Samsungin
+T5	PRO 202 204	Z1
+T6	LOC 219 227	Intiassa
+T7	LOC 388 397	Venäjällä
+T8	PRO 402 409	Tizenin
+T9	ORG 489 509	Generator Researchin
+T10	PER 525 538	Andrew Sheehy
+T11	DATE 545 555	kesäkuussa
+T12	ORG 566 573	Samsung
+T13	PRO 583 594	Z-puhelimen
+T14	PRO 604 608	Z1:n
+T15	LOC 624 630	Intian
+T16	PRO 810 815	Tizen
+T17	ORG 997 1004	Samsung
+T18	PRO 1014 1021	Tizeniä
+T19	ORG 1118 1125	Samsung
+T20	ORG 1208 1217	Samsungin
+T21	LOC 1239 1247	Intiassa
+T22	PRO 1248 1254	Z1:lle
+T23	LOC 1303 1309	Kiinan
+T24	ORG 1318 1324	Xiaomi
+T25	ORG 1328 1338	Ericssonin
+T26	ORG 1432 1446	FierceWireless
+T27	PRO 1464 1474	Samsung Z1
+T28	ORG 1498 1505	Googlen
+T29	PRO 1538 1575	Android One -käyttöjärjestelmäversion
+T30	ORG 1651 1658	Samsung
+T31	ORG 1754 1763	Reliance-
+T32	ORG 1767 1787	Aircel-operaattorien
+T33	PRO 1909 1911	Z1
+T34	PRO 1952 1960	Facebook
+T35	PRO 1963 1970	Twitter
+T36	PRO 1974 1981	Youtube
+T100001	ORG 1464 1471	Samsung

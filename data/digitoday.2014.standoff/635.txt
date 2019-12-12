@@ -1,0 +1,25 @@
+Haittaohjelma tirkistelee ja urkkii tietoja uudella tavalla
+Chthonic-haittaohjelma tulee web-sivun ja käyttäjän väliin ja näyttää verkkopankista oman versionsa .
+Venäläinen tietoturvayhtiö Kaspersky Lab kertoo löytäneensä uuden pankkitroijalaisen , joka on huolestuttava kahdessakin mielessä : Se käyttää uudenlaisia tekniikoita lisämoduulien lataamiseen , minkä lisäksi se pyrkii hyökkäämään poikkeuksellisen monen pankin käyttäjiä vastaan .
+Viruskoodista on löytynyt yli 150 eri maksulaitoksen tiedot .
+Suurin osa pankeista on Britanniassa , Espanjassa , Yhdysvalloissa , Venäjällä ja Japanissa .
+Lisäksi kohteita on Italiassa , Kanadassa , Australiassa , Saksassa , Ranskassa , Bulgariassa , Singaporessa , Irlannissa , Valko-Venäjällä ja Hongkongissa .
+Suomi ei ole listalla .
+Tämä ei anna kuitenkaan aihetta tuudittautua turvallisuudentunteeseen , sillä haitakkeeseen on helppo lisätä uusia kohteita .
+Kaspersky käyttää haittaohjelmasta nimeä Trojan-Banker.Win32.Chthonic tai vaan lyhyesti Chthonic .
+Se on aiemmin pahaa jälkeä tehneen Zeuksen kehitysversio .
+Haitakkeeseen on lisätty muun muassa uusi salakirjoitusalgoritmi .
+Chthonic on rakenteeltaan modulaarinen .
+Erikseen ladattavien moduulien tehtäviin kuuluu muun muassa tietokoneen järjestelmätietojen kerääminen , tallennettujen salasanojen varastaminen , näppäimistön painallusten tallentaminen , etähallintayhteyksien mahdollistaminen , välityspalvelimena toimiminen sekä tietokoneen web-kameralla ja mikrofonilla nauhoittaminen .
+Haittaohjelma kaappaa käyttäjän tietoja harvinaisen kierolla tavalla : Se lisää omaa koodiaan verkkosivunäkymiin , jotka avataan web-selaimilla katseltavaksi .
+Näillä koodi-injektioilla haittaohjelma osaa kaapata tietoja suoraan web-lomakkeilta .
+Nämä voivat olla verkkopankin sisäänkirjautumistietoja , joihin ulkomaisissa pankeissa kuuluvat usein myös puhelinnumero .
+Kun hyökkääjä on saanut haltuunsa verkkopankin kertakäyttöisen salasanan , hän voi siirtyä itse pyörittämään verkkopankki-istuntoa haittaohjelmaan kuuluvan etähallintayhteyden kautta .
+Haittaohjelmaan on upotettu räätälöidyt hyökkäykset monia verkkopankkeja kohtaan .
+Se muun muassa osaa poistaa käytöstä erään verkkopankin varoitusviestit ja korvaa toisen pankin sivuston kokonaisuudessaan väärällä , tietoja keräävällä sivulla .
+Toistaiseksi ohjelmaa on käytetty Kasperskyn mukaan verkkopankkiasiakkaita vastaan .
+Haitaketta on levitetty sähköpostilla sekä automaattilatauksilla koneisiin , jotka on liitetty Andromeda-bottiverkkoon .
+Sähköpostit ovat olleet .
+doc-päätteellä varustettuja rft-asiakirjoja , jotka ovat hyödyntäneet Microsoftin Wordissa olevaa haavoittuvuutta .
+Haittaohjelma toimii tiettävästi vain Windows-tietokoneissa .
+Tietoturva-asiantuntijoiden mukaan turvallisin tapa käyttää verkkopankkia on tehdä se mobiililaitteella .

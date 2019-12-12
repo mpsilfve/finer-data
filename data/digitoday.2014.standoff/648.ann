@@ -1,0 +1,24 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 57 76	Internet Explorerin
+T3	ORG 107 118	Microsoftin
+T4	DATE 127 136	helmikuun
+T5	ORG 156 165	Microsoft
+T6	DATE 216 225	Helmikuun
+T7	ORG 305 314	Microsoft
+T8	PRO 348 369	Internet Explorerista
+T9	DATE 417 428	tammikuussa
+T10	PRO 431 450	Internet Explorerin
+T11	ORG 542 553	Microsoftin
+T12	ORG 664 673	Microsoft
+T13	PRO 748 769	Internet Explorerista
+T14	DATE 937 946	helmikuun
+T15	ORG 1003 1047	Viestintäviraston Kyberturvallisuuskeskuksen
+T16	PRO 1119 1148	Internet Explorer -selaimessa
+T17	PRO 1180 1189	Windowsin
+T18	ORG 1266 1289	Kyberturvallisuuskeskus
+T19	ORG 1317 1328	Microsoftin
+T20	ORG 1430 1437	ZDNetin
+T21	PRO 1475 1484	Windowsin
+T22	PRO 1539 1562	Windows Server 2003:lle
+T23	PRO 1657 1676	Windows Server 2003
+T24	DATE 1728 1739	heinäkuussa

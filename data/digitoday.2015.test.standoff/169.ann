@@ -1,0 +1,16 @@
+T1	ORG 0 9	Microsoft
+T2	LOC 24 32	Suomessa
+T3	ORG 49 58	Microsoft
+T4	LOC 100 108	Suomessa
+T5	ORG 111 120	Microsoft
+T6	LOC 219 227	Suomessa
+T7	DATE 280 291	heinäkuussa
+T8	ORG 302 311	Microsoft
+T9	LOC 321 326	Salon
+T10	LOC 463 472	Espooseen
+T11	LOC 476 487	Tampereelle
+T12	LOC 521 528	Salosta
+T13	DATE 615 623	kesäkuun
+T14	ORG 643 652	Microsoft
+T15	ORG 729 744	Suomen hallitus
+T100001	LOC 729 735	Suomen

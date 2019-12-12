@@ -1,0 +1,13 @@
+T1	ORG 81 86	Nasan
+T2	PRO 209 221	New Horizons
+T3	LOC 227 233	Pluton
+T4	LOC 344 350	Maahan
+T5	ORG 376 404	Yhdysvaltain avaruushallinto
+T6	ORG 405 409	Nasa
+T7	ORG 505 510	Nasan
+T8	PRO 511 540	Deep Space Network -yhteyksiä
+T9	LOC 554 560	Maahan
+T10	LOC 811 817	Maahan
+T11	PRO 865 879	New Horizonsin
+T12	ORG 941 945	Nasa
+T100001	LOC 376 388	Yhdysvaltain

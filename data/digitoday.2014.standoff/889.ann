@@ -1,0 +1,24 @@
+T1	ORG 13 24	TVkaistassa
+T2	ORG 75 84	TVkaistan
+T3	PRO 111 132	TVkaista.fi-osoitteen
+T4	PRO 284 314	Tvkaista.fi-verkko-osoitteesta
+T5	ORG 355 368	TVKaista Oy:n
+T6	PER 404 419	Heikki Aaltosen
+T7	PER 637 645	Aaltonen
+T8	ORG 704 713	TVKaistaa
+T9	PRO 894 914	Tvkiasta.fi-palvelun
+T10	LOC 965 976	Hollannissa
+T11	PRO 1169 1188	Tvkaista.fi-pavelun
+T12	PRO 1266 1275	TVkaistan
+T13	PRO 1491 1510	Tvkaista.fi-sivusto
+T14	ORG 1641 1652	TVKaista Oy
+T15	DATE 1664 1675	helmikuussa
+T16	DATE 1718 1727	helmikuun
+T17	ORG 1767 1780	TVKaista Oy:n
+T18	PRO 1799 1820	Tvkaista.fi-palveluun
+T19	ORG 1825 1833	TVkaista
+T20	ORG 1889 1921	TVkaista Oy -nimiseen yritykseen
+T21	PER 2032 2040	Aaltosen
+T22	PER 2192 2200	Aaltonen
+T23	PRO 2275 2295	Tvkaista.fi-palvelun
+T24	ORG 2331 2342	Tietoviikko

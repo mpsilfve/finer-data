@@ -1,0 +1,22 @@
+T1	ORG 0 8	Hondalta
+T2	ORG 20 26	Teslan
+T3	PER 27 31	Musk
+T4	PER 150 159	Elon Musk
+T5	ORG 193 198	Honda
+T6	LOC 234 243	Detroitin
+T7	LOC 291 300	Japanissa
+T8	DATE 301 318	maaliskuussa 2016
+T9	ORG 321 328	Toyotan
+T10	PRO 366 372	Mirain
+T11	LOC 397 406	Japanissa
+T12	ORG 409 415	Hondan
+T13	PER 449 460	Steve Ellis
+T14	PRO 467 483	New York Timesin
+T15	PER 755 762	Ellisin
+T16	LOC 770 784	Yhdysvalloissa
+T17	LOC 809 825	Etelä-Kalifornia
+T18	ORG 1031 1037	Teslan
+T19	PER 1054 1063	Elon Musk
+T20	PER 1198 1202	Musk
+T21	LOC 1227 1238	Detroitissa
+T100001	LOC 467 475	New York

@@ -1,0 +1,12 @@
+Mikä vuosi !
+Facebook repi auki käyttäjien haavoja
+Voihan algoritmi .
+Facebook onnistui muuttamaan viihteelliseksi tarkoitetun vuosikertauksen kivuliaaksi muistutukseksi siitä , mikä kaikki menikään pieleen vuonna 2014 .
+Facebook toivoi käyttäjiensä jakavan vuoden kohokohtansa muiden kanssa kokoamalla aikajanasta automaattisesti yhteen Year in Review -valokuva-albumin .
+Mutta eri käyttäjillä kooste sisältää muistoja , jotka haluaisi vain unohtaa .
+Mashablen mukaan eräskin käyttäjä joutui käsittelemään uudelleen pienen tyttärensä kuolemaa , kun Facebook ehdotti tätä jaettavaksi .
+Tämä sai jo Facebookinkin reagoimaan .
+Year in Review'n tuotejohtaja Jonathan Gheller pyysi käyttäjältä anteeksi ja sanoi toimintoa parannettavan seuraavaa kertaa varten .
+Kaiken aiheutti taas kerran se tietokonemaailman kuuluisa , mutta kuivakka työjuhta eli algoritmi , jonka joku ihminen tosin on ohjelmoinut .
+Algoritmi katsoi vain , mitkä tapahtumat aiheuttivat eniten vuorovaikutusta , eikä ottanut huomioon , että vuorovaikutus saattoi johtua surullisistakin asioista .
+Algoritmit ovat Facebookissa vastuussa myös muun muassa karmivasta kasvojentu nnistuksesta tai siitä , että käyttäjät sitoutetaan palveluun osuvilla uutisilla .

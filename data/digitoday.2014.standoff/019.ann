@@ -1,0 +1,12 @@
+T1	ORG 0 10	Blackberry
+T2	ORG 95 105	Blackberry
+T3	LOC 231 240	Kanadassa
+T4	ORG 243 253	Blackberry
+T5	ORG 504 516	CBRE Limited
+T6	PER 530 539	John Chen
+T7	ORG 553 563	Blackberry
+T8	LOC 587 595	Kanadaan
+T9	LOC 626 637	Waterloossa
+T10	ORG 863 871	Pentagon
+T11	ORG 928 934	Cnetin
+T12	ORG 986 997	Blackberryn

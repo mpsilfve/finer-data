@@ -1,0 +1,14 @@
+T1	ORG 0 8	Facebook
+T2	ORG 188 200	Facebookille
+T3	LOC 203 211	Intiassa
+T4	PER 218 233	Laxman Muthiyah
+T5	PRO 249 257	Facebook
+T6	PRO 373 383	Facebookin
+T7	ORG 451 457	Sophos
+T8	ORG 600 612	Facebookille
+T9	ORG 704 712	Facebook
+T10	PER 730 738	Muthiyah
+T11	PRO 851 861	Facebookin
+T12	ORG 1123 1135	Facebookilla
+T13	PRO 1331 1343	Facebookista
+T14	DATE 1410 1421	Vuonna 2011

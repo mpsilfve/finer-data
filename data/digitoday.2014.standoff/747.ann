@@ -1,0 +1,15 @@
+T1	PRO 0 12	MacBook Prot
+T2	ORG 26 31	Apple
+T3	ORG 39 44	Apple
+T4	PRO 73 98	MacBook Pro -tietokoneita
+T5	ORG 186 191	Apple
+T6	PRO 223 248	MacBook Pro -kannettavien
+T7	ORG 278 284	Applen
+T8	PRO 320 345	MacBook Pro -järjestelmiä
+T9	DATE 528 568	helmikuun 2011 ja joulukuun 2013 välillä
+T10	ORG 605 611	Applen
+T11	LOC 685 699	Yhdysvalloissa
+T12	LOC 703 712	Kanadassa
+T13	DATE 768 782	27. helmikuuta
+T14	ORG 792 797	Apple
+T15	PRO 862 873	MacBook Pro

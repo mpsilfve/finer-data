@@ -1,0 +1,24 @@
+T1	ORG 0 6	Google
+T2	ORG 82 88	Google
+T3	PRO 125 140	Chrome-selaimen
+T4	PRO 393 408	Chrome-selaimen
+T5	ORG 520 526	Google
+T6	PRO 588 603	Chrome Storesta
+T7	PRO 662 675	Add to Feedly
+T8	PRO 679 694	Tweet This Page
+T9	ORG 744 751	Googlen
+T10	DATE 1068 1079	Joulukuussa
+T11	ORG 1080 1086	Google
+T12	ORG 1192 1198	Google
+T13	PRO 1493 1520	Add to Feedly -laajennuksen
+T14	PER 1531 1543	Amit Agrawal
+T15	ORG 1652 1658	Google
+T16	ORG 1697 1716	Wall Street Journal
+T17	ORG 1881 1888	Googlen
+T18	PRO 1889 1905	Chrome-selaimeen
+T19	ORG 1919 1933	Ghacks.netissä
+T20	PER 1946 1964	Martin Brinkmannin
+T21	ORG 1994 2002	Wips.com
+T22	PRO 2015 2024	Firefoxin
+T23	PRO 2025 2054	Autocopy-nimisen laajennuksen
+T100001	LOC 1697 1708	Wall Street

@@ -1,0 +1,33 @@
+Tutkaheijastin
+Tutkaheijastin on merenkulun turvalaite , takaisinheijastin , jonka tarkoituksena on parantaa kohteiden kuten merimerkkien ja pienten alusten näkymistä tutkassa , ja siten lisätä vesiliikenteen turvallisuutta .
+Joissakin aluksissa se on pakollinen varuste .
+Suomen merialueilla on paljon tutkaheijastimella varustettuja merenkulun turvalaitteita .
+Tärkeimmät merimerkit on pääsääntöisesti varustettu kiintein tutkaheijastimin koska ne passiivisina laitteina ovat toimintavarmoja eivätkä tarvitse teholähdettä .
+Pienissä aluksissa , pääasiassa purjeveneissä , käytetään tutkaheijastimia , jotka voidaan nostaa purjeveneen köysistöön , tai mastoon .
+Tutkaheijastin on valmistettu yleensä teräksestä tai alumiinista .
+Heijastimen levymäiset osat muodostavat yleensä joukon suorakulmaisia soppia .
+Särmikkään muotoilun ja radioaaltoja läpäisemättömän materiaalin tarkoituksena on parantaa tutkan lähettämien radioaaltojen takaisinheijastumista , jolloin pieni kohde erottuu tutkan näytöllä paremmin .
+Saatavana on monen mallisia heijastimia , mm. putkimaisia .
+Sen jokaisella yksittäisellä sopella olisi oltava kokoa vähintään sen verran , että haluttu aaltopituus ( yleensä saaristovesillä 3 cm , mutta valtamerillä myös 10 cm ) mahtuu sen läpimitalle useampia kertoja .
+Soppi on tyypillinen tutkaheijastimen muoto , jollaisia on oheisessa kuvassa ryhmänä .
+Sopessa on metallilevyjä suorassa kulmassa toisiinsa nähden .
+Siksi radioaallot , mikroaallot , jotka heijastuslakien mukaan heijastuvat aina siten , että niiden lähtökulma ( tasaisesta pinnasta ) on sama kuin tulokulma , joutuvat tällaisessa sopessa heijastumaan yhteensä 180 astetta .
+Lopputuloksena ne heijastuvat tarkalleen samaan suuntaan mistä tulivatkin .
+Jos kuvan heijastimen ( yhden elementin ) sisäsärmän pituus olisi 0,5 m , se X-alueen ( aaltopituus n. 3 cm Tutkataajuusalueet ) tutkan kannalta vastaisi sellaista pallonmuotoista kohdetta , jonka isoympyrän pinta-ala , ekvivalentti radiopinta-ala , ( En. Radar cross section , RCS ) olisi 280 neliömetriä .
+Useampi soppi kertaa lopputuloksen niin monella , kuin niitä on suunnilleen siihen suuntaan , jossa tutka on .
+Tässä tapauksessa n. 1000 m² , joka vastaa n. 1000 tonnin laivaa .
+Koska merenkulkututka on tavallisesti varustettu polarisaattorilla ( sadevälkkeen vähentämiseksi ) voidaan tutkaheijastimen heijastuskykyä edelleen parantaa käyttämällä myös siinä polarisoivaa materiaalia .
+Jos alus on suhteellisen pieni ja lisäksi valmistettu lujitemuovista , tutkaheijastin sen varusteena voi oleellisesti lisätä sen omaaa turvallisuuta , koska tutkan suorituskyky muilla aluksilla ja tutka-asemilla oleellisesti paranee , ja se tulee helpommin nähdyksi .
+Ilman heijastinta pieni huvivene edustaa radiopinta-alaa 0,2 - 2 m² , mutta jo 30 cm:n levyisellä ( 15 cm:n särmä ) soppiheijastimella se edustaa 20 m²:n radiopinta-alaa .
+Tutkaheijastin olisi asennettava sellaiseen asentoon , että sen soppien aukot osoittavat kohti horisonttia .
+Siten sen radiopinta-ala on pinta-alukselle mahdollisimman suuri .
+Tästä asennustavasta merenkulkijat käyttävät ammattikielessä nimeä sadesieppaaja , koska sen yksi aukko on kohti taivasta .
+Radiopinta-ala voidaan myös laskea mille tahansa soppiheijastimelle seuraavasti : Jos sopen sivulevyt ovat kolmion muotoiset : formula_1 Jos sopen sivulevyt ovat neliön muotoiset : formula_2 jossa : Kaupallisesti on saatavana myös aktiivisia tutkaheijastimia .
+Sellainen ei nimestään huolimatta ole heijastin vaan elektroninen radiolaite , transponderi , toisiotutkavastaaja , ja toiminta on toisiotutka periaate .
+Se käynnistyy lähestyvän tutkan pulssista ja lähettää lyhyen pulssin antennistaan , joten se erottuu selvästi lähestyvän tutkan näytöllä .
+Toisin kuin passiivinen heijastin , se tarvitsee aina teholähteen .
+Meriväylien tärkeitä kohteita merkitään myös , heijastimien lisäksi , tutkamajakalla RACON , joka myös käynnistyy toisiotutkavastaajana lähestyvän tutkan pulssista .
+Lisäksi mainittakoon tärkeä laite SART , jota käytetään meripelastuksessa pelastusveneissä .
+Sekin on toisiotutkavastaaja , eikä siis heijastin .
+Aktiiviset laitteet eivät voi täysin korvata passiivista " oikeaa " tutkaheijastinta myöskään siitä syystä , että käyttöön tulee yhä enemmän merenkulkututkan nykyaikaisia tekniikoita , laajakaistatutka l. broadbandradar l. BB-tutka , joiden pienitehoinen ja pulssittamaton lähete ei käynnistä aktiivista tutkavastaajaa kuten pulssitutka .
+Passiivinen heijastin toimii erinomaisesti molemmilla tekniikoilla .

@@ -1,0 +1,26 @@
+T1	ORG 0 7	Samsung
+T2	PRO 48 62	Windows Phonea
+T3	ORG 102 109	Samsung
+T4	PRO 128 155	Windows Phone -älypuhelimia
+T5	ORG 158 169	Korea Times
+T6	ORG 182 193	Samsungilla
+T7	PRO 252 266	Windows Phonen
+T8	ORG 317 341	Korea Times -sanomalehti
+T9	ORG 359 366	Samsung
+T10	PRO 377 408	Windows 8.1 -käyttöjärjestelmän
+T11	ORG 466 475	Samsungin
+T12	ORG 502 513	Microsoftin
+T13	ORG 580 589	Samsungin
+T14	ORG 597 603	Nokian
+T15	ORG 620 631	Microsoftin
+T16	DATE 699 710	vuonna 2014
+T17	ORG 728 735	Samsung
+T18	ORG 789 802	Microsoftille
+T19	ORG 811 817	Nokian
+T20	ORG 866 875	Microsoft
+T21	ORG 921 930	Samsungin
+T22	ORG 1018 1031	Microsoftille
+T23	ORG 1138 1149	Microsoftin
+T24	ORG 1257 1267	SMN Weekly
+T25	PRO 1352 1376	Windows Phone -alustalle
+T100001	LOC 158 163	Korea

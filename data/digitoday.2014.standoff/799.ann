@@ -1,0 +1,24 @@
+T1	ORG 0 5	Apple
+T2	PRO 52 65	Apple Watchin
+T3	ORG 178 199	Wall Street Journalin
+T4	ORG 207 212	Apple
+T5	DATE 299 310	huhtikuussa
+T6	PRO 319 332	Apple Watchin
+T7	ORG 356 375	Wall Street Journal
+T8	ORG 514 519	Apple
+T9	PRO 578 611	Apple Watch Edition -luksusmallin
+T10	ORG 644 650	Applen
+T11	PRO 684 704	Mac Pro -tietokoneen
+T12	LOC 882 889	Kiinaan
+T13	ORG 906 921	Quanta Computer
+T14	PRO 925 938	Apple Watchin
+T15	ORG 1073 1090	Quantan Changshun
+T16	LOC 1101 1116	Manner-Kiinassa
+T17	PRO 1119 1132	Apple Watchin
+T100001	ORG 52 57	Apple
+T100002	LOC 178 189	Wall Street
+T100003	ORG 319 324	Apple
+T100004	LOC 356 367	Wall Street
+T100005	ORG 578 583	Apple
+T100006	ORG 925 930	Apple
+T100007	ORG 1119 1124	Apple

@@ -1,0 +1,12 @@
+Windows 10:n pariin pääsee nyt helposti
+Siirtyminen onnistuu Windows Updatella , jos käytössä on Windows 7 tai Windows 8.1 .
+Mutta harkitse kahdesti .
+Microsoft tarjoaa nyt mahdollisuuden päivittää Windows 7- tai 8.1 -asennus suoraan Windows 10:n uusimpaan esiversioon .
+Ensin täytyy kuitenkin ladata pieni työkalu , joka mahdollistaa päivitysprosessin .
+Todennäköisesti Microsoft turvautuu samanlaiseen päivitystapaan myöhemmin , kun Windows 10 virallisesti ilmestyy .
+Windows 10 build 9926 on toistaiseksi laskettavissa betatason esiversioksi , eikä Microsoft suosittele sitä asennettavaksi pääasiallisesti käytössä olevaan tietokoneeseen .
+Mikäli kuitenkin haluat elää vaarallisesti , voit ladata Windows 10 -työkalun täältä ja aloittaa päivitysprosessin Windows Updaten kautta .
+Kannattaa kuitenkin muistaa , että kun esiversio on asennettu , ei paluu takaisin vanhempaan Windows-versioon onnistu ilman puhdasta uudelleenasennusta .
+Windows 10 build 9926:sta on tarjolla myös erilliset levykuvatiedostot , joiden kautta asennus suositellaan suoritettavaksi .
+Tällä tavoin ei vakaata ja hyvin toimivaa pääasiallista käyttöjärjestelmää tarvitse ylikirjoittaa .
+Asiasta kertoi muun muassa Softpedia .

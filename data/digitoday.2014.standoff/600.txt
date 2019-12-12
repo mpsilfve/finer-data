@@ -1,0 +1,18 @@
+Microsoft korjaa tiistaina ... jaa eipäs kerrokaan !
+Microsoft lakkasi tiedottamasta laajasti etukäteen , mitä tuotteitaan se paikkaa kunkin kuukauden toisena tiistaina .
+Yhtiö olisi voinut valita ajankohdan hieman paremmin .
+Jos joku odotti Microsoftilta ennakkoilmoitusta ensi tiistain tietoturvakorjauksista , hän ei sellaista enää saa ainakaan yleisiä kanavia pitkin .
+Microsoft Security Response Centerin johtaja Chris Betz kertoo , että perinteinen Advance Notification Service -palvelu suljetaan suurelta yleisöltä .
+Ennakkotietoa kuukauden tietoturvakorjauksista ei enää jaeta Microsoftin blogin ja verkkosivuston kautta paikkauksia edeltävänä torstaina .
+ANS-palvelu on enää maksavien Premium-asiakkaiden käytettävissä ja avautuu myös niille organisaatioille , jotka ovat tällä hetkellä mukana Microsoftin tietoturvaohjelmissa .
+ANS:ää kaipaaville yrityksille Microsoft suosittaa myBulletins-palvelua , jossa asiakas voi räätälöidä päivitystiedotukset omien ohjelmistojensa mukaan .
+Betz vetoaa ANS-palvelun vähenevään käyttöön .
+Valtava enemmistö asiakkaista odottaa päivitystiistaihin , tai eivät ryhdy lainkaan toimenpiteisiin antaessaan päivitysten asentua automaattisesti .
+Ilmeisesti muutos astui välittömästi voimaan , sillä blogikirjoitus ilmestyi sillä kellonlyömällä , kun yhtiö on yleensä ennakkoilmoituksensa antanut .
+Eikä kirjoituksessa mainita lainkaan tiistain korjausten sisältöä .
+Microsoftin tiistain korjaukset kiinnostavat jo pelkästään siksi , että yhtiöllä on käsissään aukinainen ja paljastettu Windows 8.1:n haavoittuvuus .
+Ei ole tiedossa , aikooko Microsoft korjata sen osana tammikuun paikkauksia , vai myöhemmin .
+Normaali tiedonanto tiistaista olisi saattanut valaista asiaa .
+Microsoftin Chris Betz jättää blogikirjoituksessaan täysin mainitsematta it-median , joka on käyttänyt ANS-palvelua tiedottaakseen paitsi yrityksille , myös tavallisille kuluttajille varsinkin kriittisten korjausten lähenevästä saapumisesta .
+On vaikea nähdä , miksi Microsoft pimentää kanavan , joka on ollut omiaan parantamaan pienyrittäjien ja tavallisten kuluttajien tietoturvaa – tai ainakin tietoisuutta tietoturvasta .
+Asia ei kuitenkaan vaikuta Microsoftin normaaliin tiedottamiseen varsinaisena tietoturvatiistaina , jollaisen koittaessa myös Kyberturvallisuuskeskuksen verkkosivut ovat hyvä tiedonlähde paikkauksiin tutustumiseksi .

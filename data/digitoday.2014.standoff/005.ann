@@ -1,0 +1,25 @@
+T1	ORG 14 20	Nokian
+T2	PRO 21 29	Normandy
+T3	ORG 58 64	Nokian
+T4	PRO 73 92	Normandy-laitteesta
+T5	ORG 193 202	Inderesin
+T6	PER 215 230	Mikael Rautanen
+T7	ORG 278 283	Nokia
+T8	ORG 343 352	Inderesin
+T9	PER 365 380	Mikael Rautanen
+T10	ORG 393 402	Nordnetin
+T11	PER 422 430	Rautanen
+T12	ORG 489 495	Nokian
+T13	PRO 573 584	Normandyksi
+T14	PER 692 700	Rautanen
+T15	ORG 760 766	Nokian
+T16	PRO 840 849	Normandya
+T17	ORG 903 911	Nokialle
+T18	ORG 914 919	Nokia
+T19	DATE 970 981	vuotta 2016
+T20	PER 990 998	Rautasen
+T21	ORG 1084 1090	Nokian
+T22	ORG 1183 1191	Rautanen
+T23	ORG 1248 1261	Microsoftille
+T24	PRO 1333 1347	Asha-mallistoa
+T25	PER 1369 1377	Rautasen

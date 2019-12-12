@@ -1,0 +1,9 @@
+NY Times : Angry Birds aukeaa NSA:lle
+Edward Snowdenin vuotamien tietojen mukaan vakoiluorganisaatiot pystyvät keräämään tietoja muun muassa Angry Birds -pelin avulla .
+Yhdysvaltain NSA ja sen brittiläinen vastine ovat käyttäneet hyväkseen matkapuhelinsovellusten tietoturva-aukkoja kerätessään maailmanlaajuisesti tietoja ihmisten toiminnasta , kertoo New York Times .
+Lehti perustaa uutisensa Edward Snowdenin vuotamiin asiakirjoihin NSA:n toiminnasta .
+Tietoja olisi mahdollista kerätä muun muassa suomalaisen Rovion huippusuositun Angry Birds -pelin avulla .
+Ei ole kuitenkaan selvää , onko niin tehty .
+NSA ja Britannian tietoliikennetiedustelijat ovat uutisen mukaan kehittäneet vuodesta 2007 lähtien keinoja koota älypuhelinten keräämiä tietoja ihmisten liikkeistä ja toiminnasta .
+Työn tuloksena vakoiluorganisaatiot ovat keksineet , kuinka ne saavat haltuunsa kaiken mahdollisen puhelimessa olevan tiedon joka kerta kun sen omistaja päivittää tietojaan Facebookin , Flickrin , Linkedinin , Twitterin tai muiden palveluiden mobiiliversiossa .
+Rovion edustaja sanoo New York Timesille , että yhtiö ei ole tietoinen tiedusteluohjelmista ja ettei sillä ole tekemistä kirjoituksessa mainittujen tiedusteluorganisaatioiden kanssa .

@@ -1,0 +1,23 @@
+T1	PRO 0 12	Google Fiber
+T2	ORG 24 28	AT&T
+T3	LOC 60 73	KansasCityssä
+T4	ORG 74 81	Googlen
+T5	ORG 220 224	AT&T
+T6	LOC 264 278	Kansas Cityssä
+T7	ORG 298 305	Googlen
+T8	PRO 306 313	Fiberin
+T9	ORG 333 337	AT&T
+T10	PRO 351 371	GigaPower-palveluaan
+T11	LOC 372 386	Kansas Cityssä
+T12	LOC 392 401	Missourin
+T13	LOC 407 415	Kansasin
+T14	ORG 467 473	Google
+T15	ORG 550 558	AT&T:llä
+T16	ORG 587 595	Googleen
+T17	ORG 694 703	Googlella
+T18	ORG 747 755	Engadget
+T19	LOC 780 791	Leawoodissa
+T20	ORG 792 798	Google
+T21	ORG 857 861	AT&T
+T22	LOC 945 959	Kansas Cityssä
+T100001	ORG 0 6	Google

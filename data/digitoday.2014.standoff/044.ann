@@ -1,0 +1,19 @@
+T1	ORG 49 61	Minyanvillen
+T2	PER 62 76	Michael Comeau
+T3	ORG 150 153	NPD
+T4	ORG 176 183	Googlen
+T5	PRO 214 226	Chromebookit
+T6	LOC 251 263	Yhdysvaltain
+T7	DATE 301 311	marraskuun
+T8	ORG 396 401	NPD:n
+T9	LOC 432 444	Yhdysvaltain
+T10	PER 472 486	Michael Comeau
+T11	ORG 589 592	NPD
+T12	ORG 716 721	NPD:n
+T13	PRO 742 755	Chromebookien
+T14	ORG 815 824	Gartnerin
+T15	DATE 843 859	heinä–syyskuussa
+T16	LOC 860 874	Yhdysvalloissa
+T17	PRO 990 1005	Chromebookeille
+T18	ORG 1096 1101	NPD:n
+T19	PRO 1116 1129	Chromebookeja

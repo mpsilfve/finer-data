@@ -1,0 +1,134 @@
+T1	LOC 0 28	Hyvinkään–Karkkilan rautatie
+T2	LOC 29 57	Hyvinkään–Karkkilan rautatie
+T3	LOC 84 117	" Hyvinkään–Pyhäjärven rautatie "
+T4	LOC 124 133	Hyvinkään
+T5	LOC 137 152	U.l. Pyhäjärven
+T6	LOC 165 174	Karkkilan
+T7	LOC 262 280	Uudenmaan läänissä
+T8	ORG 346 364	Valtionrautateiden
+T9	LOC 365 374	Hyvinkään
+T10	ORG 395 414	Högforsin Tehtaalle
+T11	DATE 453 464	vuonna 1911
+T12	DATE 499 503	1946
+T13	LOC 606 634	Hyvinkään–Karkkilan rautatie
+T14	ORG 672 688	Högforsin tehdas
+T15	LOC 692 707	Kytäjän kartano
+T16	ORG 789 805	Valtionrautatien
+T17	LOC 911 926	Kytäjän kartano
+T18	LOC 974 990	Kytäjän kartanon
+T19	PER 1000 1014	Hjalmar Linder
+T20	ORG 1023 1042	Högforsin tehtaalle
+T21	DATE 1043 1054	vuonna 1907
+T22	PER 1094 1100	Linder
+T23	PER 1186 1192	Linder
+T24	LOC 1215 1226	Hyvinkäältä
+T25	LOC 1227 1236	Kytäjälle
+T26	DATE 1266 1277	vuoden 1907
+T27	ORG 1343 1359	Högforsin ruukin
+T28	PER 1363 1371	Linderin
+T29	DATE 1400 1404	1909
+T30	ORG 1443 1500	" Osakeyhtiö Hyvinkään–Pyhäjärven Rautatie Aktiebolaget "
+T31	PER 1529 1543	Hjalmar Linder
+T32	ORG 1547 1563	Högforsin tehdas
+T33	LOC 1575 1591	Kytäjä–Pyhäjärvi
+T34	DATE 1617 1633	tammikuussa 1911
+T35	LOC 1718 1732	Vaasan radalta
+T36	ORG 1757 1768	Fr. Kruppin
+T37	LOC 1779 1787	Saksassa
+T38	LOC 1850 1861	Hyvinkäältä
+T39	LOC 1862 1874	Pyhäjärvelle
+T40	DATE 1875 1887	27. elokuuta
+T41	DATE 1918 1930	marraskuussa
+T42	DATE 1972 1991	24. helmikuuta 1912
+T43	LOC 1994 2004	Hunsalasta
+T44	LOC 2035 2043	Forssaan
+T45	LOC 2078 2097	Hyvinkään–Karkkilan
+T46	LOC 2101 2111	Jokioisten
+T47	LOC 2214 2225	Karkkilasta
+T48	LOC 2226 2237	Hyvinkäälle
+T49	LOC 2333 2342	Hyvinkään
+T50	LOC 2363 2389	Hyvinkään−Hangon rautatien
+T51	ORG 2455 2459	VR:n
+T52	LOC 2492 2501	Karkkilan
+T53	LOC 2526 2535	Hyvinkään
+T54	LOC 2621 2633	Hangon radan
+T55	ORG 2706 2723	Högforsin tehtaan
+T56	ORG 2738 2754	Kymin Osakeyhtiö
+T57	ORG 2760 2781	Högforsin Tehdas Oy:n
+T58	DATE 2794 2805	vuonna 1933
+T59	ORG 2878 2897	Högforsin Tehdas Oy
+T60	ORG 2920 2938	Kymin Osakeyhtiöön
+T61	DATE 2939 2950	vuonna 1940
+T62	ORG 2978 2995	Kymin Osakeyhtiön
+T63	LOC 3042 3051	Kytäjältä
+T64	LOC 3052 3061	Hyvinkään
+T65	LOC 3082 3089	Kytäjän
+T66	LOC 3208 3217	Kytäjältä
+T67	LOC 3218 3228	Karkkilaan
+T68	LOC 3259 3269	Kytäjärven
+T69	DATE 3347 3364	vuosina 1907–1908
+T70	ORG 3419 3468	Tampereen Pellava- ja Rautateollisuus Osake-Yhtiö
+T71	ORG 3477 3491	Oy Tampella Ab
+T72	DATE 3562 3579	vuosina 1910–1911
+T73	DATE 3621 3632	vuonna 1912
+T74	EVENT 3722 3747	ensimmäisen maailmansodan
+T75	LOC 3755 3764	Venäjälle
+T76	DATE 3790 3801	vuonna 1917
+T77	ORG 3802 3811	Tampellan
+T78	LOC 3873 3881	Suomessa
+T79	EVENT 4001 4011	jatkosodan
+T80	LOC 4019 4044	Ylä-Syvärin kenttäradalle
+T81	DATE 4205 4216	vuonna 1944
+T82	LOC 4217 4233	Neuvostoliittoon
+T83	LOC 4335 4356	Kuurilan metsäradalta
+T84	DATE 4357 4368	vuonna 1945
+T85	DATE 4451 4462	Vuonna 1954
+T86	PRO 4482 4511	Move 21 -dieselmoottoriveturi
+T87	LOC 4901 4910	Hyvinkään
+T88	LOC 4914 4923	Karkkilan
+T89	DATE 4934 4945	Vuoden 1916
+T90	DATE 5397 5404	v. 1961
+T91	EVENT 5614 5638	Ensimmäinen maailmansota
+T92	DATE 5778 5790	vuoteen 1925
+T93	EVENT 5960 5980	Toisen maailmansodan
+T94	DATE 6292 6303	vuoden 1945
+T95	LOC 6311 6330	Hyvinkään-Karkkilan
+T96	DATE 6520 6524	1958
+T97	DATE 6580 6589	toukokuun
+T98	DATE 6598 6602	1961
+T99	LOC 6729 6738	Karkkilan
+T100	LOC 6768 6777	Helsingin
+T101	LOC 6811 6823	valtatie 2:n
+T102	LOC 7242 7269	Hyvinkään–Karkkilan radalla
+T103	DATE 7270 7287	1. syyskuuta 1967
+T104	LOC 7458 7473	Karkkilan torin
+T105	LOC 7485 7491	Harjun
+T106	DATE 7609 7620	Vuonna 1993
+T107	LOC 7651 7678	Jokioisten Museorautatielle
+T108	LOC 7679 7688	Minkiölle
+T109	DATE 7803 7821	21. lokakuuta 2006
+T110	LOC 7836 7846	Karkkilaan
+T111	LOC 7863 7887	Karkkilan kaupungintalon
+T112	LOC 7912 7921	Minkiölle
+T113	LOC 8086 8095	Karkkilan
+T114	DATE 8162 8166	2000
+T115	DATE 8711 8715	2014
+T116	DATE 8802 8813	vuonna 1969
+T117	LOC 8891 8918	Jokioisten Museorautatiellä
+T118	LOC 9123 9150	Jokioisten Museorautatiellä
+T119	LOC 9231 9253	Jokioisten rautatielle
+T120	DATE 9275 9287	vuoteen 1974
+T121	LOC 9403 9430	Jokioisten Museorautatielle
+T122	DATE 9431 9447	heinäkuussa 2007
+T123	DATE 9507 9525	25. lokakuuta 2007
+T100001	LOC 395 404	Högforsin
+T100002	LOC 672 681	Högforsin
+T100003	LOC 1023 1032	Högforsin
+T100004	LOC 1343 1352	Högforsin
+T100005	LOC 1456 1485	Hyvinkään–Pyhäjärven Rautatie
+T100006	LOC 1547 1556	Högforsin
+T100007	LOC 2706 2715	Högforsin
+T100008	LOC 2738 2743	Kymin
+T100009	LOC 2760 2769	Högforsin
+T1000010	LOC 2878 2887	Högforsin
+T1000011	LOC 3419 3428	Tampereen

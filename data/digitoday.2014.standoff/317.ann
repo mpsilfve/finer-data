@@ -1,0 +1,85 @@
+T1	PRO 8 23	Jolla-puhelimen
+T2	PRO 33 46	Jolla-puhelin
+T3	PRO 249 266	Jolla-puhelimesta
+T4	DATE 288 300	marraskuussa
+T5	PRO 446 454	Jollalle
+T6	PRO 497 512	Jolla-puhelimen
+T7	DATE 526 538	marraskuussa
+T8	PRO 557 583	Sailfish-käyttöjärjestelmä
+T9	ORG 608 616	Jollalla
+T10	ORG 795 807	Nokialaisten
+T11	DATE 959 968	Helmikuun
+T12	ORG 977 988	Jolla-yhtiö
+T13	PRO 1037 1052	Jolla-puhelimet
+T14	PRO 1186 1213	Sailfish-käyttöjärjestelmän
+T15	PRO 1264 1280	Jolla-puhelimeen
+T16	PRO 1905 1910	Jolla
+T17	PRO 2368 2381	Jolla-puhelin
+T18	PRO 2388 2414	Sailfish-käyttöjärjestelmä
+T19	PRO 2540 2548	Jollassa
+T20	ORG 2552 2562	Qualcommin
+T21	PRO 2563 2602	Snapdragon 1,4 GHz -tuplaydinprosessori
+T22	ORG 2712 2718	Nokian
+T23	PRO 2719 2743	Meego-käyttöjärjestelmän
+T24	PRO 2747 2765	Nokia N9-puhelimen
+T25	PRO 3567 3573	Jollan
+T26	PRO 3765 3775	Sailfishin
+T27	PRO 3843 3853	Sailfishin
+T28	PRO 4273 4294	Sailfish-järjestelmän
+T29	PRO 5282 5288	Jollan
+T30	ORG 5325 5339	Jolla-yhtiössä
+T31	ORG 5405 5411	Nokian
+T32	PRO 5412 5423	Here-kartat
+T33	PRO 5450 5471	Sailfish-järjestelmän
+T34	PRO 5514 5524	Yle Areena
+T35	PRO 5532 5538	Jollan
+T36	PRO 5569 5578	Netflixiä
+T37	PRO 5606 5620	Sports Tracker
+T38	PRO 5695 5710	Reitti-sovellus
+T39	PRO 5739 5745	Jollan
+T40	ORG 5765 5773	Yandexin
+T41	PRO 5774 5796	Android-sovelluskauppa
+T42	PRO 5799 5809	Yandexista
+T43	PRO 5831 5840	Facebook-
+T44	PRO 5843 5851	Twitter-
+T45	PRO 5855 5874	Spotify-sovellukset
+T46	PRO 5877 5885	Yandexia
+T47	PRO 5922 5944	Aptoide-sovelluskauppa
+T48	ORG 5960 5965	Jolla
+T49	PRO 5986 6002	Aptoide-sovellus
+T50	PRO 6045 6067	Jolla-sovelluskaupasta
+T51	PRO 6068 6084	Jolla-puhelimeen
+T52	PRO 6087 6095	Aptoiden
+T53	PRO 6131 6138	Youtube
+T54	PRO 6142 6149	Netflix
+T55	PRO 6152 6166	Clash of Clans
+T56	PRO 6170 6183	Sport Tracker
+T57	PRO 6202 6212	Yandexista
+T58	PRO 6215 6237	Google Play -kauppakin
+T59	PRO 6425 6431	Jollan
+T60	PRO 6468 6478	Yandexistä
+T61	PRO 6566 6581	Jolla-puhelimen
+T62	PRO 6696 6705	Androidin
+T63	PRO 6743 6758	Jolla-puhelimen
+T64	PRO 7066 7072	Jollan
+T65	PRO 7209 7215	Jollan
+T66	PRO 7344 7351	IPhonen
+T67	PRO 7356 7365	Androidin
+T68	PRO 7423 7428	Jolla
+T69	ORG 7516 7521	Jolla
+T70	PRO 7550 7557	IPhonen
+T71	PRO 7561 7570	Androidin
+T72	ORG 7734 7740	Applen
+T73	PRO 7744 7753	Androidin
+T74	ORG 7892 7907	Microsoft/Nokia
+T75	PRO 7932 7949	Lumia-puhelimilla
+T76	PRO 8001 8009	Jollasta
+T77	PRO 8268 8278	Yle Areena
+T78	ORG 8286 8292	Jollan
+T79	PRO 8317 8339	Aptoide-sovelluskaupan
+T80	PRO 8352 8364	Google Playn
+T100001	ORG 2747 2752	Nokia
+T100002	ORG 5514 5517	Yle
+T100003	ORG 6215 6221	Google
+T100004	ORG 8268 8271	Yle
+T100005	ORG 8352 8358	Google

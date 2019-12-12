@@ -1,0 +1,10 @@
+NSA kilpailee EU:n kanssa kvanttitietokoneen kehityksessä
+Yhdysvaltain kansallinen tiedustelupalvelu ei ole rajoittanut urkintatoimintaansa pelkästään kohdeverkkoihin , tietokoneisiin ja salausmenetelmien heikentämiseen , vaan se myös kehittää omaa kvanttitietokonetta kaikkien salausten purkamiseen .
+NSA:n alihankkijan palveluksessa olleen Edward Snowdenin paljastamat asiakirjat kertovat tiedustelupalvelun ohjanneen salaisesta budjetistaan noin 80 miljoonaa dollaria kvanttitietokoneen kehittämiseen .
+Penetrating Hard Tar gets -dokumentin mukaan suurin osa kehitystyöstä tehdään salaisten sopimusten perusteella laboratoriossa College Parkissa , Marylandissa .
+Kvanttitietokoneen teho riittäisi kaikkien tunnettujen salausmenetelmien purkamiseen .
+Silloin mikään tietoverkoissa liikkuva data ei jäisi suojaan NSA:n urkinnalta .
+Snowdenin dokumentit viittaavat siihen , ettei NSA ole sen lähempänä kuin muutkaan toimivan kvanttitietokoneen kehittämisessä .
+Washington Postin artikkelin mukaan NSA näyttää uskovan , että se kilpailee tasaväkisesti Euroopan unionin ja Sveitsin rahoittamien kvanttilaskentalaboratorioiden kanssa .
+MIT:n kvanttimekaniikan professori Seth Lloydin mukaan NSA:n huomion kohde on oikea :
+– EU ja Sveitsi ovat ottaneet huomattavia edistysaskelia kuluneen vuosikymmenen aikana ja saaneet Yhdysvallat kiinni kvanttilaskennan teknologiassa , Lloyd sanoi Washington Postin mukaan .

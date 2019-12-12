@@ -1,0 +1,21 @@
+T1	ORG 19 27	Mozillan
+T2	PRO 172 188	Firefox-selaimen
+T3	ORG 222 229	Mozilla
+T4	PER 257 269	Brendan Eich
+T5	PRO 292 304	JavaScriptin
+T6	ORG 391 399	Mozillan
+T7	ORG 422 426	Cnet
+T8	PER 490 496	Eichin
+T9	PER 633 639	Eichin
+T10	LOC 714 727	Kaliforniassa
+T11	ORG 832 840	Mozillan
+T12	ORG 867 891	rarebit-ohjelmistoyhtiön
+T13	PER 903 917	Hampton Catlin
+T14	PRO 956 983	Color Puzzle -sovelluksensa
+T15	PRO 984 1006	Firefox Marketplacesta
+T16	PRO 1028 1038	Firefoxiin
+T17	PRO 1098 1107	iPhonelle
+T18	PRO 1111 1122	Androidille
+T19	PRO 1133 1153	Dictionary!-sovellus
+T20	ORG 1401 1409	BetaNews
+T21	PER 1412 1424	Brendan Eich

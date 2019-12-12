@@ -1,0 +1,48 @@
+T1	ORG 0 11	Microsoftin
+T2	PRO 12 25	Windows Phone
+T3	ORG 42 53	Microsoftin
+T4	PRO 89 116	Windows Phone -älypuhelimet
+T5	LOC 153 167	Yhdysvalloissa
+T6	LOC 170 180	Euroopassa
+T7	ORG 267 273	Nokian
+T8	ORG 303 316	Microsoftille
+T9	PRO 344 372	Windows Phone -älypuhelinten
+T10	DATE 444 454	Maaliskuun
+T11	LOC 542 556	Yhdysvalloissa
+T12	ORG 567 587	Kantar World Panelin
+T13	PRO 599 632	Windows Phone -käyttöjärjestelmän
+T14	LOC 665 673	Euroopan
+T15	LOC 725 731	Kiinan
+T16	LOC 782 790	Euroopan
+T17	PRO 821 835	Windows Phonen
+T18	ORG 871 878	Googlen
+T19	PRO 879 890	Androidilla
+T20	ORG 936 942	Applen
+T21	LOC 999 1013	Yhdysvalloissa
+T22	PRO 1014 1039	Windows Phone -laitteiden
+T23	DATE 1076 1087	vuoden 2013
+T24	LOC 1121 1133	Australiassa
+T25	LOC 1177 1185	Kiinassa
+T26	LOC 1204 1213	Japanissa
+T27	PRO 1245 1270	Windows Phone -laitteiden
+T28	LOC 1332 1340	Suomessa
+T29	LOC 1366 1373	Japanin
+T30	ORG 1396 1401	Apple
+T31	PRO 1410 1416	iPhone
+T32	ORG 1497 1505	Kantarin
+T33	PER 1515 1531	Dominic Sunnebon
+T34	PRO 1539 1553	Windows Phonen
+T35	ORG 1580 1586	Nokian
+T36	ORG 1689 1694	Nokia
+T37	PRO 1710 1742	Lumia 520 -aloitusälypuhelimella
+T38	PRO 1825 1836	Windowsilla
+T39	ORG 1865 1871	Nokian
+T40	ORG 1915 1924	Motorolan
+T41	ORG 1927 1931	LG:n
+T42	ORG 1935 1944	Samsungin
+T43	PER 1967 1974	Sunnebo
+T44	ORG 1981 1993	Techcrunchin
+T45	ORG 2089 2095	Xiaomi
+T46	ORG 2098 2102	Oppo
+T47	ORG 2106 2113	OnePlus
+T48	ORG 2281 2287	Nokian

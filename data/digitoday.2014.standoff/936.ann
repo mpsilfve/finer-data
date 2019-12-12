@@ -1,0 +1,33 @@
+T1	ORG 0 8	F-Secure
+T2	ORG 58 67	F-Securen
+T3	LOC 88 96	Suomessa
+T4	PER 116 129	Sean Sullivan
+T5	LOC 163 175	Yhdysvaltoja
+T6	LOC 176 190	Pohjois-Korean
+T7	PER 208 221	Sean Sullivan
+T8	ORG 240 249	F-Securen
+T9	ORG 290 295	FBI:n
+T10	PER 304 315	James Comey
+T11	LOC 345 356	Yhdysvallat
+T12	LOC 364 378	Pohjois-Korean
+T13	ORG 387 402	Sony Picturesin
+T14	ORG 417 420	FBI
+T15	PER 465 470	Comey
+T16	LOC 520 531	Yhdysvallat
+T17	PER 546 554	Sullivan
+T18	LOC 594 608	Pohjois-Korean
+T19	ORG 669 698	Sony Pictures Entertainmentin
+T20	ORG 827 851	Yhdysvaltain hallituksen
+T21	PER 981 989	Sullivan
+T22	PER 1004 1012	Sullivan
+T23	LOC 1045 1057	Yhdysvaltoja
+T24	PER 1110 1126	Edward Snowdenin
+T25	PER 1373 1381	Sullivan
+T26	PER 1395 1407	Sullivanilla
+T27	PER 1461 1470	Snowdenin
+T28	LOC 1541 1552	Yhdysvallat
+T29	DATE 1565 1573	kesäkuun
+T30	PRO 1596 1605	Fisa-lain
+T31	DATE 1724 1735	vuonna 2015
+T32	PER 1844 1852	Sullivan
+T100001	LOC 827 839	Yhdysvaltain

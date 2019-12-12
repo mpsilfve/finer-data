@@ -1,0 +1,25 @@
+T1	ORG 0 9	Microsoft
+T2	ORG 51 62	Microsoftin
+T3	PER 144 157	Satya Nadella
+T4	ORG 160 169	Microsoft
+T5	PER 193 208	Steve Ballmerin
+T6	PER 260 273	Satya Nadella
+T7	ORG 301 312	Microsoftia
+T8	PER 366 376	Bill Gates
+T9	PER 403 410	Nadella
+T10	ORG 416 428	Microsoftiin
+T11	DATE 457 461	1992
+T12	PER 546 553	Nadella
+T13	ORG 618 627	Microsoft
+T14	PER 649 654	Gates
+T15	ORG 776 787	Microsoftin
+T16	PER 809 822	John Thompson
+T17	PER 825 832	Ballmer
+T18	DATE 855 864	elokuussa
+T19	ORG 1039 1049	Ericssonin
+T20	PER 1067 1082	Hans Vestbergin
+T21	ORG 1086 1092	Nokian
+T22	PER 1118 1132	Stephen Elopin
+T23	PER 1141 1149	Thompson
+T24	ORG 1156 1167	Microsoftin
+T25	PER 1214 1222	Nadellan

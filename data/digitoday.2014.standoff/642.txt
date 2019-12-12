@@ -1,0 +1,14 @@
+Google nimitti itsensä poliisiksi : Uhkavaatimus Microsoftille ja Applelle
+Googlen nollapäivätiimi etsii aukkoja omista ja kilpailijoiden ohjelmista — ja paljastaa naapurin haavoittuvuudet .
+Google on antanut Bloombergin mukaan muille tekniikkayhtiöille uhkavaatimuksen : korjatkaa ohjelmistojenne tietoturva 90 päivässä tai julkistamme ne .
+Google perustelee toimintaansa sillä , että kyberrikolliset iskevät uusiin tietoturva-aukkoihin hyvin nopeasti .
+Googlen nollapäivähaavoittuvuustiimi etsii tietoturva-aukkoja paitsi yhtiön omista , myös kilpailijoiden ohjelmistoista .
+Project zeroksi kutsuttu ryhmä on toiminut viime kesäkuusta asti .
+Kimmokkeena tiimin perustamiselle toimi Heartbleed-aukko ja NSA:n sen kautta tekemä vakoilu .
+Project zeron kerrotaan löytäneen toistaiseksi 20 aukkoa Microsoftin , 39 aukkoa Applen ja 37 aukkoa Adoben ohjelmista .
+Arvostelijat ovat huomauttaneet , että vaikka Googlen tarkoitukset saattaisivat olla pohjimmiltaan hyviä , kilpailijoiden heikkouksien paljastaminen saattaa yhtiön outoon valoon .
+Monet pitävät aukkojen etsimistä muiden ohjelmista valtionlaitosten eikä yksityisten yhtiöiden työnä .
+Apple ei halunnut kommentoida Googlen valitsemaa tietä .
+Microsoft totesi Googlen toiminnan muistuttavan lähinnä " sainpas sinut " -leikkiä .
+Google on suututtanut jo aiemmin sekä Microsoftin että Applen julkaisemalla niiden ohjelmistoissa olevia tietoturva-aukkoja .
+Yhtiö ei ole suostunut kummankaan pyyntöihin aukkojen julkistamsen lykkäämisestä korjauksen valmiiksi saamista varten .

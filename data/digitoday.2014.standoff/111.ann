@@ -1,0 +1,18 @@
+T1	ORG 0 7	Siemens
+T2	ORG 148 155	Siemens
+T3	ORG 164 171	HKL:lle
+T4	PRO 194 210	Helsingin metron
+T5	PRO 214 225	Länsimetron
+T6	ORG 246 255	Siemensin
+T7	ORG 489 496	Siemens
+T8	PRO 506 517	Länsimetron
+T9	ORG 566 573	HKL:lle
+T10	DATE 596 610	elokuussa 2016
+T11	ORG 636 643	Siemens
+T12	PRO 656 667	Länsimetron
+T13	DATE 700 715	lokakuuhun 2015
+T14	ORG 727 730	HKL
+T15	DATE 779 790	joulukuussa
+T16	ORG 852 861	Siemensin
+T17	ORG 1057 1064	Siemens
+T100001	LOC 194 203	Helsingin

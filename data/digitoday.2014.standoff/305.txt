@@ -1,0 +1,17 @@
+Microsoft sijoittaa googlettomaan Androidiin
+Microsoft sijoittaa rahaa yritykseen , joka pyrkii kampeamaan Android-käyttöjärjestelmän irti Googlen talutusnuorasta , Wall Street Journal uutisoi .
+Aloitteleva , 80 hengen ohjelmistokehittäjä Cyanogen nousee uuteen arvoon Wall Street Journalin lähteiden kerrottua , että Microsoftista tulee yksi siihen sijoittavista yrityksistä .
+Cyanogen kehittää Android-käyttöjärjestelmästä versiota , joka ei ole riippuvainen Googlesta .
+Lehden lähteiden mukaan Microsoft on yksi meneillään olevan 70 miljoonan dollarin sijoituskierroksen vähemmistösijoittajista .
+Sijoituspotti voi vielä kasvaa , jos siihen tulee mukaan muita yrityksiä , jotka hyötyisivät riippumattomasta Androidista .
+70 miljoonan sijoitus antaisi Cyanogenille muutaman sadan miljoonan dollarin markkina-arvon .
+Microsoft ja Cyanogen kieltäytyivät kommentoimasta asiaa , Wall Street Journal kirjoitti .
+Mobiilikäyttöjärjestelmä Android on syntynyt Googlen tuella , mutta se on ilmainen ja avoimeen koodiin perustuvana kaikkien halukkaiden käytettävissä .
+Google on onnistunut kytkemään sen tiukasti omiin palveluihinsa vaatimalla , että Googlen sovellukset ovat mukana Androidin versioissa ja Googlen hakukone on perusasetuksena .
+Muuten niillä ei ole pääsyä Googlen hakukoneeseen , videopalvelu Youtubeen tai sovelluskauppa Play Storeen .
+Cyanogen neuvottelee laitevalmistajien kanssa oman Androidinsa asentamisesta älypuhelimiin .
+Intialainen Micromax on jo sopinut toimittavansa C-Android-laitteita ja Wall Street Journalin lähteiden mukaan tulossa on pian muitakin sopimuksia .
+Strategy Analyticsin mukaan maailman viime vuoden heinä–syyskuun Android-toimituksista kaikkiaan 37 prosenttia koostui erilaisista itsenäisistä Android-versioista .
+Cyanogenin alkuvaiheen sijoittajakunnassa on vaikuttava joukko teknologia-alan sijoittajia .
+Mukana ovat Benchmark Capital , Redpoint Ventures , Andreessen Horowitz ja kiinalainen Tencent .
+Microsoftin sijoittaminen sen oman Windows Phonen kanssa kilpailevaan Androidiin on erikoinen siirto , mutta se pystyisi hyötymään Googlesta riippumattomasta Androidista muun muassa parantamalla oman hakukoneensa Bingin kilpailuasemaa ja nostamalla muiden sovellustensa näkyvyyttä suuressa Android-ympäristössä .

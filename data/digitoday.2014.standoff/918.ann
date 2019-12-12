@@ -1,0 +1,20 @@
+T1	ORG 0 4	Uber
+T2	LOC 8 18	Kalifornia
+T3	ORG 97 101	Uber
+T4	LOC 110 123	Kaliforniassa
+T5	ORG 246 252	Uberin
+T6	ORG 269 303	Kalifornian liikenneviraston DMV:n
+T7	ORG 306 334	Department of Motor Vehicles
+T8	ORG 512 517	DMV:n
+T9	ORG 641 646	PCMag
+T10	ORG 674 678	Uber
+T11	PRO 760 778	Uber X -palvelussa
+T12	ORG 937 947	Gizmodolle
+T13	ORG 975 979	Uber
+T14	ORG 1097 1103	Uberin
+T15	ORG 1216 1219	DMV
+T16	DATE 1332 1343	vuoden 1935
+T17	ORG 1420 1459	Kalifornian Public Utilities -komission
+T18	ORG 1504 1507	DMV
+T100001	LOC 269 280	Kalifornian
+T100002	LOC 1420 1431	Kalifornian

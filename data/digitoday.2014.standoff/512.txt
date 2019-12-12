@@ -1,0 +1,10 @@
+Microsoftin turvasoftassa kriittinen turva-aukko
+Helmikuun päivitystiistaista on tulossa kriittinen , mutta silti melko rauhallinen .
+Microsoft kertoi torstaina illalla ensi tiistain tietoturvakorjauksistaan .
+Helmikuun paikkauskokoelma koostuu maltillisesti viidestä päivityksestä , joista kaksi on kriittisiä ja kolme yhtä pykälää lievempiä eli tärkeitä .
+Yksi kriittisistä päivityksistä koskee Microsoftin tietoturvaohjelmistoa nimeltä Microsoft Forefront Protection 2010 for Exchange Server .
+Toinen kriittinen päivitys koskee Windows-käyttöjärjestelmää , mutta ei lainkaan esimerkiksi Windows XP:tä tai Vistaa .
+Päivitys on tulossa kriittisenä muun muassa Windows 7:lle , 8:lle , 8.1:lle ja Windows RT:lle. .
+Microsoftin luokituksessa kriittinen haavoittuvuus mahdollistaa koodin ajamisen etäältä uhrin tietokoneella ilman tämän vuorovaikutusta .
+Tärkeät päivitykset koskevat Windowsia ja .NET Frameworkia .
+Uhka vaihtelee palvelunestosta käyttövaltuuksien laajentamiseen ja tietojen menettämiseen .

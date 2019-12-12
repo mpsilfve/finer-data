@@ -1,0 +1,24 @@
+T1	PER 0 14	Edward Snowden
+T2	PER 83 99	Edward Snowdenin
+T3	PRO 108 131	Nobelin rauhanpalkinnon
+T4	LOC 236 245	Venäjällä
+T5	PER 263 277	Edward Snowden
+T6	LOC 308 316	Norjassa
+T7	PRO 327 350	Nobelin rauhanpalkintoa
+T8	PER 654 668	Edward Snowden
+T9	LOC 748 760	Yhdysvaltain
+T10	LOC 846 856	Australian
+T11	LOC 860 870	Indonesian
+T12	LOC 939 949	Australian
+T13	LOC 970 980	Indonesian
+T14	LOC 1151 1164	Yhdysvaltojen
+T15	LOC 1167 1174	Venäjän
+T16	LOC 1179 1185	Kiinan
+T17	PER 1230 1239	Snowdenin
+T18	PER 1352 1361	Snowdenin
+T19	LOC 1571 1583	Yhdysvaltain
+T20	PER 1596 1608	Barack Obama
+T21	ORG 1660 1665	NSA:n
+T22	DATE 1698 1709	vuonna 2009
+T100001	PER 108 115	Nobelin
+T100002	PER 327 334	Nobelin

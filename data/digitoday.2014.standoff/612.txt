@@ -1,0 +1,25 @@
+Miksi verkkohyökkäys jumitti myös pankkiautomaatit , OP ?
+Palvelunestohyökkäys kohdistui OP:n verkkopalveluihin , mutta onnistui haittaamaan myös pankkiautomaattinostoja ja korttimaksuja .
+Iskun jatkuva torjunta selvittelyt ovat vaatineet runsaasti lisätyötä .
+Keskiviikkona alkanut hyökkäys OP-pankkiin jatkuu edelleen .
+Pankin palvelut on saatu toimimaan suojauskeinojen avulla , esimerkiksi estämällä verkkoliikennettä , kertoo OP:n tietojärjestelmistä vastaavan Tiedon riskienhallintajohtaja Mikael Salonaho .
+— Yön aikana oli jonkun verran kuormaa .
+Se oli aika suurta .
+Sitä seurataan edelleen tehostetusti .
+Suojauksia on lisätty , erityisesti ulkomaan liikennettä varten , sillä kuorma vaikuttaa tulevan etupäässä ulkomailta , Salonaho sanoo .
+Salonaho antaa ansiota torjunnasta myös Viestintäviraston Kyberturvallisuuskeskukselle sekä operaattoreille , joiden kanssa Tieto ja OP ovat tehneet tiivistä yhteistyötä .
+OP-pankissa hyökkäyksen torjunta ja tutkiminen on aiheuttanut runsaasti työtä .
+Pankkikorteilla maksaminen sekä automaattinostot onnistuvat Nikkasen mukaan jälleen , mutta verkkopankin toiminnassa voi yhä olla ongelmia .
+— Meillä on kaikki tekniset henkilöt kiinni tämän asian selvittämisessä , kertoo viestintäjohtaja Silja Nikkanen .
+Uudenvuoden aattona viiden aikoihin alkanut hyökkäys kohdistui etupäässä OP:n verkkopalveluihin , mutta se lamautti myös pankkiautomaatit sekä häiritsi pankkikorteilla maksamista .
+Vaikka pankkiautomaattien tietoliikenne kulkee OP:n Nikkasen mukaan eri reittejä kuin verkkopalvelun , poikkeuksellisen suuri hyökkäys haittasi myös niiden toimintaa .
+— Tällaisessa hyökkäyksessä liikenne kohdistuu koko tietoliikenneverkkoon operaattorin runkoverkosta lähtien , joten heijastusvaikutukset ovat sitä kautta laajat , sanoo Tiedon Salonaho .
+Palvelunestohyökkäysten ylimääräinen liikenne ulkomailta kulkee Suomeen muun tietoliikenteen kanssa samoja verkkoja pitkin .
+— Tämä tekotapa voi aiheuttaa sen , että hyökkäys voi näkyä hitautena myös muissa palveluissa , Salonaho sanoo .
+— Vaikutusten laajuus riippuu ihan siitä , missä kohtaa kapasiteetin loppuminen näkyy .
+Salonahon mukaan pankit käyttävätkin useita verkko-operaattoreita varmistaakseen tietoliikenneyhteytensä .
+Ilmeisesti tämä suojakeino ei kuitenkaan riittänyt turvaamaan OP-pankkia uutena vuotena .
+OP on tehnyt hyökkäyksestä rikosilmoituksen , ja keskusrikospoliisi pyrkii selvittämään hyökkäyksen alkulähdettä .
+Hyökkäyksen alkuperää voi olla kuitenkin vaikea selvittää .
+OP.n hyökkäys on toteutettu niin sanotun bottiverkon avulla , jonka muodostavat ympäri maailmaa haittaohjelmien avulla kaapatut tietokoneet .
+OP:n tapauksissa osa hyökkäykseen osallistuneista koneista on myös Suomessa .

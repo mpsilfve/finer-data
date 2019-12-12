@@ -1,0 +1,12 @@
+T1	ORG 0 9	EU-oikeus
+T2	ORG 166 181	EU-tuomioistuin
+T3	ORG 244 259	EU-tuomioistuin
+T4	DATE 274 285	vuonna 2006
+T5	LOC 786 794	Madridin
+T6	LOC 798 805	Lontoon
+T7	LOC 1182 1191	Itävallan
+T8	LOC 1195 1203	Irlannin
+T9	ORG 1230 1249	EU-tuomioistuimelta
+T10	ORG 1287 1291	EU:n
+T11	LOC 1324 1332	Saksassa
+T12	ORG 1615 1619	EU:n

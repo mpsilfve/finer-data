@@ -1,0 +1,13 @@
+T1	ORG 0 9	Starbucks
+T2	ORG 314 323	Starbucks
+T3	PER 483 494	Daniel Wood
+T4	ORG 501 516	Computerworldin
+T5	ORG 568 577	Starbucks
+T6	ORG 823 834	Starbucksin
+T7	PER 856 867	Curt Garner
+T8	ORG 910 916	Sophos
+T9	ORG 1008 1017	Starbucks
+T10	PER 1144 1155	Daniel Wood
+T11	ORG 1468 1477	Starbucks
+T12	PRO 1709 1721	Snapchatista
+T13	ORG 1840 1848	Snapchat

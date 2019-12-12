@@ -1,0 +1,13 @@
+Suomalaisissa yrityksissä tikittää uusi tietoturvapommi
+Windows XP oli viime vuoden murheenkryyni tietoturvassa .
+Kohta iskee voimakas tuttuuden tunne , kun samankaltainen soppa on kiehumassa yli .
+Ohjelmistoyhtiö Microsoft kiinnittää huomiota yrityksissä piilevään tietoturvaongelmaan .
+Yhtiön mukaan " konesaleissa on vielä huolestuttavan paljon pian vanhentuvia Windows Server 2003 -järjestelmiä " .
+Tällä Microsoft tarkoittaa , että lähes 12-vuotiaan Windows Server 2003 -käyttöjärjestelmän tuki päättyy 14. heinäkuuta tänä vuonna .
+Sen jälkeen alustalle ei enää julkaista tietoturvakorjauksia .
+Muistutus takarajasta sisältyi lehdistökutsuun tilaisuuteen , missä Microsoft kokoaa joukon asiantuntijoita ja mediaa keskustelemaan palvelinten tulevaisuudesta ensi viikolla .
+Microsoftin palvelintuotepäällikön Antti Alilan mukaan jo nyt on kova kiire päivittää johonkin uudempaan järjestelmään .
+Hän totesi jo viime vuoden puolella ( Youtube-video ) , että optimistisenkin arvion mukaan palvelinten siirto eli migraatio uuteen ympäristöön vie 200 päivää ja sovellusten tuominen yli 300 päivää .
+Tietenkin todellinen aika heittelee huomattavasti riippuen siitä , minkälaisesta it-ympäristöstä on kyse .
+Nyt aikaa takarajaan on enää osapuilleen 160 päivää .
+Alila myös mainitsi tuolloin , että Suomessa on yhä kymmeniä tuhansia Windows Server 2003 -palvelimia , ja vaikka silloin kaikki yritysten it-vastaavat olisi laitettu liikekannalle , siltikään tuskin olisi saatu kaikkia asennuksia ajoissa tunkiolle .

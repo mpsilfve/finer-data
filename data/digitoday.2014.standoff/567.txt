@@ -1,0 +1,13 @@
+Kokin tervehdys verkossa : Haittaohjelmia
+Jamie Oliverin verkkosivut valjastettiin haittaohjelmien jakamiseen .
+Julkkiskokki Jamie Oliver tarjoilee hyviä reseptejä ruokapöytään , mutta tällä kertaa valitettavasti myös haitakkeita tietokoneille .
+Oliverin sivustoille oli piiloutunut haittaohjelma , joka latasi pahaa-aavistamattoman käyttäjän koneelle Dorkbot-nimisen troijalaisen .
+Hyökkäys kohdistui kolmeen vähän turhan usein tietoturvaotsikoissa viihtyvän sovelluksen haavoittuvuuksiin .
+Ellet jo arvannutkin , niin kerrottakoon näiden kolmen olleen Oraclen Java , Adoben Flash sekä Microsoftin Silverlight .
+Näistä Flashin ja Silverlightin haavoittuvuuksiin on olemassa jo paikkaukset , joten kannattaa tarkistaa , että käytössä ovat uusimmat versiot .
+Java sen sijaan on jälleen oman onnensa nojassa , kunnes Oracle julkaisee päivityksen .
+Haittaohjelmaa syötti Oliverin sivustolla ollut javascript-pätkä .
+Toistaiseksi on epäselvää , onko haitake kolmannen osapuolen käsialaa , vai onko Oliverin verkkosivuston ylläpitotunnus joutunut vääriin käsiin .
+Hyvä uutinen on kuitenkin se , että tällä hetkellä Jamie Oliverin sivut tarjoilevat sitä , mitä niiltä voi odottaakin : herkullisia reseptejä .
+Haittaohjelmat ovat jo joutuneet biojäteämpärin kautta kaatopaikalle .
+Asiasta kertoi muun muassa Neowin .

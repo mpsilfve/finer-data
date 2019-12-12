@@ -1,0 +1,12 @@
+T1	ORG 36 44	SpaceX:n
+T2	PER 99 110	Elon Muskin
+T3	ORG 111 119	SpaceX:n
+T4	ORG 287 296	Space.com
+T5	LOC 306 318	Yhdysvaltain
+T6	LOC 340 350	Floridassa
+T7	LOC 456 462	Suomen
+T8	ORG 524 530	SpaceX
+T9	ORG 591 597	SpaceX
+T10	PRO 616 636	Dragon-rahtikapselin
+T11	PRO 687 704	ISS-avaruusaseman
+T12	DATE 770 785	16. maaliskuuta

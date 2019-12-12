@@ -1,0 +1,21 @@
+T1	ORG 40 45	Nokia
+T2	ORG 88 93	Nokia
+T3	ORG 198 207	Gartnerin
+T4	ORG 216 221	Nokia
+T5	ORG 225 233	Ericsson
+T6	ORG 350 355	Nokia
+T7	ORG 489 496	Gartner
+T8	PRO 596 660	Magic Quadrant for LTE Network Infrastructure 2014 -arvioinnissa
+T9	ORG 661 667	Nokian
+T10	ORG 671 681	Ericssonin
+T11	ORG 714 720	Huawei
+T12	ORG 724 738	Alcatel-Lucent
+T13	ORG 753 760	Gartner
+T14	ORG 774 779	ZTE:n
+T15	ORG 798 807	Samsungin
+T16	ORG 810 816	Ciscon
+T17	ORG 820 825	NEC:n
+T18	ORG 1070 1075	Nokia
+T19	PRO 1354 1359	volte
+T20	PRO 1362 1376	voice over lte
+T21	PER 1434 1446	Marc Rouanne

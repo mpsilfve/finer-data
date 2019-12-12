@@ -1,0 +1,12 @@
+T1	ORG 0 6	Amazon
+T2	ORG 275 283	Amazonin
+T3	ORG 664 672	Amazonin
+T4	ORG 823 838	Washington Post
+T5	ORG 909 919	Narrativen
+T6	ORG 962 970	Bionymin
+T7	ORG 1084 1092	Amazonin
+T8	PER 1117 1127	Jeff Bezos
+T9	ORG 1149 1157	Amazonin
+T10	ORG 1238 1246	Amazonin
+T11	DATE 1266 1284	tammi–maaliskuussa
+T100001	LOC 823 833	Washington

@@ -1,0 +1,38 @@
+T1	ORG 21 27	Google
+T2	PRO 36 55	Android-älykellonsa
+T3	PRO 56 64	iPhoneen
+T4	ORG 65 71	Google
+T5	PRO 116 151	Android Wear - käyttöjärjestelmästä
+T6	ORG 152 158	Applen
+T7	PRO 159 166	iPhonen
+T8	ORG 193 200	Googlen
+T9	PRO 267 279	App Storessa
+T10	PRO 294 301	iPhonen
+T11	ORG 312 319	Googlen
+T12	PRO 366 379	Apple Watchin
+T13	ORG 439 445	Applen
+T14	ORG 470 476	Applen
+T15	PRO 477 482	iOS:n
+T16	ORG 486 493	Googlen
+T17	PRO 494 503	Androidin
+T18	PRO 708 730	Android Wear -älykello
+T19	PRO 752 759	iPhonen
+T20	PRO 775 790	LG Watch Urbane
+T21	ORG 793 797	NDTV
+T22	PRO 835 858	Android Wear -älykellot
+T23	PRO 876 898	iOS-käyttöjärjestelmää
+T24	ORG 915 922	Huawein
+T25	ORG 925 931	Asusin
+T26	ORG 935 944	Motorolan
+T27	ORG 954 960	Google
+T28	PRO 981 1001	Android Wear for iOS
+T29	PRO 1008 1037	Applen iPhone 5 -älypuhelinta
+T30	ORG 1058 1062	Cnet
+T31	PRO 1091 1103	Android Wear
+T32	PRO 1111 1118	iPhonen
+T33	PRO 1214 1221	iPhonen
+T34	ORG 1238 1245	Googlen
+T35	ORG 1265 1271	Applen
+T36	PRO 1294 1318	Android Wear -laitteessa
+T100001	ORG 366 371	Apple
+T100002	ORG 775 777	LG

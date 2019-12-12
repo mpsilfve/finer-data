@@ -1,0 +1,30 @@
+Capital Asset Pricing -malli
+Capital Asset Pricing -malli ( engl. " Capital Asset Pricing Model " , CAPM , suomeksi myös CAP-malli ) on hinnoittelumalli , jota käytetään rahoituksessa arvopaperin odotetun tuottoasteen laskemiseen .
+Sen mukaan pääoman tuottovaatimus saadaan siten , että riskittömään korkotasoon lisätään yrityskohtaisella beta-kertoimella kerrottu markkinoiden keskimääräinen riskipreemio .
+Malli indikoi sijoittajien arvopaperilta vaatimaa pitkän aikavälin keskimääräistä tuottoa .
+On tärkeää huomata , että kyseessä on odotettu tai vaadittu , ei suinkaan taattu tuotto .
+Volatiliteetti aiheuttaa poikkeamia odotetusta tuotosta lyhyellä ja keskipitkällä aikavälillä .
+Teorian mukaan erittäin pitkällä aikavälillä CAP-mallin mukainen tuotto on keskimäärin sama kuin todellinen tuotto .
+Akateemisen rahoitustutkimuksen keskuudessa alkoi 1950-luvulla itää ajatus perusteellisesta matemaattisesta kaavasta , joka tarjoaisi ratkaisun arvopapereiden hintatason perustelemiseen .
+Koska aikaisempaa ohjenuoraa vastaavan tasapainoyhtälön löytämiseksi ei ollut , idean siirtyminen kaavaksi kesti tavanomaista kauemmin .
+Tutkijat keskustelivat ja kehittivät toistensa ideoita 12 vuoden akateemisen diskurssin aikana eteenpäin ja vähitellen ensimmäinen arvopapereiden hinnoittelumalli CAPM alkoi hahmottua tieteellisissä artikkeleissa .
+Mallilla ei ole yhtä yksiselitteistä keksijää , mutta suurimmiksi myötävaikuttajiksi mainitaan usein William F. Sharpen ( 1964 ) , John V. Lintnerin ( 1965 ) ja Jan Mossinin ( 1966 ) tieteelliset löydökset .
+Myös Harry Markowitzin ( 1952 ) aikaisempi tieteellinen läpimurto portfolioteorian saralla edesauttoi CAPM-teorian kehittämisessä .
+William F. Sharpen ( 1964 ) tutkimuksen mukaan tasapainotilanteessa arvopapereiden hinnat muodostavat pääomamarkkinasuoran ( engl. " Capital market line " , CML ) , jossa korkeampaa odotettua tuottoa on mahdollista saada vain riskitason samanaikaisella kasvattamisella .
+Tasapainotilanteen syntymistä voidaan havainnollistaa Harry Markowitzin ( 1952 ) portfolioteorian " tehokkaan rintaman " avulla .
+Jokainen pääomamarkkinasuoran tangentilla ( ks. sininen viiva kuviossa 1 ) sijaitseva piste on tehokas .
+Tehokkaan rintaman ( ks. punainen kaari kuviossa 1 ) alapuolella sijaitsevat pisteet eivät ole tehokkaita , sillä siirtyminen pääomamarkkinasuoralle tuottaa joko saman tuoton alhaisemmalla riskillä , tai vastaavasti korkeamman tuoton samalla riskillä ( ks. kuvio 1 ) .
+Tämän seurauksena arvopapereiden hinnat pyrkivät asettumaan " pääomamarkkinasuoran " tangentille , minkä havainnollistaminen on helpompaa jos ajattelemme " tehokkaan rintaman " piirtämistä jokaiselle pääomamarkkinasuoran tangentilla sijaitsevalle yksittäiselle pisteelle , joita on kyseisellä suoralla loputon määrä .
+Jokainen rationaalinen voittoa maksimoiva taloudellinen toimija haluaa Sharpen ( 1964 ) tutkimuksen mukaan siirtyä vasemmalle ( riskien minimointi ) ja ylös ( tuoton maksimointi ) CAP-mallin suoralla oman riskinottohalukkuutensa mukaisesti .
+Toisin sanoen , CAPM-teorian mukaan mitä korkeampi riski sijoituksella on , niin sitä suurempi on siitä saatavan tuoton oltava .
+Tämä Sharpen ( 1964 ) tutkimuksen havainto on ehkä keskeisin löydös modernissa rahoitusteoriassa , ja usein sijoituksen tuoton ja riskin sanotaankin kulkevan " käsi kädessä " .
+Seuraavat taustaoletukset pätevät CAPM-teorian yksinkertaistetussa maailmassa : Näillä lähtöoletuksilla William F. Sharpe ( 1964 ) johtaa CAPM-hinnoittelumallin matemaattisen kaavan : formula_1 , jossa formula_2 = arvopaperin tai sijoituskohteen " i " odotettu tuotto formula_3 = riskitön korkokanta , kuten esimerkiksi Saksan valtionvelkakirjojen korkotuotto formula_4 = Beta kerroin , joka kuvaa sijoituskohteen " i " systemaattista tai yrityskohtaista riskiä , eli arvopaperin arvon muutoksen herkkyyttä suhteessa markkinaportfolioon arvonmuutoksiin formula_5 = markkinaportfolion odotettu tuotto CAPM-teorian keskeisimpiä käsitteitä on arvopaperimarkkinasuora ( engl. " Security Market Line " , SML ) , joka kuvaa osakkeen odotetun tuoton suhdetta markkinariskiin , eli osakkeen beta-kertoimeen .
+Arvopaperimarkkinasuoran ( ks. sininen viiva kuviossa 2 ) kulmakertoimen jyrkkyys kuvaa markkinoiden riskipreemiota , eli Sharpen lukua .
+" Arvopaperimarkkinasuoran " " päälle " sijoittuvien osakkeiden tuotto vastaa niiden kantamaa riskitasoa .
+Toisin sanoen , näiden osakkeiden tuotto - riskit huomioon otettuna - on " riittävä " tai " reilu " .
+Sen sijaan pisteet jotka sijoittuvat arvopaperimarkkinasuoran yläpuolelle , ovat " alihinnoiteltuja " riskitasoonsa nähden ( ks. kuvio 2 ) .
+Näitä osakkeita kannattaa siis ostaa , sillä ne tarjoavat ylimääräistä tai epänormaalia tuottoa vielä riskikorjatunkin tuoton huomioon ottamisen jälkeen .
+Epänormaalien tuottojen mittaamiseen käytetään usein Jensenin alfaa , ja näillä " alihinnoitelluilla " osakkeilla on positiivinen alfa .
+Vastaavasti " arvopaperimarkkinasuoran " alapuolelle sijoittuvat pisteet ovat " ylihinnoiteltuja " riskitasoonsa nähden ( ks. kuvio 2 ) .
+Näiden osakkeiden markkinahinta on liian kallis osakkeen riskit huomioon otettuna , eikä osakkeen tarjoama tuotto täten ole riittävä sijoituksen riskit huomioon otettuna .
+Näiden " ylihinnoiteltujen " osakkeiden alfa on negatiivinen .

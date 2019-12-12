@@ -1,0 +1,29 @@
+T1	ORG 34 42	Youtubea
+T2	PER 103 117	Susan Wojcicki
+T3	ORG 121 129	Youtuben
+T4	ORG 147 154	Re/code
+T5	PER 164 178	Susan Wojcicki
+T6	ORG 191 198	Googlen
+T7	ORG 199 220	Youtube-videopalvelua
+T8	ORG 251 261	Re/codelle
+T9	ORG 277 284	Googlen
+T10	PER 390 403	Larry Pagelle
+T11	PER 407 422	Sergei Brinille
+T12	PER 425 433	Wojcicki
+T13	ORG 447 454	Googlen
+T14	PER 583 600	Sridhar Ramaswamy
+T15	ORG 603 611	Youtubea
+T16	PER 621 635	Salar Kamangar
+T17	ORG 642 651	Googlessa
+T18	PER 710 715	Salar
+T19	PER 784 789	Salar
+T20	PER 797 802	Susan
+T21	PRO 886 894	Youtubea
+T22	ORG 933 940	Googlen
+T23	PER 952 962	Larry Page
+T24	ORG 985 995	Re/codelle
+T25	PER 998 1007	Wojcickin
+T26	PRO 1049 1057	Youtuben
+T27	PER 1146 1161	Susan Wojcickin
+T28	PER 1168 1181	Anne Wojcicki
+T29	PER 1196 1209	Sergei Brinin

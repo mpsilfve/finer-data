@@ -1,0 +1,17 @@
+T1	PRO 52 61	Tesloille
+T2	ORG 102 107	Tesla
+T3	ORG 126 132	Airbnb
+T4	ORG 177 182	Tesla
+T5	ORG 210 216	Airbnb
+T6	LOC 245 257	Yhdysvaltain
+T7	ORG 325 333	Airbnb’n
+T8	ORG 400 406	Teslan
+T9	ORG 432 441	Bloomberg
+T10	LOC 507 520	Kaliforniassa
+T11	ORG 543 551	Airbnb’n
+T12	ORG 582 588	Teslan
+T13	PRO 743 765	Tesla Model S -autolla
+T14	ORG 816 824	Airbnb’n
+T15	ORG 973 985	Tesla Motors
+T100001	ORG 743 748	Tesla
+T100002	PER 973 978	Tesla

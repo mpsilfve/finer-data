@@ -1,0 +1,15 @@
+T1	ORG 0 3	DNA
+T2	ORG 81 86	DNA:n
+T3	ORG 152 155	DNA
+T4	PRO 206 222	Facebook-palvelu
+T5	ORG 256 261	DNA:n
+T6	PRO 327 344	Facebook-sovellus
+T7	ORG 370 375	DNA:n
+T8	ORG 502 507	DNA:n
+T9	PRO 709 729	Facebook-sovelluksen
+T10	ORG 783 788	DNA:n
+T11	PRO 796 813	Facebook-palvelun
+T12	LOC 850 856	Suomen
+T13	ORG 874 886	Facebookilla
+T14	PRO 938 959	Downrightnow-palvelun
+T15	PRO 967 986	Facebook-palvelussa

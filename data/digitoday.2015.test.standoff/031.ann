@@ -1,0 +1,22 @@
+T1	ORG 28 34	Google
+T2	ORG 52 58	Kiinan
+T3	ORG 72 78	Google
+T4	LOC 93 107	Manner-Kiinaan
+T5	ORG 138 153	The Information
+T6	ORG 182 188	Google
+T7	LOC 215 221	Kiinan
+T8	ORG 365 382	The Informationin
+T9	ORG 416 422	Google
+T10	LOC 445 452	Kiinaan
+T11	ORG 565 571	Google
+T12	PRO 592 611	Google Play -kaupan
+T13	DATE 690 701	Vuoden 2010
+T14	ORG 709 715	Google
+T15	LOC 792 800	Kiinassa
+T16	ORG 803 810	Googlen
+T17	ORG 913 919	Google
+T18	LOC 962 970	Kiinassa
+T19	LOC 1000 1013	Manner-Kiinan
+T20	ORG 1037 1043	Google
+T21	LOC 1102 1114	Hongkongista
+T100001	ORG 592 598	Google

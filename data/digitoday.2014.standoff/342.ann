@@ -1,0 +1,25 @@
+T1	PER 0 7	Ambanin
+T2	LOC 40 46	Intian
+T3	LOC 64 69	Intia
+T4	DATE 81 91	maaliskuun
+T5	PER 296 303	Ambanin
+T6	ORG 701 737	Mukesh Ambanin Reliance Jio Infocomm
+T7	ORG 788 826	Anil Ambanin Reliance Communicationsin
+T8	PER 836 843	Ambanin
+T9	DATE 867 878	vuonna 2004
+T10	DATE 910 921	vuonna 2006
+T11	PER 932 938	Mukesh
+T12	PER 954 962	Anilille
+T13	PER 1025 1031	Mukesh
+T14	DATE 1052 1063	Vuonna 2013
+T15	PER 1064 1072	Mukeshin
+T16	PER 1098 1104	Anilin
+T17	ORG 1202 1227	Reliance Communicationsin
+T18	PER 1252 1259	Ambanin
+T19	ORG 1313 1326	Bharti Airtel
+T20	ORG 1329 1337	Vodafone
+T21	ORG 1340 1353	Idea Cellular
+T22	ORG 1356 1373	Tata Teleservices
+T23	ORG 1376 1392	Telenorin Uninor
+T24	ORG 1396 1402	Aircel
+T25	ORG 1427 1440	Total Telecom

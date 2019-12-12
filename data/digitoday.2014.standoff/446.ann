@@ -1,0 +1,19 @@
+T1	ORG 0 5	Yahoo
+T2	ORG 66 72	Yahoon
+T3	ORG 139 145	Fox IT
+T4	ORG 171 177	Yahoon
+T5	DATE 254 268	30. joulukuuta
+T6	ORG 307 313	Fox IT
+T7	ORG 425 433	Fox IT:n
+T8	LOC 608 618	Romaniasta
+T9	LOC 621 640	Isosta-Britanniasta
+T10	LOC 644 653	Ranskasta
+T11	ORG 731 737	Yahoon
+T12	PRO 878 906	Magnitude-hyökkäystyökalulle
+T13	PRO 1002 1021	Zeus-haittaohjelman
+T14	PER 1054 1067	Graham Cluley
+T15	PRO 1115 1131	Java-ohjelmistoa
+T16	ORG 1174 1179	Yahoo
+T17	PER 1278 1284	Cluley
+T18	ORG 1315 1321	Yahoon
+T19	ORG 1401 1407	Yahoon

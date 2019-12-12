@@ -1,0 +1,19 @@
+Firefoxin käyttöliittymä uusiksi — nyt ensitestiin
+Australis-käyttöliittymä teki ensiesiintymisensä Firefox-selaimessa osana selaimen uutta alpha-asteen versiota .
+Useat vuosien ajan muuttumattomina pysyneet käyttöliittymät ovat lähivuosina kokeneet varsinaisen mullistuksen .
+Ubuntun perinteinen Gnome-käyttöliittymä koki Canonicalin käsissä täydellisen muodonmuutoksen , jonka lopputulos tunnetaan Unityna .
+Myös Microsoft uudisti Windowsin käyttöliittymää rankalla kädellä tunnetuin seurauksin .
+Perinteisen työpöydän rinnalle rakennettiin kosketuskäyttöön suunniteltu näkemys Windows-käyttöliittymästä .
+Sekä Windows 8 että Ubuntun Unity ovat saaneet osakseen rankkaa kritiikkiä käyttäjiltä .
+Firefoxin Australis askel kohti Chromea
+Mozillan esittelemä Australis-käyttöliittymä muistuttaa paljolti Googlen Chrome-selaimesta tuttua yksinkertaistettua ja minimalistista käyttöliittymää , jossa ylimääräisten käyttöliittymäkomponenttien määrää on karsittu minimiin , selviää Softpedian julkaisemista kuvakaappauksista .
+Mozilla kuitenkin lupaa , että uutta käyttöliittymää on helppo kustomoida omiin tarpeisiin sopivaksi raahaa-ja-pudota-toiminnolla .
+Aiemmin pelkona oli , että käyttöliittymä on sellainen kuin Mozilla haluaa sen olevan , eikä käyttäjällä ole sen ulkonäköön sananvaltaa .
+Nyt kuitenkin näyttää siltä , että tuosta ajatuksesta on luovuttu .
+Firefox 29 ilmestyy toukokuussa
+Firefox 29 on tällä hetkellä vielä kehityskaarensa alkupäässä .
+Firefoxin kehitysversioiden , nightlyn , auroran , beetan ja julkaisuversion mittapuulla mennään aurorassa , mikä vastaa normaalista ohjelmakehityksestä tuttua alfaa .
+Lopullisille käyttäjille Firefox 29 on tarkoitus jaella kolmen kuukauden sisällä .
+Käytännössä tämä tarkoittaa toukokuuta , mikäli viivytyksiä aikatauluun ei ilmaannu .
+Halukkaat voivat testata uutta käyttöliittymää jo nyt asentamalla Firefoxin aurora-version .
+Kyseessä on kuitenkin raakile , eikä sitä tulisi käyttää kuin testitarkoituksiin mielellään suljetussa ympäristössä .

@@ -1,0 +1,14 @@
+T1	ORG 0 11	Supercellit
+T2	ORG 15 21	Roviot
+T3	ORG 142 153	Supercellit
+T4	ORG 157 163	Roviot
+T5	ORG 240 247	NHL:ssä
+T6	DATE 345 356	vuonna 2018
+T7	ORG 461 468	Gartner
+T8	ORG 471 480	Gartnerin
+T9	ORG 823 832	Gartnerin
+T10	PER 841 852	Ken Dulaney
+T11	PER 1135 1142	Dulaney
+T12	DATE 1151 1163	Vuoteen 2017
+T13	ORG 1238 1247	Gartnerin
+T14	ORG 1273 1286	Total Telecom

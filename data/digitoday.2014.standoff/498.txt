@@ -1,0 +1,12 @@
+Adobe teki sen taas : Hätäpaikkaus Flashiin
+Hyökkäykset ovat käynnissä , minkä vuoksi korjaus Flashin haavoittuvuuteen saapui pikatoimituksena .
+Ohjelmistotalo Adobe Systems toivoo käyttäjien asentavan nopeasti korjauksen Flash Player -toistosovellukseen .
+Kesken normaalin päivitysrytmin jakoon tullut korjaus poistaa ohjelmistosta kriittisen heikkouden , jota käytetään jo hyväksi verkkohyökkäyksissä .
+Ongelma mahdollistaa tietokoneen kaappaamisen .
+Adobe ei sanonut , millä alustoilla hyökkäyksiä on nähty , mutta päivitys on kriittinen sekä Windowsissa että Macissa .
+Ei kuitenkaan Linuxissa .
+Adobe jakaa päivitystä verkossa .
+Joidenkin selainten kuten Chromen mukana asennettuna Flash päivittyy automaattisesti , yhtiö ohjeistaa .
+Haavoittuvuudesta kertoi Adobelle Kaspersky Lab .
+Adobe on turvautunut vastaaviin hätäpaikkauksiin useita kertoja aikaisemminkin Flashin ja myös pdf-sovellustensa Readerin ja Acrobatin vuoksi .
+Ohjelmat ovat hyvin suosittuja , minkä vuoksi rikolliset etsivät niistä ahkerasti aukkoja .

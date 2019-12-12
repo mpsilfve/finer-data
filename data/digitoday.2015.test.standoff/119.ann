@@ -1,0 +1,13 @@
+T1	ORG 0 7	Googlen
+T2	ORG 182 189	Googlen
+T3	ORG 234 241	Googlen
+T4	ORG 251 266	Boston Dynamics
+T5	PRO 301 309	Atlaksen
+T6	PRO 765 775	Atlaksesta
+T7	ORG 810 827	Boston Dynamicsin
+T8	PER 839 853	Marc Raibertin
+T9	PRO 1099 1114	Atlas-projektin
+T10	ORG 1125 1158	Yhdysvaltain puolustusministeriön
+T11	ORG 1167 1172	Darpa
+T100001	LOC 251 257	Boston
+T100002	LOC 1125 1137	Yhdysvaltain

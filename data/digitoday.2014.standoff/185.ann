@@ -1,0 +1,25 @@
+T1	ORG 0 6	Google
+T2	PRO 22 31	Androidin
+T3	ORG 271 282	Microsoftin
+T4	PRO 288 297	Windows 8
+T5	ORG 337 343	Google
+T6	ORG 480 487	Googlen
+T7	ORG 556 570	AndroidPolicen
+T8	ORG 636 650	AndroidPolicen
+T9	PRO 658 667	Androidin
+T10	PRO 779 789	Play Music
+T11	PRO 792 797	Books
+T12	PRO 800 806	Movies
+T13	PRO 812 817	Games
+T14	PRO 856 863	Google+
+T15	PRO 866 874	Calendar
+T16	PRO 877 883	People
+T17	PRO 886 892	Chrome
+T18	PRO 895 902	Youtube
+T19	PRO 905 909	Maps
+T20	PRO 912 917	Gmail
+T21	PRO 920 928	Hangouts
+T22	PRO 931 937	Camera
+T23	PRO 943 953	Play Store
+T24	ORG 956 963	Googlen
+T25	PRO 1085 1094	Androidin

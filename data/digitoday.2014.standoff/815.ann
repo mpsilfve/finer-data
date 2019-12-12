@@ -1,0 +1,18 @@
+T1	ORG 0 6	Applen
+T2	PRO 58 69	Apple Watch
+T3	ORG 119 125	Applen
+T4	PER 137 145	Tim Cook
+T5	PER 155 163	Tim Cook
+T6	ORG 199 205	Applen
+T7	PER 298 302	Cook
+T8	EVENT 312 340	Goldman Sachs -tilaisuudessa
+T9	PRO 393 417	Apple Watch -älykellosta
+T10	DATE 440 451	huhtikuussa
+T11	PER 703 707	Cook
+T12	ORG 726 732	Cnetin
+T13	PRO 859 872	Apple Watchia
+T100001	ORG 58 63	Apple
+T100002	PER 312 319	Goldman
+T100003	PER 320 325	Sachs
+T100004	ORG 393 398	Apple
+T100005	ORG 859 864	Apple

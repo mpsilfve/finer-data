@@ -1,0 +1,28 @@
+T1	ORG 0 5	Rovio
+T2	ORG 98 104	Rovion
+T3	PRO 105 123	Angry Birds -pelin
+T4	ORG 156 162	Rovion
+T5	ORG 232 238	Rovion
+T6	PRO 239 262	Angry Birds -hittipelin
+T7	LOC 315 323	Suomessa
+T8	ORG 337 354	Helsingin Sanomat
+T9	PRO 376 404	Angrybirds.com-verkkosivulle
+T10	ORG 490 524	Yhdysvaltojen turvallisuusviraston
+T11	ORG 525 530	NSA:n
+T12	PER 567 583	Edward Snowdenin
+T13	ORG 623 626	NSA
+T14	ORG 815 821	Rovion
+T15	ORG 837 843	Rovion
+T16	ORG 958 976	Helsingin Sanomien
+T17	ORG 1089 1095	Rovion
+T18	ORG 1140 1145	Rovio
+T19	ORG 1219 1236	Syrian Electronic
+T20	ORG 1341 1359	Syyrian hallitusta
+T21	PER 1375 1391	Bašar al-Assadia
+T22	ORG 1455 1466	Microsoftin
+T23	ORG 1532 1537	Rovio
+T24	PER 1748 1760	Mikael Hedin
+T100001	LOC 337 346	Helsingin
+T100002	LOC 490 503	Yhdysvaltojen
+T100003	LOC 958 967	Helsingin
+T100004	LOC 1341 1348	Syyrian

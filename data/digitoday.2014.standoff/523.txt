@@ -1,0 +1,17 @@
+Windows-kiristyssovelluksesta tuli kauppatavaraa — ja se on edeltäjäänsävaarallisempi
+Prisonlocker on pahenneltu ja kaupallistettu versio Cryptolockerista .
+Viime vuoden lopulla leviämään lähtenyt Cryptolocker on saamassa kaupallisen seuraajan , Prisonlockerin , kirjoittaa Readwrite-verkkojulkaisu .
+Asian huomasi ensimmäisenä verkkorikollisia vastaan taisteleva Malware Must Die -ryhmä .
+Uuden haittaohjelman toimintaperiaate on pääpiirteittäin sama kuin Cryptolockerin : Se salakirjoittaa käyttäjän henkilökohtaiset tiedostot ja vaatii lunnaita .
+Malware Must Die on seurannut ohjelman kehittäjän kommentteja sekä tälle esitettyjä toivomuksia hakkerifoorumilla .
+Prisonlockerin kehittelijä kertoo myös Cryptolockerin olleen hänen tekemänsä .
+Prisonlockeriin on lisätty uusia ominaisuuksia .
+Ohjelmoija on kertonut ohjelman muun muassa estävän Windows- ja escape-näppäimen , Task managerin , rekisterieditorin ja komentokehotteen toiminnan .
+Prisonlockerin potentiaalinen haittavaikutus on reilusti edeltäjäänsä suurempi , sillä se on paitsi kehittyneempi , se myös päätynee lisensoinnin myötä laajempaan jakeluun .
+Readwritn haastatteleman tietoturva-asiantuntija Harry Sverdloven mukaan Prisonlocker on myös edeltäjäänsä parempi etsimään ulkoisia levyasemia .
+Tämä antaisi sille edeltäjäänsä paremmat mahdollisuudet päästä käsiksi käyttäjän tiedoistaan tekemiin varmuuskopioihin .
+Sverdlove muistuttaa , että tärkeintä on käyttäjän oma tarkkaavaisuus .
+Haittaohjelma ei pääse koneelle , ellei käyttäjä anna siihen lupaa .
+Vahingossa asennettavia ohjelmia on syytä välttää .
+Muokkaus : Ingressissä oli Cryptolockerin tilalla Bitlocker .
+Jälkimmäinen on salausjärjestelmä , jolla ei ole mitään tekemistä kiristyksen kanssa .

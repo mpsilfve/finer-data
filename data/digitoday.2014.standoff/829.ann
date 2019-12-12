@@ -1,0 +1,27 @@
+T1	LOC 37 42	USA:n
+T2	ORG 43 61	Homeland Securityn
+T3	PRO 78 92	Google Glassin
+T4	PRO 167 196	Google Glass - virtuaalilasit
+T5	LOC 247 260	Columbuksessa
+T6	LOC 263 270	Ohiossa
+T7	ORG 285 290	AMC:n
+T8	PRO 326 362	Jack Ryan : Shadow Recruit -elokuvaa
+T9	PRO 844 858	Google Glassin
+T10	PRO 966 989	The Gadgeteer -blogissa
+T11	ORG 1108 1113	FBI:n
+T12	ORG 1200 1235	Immigration and Customs Enforcement
+T13	ORG 1238 1241	ICE
+T14	ORG 1300 1332	Department of Homeland Securityn
+T15	ORG 1335 1340	DHS:n
+T16	ORG 1369 1372	ICE
+T17	ORG 1503 1508	ICE:n
+T18	ORG 1530 1542	AMC Theaters
+T19	ORG 1700 1706	MPAA:n
+T20	ORG 1778 1796	Homeland Securityn
+T21	ORG 1819 1825	MPAA:n
+T22	ORG 1895 1903	NBC News
+T23	ORG 1919 1922	AMC
+T100001	ORG 78 84	Google
+T100002	ORG 167 173	Google
+T100003	PER 326 335	Jack Ryan
+T100004	ORG 844 850	Google

@@ -1,0 +1,16 @@
+Uusi atomikello toimii sekunnin tarkkuudella 300 miljoonaa vuotta
+Internetille , kännykkäverkoille , pörsseille ja paikannusjärjestelmille aikaa kertovasta atomikellosta on valmistunut parannettu versio .
+Sen aika ei heitä sekuntiakaan 300 miljoonassa vuodessa .
+Yhdysvaltain kansallinen standardi- ja tiedeinstituutti NIST ( National Institute of Standards and Technology ) mittaa tästä lähtien aikaa kahdella atomikellolla , jotka tunnetaan nimillä NIST-F1 ja NIST-F2 .
+Se ei ehkä luota täysin kelloihinsa , sillä se aikoo käyttää niitä molempia rinnakkain katsoakseen pysyvätkö molemmat samassa ajassa .
+NIST-F1 on ollut käytössä vuodesta 1999 lähtien .
+F2 on uusi versio , jota on parannettu muun muassa suojaamalla se paremmin taustasäteilyltä .
+Sen pitäisi olla kolme kertaa tarkempi kuin edeltäjänsä .
+Atomikelloja on ollut käytössä 1950-luvulta lähtien .
+NIST-F2:n pääsuunnittelijan Steven Jeffertsin mukaan atomikellojen 60-vuotinen historia on osoittanut , että aina kun ajan mittausta saadaan tarkennettua , joku keksii uuden käyttötarkoituksen sille .
+Hän kertoo atomikellon toiminnasta Youtube-videolla .
+Asiasta uutisoi muun muassa PCMag .
+Atomikellot perustuvat cesium 133 -atomin värähtelyyn .
+Yksi sekunti saadaan laskemalla 9192631770 värähtelyä .
+Värähtelytaajuus riippuu monista tekijöistä , muun muassa lämpötilasta ja sijainnin korkeudesta .
+Maailmanlaajuisessa yhteisessä ajanmäärittelyssä käytetään atomikellojen keskiarvoa .

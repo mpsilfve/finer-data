@@ -1,0 +1,12 @@
+Microsoftin menetelmä muuttaa älypuhelimen pelkäksi kelloksi
+Microsoft on patentoinut älypuhelimien teatterimoodin .
+Se hiljentää puhelimen ja himmentää sen näytön .
+Microsoftille myönnettiin viime viikolla patentti älypuhelimen huomaamattomuusmoodille .
+Se sopii käyttöön teattereihin , ravintolaillallisille ja myös kotona nukkumaan mennessä .
+Teatteritilassa puhelimen hyvin himmeällä näytöllä näkyy vain Nokian ajoilta tuttu kellonaika .
+Mutta käyttäjä pystyy räätälöimään teatterimoodia melko vapaasti , joten hän voi ohjata näytölle muutakin tietoa .
+Patentoidun menetelmän ydin on , että puhelin osaa kääntää sen päälle automaattisesti .
+Se käyttää paikannus- , kalenteri- tai vaikka teatterin kassan lähimaksutietoja päätelläkseen milloin on syytä siirtyä teatterimoodiin .
+Puhelin tietää myös milloin ollaan pimeässä ja hiljaisessa paikassa .
+Paikat , joissa ihmisiä pyydetään vaientamaan puhelimensa , voivat pyytää puhelimia siirtymään teatterimoodiin omalla bluetooth- tai wlan-signaalillaan .
+Käyttäjälle jätetään kuitenkin mahdollisuus herättää puhelin aktiivitilaan vaikka kesken konsertin , CNNMoney kirjoitti .

@@ -1,0 +1,13 @@
+Nokian Here-kartat uusiutuivat : 3d-karttoja ja muuta mukavaa
+Uusia ominaisuuksia saanut Nokian Here-karttojen Android-versio on jättänyt betavaiheen taakseen .
+Myös Windows Phone -sovellus sai päivityksen .
+Android-laitteille räätälöidyssä Here-karttasovelluksessa on parannettu reititystä sekä siihen on lisätty interaktiivisuutta tuomalla mukaan yhteystietoja , valokuvia , arviointeja ja tilojen 3d-karttoja .
+Myös ulkonäköä on kiillotettu ja virheitä korjattu .
+Päivityksestä kirjoittanut Slashgear piti kokoontumispaikkojen 3d-karttoja päivityksen radikaaleimpana uutisena .
+Here esittelee esimerkkinä Arena de Barcelonan 3d-karttaa , jossa käyttäjä pääsee valitsemaan minkä kerroksen pohjapiirrosta hän haluaa tutkia .
+Lisäksi 3d-karttoja on tarjolla esimeriksi ostoskeskuksista .
+– On todella hämmästyttävää kuinka yksinkertaiselta kaikki näyttää tuollaisessa monimutkaisessa järjestelmässä , julkaisu kirjoitti .
+360.here-yritysblogin mukaan päivityksessä on myös lisätty uusia maita ja erilaisten vesialueiden esittämiseen on tuotu lisää yksityiskohtia .
+Julkisen liikenteen kulkureittien realistinen esittäminen on laajennettu Chicagosta useisiin muihin maailman miljoonakaupunkeihin .
+Nyt mukana ovat Kaohsiung , Taipei , Curitiba , Rio de Janeiro , São Paulo and Singapore .
+Otsikkoa lievennetty ja ingressiä muokattu

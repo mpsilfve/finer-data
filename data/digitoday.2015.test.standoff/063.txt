@@ -1,0 +1,13 @@
+Cortana-digiavustajan jakelu Android-puhelimiin alkoi
+Microsoftin ääniohjattu virtuaaliavustaja Cortana on nyt saatavilla myös Android-laitteille .
+Apuri tulee ensin Amerikkaan .
+Microsoftin uusi käytäntö , jossa sen sovellukset julkaistaan myös Windowsin kanssa kilpaileviin käyttöjärjestelmiin , on tuonut virtuaaliavustaja Cortanan tuloon Androidiin .
+Microsoftin digiapuri haastaa nyt Google Nown jälkimmäisen kotikentällä .
+Cortana on myös kilpailija Applen virtuaalisihteerille Sirille , jonka kanssa se kohta kilpailee iPhone-puhelimissa .
+Cortanan Android-versio on nyt saatavilla Google Playstä amerikkalaisille Android-puhelimille , mutta Android-tableteissa se ei toimi , TechCrunch raportoi .
+Microsoft lupaa laajentaa Cortanan Android-jakelua myös Yhdysvaltain ulkopuolelle .
+Cortana toimii Androidissa suunnilleen samalla tavalla kuin Windows-laitteissa .
+Sillä voi muun muassa asettaa muistutuksia , tehdä hakuja ja seurata lentoaikatauluja .
+Cortanalla ei kuitenkaan ole täysiä oikeuksia Android-puhelimeen .
+Mikrofoniluvan puuttumisen takia sitä ei voi puhutella sanomalla “ Hey Cortana ” , joka on vastine Google Now’n käynnistävälle " OK Googlelle " .
+Cortana ei myöskään pysty käynnistämään sovelluksia tai muuttamaan Android-puhelimen asetuksia .

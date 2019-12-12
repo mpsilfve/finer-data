@@ -1,0 +1,17 @@
+T1	ORG 23 30	Netflix
+T2	ORG 208 215	Netflix
+T3	ORG 376 385	Netflixin
+T4	LOC 386 398	Yhdysvaltain
+T5	EVENT 476 489	CES-messuilla
+T6	PER 586 595	Neil Hunt
+T7	ORG 605 611	Cnetin
+T8	ORG 621 630	Netflixin
+T9	PER 663 676	Cliff Edwards
+T10	ORG 777 785	UnoDNS:n
+T11	ORG 788 799	Unblockusin
+T12	ORG 803 813	TorGuardin
+T13	PRO 864 873	Netflixin
+T14	PRO 920 929	Netflixin
+T15	PRO 1005 1015	Netflixiin
+T16	PER 1135 1139	Hunt
+T17	EVENT 1155 1168	CES-messuilla

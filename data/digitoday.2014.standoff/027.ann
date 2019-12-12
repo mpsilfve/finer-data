@@ -1,0 +1,39 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 15 23	Amazonin
+T3	PRO 72 82	Amazon AWS
+T4	ORG 123 134	Microsoftin
+T5	PRO 135 140	Azure
+T6	PRO 185 206	Amazon Web Servicesin
+T7	PER 222 231	Jeff Barr
+T8	ORG 359 370	Microsoftin
+T9	PRO 371 384	Windows Azure
+T10	PRO 505 510	Azure
+T11	DATE 530 541	huhtikuussa
+T12	PER 568 581	Steven Martin
+T13	ORG 596 607	Microsoftin
+T14	PRO 608 622	Windows Azuren
+T15	PRO 691 696	AWS:n
+T16	PRO 735 738	AWS
+T17	PRO 742 748	Azuren
+T18	PRO 768 782	Windows Azuren
+T19	PRO 849 878	Blobs Storage -tallennustilaa
+T20	ORG 909 917	Amazonin
+T21	PRO 918 921	EBS
+T22	PRO 924 943	Elastic Block Store
+T23	PRO 968 984	Blobs Storagesta
+T24	PRO 1015 1020	EBS:n
+T25	PRO 1061 1067	Azuren
+T26	PRO 1342 1347	AWS:n
+T27	PRO 1447 1465	EBS-tallennustilaa
+T28	LOC 1485 1493	Euroopan
+T29	PRO 1596 1614	EBS-tallennustilan
+T30	DATE 1628 1637	helmikuun
+T31	PRO 1879 1882	AWS
+T32	PRO 1951 1965	Windows Azuren
+T33	PER 1982 1995	Steven Martin
+T34	PRO 2168 2173	Azure
+T35	PRO 2250 2260	Amazon AWS
+T36	PRO 2378 2394	Windows Azurella
+T100001	ORG 72 78	Amazon
+T100002	ORG 185 191	Amazon
+T100003	ORG 2250 2256	Amazon

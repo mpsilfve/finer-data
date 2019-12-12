@@ -1,0 +1,11 @@
+Apple Watch näkyy jo iOS-betassa
+Applen mobiilikäyttöjärjestelmän tulevassa versiossa mainitaan myös erillinen sovellus kelloa varten , 9to5Mac kertoo .
+Applen viime syksynä esittelemä älykello Apple Watch on tulossa myyntiin mitä ilmeisimmin vuoden ensimmäisellä neljänneksellä , ja nyt laite näkyy jo iOS-käyttöjärjestelmän kehittäjille jaetussa versiossa iOS 8.2 betassa .
+Asiasta kertoo 9to5Mac , jonka mukaan iOS:n bluetooth-asetuksista löytyy uusi paneeli erityisesti iPhonen ja Apple Watchin yhdistämistä varten .
+Valikon ohjeet myös viittaavat erityisesti siihen , että Apple julkaisee kellolle omistetun " Apple Watch -sovelluksen " .
+Tällä iPhoneen asennettavalla sovelluksella voi aiempien tietojen valossa ilmeisesti säätää kellon käyttöön ja ladata siihen sovelluksia .
+Älykellojen nurjaksi puoleksi on mainittu se , että ne saattavat syödä tunteja niiden kanssa toimivan älypuhelimen akkukestosta .
+Samaan aikaan on esitetty huolestuneita arvioita Apple Watchin akkukestosta .
+9to5Macin mukaan Apple aikoo säästää Apple Watchin akkua hyödyntämällä " fiksusti " iPhonen suoritinta useissa tilanteissa .
+On mielenkiintoista nähdä , miten tällainen tasapainoilu käytännössä toimii .
+Apple Watchia odotetaan myyntiin maaliskuun loppuun mennessä .

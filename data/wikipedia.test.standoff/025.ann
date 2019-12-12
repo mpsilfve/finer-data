@@ -1,0 +1,54 @@
+T1	PER 0 15	Ashwini Akkunji
+T2	PER 16 49	Ashwini Chidananda Shetty Akkunji
+T3	DATE 55 72	7. lokakuuta 1987
+T4	LOC 73 82	Siddapura
+T5	LOC 85 94	Kundapura
+T6	LOC 97 102	Taluk
+T7	LOC 105 110	Udupi
+T8	LOC 113 123	Karnatakan
+T9	PER 200 207	Ashwini
+T10	EVENT 234 270	vuoden 2010 Kansainyhteisön kisoissa
+T11	EVENT 274 289	Aasian kisoissa
+T12	PER 335 349	Manjeet Kaurin
+T13	PER 352 366	Mandeep Kaurin
+T14	PER 370 380	Sini Josen
+T15	LOC 436 442	Kiinan
+T16	LOC 443 453	Kantonissa
+T17	EVENT 469 484	Aasian kisoissa
+T18	PER 487 494	Ashwini
+T19	LOC 502 512	Kannadassa
+T20	PER 544 566	Yashoda Shetty Akkunji
+T21	PER 574 596	B.R. Chidananda Shetty
+T22	PER 709 715	Diptin
+T23	PER 724 731	Amithin
+T24	PER 788 795	Ashwini
+T25	LOC 841 849	Intiassa
+T26	PER 852 860	Ashwinin
+T27	PER 874 893	" Gendale Express "
+T28	DATE 896 912	Heinäkuussa 2011
+T29	EVENT 919 955	yleisurheilun Aasian mestaruuskisoja
+T30	LOC 956 963	Kobessa
+T31	LOC 966 975	Japanissa
+T32	PER 976 984	Ashwinia
+T33	LOC 1113 1119	Intian
+T34	PER 1171 1178	Ashwini
+T35	DATE 1239 1258	23. joulukuuta 2011
+T36	ORG 1259 1263	NADA
+T37	ORG 1365 1368	CAS
+T38	PER 1408 1416	Ashwinin
+T39	PER 1445 1457	Mandeep Kaur
+T40	PER 1460 1469	Sini Jose
+T41	PER 1472 1483	Jauna Murmu
+T42	PER 1486 1491	Tiana
+T43	PER 1492 1496	Mary
+T44	PER 1500 1515	Priyanka Panwar
+T45	DATE 1585 1596	Vuonna 2010
+T46	PER 1597 1604	Akkunji
+T47	PRO 1609 1640	Karnataka Rajyotsava -palkinnon
+T48	ORG 1715 1720	BDA:n
+T49	ORG 1723 1754	Bangalore Deveploment Authority
+T100001	DATE 234 245	vuoden 2010
+T100002	ORG 246 261	Kansainyhteisön
+T100003	LOC 274 280	Aasian
+T100004	LOC 469 475	Aasian
+T100005	LOC 933 939	Aasian

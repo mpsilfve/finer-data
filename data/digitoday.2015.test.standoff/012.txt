@@ -1,0 +1,9 @@
+Väitteet Torin aukoista säikäyttivät : Darknetin jättikauppa veti piuhat irti
+Viimeaikaiset paljastukset Tor-verkossa olevien palvelinten haavoittuvuudesta saivat pahamaineisen Agoran ylläpitäjät tutisemaan .
+SC Magazine kertoo Tor-verkossa toimineen Agora-kauppapaikan pistäneen toistaiseksi lapun luukulle .
+Huumeista alkaen kaikkea välittävästä Agorasta tuli suurin pimeän verkon kauppapaikka , kun aiemmin ykkössijalla olleen Evolutionin ylläpitäjä sulki palvelunsa maaliskuussa ja varasti käyttäjiensä rahat .
+Nyt myös Agora on lopettanut toimintansa .
+Agoran kotisivulle ja sittemmin Redditiin julkaistussa kirjoituksessa selitetään ylläpitäjien sulkeneen kauppapaikan väliaikaisesti tietoturvasyistä .
+Tekstissä kerrotaan , että viimeaikaiset kehitykset , joiden avulla Tor-verkossa toimivan palvelimen paljastaminen on muuttunut huomattavasti aiemmin luultua helpommaksi , aiheuttivat tarpeen tauolle .
+Agora kehittää parhaillaan tekniikkoja , joilla uudet palvelimen paljastamiseen käytettävät keinot saataisiin estettyä .
+Viestissä myös kehotetaan käyttäjiä äkkiä tyhjentämään tilinsä Agorasta , jotta ylläpitäjät eivät olisi vastuussa rahoista katkon aikana .

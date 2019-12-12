@@ -1,0 +1,24 @@
+T1	PER 0 7	Snowden
+T2	ORG 10 13	NSA
+T3	PER 47 61	Edward Snowden
+T4	LOC 68 74	Saksan
+T5	LOC 118 130	Yhdysvaltain
+T6	ORG 151 156	NSA:n
+T7	LOC 232 244	Yhdysvaltain
+T8	ORG 265 268	NSA
+T9	PER 379 393	Edward Snowden
+T10	ORG 466 475	Reutersin
+T11	PER 483 490	Snowden
+T12	ORG 577 586	Siemensin
+T13	ORG 595 600	NSA:n
+T14	ORG 626 637	Siemensillä
+T15	LOC 641 653	Yhdysvaltain
+T16	PER 806 813	Snowden
+T17	ORG 820 829	Reutersin
+T18	ORG 837 852	ARD-verkostolle
+T19	PER 855 862	Snowden
+T20	LOC 869 878	Venäjällä
+T21	ORG 945 950	NSA:n
+T22	ORG 1055 1062	NSA:lla
+T23	PER 1077 1084	Snowden
+T24	DATE 1141 1151	kesäkuussa

@@ -1,0 +1,19 @@
+T1	ORG 0 5	Adobe
+T2	PRO 35 43	Flashiin
+T3	PRO 94 101	Flashin
+T4	ORG 160 173	Adobe Systems
+T5	PRO 222 254	Flash Player -toistosovellukseen
+T6	ORG 453 458	Adobe
+T7	PRO 546 557	Windowsissa
+T8	PRO 563 570	Macissa
+T9	PRO 587 596	Linuxissa
+T10	ORG 599 604	Adobe
+T11	PRO 659 666	Chromen
+T12	PRO 686 691	Flash
+T13	ORG 763 771	Adobelle
+T14	ORG 772 785	Kaspersky Lab
+T15	ORG 788 793	Adobe
+T16	PRO 867 874	Flashin
+T17	PRO 901 909	Readerin
+T18	PRO 913 922	Acrobatin
+T100001	PER 772 781	Kaspersky

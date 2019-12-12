@@ -1,0 +1,19 @@
+T1	PER 0 7	Snowden
+T2	PER 82 96	Edward Snowden
+T3	PER 244 258	Edward Snowden
+T4	PER 558 565	Snowden
+T5	PRO 592 616	Free Snowden -sivustolla
+T6	LOC 647 656	Venäjällä
+T7	PER 663 677	Edward Snowden
+T8	ORG 718 723	NSA:n
+T9	DATE 750 760	kesäkuusta
+T10	ORG 803 828	Yhdysvaltain kongressille
+T11	ORG 888 950	Privacy & Civil Liberties Oversight Board ( PCLOB ) -aivoriihi
+T12	ORG 980 985	NSA:n
+T13	ORG 1293 1298	PCLOB
+T14	PER 1460 1467	Snowden
+T15	PER 1538 1552	Edward Snowden
+T16	ORG 1591 1596	NSA:n
+T17	PER 2080 2087	Snowden
+T18	PRO 2120 2141	Free Snowden -sivusto
+T100001	LOC 803 815	Yhdysvaltain

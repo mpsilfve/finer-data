@@ -1,0 +1,56 @@
+Testissä Yotaphone 2 : Kaksinäyttöinen uutuus kompastelee käytössä
+Yotaphone 2 tuo älypuhelimiin uuden ja kiinnostavan ominaisuuden , mutta käytännön toteutus vaatii vielä hieman säätöä .
+Venäläisessä Yotaphone 2 -puhelimessa on ehkä suurin uudistus älypuhelimissa sitten suuren kosketusnäytön .
+Se on toinen kosketusnäyttö puhelimen takana .
+Tämä on selvä parannus ensimmäiseen Yotaphoneen , jossa takana olevaa näyttöä ei voinut ohjata kosketuksella .
+Laitteen etupuolella on kirkas viiden tuuman full hd -näyttö , ja takakannen näyttö on 4,7-tuumainen e-ink-näyttö , joka toistaa 16 harmaan sävyä .
+Yotaphonen toinen kiinnostava piirre on se , että se on suurelta osin kehitetty Suomessa .
+Venäläisyhtiö Yota Devices palkkasi Oulusta noin parinkymmentä Nokian entistä työntekijää pääasiassa laitteen rakenteen suunnitteluun .
+Päältäpäin puhelin onkin jämäkän oloinen .
+Kehittäjien mukaan oli haastavaa mahduttaa kaikki tarvittava tekniikka kahden näytön väliin yhdeksän millin paksuisiin kuoriin .
+Nokkela tilaa säästävä yksityiskohta on äänenvoimakkuusnapin alle piilotettu sim-korttipaikka .
+Laitteen kyljessä oleva näppäin siis irrotetaan työntämällä esimerkiksi klemmarin pää pieneen näppäimessä olevaan reikään , jolloin se työntyy ulos , mukanaan alusta sim-kortille .
+Sim-kortin telakka on tosin laitteen heikoin kohta .
+Kortti ei lukitu paikalleen mitenkään , ja pari kertaa puhelinta vaihtaessa se ei mennyt kohdalleen , vaikka äänenvoimakkuusnäppäin painuikin kohdalleen .
+Niinpä puhelin ei ollut verkkoyhteydessä , vaikka pikavilkaisulla kaikki näytti olevan kunnossa .
+Takaosan näyttö sulautuu kaartuvaan takakanteen niin , ettei sitä näytön ollessa tummana erota lähes samansävyisestä takakannesta .
+Peruskäytössä puhelimen akku kesti toista vuorokautta .
+Ei aivan perus-Android
+Normaalissa käytössä laite on kuin mikä tahansa Android-puhelin .
+Käyttöjärjestelmänä on Androidin Kitkat-versio , eli ei uusin Lollipop .
+Se on yhtiön mukaan kuitenkin tulossa myöhemmin tulossa puhelimeen päivityksenä .
+Aivan perus-Androidista ei kuitenkaan ole kyse .
+Laitteen erikoisuuksiin pääsee käsiksi painamalla pitkään ruudun alaosassa olevaa kotinäppäintä .
+Näkyviin tulee kolme vaihtoehtoa , joista yksi avaa Google-haun , yksi kääntää etunäkymään takanäytölle , jolloin etunäyttö pimenee , ja puhelinta voi käyttää normaaliin tapaan e-ink-näytön kautta .
+Toimintoa kutsutaan nimellä YotaMirror .
+E-ink-näyttö vastaa kosketukseen hieman hitaasti , ja varsinkin takanäytön lukitus vaatii usein monta pyyhkäisyä .
+Kolmas kotinäppäimestä aukeava valinta on YotaSnap , joka ottaa näytöstä ruutukaappauksen ja sijoittaa sen takanäyttöön .
+Ilmeisesti ominaisuudesta voisi olla hyötyä vaikka verkkosivujen tai muistilistojen kopioimisessa vähävirtaiselle takanäytölle pidempään käyttöön .
+Laitteesta löytyy myös YotaApps-valikko , josta löytyy muutama takanäytöllä toimiva sovellus .
+Näitä on esimerkiksi Yotareader-lukuohjelma , sudoku ja shakki- sekä tammi-pelit .
+Näitä sovelluksia voisi olla enemmänkin , joten toivottavasti joku ohjelmistoyhtiö innostuu asiasta .
+Hauska toiminto on myös selfie-kuvaus , jonka avulla puhelimen pääkameralla voi kuvata omakuvia .
+Tähtäys omaan naamaan onnistuu takanäytön avulla , joka näyttää kamerassa näkyvän kuvan .
+Takanäytön sekava hallinta
+Varsinaiseen asiaan päästään YotaHub-sovelluksessa .
+Sen avulla takakanteen voi asettaa kaksi hieman erityyppistä vakionäkymää .
+YotaCover-toiminnossa takakannessa on pääosassa on käyttäjän valitsema valokuva .
+Näytön alaosassa ovat linkit puhelintoimintoon , tekstiviesteihin , sähköpostiin ja ilmoituksiin .
+Lisäksi YotaHubista löytyy YotaCoverin kanssa vaihtoehtoinen YotaPanel , jonka avulla takanäytölle voi valikoida useita erilaisia pikalinkkejä ja toimintoja , kuten kellon , säätilan , kalenterin ja musiikkisoittimen .
+Valitettavasti takakansinäyttö ei näytä esimerkiksi parhaillaan soivaa Spotify-kappaletta .
+Mahdollisia valintoja ja niiden yhdistelmiä näyttää olevan loputtomasti , mutta niiden löytäminen ja käyttäminen vaatii harjoittelua .
+Erilaisia valintoja aukeaa klikkaamalla näyttöä milloin mistäkin , ja valintojen hyväksyminen tehdään joskus klikkaamalla hyväksymismerkkiä , joskus taas sitä ei tarvitse ollenkaan .
+Paras keino on vain käydä eri valikoita ja valintoja läpi ajan kanssa .
+Sekä YotaCover- että YotaPanel-valintoja saattoi tehdä useita etukäteen laitteen muistiin , ja vaihdella ruudulla olevaa valintaa tarpeen mukaan .
+Jotain ongelmia YotaPhonen ohjelmissa kuitenkin on .
+Useaan kertaan testin aikana takanäyttöön asetettu YotaPanel tai - Cover vaihtui yllättäen itsekseen toiseksi .
+Kerran takakannen näytölle aukeni itsestään saapunut sähköposti ja näppäimistö odottaen seuraavan vastaanottajan sähköpostia .
+Erittäin hyvä , muttei täydellinen
+En oikeastaan käyttänyt e-ink-takanäyttöä kovinkaan paljon , vaan se jäi lähinnä kiinnostavaksi erikoisuudeksi .
+Uskon silti , että vähän virtaa käyttävä ominaisuus voi olla todella hyödyllinenkin .
+Takanäyttö esimerkiksi säästää akkua , koska päänäyttöä ei tarvitse avata esimerkiksi vain sen tarkastamiseen , onko saanut viestin vai ei .
+Toivottavasti e-ink-näytölle kehitetään yhä enemmän toimintoja .
+Perusasiat YotaPhone 2 -puhelimessa ovat kunnossa .
+Takakannen toimintaa säätelevä ohjelmisto vaatii kuitenkin vielä hieman työtä , sillä monimutkainen hallintasovellus hämmentää .
+En myöskään oikein ymmärtänyt jakoa YotaPanel- ja YotaCover-näkymiin , jotka tuntuvat vaihtuvan joskus itsekseen .
+Toivottavasti korjauspäivitys tulee Lollipop-päivityksen mukana .

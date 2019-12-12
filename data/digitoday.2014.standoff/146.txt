@@ -1,0 +1,37 @@
+Esineiden internet : Näin arkesi muuttuu
+Verkon kautta toistensa kanssa viestivät esineet varastivat tänä vuonna päähuomion maailman suurimmilla elektroniikkamessuilla .
+Entrepreneur-lehti listasi uusien innovaatioiden tuomia muutoksia arkielämään .
+Jopa jo muutaman vuoden sisällä kauppojen hyllyt notkuvat verkkoyhteydellä varustettuja tavallisia käyttöesineitä , arvioi Entrepreneur .
+Lehti näkee esineiden internetin mullistavan ihmisten elämää jopa enemmän kuin teollinen vallankumous aikoinaan teki .
+Esimakua tulevasta saatiin tammikuun alussa Yhdysvaltain Las Vegasissa järjestetyillä Consumer Electronic Show -messuilla , jossa esineiden internetiä esiteltiin laajasti päälavalla .
+Entrepreneur listasi uutistoimisto Reutersin sivustolle esimerkkejä muutoksista , joita esineiden internet tuo arkielämäämme .
+Auton huolto
+Öljynvaihto ei enää jää tekemättä , kun todellinen älyauto huolehtii huollon tilaamisesta ja varaa kalenterisi perusteella sinulle sopivan ajan huollosta .
+Hyväksyminen onnistuu yhdellä klikkauksella .
+Terveydentilan tarkkailu
+Kun lääkepurkki alkaa tyhjentyä , verkkoon kytketty lääkepurkki varaa vastaanottoajan lääkäriltä .
+Samaa yhteyttä käyttäen lääkärit voivat myös seurata potilaidensa lääkkeiden käyttöä .
+Myös verenpaineen ja veren sokeritasojen tarkkailu onnistuu etänä .
+Energiankulutus
+Paljon energiaa kuluttavat kodinkoneet ja -laitteet mukautuvat energian hintasignaaleihin ja samalla kutistavat sähkölaskuasi .
+Termostaatit ja valaisimet oppivat päivittäisiin rutiineihisi ja vaikkapa säätävät kodin lämpötilan optimaaliselle tasolle juuri ennen kotiutumistasi .
+Laitteet myös havaitsevat , kun kukaan ei ole kotona ja vähentävät energiankulutustaan .
+Autoilu
+Ajamisesta tulee paljon turvallisempaa kun liikennevalot ja nopeustaulut mukautuvat todellisiin liikenneolosuhteisiin .
+Liikennettä tarkkailevat sensorit myös viestivät suoraan autojen ajotietokoneiden kanssa .
+Ostoslistat
+Älykkäät jääkaapit havaitsevat ruokien vähenemisen ja lisäävät ne automaattisesti ostoslistaasi .
+Kaupoissa on aiempiin ostoksiisi perustuvia ponnahdusmuistutuksia , jotka varmistavat sinun ostavan tarvittavan .
+Aamuherätys
+Työmatkallasi havaitut liikenneolot vaikuttavat siihen , mihin aikaan herätyskellosi soi .
+Kahvinkeitin keittää aamusumppisi sopivasti herätessäsi .
+Vauvan ja lemmikkieläimen tarkkailu
+Vauvalla on haalari , joka viestii lapsen hengityksestä , lämpötilasta ja aktiivisuudesta vanhempien älypuhelimiin .
+Vastaavia on tarjolla myös lemmikkieläimille .
+Kehon toiminta
+Puettava teknologia on tähän mennessä ollut esineiden internetiin lukeutuvista asioista eniten esillä .
+Monista tuotteista on jo tarjolla toisen tai kolmannen sukupolven versioita , ja niiden laatu on yhä kehittyneempää ja hienovaraisempaa .
+Treenihetkien sijaan kehon toimintaa tarkkaillaan ympärivuorokauden , ja älypuhelimet muuttuvat suoranaisiksi kehon kaukosäätimiksi .
+Sekä puhelinten että puettavaa teknologiaa valmistavien yhtiöiden markkinoinnilta muutos vaatii paljon , sillä Entrepreneur-lehden mukaan kuluttajat vaativat tuotteilta räätälöityä henkilökohtaista palvelua .
+Esineiden internetin tuomista kätevistäkin muutoksista huolimatta siihen liittyy myös uudenlaisia riskejä .
+Tietoturvayhtiö Proofpoint varoitti viime viikolla esineiden internetin käytöstä rikollisuudessa .

@@ -1,0 +1,34 @@
+T1	PER 0 4	Elop
+T2	ORG 22 28	Nokian
+T3	ORG 49 58	Microsoft
+T4	PRO 79 105	Android-käyttöjärjestelmää
+T5	PRO 116 134	Nokia X -puhelimia
+T6	ORG 144 155	Microsoftin
+T7	PER 197 209	Stephen Elop
+T8	ORG 228 239	Microsoftin
+T9	PER 281 293	Stephen Elop
+T10	ORG 308 328	Nokia Ääni -blogissa
+T11	ORG 368 374	Nokian
+T12	ORG 419 428	Microsoft
+T13	PRO 432 465	Windows Phone -käyttöjärjestelmää
+T14	PRO 477 493	Lumia-puhelimien
+T15	ORG 527 533	Nokian
+T16	PRO 551 556	Asha-
+T17	PRO 560 581	Nokia X -tuotesarjoja
+T18	ORG 591 597	Nokian
+T19	PER 622 634	Stephen Elop
+T20	PRO 649 667	Nokia X -puhelimet
+T21	DATE 679 688	helmikuun
+T22	LOC 697 709	Barcelonassa
+T23	EVENT 737 750	MWC-messuilla
+T24	ORG 793 802	Microsoft
+T25	PRO 812 832	Nokia X -tuotesarjan
+T26	ORG 900 913	Google-yhtiön
+T27	PRO 925 951	Android-käyttöjärjestelmää
+T28	ORG 999 1010	Microsoftin
+T29	PER 1050 1062	Joe Belfiore
+T30	ORG 1092 1098	Nokian
+T100001	ORG 116 121	Nokia
+T100002	ORG 560 565	Nokia
+T100003	ORG 649 654	Nokia
+T100004	ORG 812 817	Nokia

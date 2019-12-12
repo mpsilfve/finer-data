@@ -1,0 +1,11 @@
+Apple : Korjaamme kuolemanruudun
+Apple aikoo lopultakin puuttua noloon ja eri iPhonen omistajia kiusaavaan kaatumisongelmaan , yhtiö vahvisti Mashablelle .
+Termi " kuolemanruutu " , johon yleensä vielä liitetään väri sininen , on ollut kestovitsinä Microsoftin niskassa Windowsin kaatumisiin liittyneiden virheilmoitusten vuoksi .
+Mutta viime syksynä Microsoftin verinen kilpailija Apple esitteli iPhoneen sen oman kuolemanruudun iOS 7 -ohjelmiston myötä .
+Ensimmäiset ilmoitukset ongelmasta juontuvat jo syyskuulta , joten moni saattoi jo luulla , ettei Apple aio tehdä asialle mitään .
+Mutta korjaus on kuin onkin tulossa .
+– Tulevassa ohjelmistopäivityksessä on korjaus bugiin , joka voi ajoittain aiheuttaa kaatumisen , Applen edustaja kertoi Mashablelle .
+Korjauksen oletetaan kuuluvan iOS 7.1 -päivitykseen , joka saattaa huhujen mukaan ilmestyä maaliskuussa .
+Jotkut ovat kertoneet puhelimensa käynnistyneen yhtäkkiä uudelleen , kun akun lataus on alittanut 30 prosenttia .
+On epäselvää , onko ongelma sama , josta Digitoday kertoi lokakuussa .
+Silloin kaatumisiin liittyi puhelimen lyhyesti esittämä sininen ruutu ja ilmeisesti jonkun iWork-sovelluksen käyttäminen .

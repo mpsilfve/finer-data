@@ -1,0 +1,17 @@
+Riitelyn jälkeen : Google julkaisi kaksi Windows-aukkoa lisää
+Toinen aukoista on melko mitätön , toinen puolestaan ei .
+Microsoft ei varmasti ole tyytyväinen .
+Microsoft ja Google ovat jälleen napit vastakkain .
+Soppa sai alkunsa , kun Googlen insinööri paljasti vakavan haavoittuvuuden Microsoftin Windows 8.1- sekä Windows 7 -käyttöjärjestelmistä .
+Asiaan ehti ottaa kantaa myös tietoturvatutkija , joka muistutti , ettei kolmen kuukauden varoitusaika riitä Microsoftin kokoiselle toimijalle .
+Nyt Google on jälleen ilmaantunut julkisuuteen kahdella uudella nollapäivähaavoittuvuudella .
+Ensimmäinen näistä koskee vain Windows 7:ää , eikä se ole erityisen merkittävä .
+Microsoft ja Google ovat yhtä mieltä siitä , että aukkoa ei ole syytä korjata .
+Windows 8 ja 8.1 ovat turvassa .
+Toinen Googlen paljastama aukko on selvästi edellistä vakavampi .
+Se liittyy Windowsin puutteelliseen tapaan tunnistaa käyttäjä tietoa salattaessa .
+Toisin kuin aiempi , tämä aukko koskee myös Windows 8- ja 8.1-käyttöjärjestelmiä .
+Microsoft oli kehittänyt aukkoon jopa korjauksen , joka yhtiön oli tarkoitus julkaista tammikuun päivitystiistain yhteydessä , mutta viime hetkellä ilmennyt yhteensopivuusongelma sai Microsoftin lykkäämään päivitystä helmikuulle .
+Googlelle tämä syy ei kelvannut , sillä yhtiön noudattama 90 päivän ennakkoilmoitusaika tuli täyteen , ja Google julkisti aukon .
+Tämän lisäksi Google jopa paljasti esimerkkitapauksen siitä , miten aukkoa voidaan käyttää hyväksi .
+Asiasta kertoi muun muassa Ars Technica .

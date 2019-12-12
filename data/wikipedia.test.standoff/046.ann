@@ -1,0 +1,64 @@
+T1	PER 0 11	Joel Vilkin
+T2	PER 25 36	Joel Vilkin
+T3	PER 53 73	Joel ja Suoma Vilkin
+T4	LOC 101 118	Kiiruun puistossa
+T5	LOC 119 128	Somerolla
+T6	DATE 129 145	8. elokuuta 1999
+T7	ORG 150 170	Someron yhteiskoulun
+T8	PER 199 210	Joel Vilkin
+T9	PER 258 269	Joel Vilkki
+T10	DATE 272 281	1899–1976
+T11	LOC 388 396	Suomessa
+T12	ORG 409 429	Someron yhteiskoulun
+T13	DATE 478 495	vuosina 1929–1936
+T14	DATE 498 507	1936–1941
+T15	DATE 511 520	1941–1960
+T16	PER 523 529	Vilkki
+T17	ORG 553 567	Someron kunnan
+T18	LOC 604 617	Kiiruun taloa
+T19	LOC 618 625	Someron
+T20	LOC 704 720	Kiiruun puistona
+T21	PER 723 734	Joel Vilkin
+T22	PER 743 755	Suoma Vilkki
+T23	PER 762 771	" Kallo "
+T24	DATE 774 783	1902–1996
+T25	PER 847 858	Joel Vilkin
+T26	LOC 872 885	Kiiruun talon
+T27	PER 919 930	Mauri Favén
+T28	PER 958 974	Heikki Häiväojan
+T29	LOC 1025 1045	Helsingin suurkirkon
+T30	PER 1087 1109	Joel ja Suoma Vilkille
+T31	LOC 1120 1126	Suomen
+T32	LOC 1149 1155	Vilkin
+T33	LOC 1233 1243	Helsinkiin
+T34	LOC 1278 1284	Vilkin
+T35	LOC 1370 1376	Vilkin
+T36	LOC 1473 1486	Kiiruun talon
+T37	PER 1503 1507	Joel
+T38	PER 1511 1523	Suoma Vilkin
+T39	PER 1616 1631	Tapani Aartomaa
+T40	PER 1758 1769	Joel Vilkin
+T41	ORG 1789 1812	Helsingin Somero-Seuran
+T42	LOC 1882 1899	Kiiruun puistossa
+T43	DATE 1900 1916	8. elokuuta 1999
+T44	ORG 1926 1949	Helsingin Somero-Seuran
+T45	PER 1964 1978	Pekka Raitanen
+T46	ORG 1981 2008	Someron kaupunginvaltuuston
+T47	PER 2023 2033	Mauri Salo
+T48	LOC 2039 2045	Vilkin
+T49	ORG 2060 2080	Someron yhteiskoulun
+T50	ORG 2091 2118	Taideteollisen korkeakoulun
+T51	PER 2130 2142	Severi Parko
+T52	ORG 2171 2193	Suomen esperantoliiton
+T53	PER 2209 2224	Jukka Laaksosen
+T54	ORG 2270 2289	Someron kaupungille
+T55	PER 2290 2301	Joel Vilkin
+T100001	LOC 150 157	Someron
+T100002	LOC 409 416	Someron
+T100003	LOC 553 560	Someron
+T100004	LOC 1789 1798	Helsingin
+T100005	LOC 1926 1935	Helsingin
+T100006	LOC 1981 1988	Someron
+T100007	LOC 2060 2067	Someron
+T100008	LOC 2171 2177	Suomen
+T100009	LOC 2270 2277	Someron

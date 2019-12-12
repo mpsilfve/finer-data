@@ -1,0 +1,23 @@
+T1	ORG 26 39	Microsoftilta
+T2	ORG 164 177	Microsoftilta
+T3	ORG 243 254	Microsoftin
+T4	LOC 255 263	Suomessa
+T5	ORG 354 363	Microsoft
+T6	DATE 373 382	elokuussa
+T7	LOC 459 464	Salon
+T8	ORG 482 504	Valtiovarainministeriö
+T9	DATE 513 524	vuoden 2015
+T10	ORG 762 773	Microsoftin
+T11	ORG 835 867	Euroopan globalisaatiorahastolta
+T12	ORG 951 979	Työ- ja elinkeinoministeriön
+T13	ORG 1237 1248	Microsoftin
+T14	LOC 1547 1552	Salon
+T15	ORG 1691 1714	Valtiovarainministeriön
+T16	PER 1739 1754	Annika Klimenko
+T17	ORG 1769 1780	Microsoftin
+T18	PER 2034 2043	Klimenkon
+T19	LOC 2088 2093	Salon
+T20	ORG 2194 2198	VM:n
+T21	DATE 2253 2267	17. syyskuussa
+T22	DATE 2287 2311	syyskuun 9. ja 10. päivä
+T100001	LOC 835 843	Euroopan

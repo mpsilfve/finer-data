@@ -1,0 +1,12 @@
+Hakkeroidun kauppaketjun pomo " kantaa vastuun " — eroraha suurempi kuinrikoksen hyöty
+Gregg Steinhafel kantaa vastuunsa valtavasta korttimurrosta eroamalla Targetin johdosta .
+Mutta kun vastuun kantaminen tarkoittaa kymmenien miljoonien tienestiä , jää hommasta paha maku suuhun .
+Tietoturvatutkija Brian Krebs listasi blogissaan oleelliset luvut Target- fiaskosta .
+Mukana on vanha tuttu luku 40 miljoonaa , mikä viittaa rikollisten kassapäätteistä varastamiin maksukorttitietoihin Targetin kaupoissa .
+Korteista 1–3 miljoonaa ehdittiin myydä pimeillä markkinoilla .
+Hän mainitsee myös ne 70 miljoonaa asiakasta , joiden tietoja konnat veivät muualta kauppaketjun järjestelmässä .
+Listan kiinnostavimmat luvut ovat kuitenkin kaksi viimeistä .
+Krebs arvioi viimeaikaisten alamaailman korttihintojen perusteella , että Targetiin iskeneet rikolliset nettosivat osapuilleen 53,7 miljoonaa dollaria , jos myytyjä kortteja oli kaksi miljoonaa kappaletta .
+Jupakan myötä Targetin johdosta lähtevä Gregg Steinhafel puolestaan kuittaa mukaansa 55 miljoonaa dollaria korvauksia ja muita etuuksia , vaikka moni toimenpide hänen alaisuudessaan korttimurron aikana ja sen jälkeen ei ole kestänyt lähempää tarkastelua .
+Yksi esimerkki on Targetin lupaama 100 miljoonan dollarin satsaus maksupäätteiden päivittämiseksi niin , että ne tukevat jatkossa Euroopassa jo varsin yleisiä sirukortteja .
+Vaikka päätös on toki sinänsä fiksu , se peittää alleen sen tosiasian , ettei sirukorttien tukeminen olisi estänyt yhdenkään kortin varastamista Targetin tapauksessa , missä haittaohjelma metsästi tietoja suoraan kassakoneessa .

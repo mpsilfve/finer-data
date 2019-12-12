@@ -1,0 +1,13 @@
+Ford tietää missä ja milloin kaahailet
+Autovalmistaja Ford tietää , ketkä rikkovat lakia ja milloin , sillä Fordilla on autoissa satelliittiseurantalaite .
+Näin väitti Fordin johtaja viime viikolla , mutta on sen jälkeen vetänyt kiivaasti sanojaan takaisin .
+Fordin markkinointijohtaja Jim Farley kertoi viime viikon kuluttajaelektroniikan messuilla Las Vegasissa Business Insider -julkaisulle , että autovalmistajalla on melko hyvä käsitys ihmisten ajotavoista , sillä se saa tiedot ajoneuvojen navigointijärjestelmistä .
+Farley kehuskeli gps-tiedoilla , joita Ford kerää , mutta vakuutti , ettei yhtiö luovuta niitä kenellekään .
+Sittemmin Ford ja Farley ovat yrittäneet pyyhkiä pois lausunnosta nousseita seurantamielikuvia .
+Fordin mukaan autojen gps-tietoja ei lähetetä rutiininomaisesti minnekään .
+Minnesotan senaattori Al Franken kuitenkin kiinnostui asiasta niin paljon , että hän lähetti Fordin toimitusjohtaja Alan Mulallylle kirjeen , jossa hän tiedustelee , mitä tietoja Ford kerää ja miten se niitä käyttää .
+Kirjeestä uutisoi muun muassa Computerworld .
+Autotehtailijoiden paikkatiedonkeruu ei kuitenkaan ole ihan uusi asia .
+Yhdysvaltain kongressin tilitarkastustoimisto GAO on kiinnittänyt huomiota siihen , että autoala kerää paikkatietoja .
+Yritykset kertovat kyllä asiakkaille keräävänsä tietoa , mutta ovat hyvin epämääräisiä tietojen käyttämisen suhteen .
+GAO on pyytänyt 20 suurimmalta autovalmistajalta vastauksia kysymyksiin , miten tietoja käytetään , kuka niitä käyttää ja kuinka ne on suojattu .

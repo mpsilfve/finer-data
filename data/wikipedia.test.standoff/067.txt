@@ -1,0 +1,18 @@
+Jätepuristin
+Jätepuristin on jätejakeiden tiivistämiseen tarkoitettu laite .
+Jätteitä puristetaan kokoon , jotta kuljetus olisi tehokasta ja taloudellista .
+Samalla kone sijoitettuna käyttökiinteistöön antaa sen käyttäjille mahdollisuuden säilyttää jätejakeet puristimen säiliössä siististi , paloturvallisesti ja ilkivallalta suojattuna .
+Koneita on pääsääntöisesti kahta eri laitetyyppiä : niin sanottuja erillismallin puristimia ja niin sanottuja combimallin puristimia .
+Hydraulisella voimalla liikutetaan puristusmäntää edestakaisin vaakatasossa , jolla tiivistys säiliöön saadaan halutuksi .
+On tarkoitettu isolle säiliökokoluokille 10–40 m³ ja nähin liitettäville puristimille .
+Puristin on kiinteästi alustaansa kiinnitettynä , esimerkiksi asfaltti- tai betonialustaan .
+Puristimen edessä myös alustaansa kiinnitetty ohjauskisko ohjaa säiliön haluttuun paikkaan täsmällisesti .
+Puristin ja säiliö kiinnitetään toisiinsa niin sanotuilla vanttiruuveilla tai hydraulisilla vanteilla , muuten säiliö pakenisi puristimen voimalla eteenpäin .
+Laite voidaan varustaa kiinteistön tarvitsemilla lisävarusteilla kuten kuiluilla ( korkeat rakennukset , joissa jätejae syötetään kerroksissa kuiluun , edelleen puristimen puristuskammioon ) , astiankaatolaitteilla ( esimerkiksi 100–800 litran jäteastioiden kippausta varten ) , erilaisilla tasoratkaisuilla sekä monilla muilla lisävarusteilla lastauksen helpottamiseksi .
+Kuten yllä , mutta eroaa sillä , että puristin ja säiliö ovat samalla I-kiskoalustallaan , kiinni toisissaan ja koko yhdistelmä kulkee kuljetuksissa mukana kaatopaikalle-erottelupisteeseen tyhjennyksen yhteydessä .
+Säiliötilavuudet ovat pienempiä ( yleisesti 5–25 m³ ) yhteispituuden kasvaessa puristimen takia pidemmiksi , joka taas on poissa säiliön kuutiotilavuudesta .
+Tyhjennyksiä suurilla jätemäärillä tulee siten enemmän , jolloin taas combipuristimen kannattavuus olennaisesti laskee .
+Varusteita combiin voidaan lisäillä lukuisa määrä ja käyttö pääsääntöisesti samaa kuin erillismallilla .
+Kuten yllä , mutta puristusvoima saadaankin aikaan mekaanisesti tai hydraulisesti kierreruuvilla , joka kiertyessään aiheuttaa vääntövoiman , jolla jätejae murskautuu ja edelleen työntyy säiliöön .
+Tiivistys on hyvä esimerksiksi laatikoilla , kuormalavoilla , biojätteillä , paperilla ynnä muulla lyhytjakeella .
+Ongelmia ruuvikäyttö tuo pitkillä jakeilla , kuten pressu , kangas ja vaijerit , jolla sitkeä vetovoiman kestävä ominaisuus , kiertyessään ruuviakselin ympärille , aiheuttaen ominaisuuksien menetyksen ja lisäämällä kitkaa jopa palovaaraan saakka .

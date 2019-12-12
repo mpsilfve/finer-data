@@ -1,0 +1,13 @@
+Lumia-käyttäjä : Saatat pettyä Windows 10:een
+Koska et ehkä pysty sitä älypuhelimeesi asentamaan .
+Microsoft lupasi keskiviikon lehdistötilaisuudessa , että kaikki Windows Phone 8.x -käyttäjät voivat päivittää puhelimensa ilmaiseksi .
+Kaikki Windows 10:n tuomat uudet ominaisuudet eivät kuitenkaan välttämättä toimi vanhemmissa Lumia-älypuhelimissa .
+Jotkut Lumia-älypuhelimet ovat teknisesti jo niin vanhentuneita , ettei modernin Windows 10 Mobilen kaikkia hienouksia saada välttämättä toimimaan .
+Eikä myöskään pidä unohtaa , että Windows 10 päivittyy jatkossa hiljalleen uusilla ominaisuuksilla .
+Voikin olla , että osa näistä uusista ominaisuuksista ei toimi edes niissä puhelimissa , joihin Windows 10 Mobile sujahtaa ja toimii nyt ongelmitta , vaan ne saattavat vaatia kaverikseen tuoreempaa puhelinrautaa .
+Osa vanhemmista Lumia-puhelimista on kuitenkin vaarassa jäädä Windows 10 -kelkan ulkopuolelle .
+Tämän vahvistaa Microsoft-pomo Chris Weber , joka sanoo :
+– Tavoitteemme on , että suurin osa Windows Phone 8:aa ja 8.1:tä käyttävistä Lumia-puhelimista voidaan tuoda osaksi Windows 10 -ekosysteemiä .
+Microsoft myös varmisti kehittävänsä uusia Windows 10 -älypuhelinlippulaivamalleja .
+Se asettaakin Microsoftin oman asiakkailleen tarjoaman viestin " nyt on paras mahdollinen aika ostaa Lumiaa " varsin outoon valoon .
+Asiasta kertoi muun muassa Neowin .

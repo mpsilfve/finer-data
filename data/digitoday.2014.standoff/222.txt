@@ -1,0 +1,13 @@
+" Täysin perätöntä " - Netflix kiistää epäilyt uusista maarajoituksista
+Tv-sarjojen ja elokuvien suoratoistopalvelu kiistää jyrkästi kiristäneensä vpn-estoja — ja muotoilee epäselvästi nykyisen käytäntönsä .
+Netflix kommentoi äskettäistä väitettä , jonka mukaan se on alkanut estää asiakkaiden vpn-yhteyksiä voimakkaammin siellä täällä .
+Vpn-yhteydet ovat tapa päästä käsiksi Netflixin Yhdysvaltain palvelun sisältöön ulkomailta .
+Palvelu kiisti kaiken toimittajatapaamisessa CES-messuilla .
+– Väitteet , että olisimme muuttaneet linjaustamme vpn:n suhteen , ovat vääriä , tuotejohtaja Neil Hunt vakuutti Cnetin mukaan .
+Netflixin viestintä- ja teknologiajohtaja Cliff Edwards lisäsi , että media tarttui yhteen väitteeseen , joka oli perätön .
+Uutisissa puhuttiin muun muassa UnoDNS:n , Unblockusin ja TorGuardin havainneen pienen määrän epätavallisia vpn-estoja Netflixin yhteyksissä .
+Vpn:n käyttö on ollut kielletty Netflixin käyttöehdoissa , mutta sellaisten palvelujen avulla on silti voinut päästä Netflixiin .
+Ei kuitenkaan aina , sillä yhtiö on huomauttanut hyödyntävänsä alan normaaleja keinoja vpn-yhteyksien torjumiseksi .
+Hunt muotoili asian CES-messuilla näin :
+– Ihmiset , jotka käyttävät vpn:ää päästäkseen palveluumme [ maantieteellisen ] alueen ulkopuolelta , huomaavat , että se toimii edelleen täsmälleen niin kuin aina ennenkin .
+Ota tästä sitten selvää .

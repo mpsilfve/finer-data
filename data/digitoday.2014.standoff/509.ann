@@ -1,0 +1,21 @@
+T1	PRO 31 46	Aftonbladetissa
+T2	LOC 47 54	Ruotsin
+T3	PRO 95 106	Aftonbladet
+T4	PRO 232 238	Yahoon
+T5	ORG 319 334	BusinessInsider
+T6	PRO 410 426	Aftonbladet.se:n
+T7	LOC 435 442	Ruotsin
+T8	ORG 560 586	Kyberturvallisuuskeskuksen
+T9	PRO 784 797	Aftonbladetin
+T10	ORG 829 844	Kaspersky Labin
+T11	PER 845 857	David Jacoby
+T12	PRO 1004 1017	IE-selaimella
+T13	PRO 1067 1082	Aftonbladetissa
+T14	PRO 1092 1113	Internet Explorerilla
+T15	PER 1170 1176	Jacoby
+T16	PRO 1204 1243	Microsoft Security Essentials -työkalun
+T17	ORG 1477 1495	Help Net Securityn
+T18	ORG 1637 1648	Aftonbladet
+T19	ORG 1689 1715	Kyberturvallisuuskeskuksen
+T100001	PER 829 838	Kaspersky
+T100002	ORG 1204 1213	Microsoft

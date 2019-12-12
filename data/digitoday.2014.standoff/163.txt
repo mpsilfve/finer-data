@@ -1,0 +1,10 @@
+Obaman hallitus potkii CGI:n pellolle Healthcare.govista
+Massiivisen verkkokatastrofin taustalla häärinyt it-yhtiö saa kenkää Barack Obaman hallitukselta .
+Yhdysvaltain hallituksen alainen Centers for Medicare and Medicaid Services ilmoitti lauantaina vaihtavansa Healthcare.gov-verkkosivuston pääasiallista toimittajaa .
+CGI Federalin tilalle palkataan Accenture , muun muassa Washington Post kertoo .
+CGI:n helmikuussa päättyvää sopimusta ei uusita , kun taas Accenture pääsi allekirjoittamaan vuoden mittaisen sopimuksen tavallisille amerikkalaisille tärkeän verkkopalvelun teknisestä parantamisesta .
+Presidentti Barack Obaman sairausvakuutusuudistuksen keskiössä oleva verkkoportaali Healthcare.gov käynnistyi lokakuussa ja kangistui välittömästi , kun kansalaiset yrittivät ostaa palvelun kautta sairausvakuutusta .
+Portaalin ongelmista on tullut oppikirjaesimerkki siitä , miten merkittävän verkkopalvelun julkaisu voidaan totaalisesti pilata .
+Valkoisen talon nimittämä Healthcare.govin korjausjohtaja arvioi joulukuun alussa , että verkkopalvelu on saatu suhteellisen vakaaksi , eli pysymään pystyssä 95-prosenttisesti ja töitä on toki tehty sen jälkeenkin .
+Mutta se ei riittänyt pitämään CGI:tä mukana kuvioissa .
+Accenturen mukaan sopimuksen arvo on sen alkuvaiheessa 45 miljoonaa dollaria eli noin 33 miljoonaa euroa .

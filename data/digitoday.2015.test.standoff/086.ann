@@ -1,0 +1,29 @@
+T1	ORG 51 56	Sonyn
+T2	ORG 110 114	Sony
+T3	LOC 172 181	Berliinin
+T4	EVENT 182 215	IFA-kulutuselektroniikkamessuilla
+T5	PRO 232 253	Xperia Z5-puhelimista
+T6	ORG 306 330	Xperiablog-verkkosivusto
+T7	ORG 333 337	Sony
+T8	PRO 357 378	Xperia Z -puhelimensa
+T9	LOC 421 430	Japanissa
+T10	PRO 494 504	Xperia Z3+
+T11	ORG 540 544	Sony
+T12	LOC 570 583	Euroopassakin
+T13	PRO 584 588	Z4:n
+T14	PRO 601 607	Z5:een
+T15	PRO 745 759	Sony Xperia Z5
+T16	PRO 762 779	Xperia Z5 Compact
+T17	PRO 783 800	Xperia Z5 Premium
+T18	ORG 822 826	Sony
+T19	PRO 1076 1111	Xperia Z5- ja Z5 Compact -malleissa
+T20	PRO 1125 1139	Premium-mallin
+T21	PRO 1162 1179	Xperia-puhelimien
+T22	ORG 1207 1232	Android Authority -blogin
+T23	PRO 1240 1270	Xperia Z5 Premium -puhelimessa
+T24	PRO 1367 1394	Sony Xperia Z5 -puhelimessa
+T25	PRO 1425 1439	Compact-mallin
+T26	PRO 1492 1510	Xperia-puhelimista
+T27	ORG 1530 1541	Xperablogin
+T100001	ORG 745 749	Sony
+T100002	ORG 1367 1371	Sony

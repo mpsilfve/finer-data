@@ -1,0 +1,16 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 18 33	Surface Pro 2:n
+T3	ORG 47 56	Microsoft
+T4	PRO 118 144	Surface Pro 2 -tableteista
+T5	ORG 227 236	Microsoft
+T6	PRO 335 358	Surface Pro 2 -tabletin
+T7	DATE 380 391	joulukuussa
+T8	ORG 394 405	Microsoftin
+T9	ORG 633 638	ZDNet
+T10	ORG 648 657	Microsoft
+T11	DATE 810 821	joulukuussa
+T12	ORG 855 864	Microsoft
+T13	ORG 953 962	Microsoft
+T14	PRO 1005 1014	Surfaceja
+T15	PRO 1094 1110	Surface Pro 2:ta
+T16	ORG 1111 1120	Microsoft

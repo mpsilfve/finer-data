@@ -1,0 +1,14 @@
+Haamu avaa pääsyn Linux-palvelimiin ilman tunnuksia
+Linux-maailmassa on paljastunut uusi , laaja uhka .
+Juuri julkistettu GHOST ( haamu ) -haavoittuvuus avaa hyökkääjälle pääsyn lähes kaikkiin laajasti käytettyihin Linux-pohjaisiin netti- ja sähköpostipalvelimiin .
+Tietoturvayritys Qualys kertoi blogissaan tiistaina GHOST-haavoittuvuudesta ja siihen julkaistusta kaikki jakelut kattavasta paikkauksesta .
+Kyse on haavoittuvuudesta , joka mahdollistaa Linux-pohjaisen tietokoneen täyden haltuunoton ilman tunnuksia tai salasanoja .
+Haavoittuvuus koskee C- ja C++ -kielillä kirjoitettuja GNU C -kirjaston eli glibc’n vanhempia versioita .
+Uudemmissa versioissa alkaen glibc’stä , joka julkaistiin elokuussa 2013 , haavoittuvuutta ei ole .
+Potentiaalinen ongelma on kuitenkin valtavan suuri , sillä vanhoihin Linux-versioihin perustuvia palvelimia on vielä runsaasti käytössä .
+Ainakin kolmannes maailman web- ja email-palvelimista toimii Linuxin eri versioiden päällä , Tom’s Guide kirjoitti .
+Qualys todensi haavoittuvuuden vaarallisuuden kehittämällä siihen Exim-sähköpostipalvelinta vastaan toimivan hyökkäyksen .
+Se ei julkaissut hyökkäyksen tarkkoja yksityiskohtia .
+Vaarassa ovat Eximin lisäksi muun muassa Apache , Sendmail , Nginx , MySQL , CUPS ja Samba-palvelimet .
+Muun muassa Red Hat ja Ubuntu ovat julkaisseet korjauksen haavoittuvuuteen .
+Red Hatin Fedorassa haavoittuvuutta ei enää ole versiosta 20 eteenpäin , ei myöskään Ubuntussa versiosta 13.10 alkaen .

@@ -1,0 +1,24 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 42 50	Applekin
+T3	ORG 90 95	Apple
+T4	ORG 103 114	Microsoftin
+T5	ORG 163 183	Strategy Analyticsin
+T6	ORG 186 188	SA
+T7	ORG 209 216	Samsung
+T8	DATE 264 280	huhti–kesäkuussa
+T9	ORG 518 527	Microsoft
+T10	PRO 586 605	Lumia-älypuhelinten
+T11	ORG 642 651	Microsoft
+T12	ORG 697 703	Applen
+T13	ORG 739 746	Huawein
+T14	ORG 749 760	Microsoftin
+T15	ORG 911 922	Microsoftin
+T16	ORG 983 992	Microsoft
+T17	PRO 1052 1070	Lumia-älypuhelimet
+T18	PRO 1112 1131	Windows 10 -mallien
+T19	ORG 1176 1180	SA:n
+T20	PER 1181 1193	Neil Mawston
+T21	ORG 1209 1214	Apple
+T22	PRO 1221 1233	iPhoneillaan
+T23	ORG 1264 1270	Huawei
+T24	ORG 1323 1325	SA

@@ -1,0 +1,16 @@
+Anthemin megamurto kesti kuukausia — puhtaat yritysverkot enää pienivähemmistö
+Check Point antoi arvionsa valtavasta Anthem-varkaudesta ja taustoitti tilannetta pysäyttävällä arviolla yritysverkkojen tilasta .
+Yhdysvaltalainen sairausvakuutusyhtiö Anthem menetti 80 miljoonan asiakkaan tiedot pitkään kestäneen ja huomaamattoman verkkohyökkäyksen myötä , tietoturvayhtiö Check Point korostaa .
+Yhtiö käyttää termiä " hivutus " kuvaillakseen , miten asiakkaiden henkilökohtaiset tiedot vähitellen valuivat ulos Anthemista .
+Check Pointin arvion taustalla on toisen tietoturvayrityksen tieto , jonka mukaan hyökkäys saattoi alkaa jo kolme kuukautta ennen kuin se paljastui viime viikolla .
+Hyökkäys kävi ilmi , kun yksi it-työntekijä huomasi hänen tunnuksillaan tehtävän hakua tietokannasta .
+Anthemin tytäryhtiöissä saattoi olla bottitartuntoja ( haittaohjelmia ) jo viime vuoden lokakuussa .
+Ensimmäisten tietojen mukaan Anthemin murto tehtiin muunnetulla haittaohjelmalla , jollaisia perinteiset virustorjuntaohjelmat eivät välttämättä huomaa .
+Check Pointin viime vuoden tietoturvaraportti kertoo osaltaan , miten karu tilanne yrityksissä saattaa laajemmin olla .
+– [ Anthemin tapaus ] ei hämmästytä lainkaan .
+Kun keräsimme viime vuoden raporttiamme varten tietoturvatietoja yli 10\_000 organisaatiosta kautta maailman , 73 prosentissa yritysverkoista oli tutkimusajankohtana vähintään yksi bottitartunta .
+Tämä oli yli puolet enemmän kuin edellisenä vuonna .
+77 prosenttia boteista toimi aktiivisesti yli neljän viikon ajan .
+Tyypillinen botti oli yhteydessä isäntäänsä joka kolmas minuutti , Check Pointin Pohjoismaiden aluejohtaja Örjan Westman toteaa tiedotteessa .
+Ei sinänsä ole lainkaan ennenkuulumatonta , että verkkohyökkäykset tehdään tällä tavoin pitkäjänteisesti ja huomaamatta .
+Esimerkiksi Yhdysvaltoja riivaavassa maksukorttimurtojen sarjassa moni isku on tehty kuukausien aikajänteellä , ja tapahtumien kulku on selvinnyt vasta pahasti jälkikäteen , kun rikolliset ovat jo saaneet sen , mitä halusivat .

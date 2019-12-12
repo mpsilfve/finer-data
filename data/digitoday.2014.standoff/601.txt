@@ -1,0 +1,15 @@
+3 kuukautta ei ole tarpeeksi ?
+Windows-aukon paljastaja sai haukut
+Googlen insinöörin olisi arvostelijan mukaan pitänyt odottaa vieläkin kauemmin ennen vakavan Windows-haavoittuvuuden paljastamista .
+Googlen insinöörin päätös julkaista Windows 8.1 -haavoittuvuus oli Secunialla työskentelevän Kasper Lindgaardin mukaan virhe .
+Lindgaardin mukaan Microsoftille ei annettu riittävästi aikaa korjata aukkoa .
+Windows 8.1 -käyttöjärjestelmästä löytynyt vakava haavoittuvuus mahdollistaa järjestelmävalvojan oikeuksien hankkimisen .
+Googlen insinööri puolustautui sillä , että kyseinen aukko oli saatettu Microsoftin tietoon jo viime syyskuussa .
+Lindgaardin mukaan tämä ei muuta asiaa .
+Hänen mukaansa muutama kuukausi ei ole Microsoftille kunnollinen aika sulkea aukkoa .
+– Kun kyseessä on Microsoftin kokoinen toimija , ei kolme kuukautta ole välttämättä riittävä aikaväli aukon paikkaamiseen .
+Jos haavoittuvuus on esimerkiksi käyttöjärjestelmän ytimessä , on se paljon hankalampi korjata .
+Lisäksi päivityksen tehokkuuden testaus ottaa oman aikansa , Lindgaard perustelee .
+Microsoft on pysynyt asiasta melko hiljaisena , mutta kertoo kehittävänsä korjausta .
+Todennäköisesti sellainen nähdään tammikuun tietoturvapäivitysten yhteydessä .
+Asiasta kertoi muun muassa Softpedia .

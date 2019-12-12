@@ -1,0 +1,17 @@
+T1	LOC 0 10	Britannian
+T2	LOC 107 126	Isossa-Britanniassa
+T3	LOC 219 231	Britanniassa
+T4	ORG 517 523	Applen
+T5	PRO 524 534	iTunesista
+T6	PRO 537 551	Google Playsta
+T7	LOC 649 660	Luxemburgin
+T8	ORG 739 761	Britannian hallituksen
+T9	PER 784 799	George Osbourne
+T10	PRO 900 910	iTunesista
+T11	LOC 1094 1104	Britannian
+T12	DATE 1191 1216	1. tammikuuta vuonna 2015
+T13	PER 1297 1305	Osbourne
+T14	ORG 1314 1333	Britannian hallitus
+T100001	ORG 537 543	Google
+T100002	LOC 739 749	Britannian
+T100003	LOC 1314 1324	Britannian

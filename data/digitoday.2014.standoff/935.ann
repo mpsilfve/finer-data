@@ -1,0 +1,28 @@
+T1	PER 0 12	Zuckerbergia
+T2	ORG 65 77	Facebookissa
+T3	PER 80 95	Mark Zuckerberg
+T4	ORG 131 143	Facebookissa
+T5	ORG 168 178	Facebookin
+T6	LOC 223 231	Pariisin
+T7	ORG 254 264	Facebookin
+T8	PER 275 290	Mark Zuckerberg
+T9	PER 391 401	Zuckerberg
+T10	ORG 519 527	Facebook
+T11	PER 580 590	Muhammedia
+T12	PER 611 623	Zuckerbergin
+T13	ORG 631 639	Facebook
+T14	ORG 797 805	Facebook
+T15	ORG 934 956	Charlie Hebdo -lehteen
+T16	PER 980 992	Zuckerbergin
+T17	ORG 1106 1118	Facebookissa
+T18	PER 1312 1324	Zuckerbergiä
+T19	LOC 1396 1405	Syyriassa
+T20	LOC 1408 1416	Irakissa
+T21	LOC 1420 1434	Afganistanissa
+T22	PER 1478 1490	Zuckerbergiä
+T23	ORG 1638 1646	Facebook
+T24	ORG 1671 1683	Ilta-Sanomat
+T25	LOC 1766 1774	Suomessa
+T26	ORG 1775 1783	Facebook
+T27	PER 1817 1832	Jörn Donnerista
+T100001	PER 934 941	Charlie

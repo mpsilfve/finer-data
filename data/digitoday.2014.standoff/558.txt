@@ -1,0 +1,20 @@
+Suomi24:n sähköpostisotku : " Käyttäjien oikeuksia saatettu rikkoa "
+Noin viidenkymmenen Suomi24-sähköpostin käyttäjän tunnukset menivät keskiviikkoiltana sekaisin ja käyttäjät pääsivät lukemaan toistensa sähköposteja .
+Aller Median omistama Suomi24 on selventänyt parin päiväisen palvelunuudistamisessa syntyneen virheen syitä .
+— Kun uudistimme Suomi24-palvelua , niin teimme teknisiä uudistuksia siihen , kuinka pisteet ja välimerkit käyttäytyvät .
+Virhe syntyi tätä tehdessä , Allerin sosiaalisen median päällikkö Pirjo Väyrynen kertoo .
+Väyrysen mukaan sellaiset tunnukset , joissa oli piste , ja vastaavat tunnukset , joissa ei ollut pistettä menivät uudistuksessa sekaisin .
+Jos kahden tällaisen tunnuksen käyttäjällä oli vielä tismalleen sama salasana , niin järjestelmä sekoitti ne keskenään , ja käyttäjät päätyivät väärään sähköpostiin .
+Esimerkiksi tunnukset matti.virtanen@suomi24.fi ja mattivirtanen@suomi24.fi saattoivat mennä järjestelmässä sekaisin jos käyttäjillä oli vielä lisäksi sama salasana .
+Mahdollinen lakirikkomus
+Viestintävirastossa Suomi24:n virheet ovat jo tiedossa .
+Tällaisissa tapauksissa sähköpostia tarjoava yhtiö on velvollinen tekemään ilmoituksen .
+Paraikaa Viestintävirasto selvittää yhdessä Suomi24:n kanssa mitä oikein tapahtui .
+Viestintäviraston kyberturvallisuusosaston tietoturva-asiantuntija Ilari Karisen mukaan yksittäisten käyttäjien oikeuksia on saatettu rikkoa .
+— Sähköpostipalvelut nauttivat yksityisyyden suojaa .
+On mahdollista , että Suomi24 olisi rikkonut esimerkiksi perustuslakiin kirjattua viestintäsalaisuutta .
+Sanktioita virasto ei voi kuitenkaan jakaa , sillä Suomi24 on jo korjannut havaitsemansa virheen .
+— Korvausvaatimuksia ei ole tullut .
+Yhteensä näitä tunnuksia oli noin 50 .
+Ennen kuin virhe huomattiin niin viisi henkilöä ehti kirjautua sisälle , Aller Median Väyrynen sanoo .
+Väyrysen mukaan Suomi24 lähettänyt kaikille virheestä kärsineille käyttäjille kehotuksen vaihtaa salasanansa .

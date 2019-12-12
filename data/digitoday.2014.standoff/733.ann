@@ -1,0 +1,12 @@
+T1	ORG 12 21	Samsungin
+T2	PRO 61 76	iPadinretinalle
+T3	EVENT 123 136	CES-messuilla
+T4	PRO 156 183	Samsung Galaxy TabPRO 12,2”
+T5	PRO 262 289	Samsung Galaxy TabPRO 12,2”
+T6	PRO 754 768	Note-malleissa
+T7	PRO 1089 1098	TabPROssa
+T8	PRO 1316 1323	iPadien
+T9	PRO 1364 1375	Android 4.4
+T10	PRO 1699 1731	Snapdragon 800 -neliydinsuoritin
+T100001	ORG 156 163	Samsung
+T100002	ORG 262 269	Samsung

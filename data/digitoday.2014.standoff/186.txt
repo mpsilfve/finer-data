@@ -1,0 +1,14 @@
+Snowdenin suosikkikäyttis päivittyi
+Edward Snowdenin myötä mainetta saanut Linux-jakelu naamioituu tarvittaessa vaikka Windows XP:ksi .
+Tails OS on mukana usb-tikulla tai dvd-levyllä kulkeva pieni ja näppärä Linux-jakelu , joka perustuu muokattuun Debian Linuxiin .
+Suuren yleisön tietoisuuteen käyttöjärjestelmä tuli , kun paljastui , että myös Edward Snowden on hyödyntänyt sitä vältellessään NSA:n lonkeroita .
+Tails OS:n tarkoitus on pitää käyttäjänsä täysin anonyymina ja huolehtia tämän tietosuojasta internetissä .
+Käyttöjärjestelmän nimi on lyhenne sanoista The Amnesic Incognito Live System .
+Tails OS:ää ei ole koskaan tarkoitus asentaa , vaan se ajetaan live-versiona esimerkiksi usb-tikulta , dvd-levyltä tai sd-muistikortilta .
+Itse asiassa käyttöjärjestelmä ei jätä ajettavalle koneelle itsestään minkäänlaisia jälkiä – ei , ellei käyttäjä erikseen niin halua .
+Kaikki Tails OS:n sisältämät perusohjelmat on valittu turvallisuus ja yksityisyys mielessä : nettiselain , sähköpostiohjelma , pikaviestin ja niin edelleen .
+Tails OS menee salamyhkäisyydessään jopa siihen asti , että käyttöjärjestelmä voi käyttäjän niin halutessa naamioitua muistuttamaan ulkonäöltään Windows XP:tä .
+Tällä vältetään ylimääräinen huomio esimerkiksi nettikahvilassa tai muussa julkisessa paikassa .
+Mikäli foliopipo kiristää päässä , on Tails OS varma valinta .
+Käyttöjärjestelmä sai juuri suuren päivityksen ja kantaa nyt versionumeroa 1.0 .
+Asiasta uutisoi TechSpot-verkkojulkaisu .

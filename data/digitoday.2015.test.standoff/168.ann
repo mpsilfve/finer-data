@@ -1,0 +1,7 @@
+T1	ORG 57 74	Helsingin poliisi
+T2	ORG 246 264	Helsingin poliisin
+T3	ORG 681 698	Helsingin poliisi
+T4	PER 874 888	Ismo Siltamäki
+T100001	LOC 57 66	Helsingin
+T100002	LOC 246 255	Helsingin
+T100003	LOC 681 690	Helsingin

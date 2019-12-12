@@ -1,0 +1,11 @@
+T1	ORG 263 318	Yhdysvaltain kansallinen standardi- ja tiedeinstituutti
+T2	ORG 319 323	NIST
+T3	ORG 326 372	National Institute of Standards and Technology
+T4	PRO 451 458	NIST-F1
+T5	PRO 462 469	NIST-F2
+T6	PRO 607 614	NIST-F1
+T7	DATE 633 646	vuodesta 1999
+T8	PRO 657 659	F2
+T9	PRO 863 872	NIST-F2:n
+T10	PER 891 908	Steven Jeffertsin
+T11	ORG 1146 1151	PCMag

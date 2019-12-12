@@ -1,0 +1,26 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 39 45	Applen
+T3	ORG 54 63	Microsoft
+T4	PRO 182 209	Office for iOS -sovellukset
+T5	PRO 210 214	Word
+T6	PRO 217 227	Powerpoint
+T7	PRO 231 236	Excel
+T8	ORG 297 303	Applen
+T9	PRO 304 312	iCloudin
+T10	PRO 317 334	Box-pilvipalvelun
+T11	ORG 335 346	Microsoftin
+T12	PRO 347 356	OneDriven
+T13	ORG 392 400	Mashable
+T14	ORG 458 467	Microsoft
+T15	PRO 477 494	Office-blogissaan
+T16	PRO 507 515	Android-
+T17	PRO 519 551	Windows 10 -käyttöjärjestelmillä
+T18	ORG 652 661	Microsoft
+T19	PRO 745 759	Office Onlinen
+T20	ORG 795 805	Salesforce
+T21	ORG 809 815	Citrix
+T22	PER 863 877	Satya Nadellan
+T23	ORG 891 900	Microsoft
+T24	ORG 1006 1015	Microsoft
+T25	ORG 1019 1026	Dropbox
+T26	PRO 1120 1129	Dropboxin

@@ -1,0 +1,13 @@
+T1	ORG 13 18	Apple
+T2	ORG 95 100	Apple
+T3	ORG 131 159	Yhdysvaltain patenttivirasto
+T4	ORG 169 175	Applen
+T5	ORG 272 278	Applen
+T6	ORG 395 400	Apple
+T7	ORG 751 755	Cnet
+T8	ORG 819 825	Applen
+T9	ORG 1072 1077	Apple
+T10	DATE 1084 1095	vuonna 2011
+T11	DATE 1156 1168	Maaliskuussa
+T12	ORG 1194 1200	Applen
+T100001	LOC 131 143	Yhdysvaltain

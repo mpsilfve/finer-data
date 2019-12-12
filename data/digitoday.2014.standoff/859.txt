@@ -1,0 +1,9 @@
+Se tapahtui taas : S-ryhmän asiakkailta perittiin tuplamaksuja
+Tällä kertaa virhe koski noin 30\_000 maksutapahtumaa .
+S-ryhmän hotelleissa , ravintoloissa ja jonkin verran myös ABC-kylmäasemilla on veloitettu korttimaksutapahtumia tuplasti Netsin korttimaksutapahtumakäsittelyssä tapahtuneen virheen takia .
+Netsin mukaan kahteen kertaan veloitettuja tapahtumia on noin 30\_000 .
+Pääosa ostoksista on tehty 24. tammikuuta , ja ne on veloitettu sekä 26. että 29. tammikuuta .
+– Korjausaineistot on lähetetty korttien liikkeellelaskijapankeille , ja hyvitystapahtumat näkyvät kortinhaltijoiden tileillä pääosin jo tänäään , Netsin varatoimitusjohtaja Petri Carpén kertoo tiedotteessa .
+SOK:n rahoitusjohtajan Juha Aholan mukaan yhtiö käy palveluntoimittajien prosessit läpi , jotta vastaavat riskit voidaan välttää tulevaisuudessa .
+S-ryhmä kärsi korttimaksujen häiriöistä viimeksi tammikuun alussa , jolloin maksuja tuplaveloitettiin teknisen häiriön takia .
+Tuolloin vika koski satoja tuhansia korttitapahtumia .

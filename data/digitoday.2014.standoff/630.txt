@@ -1,0 +1,12 @@
+Kiina iski Gmailia vastaan — enää yksi tapa kiertää estot
+Googlen elintila Kiinassa on jälleen kutistunut .
+Gmailin käyttö verkkoselaimella estettiin jo aikaisemmin tänä vuonna ja nyt suuri palomuuri estää sen käytön myös sovellusten kautta .
+Gmailin nettikäytön esto alkoi uutistoimisto Reutersin mukaan Tiananmenin 25. vuosipäivän alla viime kesäkuun alussa .
+Gmail-viestit katosivat suureen palomuurin uumeniin , eivätkä koskaan päässeet perille .
+Viestien katoamisesta ei myöskään tullut virheilmoitusta lähettäjälle .
+Tähän saakka Gmailiin on päässyt käsiksi sähköpostisovelluksella imap- , smtp- ja pop3-protokollien kautta .
+Tämä on mahdollistanut Gmailin käytön esimerkiksi Apple iPhonen Mailin , Microsoftin Outlookin ja Mozillan Thunderbirdin avulla .
+Kiinan nettisensuuria seuraava GreatFire.org ilmoitti , että suuri määrä Gmailin nettiosoitteita estettiin perjantaina , ja ne pysyivät kiinni vielä maanantaina .
+Myös Googlen reaaliaikainen läpinäkyvyysseuranta osoitti perjantaina Kiinan nettiliikenteen kutistuneen jyrkästi .
+GreatFire.orgin mukaan Gmailin täysi esto tuottaa huomattavia ongelmia yrityksille , jotka käyttävät sitä .
+Se sanoo , että vpn-virtuaaliverkot ovat jäämässä ainoaksi tavaksi kiertää suuri palomuuri .

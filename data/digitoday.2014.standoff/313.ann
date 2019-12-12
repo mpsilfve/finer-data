@@ -1,0 +1,38 @@
+T1	ORG 14 29	Nokia-Microsoft
+T2	ORG 68 75	Samsung
+T3	ORG 79 84	Apple
+T4	DATE 174 191	loka-marraskuussa
+T5	ORG 290 297	Samsung
+T6	ORG 307 322	Microsoft-Nokia
+T7	ORG 337 342	Apple
+T8	ORG 379 399	Strategy Analyticsin
+T9	ORG 423 429	Applen
+T10	PRO 430 439	iPhone 6-
+T11	PRO 443 464	6 Plus -älypuhelinten
+T12	ORG 483 489	Applen
+T13	ORG 515 524	Samsungin
+T14	DATE 616 630	loka-joulukuun
+T15	ORG 666 671	Apple
+T16	DATE 722 733	vuonna 2011
+T17	ORG 736 743	Samsung
+T18	DATE 765 782	loka–marraskuussa
+T19	DATE 858 869	vuonna 2013
+T20	ORG 872 878	Applen
+T21	ORG 887 896	Samsungin
+T22	ORG 937 952	Lenovo-Motorola
+T23	ORG 956 962	Huawei
+T24	ORG 965 974	Motorolan
+T25	ORG 986 993	Lenovon
+T26	ORG 1102 1108	Huawei
+T27	ORG 1123 1125	LG
+T28	ORG 1129 1135	Xiaomi
+T29	DATE 1189 1205	loka–joulukuussa
+T30	ORG 1272 1290	Strategy Analytics
+T31	ORG 1311 1324	Bloombergille
+T32	LOC 1448 1456	Kiinassa
+T33	LOC 1459 1467	Intiassa
+T34	LOC 1471 1480	Afrikassa
+T35	DATE 1488 1499	vuoden 2014
+T36	ORG 1510 1517	Samsung
+T37	ORG 1660 1667	Samsung
+T38	ORG 1836 1842	Applen

@@ -1,0 +1,23 @@
+T1	ORG 0 5	Apple
+T2	ORG 15 24	Samsungin
+T3	ORG 73 78	Apple
+T4	ORG 83 94	Samsungilta
+T5	ORG 193 202	Samsungin
+T6	ORG 256 264	Applelle
+T7	ORG 289 294	Apple
+T8	ORG 299 310	Samsungilta
+T9	ORG 353 358	Apple
+T10	ORG 435 440	Apple
+T11	ORG 458 467	Samsungin
+T12	ORG 486 491	Apple
+T13	ORG 525 536	Samsungille
+T14	ORG 556 579	Santa Claran yliopiston
+T15	PER 598 608	Brian Love
+T16	ORG 622 628	Applen
+T17	ORG 719 727	Applelle
+T18	ORG 754 765	Bloombergin
+T19	ORG 992 997	Apple
+T20	ORG 1057 1063	Applen
+T21	ORG 1090 1099	Samsungin
+T22	LOC 1139 1153	Yhdysvalloissa
+T100001	LOC 556 568	Santa Claran

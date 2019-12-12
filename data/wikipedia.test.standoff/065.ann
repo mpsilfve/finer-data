@@ -1,0 +1,68 @@
+T1	PER 0 10	John Candy
+T2	PER 11 30	John Franklin Candy
+T3	DATE 33 51	31. lokakuuta 1950
+T4	LOC 52 61	Newmarket
+T5	LOC 64 71	Ontario
+T6	DATE 74 93	4. maaliskuuta 1994
+T7	LOC 94 101	Durango
+T8	LOC 104 111	Meksiko
+T9	PER 291 296	Candy
+T10	LOC 335 345	Meksikossa
+T11	DATE 359 363	1994
+T12	PER 366 376	John Candy
+T13	LOC 384 397	Newmarketissa
+T14	LOC 400 407	Kanadan
+T15	LOC 408 418	Ontariossa
+T16	PER 421 469	Evangeline ( os. Aker ) ja Sidney James Candylle
+T17	PER 472 480	Candylla
+T18	PER 505 508	Jim
+T19	LOC 536 546	Ontariossa
+T20	PER 604 609	Candy
+T21	ORG 622 649	Neil McNeil High Schoolissa
+T22	PER 706 712	Candyn
+T23	DATE 742 753	vuoden 1973
+T24	PRO 765 781	" Class of '44 "
+T25	PER 863 868	Candy
+T26	DATE 943 954	Vuonna 1976
+T27	PER 955 960	Candy
+T28	PER 981 996	Rick Moraniksen
+T29	PER 1013 1027	Peter Gzowskin
+T30	PRO 1042 1065	" Ninety Minutes Live "
+T31	PER 1068 1073	Candy
+T32	PRO 1131 1157	" Second City Television "
+T33	DATE 1179 1192	vuodesta 1981
+T34	DATE 1193 1205	vuoteen 1984
+T35	PER 1249 1254	Candy
+T36	PER 1329 1347	Steven Spielbergin
+T37	PRO 1356 1398	" 1941 – Anteeksi , missä on Hollywood ? "
+T38	PRO 1462 1496	" The Blues Brothers " -elokuvassa
+T39	DATE 1499 1510	Vuonna 1987
+T40	PER 1511 1516	Candy
+T41	PER 1551 1565	Steve Martinin
+T42	PRO 1584 1607	" Vauhdilla Chicagoon "
+T43	DATE 1717 1728	Vuonna 2002
+T44	ORG 1729 1750	" Total Film " -lehti
+T45	PRO 1759 1792	" Vauhdilla Chicagoon " -elokuvan
+T46	PRO 1886 1911	" Kaistapäiden kaupunki "
+T47	PRO 1914 1934	" Ojasta allikkoon "
+T48	PRO 1938 1964	" Huijareitten paratiisi "
+T49	PER 1974 1980	Candyn
+T50	DATE 2108 2119	Vuonna 1991
+T51	PER 2120 2125	Candy
+T52	PRO 2166 2187	" Äitini on naiseni "
+T53	PER 2235 2241	Candyn
+T54	PRO 2277 2305	" Pekonia kanadalaisittain "
+T55	PER 2343 2348	Candy
+T56	LOC 2400 2410	Meksikossa
+T57	DATE 2411 2430	4. maaliskuuta 1994
+T58	PER 2458 2463	Candy
+T59	PER 2659 2665	Candya
+T60	DATE 2707 2727	18. maaliskuuta 1994
+T61	PER 2738 2749	John Candyn
+T62	ORG 2823 2842	" The Second City "
+T63	LOC 2878 2890	Hamiltonista
+T64	LOC 2891 2900	Kanadasta
+T100001	DATE 1358 1362	1941
+T100002	LOC 1385 1394	Hollywood
+T100003	LOC 1596 1605	Chicagoon
+T100004	LOC 1771 1780	Chicagoon

@@ -1,0 +1,23 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 52 63	Microsoftin
+T3	PRO 64 73	Windows 8
+T4	PER 179 191	Ben Thompson
+T5	ORG 201 212	Microsoftin
+T6	PRO 314 325	Windows 8:n
+T7	ORG 630 639	Microsoft
+T8	PRO 662 671	Windowsin
+T9	PRO 696 709	Windows 8:sta
+T10	PRO 796 807	Windows 8:n
+T11	PER 951 963	Ben Thompson
+T12	ORG 992 1001	Microsoft
+T13	DATE 1187 1198	vuoden 2010
+T14	PRO 1202 1213	Windows 8:n
+T15	DATE 1231 1235	2012
+T16	PRO 1294 1303	Windows 8
+T17	PER 1327 1335	Thompson
+T18	ORG 1370 1379	Microsoft
+T19	ORG 1399 1412	Microsoftilla
+T20	PRO 1443 1454	Windows 8 -
+T21	PRO 1458 1491	Windows Phone -käyttöjärjestelmät
+T22	ORG 1691 1702	Microsoftin
+T23	PER 1727 1735	Thompson

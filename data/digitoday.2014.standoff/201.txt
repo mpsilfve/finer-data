@@ -1,0 +1,14 @@
+Uusi DirectX lupaa mannaa pelaajille
+DirectX:n lisäksi Microsoft kertoi Xbox-sovelluksesta pelaajia varten .
+Windows 10:stä ei tule vain pintakiillotettu Windows 8 , vaan Microsoft haluaa uudistaa käyttöjärjestelmää voimakkaasti .
+Ulkonäköparannusten lisäksi uutta puhtia saadaan myös pellin alle .
+Microsoft esitteli keskiviikon lehdistötilaisuudessa myös pelaajia kiinnostavia Windows 10 -ominaisuuksia .
+Eräs tällainen on uusi Xbox-sovellus , johon käyttäjä voi kerätä kaikki pelaamansa pelit .
+Sovelluksen avulla pelitilanteita voidaan muun muassa tallentaa ja jakaa kavereiden kesken .
+Toinen pelaamiseen keskittyvä Windows 10 -uudistus on DirectX 12 -rajapinta .
+Sen luvataan olevan jopa 50 prosenttia tehokkaampi kuin tällä hetkellä markkinoita dominoiva DirectX 11 .
+Tilaisuudessa esiteltiin suomalaisen Futuremarkin kehittämä demo , jota ajettiin kahdella identtisellä pc-laitteistolla : toisessa ikkunassa pyöri demon DirectX 11 -versio , toisessa DirectX 12 .
+Kun DirectX 11 -version tapahtumiin lisättiin vähitellen graafisia herkkuja , kuva alkoi takellella ja pysähtyi lopulta kokonaan .
+DirectX 12 -versio sen sijaan jatkoi suhteellisen sulavaa liikettä .
+Microsoftilta luvattiinkin , että DirectX 12 -rajapinta päästää sovelluskehittäjän niin lähelle rautatasoa kuin mahdollista .
+Tällä pitäisi olla merkittäviä parannuksia paitsi suorituskykyyn myös esimerkiksi mobiililaitteiden akkukestoon .

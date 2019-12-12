@@ -1,0 +1,19 @@
+T1	ORG 0 5	Rovio
+T2	ORG 36 43	NSA:lle
+T3	ORG 44 49	Rovio
+T4	ORG 150 155	Rovio
+T5	LOC 256 269	Yhdysvaltojen
+T6	ORG 270 275	NSA:n
+T7	LOC 280 290	Britannian
+T8	ORG 291 297	GCHQ:n
+T9	ORG 337 355	The New York Times
+T10	LOC 363 376	Yhdysvaltojen
+T11	LOC 380 390	Britannian
+T12	ORG 524 530	Rovion
+T13	PRO 531 548	Angry Birds -peli
+T14	ORG 585 590	CIA:n
+T15	PER 603 619	Edward Snowdenin
+T16	ORG 642 648	Rovion
+T17	ORG 913 919	Rovion
+T18	PER 936 948	Mikael Hedin
+T100001	LOC 341 349	New York

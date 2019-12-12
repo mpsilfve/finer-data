@@ -1,0 +1,24 @@
+T1	PRO 0 10	Windows 10
+T2	PRO 52 64	Defenderillä
+T3	PRO 131 151	Windows 8:n ja 8.1:n
+T4	PRO 172 208	Windows Defender -haittaohjelmatutka
+T5	PRO 233 246	Windows 10:aa
+T6	ORG 249 258	Microsoft
+T7	ORG 337 348	Microsoftin
+T8	PRO 349 365	Windows Defender
+T9	PRO 609 635	MB-lehden numerosta 1/2015
+T10	ORG 638 649	Microsoftin
+T11	PRO 650 670	UserVoice-foorumilla
+T12	ORG 699 708	Microsoft
+T13	PRO 725 743	Windows Defenderin
+T14	PRO 798 816	Windows Defenderin
+T15	ORG 1106 1119	Microsoftilla
+T16	ORG 1309 1320	Microsoftin
+T17	PRO 1343 1353	Windows 10
+T18	PRO 1374 1405	Windows Defender -ohjelmistolla
+T19	PRO 1423 1438	Windows 8.1:stä
+T20	PRO 1527 1538	Twitterissä
+T21	ORG 1539 1550	Microsoftin
+T22	PER 1573 1584	Gabriel Aul
+T23	ORG 1613 1622	Softpedia
+T100001	PRO 1551 1566	Windows Insider

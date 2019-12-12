@@ -1,0 +1,37 @@
+T1	ORG 0 6	Uberin
+T2	ORG 52 56	Uber
+T3	ORG 60 78	Arizonan yliopisto
+T4	ORG 124 130	Uberin
+T5	LOC 172 181	Airizonan
+T6	PER 204 215	Doug Duceyn
+T7	ORG 243 249	Uberin
+T8	ORG 253 272	Arizonan yliopiston
+T9	ORG 452 460	Fortunen
+T10	ORG 518 522	Uber
+T11	PER 710 715	Ducey
+T12	LOC 782 792	Arizonassa
+T13	DATE 795 806	Helmikuussa
+T14	ORG 807 811	Uber
+T15	ORG 843 870	Carnegie Mellon -yliopiston
+T16	LOC 994 1004	Arizonassa
+T17	ORG 1061 1079	Arizonan yliopisto
+T18	ORG 1192 1197	Canon
+T19	ORG 1200 1229	Sharp Laboratories of America
+T20	ORG 1232 1247	Oculus Research
+T21	ORG 1250 1279	Johnson & Johnson Vision Care
+T22	ORG 1282 1298	Raytheon Systems
+T23	ORG 1302 1308	Boeing
+T24	ORG 1311 1319	Fortunen
+T25	ORG 1369 1373	Uber
+T26	ORG 1392 1402	Arizonassa
+T27	ORG 1408 1427	Carnegie Mellonissa
+T28	ORG 1487 1493	Uberin
+T100001	LOC 60 68	Arizonan
+T100002	LOC 253 261	Arizonan
+T100003	PER 843 851	Carnegie
+T100004	PER 852 858	Mellon
+T100005	LOC 1061 1069	Arizonan
+T100006	PER 1250 1257	Johnson
+T100007	PER 1260 1267	Johnson
+T100008	PER 1408 1416	Carnegie
+T100009	PER 1417 1427	Mellonissa

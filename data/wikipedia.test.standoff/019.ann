@@ -1,0 +1,37 @@
+T1	LOC 41 55	Etelä-Kiinasta
+T2	LOC 60 68	Intiasta
+T3	DATE 485 502	Vuosina 1847–1874
+T4	LOC 503 510	Kuubaan
+T5	LOC 999 1004	Perun
+T6	LOC 1005 1020	Chinchasaarille
+T7	LOC 1023 1042	” Helvetin saaret ”
+T8	DATE 1045 1056	vuonna 1861
+T9	ORG 1726 1741	Kiinan hallitus
+T10	DATE 1829 1840	vuonna 1874
+T11	LOC 1869 1883	Yhdysvaltoihin
+T12	LOC 1887 1895	Kanadaan
+T13	LOC 2103 2114	Kalifornian
+T14	PRO 2115 2134	" Anti-Coolie Act "
+T15	DATE 2135 2148	vuodelta 1862
+T16	PRO 2166 2191	" Chinese Exclusion Act "
+T17	DATE 2194 2198	1882
+T18	DATE 2254 2279	Vuosien 1838–1917 välillä
+T19	LOC 2280 2288	Intiasta
+T20	LOC 2331 2353	Brittiläiseen Guianaan
+T21	LOC 2356 2367	Trinidadiin
+T22	LOC 2370 2382	Guadeloupeen
+T23	LOC 2385 2395	Jamaikalle
+T24	LOC 2399 2409	Surinameen
+T25	EVENT 2418 2451	Kuuban vuoden 1959 vallankumousta
+T26	LOC 2452 2462	Havannassa
+T27	LOC 2467 2488	Latinalaisen Amerikan
+T28	LOC 2541 2554	Etelä-Afrikan
+T29	DATE 2567 2584	vuosina 1902–1910
+T30	LOC 2686 2696	Singaporen
+T31	LOC 2734 2748	Etelä-Kiinasta
+T32	LOC 2791 2801	Singaporen
+T33	PER 2939 2961	William A. Pickeringin
+T34	LOC 3054 3074	Singaporen tasavalta
+T100001	LOC 1726 1732	Kiinan
+T100002	LOC 2418 2424	Kuuban
+T100003	DATE 2425 2436	vuoden 1959

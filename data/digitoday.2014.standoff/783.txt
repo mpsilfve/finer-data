@@ -1,0 +1,11 @@
+LG:n älylamppu välkkyy musiikin tahtiin , kertoo puhelusta
+Eteläkorealainen teknologiajätti LG on tuonut markkinoille kaksi älylamppua .
+Älynsä lamput saavat Android- tai iOS-laitteista bluetoothin kautta .
+LG kutsuu uusia , suhteellisen heikkotehoisia lamppuja – yllätys , yllätys – nimellä Smart Lamp .
+Älylamppuja ohjataan Android- tai iOS-laitteiden vähävirtaisen bluetooth le -yhteyden kautta .
+Turvamoodissa ne voi ohjelmoida syttymään ja sammumaan tiettyinä aikoina ja ne muistavat ohjeet , vaikka älypuhelin ei olisikaan paikalla .
+Niitä voi himmentää , ja leikkimoodissa ne välkkyvät soitettavan musiikin tahtiin .
+Ne saa myös välähtämään puhelun tullessa .
+Älylamppujen ohjaaminen edellyttää vähintään Androidin 4.3-versiota tai iOS:n versiota 6 .
+Toistaiseksi vain Android-sovellus on saatavilla .
+Lamput , joiden luvataan kestävän keskimäärin kymmenen vuotta ja jotka ovat toistaiseksi myynnissä vain Koreassa , maksavat Android Centralin mukaan noin 25 euroa .

@@ -1,0 +1,15 @@
+Ei bugi , vaan ominaisuus : Google-kalenteri laverteli palkankorotustoiveistapomolle
+Kalenterisovelluksen ominaisuus voi johtaa hankaliin tilanteisiin , vaikkei varsinainen haavoittuvuus olisikaan .
+Google Calendar -palvelu voi olla liiankin nokkela käyttäjilleen .
+Yksi sen toiminto on jo aiheuttanut noloja tilanteita , kertoo ongelman esille tuonut kehittäjä Terence Eden .
+Kun hänen vaimonsa pisti kalenteriin muistutuksen kysellä pomolta palkankorotusta , kalenteri meni välittömästi lavertelemaan asiasta pomolle .
+– Jos Google Calendaria käyttää verkossa ja otsikkoriville laittaa Gmail-osoitteen , tämä käyttäjä saa saman merkinnän omaan kalenteriinsa , Eden antaa esimerkin .
+Käytössä täytyy ilmeisesti olla kalenterin laajennettu merkintänäkymä , jotta ongelma voi ilmetä .
+Asia liittyy Googlen pyrkimyksiin tulkita älykkäästi merkintöjen nimiä .
+Otsikossa olevan sähköpostiosoitteen haltija ei sentään saa sähköpostia merkinnästä , mutta sovellus kyllä muistuttaa heitä " tapaamisesta " .
+Ongelma ei ilmene , kun kalenteria käyttää Android-laitteella .
+Kyseessä ei ole varsinainen haavoittuvuus , sillä Google mainitsee ominaisuudesta apusivuillaan .
+Mutta käyttäjät eivät silti ole välttämättä lainkaan selvillä toiminnon seurauksista .
+Google on joka tapauksessa luvannut puuttua asiaan , The Verge kertoo .
+Kalenterin käytös tuo hieman mieleen automaattikutsut , joita Google+-yhteisöpalvelu on voinut lähettää ihmisille ilman käyttäjän tietämystä .
+Toiminto on saattanut aiheuttaa jopa putkareissun yhdelle käyttäjälle .

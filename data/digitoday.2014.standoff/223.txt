@@ -1,0 +1,13 @@
+Intel : Pikkutikku tekee televisiosta tietokoneen
+Intel on pakannut tietokoneen usb-muistin kokoiseksi tikuksi , jonka voi liittää televisioon tai näyttöön .
+Intel on esitellyt useita uutuuksia CES-kulutuselektroniikkatapahtumassa Las Vegasissa .
+Useat niistä tulevat markkinoille vain osana muiden valmistajien laitteita , mutta usb-muistin kokoinen Compute Stick on suunnattu suoraan kuluttajille .
+Intelin mukaan pieni laite muuttaa minkä tahansa hdmi-liitännällä varustetun näytön tai television tietokoneeksi .
+Laitteessa on neliytiminen Bay Trail -prosessori , kahden gigatavun ram-muisti sekä 32 gigatavua sisäistä keskusmuistia .
+Tikussa on myös muistikorttipaikka , usb-liitintä sekä mikro-usb-liitäntä , jonka kautta se saa virtansa .
+Laitteessa on myös langattomat 802.11b/g/n wlan- sekä bluetooth 4.0 -yhteydet .
+Intelin mukaan Compute Stick -laitetta voi käyttää sekä kevyeen hyötykäyttöön että esimerkiksi Netflixin sekä muiden suoratoistopalvelujen seuraamiseen ja pelaamiseen .
+Compute Stick -laitteesta on maaliskuussa tulossa markkinoille kaksi mallia .
+Windows 8.1 -käyttöjärjestelmällä varustettuna tikun ohjehinta on Intelin mukaan 149 dollaria eli reilut 120 euroa , kun taas Linux Ubuntulla ja 8 gigatavun muistilla varustetun mallin ohjehinta on 89 dollaria eli noin 73 euroa .
+Intelin suunnitelmana on kehittää laitetta edelleen .
+Myöhemmässä mallissa laitteen on tarkoitus saada virtansa suoraan hdmi-liitännästä , ja myös prosessori saatetaan päivittää uudempaan Cherry Trail -malliin , kertoo esimerkiksi Extreme Tech -verkkosivusto .

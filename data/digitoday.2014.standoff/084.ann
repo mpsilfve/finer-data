@@ -1,0 +1,11 @@
+T1	ORG 0 7	Twitter
+T2	ORG 77 86	Twitterin
+T3	ORG 261 270	Twitterin
+T4	ORG 333 340	Twitter
+T5	DATE 428 446	tammi–maaliskuussa
+T6	ORG 606 615	Twitterin
+T7	ORG 754 767	Boston Globen
+T8	ORG 817 824	Twitter
+T9	DATE 921 935	loka–joulukuun
+T10	PRO 1050 1059	Twitterin
+T100001	LOC 754 760	Boston

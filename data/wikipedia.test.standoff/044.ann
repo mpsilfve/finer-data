@@ -1,0 +1,59 @@
+T1	ORG 0 7	Tamarod
+T2	ORG 8 15	Tamarod
+T3	LOC 39 48	Egyptissä
+T4	PER 105 119	Mohamed Mursin
+T5	PER 138 144	Mursin
+T6	ORG 197 204	Tamarod
+T7	PER 237 244	Tamarod
+T8	PER 283 289	Mursia
+T9	ORG 300 307	Tamarod
+T10	PER 317 323	Mursin
+T11	PER 409 429	Abdel Fattah al-Sisi
+T12	DATE 439 457	3. heinäkuuta 2013
+T13	PER 478 484	Mursin
+T14	ORG 487 496	Tamarodin
+T15	EVENT 505 516	Arabikevään
+T16	PER 527 539	Mahmoud Badr
+T17	ORG 542 549	Tamarod
+T18	EVENT 571 595	vuoden 2011 vallankumous
+T19	ORG 757 764	Tamarod
+T20	DATE 810 828	20. kesäkuuta 2013
+T21	PER 870 876	Mursin
+T22	PER 890 895	Mursi
+T23	DATE 941 945	2012
+T24	ORG 966 973	Reuters
+T25	ORG 988 1010	Egyptin sisäministeriö
+T26	ORG 1041 1050	Tamarodia
+T27	DATE 1120 1133	29. kesäkuuta
+T28	ORG 1230 1239	Tamarodia
+T29	ORG 1249 1267	Muslimiveljeskunta
+T30	PER 1288 1296	Mursikin
+T31	ORG 1306 1325	Muslimiveljeskunnan
+T32	PRO 1326 1371	" Tagarrod " ( ” puolueettomuus ” ) -kampanja
+T33	ORG 1400 1407	Tamarod
+T34	DATE 1433 1437	2013
+T35	PER 1481 1487	Mursin
+T36	DATE 1515 1534	3. heinäkuuta 2013.
+T37	ORG 1554 1561	Tamarod
+T38	PER 1574 1580	Mursia
+T39	PER 1608 1613	Mursi
+T40	LOC 1632 1643	Yhdysvallat
+T41	ORG 1680 1687	Tamarod
+T42	LOC 1706 1718	Yhdysvaltoja
+T43	ORG 1729 1736	Tamarod
+T44	ORG 1746 1764	Syyrian hallitusta
+T45	DATE 1788 1799	Vuonna 2014
+T46	ORG 1800 1811	Tamarodista
+T47	PER 1849 1857	Al-Sisiä
+T48	ORG 1869 1882	" Tamarod 2 "
+T49	ORG 1887 1898	" Taharor "
+T50	PER 1911 1931	Mohamad el Baradeita
+T51	ORG 1948 1957	Taharorin
+T52	ORG 1965 1972	Tamarod
+T53	ORG 2021 2030	Tamarodin
+T54	ORG 2063 2072	Tamarodin
+T55	ORG 2117 2126	Tamarodia
+T56	PER 2200 2208	al-Sisin
+T100001	DATE 571 582	vuoden 2011
+T100002	LOC 988 995	Egyptin
+T100003	LOC 1746 1753	Syyrian

@@ -1,0 +1,21 @@
+Windows 10 säikäytti piraatit : Ei asiaa lataussivustoille
+Piratismista kirjoittava TorrentFreak kertoo piraattien Windows 10 -huolien nousseen melkoisiin mittasuhteisiin .
+Windows 10:n yksityisyysongelmista on kirjoitettu useamman viikon ajan kiivaasti .
+Viime viikolla levisi paljon pahaa verta herättänyt tarina , jonka mukaan Microsoftin palvelusopimus antaa yritykselle oikeuden tuhota tai estää käynnistämästä pelien ja muiden ohjelmien piraattijulkaisuja .
+Aiheesta kirjoittivat useat uutissivustot , muiden muassa Digitoday .
+Iso osa reaktioista oli pitkälti ylilyötyjä .
+Moni tulkitsi palvelusopimuksen tarkoittavan piraatin kannalta pahinta mahdollista Eli sitä , että Windows paitsi tarkistaa sovellusten aitouden ja estää kopioitujen sovellusten käytön , myös ilmoittaa näiden lataamisesta tekijänoikeuksien haltijoille .
+Erittäin suurella todennäköisyydellä näin ei tapahdu , mutta se ei ole estänyt piraatteja reagoimasta .
+TorrentFreakin tietojen mukaan useampi piraattipalvelu on nyt harkitsemassa Windows 10 -käyttäjien estoa palveluistaan .
+Jotkut ovat ovat ilmeisesti jo aloittaneet puhdistuksen .
+— Olemme saaneet selville , että Windows 10 kerää tietoa ihmisten vertaisverkkokäytöstä jakaakseen sen tekijänoikeusjärjestöjen kanssa , eräs sivustoista väitti kävijöilleen TorrentFreakin mukaan .
+TorrentFreak muistuttaa , että mitään todistusaineistoa piratismiin liittyvän datan keräämisestä ja jakamisesta ei ole , vaan kaikki perustuu toistaiseksi spekulaatioon .
+Sivusto myös erikseen alleviivaa , että jos näihin toimiin ryhdytään , ne eivät todennäköisesti koske kolmannen osapuolen valmistamia sovelluksia , vaan Microsoftin omia julkaisuja .
+Toiset sivustot suhtautuvat asiaan hieman maltillisemmin kannanotoissaan , mutta ovat silti varovaisia .
+— Kuten tiedämme , Microsoft julkaisi hiljattain Windows 10:n .
+Käyttäjänämme sinun tulisi tietää , että harkitsemme käyttöjärjestelmän kieltämistä palvelussamme .
+Se tarkoittaisi , ettet voi käyttää sivustoamme , jos olet asentanut Windows 10:n , toinen sivusto tiedotti TorrentFreakin mukaan .
+TorrentFreakin käsittelemät palvelut ovat yksityisiä , vain itse piraattiyhteisön käyttäjille tarkoitettuja palveluja , joilta uusin tekijänoikeuksista välittämättä jaettu materiaali päätyy eteenpäin isompiin palveluihin suurelle yleisölle jaettavaksi .
+Oli piraatilla syytä huoleen tai ei , ainakin se on totta , että Windows 10 kerää paljon tietoa käyttäjästään ja pyrkii jakamaan sitä Microsoftin kanssa monin eri tavoin .
+Yksityisyyteen liittyvät huolet ovat silti täysin valideja Windows 10:n kanssa , vaikka järjestelmä ei pyrkisikään narauttamaan käyttäjäänsä laittomasta toiminnasta .
+TorrentFreak ohjaa yksityisyydestään kiinnostuneet Windows 10 -käyttäjät tutustumaan fix windows 10 -sivuston ohjeisiin , joilla käyttöjärjestelmää saa viriteltyä yksityisyyttä suojelevampaan suuntaan .

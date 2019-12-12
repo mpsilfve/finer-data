@@ -1,0 +1,21 @@
+T1	ORG 10 15	Apple
+T2	ORG 97 102	Apple
+T3	PRO 192 214	Blockchain-sovelluksen
+T4	PRO 215 244	App Store -sovelluskaupastaan
+T5	ORG 284 298	Blockchain.org
+T6	PER 345 357	Nicolas Cary
+T7	ORG 378 391	Bloombergille
+T8	ORG 409 417	Applelta
+T9	LOC 584 589	Kiina
+T10	LOC 593 598	Intia
+T11	ORG 656 661	Apple
+T12	ORG 801 806	Apple
+T13	PER 852 856	Cary
+T14	ORG 870 876	Applen
+T15	ORG 920 933	Bloombergille
+T16	PRO 936 958	Blockchain-sovelluksen
+T17	ORG 1049 1054	Apple
+T18	PRO 1136 1153	Coinbase-sovellus
+T19	DATE 1175 1187	marraskuussa
+T20	PRO 1201 1206	Gliph
+T21	ORG 1332 1338	Applen

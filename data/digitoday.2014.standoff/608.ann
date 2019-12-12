@@ -1,0 +1,16 @@
+T1	ORG 72 82	Marriottin
+T2	ORG 101 108	FCC:lle
+T3	ORG 238 260	Marriott International
+T4	ORG 356 366	Marriottin
+T5	ORG 501 511	Marriottin
+T6	ORG 819 829	Marriottin
+T7	ORG 848 866	FCC-viranomaiselle
+T8	LOC 867 881	Yhdysvalloissa
+T9	ORG 1154 1164	Marriottin
+T10	ORG 1274 1280	Google
+T11	ORG 1284 1293	Microsoft
+T12	DATE 1304 1314	lokakuussa
+T13	ORG 1315 1325	Marriottin
+T14	ORG 1326 1368	Gaylord Opryland Hotel & Convention Center
+T100001	PER 238 246	Marriott
+T100002	PER 1326 1333	Gaylord

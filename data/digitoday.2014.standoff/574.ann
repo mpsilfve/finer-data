@@ -1,0 +1,21 @@
+T1	ORG 0 2	HS
+T2	ORG 54 59	Elisa
+T3	ORG 60 66	Elisan
+T4	LOC 78 84	Suomen
+T5	ORG 121 123	HS
+T6	ORG 126 128	HS
+T7	LOC 156 162	Suomen
+T8	ORG 218 224	Elisan
+T9	ORG 234 243	Digitoday
+T10	DATE 251 262	toukokuussa
+T11	LOC 322 330	Suomessa
+T12	DATE 359 369	Syyskuuhun
+T13	ORG 436 441	Elisa
+T14	ORG 445 462	Viestintäviraston
+T15	LOC 519 525	Suomen
+T16	ORG 593 599	Elisan
+T17	DATE 668 679	vuonna 2011
+T18	ORG 682 688	Elisan
+T19	PER 709 725	Jaakko Wallenius
+T20	ORG 788 811	Kyberturvallisuuskeskus
+T21	PER 858 870	Walleniuksen

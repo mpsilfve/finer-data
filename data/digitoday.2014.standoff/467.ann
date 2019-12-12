@@ -1,0 +1,17 @@
+T1	LOC 52 62	New Yorkin
+T2	ORG 306 330	Krebs on Security -blogi
+T3	LOC 349 360	Manhattanin
+T4	LOC 564 576	New Yorkissa
+T5	LOC 598 611	Kaliforniassa
+T6	LOC 615 624	Nevadassa
+T7	ORG 1105 1139	Raceway ja Racetrac -huoltoasemien
+T8	LOC 1186 1194	Georgian
+T9	LOC 1197 1212	Etelä-Carolinan
+T10	LOC 1216 1223	Texasin
+T11	PER 1443 1454	Brian Krebs
+T12	PRO 1722 1733	Google News
+T13	PRO 1737 1744	Twitter
+T14	LOC 1813 1825	Tennesseessä
+T15	LOC 1826 1840	Pilot-asemalla
+T100001	PER 306 311	Krebs
+T100002	ORG 1722 1728	Google

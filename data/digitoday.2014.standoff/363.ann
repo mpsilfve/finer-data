@@ -1,0 +1,20 @@
+T1	ORG 0 5	Nokia
+T2	ORG 68 73	Nokia
+T3	LOC 218 230	Yhdysvaltain
+T4	ORG 274 280	Sprint
+T5	PRO 347 363	Spark-hankkeensa
+T6	ORG 557 571	Nokia Networks
+T7	ORG 622 629	Samsung
+T8	ORG 679 693	Alcatel-Lucent
+T9	ORG 802 808	Nokian
+T10	ORG 812 828	Alcatel-Lucentin
+T11	DATE 868 879	vuonna 2021
+T12	ORG 883 892	Samsungin
+T13	DATE 893 904	vuonna 2022
+T14	ORG 907 921	RCR Wirelessin
+T15	ORG 1011 1019	Sprintin
+T16	ORG 1270 1276	Sprint
+T17	ORG 1320 1328	Softbank
+T18	PRO 1338 1354	Spark-hankkeessa
+T19	PRO 1400 1407	Sparkin
+T20	PER 1489 1503	Marcelo Claure

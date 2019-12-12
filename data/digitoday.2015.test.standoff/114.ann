@@ -1,0 +1,27 @@
+T1	ORG 72 76	Nasa
+T2	LOC 93 98	Maata
+T3	ORG 139 167	Yhdysvaltain avaruushallinto
+T4	ORG 168 172	Nasa
+T5	DATE 236 246	syyskuussa
+T6	DATE 286 303	15.-18. syyskuuta
+T7	LOC 304 316	Puerto Ricon
+T8	LOC 345 357	Yhdysvaltain
+T9	LOC 371 379	Meksikoa
+T10	ORG 402 407	Nasan
+T11	LOC 589 595	Maahan
+T12	ORG 617 622	Nasan
+T13	ORG 639 667	Near-Earth Object -toimiston
+T14	PER 676 687	Paul Chodas
+T15	LOC 927 933	Maahan
+T16	DATE 1047 1057	syyskuussa
+T17	ORG 1135 1139	Nasa
+T18	ORG 1178 1201	Yhdysvaltain hallitusta
+T19	ORG 1262 1266	Nasa
+T20	DATE 1376 1387	vuonna 2012
+T21	ORG 1509 1513	Nasa
+T22	DATE 1605 1624	21. joulukuuta 2012
+T23	DATE 1763 1779	Helmikuussa 2013
+T24	LOC 1901 1908	Venäjän
+T25	LOC 1909 1924	Tšeljabinskissä
+T100001	LOC 139 151	Yhdysvaltain
+T100002	LOC 1178 1190	Yhdysvaltain

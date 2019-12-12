@@ -1,0 +1,22 @@
+T1	ORG 34 50	Viestintävirasto
+T2	PRO 145 154	Linuxissa
+T3	PRO 176 194	GNU C -kirjastosta
+T4	ORG 445 462	Viestintäviraston
+T5	ORG 463 486	Kyberturvallisuuskeskus
+T6	PRO 691 707	GNU C -kirjaston
+T7	ORG 880 886	Qualys
+T8	PRO 946 971	Exim-sähköpostipalvelinta
+T9	ORG 1093 1116	Kyberturvallisuuskeskus
+T10	PRO 1133 1140	Fedora-
+T11	PRO 1144 1161	Ubuntu-jakeluihin
+T12	ORG 1196 1204	NixCraft
+T13	PRO 1393 1406	Linux-jakelut
+T14	PRO 1421 1479	RHEL ( Red Hat Enterprise Linux ) versiot 5.x , 6.x ja 7.x
+T15	PRO 1482 1518	CentOS Linux versiot 5.x , 6.x & 7.x
+T16	PRO 1521 1559	Ubuntu Linux versiot 10.04 , 12.04 LTS
+T17	PRO 1562 1585	Debian Linux versio 7.x
+T18	PRO 1588 1610	Linux Mint versio 13.0
+T19	PRO 1613 1635	Fedora Linux versio 19
+T20	PRO 1651 1675	SUSE Linux Enterprise 11
+T21	PRO 1696 1713	OpenSuse Linux 11
+T22	PRO 1742 1775	Arch Linux glibc versio <= 2.18-1

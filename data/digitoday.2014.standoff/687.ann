@@ -1,0 +1,25 @@
+T1	ORG 106 114	PayPalin
+T2	ORG 217 225	PayPalin
+T3	PER 256 274	Rakesh Agrawalille
+T4	LOC 513 526	New Orleansin
+T5	PER 556 563	Agrawal
+T6	ORG 572 580	PayPalin
+T7	PER 599 618	Christina Smedleytä
+T8	PER 713 736	Don-nimistä työntekijää
+T9	PER 770 777	Agrawal
+T10	PER 879 893	Rakesh Agrawal
+T11	ORG 907 917	PayPalista
+T12	PER 1232 1239	Agrawal
+T13	ORG 1267 1275	PayPalin
+T14	PER 1287 1303	David Marcusilta
+T15	PER 1315 1322	Agrawal
+T16	LOC 1474 1489	New Orleansissa
+T17	ORG 1647 1658	Yelp-yhtiön
+T18	ORG 1708 1714	Yelpin
+T19	ORG 1732 1741	PayPaliin
+T20	ORG 1756 1762	Yelpin
+T21	ORG 1784 1792	PayPalin
+T22	ORG 1832 1846	PayPal-mafiaan
+T23	PER 2004 2020	Rakesh Agrawalin
+T24	ORG 2166 2182	Business Insider
+T25	PER 2236 2243	Agrawal

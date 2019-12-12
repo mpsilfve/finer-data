@@ -1,0 +1,13 @@
+Standardoija riemuitsee yhteislaturista — mutta mitä tekee Apple ?
+Euroopan parlamentin päätös yhteisestä matkapuhelinten laturista on tervetullut .
+Matkapuhelinten tarvikehässäkkä voi kuitenkin samaan aikaan pahentua toisella saralla .
+Standardointielin International Electrotechnical Commission ( IEC ) iloitsee työskentelynsä kantamista hedelmistä .
+Euroopan parlamentti hyväksyi viime viikolla melkein yksimielisesti elimen ajaman standardin universaalista laturista ja esitti sitä säädettäväksi lakiin vuoteen 2017 mennessä .
+Sekä IEC:ssä että parlamentissa on haettu yhteisestä laturista ratkaisua " kaapelikaaokseen " .
+Puhelimista halutaan yhteensopivia yhteisen laturin kanssa kuluttajien kulujen ja ympäristön kuormituksen vähentämiseksi .
+Käytännössä puhelimilta edellytetään micro-usb-liitintä .
+– Kun teollisuudenala keksii hyvän ratkaisun ympäristö- ja kuluttajaongelmaan , kuten tämän standardin tapauksessa , on miellyttävää nähdä sen tulevan käyttöön laajasti , kommentoi IEC:n johtaja Frans Vreeswijk tiedotteessa .
+Parlamentin äänestys tuotti kuitenkin vasta lakivedoksen , joka pitää vielä hyväksyttää ministerineuvostolla .
+Lisäksi soppaa sekoittaa Apple , joka kyllä osallistui standardin kehittämiseen yhdessä muun muassa Nokian , Samsungin , Blackberryn ja Huawein kanssa .
+Apple on aikaisemmin sanonut , ettei se tekisi muutoksia puhelimiinsa , vaan tarjoaisi sovittimen , jonka avulla yleislaturin saa kiinni sen puhelimiin .
+Eli laturihässäkkä voi jossain määrin korvautua adapterihässäkällä .

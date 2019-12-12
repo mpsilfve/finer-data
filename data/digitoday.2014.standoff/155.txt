@@ -1,0 +1,12 @@
+Erikoista Suomessa : Ohjelma-aukosta maksetaan
+Kansalaisaloite.fi:n tietoturvaongelmista voi saada rahallisen palkkion .
+Samalla hakkerit pääsevät todistamaan kyvykkyyttään mahdollista työpaikkaa silmällä pitäen .
+Yli vuoden ikäinen ja oikeusministeriön ylläpitämä aloitepalvelu Kansalaisaloite.fi muuttui avoimeksi lähdekoodiksi .
+Suomen oloissa poikkeuksellisella päätöksellä halutaan ministeriön mukaan edistää avoimuutta sekä ohjelmistotuotannossa että julkishallinnossa .
+Lähdekoodi julkaistiin Apache-lisenssillä 2.0 , joka antaa varsin vapaat kädet koodin käyttämiseen .
+Palvelun teknisen toteuttajan Solitan mukaan kyseiseen lisenssiin päädyttiin myös , koska se on hyvin yleisesti käytetty ja tunnettu .
+Erikoista on , että raportit mahdollisista ongelmista koodissa saatetaan palkita rahalla .
+Monet suuret ohjelmistotalot Googlesta Microsoftiin maksavat haavoittuvuuksista , mutta sellaisesta kuulee harvemmin suomalaisten ohjelmistojen yhteydessä .
+– Solitassa kehittäjien keskuudessa asiasta keskusteltiin ja todettiin , että olisi kova juttu palkita niitä , jotka innostuvat osallistumaan tähän avoimeen kehitystyöhön .
+Etukäteen ei palkitsemista ole tarkoin valmiiksi mietitty , vaan mahdolliset tapaukset katsotaan läpi tapauskohtaisesti .
+Ja totta kai meitä talona kiinnostavat myös osaavat tekijät , joten jos koodista löytyy huomauttamista , niin taatusti tahtoessaan pääsee työhaastatteluun , sähköisen liiketoiminnan johtaja Timo Honko Solitasta vinkkaa .

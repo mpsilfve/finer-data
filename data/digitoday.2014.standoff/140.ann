@@ -1,0 +1,19 @@
+T1	ORG 0 5	Apple
+T2	ORG 33 38	Apple
+T3	PRO 78 85	iPhonen
+T4	ORG 142 153	Mashablelle
+T5	ORG 249 260	Microsoftin
+T6	PRO 270 279	Windowsin
+T7	ORG 351 362	Microsoftin
+T8	ORG 382 387	Apple
+T9	PRO 397 405	iPhoneen
+T10	PRO 430 448	iOS 7 -ohjelmiston
+T11	DATE 505 515	syyskuulta
+T12	ORG 555 560	Apple
+T13	ORG 724 730	Applen
+T14	ORG 747 758	Mashablelle
+T15	PRO 791 812	iOS 7.1 -päivitykseen
+T16	DATE 852 864	maaliskuussa
+T17	ORG 1022 1031	Digitoday
+T18	DATE 1039 1049	lokakuussa
+T19	PRO 1143 1160	iWork-sovelluksen

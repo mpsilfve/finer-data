@@ -1,0 +1,29 @@
+T1	ORG 79 99	Boomlagoon-peliyhtiö
+T2	ORG 179 185	Rovion
+T3	ORG 312 332	Boomlagoon-peliyhtiö
+T4	PER 423 439	Tuomas Erikoisen
+T5	PER 710 719	Erikoinen
+T6	PER 729 740	Erikoisella
+T7	ORG 803 809	Rovion
+T8	PER 994 1004	Antti Stén
+T9	PRO 1057 1070	Angry Birdsin
+T10	PER 1243 1252	Erikoinen
+T11	PRO 1290 1304	Nutlings-pelin
+T12	LOC 1395 1401	Aasian
+T13	PRO 1428 1441	Line-palvelun
+T14	ORG 1482 1494	Boomlagoonin
+T15	ORG 1549 1571	360 Capital Partners -
+T16	ORG 1574 1584	Inventure-
+T17	ORG 1588 1618	Northzone-pääomasijoitusyhtiöt
+T18	ORG 1635 1644	Northzone
+T19	PRO 1672 1688	Spotify-palvelua
+T20	ORG 1699 1711	Boomlagoonia
+T21	ORG 1743 1773	London Venture Partners -yhtiö
+T22	PER 1798 1813	Jari Ovaskainen
+T23	ORG 1833 1844	Supercellin
+T24	ORG 1874 1884	Boomlagoon
+T25	PER 1942 1948	Sténin
+T26	PER 2098 2102	Stén
+T27	ORG 2111 2121	Boomlagoon
+T28	PER 2175 2181	Sténin
+T100001	LOC 1743 1749	London

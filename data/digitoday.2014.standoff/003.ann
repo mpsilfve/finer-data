@@ -1,0 +1,17 @@
+T1	ORG 0 5	Nokia
+T2	ORG 9 20	Continental
+T3	ORG 44 50	Nokian
+T4	PRO 64 68	Here
+T5	ORG 120 133	Continentalin
+T6	PRO 141 164	Connected Car -hankkeen
+T7	ORG 181 186	Nokia
+T8	ORG 190 201	Continental
+T9	PRO 248 277	Electronic Horizon -alustalle
+T10	ORG 371 377	Nokian
+T11	ORG 426 432	Nokian
+T12	PRO 433 455	Conversations-sivuilta
+T13	ORG 700 711	Continental
+T14	PRO 730 735	Heren
+T15	ORG 874 887	Continentalin
+T16	DATE 986 998	vuoteen 2020
+T17	ORG 1010 1021	Continental

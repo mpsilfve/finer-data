@@ -1,0 +1,19 @@
+Microsoftin uuteen selaimeen tulossa ennennäkemättömiä ominaisuuksia
+Microsoftin kehittämässä Spartan-selaimessa saattaa olla toimintoja , joita ei ole ennen nähty .
+Selain julkistettaneen tammikuun lopulla , arvioi The Verge -verkkolehti .
+Microsoftin huhutaan kehittävän uutta selainta työnimellä Spartan .
+The Verge -verkkolehden mukaan kehitteillä olevaan selaimeen on tulossa täysin uudenlaisia ominaisuuksia , joita muissa selaimissa ei vielä ole .
+Kosketusnäytöllä varustetuissa laitteissa voi selaimessa näkyvälle verkkosivulle tehdä muistiinpanoja ja merkintöjä ohjauskynällä .
+Verkkosivun kopion ja merkinnöt voi lähettää selaimesta esimerkiksi ystäville tai työkaverille Microsoftin OneDrive-pilvipalvelun kautta .
+Ominaisuuden on tarkoitus toimia OneDriven kautta myös muilla selaimilla .
+Verkkosivun muistiinpanoja voi jakaa ja muokata myös ryhmien kesken .
+Microsoftin digitaalinen apuri Cortana aiotaan myös liittää tiukemmin uuteen selaimeen , ja sen on tarkoitus korvata Micrsoftin Bing-hakukone .
+The Vergen mukaan Micrsoftin tarkoitus on tuoda Cortanan kautta nopeasti näkyviin tarkempia tietoja esimerkiksi lennoista ja hotellivarauksista .
+Esimerkiksi jos selaimen osoitekentässä hakee lentoyhtiön nimeä , se näyttää automaattisesti tietoja yhtiön lennoista .
+Uutuuksia on luvassa myös välilehtien hallintaan .
+Verkkolehden mukaan Spartanissa käyttäjä voi helposti ryhmitellä välilehtiä ja erottaa esimerkiksi työhön ja vapaa-aikaan liittyvät välilehdet selkeästi toisistaan .
+Selaimen on erittäin kevyt , ja sen on tarkoitus näyttää yksinkertaiselta ja samankaltaiselta sekä tietokoneissa , tableteissa että puhelimissa .
+The Vergen mukaan selain näyttää yksinkertaistetulta Googlen Chrome-selaimelta , jossa on välilehdet ovat osoitekentän päällä , minkä lisäksi näkyvissä ovat eteen- , taakse- ja päivitys-näppäimet .
+Spartan-selain julkistettaneen 21. tammikuuta samalla , kun Microsoftin esittelee Windows 10 -käyttöjärjestelmää .
+The Vergellä ei kuitenkaan ole tietoa , onko selaimen lopullinen nimi Internet Explorer vai joku täysin Microsoftin selaimille uusi nimi .
+Microsoft ei kommentoinut The Vergen keräämiä tietoja .

@@ -1,0 +1,14 @@
+Onnistuisiko nyt paremmin ?
+Poliisi käynnistää 23 miljoonan euronit-hankinnan
+Vitja-hanke ajautui pahoihin vaikeuksiin .
+Nyt aloitetaan Kejon rakentaminen .
+Poliisihallitus kertoi uudesta 23 miljoonan euron tietojärjestelmähankinnasta .
+Tiedotteen mukaan Kejo-kenttäjärjestelmä tulee turvallisuusviranomaisten yhteiseen käyttöön ja sitä käytetään ensisijaisesti langattomien tiedonsiirtoyhteyksien kautta .
+Kejon on tarkoitus mahdollistaa kenttätoimintojen johtaminen , tilannekuvan ylläpito ja tietojen syöttäminen eri tietojärjestelmiin .
+Viranomaiset voivat myös viestiä ja vaihtaa tietoja reaaliajassa .
+Käyttäjiksi mainitaan poliisi , pelastustoimi , sosiaali- ja terveystoimi , rajavartiolaitos , puolustusvoimat ja tulli sekä muut mahdolliset myöhemmin mukaan tulevat viranomaiset .
+– Järjestelmällä vaikutetaan tulevaisuudessa kansalaisten saamiin viranomaispalveluihin , sillä järjestelmän käyttöönoton myötä viranomaiset kykenevät entistä paremmin keskittymään ydintehtäviinsä , hankejohtaja Markus Asikainen Poliisihallituksesta sanoo tiedotteessa .
+Järjestelmästä sopivat Poliisihallitus , Patria , Portalify ja Codea .
+Kejon on määrä olla valmis vuonna 2017 .
+Osapuolille voi toivottaa onnea ja menestystä etenkin , kun toinen järjestelmähanke Vitja ajautui viime vuonna karille .
+Poliisi peruutti Vitjan toimitussopimuksen Tiedon kanssa , kun hankkeesta oli tehty vasta kolmasosa .

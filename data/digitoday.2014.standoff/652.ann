@@ -1,0 +1,18 @@
+T1	LOC 64 75	Suomessakin
+T2	ORG 201 218	Viestintäviraston
+T3	ORG 219 242	Kyberturvallisuuskeskus
+T4	DATE 461 470	Tammikuun
+T5	PRO 641 655	Flash-ohjelman
+T6	LOC 936 947	Suomessakin
+T7	ORG 964 987	Kyberturvallisuuskeskus
+T8	PRO 1077 1095	Facebook-palveluun
+T9	LOC 1487 1495	Suomessa
+T10	PER 1534 1550	Mauri Pekkarisen
+T11	ORG 1591 1603	Ilta-Sanomat
+T12	ORG 1690 1708	Helsingin Sanomien
+T13	PER 1761 1775	Carl Haglundin
+T14	PER 1799 1814	Erkki Tuomiojan
+T15	PER 1871 1881	Pekkarinen
+T16	PER 2176 2192	Mohammad Faghani
+T17	ORG 2217 2225	Facebook
+T100001	LOC 1690 1699	Helsingin

@@ -1,0 +1,15 @@
+Nyt varovaisena : Tämä kiristäjä vaatii jättilunnaat
+Kahdeksan bitcoinia on epätavallisen suuri vaatimus uhrille , joka on juuri menettänyt tietonsa kiristysohjelmalle .
+Viestintävirasto kertoo saaneensa useita ilmoituksia haittaohjelmasta , jota on levitetty sähköpostiviestien avulla .
+Niissä on liitetiedosto , josta Windows-tietokoneeseen tarttuu Dalexis-niminen haittaohjelma .
+Se puolestaan tuo koneelle vanhastaan tutun CTB Locker -kiristäjän , joka salaa uhrin tiedostot aina usb-muisteja ja ulkoisia kiintolevyjä myöten .
+Asiaa tutkineen Malcovery Securityn mukaan tämä CTB Lockerin versio on kuitenkin erikoinen : Se vaatii tiedostojen avaamiseksi kahdeksan bitcoinia , mikä tämän hetkisen kurssin mukaan vastaa jopa 1500 euroa .
+Tämä on selvästi tavallista enemmän .
+Mutta ei ole selvää , saako tietojaan takaisin edes rahoja maksamalla .
+CTB Locker näyttää kuuluvan samaan kiristysohjelmien perheeseen kuin Cryptowall .
+Siitä ilmestyi äskettäin versio , joka osaa piiloutua kahden salatun verkon taakse vältelläkseen viranomaisia .
+Vanha kultainen neuvo pätee tässäkin tapauksessa .
+Älä avaa liitetiedostoja , ellet ole varma niiden sisällöstä .
+Viestintäviraston esimerkkiviestissä liitetiedoston nimi on cuteys.zip , mutta muita tavattuja nimiä ovat esimerkiksi banjoes.zip , disgruntled.zip , facto.zip ja tutty.zip .
+Lisäksi on havaittu useita .scr- ja exe-päätteisiä nimiä .
+Viestin aiheena on usein jokin faksin saapumiseen liittyvä ilmoitus .

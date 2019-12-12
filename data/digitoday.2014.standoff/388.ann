@@ -1,0 +1,27 @@
+T1	ORG 0 3	NSA
+T2	ORG 14 18	EU:n
+T3	ORG 58 100	Yhdysvaltain kansallinen tiedustelupalvelu
+T4	ORG 302 307	NSA:n
+T5	PER 342 358	Edward Snowdenin
+T6	PRO 506 543	Penetrating Hard Tar gets -dokumentin
+T7	ORG 632 648	College Parkissa
+T8	LOC 651 663	Marylandissa
+T9	ORG 814 819	NSA:n
+T10	PER 833 842	Snowdenin
+T11	ORG 880 883	NSA
+T12	ORG 961 978	Washington Postin
+T13	ORG 997 1000	NSA
+T14	ORG 1051 1067	Euroopan unionin
+T15	LOC 1071 1079	Sveitsin
+T16	ORG 1133 1138	MIT:n
+T17	PER 1168 1180	Seth Lloydin
+T18	ORG 1188 1193	NSA:n
+T19	ORG 1221 1223	EU
+T20	LOC 1227 1234	Sveitsi
+T21	LOC 1317 1328	Yhdysvallat
+T22	PER 1369 1374	Lloyd
+T23	ORG 1381 1398	Washington Postin
+T100001	LOC 58 70	Yhdysvaltain
+T100002	LOC 961 971	Washington
+T100003	LOC 1051 1059	Euroopan
+T100004	LOC 1381 1391	Washington

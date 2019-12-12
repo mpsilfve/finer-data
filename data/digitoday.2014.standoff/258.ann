@@ -1,0 +1,26 @@
+T1	ORG 0 3	NSN
+T2	ORG 27 40	Vimpelcomille
+T3	ORG 41 69	Nokia Solutions and Networks
+T4	LOC 80 87	Venäjän
+T5	ORG 121 132	Vimpelcomin
+T6	ORG 146 149	NSN
+T7	LOC 183 190	Venäjän
+T8	ORG 242 255	Vimpelcomille
+T9	PRO 256 272	Flexi-tukiasemia
+T10	PRO 276 309	NetAct-verkonhallintaohjelmistoja
+T11	LOC 332 347	Etelä-Venäjälle
+T12	LOC 350 359	Siperiaan
+T13	LOC 377 383	Uralin
+T14	LOC 387 393	Volgan
+T15	ORG 424 427	NSN
+T16	ORG 570 575	NSN:n
+T17	PER 599 617	Kristina Tikhonova
+T18	DATE 640 651	Heinäkuussa
+T19	ORG 652 655	NSN
+T20	ORG 691 698	MTS:lle
+T21	LOC 701 710	Venäjällä
+T22	ORG 746 757	Vimpelcomin
+T23	ORG 863 870	MTS:llä
+T24	ORG 920 931	Megafonilla
+T25	ORG 1018 1031	Total Telecom
+T26	ORG 1056 1062	AC&M:n

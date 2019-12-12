@@ -1,0 +1,21 @@
+T1	ORG 169 187	The New York Times
+T2	PER 201 217	Edward Snowdenia
+T3	ORG 229 254	Yhdysvaltain kongressissa
+T4	PER 330 339	Snowdenin
+T5	ORG 402 445	Privacy and Civil Liberties Oversight Board
+T6	ORG 508 513	NSA:n
+T7	ORG 554 572	The New York Times
+T8	DATE 947 957	kesäkuussa
+T9	PER 958 974	Edward Snowdenin
+T10	ORG 1037 1046	Verizonia
+T11	ORG 1115 1120	NSA:n
+T12	LOC 1152 1166	Yhdysvalloissa
+T13	ORG 1179 1184	NSA:n
+T14	ORG 1359 1402	Privacy and Civil Liberties Oversight Board
+T15	ORG 1436 1461	Yhdysvaltain kongressille
+T16	PER 1630 1642	Barack Obama
+T17	PER 1811 1816	Obama
+T100001	LOC 173 181	New York
+T100002	LOC 229 241	Yhdysvaltain
+T100003	LOC 558 566	New York
+T100004	LOC 1436 1448	Yhdysvaltain

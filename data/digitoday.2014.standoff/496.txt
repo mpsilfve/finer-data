@@ -1,0 +1,15 @@
+Täystyrmäys väitteille Sotshin verkkovaaroista : Puppua !
+Ammattilaisen mukaan NBC Newsin raportti Sotshin vaarallisuudesta tietokoneiden ja älypuhelinten käyttäjille on täysin tekaistua roskaa .
+Eipä olisi voinut mennä enempää väärin , tuumaa Errata Securityn pääjohtaja Robert Graham blogissaan .
+Hän ruotii raskain syytöksin NBC Newsin tv-uutista , missä Sotshin talvikisoihin matkustavien väitettiin joutuvan perillä heti murretuiksi tietokoneissaan ja älypuhelimissaan .
+Graham luonnehtii juttua sataprosenttisen tekaistuksi , eikä sillä ole mitään tekemistä Sotshissa vierailemisen kanssa .
+Toimittaja , joka oli itse asiassa Moskovassa , asetti itse itsensä vaaraan samalla tavalla kuin kuka tahansa voisi tehdä missä päin maailmaa vain .
+Eli klikkailemalla vastuuttomasti tietokoneellaan ja puhelimellaan .
+– Murto tapahtui johtuen niistä olympiateemaisista verkkosivuista , joilla he vierailivat , ei heidän fyysisestä sijainnistaan .
+Tulokset olisivat olleet samat Amerikassa .
+Eikä puhelin joutunut murretuksi , vaan toimittaja aloitti itse haitallisen Android-sovelluksen lataamisen puhelimeensa , Graham oikoo .
+Myös Digitoday epäili tuoreeltaan NBC Newsin uutista juuri , koska haitallisen sovelluksen ei pitäisi pystyä soluttautumaan Android-puhelimeen omin päin .
+Erratan Grahamin kirjoitus muistuttaa siitä tosiasiasta , että verkkorikolliset käyttävät kaikki maailmaa kiinnostavat tapahtumat hyväkseen luomalla erilaisia konnankoukkuja houkutellakseen varomattomia netin käyttäjiä luoksensa .
+Sotshiin liittyvät vaaralliset verkkosivut eivät ole tässä suhteessa mitään uutta .
+Grahamin mukaan Venäjällä saattaa kyllä nähdä tavallista enemmän haitallisia verkkosivuja , kun käyttää Googlen hakua .
+Tämä johtuu siitä , että Google huomaa käyttäjän sijainnin ja painottaa paikallista sisältöä tuloksissa .

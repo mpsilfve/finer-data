@@ -1,0 +1,24 @@
+T1	ORG 46 52	Google
+T2	ORG 70 77	Googlen
+T3	ORG 89 93	Nest
+T4	LOC 207 217	Euroopassa
+T5	LOC 221 239	Pohjois-Amerikassa
+T6	ORG 264 278	Berg Insightin
+T7	LOC 326 344	Pohjois-Amerikassa
+T8	DATE 352 365	vuodesta 2013
+T9	LOC 398 408	Euroopassa
+T10	LOC 536 554	Pohjois-Amerikassa
+T11	LOC 558 568	Euroopassa
+T12	ORG 594 606	Berg Insight
+T13	DATE 716 727	vuonna 2019
+T14	LOC 777 787	Euroopassa
+T15	LOC 790 806	Pohjois-Amerikan
+T16	ORG 828 834	Nestin
+T17	ORG 848 857	Honeywell
+T18	ORG 861 867	Ecobee
+T19	LOC 932 940	Euroopan
+T20	ORG 962 966	eQ-3
+T21	ORG 1089 1100	British Gas
+T22	ORG 1119 1124	Eneco
+T100001	PER 264 268	Berg
+T100002	PER 594 598	Berg

@@ -1,0 +1,43 @@
+T1	ORG 0 3	FBI
+T2	LOC 42 56	Pohjois-Korean
+T3	LOC 84 98	Pohjois-Korean
+T4	ORG 110 125	Sony Picturesin
+T5	LOC 201 213	Yhdysvaltain
+T6	ORG 230 246	Sony Picturesiin
+T7	LOC 252 265	Pohjois-Korea
+T8	ORG 268 273	FBI:n
+T9	PER 282 293	James Comey
+T10	EVENT 338 405	New Yorkin International Conference on Cyber Security -tapahtumassa
+T11	PER 408 414	Comeyn
+T12	ORG 467 485	Guardians of Peace
+T13	ORG 532 550	Guardians of Peace
+T14	ORG 582 587	Sonyn
+T15	PER 795 800	Comey
+T16	ORG 810 819	Reutersin
+T17	PER 1009 1014	Comey
+T18	ORG 1040 1043	FBI
+T19	ORG 1124 1150	Pohjois-Korean hallituksen
+T20	PER 1162 1167	Comey
+T21	LOC 1259 1271	Yhdysvaltain
+T22	ORG 1457 1475	The New York Times
+T23	ORG 1505 1515	CloudFaren
+T24	PER 1524 1535	Marc Rogers
+T25	LOC 1588 1599	Yhdysvallat
+T26	LOC 1618 1632	Pohjois-Korean
+T27	ORG 1747 1765	Guardians of Peace
+T28	DATE 1855 1867	marraskuussa
+T29	ORG 1870 1879	F-Securen
+T30	PER 1893 1906	Sean Sullivan
+T31	LOC 1914 1926	Yhdysvaltain
+T32	ORG 2000 2008	Facebook
+T33	ORG 2083 2088	FBI:n
+T34	PER 2129 2137	Sullivan
+T35	ORG 2147 2159	NY Timesille
+T36	ORG 2176 2185	Reutersin
+T37	LOC 2251 2264	Pohjois-Korea
+T38	ORG 2346 2351	Sonyn
+T39	LOC 2423 2437	Pohjois-Koreaa
+T100001	LOC 338 348	New Yorkin
+T100002	LOC 1124 1138	Pohjois-Korean
+T100003	LOC 1461 1469	New York
+T100004	LOC 2147 2149	NY

@@ -1,0 +1,61 @@
+Nokialla oli valmis tabletti 13 vuotta sitten — tältä se näytti
+Nokian M510 web tablettia valmistettiin tuhannen kappaleen erä vuonna 2001 .
+Yhtiön teettämän markkinatutkimuksen mukaan kuluttajat eivät olleet kuitenkaan vielä valmiita .
+– Ei mitään häpeämistä tekniikan suhteen .
+Tämä oli aikansa huippulaite .
+Näin sanoo tietoliikenneasiantuntija Esko Yliruusi , joka oli mukana kehittämässä julkaisematta jäänyttä Nokian tablettia vuonna 2001 .
+Yliruusin äänessä on ylpeyttä .
+Eikä ihme , sillä Nokia M510 web tabletin valmistus käynnistettiin yhdeksän vuotta ennen kuin iPad tuli markkinoille .
+Laitteen olemassaolosta saatiin vihje , kun amerikkalaistoimittaja David J. Cord kertoi The Decline and Fall of Nokia -kirjassaan viime viikolla Nokialla olleen valmiina suunnitelmat tablettivalmistuksen aloittamiseksi vuonna 2001 .
+Tämä oli yhdeksän vuotta ensimmäistä iPadia .
+Cordin mukaan projekti keskeytettiin 45 minuuttia ennen tuotannon aloittamista .
+Väite ei nyt julki tulleen tiedon mukaan pidä täysin paikkaansa .
+Projekti kyllä keskeytettiin , mutta laitetta ehdittiin valmistaa tuhannen kappaleen erä .
+Suurin osa meni murskaimeen
+Esko Yliruusi työskenteli tablettiprojektissa vuodenvaihteesta 2000/2001 hankkeen lopettamiseen asti vuoden 2001 loppukesään .
+Hänen tehtäviinsä kuului tabletin verkkoyhteyksien testaaminen .
+– Vehje lähti valmistukseen kyllä , peruutus tuli vasta sen jälkeen , Yliruusi korjaa kirjan tietoja .
+Yliruusin mukaan projekti peruttiin , koska laite oli edellä aikaansa .
+Sitä varten tehtiin markkinatutkimus , joka osoitti , ettei kysyntää laitteelle ollut .
+– Siinä todettiin , ettei tämän aika ole vielä .
+– Se oli ideana hirveän hyvä , mutta ei vielä kuluttajien hyväksyttävissä .
+Yliruusi itse ei osaa arvioida päätöksen järkevyyttä .
+1000 kappaleen erästä laitteita on jäljellä noin 130 , sillä kehitystiimin jäsenet saivat muistoksi oman tabletin .
+Loput hävitettiin .
+– Sellainen tunne tuli , että tämä kannattaa pistää talteen .
+Tässä on tehty jotain oikein ja näistä laitteista kuullaan vielä , Yliruusi sanoo ajatelleensa aikoinaan .
+Kehitystiimin jäsenet saivat paitsi oman tabletin , myös potkut .
+Osa sai uusia töitä Nokialta , mutta Yliruusi hakeutui monien muiden tavoin muualle .
+Nykyisin hän työskentelee Networker-nimisessä verkkopalveluita tarjoavassa yrityksessä , jonka perustajiin ja omistajiin hän kuuluu .
+Kotikäyttöön suunniteltu laite
+Nokian varhainen tabletti on säilynyt salaisuutena näihin päiviin asti .
+Edes Google ei löydä mainintoja Nokia M510:stä – ainakaan ennen tätä päivää .
+Toisin kuten uudet verkkotekniikat yleensä , Nokian web tablet oli tarkoitettu kuluttajalaitteeksi .
+Siinä oli sähköpostisovellus , nettiselain , kalenteriohjelma sekä " jääkaapinovi " eli muistilappojen kirjoittamiseen tehty ohjelma .
+Seisontatuen avulla laitetta saattoi pitää vaikkapa keittiön pöydällä .
+Laite oli teknisesti ajanmukainen .
+Koska se ei päässyt kauppaan asti , kukaan ei alkanut kehittää sille ohjelmia .
+Yliruusi itse näkee tässä suurimman jossittelun paikan .
+– Jos tämä olisi ehtinyt elää vuoden tai kaksi niin , että joku olisi ehtinyt kääntää siihen käyttöjärjestelmäksi Linuxin , tästä olisi voinut tulla vaikka mitä .
+Tekniikan kehityksen myötä paino olisi seuraavassa versiossa pudonnut puoleen .
+Käyttöjärjestelmä on yksi asia , sovellukset ovat toinen .
+Yliruusi pohdiskelee , olisiko laite voinut saada toimivan ekosysteemin .
+– Tämä oli ennen ekosysteemiajattelua , siihen ei olisi saanut sovelluksia .
+Siirtyikö laitteesta jotain tulevaisuuteen ?
+M510:n aika ei tullut koskaan .
+Nokia julkisti ensimmäisen internet-päätelaitteensa , Nokia 770:n , neljä vuotta myöhemmin .
+Ruudultaan nelituumainen laite ei juuri muistuttanut tablettia , vaan sivuttain pideltävää älypuhelinta .
+Laitteesta ei tullut mainittavaa myyntimenestystä .
+Yliruusi näkee silti , että M510:stä siirtyi jotain Nokian myöhempään verkkolaitteeseen .
+– Nokia 770:n tullessa tuli tunne , että ei työ ehkä sittenkään hukkaan mennyt .
+Ehkä tähän on jotain poimittu .
+Ainakin käyttöjärjestelmä valittiin oikein .
+Nokia 770:n käyttöjärjestelmä oli Maemo , joka myöhemmin jalostui Meegoksi .
+Se puolestaan oli Nokian käyttöjärjestelmien kruununperillinen ja Symbianin seuraajaksi tarkoitettu .
+Toisin kuitenkin kävi .
+Stephen Elopin aloitettua toimitusjohtajana Nokia hylkäsi Meegon ja valitsi alustakseen Windowsin .
+Sittemmin tapahtunut Nokian matkapuhelinten myynti Microsoftille oli monien ex-nokialaisten tavoin Yliruusille karvas pala .
+– Kyllähän se tuntui aika pahalta .
+Tuli sellainen fiilis , että en minä enää tällaista osta , Yliruusi sanoo Nokian kännykkäänsä heiluttaen .
+– Kyllä minä seuraavaksi Jollan ostan .
+Nokia M510:n videoesittely on katsottavissa Ilta-Sanomissa .

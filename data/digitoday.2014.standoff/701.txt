@@ -1,0 +1,15 @@
+Pian korvataan toimittajat : botti raportoi maanjäristyksestä
+Toimittajat ovat hitaita reagoimaan .
+Tekstin muotoilu ja synonyymien miettiminen vievät paljon aikaa .
+Onneksi koodi pian korvaa meidät .
+Maanantaina yhdysvaltalainen sanomalehti The Los Angeles Times julkaisi ennätysnopeasti artikkelin maanjäristyksestä .
+Kun tieto maanjäristyksestä saapui , uutinen oli pihalla noin kolmessa minuutissa .
+Vauhdikas viestintä ei saanut alkuaan näppiksen savutessa uutispäällikön kiroilun tahdissa .
+Se syntyi automaattisesti koodinpätkällä .
+Slaten raportin mukaan artikkelin kirjoitti toimittaja ja ohjelmoija Ken Schwencken luoma algoritmi .
+Algoritmi seuraa luotettuja lähteitä ja lisää tiedot valmiiseen artikkelipohjaan .
+Maanjäristysten lisäksi Schwencken ohjelma osaa luoda myös uutisia kaupungissa sattuneista rikoksista .
+Schwencken mukaan algoritmi ei korvaa oikean toimittajan työtä , vaan toimii yhtenä lisätyökaluna medialle .
+– Se säästää aikaa ja hoitaa tietyn tyyppisten tarinoiden julkaisemisen aivan yhtä hyvin kuin kuka tahansa muukin .
+Vaikka algoritmi selviää yksinkertaisten tiedotteiden sorvaamisesta helposti , se ei kuitenkaan pysty luomaan analyyttisiä uutiskommentteja , tai muutenkaan antamaan artikkelille ihmiskosketusta .
+Toimittajan työ on siis vielä hetken turvassa .

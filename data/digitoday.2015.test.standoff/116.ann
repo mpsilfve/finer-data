@@ -1,0 +1,15 @@
+T1	LOC 54 60	Japani
+T2	PRO 90 103	HTV-aluksensa
+T3	PRO 110 138	kansainvälistä avaruusasemaa
+T4	LOC 236 241	Maata
+T5	LOC 307 313	Japani
+T6	PRO 384 404	HTV-5-avaruusaluksen
+T7	PRO 445 485	kansainväliselle avaruusasemalle ISS:lle
+T8	PRO 488 491	ISS
+T9	ORG 1011 1015	Nasa
+T10	PRO 1026 1058	CALorimetric Electron Telescopen
+T11	ORG 1262 1270	SpaceX:n
+T12	PRO 1271 1282	Dragon-alus
+T13	DATE 1283 1293	kesäkuussa
+T14	PRO 1296 1301	HTV-5
+T15	PRO 1319 1326	ISS:llä

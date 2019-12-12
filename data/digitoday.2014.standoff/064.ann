@@ -1,0 +1,23 @@
+T1	ORG 0 5	Intel
+T2	ORG 36 41	Intel
+T3	ORG 64 77	Lantiq-yhtiön
+T4	ORG 115 125	Infineonia
+T5	ORG 128 133	Intel
+T6	ORG 140 148	Lantiqin
+T7	ORG 243 248	Intel
+T8	ORG 365 371	Lantiq
+T9	DATE 385 389	2009
+T10	ORG 400 408	Infineon
+T11	ORG 465 488	Golden Gate Capitalille
+T12	ORG 492 512	Deutsche Telekomille
+T13	ORG 567 588	Wall Street Journalin
+T14	LOC 630 638	Saksassa
+T15	LOC 647 656	Müncheniä
+T16	ORG 659 665	Lantiq
+T17	ORG 946 951	Intel
+T18	ORG 965 973	Lantiqin
+T19	DATE 1154 1165	vuoden 2014
+T20	PRO 1234 1250	FierceWirelessin
+T21	ORG 1354 1359	Intel
+T22	DATE 1369 1380	joulukuussa
+T100001	LOC 567 578	Wall Street

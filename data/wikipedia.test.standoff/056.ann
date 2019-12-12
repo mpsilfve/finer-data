@@ -1,0 +1,71 @@
+T1	ORG 0 23	Dresdenin filharmonikot
+T2	ORG 24 47	Dresdenin filharmonikot
+T3	DATE 55 66	vuonna 1870
+T4	LOC 78 89	Dresdenissä
+T5	LOC 92 100	Saksassa
+T6	PER 240 260	Sofia Gubaidulinalta
+T7	PER 263 282	Rodion Štšedriniltä
+T8	PER 285 300	Gia Qantšelilta
+T9	PER 304 321	Michael Nymanilta
+T10	PER 334 349	Johannes Brahms
+T11	PER 352 368	Pjotr Tšaikovski
+T12	PER 371 385	Antonín Dvorák
+T13	PER 389 404	Richard Strauss
+T14	ORG 414 440	Dresdenin filharmonikkojen
+T15	PER 526 543	Hermann Abendroth
+T16	PER 546 563	Eduard van Beinum
+T17	PER 566 577	Fritz Busch
+T18	PER 580 592	Eugen Jochum
+T19	PER 595 611	Joseph Keilberth
+T20	PER 614 627	Erich Kleiber
+T21	PER 630 649	Hans Knappertsbusch
+T22	PER 652 669	Franz Konwitschny
+T23	PER 673 687	Arthur Nikisch
+T24	PER 764 777	Marc Albrecht
+T25	PER 780 801	Dennis Russell Davies
+T26	PER 804 823	Miguel Harth-Bedoya
+T27	PER 826 840	Kristjan Järvi
+T28	PER 843 859	Michail Jurowski
+T29	PER 862 878	Dmitri Kitajenko
+T30	PER 881 896	Yakov Kreizberg
+T31	PER 899 915	Neville Marriner
+T32	PER 918 932	Wayne Marshall
+T33	PER 935 945	Kurt Masur
+T34	PER 948 963	Ingo Metzmacher
+T35	PER 966 980	Andris Nelsons
+T36	PER 983 998	Markus Poschner
+T37	PER 1001 1013	André Previn
+T38	PER 1016 1035	Karl-Heinz Steffens
+T39	PER 1038 1053	Juri Temirkanov
+T40	PER 1056 1076	Yan Pascal Tortelier
+T41	PER 1079 1095	Sebastian Weigle
+T42	PER 1098 1110	Simone Young
+T43	PER 1114 1129	Lothar Zagrosek
+T44	ORG 1132 1158	Dresdenin filharmonikkojen
+T45	PER 1218 1235	Rudolf Buchbinder
+T46	PER 1238 1251	Julia Fischer
+T47	PER 1254 1269	Kirill Gerstein
+T48	PER 1272 1287	Matthias Goerne
+T49	PER 1290 1303	Vadim Gluzman
+T50	PER 1306 1322	Martin Grubinger
+T51	PER 1325 1343	Håkan Hardenberger
+T52	PER 1346 1360	Michaela Kaune
+T53	PER 1363 1381	Anne-Sophie Mutter
+T54	PER 1384 1404	Daniel Müller-Schott
+T55	PER 1407 1416	Fazil Say
+T56	PER 1420 1439	Jean-Yves Thibaudet
+T57	DATE 1442 1453	Vuonna 1909
+T58	ORG 1454 1480	Dresdenin filharmonikoista
+T59	LOC 1505 1519	Yhdysvalloissa
+T60	LOC 1643 1653	Euroopassa
+T61	LOC 1656 1667	Amerikoissa
+T62	LOC 1671 1679	Aasiassa
+T63	DATE 1682 1693	Vuonna 2011
+T64	ORG 1694 1720	Dresdenin filharmonikkojen
+T65	PER 1747 1765	Michael Sanderling
+T100001	LOC 0 9	Dresdenin
+T100002	LOC 24 33	Dresdenin
+T100003	LOC 414 423	Dresdenin
+T100004	LOC 1132 1141	Dresdenin
+T100005	LOC 1454 1463	Dresdenin
+T100006	LOC 1694 1703	Dresdenin

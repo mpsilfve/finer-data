@@ -1,0 +1,15 @@
+T1	ORG 26 34	Snapchat
+T2	ORG 48 56	Snapchat
+T3	ORG 202 210	Snapchat
+T4	DATE 380 389	elokuussa
+T5	DATE 600 607	elokuun
+T6	ORG 728 736	Snapchat
+T7	ORG 803 818	Gibson Security
+T8	ORG 844 856	Snapchatista
+T9	ORG 1000 1010	SnapchatDB
+T10	ORG 1018 1026	Gibsonin
+T11	PRO 1072 1082	Snapchatin
+T12	ORG 1202 1210	Snapchat
+T13	PRO 1558 1580	Snapchat-sovelluksesta
+T14	ORG 1824 1832	Snapchat
+T100001	PER 803 809	Gibson

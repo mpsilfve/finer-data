@@ -1,0 +1,16 @@
+T1	ORG 0 6	Yahoon
+T2	ORG 43 48	Yahoo
+T3	ORG 115 120	Cisco
+T4	ORG 216 221	Yahoo
+T5	ORG 342 347	Yahoo
+T6	DATE 393 407	31. joulukuuta
+T7	DATE 420 433	3. tammikuuta
+T8	DATE 501 515	27. joulukuuta
+T9	ORG 683 688	Yahoo
+T10	ORG 767 773	Fox IT
+T11	DATE 848 862	31. joulukuuta
+T12	ORG 865 871	Yahoon
+T13	PRO 1094 1099	Javan
+T14	ORG 1127 1142	Cisco Systemsin
+T15	DATE 1249 1259	marraskuun
+T16	ORG 1355 1361	Ciscon

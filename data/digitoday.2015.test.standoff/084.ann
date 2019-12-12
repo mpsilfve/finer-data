@@ -1,0 +1,24 @@
+T1	ORG 0 6	Huawei
+T2	ORG 14 20	Nokian
+T3	ORG 55 62	Huawein
+T4	ORG 159 165	Nokian
+T5	ORG 249 255	Huawei
+T6	PRO 275 294	Mate S -puhelimensa
+T7	EVENT 295 328	IFA-kulutuselektroniikkamessuilla
+T8	PER 393 403	Richard Yu
+T9	PRO 481 501	iPhone 6 -puhelimeen
+T10	PRO 636 650	iPhone-malliin
+T11	ORG 653 660	Huawein
+T12	ORG 719 727	Nokialta
+T13	PRO 763 774	Twitterissä
+T14	ORG 805 812	Huawein
+T15	PRO 831 855	" Makes the connection "
+T16	ORG 878 884	Nokian
+T17	PRO 885 923	" Connecting people " -tunnuslauseesta
+T18	ORG 987 994	Huawein
+T19	ORG 1000 1006	Nokian
+T20	PER 1036 1049	Michelangelon
+T21	PRO 1050 1076	Aatamin luominen -freskoon
+T22	LOC 1077 1098	Sikstuksen kappelissa
+T23	LOC 1099 1111	Vatikaanissa
+T100001	PER 1050 1057	Aatamin

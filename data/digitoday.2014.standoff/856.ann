@@ -1,0 +1,14 @@
+T1	PER 66 75	Rand Paul
+T2	LOC 129 148	Valkoisessa talossa
+T3	ORG 193 200	CNN:lle
+T4	PER 226 235	Rand Paul
+T5	PER 368 372	Paul
+T6	ORG 381 386	CNN:n
+T7	LOC 543 558	Valkoisen talon
+T8	PER 643 649	Paulin
+T9	PER 719 728	Rand Paul
+T10	LOC 768 787	Valkoisessa talossa
+T11	DATE 788 799	vuoden 2016
+T12	ORG 946 951	CNN:n
+T13	PER 1061 1067	Paulin
+T14	LOC 1154 1162	Montanan

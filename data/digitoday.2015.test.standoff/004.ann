@@ -1,0 +1,23 @@
+T1	PER 0 9	Elon Musk
+T2	ORG 47 53	Teslan
+T3	PER 70 79	Elon Musk
+T4	PER 151 162	Elon Muskin
+T5	PRO 178 203	Tesla Model 3 -sähköauton
+T6	LOC 279 287	Nevadaan
+T7	LOC 299 322	Gigafactory-akkutehtaan
+T8	PER 341 345	Musk
+T9	PRO 366 375	Model 3:n
+T10	DATE 405 417	maaliskuussa
+T11	ORG 482 486	Cnet
+T12	ORG 499 505	Teslan
+T13	PRO 520 527	Model S
+T14	PRO 559 581	Model X -katumaasturin
+T15	PRO 582 603	Signature-huippumalli
+T16	PRO 674 681	Model X
+T17	PRO 737 744	Model S
+T18	PRO 759 773	Model X -autot
+T19	DATE 804 817	29. syyskuuta
+T20	ORG 820 829	The Verge
+T21	PER 923 932	Elon Musk
+T22	ORG 1123 1128	Tesla
+T100001	PER 178 183	Tesla

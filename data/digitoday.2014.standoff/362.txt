@@ -1,0 +1,16 @@
+Kauankohan tätä hupia kestää ?
+Apple antaa pitää hyvitetyt sovellukset
+Apple on päätynyt kummalliseen politiikkaan App Store -sovellusten palautusoikeudessa .
+Sovelluksia ei poisteta käyttäjän laitteelta .
+Apple on esitellyt uuden tavan ostaa sovelluksia .
+Ostetut sovellukset ovat " palautettavissa " kahden viikon ajan , mikäli niistä ei pidäkään ja kauppa kaduttaa .
+Jos käyttäjä ilmoittaa Applelle , ettei ostettu sovellus tyydytä , Apple palauttaa rahat , mutta toisin kuin Google , ei poista asennettua sovellusta käyttäjän laitteelta .
+Google toimii Androidin tapauksessa toisin .
+Käyttäjä voi perua kaupan samalla tavalla kahden viikon sisällä sähköisen kuitin vastaanottamisesta , mutta rahojen palautuksen yhteydessä Google hävittää ostetun sovelluksen käyttäjän laitteelta .
+Applen tapa jättää avoimeksi väärinkäytön mahdollisuuden .
+Esimerkiksi Applen App Storesta hankittu peli on mahdollista pelata läpi kahden viikon aikana ja silti saada siitä rahat takaisin .
+Rahojen palautumisen lisäksi peli jäisi edelleen käyttäjän laitteelle ja sitä voisi käyttää myös jatkossa .
+Sama " kiertokeino " voisi koskea muun muassa elokuvia ja musiikkia .
+Sisällöntuottajien kannalta kyseessä on erittäin huono diili .
+Vaikka kyseessä on ostajan kannalta erinomainen tapa tutustua tuotteeseen , ei siitä pitkällä aikavälillä tule mitään .
+Todennäköisesti Apple onkin pian pakotettu ottamaan takapakkia ja poistamaan jo ladatun sisällön käyttäjän laitteelta sen jälkeen , kun rahat on tälle ensin palautettu , asiasta kertoneella Neowinilla arvellaan .

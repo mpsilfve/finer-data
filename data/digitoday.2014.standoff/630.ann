@@ -1,0 +1,24 @@
+T1	LOC 0 5	Kiina
+T2	PRO 11 18	Gmailia
+T3	ORG 58 65	Googlen
+T4	LOC 75 83	Kiinassa
+T5	PRO 108 115	Gmailin
+T6	PRO 243 250	Gmailin
+T7	ORG 288 297	Reutersin
+T8	LOC 305 316	Tiananmenin
+T9	DATE 344 352	kesäkuun
+T10	PRO 536 544	Gmailiin
+T11	PRO 655 662	Gmailin
+T12	PRO 682 702	Apple iPhonen Mailin
+T13	ORG 705 716	Microsoftin
+T14	PRO 717 726	Outlookin
+T15	ORG 730 738	Mozillan
+T16	PRO 739 752	Thunderbirdin
+T17	LOC 762 768	Kiinan
+T18	ORG 793 806	GreatFire.org
+T19	PRO 835 842	Gmailin
+T20	ORG 930 937	Googlen
+T21	LOC 994 1000	Kiinan
+T22	ORG 1040 1055	GreatFire.orgin
+T23	PRO 1063 1070	Gmailin
+T100001	ORG 682 687	Apple

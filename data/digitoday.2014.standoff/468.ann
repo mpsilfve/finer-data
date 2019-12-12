@@ -1,0 +1,21 @@
+T1	ORG 19 31	Facebookilta
+T2	PRO 78 88	Facebookin
+T3	ORG 125 135	Facebookia
+T4	LOC 146 159	Kaliforniassa
+T5	PER 294 310	Matthew Campbell
+T6	PER 314 328	Michael Hurley
+T7	ORG 356 364	Facebook
+T8	DATE 575 586	vuoden 1986
+T9	LOC 621 632	Kalifornian
+T10	ORG 748 760	Ars Technica
+T11	PER 905 913	Campbell
+T12	PER 917 923	Hurley
+T13	ORG 939 947	Facebook
+T14	ORG 1107 1115	Facebook
+T15	DATE 1265 1274	Elokuussa
+T16	ORG 1289 1305	High-Tech Bridge
+T17	ORG 1315 1325	Facebookin
+T18	DATE 1358 1368	lokakuussa
+T19	ORG 1377 1382	FTC:n
+T20	PER 1422 1436	Ashkan Soltani
+T21	ORG 1477 1489	The Register

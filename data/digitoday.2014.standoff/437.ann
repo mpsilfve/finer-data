@@ -1,0 +1,13 @@
+T1	ORG 63 71	SpaceX:n
+T2	PER 130 139	Elon Musk
+T3	ORG 179 187	SpaceX:n
+T4	ORG 330 336	SpaceX
+T5	PRO 526 543	Falcon 9 -raketin
+T6	ORG 703 711	SpaceX:n
+T7	PER 720 729	Elon Musk
+T8	PRO 737 748	Twitterissä
+T9	PER 976 980	Musk
+T10	PER 1165 1169	Musk
+T11	ORG 1181 1189	SpaceX:n
+T12	PRO 1223 1243	Dragon-rahtikapselin
+T13	PRO 1258 1277	ISS-avaruusasemalle

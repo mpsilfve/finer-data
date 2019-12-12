@@ -1,0 +1,31 @@
+T1	PER 0 6	Zhu Xi
+T2	PER 7 13	Zhu Xi
+T3	PER 30 36	Zhū Xī
+T4	PER 52 59	Chu Hsi
+T5	DATE 62 84	18.10.1130 – 23.4.1200
+T6	ORG 91 105	Song-dynastian
+T7	PER 455 461	Zhu Xi
+T8	LOC 475 485	Fujianista
+T9	DATE 629 642	Vuodesta 1158
+T10	PER 664 673	Li Tongin
+T11	PER 683 693	Cheng Haon
+T12	PER 697 706	Cheng Yin
+T13	ORG 756 801	’ Valkoisen hirven luola ’ -nimisen akatemian
+T14	PER 847 853	Zhu Xi
+T15	DATE 1126 1137	Vuonna 1179
+T16	LOC 1305 1325	Kongfuzin temppeliin
+T17	PER 1365 1371	Zhu Xi
+T18	PRO 1380 1400	" Muutosten kirjan "
+T19	PRO 1435 1449	" Suuri oppi "
+T20	PRO 1452 1473	" Tarkoituksen oppi "
+T21	PRO 1476 1491	" Keskustelut "
+T22	PRO 1495 1505	" Mengzi "
+T23	DATE 1587 1599	vuoteen 1905
+T24	PER 1607 1613	Zhu Xi
+T25	PER 2441 2447	Zhu Xi
+T26	PER 2485 2491	Xunzin
+T27	PER 3014 3020	Zhu Xi
+T28	LOC 3125 3134	Taivaasta
+T29	PER 3207 3215	Kongfuzi
+T30	PER 3268 3274	Zhu Xi
+T100001	PER 1305 1314	Kongfuzin

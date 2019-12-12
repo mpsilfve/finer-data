@@ -1,0 +1,27 @@
+T1	ORG 0 4	Sony
+T2	LOC 104 110	Suomen
+T3	PRO 111 124	Sony Storesta
+T4	PRO 127 143	Vaio-tietokoneet
+T5	ORG 179 183	Sony
+T6	ORG 229 233	Sony
+T7	PRO 273 303	Reader Store -verkkokaupastaan
+T8	PRO 330 340	Amazonissa
+T9	PRO 425 438	Reader Storen
+T10	ORG 506 510	Sony
+T11	ORG 566 574	Amazonin
+T12	ORG 578 585	Kindlen
+T13	ORG 596 601	Sonyn
+T14	LOC 602 616	Yhdysvalloissa
+T15	PRO 628 654	Sony Store -verkkokaupasta
+T16	DATE 694 704	lokakuussa
+T17	PRO 721 734	Sony Storessa
+T18	PRO 770 785	Reader Storesta
+T19	ORG 826 831	Kobon
+T20	ORG 846 850	Kobo
+T21	ORG 899 904	Kobon
+T22	PRO 949 956	Kindlet
+T23	PRO 966 976	Amazonissa
+T24	ORG 1009 1014	Kobon
+T100001	ORG 111 115	Sony
+T100002	ORG 628 632	Sony
+T100003	ORG 721 725	Sony

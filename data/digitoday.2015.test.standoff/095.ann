@@ -1,0 +1,12 @@
+T1	ORG 68 70	VR
+T2	ORG 237 245	VR Group
+T3	PRO 465 489	Panasonic Toughpad FZ-G1
+T4	ORG 492 497	VR:ää
+T5	ORG 601 611	VR Groupin
+T6	PRO 612 637	Kuljettajapääte-projektia
+T7	PER 665 679	Antti Vuorisen
+T8	PRO 715 726	Facebookiin
+T9	ORG 790 794	VR:n
+T10	PER 886 894	Vuorinen
+T11	PER 1396 1404	Vuorinen
+T100001	ORG 465 474	Panasonic

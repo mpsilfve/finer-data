@@ -1,0 +1,15 @@
+T1	ORG 68 74	Amazon
+T2	ORG 215 225	Amazonilla
+T3	ORG 321 342	Wall Street Journalin
+T4	ORG 350 356	Amazon
+T5	ORG 517 525	Amazonin
+T6	PRO 596 603	Fire HD
+T7	ORG 613 621	Amazonin
+T8	PRO 622 634	Fire-puhelin
+T9	ORG 824 858	Shanghai Huaqin Telecom Technology
+T10	LOC 862 870	Taiwanin
+T11	ORG 871 892	Compal Communications
+T12	ORG 895 901	Amazon
+T13	ORG 1004 1014	Amazonille
+T100001	LOC 321 332	Wall Street
+T100002	LOC 824 832	Shanghai

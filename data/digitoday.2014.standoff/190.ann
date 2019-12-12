@@ -1,0 +1,21 @@
+T1	PRO 0 7	Basicin
+T2	PRO 69 74	Basic
+T3	DATE 210 228	1. toukokuuta 1964
+T4	PER 271 282	John Kemeny
+T5	PRO 342 367	Basic-ohjelmointikielellä
+T6	ORG 413 431	Dartmouth Collegen
+T7	LOC 440 451	Hanoverissa
+T8	LOC 452 468	New Hampshiressa
+T9	LOC 469 483	Yhdysvalloissa
+T10	ORG 486 500	The Guardianin
+T11	PRO 627 632	Basic
+T12	PRO 635 683	Beginner's All-purpose Symbolic Instruction Code
+T13	ORG 878 888	Guardianin
+T14	PRO 896 901	Basic
+T15	ORG 1183 1193	Mikrobitin
+T16	PRO 1212 1231	C64-tietokoneelleen
+T17	PRO 1500 1517	Steam-pelipalvelu
+T18	LOC 1694 1702	Suomessa
+T19	ORG 1791 1800	Microsoft
+T20	PRO 2062 2076	Raspberry Pi:n
+T100001	LOC 413 422	Dartmouth

@@ -1,0 +1,11 @@
+Fataali bugi ?
+Steam hävitti Linux-käyttäjän kaikki tiedot
+Steam-pelipalvelun Linux-versiosta on mahdollisesti löytynyt erittäin vakava virhe .
+Ilmeisesti Steamin Linux-versioon on eksynyt äärimmäisen vakava ohjelmointivirhe , joka tekee selvää jälkeä käyttäjän koko levyjärjestelmästä , mikäli tämä erehtyy siirtämään Steam-hakemistoa .
+Steamin Linux-asennusohjelma ei anna valita Steamin asennuskansiota käsin , vaan se käyttää itse määrittelemäänsä oletuskansiota .
+Mikäli kansiota erehtyy siirtämään , saattaa tuloksena olla kaikkien levyllä olevien tietojen menetys .
+Näin kävi Github-käyttäjälle nimeltä keyvin .
+Keyvin yritti siirtää Steam-hakemistoa toisaalle , minkä jälkeen hän loi symbolisen linkin alkuperäiseen kohteeseen .
+Steam oli kuitenkin eri mieltä ja pyyhki tyhjäksi keyvinin koko levyn , mukaan lukien ulkoisen kolmen teratavun kiintolevyn .
+Toinen Github-käyttäjä nimeltään d00fy kertoi menettäneensä koko /home-järjestelmän sisällön yrittäessään käynnistää Linux-Steamin asennusohjelman steam.sh:n parametrilla STEAMDEBUG=1 .
+Asiasta kertoi muun muassa Neowin _ .

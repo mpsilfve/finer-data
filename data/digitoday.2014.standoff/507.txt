@@ -1,0 +1,28 @@
+Hakkeri iski kahdesti Supercelliin
+Hakkeri iski Supercell-peliyhtiön Clash of Clans -pelin Facebook-sivulle .
+Hakkeri julkaisi muun muassa pelin liikevaihtotietoja .
+Hänen mukaansa hän olisi päässyt käsiksi myös muihin tietoihin .
+Hittipeli Clash of Clansin Facebook-sivut ja Twitter-tili on hakkeroitu .
+Asiasta uutisoi ensimmäisenä e27-verkkosivusto , mutta suomalainen peliyhtiö Supercell on vahvistanut väitteen Facebook-sivullaan .
+Yhtiö ilmoittaa tutkivansa asiaa .
+Ethical Spectrum -nimeä käyttävä hakkeri kertoo e27-sivuston haastattelussa murtautuneensa Clash of Clansin sivujen lisäksi myös Supercellin HayDay-pelin Facebook-sivuille .
+Haastattelun mukaan murtautumiskanavana on ollut Engagor-verkkopalvelu , joka on yrityksien sosiaalisen median hallintaan tarkoitettu palvelu .
+Vakavampaa on , että hakkeri on ilmeisesti päässyt myös Supercellin palvelujen suljetulle hallintasivustolle .
+– Tällainen hallintaosoite Supercelliltä myös löytyy , kertoo tietoturvayhtiö Nixun konsultti Janne Kauhanen .
+– Haastattelussa hakkeri puhuu ensin admin-sivujen murrosta , ja sitten toisessa vastauksessa Facebook-sivuista .
+Kyse on siis kahdesta eri murrosta .
+Hakkeri julkaisi Clash of Clansin Facebook-sivuilla muun muassa kuvan , jossa hänen mukaansa on paljastettu pelin liikevaihtolukuja viime perjantailta .
+Tämä kuva on ilmeisesti ruutukaappaus Supercellin sisäiseltä hallintasivustolta .
+Hakkerin julkaisemien tietojen perusteella Supercell tienasi pelillä yli viisi miljoonaa dollaria päivän aikana , ja pelillä olisi noin 30 miljoonaa kuukausittain aktiivista pelaajaa .
+Hakkerin päivitykset on nyt poistettu .
+Yhtiö ei aio kommentoida julkaistuja lukuja , kertoo Ilta-Sanomat .
+Yhtiö kertoo tuloksestaan virallisesti ensi keskiviikkona .
+Huijattiinko salasanat Supercellin työntekijältä ?
+Supercell ei ole paljastanut murtautumisesta juuri muuta , kuin että sellainen on tehty .
+Kauhasen mukaan on mahdollista , että syy ei välttämättä ole Engagor-palvelussa tai sen tietoturvassa .
+– Kyseessä ei ole välttämättä palvelun haavoittuvuus , vaan salasanat on saatettu onkia esimerkiksi Supercellin työntekijältä , Kauhanen sanoo .
+Hakkeri on saattanut esimerkiksi huijata jotain Supercellin työntekijää esiintymällä henkilönä , jolla jostain syystä olisi oikeus päästä yhtiön verkkopalveluihin .
+Tämän tyyppisiä hyökkäyksiä on viime aikoina tehnyt muun muassa hakkerijoukko Syrian Electronic Army , joka on murtautunut muun muassa useiden mediayhtiöiden verkkopalveluihin .
+– Jos asiaa ajattelee hyökkääjän näkökulmasta , niin sieltä kannattaa mennä mistä helpoiten pääsee .
+Jos se onnistuu kysymällä tunnuksia , niin murto tehdään sitten niin , Kauhanen sanoo .
+Hänen mukaansa ulkopuolisen on kuitenkin vaikea arvioida verkkopalvelujen tieturvaa , joten myös tietoturva-aukko on mahdollinen .

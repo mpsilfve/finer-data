@@ -1,0 +1,15 @@
+T1	ORG 23 29	Google
+T2	ORG 44 51	Googlen
+T3	PRO 70 90	Project Ara -puhelin
+T4	ORG 140 146	Google
+T5	PRO 160 183	Project Ara -hankkeensa
+T6	PRO 263 274	Project Ara
+T7	ORG 278 285	Googlen
+T8	ORG 406 412	Google
+T9	LOC 455 469	Puerto Ricossa
+T10	DATE 598 609	vuonna 2016
+T11	ORG 653 659	Google
+T12	LOC 689 703	Yhdysvalloissa
+T13	ORG 881 887	Google
+T14	PRO 901 912	Project Ara
+T15	ORG 1086 1092	Google

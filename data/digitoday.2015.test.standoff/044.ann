@@ -1,0 +1,35 @@
+T1	ORG 14 25	S-ryhmänkin
+T2	LOC 52 61	Venäjälle
+T3	LOC 62 71	Venäjällä
+T4	LOC 149 158	Venäjällä
+T5	ORG 260 267	S-ryhmä
+T6	LOC 306 315	Venäjälle
+T7	LOC 318 327	Venäjällä
+T8	LOC 412 419	Venäjän
+T9	ORG 468 477	Bloomberg
+T10	LOC 496 505	Venäjällä
+T11	LOC 583 592	Venäjällä
+T12	ORG 1250 1275	Roskomnadzor-viranomainen
+T13	ORG 1516 1527	Bloombergin
+T14	ORG 1535 1543	Facebook
+T15	ORG 1546 1552	Google
+T16	ORG 1556 1563	Twitter
+T17	ORG 1577 1584	Kremlin
+T18	ORG 1934 1944	S-ryhmällä
+T19	LOC 1948 1957	Venäjällä
+T20	PRO 1961 1975	Prisma-kauppaa
+T21	ORG 2136 2141	SOK:n
+T22	LOC 2142 2149	Venäjän
+T23	PER 2183 2196	Vesa Punnonen
+T24	PER 2199 2207	Punnosen
+T25	LOC 2281 2290	Venäjällä
+T26	PRO 2337 2347	Prismoista
+T27	ORG 2380 2387	S-ryhmä
+T28	LOC 2423 2431	Suomessa
+T29	ORG 2470 2475	SOK:n
+T30	LOC 2476 2486	Pietarissa
+T31	LOC 2598 2607	Venäjällä
+T32	LOC 2637 2643	Venäjä
+T33	DATE 2675 2686	vuoden 2012
+T34	PER 2735 2751	Vladimir Putinin
+T35	ORG 2815 2822	Kremlin

@@ -1,0 +1,61 @@
+T1	PER 0 18	Pekka Neittaanmäki
+T2	PER 19 44	Pekka Juhani Neittaanmäki
+T3	DATE 50 69	14. huhtikuuta 1951
+T4	LOC 70 80	Saarijärvi
+T5	ORG 129 152	Jyväskylän yliopistossa
+T6	PER 171 183	Neittaanmäki
+T7	PER 208 220	Neittaanmäen
+T8	DATE 236 244	6.4.2017
+T9	PER 595 607	Neittaanmäki
+T10	ORG 632 652	Saarijärven lukiosta
+T11	DATE 653 664	vuonna 1970
+T12	ORG 693 716	Jyväskylän yliopistosta
+T13	DATE 717 721	1973
+T14	DATE 750 754	1976
+T15	DATE 780 784	1978
+T16	DATE 787 804	Vuosina 1980–1999
+T17	LOC 805 817	Neittaanmäki
+T18	ORG 946 965	Bonnin yliopistossa
+T19	DATE 968 977	1978–1979
+T20	ORG 983 1004	Hampurin yliopistossa
+T21	DATE 1013 1017	1986
+T22	PER 1022 1034	Neittaanmäki
+T23	ORG 1061 1101	Lappeenrannan teknillisessä yliopistossa
+T24	DATE 1104 1113	1982–1985
+T25	ORG 1119 1142	Jyväskylän yliopistossa
+T26	DATE 1145 1154	1986–1988
+T27	ORG 1187 1210	Jyväskylän yliopistossa
+T28	PER 1211 1223	Neittaanmäki
+T29	DATE 1236 1249	vuodesta 1988
+T30	ORG 1259 1273	Agora Centerin
+T31	DATE 1294 1311	vuosina 2000–2009
+T32	LOC 1359 1371	Neittaanmäki
+T33	DATE 1380 1391	vuonna 2010
+T34	PER 1394 1406	Neittaanmäki
+T35	ORG 1440 1473	Tokion teknillisessä yliopistossa
+T36	DATE 1476 1489	vuodesta 2008
+T37	ORG 1519 1541	Houstonin yliopistossa
+T38	DATE 1544 1557	vuodesta 2000
+T39	ORG 1612 1635	Suomen Tiedeakatemiassa
+T40	PER 1674 1688	Neittaanmäelle
+T41	ORG 1721 1749	Pietarin valtionyliopistossa
+T42	DATE 1750 1761	vuonna 2010
+T43	DATE 1765 1780	kesäkuussa 2011
+T44	PRO 1791 1813	Leonhard Euler -mitali
+T45	PER 2165 2177	Neittaanmäki
+T46	ORG 2308 2329	Jyväskylän yliopiston
+T47	PER 2341 2353	Neittaanmäki
+T100001	LOC 129 139	Jyväskylän
+T100002	LOC 632 643	Saarijärven
+T100003	LOC 693 703	Jyväskylän
+T100004	LOC 946 952	Bonnin
+T100005	LOC 983 991	Hampurin
+T100006	LOC 1061 1074	Lappeenrannan
+T100007	LOC 1119 1129	Jyväskylän
+T100008	LOC 1187 1197	Jyväskylän
+T100009	LOC 1440 1446	Tokion
+T1000010	LOC 1519 1528	Houstonin
+T1000011	LOC 1612 1618	Suomen
+T1000012	LOC 1721 1729	Pietarin
+T1000013	PER 1791 1805	Leonhard Euler
+T1000014	LOC 2308 2318	Jyväskylän

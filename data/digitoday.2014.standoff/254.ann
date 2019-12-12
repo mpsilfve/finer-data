@@ -1,0 +1,18 @@
+T1	ORG 36 44	WhatsApp
+T2	ORG 202 210	WhatsApp
+T3	ORG 313 323	WhatsAppin
+T4	PER 340 348	Jan Koum
+T5	LOC 356 364	Saksassa
+T6	EVENT 365 383	DLD-konferenssille
+T7	PRO 510 519	Twitterin
+T8	PRO 569 577	WhatsApp
+T9	ORG 653 659	Nokian
+T10	PRO 660 671	Symbianilla
+T11	PRO 675 688	Blackberryllä
+T12	PER 691 697	Koumin
+T13	PER 737 751	Benedict Evans
+T14	PRO 766 776	WhatsAppin
+T15	ORG 881 884	BGR
+T16	ORG 887 895	WhatsApp
+T17	ORG 972 988	Business Insider
+T18	ORG 1001 1008	Googlen

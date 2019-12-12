@@ -1,0 +1,13 @@
+T1	ORG 0 7	Googlen
+T2	ORG 67 74	Googlen
+T3	ORG 315 321	Google
+T4	ORG 421 428	Googlen
+T5	ORG 648 666	Pha ndroid-sivusto
+T6	ORG 1358 1365	Googlea
+T7	ORG 1458 1492	Yhdysvaltojen turvallisuusvirastoa
+T8	ORG 1493 1499	NSA:ta
+T9	ORG 1577 1584	Googlen
+T10	PRO 1585 1603	Chrome -selaimesta
+T11	ORG 1830 1837	Googlen
+T12	PRO 2243 2253	Youtubessa
+T100001	LOC 1458 1471	Yhdysvaltojen

@@ -1,0 +1,17 @@
+T1	ORG 0 11	CrowdStrike
+T2	LOC 14 20	Venäjä
+T3	LOC 82 88	Venäjä
+T4	ORG 299 310	CrowdStrike
+T5	ORG 392 408	Venäjän hallitus
+T6	DATE 636 649	vuodesta 2012
+T7	ORG 691 705	Energetic Bear
+T8	ORG 708 720	CrowdStriken
+T9	ORG 1288 1294	Kiinan
+T10	ORG 1300 1318	Venäjän hallitusta
+T11	LOC 1329 1340	Yhdysvallat
+T12	ORG 1369 1372	NSA
+T13	ORG 1458 1470	CrowdStriken
+T14	ORG 1502 1524	Washington Post -lehti
+T100001	LOC 392 399	Venäjän
+T100002	LOC 1300 1307	Venäjän
+T100003	LOC 1502 1512	Washington

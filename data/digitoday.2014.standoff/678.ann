@@ -1,0 +1,25 @@
+T1	ORG 0 7	Mozilla
+T2	PER 16 23	Beardin
+T3	PER 47 53	Eichin
+T4	PRO 62 78	Firefox-selainta
+T5	ORG 89 108	Mozilla Corporation
+T6	PER 209 221	Brendan Eich
+T7	PER 230 242	Brendan Eich
+T8	LOC 364 375	Kalifornian
+T9	PER 413 417	Eich
+T10	PER 591 602	Chris Beard
+T11	ORG 615 638	Mozilla-organisaatiossa
+T12	PRO 648 661	Firefox 1.0:n
+T13	ORG 719 738	Greylock Partnersin
+T14	ORG 772 786	Mozilla Blogin
+T15	PER 794 801	Beardia
+T16	ORG 816 837	Mozilla Corporationin
+T17	ORG 980 992	Greylockilla
+T18	ORG 996 1005	Mozillaan
+T19	ORG 1031 1037	SFGate
+T20	ORG 1050 1060	Greylockin
+T21	PER 1070 1080	John Lilly
+T22	ORG 1084 1092	Mozillan
+T23	ORG 1153 1161	Mozillan
+T24	PER 1207 1211	Eich
+T25	DATE 1243 1258	24. maaliskuuta

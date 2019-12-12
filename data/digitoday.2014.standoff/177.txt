@@ -1,0 +1,8 @@
+Word , Excel ja kumppanit tulivat Androidille — yllättävän tiukatlaitevaatimukset
+Word , Excel , Powerpoint ja Outlook saivat Android-tablettiversiot .
+Microsoft on tuonut Word- , Excel- ja Powerpoint-ohjelmistaan Android-tablettiversiot Google Play -sovelluskauppaan .
+Ohjelmat eivät välttämättä toimi vanhemmissa tableteissa , sillä niiden käyttöjärjestelmäversiovaatimus on Android 4.4 eli Kitkat .
+Muut vaatimukset ovat 7 tuuman näyttö , gigatavun keskusmuisti sekä arm-suoritin .
+Ohjelmien ansaintalogiikka perustuu siihen , että perustoiminnallisuus on ilmaista ja kaikki ominaisuudet saa käyttöön tilaamalla Office 365 -lisenssi .
+Asiakirjojen luomiseen ja muokkaamiseen vaaditaan Microsoft-tunnus .
+Samalla sekä Android että iOS saavat oman versionsa Microsoftin Outlook-sähköposti- ja kalenteriohjelmasta .

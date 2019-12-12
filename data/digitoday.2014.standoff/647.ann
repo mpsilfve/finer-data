@@ -1,0 +1,13 @@
+T1	ORG 0 7	Samsung
+T2	ORG 65 72	Samsung
+T3	ORG 247 266	Samsung Electronics
+T4	ORG 341 350	Samsungin
+T5	ORG 734 743	Samsungin
+T6	ORG 813 819	Nuance
+T7	ORG 874 881	Samsung
+T8	ORG 974 981	Nuancen
+T9	ORG 1000 1007	Samsung
+T10	ORG 1394 1398	LG:n
+T11	ORG 1520 1529	Samsungin
+T12	ORG 1567 1585	The New York Times
+T100001	LOC 1571 1579	New York

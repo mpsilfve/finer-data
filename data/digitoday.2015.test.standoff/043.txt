@@ -1,0 +1,15 @@
+225\_000 Apple-tiliä varastettu — uhrien laskuun tehdään vääriä ostoksia
+Applen iPhone-asiakkaat ovat kärsineet kenties suurimman tilivarkauden , joka on aiheutettu haittaohjelmalla .
+Näin arvioi varkaudesta raportoiva Palo Alto Networks , jota CNN lainaa .
+Jopa 225\_000 Apple-tiliä on varastettu iPhone-puhelinten omistajilta .
+Haittaohjelmalle on annettu nimeksi KeyRaider ja se uhkaa vain iPhoneja , joissa on ajettu niin sanottu jailbreak-ohjelma .
+Sillä puhelimeen saa asennettua sovelluksia muualta kuin Applen virallisesta kaupasta .
+Samalla se päästää käsiksi puhelimen tiedostojärjestelmän osiin , jotka normaalisti on rajattu käyttäjän ulottumattomiin .
+Mutta jos tartunnan on saanut , seuraukset ovat ikäviä .
+Palo Alton mukaan KeyRaider luovuttaa uhrin iTunes App Store -tiedot hyökkääjille mukaan lukien käyttäjänimi , salasana ja iPhonen tunnistenumero .
+Hyökkääjät päästävät muutkin käsiksi varastettuihin tietoihin ja ovat julkaisseet sovelluksen , joka lupaa ilmaisia ostoksia App Storesta uhrien laskuun .
+Sovellusta oli ladattu noin 20\_000 kappaletta tiistaina , CNN kirjoitti .
+Toisilta uhreilta iPhone on lukittu ja heiltä vaaditaan lunnaita pääsyn palauttamiseksi .
+Palo Alto Networksin ohella KeyRaiderin havaitsi kiinalainen WeipTech .
+Haittaohjelmaa on tavattu lähinnä kiinalaisilla verkkosivuilla , mutta kaikkiaan 18 maassa kuten Yhdysvalloissa .
+Suomi ei ole mainittujen maiden joukossa .

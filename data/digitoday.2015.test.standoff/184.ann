@@ -1,0 +1,13 @@
+T1	ORG 0 8	Toshiban
+T2	LOC 56 63	Japanin
+T3	ORG 105 115	Toshiballe
+T4	ORG 155 167	Nikkei-lehti
+T5	ORG 189 196	Nikkein
+T6	LOC 226 233	Japanin
+T7	ORG 250 254	SESC
+T8	ORG 277 285	Toshiban
+T9	DATE 395 405	syyskuussa
+T10	ORG 422 429	Reuters
+T11	ORG 524 532	Toshiban
+T12	ORG 647 655	Toshiban
+T13	ORG 757 764	Toshiba

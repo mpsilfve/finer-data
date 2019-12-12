@@ -1,0 +1,22 @@
+T1	LOC 0 6	Kiinan
+T2	LOC 51 57	Kiinan
+T3	ORG 79 90	Didi Kuaidi
+T4	ORG 188 192	Uber
+T5	ORG 307 313	Uberin
+T6	PER 330 345	Travis Kalanick
+T7	ORG 352 363	Uber Chinan
+T8	ORG 427 436	Reutersin
+T9	ORG 444 456	Didi Kuaidin
+T10	DATE 514 525	Heinäkuussa
+T11	ORG 526 537	Didi Kuaidi
+T12	ORG 698 709	Bloombergin
+T13	ORG 785 797	Didi Kuaidin
+T14	ORG 842 848	Uberin
+T15	LOC 900 906	Kiinan
+T16	ORG 1063 1069	Uberin
+T17	LOC 1095 1101	Kiinan
+T18	ORG 1102 1108	Google
+T19	ORG 1111 1116	Baidu
+T20	ORG 1119 1131	Didi Kuaidin
+T21	ORG 1144 1151	Tencent
+T22	ORG 1155 1162	Alibaba

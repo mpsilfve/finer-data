@@ -1,0 +1,17 @@
+T1	ORG 0 3	NSN
+T2	LOC 11 21	Piilaakson
+T3	ORG 29 35	Nokian
+T4	LOC 57 67	Piilaaksoa
+T5	ORG 180 208	Nokia Solutions and Networks
+T6	ORG 217 231	Nokia Networks
+T7	LOC 248 260	Piilaaksossa
+T8	EVENT 368 408	Silicon Valley Open Innovation Challenge
+T9	LOC 536 548	Piilaaksossa
+T10	LOC 633 643	Eurooppaan
+T11	DATE 744 758	10. toukokuuta
+T12	ORG 940 945	NSN:n
+T13	PER 961 972	Kanika Atri
+T14	DATE 991 1009	kesäkuun 2. päivän
+T15	ORG 1078 1101	Nokia Growth Partnersin
+T16	ORG 1151 1156	NSN:n
+T100001	LOC 368 382	Silicon Valley

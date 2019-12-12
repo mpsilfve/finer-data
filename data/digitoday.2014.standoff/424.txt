@@ -1,0 +1,12 @@
+Googlen autot oppivat varomaan liikenteen tolloja
+Googlen itsestään ajavien autojen tie käy kaupunkien keskustoihin , missä tavallisen kuskit kädet hikeentyvät helposti tielle hyppivien jalankulkijoiden ja pihalta eteen rynnivien autoilijoiden vuoksi .
+Googlen itsestään ajavien autojen hankejohtaja Chris Urmson antoi teknologian kehityksestä päivitettyä tietoa maanantaina .
+Blogikirjoitusta ryydittää video , missä autojen navigointia vaikeissa tilanteissa hahmotetaan tietokonegrafiikan avulla .
+Kaiken kaikkiaan kehitys on ollut vauhdikasta viime vuosina .
+– Meillä on yhä paljon ongelmia ratkaistavana ... mutta tuhannet sellaiset tilanteet kaupunkien kaduilla , jotka olisivat saaneet meidät häkeltymään kaksi vuotta sitten , pystytään nyt navigoimaan itsenäisesti , Urmson hahmottaa .
+Googlen autoprojektissa on alettu painottaa kaupunkiajoa maanteiden sijaan .
+Firma on ajuuttanut kaarojaan kotiseudullaan Mountain View'ssä Kaliforniassa .
+Ohjelmistoa on parannettu erottelemaan satoja erilaisia kohteita yhtä aikaa jalankulkijoista busseihin ja holtittomasti viittilöiviin pyöräilijöihin .
+– Ihmissilmään kaoottiselta ja satunnaiselta vaikuttava kaupunkikatu on itse asiassa melko ennustettava tietokoneelle , Urmson toteaa .
+Liekö pelkkää sattumaa , mutta Google ei tällä kertaa mainostanut autojensa onnettomuusvapaata historiaa tietokoneen ohjauksessa .
+Urmson kertoi vain , että tietokoneet ovat ohjanneet autoja nyt yhteensä melkein 700\_000 mailin eli 1,1 miljoonan kilometrin verran .

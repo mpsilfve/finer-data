@@ -1,0 +1,14 @@
+T1	ORG 0 8	Amazonin
+T2	ORG 56 67	Yhdysvallat
+T3	ORG 86 94	Amazonin
+T4	ORG 182 188	Amazon
+T5	ORG 261 293	Yhdysvaltain ilmailuviranomaisen
+T6	ORG 294 299	FAA:n
+T7	ORG 379 391	The Next Web
+T8	ORG 546 554	Amazonin
+T9	ORG 709 715	Google
+T10	ORG 947 953	Amazon
+T11	ORG 1033 1039	Amazon
+T12	LOC 1076 1088	Yhdysvaltain
+T13	LOC 1246 1260	Yhdysvalloissa
+T100001	LOC 261 273	Yhdysvaltain

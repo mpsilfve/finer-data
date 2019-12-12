@@ -1,0 +1,23 @@
+T1	LOC 7 12	Kiina
+T2	PRO 19 28	Outlookin
+T3	PRO 55 60	Gmail
+T4	PRO 71 78	Outlook
+T5	LOC 95 101	Kiinan
+T6	ORG 130 139	GreatFire
+T7	ORG 160 171	Microsoftin
+T8	PRO 172 197	Outlook-sähköpostipalvelu
+T9	ORG 272 282	GreatFiren
+T10	ORG 362 377	Kiinan hallitus
+T11	PRO 471 481	Outlookiin
+T12	PRO 569 578	Outlookin
+T13	ORG 816 825	GreatFire
+T14	LOC 959 967	Kiinassa
+T15	ORG 1019 1026	Googlen
+T16	PRO 1027 1032	Gmail
+T17	LOC 1050 1058	Kiinassa
+T18	ORG 1064 1073	GreatFire
+T19	PRO 1119 1124	Gmail
+T20	PRO 1189 1196	Gmailin
+T21	PRO 1317 1326	Outlookin
+T22	ORG 1358 1370	The Next Web
+T100001	LOC 362 368	Kiinan

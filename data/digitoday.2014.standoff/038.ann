@@ -1,0 +1,21 @@
+T1	ORG 0 7	Googlen
+T2	ORG 11 18	Lenovon
+T3	ORG 47 53	Google
+T4	ORG 97 104	Lenovon
+T5	ORG 122 129	Lenovon
+T6	ORG 133 140	Googlen
+T7	ORG 167 187	Motorola Mobilitystä
+T8	LOC 217 227	Hongkongin
+T9	ORG 270 277	Googlen
+T10	ORG 336 342	Google
+T11	ORG 364 378	Lenovo Groupin
+T12	DATE 390 404	30. tammikuuta
+T13	ORG 478 484	Lenovo
+T14	ORG 490 508	Motorola Mobilityn
+T15	ORG 509 518	Googlelta
+T16	ORG 574 580	Recode
+T17	ORG 608 614	Google
+T18	ORG 681 687	Lenovo
+T19	ORG 695 704	Motorolan
+T20	DATE 793 806	Tammikuun 30.
+T21	ORG 823 829	Google

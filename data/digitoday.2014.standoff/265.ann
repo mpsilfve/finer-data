@@ -1,0 +1,24 @@
+T1	ORG 63 70	Samsung
+T2	ORG 73 80	jaNokia
+T3	PRO 81 90	Lumioiden
+T4	ORG 174 190	Juniper Research
+T5	DATE 314 325	vuonna 2018
+T6	DATE 328 339	Vuonna 2013
+T7	ORG 441 450	Juniperin
+T8	LOC 508 516	Aasiassa
+T9	LOC 519 531	Etelä-Korean
+T10	LOC 535 541	Kiinan
+T11	PRO 634 641	Android
+T12	PRO 645 652	Windows
+T13	ORG 696 703	Samsung
+T14	ORG 730 735	Nokia
+T15	ORG 738 745	Juniper
+T16	PRO 759 775	Lumia-phabletien
+T17	ORG 878 887	Samsungin
+T18	PRO 888 903	Note-laitteiden
+T19	ORG 1030 1036	Applen
+T20	ORG 1084 1090	Nokian
+T21	ORG 1139 1152	Microsoftille
+T22	ORG 1180 1186	Nokian
+T23	PRO 1199 1210	Lumia 1520-
+T24	PRO 1214 1236	Lumia 1320 - phabletit

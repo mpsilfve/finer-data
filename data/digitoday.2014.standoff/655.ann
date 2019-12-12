@@ -1,0 +1,28 @@
+T1	PER 53 62	Snowdenin
+T2	LOC 76 88	Yhdysvaltain
+T3	PER 150 166	Edward Snowdenin
+T4	LOC 225 237	Yhdysvaltain
+T5	PER 281 295	Edward Snowden
+T6	LOC 336 348	Yhdysvaltain
+T7	LOC 352 366	Iso-Britannian
+T8	ORG 474 492	BuzzFeed -sivuston
+T9	PER 565 576	Snowdenista
+T10	ORG 641 674	Yhdysvaltain puolustusministeriön
+T11	ORG 675 685	Pentagonin
+T12	ORG 888 893	NSA:n
+T13	LOC 908 922	Yhdysvalloissa
+T14	PER 964 973	Snowdenia
+T15	ORG 1019 1037	The New York Times
+T16	PER 1141 1150	Snowdenia
+T17	ORG 1264 1276	BuzzFeedille
+T18	PER 1279 1286	Snowden
+T19	ORG 1337 1360	Booz Allen Hamiltonille
+T20	PER 1462 1469	Snowden
+T21	LOC 1525 1537	Yhdysvaltain
+T22	PER 1550 1562	Barack Obama
+T23	PER 1603 1608	Obama
+T100001	LOC 641 653	Yhdysvaltain
+T100002	LOC 1023 1031	New York
+T100003	PER 1337 1341	Booz
+T100004	PER 1342 1347	Allen
+T100005	PER 1348 1360	Hamiltonille

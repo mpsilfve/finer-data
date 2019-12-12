@@ -1,0 +1,35 @@
+T1	ORG 0 5	Apple
+T2	PRO 64 75	Google Play
+T3	ORG 83 89	Applen
+T4	PRO 90 100	App Storen
+T5	DATE 126 137	vuonna 2014
+T6	ORG 140 147	Googlen
+T7	PRO 207 219	App Storessa
+T8	ORG 246 252	Applen
+T9	PRO 297 317	iPhone-älypuhelimiin
+T10	PRO 321 345	iPad-taulutietokoneisiin
+T11	ORG 430 439	Googlelle
+T12	PRO 455 466	Google Play
+T13	ORG 519 525	Applea
+T14	ORG 561 567	Google
+T15	ORG 619 624	Apple
+T16	ORG 648 656	Amazonin
+T17	ORG 856 862	Amazon
+T18	ORG 935 951	appFigures.comin
+T19	ORG 995 1017	appFigures.comin comin
+T20	PER 1028 1042	Ariel Michaeli
+T21	ORG 1049 1078	Christian Science Monitorille
+T22	PRO 1086 1097	Google Play
+T23	PRO 1110 1120	App Storen
+T24	PRO 1204 1217	Play-kauppaan
+T25	ORG 1226 1231	Apple
+T26	ORG 1330 1336	Applen
+T27	PER 1386 1395	Michaelin
+T28	ORG 1403 1408	Apple
+T29	ORG 1412 1418	Google
+T30	ORG 1451 1457	Applen
+T31	ORG 1519 1525	Google
+T32	PRO 1529 1543	Play-kauppansa
+T100001	ORG 64 70	Google
+T100002	ORG 455 461	Google
+T100003	ORG 1086 1092	Google

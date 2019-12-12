@@ -1,0 +1,22 @@
+T1	ORG 56 77	Marriott-hotelliketju
+T2	ORG 84 117	Yhdysvaltain viestintäkomissiolta
+T3	ORG 172 194	Marriott International
+T4	ORG 198 240	American Hospitality & Lodging Association
+T5	ORG 256 277	Marriott-hotelliketju
+T6	ORG 284 314	Yhdysvaltain viestintäkomissio
+T7	ORG 315 322	FCC:lle
+T8	DATE 447 457	Lokakuussa
+T9	ORG 458 511	Marriottin Gaylord Opryland Hotel & Convention Center
+T10	ORG 977 987	Marriottin
+T11	ORG 1195 1201	Google
+T12	ORG 1205 1214	Microsoft
+T13	ORG 1265 1276	Microsoftin
+T14	ORG 1284 1294	Marriottin
+T15	ORG 1772 1782	The Vergen
+T16	ORG 1953 1968	Kaspersky Labin
+T17	DATE 1969 1981	marraskuussa
+T100001	LOC 84 96	Yhdysvaltain
+T100002	LOC 284 296	Yhdysvaltain
+T100003	PER 458 468	Marriottin
+T100004	PER 469 476	Gaylord
+T100005	PER 1953 1962	Kaspersky

@@ -1,0 +1,35 @@
+Näin ilmaispelaaja saadaan koukkuun — ja maksamaan
+Peliyhtiöt voivat seurata pelaajien toimintaa ja edistymistä analyysiohjelmistoilla .
+Tavoitteena ovat viihdyttävämmät pelit — ja suuremmat voitot .
+Puhelimeen ilmaiseksi ladattavien pelien kehittäjät seuraavat pelaajien edistymistä tarkoitusta varten tehdyillä ohjelmistoilla .
+Pelianalytiikasta on tullut yksi pelinkehittäjien perustyökaluista .
+Analytiikka voi ratkaista pelin kohtalon jo ennen sen julkaisua .
+— Aikaisessa vaiheessa pystyy tietämään , onko peli kiinnostava markkinoilla vai ei .
+Paras mittari on se , kuinka monet pelaajat palaavat peliin ensimmäisen kokeilun jälkeen , kertoo Joakim Achrén Next Games -peliyhtiöstä .
+— Jos pelillä ei ole mitään vetoa , niin voi lopettaa pelin kehittämisen .
+Pelin tekeminen siinä on aika samanlaista kuin tuotekehitys millä tahansa teollisuuden alalla .
+Kaikki mahdolliset yllätykset halutaan tunnistaa ennen julkaisua .
+Analytiikalla voidaan etsiä ostajia ja vaikuttajia
+Pelianalytiikkaa käyttävät varsinkin peliyhtiöt , joiden pelit voi ladata puhelimeen ilmaiseksi , mutta niissä voi tehdä pelin sisäisiä ostoja , aiemmin Supercell-yhtiössä työskennellyt Achrén kertoo .
+Pelinkehittäjille on tärkeää , että peli pitää otteessaan , ja saa pelaajat mahdollisesti jatkossa myös käyttämään siihen rahaa .
+— Yksi tärkeä alue on eri pelaajatyyppien tunnistaminen , kertoo Alex Arias , pelianalytiikkaohjelmistoa kehittävän Omniata-yhtiön perustaja ja toimitusjohtaja .
+— Jotkut pelaajat kiinnostuvat tietystä pelistä paljon enemmän kuin toiset .
+Heidät halutaan tunnistaa , ja mitä arvoa heillä on .
+Pelaajan tyypistä kertovat esimerkiksi pelikertojen pituus ja yleisyys , minä kellonaikoina tai viikonpäivinä peliä pelataan .
+Lisäksi pelinkehittäjiä voi kiinnostaa se , jakaako pelaaja pelitapahtumia esimerkiksi Facebookissa tai kutsuuko ystäviään mukaan pelaamaan .
+Tietyt pelaajat saattavat olla peliyhtiölle tärkeitä sosiaalisuutensa takia , vaikka he eivät juuri kuluttaisikaan rahaa pelissä tarjottuihin lisäominaisuuksiin .
+— Heille voidaan esimerkiksi tarjota pelissä erilaisia ominaisuuksia tai sisältöjä , koska heillä on vaikutusvaltaa , Arias sanoo .
+Pelaajille voidaan myös tarjota erilaisia tuotteita riippuen siitä , miten paljon he ovat aiemmin tehneet pelin sisäisiä ostoksia .
+— Paljon rahaa kuluttavalle kannattaa tarjota erilaisia asioita kuin sellaiselle , joka ei ole käyttänyt pelissä lainkaan rahaa .
+Ariasin mukaan pelianalytiikan ja pelaajatyyppien erottelun avulla peli voidaan pitää mielenkiintoisena erilaisille pelaajille .
+Liian tylsä kohta saatetaan päivittää
+Peliyhtiöt haluavat pitää pelit viihdyttävänä .
+Kehittäjät haluavat tietää syyn , jos merkittävä pelaaja lopettaa tietyssä kohtaa .
+Achrénin mukaan kokeneet pelinkehittäjät huomaavat pahimmat ongelmat yleensä itse pelatessaan kehitteillä olevaa peliä .
+Hiomista voidaan jatkaa niin sanotulla " pehmeällä julkaisulla " , jossa peli julkaistaan rajatulle kohderyhmälle , esimerkiksi vain yhdessä maassa .
+— Jos pelaaja esimerkiksi lopettaa pelaamisen kolmen viikon jälkeen , niin voidaan selvittää syitä , miksi pelaaja lopetti tietyssä vaiheessa .
+Voi olla , että peli muuttuu itseään toistavaksi tai siinä ei ole pelaajalle edistymisen tunnetta .
+Silloin peliä voidaan siltä kohdalta muuttaa .
+Vaikean kohdan tunnistaa lopettajien määrän lisäksi siitä , kuinka kauan tai monta kertaa siitä yritetään päästä läpi ennen onnistumista .
+Achrénin mukaan pelianalytiikka on kehittäjille kuitenkin vain tukitoimi , jonka avulla voi löytää nopeammin vastauksia vaikeisiin kysymyksiin .
+— Pelien menestyksen takana ovat hyvät pelinsuunnittelijat , Achrén sanoo .

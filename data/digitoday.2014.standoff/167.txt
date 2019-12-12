@@ -1,0 +1,10 @@
+Kosketeltava Office saapui kokeiltavaksi Windows 10:lle
+Kolme sovellusta on ladattavissa — ainakin teoriassa .
+Microsoft helpotti juuri Windows 10:n kokeilua ja sen lisäksi yhtiö alkoi tarjota suosittuja Office-sovelluksia testattavaksi siinä .
+Kyse on Universal Office apps for Windows 10:stä , eli Wordin , Excelin ja PowerPointin versioista , jotka on suunniteltu kosketusnäyttöjä ja mobiilia käyttöä ajatellen .
+Toistaiseksi sovellukset toimivat Windows 10:tä ajavissa pöytä-pc:issä ja kannettavissa ja ehkä myös tableteissa .
+Microsoft nimittäin listaa tabletit sekä niihin laitteisiin , joissa Office-sovellukset toimivat heti ja niihin , joihin sovellukset tulevat myöhemmin .
+Puhelinten vuoro ei kuitenkaan ole ihan vielä .
+Microsoft odottaa kokeilun laajenevan Windows 10 -puhelimiin tulevien viikkojen aikana .
+Jos Windows 10 Technical Preview on jo käytössä , Office-sovelluksia voi etsiä uudesta Windows Store Beta -kaupasta .
+Mutta Microsoft huomauttaa joillakin olleen ongelmia sovellusten latauksessa , ja korjausta oltiin tekemässä keskiviikkona .

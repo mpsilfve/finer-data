@@ -1,0 +1,17 @@
+T1	PER 0 12	Zuckerbergin
+T2	ORG 70 80	Facebookin
+T3	PER 97 112	Mark Zuckerberg
+T4	ORG 224 234	Facebookin
+T5	PER 271 286	Mark Zuckerberg
+T6	PER 507 518	Zuckebergiä
+T7	ORG 729 735	Applen
+T8	PER 747 759	Steve Jobsin
+T9	ORG 866 873	Googlen
+T10	PER 887 897	Larry Page
+T11	PER 901 912	Sergei Brin
+T12	PER 927 939	Zuckerbergin
+T13	PER 1162 1172	Zuckerberg
+T14	ORG 1183 1193	Facebookia
+T15	ORG 1227 1238	Bloombergin
+T16	ORG 1352 1362	Facebookin
+T17	DATE 1425 1448	vuoden 2012 toukokuussa

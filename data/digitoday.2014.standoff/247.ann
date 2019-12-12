@@ -1,0 +1,19 @@
+T1	PRO 0 11	Apple Watch
+T2	PRO 46 57	Apple Watch
+T3	ORG 164 187	The Wall Street Journal
+T4	PRO 203 216	Apple Watchin
+T5	DATE 442 453	huhtikuussa
+T6	ORG 456 481	The Wall Street Journalin
+T7	ORG 521 527	DexCom
+T8	PRO 548 562	Apple Watchiin
+T9	ORG 646 654	DexComin
+T10	LOC 775 789	Yhdysvalloissa
+T11	ORG 819 822	FDA
+T12	ORG 1004 1009	Apple
+T13	ORG 1032 1039	WSJ:lle
+T100001	ORG 0 5	Apple
+T100002	ORG 46 51	Apple
+T100003	LOC 168 179	Wall Street
+T100004	ORG 203 208	Apple
+T100005	LOC 460 471	Wall Street
+T100006	ORG 548 553	Apple

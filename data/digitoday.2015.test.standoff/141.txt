@@ -1,0 +1,9 @@
+Wikipedia pääsi pälkähästä Venäjällä
+Venäjä perui tietosanakirja Wikipedian eston tiistaina .
+Kuin Redditin kohdalla äskettäin , myös Wikipedia pääsi nopeasti irti Venäjällä määrätystä sensuurista .
+Tiistaina mediasääntelijä Roskomnadzor peruutti Wikipedia-kiellon , joka oli johtunut palvelussa olevasta huumeartikkelista .
+Kiellon peruuttamisesta uutisoi muun muassa kiovalainen Kyiv Post -lehti ( maksumuuri ) , joka nojaa Roskomnadzorin tiedotteeseen asiasta .
+Wikipedian sallimista perustellaan sillä , että kyseistä Wikipedia-artikkelia muokattiin lainmukaiseksi .
+Siksi artikkeli poistettiin kielletyn informaation listalta .
+Monet internet-operaattorit eivät olisi voineet estää yksittäisiä sivuja , koska Wikipedia käyttää https-osoitetta .
+Siksi uhkana oli palvelun totaalikielto .

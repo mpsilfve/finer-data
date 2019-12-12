@@ -1,0 +1,9 @@
+T1	ORG 54 71	Suomen pelimuseon
+T2	PRO 111 121	Mesenaatin
+T3	LOC 144 155	Tampereelle
+T4	ORG 165 181	Suomen pelimuseo
+T5	PRO 463 482	Pong-peliautomaatti
+T6	PRO 485 508	Twilight Zone -flipperi
+T7	PRO 512 525	Lohikäärmepuu
+T100001	LOC 54 60	Suomen
+T100002	LOC 165 171	Suomen

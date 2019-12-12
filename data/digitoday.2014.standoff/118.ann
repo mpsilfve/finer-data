@@ -1,0 +1,30 @@
+T1	ORG 10 14	Sony
+T2	ORG 61 68	Sonylla
+T3	ORG 156 160	Sony
+T4	PRO 206 233	Playstation 4 -pelikonsolia
+T5	DATE 264 268	2013
+T6	ORG 371 376	Sonyn
+T7	PRO 394 397	PS4
+T8	ORG 407 412	Sonyn
+T9	PRO 413 434	Playstation-malliston
+T10	ORG 615 622	Sonylla
+T11	PRO 661 674	PS4-konsolien
+T12	PRO 686 699	Pleikkareiden
+T13	ORG 764 769	Sonyn
+T14	PRO 770 799	Playstation Network -palvelun
+T15	ORG 827 838	Microsoftin
+T16	PRO 839 848	Xbox Live
+T17	PRO 851 859	Xboxista
+T18	ORG 875 893	The New York Times
+T19	PRO 924 929	PS4:n
+T20	PRO 945 954	Xbox Onea
+T21	PRO 979 985	PS4:ää
+T22	DATE 994 1006	marraskuussa
+T23	LOC 1007 1021	Yhdysvalloissa
+T24	PRO 1024 1033	Xbox Onea
+T25	PRO 1129 1138	Xbox Onen
+T26	PRO 1154 1159	PS4:n
+T27	ORG 1178 1183	Sonyn
+T28	ORG 1200 1215	Sony Picturesin
+T29	PRO 1239 1262	The Interview -elokuvan
+T100001	LOC 879 887	New York

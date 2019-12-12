@@ -1,0 +1,29 @@
+T1	ORG 0 4	Nasa
+T2	LOC 17 26	Venäjästä
+T3	ORG 55 83	Yhdysvaltain avaruushallinto
+T4	LOC 111 118	Venäjää
+T5	ORG 124 147	Yhdysvaltain kongressia
+T6	ORG 183 188	Nasan
+T7	ORG 347 352	Nasan
+T8	LOC 434 442	Venäjään
+T9	EVENT 443 457	Krimin kriisin
+T10	ORG 494 498	Nasa
+T11	ORG 526 549	Yhdysvaltain kongressin
+T12	ORG 563 570	Nasalla
+T13	ORG 746 750	Nasa
+T14	LOC 830 838	Amerikan
+T15	LOC 880 888	Venäjään
+T16	PER 929 935	Obaman
+T17	LOC 1127 1141	Yhdysvaltoihin
+T18	LOC 1246 1258	Yhdysvaltain
+T19	DATE 1300 1311	vuonna 2017
+T20	PER 1474 1480	Obaman
+T21	LOC 1513 1523	Amerikkaan
+T22	ORG 1570 1574	Nasa
+T23	ORG 1677 1701	Venäjän avaruushallinnon
+T24	ORG 1702 1713	Roskosmosin
+T100001	LOC 55 67	Yhdysvaltain
+T100002	LOC 124 136	Yhdysvaltain
+T100003	LOC 443 449	Krimin
+T100004	LOC 526 538	Yhdysvaltain
+T100005	LOC 1677 1684	Venäjän

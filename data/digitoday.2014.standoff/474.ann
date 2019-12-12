@@ -1,0 +1,24 @@
+T1	ORG 0 8	NY Times
+T2	PRO 11 22	Angry Birds
+T3	ORG 30 37	NSA:lle
+T4	PER 38 54	Edward Snowdenin
+T5	PRO 141 159	Angry Birds -pelin
+T6	LOC 169 181	Yhdysvaltain
+T7	ORG 182 185	NSA
+T8	ORG 353 367	New York Times
+T9	PER 395 411	Edward Snowdenin
+T10	ORG 436 441	NSA:n
+T11	ORG 513 519	Rovion
+T12	PRO 535 553	Angry Birds -pelin
+T13	ORG 608 611	NSA
+T14	LOC 615 625	Britannian
+T15	DATE 685 698	vuodesta 2007
+T16	PRO 962 972	Facebookin
+T17	PRO 975 983	Flickrin
+T18	PRO 986 996	Linkedinin
+T19	PRO 999 1008	Twitterin
+T20	ORG 1051 1057	Rovion
+T21	ORG 1073 1091	New York Timesille
+T100001	LOC 0 2	NY
+T100002	LOC 353 361	New York
+T100003	LOC 1073 1081	New York

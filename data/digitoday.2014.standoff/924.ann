@@ -1,0 +1,13 @@
+T1	ORG 0 5	Tulli
+T2	ORG 76 81	Tulli
+T3	ORG 171 183	Suomen Tulli
+T4	LOC 263 293	Helsinki-Vantaan lentokentällä
+T5	DATE 308 312	2014
+T6	LOC 341 353	Hongkongista
+T7	ORG 373 377	EU:n
+T8	ORG 487 493	Tullin
+T9	ORG 547 556	Samsungin
+T10	ORG 560 566	Applen
+T11	ORG 651 657	Tullin
+T12	ORG 1158 1163	Tulli
+T100001	LOC 171 177	Suomen

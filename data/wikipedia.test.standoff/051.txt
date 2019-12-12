@@ -1,0 +1,19 @@
+Eukleideen algoritmi
+Eukleideen algoritmin on keino , jonka avulla voidaan selvittää kahden kokonaisluvun suurin yhteinen tekijä ( syt ) .
+Algoritmi perustuu jakoyhtälön perättäiseen käyttöön .
+Eukleideen algoritmi etenee seuraavasti : Olkoot luvut a ja b kokonaislukuja ja b erisuuri kuin nolla .
+Käyttämällä toistuvasti jakoyhtälöä saadaan : Algoritmi päättyy , koska luvut r , r , ... ,r muodostavat aidosti vähenevän jonon positiivisia kokonaislukuja .
+Viimeinen jakojäännös r jakaa ( tasan ) luvut a ja b : Alimmasta yhtälöstä r jakaa luvun r .
+Koska formula_9 , niin r jakaa luvun r Näin jatkamalla saadaan lopulta , että r jakaa b:n ja a:n .
+Jos luvuilla a ja b on yhteinen tekijä c , ts. sanoen a ja b ovat tasan jaollisia luvulla c , c jakaa luvun r , r , ... yllä olevien yhtälöiden nojalla .
+Näin siis c jakaa luvun r , joka on siten yhteisistä tekijöistä suurin .
+Määritetään lukujen 112 ja 408 suurin yhteinen tekijä eli syt ( 112 , 408 ) .
+Määritetään lukujen suurin yhteinen tekijä Eukleideen algoritmin avulla : Lukujen 112 ja 408 suurin yhteinen tekijä on siis kahdeksan eli syt ( 112 , 408 ) 8 .
+Kiinalaiset suorittivat saman algoritmin helmitaulussa seuraavasti : Vähennä toistuvasti pienempi luku suuremmasta .
+Kun luvut ovat keskenään yhtä suuret , algoritmi päättyy ja kyseinen luku on suurin yhteinen tekijä .
+Esimerkki etsitään syt ( 15 , 25 ) .
+25 = 1 * 15 + 10 .
+15 = 1 * 10 + 5 .
+10 = 2 * 5 + 0 .
+eli syt ( 15 , 25 ) = 5 .
+" Kiinalaisittain " :

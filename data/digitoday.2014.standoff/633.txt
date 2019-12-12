@@ -1,0 +1,11 @@
+Apple turvautui päivityksen pakkosyöttöön — syynä äsken paljastunut aukko
+Apple löysi vihdoin käyttöä kaksi vuotta vanhalle järjestelmälleen automaattisten päivitysten toimittamiseksi .
+Apple alkoi jakaa automaattista tietoturvapäivitystä Mac-tietokoneisiin .
+Päivitys korjaa Applen osalta vakavia haavoittuvuuksia NTP-protokollasta , jota käytetään internetiin kytkettyjen laitteiden pitämiseksi oikeassa ajassa .
+NTP-aukot tulivat julkisiksi viikonloppuna .
+Hyökkäyksiä ei ole vielä nähty , mutta aukot mahdollistavat tietokoneiden kaappaamisen etäältä .
+Päivityksen jakeluun Apple käyttää automaattista järjestelmää , jonka se pystytti jo kaksi vuotta sitten , mutta jota se ei ollut käyttänyt kertaakaan ennen tätä hetkeä .
+Syynä on aukkojen vakavuus .
+Yleensä Applen päivitykset edellyttävät käyttäjän vuorovaikutusta asentuakseen .
+NTP:n aukot ovat huomattavasti Applea laajempi ongelma ja koskevat lukuisia eri valmistajia ja ohjelmistoja .
+Uutistoimisto Reutersin mukaan Apple ei tiedä aukkoja käytetyn Mac-tietokoneita vastaan .

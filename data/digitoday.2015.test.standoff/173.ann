@@ -1,0 +1,21 @@
+T1	PER 0 15	Hillary Clinton
+T2	ORG 67 90	Demokraattisen puolueen
+T3	PER 118 133	Hillary Clinton
+T4	ORG 233 253	Republikaanipuolueen
+T5	PER 304 321	Hillary Clintonia
+T6	PER 470 479	Clintonin
+T7	PER 621 630	Clintonin
+T8	ORG 688 702	Republikaanien
+T9	PER 764 773	Clintonin
+T10	ORG 795 800	CNN:n
+T11	PER 908 917	Clintonin
+T12	PER 1244 1251	Clinton
+T13	PER 1492 1499	Clinton
+T14	PER 1589 1596	Clinton
+T15	ORG 1810 1829	Demokraattipuolueen
+T16	PER 1850 1859	Clintonin
+T17	PER 1883 1897	Bernie Sanders
+T18	LOC 1967 1979	Washingtonin
+T19	LOC 1994 2002	Amerikan
+T20	ORG 2110 2124	Republikaanien
+T21	PER 2179 2186	Clinton

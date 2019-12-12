@@ -1,0 +1,14 @@
+Katosiko tärkeä viesti ?
+Gmail saattoi laittaa sen roskakoriin
+Googlen ongelmat eivät rajoittuneet viikonlopun laajaan palvelukatkokseen .
+Gmail saattoi myös ymmärtää väärin , mitkä postit ovat roskaa .
+Google on tiedottanut joillekin Gmail-sähköpostipalvelun käyttäjilleen nolosta ongelmasta .
+Palvelu saattoi joissain tapauksissa viime viikolla siirtää asiallisia sähköposteja roskakoriin tai luokitella ne roskapostiksi .
+Virheitä tapahtui , kun käyttäjät käsittelivät viestejään .
+Kun käyttäjä poisti viestin tai merkitsi sen roskapostiksi , Gmail saattoi tehdä muutokset vääriin viesteihin , muun muassa Cnet News.com kertoo .
+Google on korjannut bugin , mutta käyttäjien on kuitenkin syytä tarkistaa , ettei tärkeitä viestejä ole eksynyt vääriin paikkoihin .
+Ongelma saattoi ilmetä aikavälillä 15. – 22. tammikuuta ja se kosketti Googlen mukaan lähinnä iOS-ympäristön Gmailia tai palvelun käyttöä mobiiliselaimilla .
+Viikonloppuna Google joutui selvittämään käyttäjilleen huomattavan laajaa palvelukatkoa , joka koski Gmailin lisäksi yli kymmentä muuta sen verkkopalvelua .
+Silloinkin syypää oli ohjelmistobugi .
+Nyt korjattu virhe näyttää olevan erillinen kolmannesta Gmail-pulmasta , joka kiusasi joitakin käyttäjiä viime viikolla .
+Erikoinen ongelma lisäsi sähköposteihin ei-toivottuja vastaanottajia ja lähetti ainakin yhdelle käyttäjälle tuhansia roskaposteja .

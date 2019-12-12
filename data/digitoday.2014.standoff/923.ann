@@ -1,0 +1,23 @@
+T1	LOC 51 63	Yhdysvaltain
+T2	LOC 88 100	Yhdysvaltain
+T3	ORG 211 218	Tencent
+T4	PRO 292 313	WeChat-viestisovellus
+T5	LOC 321 333	Yhdysvaltain
+T6	PRO 384 394	WeChatissa
+T7	ORG 580 603	The Wall Street Journal
+T8	PRO 649 659	WeChatissa
+T9	ORG 771 780	Tencentin
+T10	LOC 788 800	Yhdysvaltain
+T11	PER 929 954	Martin Luther King Jr.:ää
+T12	ORG 957 964	Tencent
+T13	LOC 1043 1055	Yhdysvaltain
+T14	LOC 1095 1110	Manner-Kiinassa
+T15	LOC 1115 1127	Hongkongissa
+T16	LOC 1130 1142	Yhdysvaltain
+T17	LOC 1259 1267	Kiinassa
+T18	LOC 1430 1442	Yhdysvaltain
+T19	LOC 1514 1526	Yhdysvaltain
+T20	LOC 1555 1563	Kiinassa
+T21	PRO 1566 1572	WeChat
+T22	LOC 1635 1644	Venäjällä
+T100001	LOC 584 595	Wall Street

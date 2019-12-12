@@ -1,0 +1,21 @@
+T1	ORG 11 20	Microsoft
+T2	ORG 78 89	Microsoftin
+T3	PRO 102 108	Bingin
+T4	ORG 166 178	The Register
+T5	ORG 204 213	Microsoft
+T6	LOC 263 269	Kiinan
+T7	ORG 406 425	The Guardian -lehti
+T8	ORG 467 478	Microsoftin
+T9	PRO 479 492	Bing-hakukone
+T10	LOC 524 532	Kiinalle
+T11	ORG 621 643	Falun Gong -liikkeestä
+T12	LOC 648 674	Taivaallisen rauhan aukion
+T13	LOC 782 788	Kiinan
+T14	ORG 804 811	Googlea
+T15	ORG 876 887	Microsoftin
+T16	PRO 972 978	Bingin
+T17	PRO 1014 1018	Bing
+T18	LOC 1030 1036	Kiinan
+T19	LOC 1261 1267	Kiinan
+T20	PER 1296 1308	Stefan Weitz
+T21	ORG 1318 1334	The Registerille

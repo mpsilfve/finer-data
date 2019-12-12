@@ -1,0 +1,20 @@
+T1	LOC 0 10	Kalifornia
+T2	LOC 48 61	Kaliforniassa
+T3	LOC 215 226	Kalifornian
+T4	LOC 236 247	Kalifornian
+T5	PER 270 280	Jerry Hill
+T6	LOC 589 599	Kalifornia
+T7	PER 866 872	Hillin
+T8	LOC 880 888	Arizonan
+T9	LOC 891 901	Louisianan
+T10	LOC 904 915	New Mexicon
+T11	LOC 919 927	Oregonin
+T12	DATE 1045 1056	Vuonna 2011
+T13	ORG 1071 1121	Centers for Disease Control and Prevention -laitos
+T14	LOC 1281 1294	Kaliforniassa
+T15	DATE 1309 1320	vuonna 2010
+T16	LOC 1557 1570	Kaliforniassa
+T17	DATE 1574 1585	vuonna 2013
+T18	ORG 1661 1684	San Jose Mercury Newsin
+T19	DATE 1722 1734	vuoteen 2015
+T100001	LOC 1661 1669	San Jose

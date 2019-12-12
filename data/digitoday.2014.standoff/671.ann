@@ -1,0 +1,36 @@
+T1	ORG 24 30	Yahoon
+T2	PER 31 36	Mayer
+T3	ORG 63 69	Yahoon
+T4	PER 149 164	Marissa Mayerin
+T5	ORG 198 204	Recode
+T6	ORG 222 228	Yahoon
+T7	PER 240 253	Marissa Mayer
+T8	PER 301 322	Henrique de Castrolle
+T9	PER 338 345	Mayerin
+T10	ORG 403 409	Recode
+T11	PER 489 508	Henrique de Castron
+T12	PER 547 556	Henriquen
+T13	PER 611 616	Mayer
+T14	ORG 629 638	Googlesta
+T15	PER 648 657	de Castro
+T16	PER 694 701	Mayerin
+T17	ORG 718 724	Yahoon
+T18	PER 774 779	Mayer
+T19	PER 787 797	de Castroa
+T20	PER 856 865	Henriquen
+T21	ORG 1001 1010	Yahooseen
+T22	PER 1079 1084	Mayer
+T23	PER 1098 1107	de Castro
+T24	PER 1121 1139	Henrique de Castro
+T25	ORG 1148 1156	Yahoossa
+T26	PER 1384 1389	Mayer
+T27	ORG 1468 1491	Wall Street Journalille
+T28	PER 1500 1509	de Castro
+T29	ORG 1534 1540	Yahoon
+T30	PER 1619 1626	Mayerin
+T31	PER 1683 1698	Marissa Mayerin
+T32	ORG 1766 1771	Yahoo
+T33	PER 1849 1856	Mayerin
+T34	PER 1878 1887	De Castro
+T35	ORG 1928 1936	Yahoosta
+T100001	LOC 1468 1479	Wall Street

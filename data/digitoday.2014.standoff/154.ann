@@ -1,0 +1,23 @@
+T1	ORG 0 7	Canalys
+T2	PRO 10 14	XP:n
+T3	PRO 30 41	Windows 8:n
+T4	PRO 94 107	Windows 8:lle
+T5	ORG 198 205	Canalys
+T6	ORG 249 255	Applen
+T7	PRO 273 279	iPadin
+T8	ORG 315 328	Microsoftille
+T9	PRO 471 484	Windows 7:ään
+T10	PRO 512 524	Windows XP:n
+T11	DATE 542 553	huhtikuussa
+T12	PRO 615 632	XP-järjestelmiään
+T13	PRO 661 674	Windows 8:lle
+T14	PRO 801 810	Windows 7
+T15	ORG 813 822	Canalysin
+T16	ORG 1069 1076	Canalys
+T17	PRO 1088 1098	Windows XP
+T18	PRO 1208 1219	Windowsiaan
+T19	ORG 1255 1266	Microsoftin
+T20	PRO 1348 1362	Windows XP:ssä
+T21	ORG 1480 1493	Microsoftille
+T22	PRO 1537 1551	Windows XP:llä
+T23	PRO 1660 1671	Windows 8:n

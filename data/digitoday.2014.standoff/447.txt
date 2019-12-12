@@ -1,0 +1,14 @@
+Microsoftin korjaukset : Ei mitään kriittistä , mutta älä kävele ohi
+Microsoft aloitti tietoturvavuotensa varsin kevyesti tarjoten asennettavaksi vain neljä päivitystä .
+Yksikään tammikuun tietoturvapäivityksistä ei ole edes kriittinen eli korkein Microsoftin luokituksessa , vaan kaikki neljä ovat askelta lievempiä eli tärkeitä .
+Siltikin on syytä painottaa , että yksi päivityksistä korjaa hyökkäyksissä jo hyvän aikaa hyväksikäytetyn haavoittuvuuden Windowsin ytimestä .
+Kyseinen päivitys MS14-002 puuttuu vihdoin jo marraskuussa havaittuun ja niin sanottuun nollapäivän haavoittuvuuteen .
+Se tarkoittaa , että ongelma ehti rikollisten käsiin ennen korjausta .
+Haavoittuvuus on vain Windows XP:ssä ja Windows Server 2003:ssa , mutta ensiksi mainittu on edelleen hyvin laajassa käytössä .
+Microsoft ei katsonut korjaustaan kuitenkaan kriittiseksi , koska hyökkäykseen tarvitaan myös toisen ohjelmistotalon Adoben haavoittuvuutta , joka majaili pdf-tiedostoja esittävässä Reader-ohjelmassa .
+Adobe oli paikannut aukon jo ennen hyökkäysten ilmaantumista , joten vaarassa olivat vain vanhan version käyttäjät .
+Tammikuun kolme muuta päivitystä korjaavat muun muassa toisen ongelman Windowsin ytimestä sekä Dynamics AX - ja Office-ohjelmistojen haavoittuvuuksia .
+Näitä ongelmia ei tiedetä käytetyn hyökkäyksissä .
+Microsoft myös siisti hieman aikaisempia tietoturvapäivityksiään julkaisemalla esimerkiksi uusiksi viime vuoden päivityksen MS13-081 Windows 7 Service Pack 1:lle ( SP1 ) ja Windows Server 2008 R2 SP1:lle .
+Alkuperäinen päivitys lokakuulta saattoi joissain tapauksissa aiheuttaa yhteensopivuusongelmia .
+Suomen Kyberturvallisuuskeskus on reagoinut Microsoftin päivityksiin nopeasti ja antaa niistä yleiskatsauksen .

@@ -1,0 +1,14 @@
+Pidä huolta pankkitunnuksistasi !
+Huijaussivua jopa huvittavan vaikea erottaaaidosta
+Jos huijaussivun ohjeita noudattaisi , huijaukselta välttyisi varmasti .
+Viestintävirasto yhtyy Nordean äskettäiseen varoitukseen pankkitunnusten kalastelusta sähköposteilla .
+Viraston mukaan huijausviestejä ja -sivustoja on viime päivinä raportoitu runsaasti .
+Virasto työskentelee internet-resursseja tarjoavien yritysten kanssa , jotta tietoon saadut huijaussivut saataisiin kytkettyä pois internetistä .
+Kuten usein on tapana , uhreja juksataan aidon näköisellä verkkopankin kirjautumissivulla .
+Viimeisimmässä ( kin ) kampanjassa huijaussivu on kopioitu yksi yhteen Nordean oikealta sivulta .
+Tässä piilee sellainen omituisuus , että huijaussivulla on myös Nordean kehotus tarkistaa verkkosivun aitous osoiteriviltä .
+Jos tämän tekee , huijauksen pitäisi paljastua .
+Tosin tällä hetkellä Nordean sivuja koristaa vielä näkyvästi varoitus siitä , että huijausviestejä on liikkeellä .
+Tätä varoitusta ei ainakaan Viestintäviraston esimerkkikuvassa sentään ole .
+Itse verkkosivun sijaan tulee siis kiinnittää huomiota nimenomaan verkkoselaimen osoiteriviin .
+Tässäkin huijauksessa osoite poikkeaa huomattavan paljon siitä , mitä aidolta Nordean osoitteelta voisi odottaa .

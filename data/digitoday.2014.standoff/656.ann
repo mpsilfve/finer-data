@@ -1,0 +1,23 @@
+T1	PER 0 7	Snowden
+T2	ORG 117 133	The New Yorkerin
+T3	ORG 151 175	Yhdysvaltain hallituksen
+T4	LOC 217 226	Venäjällä
+T5	PER 246 260	Edward Snowden
+T6	ORG 310 333	Yhdysvaltain kongressin
+T7	PER 357 366	Snowdenin
+T8	PER 423 430	Snowden
+T9	ORG 653 671	The New Yorkerille
+T10	LOC 700 709	Venäjälle
+T11	LOC 773 783	Moskovassa
+T12	PER 786 795	Snowdenin
+T13	LOC 826 835	Venäjälle
+T14	LOC 844 855	Yhdysvallat
+T15	PER 924 931	Snowden
+T16	LOC 962 987	Latinalaisesta Amerikasta
+T17	LOC 1072 1080	Bolivian
+T18	PER 1130 1139	Snowdenin
+T19	PER 1185 1194	Snowdenia
+T20	PER 1355 1369	Edward Snowden
+T21	PER 1412 1421	Snowdenin
+T100001	LOC 151 163	Yhdysvaltain
+T100002	LOC 310 322	Yhdysvaltain

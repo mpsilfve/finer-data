@@ -1,0 +1,33 @@
+T1	ORG 0 5	Apple
+T2	ORG 66 71	Apple
+T3	ORG 127 151	Wisconsinin yliopistolle
+T4	ORG 267 273	Applen
+T5	ORG 285 315	Wisconsin-Madison yliopistolle
+T6	ORG 399 405	Applen
+T7	ORG 465 470	Apple
+T8	DATE 484 495	vuonna 1998
+T9	ORG 521 550	Yhdysvaltain patenttiviraston
+T10	ORG 642 647	Apple
+T11	PRO 660 689	A7 , A8 ja A8X -suorittimissa
+T12	PRO 710 743	iPhone-malleissa 5s , 6 ja 6 Plus
+T13	PRO 757 770	iPad-tabletin
+T14	ORG 875 881	Applen
+T15	PER 925 940	William Conleyn
+T16	ORG 969 975	Applen
+T17	ORG 1103 1108	Apple
+T18	DATE 1193 1204	tammikuussa
+T19	ORG 1279 1324	Wisconsin Alumni Research Foundation ( WARF )
+T20	ORG 1356 1363	Inteliä
+T21	DATE 1433 1444	vuonna 2009
+T22	ORG 1447 1451	WARF
+T23	DATE 1458 1468	syyskuussa
+T24	ORG 1487 1493	Applea
+T25	ORG 1515 1520	Apple
+T26	PRO 1597 1599	A9
+T27	PRO 1603 1606	A9X
+T28	PRO 1626 1635	iPhone 6S
+T29	PRO 1639 1662	6S Plus -älypuhelimissa
+T30	PRO 1666 1694	iPad Pro -taulutietokoneessa
+T100001	LOC 127 138	Wisconsinin
+T100002	LOC 521 533	Yhdysvaltain
+T100003	LOC 1279 1288	Wisconsin

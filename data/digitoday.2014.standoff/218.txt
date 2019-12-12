@@ -1,0 +1,15 @@
+Joko loppuvat junien kännykkäpulmat ?
+Virve-verkko käyttöön
+Ratkaisun ennakoidaan helpottavan matkapuhelinten kuuluvuutta junissa ja vahvistavan rautatieliikenteen turvaverkon luotettavuutta .
+Junaliikenteen radiojärjestelmä Raili aiotaan vaihtaa viranomaisten Virve-verkkoon , liikenne- ja viestintäministeriö kertoo tiedotteessaan .
+Raili perustuu gsm-r-verkkoon ja on ollut ongelmallinen kahdella tavalla .
+Kaupalliset verkot ovat häirinneet gsm-r-puhelimien käyttöä , mikä on herättänyt pelkoja jopa junaliikenteen turvallisuudesta .
+Toiseksi gsm-r-verkon käyttö on heikentänyt kaupallisten matkaviestinverkkojen junakuuluvuutta .
+Ministeriö huomauttaa lisäksi , että Raili-verkon järjestelmät alkavat jo ikääntyä .
+Nykyinen gsm-r-verkko on rakennettava kokonaan uudestaan vuoden 2018 loppuun mennessä .
+Aikomuksena on ottaa Virve käyttöön siihen asti , kunnes päätös uudesta järjestelmästä on EU-tasolla tehty .
+EU:ssa nimittäin ollaan miettimässä seuraajaa nykyiselle gsm-r-radiojärjestelmälle .
+Virveltä odotetaan paitsi parempaa toimivuutta , myös rahan säästymistä .
+Mutta EU-laki edellyttää uudenkin järjestelmän olevan gsm-r-pohjainen .
+Tilanteen takia Suomi aikoo pyytää Euroopan komissiolta poikkeusta Virven käyttöönottamiseksi .
+Ministeriön mukaan Virveen voidaan alkaa siirtyä heti , kun poikkeusta on pyydetty .

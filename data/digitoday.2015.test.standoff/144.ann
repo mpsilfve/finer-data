@@ -1,0 +1,15 @@
+T1	ORG 0 7	Twitter
+T2	PRO 106 115	Twitteriä
+T3	ORG 159 166	Twitter
+T4	ORG 230 237	Twitter
+T5	ORG 290 313	Open State Foundationin
+T6	LOC 314 326	Britanniassa
+T7	PRO 357 379	Politwoops-sivustoihin
+T8	PRO 383 403	Diplotwoops-sivuihin
+T9	ORG 406 413	Twitter
+T10	PRO 485 509	Politwoops US -sivustoon
+T11	DATE 510 521	toukokuussa
+T12	ORG 524 531	Twitter
+T13	ORG 710 733	Open State Foundationin
+T14	PER 742 757	Arjan El Fassed
+T15	ORG 782 796	The Guardianin

@@ -1,0 +1,14 @@
+T1	ORG 0 11	Microsoftin
+T2	DATE 49 58	Helmikuun
+T3	ORG 134 143	Microsoft
+T4	DATE 210 219	Helmikuun
+T5	ORG 397 408	Microsoftin
+T6	PRO 439 494	Microsoft Forefront Protection 2010 for Exchange Server
+T7	PRO 531 557	Windows-käyttöjärjestelmää
+T8	PRO 590 614	Windows XP:tä tai Vistaa
+T9	PRO 661 692	Windows 7:lle , 8:lle , 8.1:lle
+T10	PRO 696 711	Windows RT:lle.
+T11	ORG 714 725	Microsoftin
+T12	PRO 881 890	Windowsia
+T13	PRO 894 910	.NET Frameworkia
+T100001	ORG 439 448	Microsoft

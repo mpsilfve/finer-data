@@ -1,0 +1,12 @@
+Snowden imi NSA-tiedot hakurobotilla
+Edward Snowden oli joko taitavasti sijoittunut tai vain varsin onnekas ladatessaan NSA:n salaisuudet .
+New York Timesin mukaan Snowden keräsi asiakirjat hakurobotin avulla .
+Edward Snowden onnistui pääsemään käsiksi jopa 1,7 miljoonaan tiedostoon tiedusteluvirasto NSA:n sisäverkossa käyttämällä halpaa ja laajasti saatavilla olevaa hakurobottia ( web crawler ) .
+Asiasta kertoivat New York Timesille nimettöminä pysyttelevät tiedusteluviranomaiset , jotka tutkivat Snowdenin asiakirjojen keruuta NSA:sta .
+He eivät kertoneet , mistä ohjelmasta on kysymys , mutta tällä tavalla Snowden pystyi automatisoimaan aineiston lataamisen .
+Snowdenin epäillään määrittäneen hakurobotille , mistä aiheista hän haluaa tietoa ja kuinka pitkälle robotin tulisi seurata linkkejä asiakirjoihin ja muihin tietoihin NSA:n verkoissa .
+Toiminta oli sellaista , minkä olisi luullut hälyttävän NSA:n – etenkin , kun toinen tietovuotaja Chelsea Manning oli vienyt vuosia aikaisemmin muita asiakirjoja muualta Yhdysvaltain hallinnosta samankaltaisin keinoin .
+Mutta Snowden sai työskennellä viraston alihankkijalla Havaijilla melko rauhassa .
+Jo aikaisemmin on kerrottu , että NSA:n Havaijin toimitiloissa oli selviä puutteita tietoturvassa , koska sinne ei ollut vielä asennettu uutta ohjelmistoa tietovuotojen havaitsemiseksi .
+Onkin epäselvää , tiesikö Edward Snowden olevansa suhteellisen turvassa ja hakeutuiko hän tahallaan töihin juuri kyseiseen paikkaan .
+Vai oliko hän vain uskomattoman onnekas , kun hän ei jäänyt kiinni ?

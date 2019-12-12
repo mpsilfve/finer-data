@@ -1,0 +1,13 @@
+Windows 10 -kokeiluversio tuli keskihintaisille Lumioille
+Microsoftin ensi syksynä julkistettavan Windows 10 -käyttöjärjestelmän puhelinversiota pääsee nyt kokeilemaan keskihintaisissa Lumioissa .
+Microsoft julkaisi helmikuun ensimmäisellä viikolla toimistosovellusten kosketusversioita Windows 10:n kokeiluversioon ja lupasi silloin tuoda käyttöjärjestelmän puhelinversion kokeiluun lähiviikkoina .
+Viime viikon lopulla Microsoftin blogi kertoi Windows 10:n kokeiluversion , Technical Preview’n saatavuudesta niille , jotka ovat rekisteröityneet Windows Insider -ohjelmaan ja joilla on käytössään keskihintainen Lumia-älypuhelin .
+Windows 10:n kokeiluversio on saatavilla Lumia 630 , 635 , 636 , 638 , 730 ja 830 -älypuhelimille .
+Blogin mukaan tämä hyvin aikainen versio ei ole saatavissa huippu-Lumioille , koska niissä on vähemmän tilaa muistijaolle eikä käyttöjärjestelmän osionharsintatoiminto ole vielä valmis .
+Sinänsä Windows 10 ei vaadi sen enempää tilaa kuin Windows 8.1 , FierceWireless kirjoitti .
+Technical Preview'sta puuttuu suuri joukko toimintoja , jotka ovat saatavilla 8.1:ssä .
+Digiassistentti Cortana on saatavissa vain yhdysvaltalaisissa kokeiluversioissa .
+Suunnittelujohtaja Gabe Aul kirjoitti blogissa , että jakoon tullut versio on varhaisin koskaan julkistettu Windowsin puhelinkäyttöjärjestelmä .
+– Tämä kokeiluohjelma on vielä kehityksen alla , ja näette kyllä paljon rosoisuutta .
+The Next Webin mukaan kokeiluversiossa nähdään muun muassa parannettu puheen kääntäminen tekstiksi missä tahansa datakentässä ja kuvasovellus , joka osaa yhdistää laitteessa olevat kuvat OneDrive-pilvessä olevien kuvien kanssa .
+Tässä kokeiluversiossa näytetään myös ensimmäistä kertaa tuloaan tekevä Project Spartan -selainmoottori .

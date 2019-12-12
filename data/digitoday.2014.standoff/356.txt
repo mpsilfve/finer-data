@@ -1,0 +1,21 @@
+Googlen kääntäjä sai uusia ominaisuuksia
+Googlen kääntäjäsovelluksen uusi versio tulee levitykseen tänään .
+Uudistus tuo lisää vauhtia ja sujuvuutta .
+Toivottavasti myös sen suomen kieli paranee , sillä luottaminen nykyisiin kääntämistuloksiin johtaa varmasti vaarallisiin tilanteisiin .
+Google Translaten uusi versio Android- ja iOS-laittesiin julkistettiin keskiviikkona ja sen laaja jakelu käynnistyi tänään .
+Se kääntää reaaliajassa sekä puhetta että monen eri kielen kirjoitusmerkkejä .
+Se osaa kääntää kylttejä myös ilman verkkoyhteyttä , mikä pitää monen matkailijan puhelinlaskun kurissa .
+Kylttien kääntäminen tapahtuu osoittamalla kylttejä sovelluksen sisällä puhelimen kameralla .
+Asiasta kirjoittanut Techcrunch kehui mobiilisovellusta uskomattomaksi .
+Se ylisti erityisesti sovelluksen kykyä toimia reaaliaikaisena tulkkina kahden ihmisen välisessä keskustelussa .
+Mikrofonin klikkauksen jälkeen sovellus päättelee käytettävän kielen ja keskustelu voi alkaa .
+Sovellus muuttaa kuulemansa puheen tekstiksi ja kääntää sen samalla tulkattavan kielen tekstiksi .
+Uusi , joustavampi ja nopeampi sovellusversio kääntää puhetta ensin vain englannista saksaksi tai päivänvastoin .
+Muita alussa tuettuja kieliä ovat ranska , italia , portugali , venäjä ja espanja .
+Google lupaa kielivalikoiman laajenevan .
+Google kertoi uuden version julkistuksen yhteydessä , että sen käännöspalvelua käyttää kuukausittain 500 miljoonaa ihmistä .
+Käännöksiä tehdään joka päivä yli miljardi kappaletta .
+Google hankki käännösteknologian ostamalla Word Lens - startup-yrityksen .
+Google Translaten olemassa oleva versio tukee Android-puhelimessa myös suomen kieltä , mutta se ei ymmärrä suomea kovin hyvin .
+Puhuttua englantia se ymmärtää erinomaisesti , mutta kääntämisen kanssa on niin ja näin .
+Korjattu yrityksen nimi World Lens muotoon Word Lens .

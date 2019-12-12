@@ -1,0 +1,17 @@
+T1	DATE 39 49	syyskuulle
+T2	ORG 73 84	Microsoftin
+T3	PRO 111 118	Windows
+T4	ORG 181 185	Wzor
+T5	PRO 200 213	Windows 8.1:n
+T6	PRO 259 270	Windows 8.2
+T7	PRO 275 295	Windows 8.1 Update 2
+T8	ORG 349 358	Softpedia
+T9	ORG 361 370	Microsoft
+T10	EVENT 417 441	Build 2014 -tapahtumassa
+T11	PER 450 463	Terry Myerson
+T12	PER 567 574	Myerson
+T13	PRO 674 694	Windows 8.1 Updateen
+T14	ORG 728 739	Microsoftin
+T15	PRO 873 884	Modern UI:n
+T16	ORG 1007 1018	Microsoftin
+T17	PRO 1023 1036	Bing-hakukone

@@ -1,0 +1,10 @@
+Asiakasraivo tehosi : Nyt oma wlan toimii hotelliketjun kokoustiloissakin
+Marriott-hotelliketju on saanut asiakkailtaan niin kiukkuista palautetta , että se on julkisesti luvannut olla estämättä asiakkaiden omia wlan-yhteyksiä missään hotellissaan .
+Hotelliketju yritti keskiviikkona kääntää asian parhain päin sanomalla kuuntelevansa asiakkaita :
+– Emme estä asiakkaita käyttämästä omia wlan-yhteyksiään yhdessäkään hallinnassamme olevassa hotellissa .
+Lokakuussa liittovaltion viestintäkomissio FCC sakotti Marriottia 600\_000 dollaria wlan-yhteyksien estämisestä Gaylord Opryland Hotel and Convention Space -keskuksessa .
+Asiakkailta ja monilta teknologiayrityksiltä tulleen kritiikin jälkeen Marriott yritti joulukuussa selittää , että se halusi estää yksityiset wlan-yhteydet ainoastaan kokoustiloissa , ei hotellihuoneissa .
+Tällä viikolla hotelliketju luopui vapaassa käytössä olevien radiotaajuuksien häirinnästä myös kokoustiloissa .
+Re/coden mukaan Marriott ei kuitenkaan ole vetänyt pois FCC:lle yhdessä American Hospitality & Lodging Associationin kanssa jättämää hakemusta , jossa haetaan lupaa hotelleille sellaisiin tietoturvatoimenpiteisin , jotka voivat estää asiakkailta wlan-taajuuksien käytön .
+Monet Marriott-hotellin asiakkaat ovat halunneet käyttää omia wlan-verkkojaan esimerkiksi puhelimen datayheyden jakamiseen , sillä Marriott-hotellien omat wlan-verkot ovat maksullisia .
+Päivitetty tiedolla , että Marriottin wlan-verkko on maksullinen .

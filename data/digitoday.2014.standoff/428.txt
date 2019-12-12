@@ -1,0 +1,48 @@
+Microsoftin hololinssi ihastutti toimittajat
+HoloLens on ihmeellinen , kirjoitti New York Timesin toimittaja .
+HoloLens on luultavasti kiehtovin kokemani teknologia sitten Oculus Riftin , The Vergen toimittaja hehkutti .
+Microsoftin eilisen Windows 10:n julkistuksen lopussa paljastettiin myös Microsoftin versio virtuaalilaseista .
+Muutamat toimittajat pääsivät Microsoftin vierastalon kellarissa sijaitsevaan laboratorioon kokeilemaan HoloLensin demoa .
+Sekä New York Times että The Verge korostivat sitä , kuinka tarkasti Microsoft oli laatinut demon koreografian ja kuinka toimittajat eivät saaneet kuvata tai nauhoittaa mitään .
+Toimittajille näytettiin HoloLensin toimintaa kontrolloidussa ympäristössä , mutta juuri mitään ei kerrottu heidän kokemuksensa ulkopuolelta .
+Prototyyppien esittely kuitenkin vaikutti toimittajiin ja vakuutti heidät teknologian mahdollisuuksista .
+New York Timesin Farhad Manjoo sanoi HoloLensin muistuttavan laskettelulaseja .
+Kun ne pani päähänsä , näkökenttään tuli digitaalisia ohjaimia , nappeja , viivoja ja kuvia ja Minecraft-pelin lampaita , jotka käyskentelivät kellarilaboratorion reaaliympäristössä .
+– Hologrammien resoluutio ei ollut kovin korkea ja välillä ne olivat vähän tylsiä .
+Ne olivat kuitenkin riittävän tarkkoja luodakseen illuusion todellisuudesta – se oli paljon enemmän mitä odotin .
+– Yhdessä demossa oli Minecraft-näkymä oikeassa olohuoneessa .
+Microsoftin edustaja pyysi minua valitsemaan virtuaalivasaran ja hakkaamaan sillä kahvipöytää .
+Toisin sanoen minun piti käyttää virtuaalityökalua reaaliobjektiin .
+Tein työtä käskettyä ja yllätyin .
+Oikea kahvipöytä hajosi digitaalisiksi pirstaleiksi ja sitten se katosi .
+HoloLens oli pyyhkinyt kahvipöydän näkymättömiin .
+Minecraft-lepakot tulivat seinästä
+The Vergen Dieter Bohn oli mukana samassa tilaisuudessa .
+Hän kuvasi protolaitteistoa raskaaksi kaulaan ripustettavaksi mokkulaksi , jossa oli ainakin akku ja suoritin , ja laseiksi , joissa linssien lisäksi oli miniatyyriprojektorit , liiketunnistimet ja kaiuttimet .
+Hänen mukaansa Minecraft-demo on neljästä esitetystä vakuuttavin .
+Bohnin mukaan HoloLensin näkymä ei sulje sisäänsä läheskään yhtä paljon kuin muut virtuaalilasit , sillä holonäkymä on oikean , osittain näkyvän ympäristön päällä .
+Virtuaaliympäristö reagoi liikkeeseen yhtä nopeasti kuin reaalimaailma .
+– Se on melkein yhtä elävä kuin varsinainen pöytä , ei viiveitä .
+Linna on siinä .
+Se on yksinkertaisesti taikuutta .
+– Demossa kaivetaan Minecraft-kuoppia ja räjäytetään Minecraft-zombeja Minecraft-TNT:llä .
+– Pöytään räjäytetään reikä ja sen läpi näkyy lattia , jolla on lisää digitaalisia esineitä .
+Seinään räjäytettävästä aukosta purkautuu pieniä lepakoita , ja reiästä näet , että tavallisen seinän takana on laavan ja kiven virtuaalinen helvettimaisema .
+Syvemmälle reikään kurkistettaessa näkyy , että maisema jatkuu siellä syvälle avaruuteen .
+Asentaja tuli Skypellä
+Toisessa demossa osallistujan piti asentaa sähkökatkaisin .
+Ohjeet tulivat sähköasentajalta Skypen kautta .
+Asentaja näki HoloLensiä käyttävän koehenkilön näkymän ja pystyi ohjaamaan asennusta muun muassa piirtämällä kaavioita .
+Kolmannessa demossa käyttäjä pääsi suunnittelemaan kolmiulotteisen esineen ja tulostamaan sen reaalimaailman esineeksi 3d-tulostimella .
+Neljäs esittely oli tehty yhdessä Yhdysvaltain avaruushallinnon Nasan Jet Propulsion Laboratoryn kanssa .
+Siinä huone muuttui Marsin kamaraksi , jossa henkilö pystyi liikkumaan .
+Huoneessa oli myös pc , jonka näytöllä oli saman alueen kartta .
+Pc:n näytöllä olevan kartan koskettaminen tuotti lipun vastaavaan kohtaan holomaisemaa .
+Älypuhelin vs. pc
+New York Times vertasi HoloLensiä ja Google Glassia .
+Ne molemmat saavat käyttäjänsä näyttämään hassulta , mutta ne poikkeavat toisistaan .
+Googlen virtuaalilasit pitävät keinonäkymän enimmäkseen pois näkökentästä ja ne sopivat siten julkiseen käyttöön .
+HoloLens upottaa käyttäjän syvemmälle virtuaalitodellisuuteen .
+Glass on älypuhelimen korvaaja tiedontuojana , mutta HoloLens näyttää olevan enemmän oman tietokoneen korvaaja .
+Toisin sanoen se on tarkoitettu hyödylliseksi .
+New York Timesin artikkeli löytyy täältä ja The Vergen artikkeli täältä .

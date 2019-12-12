@@ -1,0 +1,32 @@
+T1	PER 0 10	Bill Gates
+T2	PRO 17 25	Xboxista
+T3	PRO 54 62	Bingistä
+T4	ORG 63 74	Microsoftin
+T5	PER 110 120	Bill Gates
+T6	PRO 191 208	Xbox-pelikonsolit
+T7	ORG 216 227	Microsoftin
+T8	PER 266 276	Bill Gates
+T9	PRO 339 345	Xboxin
+T10	ORG 437 448	Microsoftin
+T11	PRO 458 462	Bing
+T12	PER 638 643	Gates
+T13	ORG 666 688	Fox Business Networkin
+T14	ORG 733 752	Berkshire Hathawayn
+T15	PER 766 782	Warren Buffettin
+T16	ORG 815 828	Seattle Times
+T17	PER 831 836	Gates
+T18	ORG 854 863	Microsoft
+T19	ORG 939 946	Expedia
+T20	ORG 965 970	Slate
+T21	ORG 987 1000	Microsoftille
+T22	PER 1003 1010	Gatesin
+T23	PRO 1018 1026	Xboxista
+T24	ORG 1158 1169	Microsoftin
+T25	PER 1228 1237	Gatesilta
+T26	PER 1285 1299	Satya Nadellaa
+T27	PRO 1325 1331	Xboxin
+T28	ORG 1373 1379	Nokian
+T29	ORG 1389 1400	Microsoftin
+T30	PER 1436 1448	Stephen Elop
+T31	PRO 1473 1481	Xboxista
+T100001	LOC 815 822	Seattle

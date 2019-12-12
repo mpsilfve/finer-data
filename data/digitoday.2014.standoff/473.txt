@@ -1,0 +1,20 @@
+Microsoft poisti Windows-koneista kaksi miljoonaa Tor-selainta — omistajilleilmoittamatta
+Saastuneiden Tor-selainten jakelupaketit poistettiin muun muassa Windows Updaten kautta .
+Microsoft turvautui radikaaliin temppuun hyökätessään Sefnit-bottiverkkoa vastaan viime vuonna .
+Yhtiö poisti Windows koneista yli kaksi miljoonaa Tor-selainta , joita käytetään anonyymin verkkosurffaukseen sekä salatun internetin selailemiseen .
+Microsoft kertoo asiasta tietoturvablogissaan .
+Asiaa käsittelee myös The Hacker News .
+Elokuussa Tor-verkon käyttö moninkertaistui , ja ilmiö näkyi myös Suomessa .
+Sitä tulkittiin aluksi virheellisesti Snowdenin paljastuksista johtuvaksi ja ihmisten ajateltiin siirtyvän anonyymin internetin käyttöön .
+Syyskuussa tutkijat löysivät kasvun todellisen syyn : Selfnit-haittaohjelman .
+Kyseessä oli bitcoin-louhintaa tekevä haitake , joka kommunikoi Tor-verkon kautta .
+Verkkorikolliset levittivät haitaketta jakelemalla Tor-selaimen vanhentunutta versiota BrowderProtector- sekä FileScout-suojausohjelmien kanssa .
+Vaikka Selfnitin poisti koneelta , Tor-palvelu jäi yhtä pyörimään laitteelle .
+Microsoftin arvioiden mukaan saastuneita koneita oli kaikkiaan nelisen miljoonaa .
+Niistä noin puoleen yhtiö ei päässyt käsiksi ohjelmistotyökaluillaan .
+Asiaa pohdittuaan Microsoft tuli siihen johtopäätökseen , ettei koko saastuneiden koneiden omistajakuntaa ole mahdollista ohjeistaa poistamaan haittaohjelmaa .
+Niinpä yhtiö päätti alkaa poistaa Selfnitin jakeluun käytettyjä Tor-selaimen jakelupaketteja niiltä tietokoneilta , jotka olivat Microsoftin tietoturvatyökaluilla saavutettavissa .
+Ohjelmien poisto tehtiin Microsoft Security Essentials- , Windows Defender on Windows 8- , Microsoft Safety Scanner- , Microsoft System Center Endpoint Protection- , Windows Defender Offline- ja Malicious Software Removal Tool -ohjelmilla .
+Näistä viimeisin ajetaan Windows Updaten kautta automaattisesti .
+Samalla Microsoft julkisti neljä haavoittuvuutta , jotka se oli löytänyt Tor-ohjelmapaketista .
+Microsoftiin kriittisesti suhtautuva The Hacker News arvostelee Microsoftin päätöstä poistaa Tor-selain ja olla poistamatta Internet Exploreria , koska jälkimmäisestä on löydetty enemmän tietoturva-aukkoja .

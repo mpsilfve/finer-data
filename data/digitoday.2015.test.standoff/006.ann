@@ -1,0 +1,30 @@
+T1	ORG 0 11	Supercellin
+T2	ORG 126 134	SoftBank
+T3	DATE 141 152	7. elokuuta
+T4	ORG 188 196	Sprintin
+T5	ORG 233 241	Sprintin
+T6	ORG 292 300	SoftBank
+T7	ORG 352 362	Sprintistä
+T8	LOC 388 400	Yhdysvaltain
+T9	ORG 492 506	FierceWireless
+T10	ORG 518 560	Yhdysvaltain arvopaperimarkkinakomissiolle
+T11	ORG 588 596	SoftBank
+T12	ORG 602 610	Sprintin
+T13	DATE 632 652	elokuun 10. päivästä
+T14	ORG 663 671	SoftBank
+T15	ORG 688 696	Sprintin
+T16	ORG 774 784	SoftBankin
+T17	ORG 838 846	Sprintin
+T18	ORG 904 912	SoftBank
+T19	ORG 957 967	Sprintistä
+T20	ORG 970 978	SoftBank
+T21	ORG 996 1004	Sprintiä
+T22	ORG 1061 1079	Deutsche Telekomin
+T23	ORG 1090 1105	T-Mobile USA:ta
+T24	ORG 1134 1144	SoftBankin
+T25	ORG 1156 1165	Sprintiin
+T26	ORG 1252 1262	SoftBankin
+T27	ORG 1359 1369	Alibabasta
+T28	ORG 1424 1437	Supercellistä
+T100001	LOC 518 530	Yhdysvaltain
+T100002	LOC 1099 1105	USA:ta

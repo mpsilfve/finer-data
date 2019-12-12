@@ -1,0 +1,31 @@
+T1	ORG 0 8	Qualcomm
+T2	ORG 68 77	Samsungin
+T3	PRO 103 112	Galaxy S6
+T4	ORG 133 143	Qualcommin
+T5	ORG 164 172	Qualcomm
+T6	PRO 280 306	Snapdragon 810 -suoritinta
+T7	ORG 309 318	Samsungin
+T8	PRO 344 365	Exynos-suorittimeensa
+T9	ORG 450 459	Bloomberg
+T10	ORG 488 498	Qualcommin
+T11	DATE 575 585	maaliskuun
+T12	EVENT 591 617	Mobile World -tapahtumassa
+T13	LOC 618 630	Barcelonassa
+T14	ORG 633 637	Cnet
+T15	ORG 650 660	Qualcommin
+T16	PRO 695 721	Snapdragon 810 -suoritinta
+T17	PRO 804 815	LG G Flex 2
+T18	PRO 819 853	Xiaomi Mi Note Pro -älypuhelimissa
+T19	ORG 891 901	Qualcommin
+T20	ORG 1177 1187	MediaTekin
+T21	ORG 1190 1199	Marvellin
+T22	ORG 1203 1210	Intelin
+T23	PRO 1264 1276	Snapdragonin
+T24	ORG 1348 1354	Applen
+T25	ORG 1405 1417	Qualcommilta
+T26	ORG 1439 1449	Qualcommin
+T27	DATE 1450 1464	loka-joulukuun
+T28	ORG 1644 1652	Qualcomm
+T29	PRO 1695 1709	Snapdragonissa
+T30	PRO 1729 1745	Krait-suoritinta
+T31	ORG 1777 1784	ARM:lta

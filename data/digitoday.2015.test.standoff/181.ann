@@ -1,0 +1,23 @@
+T1	ORG 0 5	Nokia
+T2	ORG 26 39	Microsoftista
+T3	ORG 58 69	Microsoftin
+T4	ORG 70 78	Nokialta
+T5	ORG 199 208	Microsoft
+T6	DATE 280 288	kesäkuun
+T7	ORG 421 429	Nokialta
+T8	ORG 536 547	Microsoftin
+T9	PRO 737 757	Xbox-pelikonsoleiden
+T10	ORG 808 817	Microsoft
+T11	LOC 971 979	Suomesta
+T12	DATE 1082 1098	huhti–kesäkuussa
+T13	ORG 1144 1155	Bloombergin
+T14	ORG 1223 1234	Microsoftin
+T15	ORG 1257 1263	Nokian
+T16	LOC 1272 1284	Yhdysvaltain
+T17	PRO 1304 1316	Windows 10:n
+T18	PRO 1382 1425	Bing- , Azure- , ja Office 365 -palveluiden
+T19	PRO 1452 1464	Windows 10:n
+T20	ORG 1478 1491	Microsoftille
+T21	PER 1532 1545	Satya Nadella
+T22	PRO 1572 1582	Windows 10
+T23	DATE 1595 1604	heinäkuun

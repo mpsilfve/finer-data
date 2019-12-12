@@ -1,0 +1,16 @@
+T1	ORG 0 6	Nokian
+T2	PRO 7 18	Here-kartat
+T3	ORG 89 95	Nokian
+T4	PRO 96 110	Here-karttojen
+T5	PRO 241 265	Here-karttasovelluksessa
+T6	ORG 494 503	Slashgear
+T7	PRO 608 627	Arena de Barcelonan
+T8	ORG 922 943	360.here-yritysblogin
+T9	LOC 1138 1148	Chicagosta
+T10	LOC 1213 1222	Kaohsiung
+T11	LOC 1225 1231	Taipei
+T12	LOC 1234 1242	Curitiba
+T13	LOC 1245 1259	Rio de Janeiro
+T14	LOC 1262 1271	São Paulo
+T15	LOC 1276 1285	Singapore
+T100001	LOC 617 627	Barcelonan

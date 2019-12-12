@@ -1,0 +1,25 @@
+T1	ORG 0 6	Google
+T2	PRO 14 20	Bumpin
+T3	PRO 24 31	Flockin
+T4	ORG 57 64	Googlen
+T5	PRO 87 91	Bump
+T6	PRO 95 100	Flock
+T7	ORG 186 193	Googlen
+T8	DATE 200 210	syyskuussa
+T9	ORG 220 237	Bump Technologies
+T10	PRO 301 307	Bumpin
+T11	PRO 311 318	Flockin
+T12	DATE 369 383	31. tammikuuta
+T13	ORG 499 508	Googlessa
+T14	PRO 541 547	Bumpin
+T15	PRO 551 558	Flockin
+T16	ORG 561 567	Bumpin
+T17	PER 592 602	David Lieb
+T18	ORG 834 840	Google
+T19	PRO 887 901	Google Playssa
+T20	ORG 907 913	Applen
+T21	PRO 914 926	App Storessa
+T22	PRO 1116 1120	Bump
+T23	PRO 1124 1129	Flock
+T24	PRO 1173 1179	Bumpia
+T100001	ORG 887 893	Google

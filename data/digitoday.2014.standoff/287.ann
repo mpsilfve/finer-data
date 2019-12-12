@@ -1,0 +1,15 @@
+T1	ORG 0 6	Alipay
+T2	ORG 46 54	Paypalin
+T3	ORG 67 73	Alipay
+T4	ORG 198 204	Alipay
+T5	ORG 215 230	Alibaba Groupin
+T6	ORG 351 358	Alipayn
+T7	ORG 482 488	Xinhua
+T8	ORG 512 521	Alipayllä
+T9	ORG 689 697	Paypalin
+T10	LOC 796 804	Kiinassa
+T11	LOC 904 912	Kiinassa
+T12	PRO 913 919	Alipay
+T13	ORG 930 939	Tencentin
+T14	PRO 940 946	WeChat
+T15	PRO 951 976	Weibo -mikroblogipalvelun

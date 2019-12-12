@@ -1,0 +1,48 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 34 44	Androidiin
+T3	ORG 45 54	Microsoft
+T4	PRO 107 133	Android-käyttöjärjestelmän
+T5	ORG 139 146	Googlen
+T6	ORG 165 184	Wall Street Journal
+T7	ORG 239 247	Cyanogen
+T8	ORG 269 290	Wall Street Journalin
+T9	ORG 318 331	Microsoftista
+T10	ORG 378 386	Cyanogen
+T11	PRO 396 424	Android-käyttöjärjestelmästä
+T12	ORG 461 470	Googlesta
+T13	ORG 497 506	Microsoft
+T14	PRO 710 721	Androidista
+T15	ORG 754 766	Cyanogenille
+T16	ORG 818 827	Microsoft
+T17	ORG 831 839	Cyanogen
+T18	ORG 877 896	Wall Street Journal
+T19	PRO 934 941	Android
+T20	ORG 954 961	Googlen
+T21	ORG 1061 1067	Google
+T22	ORG 1143 1150	Googlen
+T23	PRO 1175 1184	Androidin
+T24	PRO 1199 1215	Googlen hakukone
+T25	PRO 1265 1286	Googlen hakukoneeseen
+T26	PRO 1302 1311	Youtubeen
+T27	PRO 1331 1343	Play Storeen
+T28	ORG 1346 1354	Cyanogen
+T29	PRO 1397 1408	Androidinsa
+T30	ORG 1451 1459	Micromax
+T31	ORG 1511 1532	Wall Street Journalin
+T32	ORG 1588 1608	Strategy Analyticsin
+T33	DATE 1638 1652	heinä–syyskuun
+T34	ORG 1753 1763	Cyanogenin
+T35	ORG 1858 1875	Benchmark Capital
+T36	ORG 1878 1895	Redpoint Ventures
+T37	ORG 1898 1917	Andreessen Horowitz
+T38	ORG 1933 1940	Tencent
+T39	ORG 1943 1954	Microsoftin
+T40	PRO 1978 1992	Windows Phonen
+T41	PRO 2013 2023	Androidiin
+T42	ORG 2074 2083	Googlesta
+T43	PRO 2101 2112	Androidista
+T44	PRO 2156 2162	Bingin
+T100001	LOC 165 176	Wall Street
+T100002	LOC 269 280	Wall Street
+T100003	LOC 877 888	Wall Street
+T100004	LOC 1511 1522	Wall Street

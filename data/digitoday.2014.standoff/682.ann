@@ -1,0 +1,34 @@
+T1	ORG 0 9	Samsungia
+T2	ORG 67 75	Applelta
+T3	ORG 76 82	Applen
+T4	PRO 83 90	iPhonen
+T5	PER 126 139	Greg Christie
+T6	ORG 211 217	Applen
+T7	ORG 220 225	Apple
+T8	ORG 266 274	Applella
+T9	PER 290 304	Greg Christien
+T10	PER 395 404	Christien
+T11	ORG 424 430	Applen
+T12	PER 457 472	Jonathan Ivelle
+T13	PER 488 491	Ive
+T14	PER 497 506	Christien
+T15	PER 618 621	Ive
+T16	ORG 674 680	Applen
+T17	PER 879 887	Christie
+T18	ORG 896 904	Applella
+T19	DATE 905 909	1996
+T20	PRO 994 1002	Newtonin
+T21	ORG 1013 1032	Wall Street Journal
+T22	PRO 1065 1070	Macin
+T23	PRO 1124 1131	iPhonen
+T24	ORG 1146 1174	Yhdysvaltain patenttivirasto
+T25	PER 1192 1203	Christielle
+T26	PER 1361 1369	Christie
+T27	ORG 1383 1389	Applen
+T28	ORG 1452 1461	Samsungia
+T29	PRO 1472 1499	Avaa pyyhkäisyllä -patentti
+T30	PER 1520 1528	Christie
+T31	ORG 1579 1584	Apple
+T32	ORG 1592 1603	Samsungilta
+T100001	LOC 1013 1024	Wall Street
+T100002	LOC 1146 1158	Yhdysvaltain

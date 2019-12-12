@@ -1,0 +1,19 @@
+T1	ORG 18 24	Applen
+T2	PRO 25 31	iWatch
+T3	ORG 51 57	Applen
+T4	PRO 84 92	iWatchia
+T5	DATE 111 118	elokuun
+T6	ORG 150 169	Economic Daily News
+T7	ORG 219 225	Applen
+T8	PRO 267 275	iWatchin
+T9	ORG 297 308	Digitimesin
+T10	ORG 318 337	Economic Daily News
+T11	PRO 354 362	iWatchin
+T12	ORG 377 392	Quanta Computer
+T13	ORG 438 445	Richtek
+T14	ORG 474 481	TPK:lta
+T15	ORG 484 489	Apple
+T16	PRO 508 516	iWatchin
+T17	ORG 570 579	Samsungin
+T18	ORG 609 614	Apple
+T19	DATE 650 659	elokuusta

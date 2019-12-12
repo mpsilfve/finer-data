@@ -1,0 +1,23 @@
+T1	ORG 0 5	Rovio
+T2	PER 28 36	Korpisen
+T3	PRO 47 84	Angry Birds -pelistä ja tuotemerkistä
+T4	ORG 117 122	Rovio
+T5	ORG 171 199	DreamWorks Animation SKG:ltä
+T6	PER 202 216	Tuomo Korpinen
+T7	ORG 239 254	Rovio Animation
+T8	ORG 258 291	Blue Bird Distribution -yksiköitä
+T9	ORG 301 307	Rovion
+T10	PRO 345 371	Angry Birds -mobiilipeliin
+T11	ORG 441 448	Disneyn
+T12	PER 487 501	Tuomo Korpisen
+T13	LOC 595 610	Los Angelesissa
+T14	PER 625 633	Korpinen
+T15	PER 772 788	Pekka Rantalalle
+T16	PER 791 799	Korpisen
+T17	ORG 824 848	DreamWorks Animation SKG
+T18	ORG 965 991	The Walt Disney Companyssa
+T19	ORG 1129 1151	Warner Music Groupissa
+T20	ORG 1155 1174	EMI Music Groupissa
+T21	ORG 1195 1206	VentureBeat
+T22	ORG 1207 1213	Rovion
+T100001	PER 969 980	Walt Disney

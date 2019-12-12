@@ -1,0 +1,16 @@
+T1	ORG 0 10	Facebookin
+T2	PER 24 40	Frank Frankovsky
+T3	ORG 63 73	Facebookin
+T4	PRO 109 133	Open Computer -projektin
+T5	PER 142 158	Frank Frankovsky
+T6	PER 201 217	Frank Frankovsky
+T7	ORG 384 404	Open Compute Project
+T8	ORG 407 410	OCP
+T9	ORG 493 503	Facebookin
+T10	PER 511 522	Frankovskyn
+T11	PER 601 611	Frankovsky
+T12	LOC 660 667	Texasin
+T13	LOC 668 678	Austinissa
+T14	ORG 732 737	OCP:n
+T15	PER 793 804	Frankovskyn
+T16	ORG 972 978	GigaOm

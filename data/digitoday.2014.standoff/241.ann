@@ -1,0 +1,19 @@
+T1	ORG 0 5	Sonyn
+T2	PRO 6 23	" The Interview "
+T3	ORG 47 60	Sony Pictures
+T4	LOC 96 110	Pohjois-Korean
+T5	ORG 171 186	Sony Picturesin
+T6	PRO 194 216	The Interview -elokuva
+T7	LOC 247 261	Yhdysvalloissa
+T8	LOC 372 386	Pohjois-Korean
+T9	ORG 432 438	Sonyyn
+T10	LOC 486 499	Pohjois-Korea
+T11	ORG 555 590	Yhdysvaltain liittovaltion poliisin
+T12	ORG 591 596	FBI:n
+T13	LOC 604 617	Pohjois-Korea
+T14	LOC 637 650	Pohjois-Korea
+T15	ORG 681 685	Sony
+T16	LOC 771 783	Yhdysvaltain
+T17	PER 796 808	Barack Obama
+T18	ORG 840 845	Sonyn
+T100001	LOC 555 567	Yhdysvaltain

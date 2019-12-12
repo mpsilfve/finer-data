@@ -1,0 +1,93 @@
+T1	LOC 0 9	Susiluola
+T2	LOC 10 19	Susiluola
+T3	LOC 55 76	Kristiinankaupungissa
+T4	LOC 85 95	Lapväärtin
+T5	ORG 122 137	Karijoen kunnan
+T6	LOC 227 237	Susivuoren
+T7	LOC 247 257	Susiluolaa
+T8	LOC 811 821	Susiluolan
+T9	DATE 871 882	vuonna 1996
+T10	ORG 953 965	Museovirasto
+T11	ORG 968 992	Geologian tutkimuskeskus
+T12	ORG 996 1015	Helsingin yliopisto
+T13	ORG 1426 1438	Museovirasto
+T14	DATE 1835 1846	vuonna 1997
+T15	DATE 1920 1937	Vuosina 1999–2005
+T16	LOC 2126 2135	Susiluola
+T17	LOC 2175 2190	Fennoskandiassa
+T18	LOC 2296 2302	Suomen
+T19	DATE 2422 2426	2006
+T20	DATE 2472 2476	2013
+T21	LOC 3010 3020	Susiluolan
+T22	DATE 3057 3068	vuonna 1996
+T23	ORG 3071 3098	Geologian tutkimuskeskuksen
+T24	PER 3107 3120	Heikki Hirvas
+T25	ORG 3178 3191	Museoviraston
+T26	PER 3200 3217	Hans-Peter Schulz
+T27	PER 3428 3446	Christian Carpelan
+T28	LOC 3670 3678	Suomessa
+T29	ORG 3794 3807	Museoviraston
+T30	PER 3937 3943	Hirvas
+T31	ORG 3971 3984	Museoviraston
+T32	PER 4024 4040	Paula Purhoselle
+T33	PER 4083 4099	Ari Siiriäiselle
+T34	ORG 4190 4217	Geologian tutkimuskeskuksen
+T35	PER 4226 4239	Kari Kinnunen
+T36	PER 4304 4312	Kinnunen
+T37	ORG 4342 4359	Kansallismuseossa
+T38	ORG 4370 4383	Museoviraston
+T39	LOC 4426 4439	Varikkoniemen
+T40	PER 4449 4456	Schultz
+T41	PER 4461 4469	Purhosen
+T42	LOC 4486 4500	Hämeenlinnassa
+T43	PER 4687 4711	Jussi-Pekka Taavitsainen
+T44	LOC 4717 4727	Susiluolaa
+T45	PER 4821 4840	Heikki Martiskainen
+T46	PER 4871 4884	Joakim Donner
+T47	PER 4902 4910	Kinnunen
+T48	PRO 4942 4955	Kivi-lehdessä
+T49	DATE 4956 4967	vuonna 2003
+T50	ORG 4970 5006	Tieteellisten seurojen valtuuskunnan
+T51	PER 5021 5036	Matti Saarnisto
+T52	EVENT 5052 5067	Tieteen päivien
+T53	ORG 5093 5106	Museoviraston
+T54	PER 5129 5137	Purhonen
+T55	PER 5285 5295	Jan Rydman
+T56	PRO 5328 5355	Tieteessä tapahtuu -lehteen
+T57	PER 5358 5366	Rydmania
+T58	ORG 5383 5395	Museovirasto
+T59	PER 5443 5451	Purhonen
+T60	LOC 5459 5469	Susiluolan
+T61	ORG 5552 5559	UNESCOn
+T62	PRO 5675 5728	" Fennoscandia archaeologica " -lehden numerossa XXIV
+T63	DATE 5731 5735	2007
+T64	LOC 5774 5784	Susiluolan
+T65	PER 5859 5873	Milton Núñezin
+T66	PRO 5945 5975	" Elämää kivikauden Suomessa "
+T67	PER 5976 5985	Miettinen
+T68	PER 5989 5997	Purhonen
+T69	PER 6045 6050	Núñez
+T70	PER 6399 6407	Kinnusen
+T71	PER 6463 6471	Schulzin
+T72	PER 6553 6561	Donnerin
+T73	PER 6709 6727	Heikki Matiskainen
+T74	PER 6761 6778	Hans-Peter Schulz
+T75	ORG 6800 6822	Helsingin yliopistossa
+T76	EVENT 6837 6865	Tieteen päivät -tapahtumassa
+T77	PER 6868 6879	Matiskainen
+T78	LOC 6908 6920	Susiluolasta
+T79	PER 7002 7013	Matiskaisen
+T80	LOC 7021 7031	Susiluolaa
+T81	LOC 7485 7495	Susiluolan
+T82	PER 7654 7663	Schultzin
+T83	PER 7667 7683	Tapani Rostedtin
+T84	PER 8218 8225	Schultz
+T85	PER 8229 8236	Rostedt
+T86	LOC 8302 8308	Suomen
+T87	ORG 8320 8332	Museovirasto
+T88	LOC 8417 8429	Neandertalin
+T89	PER 8478 8493	Johanna Enqvist
+T90	LOC 8502 8513	Susiluolaan
+T100001	LOC 122 130	Karijoen
+T100002	LOC 996 1005	Helsingin
+T100003	LOC 6800 6809	Helsingin

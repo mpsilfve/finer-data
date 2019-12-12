@@ -1,0 +1,20 @@
+T1	ORG 0 10	Amazonilta
+T2	ORG 42 50	Amazonin
+T3	ORG 111 130	Wall Street Journal
+T4	ORG 207 217	Amazon.com
+T5	ORG 366 385	Wall Street Journal
+T6	ORG 428 434	Amazon
+T7	DATE 467 475	kesäkuun
+T8	DATE 521 529	syyskuun
+T9	LOC 609 625	San Franciscossa
+T10	LOC 629 639	Seattlessa
+T11	ORG 659 665	Amazon
+T12	ORG 695 704	Samsungin
+T13	ORG 708 714	Applen
+T14	ORG 1038 1046	Amazonin
+T15	PRO 1088 1097	Androidia
+T16	ORG 1207 1215	Amazonin
+T17	PER 1303 1313	Jeff Bezos
+T18	ORG 1412 1415	WSJ
+T100001	LOC 111 122	Wall Street
+T100002	LOC 366 377	Wall Street

@@ -1,0 +1,24 @@
+T1	ORG 0 9	Microsoft
+T2	ORG 53 62	Microsoft
+T3	ORG 242 255	Microsoftilta
+T4	ORG 373 409	Microsoft Security Response Centerin
+T5	PER 418 428	Chris Betz
+T6	PRO 455 492	Advance Notification Service -palvelu
+T7	ORG 585 596	Microsoftin
+T8	PRO 664 675	ANS-palvelu
+T9	ORG 803 814	Microsoftin
+T10	PRO 838 844	ANS:ää
+T11	ORG 869 878	Microsoft
+T12	PRO 889 909	myBulletins-palvelua
+T13	PER 992 996	Betz
+T14	PRO 1004 1016	ANS-palvelun
+T15	ORG 1408 1419	Microsoftin
+T16	PRO 1528 1541	Windows 8.1:n
+T17	ORG 1584 1593	Microsoft
+T18	DATE 1612 1621	tammikuun
+T19	ORG 1716 1727	Microsoftin
+T20	PER 1728 1738	Chris Betz
+T21	PRO 1819 1831	ANS-palvelua
+T22	ORG 1983 1992	Microsoft
+T23	ORG 2169 2180	Microsoftin
+T24	ORG 2268 2294	Kyberturvallisuuskeskuksen

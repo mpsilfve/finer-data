@@ -1,0 +1,37 @@
+T1	PRO 0 13	Apple Watchia
+T2	ORG 116 122	Xiaomi
+T3	LOC 230 236	Kiinan
+T4	ORG 343 352	Canalysin
+T5	ORG 376 384	Motorola
+T6	PRO 456 473	Moto 360 älykello
+T7	PRO 514 538	Android Wear -laitteiden
+T8	PRO 595 617	Android Wear -laitetta
+T9	ORG 620 627	Samsung
+T10	ORG 741 752	Samsungilla
+T11	ORG 805 814	Canalysin
+T12	PER 830 841	Chris Jones
+T13	PRO 914 929	Tizen-alustalle
+T14	PRO 932 956	Android Wear -laitteiden
+T15	ORG 971 973	LG
+T16	PRO 1016 1039	G Watch R -laitteellaan
+T17	PRO 1060 1071	G Watchilla
+T18	ORG 1079 1083	Asus
+T19	ORG 1087 1091	Sony
+T20	PRO 1117 1143	Android Wear -rannekkeensa
+T21	ORG 1146 1152	Pebble
+T22	DATE 1245 1255	vuona 2013
+T23	ORG 1258 1265	Canalys
+T24	ORG 1272 1279	Pebblen
+T25	ORG 1446 1453	Canalys
+T26	ORG 1461 1469	Fitbitin
+T27	ORG 1506 1513	Xiaomin
+T28	PRO 1584 1593	Mi Bandia
+T29	ORG 1662 1668	Xiaomi
+T30	ORG 1983 1992	Canalysin
+T31	PER 2005 2017	Daniel Matte
+T32	DATE 2024 2035	huhtikuussa
+T33	PRO 2044 2057	Apple Watchin
+T34	ORG 2121 2127	Applen
+T35	PRO 2200 2214	Android Wearin
+T100001	ORG 0 5	Apple
+T100002	ORG 2044 2049	Apple

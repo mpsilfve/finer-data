@@ -1,0 +1,11 @@
+T1	LOC 0 8	Amerikan
+T2	LOC 59 69	Amerikassa
+T3	LOC 163 171	Suomessa
+T4	ORG 215 245	Yhdysvaltain viestintäkomissio
+T5	ORG 246 249	FCC
+T6	ORG 948 953	FCC:n
+T7	ORG 1061 1065	Cnet
+T8	ORG 1078 1083	FCC:n
+T9	PRO 1084 1117	2015 Broadband Progress -raportin
+T10	LOC 1399 1405	Suomen
+T100001	LOC 215 227	Yhdysvaltain

@@ -1,0 +1,27 @@
+T1	PER 0 15	Marko Ahtisaari
+T2	ORG 24 32	Nokialta
+T3	PER 51 61	Ahtisaaren
+T4	ORG 96 115	MIT-huippuyliopisto
+T5	ORG 118 124	Nokian
+T6	PER 152 167	Marko Ahtisaari
+T7	ORG 191 229	Massachusetts Institute of Technologyn
+T8	ORG 234 239	MIT:n
+T9	PER 273 282	Ahtisaari
+T10	PRO 308 319	Twitterissä
+T11	ORG 374 387	MIT Media Lab
+T12	PER 418 433	Marko Ahtisaari
+T13	DATE 456 460	2014
+T14	PER 463 473	Ahtisaaren
+T15	ORG 703 708	MIT:n
+T16	ORG 816 821	MIT:n
+T17	PER 834 843	Ahtisaari
+T18	PRO 853 862	Lumioiden
+T19	PRO 865 869	N9:n
+T20	PRO 873 880	Ashojen
+T21	PER 910 919	Ahtisaari
+T22	ORG 967 974	MIT:ssä
+T23	DATE 975 995	helmikuun 4. päivänä
+T24	PER 998 1008	Ahtisaaren
+T25	ORG 1016 1024	Nokiasta
+T26	ORG 1057 1063	Nokian
+T27	ORG 1086 1099	Microsoftille

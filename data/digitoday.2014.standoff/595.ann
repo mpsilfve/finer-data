@@ -1,0 +1,19 @@
+T1	ORG 0 9	Microsoft
+T2	ORG 19 28	Googlelle
+T3	ORG 59 70	Microsoftin
+T4	ORG 80 86	Google
+T5	ORG 159 166	Googlen
+T6	PRO 220 253	Windows 8.1 -käyttöjärjestelmästä
+T7	ORG 343 352	Microsoft
+T8	ORG 394 403	Microsoft
+T9	ORG 433 440	Googlen
+T10	ORG 587 598	Microsoftin
+T11	ORG 706 717	Microsoftin
+T12	PER 740 750	Chris Betz
+T13	ORG 766 773	Googlen
+T14	ORG 790 803	Microsoftilta
+T15	ORG 894 901	Googlea
+T16	ORG 906 917	Microsoftin
+T17	PER 967 971	Betz
+T18	PER 1126 1132	Betzin
+T19	ORG 1320 1326	Neowin

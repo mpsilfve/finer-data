@@ -1,0 +1,16 @@
+Vakava Linux-aukko : Vaara kasvaa
+Viestintävirasto uskoo Ghost-haavoittuvuuden paisuvan vielä pahemmaksi .
+Korjauksia on jo paikoin saatavilla .
+Linuxissa yleisesti käytetystä GNU C -kirjastosta paljastui merkittävä tietoturvauhka .
+Niin kutsuttu Ghost-haavoittuvuus antaa hyökkääjälle pääsyn lähes kaikkiin laajasti käytettyihin Linux-pohjaisiin netti- ja sähköpostipal velimiin .
+Ghost edellyttää palvelinten ylläpitäjiltä aktiivisia toimia , Viestintäviraston Kyberturvallisuuskeskus korostaa .
+Haavoittuvat järjestelmät pitää päivittää korjattuun versioon mahdollisimman pian , ja ylläpitäjien tulee seurata tilannetta mahdollisten uusien haavoittuvien ohjelmistojen varalta .
+– Johtuen GNU C -kirjaston yleisyydestä , on todennäköistä , että haavoittuvuuden hyväksikäytölle alttiita ohjelmistoja voi löytyä lähitulevaisuudessa lisää , tiedotteessa sanotaan .
+Tietoturvayhtiö Qualys todensi haavoittuvuuden vaarallisuuden kehittämällä siihen Exim-sähköpostipalvelinta vastaan toimivan hyökkäyksen .
+Mutta haavoittuvuudelle ei ole tällä hetkellä olemassa julkista hyväksikäyttömenetelmää , Kyberturvallisuuskeskus uskoo .
+Ainakin Fedora- ja Ubuntu-jakeluihin on saatavilla korjaava päivitys .
+NixCraft on kirjoittanut aiheesta teknisen artikkelin , jossa annetaan hyviä neuvoja ylläpitäjille oman uhkatason tarkistamiseksi .
+Artikkelissa on myös listattu toistaiseksi tiedetyt haavoittuvat Linux-jakelut .
+Ne ovat :
+* RHEL ( Red Hat Enterprise Linux ) versiot 5.x , 6.x ja 7.x * CentOS Linux versiot 5.x , 6.x & 7.x * Ubuntu Linux versiot 10.04 , 12.04 LTS * Debian Linux versio 7.x * Linux Mint versio 13.0 * Fedora Linux versio 19 tai vanhempi * SUSE Linux Enterprise 11 ja vanhemmat ( myös OpenSuse Linux 11 tai vanhemmat versiot ) .
+* Arch Linux glibc versio <= 2.18-1 .

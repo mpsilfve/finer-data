@@ -1,0 +1,9 @@
+Kaksi kurjinta virhekoodia : Asenna Windows 8 uudestaan
+Jos Windows 8.1 Updaten asennus menee todella pieleen , voi käyttäjän olla pakko asentaa sekä Windows 8 että 8.1 uudestaan ennen päivitystä .
+Mikäli Windows 8.1:n päivitys epäonnistuu virhekoodeihin 80073712 tai 80070020 , on edessä todennäköisesti Windowsin uudelleenasennus .
+Virheilmoitusten vuoksi koko Windows 8.1:n aktivointi saattaa nimittäin reset oitua .
+Vaikka käyttäjällä olisi aito Windows 8 -lisenssi , ei Windows 8.1 enää hyväksy tätä lisenssiä .
+Syynä on Windows 8.1:n bugi , jonka seurauksena käyttäjällä on joko 30 päivää aikaa käyttää käyttöjärjestelmäänsä tai vaihtoehtoisesti asentaa se uudelleen .
+Koska Microsoft ei ole julkaissut Windows 8.1:n virallisia levykuvia , täytyy uudelleenasennus aloittaa Windows 8:sta .
+Windows 8.1:n aidot ja koskemattomat levykuvat löytää kyllä internetistä , mutta niiden käyttö ei ole suositeltavaa .
+Microsoft ei toistaiseksi ole julkaissut toimivaa korjausta , joskin väliaikainen kiertokeino saattaa olla olemassa .

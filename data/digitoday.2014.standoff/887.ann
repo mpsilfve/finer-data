@@ -1,0 +1,16 @@
+T1	LOC 5 10	suomi
+T2	ORG 113 120	Googlen
+T3	ORG 292 298	Google
+T4	DATE 356 360	2014
+T5	PER 364 375	Bob Hoskins
+T6	PER 379 394	Donald Sterling
+T7	PRO 398 408	Vipukirves
+T8	ORG 412 420	S-market
+T9	ORG 424 435	Real Madrid
+T10	PER 494 507	Bob Hoskinsin
+T11	PER 580 597	Donald Sterlingin
+T12	PRO 651 661	Vipukirves
+T13	PER 740 753	Heikki Kärnän
+T14	ORG 885 891	Google
+T15	PER 954 967	Ayrton Sennan
+T100001	LOC 429 435	Madrid

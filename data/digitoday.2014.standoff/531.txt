@@ -1,0 +1,11 @@
+Starbucks ja Subway tarjoilevat salasanoja ilman kastiketta
+Suuren Starbucks-kahvilaketjun iPhone-maksusovellus tallentaa salasanat ja tilauspaikan koordinaatit salaamattomina maksajan puhelimeen .
+Starbucks , jolla on kaksi kahvilaa Suomessa , on tietoinen kryptaamattomista salasanoista .
+Sen mielestä ne eivät ole ongelma .
+Yritys sanoo Computerworldin kirjoituksessa ryhtyneensä toimiin asiakkaiden tietojen turvaamiseksi , mutta se ei kerro aikovansa lisätä salausta sovellukseen .
+Tietoturva-asiantuntija Daniel Wood julkaisi tiedon sovelluksen suojaamattomuudesta , kun ei onnistunut kertomaan siitä yritykselle .
+Hän sanoo , että Starbucksin oli päivitettävä koko sovellus eikä se ilmeisesti aio sitä tehdä .
+Edellisen kerran ketju teki päivityksen viime vuoden toukokuussa , Wood kertoi The Vergelle .
+Salaamattoman salasanan , tunnuksen ja sähköpostiosoitteen joutuminen vääriin käsiin edellyttää puhelimen päätymistä samoihin käsiin , mutta silloin se olisi helppo onkia sieltä kytkemällä laite tietokoneeseen .
+Voileipäketju Subwayn Kalifornian tilaussovellus tarjoilee monipuolisemman menun ilman salauskastiketta .
+Woodin mukaan sovellus , joka sallii tilaajan rakentaa oman leipänsä halutuista aineksista , tallentaa tilaajan täyden katuosoitteen , luottokorttitiedot ja tilauspaikan koordinaatit vapaasti luettavassa muodossa .

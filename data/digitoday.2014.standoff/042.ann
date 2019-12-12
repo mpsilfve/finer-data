@@ -1,0 +1,27 @@
+T1	ORG 24 36	Facebookilla
+T2	ORG 85 93	Facebook
+T3	ORG 213 221	Facebook
+T4	PRO 240 257	Paper-sovelluksen
+T5	PRO 378 385	Paperin
+T6	ORG 393 403	FiftyThree
+T7	ORG 428 436	Facebook
+T8	ORG 503 511	Facebook
+T9	ORG 666 676	Facebookin
+T10	ORG 713 724	FiftyThreen
+T11	PER 736 752	Georg Petschnigg
+T12	DATE 869 883	30. tammikuuta
+T13	ORG 891 899	Facebook
+T14	ORG 1041 1051	FiftyThree
+T15	PRO 1061 1071	Facebookin
+T16	ORG 1093 1101	Facebook
+T17	ORG 1239 1251	TechCrunchin
+T18	ORG 1308 1321	FiftyThreellä
+T19	PRO 1404 1427	" Paper By FiftyThree "
+T20	ORG 1450 1462	Facebookille
+T21	ORG 1557 1567	FiftyThree
+T22	LOC 1597 1611	Yhdysvalloissa
+T23	PRO 1632 1641	" paper "
+T24	ORG 1792 1802	FiftyThree
+T25	ORG 1991 1995	King
+T26	PRO 2043 2052	" candy "
+T27	PRO 2074 2083	" paper "

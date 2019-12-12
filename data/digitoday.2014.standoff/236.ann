@@ -1,0 +1,21 @@
+T1	ORG 0 5	ZDNet
+T2	PRO 8 22	Windows 10:ssä
+T3	ORG 57 64	ZDNetin
+T4	PRO 127 138	Windowsissa
+T5	PRO 176 195	Internet Explorerin
+T6	PRO 206 218	Windows 10:n
+T7	PRO 278 285	Chromen
+T8	PRO 289 298	Firefoxin
+T9	PRO 394 411	Internet Explorer
+T10	ORG 429 436	ZDNetin
+T11	PER 472 485	Mary Jo Foley
+T12	PRO 573 580	Spartan
+T13	PRO 691 700	Spartanin
+T14	PRO 718 724	IE:stä
+T15	PRO 761 767	Chakra
+T16	PRO 788 797	Tridentiä
+T17	PRO 886 905	Internet Exploreria
+T18	ORG 995 1004	Microsoft
+T19	PRO 1018 1030	Windows 10:n
+T20	DATE 1074 1088	21. tammikuuta
+T21	PRO 1133 1152	" Spartan " -selain

@@ -1,0 +1,16 @@
+Kytketkö Android-puhelimesi tietokoneeseen ?
+Ole tarkkana
+Suurin osa puhelimen omistajista on silti turvassa , sillä haitakkeen leviäminen pc:stä Androidiin vaatii debug-tilaa .
+Tietoturvayhtiö Symantec kertoo ensimmäisestä Windows-haittaohjelmasta , joka saastuttaa tietokoneeseen kytketyn Android-laitteen .
+Tartunnan tapahtuessa nimetty Trojan.Droidpakiksi nimetty haittaohjelma luo ja määrittelee Windowsin järjestelmätiedostoksi varsinaisena haitakkeena toimivan dll-tiedoston .
+Tämä lataa pc:lle tarvittavat asetustiedostot , Android-laitteen kanssa kommunikointiin tarvittavan Android debug bridge ( ADB ) -pc-työkalun ja lopuksi APK-asennuspaketin Androidille .
+Tämän jälkeen ADB-työkalu asennetaan pc:lle , ja se yrittää toistuvasti asentaa haittaohjelman sisältävää APK-pakettia tietokoneeseen kytkettyihin Android-laitteisiin .
+Asennus vaatii onnistuakseen , että Android-laitteen debug-tila on päälle kytketty .
+Useimmissa laitteissa se on oletusarvoisesti pois päältä .
+APK-paketti sisältää Android.Fakebank.B-pankkitroijalaisen , joka iskee eteläkorealaisiin pankkisovelluksiin .
+Ohjelma naamioituu Googlen ohjelmakaupaksi nimellä " Google App Store " ja pyrkii ylikirjoittamaan pankkiohjelmat sekä korvaamaan ne pankkitroijalaisilla .
+Ohjelma myös salakuuntelee puhelimen tekstiviestejä ja lähettää ne eteenpäin .
+Tartunnan välttämiseksi Symantec suosittelee varmistamaan , että Android-laitteen debug-tila ei ole päällä .
+Lisäksi käyttäjien tulisi olla varovaisia kytkiessään laitteen tuntemattomaan tietokoneeseen ja käyttää tietoturvaohjelmaa .
+Tartuntasysteemi on nähty aiemmin toiminnassa toisin päin .
+Viime vuoden helmikuussa uutisoitiin haittaohjelmasta , joka tarttui Android-laitteesta siihen kytkettyyn Windows-pc:hen .

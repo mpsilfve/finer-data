@@ -1,0 +1,14 @@
+T1	ORG 0 10	Globalstar
+T2	ORG 82 92	Globalstar
+T3	PRO 115 121	Sat-Fi
+T4	ORG 343 353	Globalstar
+T5	LOC 453 465	Yhdysvaltain
+T6	ORG 491 498	FCC:ltä
+T7	ORG 827 839	Globalstarin
+T8	ORG 1147 1157	Globalstar
+T9	ORG 1362 1382	Light Squared -yhtiö
+T10	ORG 1405 1408	FCC
+T11	ORG 1712 1724	Globalstarin
+T12	ORG 1782 1789	FCC:lle
+T13	ORG 1845 1860	Fierce Wireless
+T14	ORG 1882 1894	Globalstarin

@@ -1,0 +1,12 @@
+Googlen tutkija paljasti : Windowsissa piilee vakava haavoittuvuus
+Microsoft on tiennyt Windows 8.1:n haavoittuvuudesta viime syksystä lukien , tutkija väittää .
+Haavoittuvuuden löysi Googlen insinööri , joka käyttää vain nimimerkkiä " forshaw " .
+Haavoittuvuutta hyväksikäyttämällä hyökkääjä voi hankkia järjestelmänvalvojan oikeudet .
+Haavoittuvuuteen ei ole toistaiseksi saatavilla kiertokeinoja tai korjausta .
+Sanojensa vastapainoksi forshaw julkaisi myös todisteet aukon olemassaolosta .
+Forshaw'n mukaan myös Microsoft on tiennyt haavoittuvuudesta jo syyskuusta lähtien , mutta toistaiseksi Redmondin jätti on jättänyt sen korjaamatta .
+Microsoft puolestaan lausuu tutkivansa asiaa ja kehittelevänsä korjausta .
+Toistaiseksi on epäselvää , toimitetaanko mahdollinen paikkaus tammikuun päivitystiistain yhteydessä vai jopa erillisenä hotfixinä .
+Forshaw ei ole täysin selvillä , koskeeko haavoittuvuus myös muita Windows-versioita .
+Tammikuun päivitykset Windows-käyttöjärjestelmille ovat luvassa 13. tammikuuta .
+Asiasta kertoi Softpedia .

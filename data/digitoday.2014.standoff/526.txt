@@ -1,0 +1,13 @@
+Kultakaivos : NSA sieppaa 200 miljoonaa tekstiviestiä päivässä
+Yhdysvaltain kansallinen turvallisuusvirasto NSA kaappaa joka päivä lähes 200 miljoonaa tekstiviestiä .
+Niistä se koostaa tietokantoja , joista lypsetään tietoja , aikoja , paikkoja , tapaamisia , osoitteita ja rahansiirtoon liittyviä tietoja .
+Venäjällä tilapäisen turvapaikan saaneen tietovuotaja Edward Snowdenin viimeksi julkistetuista tiedostoista selviää , että NSA:n massiivinen tietourkinta kattaa myös tekstiviestit .
+Niistä koottua tietokantaa käytti hyväkseen myös Britannian tiedustelupalvelu GCHQ , joka kaivaa tietokannasta brittinumeroita koskevia tietoja .
+NSA ei kohdista tekstiviestien seurantaa yksilöityihin epäiltyihin , vaan sieppaa tekstiviestit myös sellaisilta henkilöiltä , joita ei epäillä mistään , kirjoittaa The Guardian , joka työsti Snowdenin toimittamaa materiaalia yhdessä brittikanava Channel 4:n kanssa .
+Tiedot perustuvat Snowdenin toimittamaan NSA:n sisäiseen esitykseen vuodelta 2011 .
+Sen alaotsikko kuului : SMS tekstiviestit : Kultakaivos , joka odottaa hyödyntämistä .
+Esityksestä selviää , että NSA keräsi sen vuoden huhtikuussa keskimäärin 194 miljoonaa tekstiviestiä .
+Tietoja hamstraavaa ohjelmaa kutsuttiin nimellä Dishfire .
+Koottuja tietoja analysoitiin Prefer-nimisellä ohjelmalla .
+NSA tislasi tekstiviesteistä päivittäin muun muassa : * Yli viisi miljoonaa tietoa vastaamatta jääneistä puheluista * Tiedot 1,6 miljoonasta rajanylityksestä * Yli 110\_000 nimeä digitaalisista käyntikorteista , joista saatiin myös kuvia * Yli 800\_000 rahansiirron tiedot * Paikkatietoja kertyi päivittäin 76\_000 tekstiviestistä , joissa ihmiset kyselivät reittiohjeita tai sopivat kokouksista .
+Muita matkustustietoja napattiin matkatoimistojen lähettämistä matkasuunnitelmista tai niiden muutoksista .

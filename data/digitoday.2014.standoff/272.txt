@@ -1,0 +1,26 @@
+" Nokia X on Nokian Android " — kolme teoriaa oudosta väitteestä
+Evleaksin mukaan Nokian Normandy eli Android-projekti on nimeltään Nokia X .
+Mutta julkaistaanko sitä ikinä ?
+Kyllä-ei-huhut Nokian väitetyn Android-puhelimien ympärillä jatkuvat .
+Luotettavaksi osoittautunut nimimerkki Evleaks kertoi Twitterissä , että koodinimi Normandy olisi nimeltään Nokia X .
+> Project Normandy = Nokia X— @ evleaks ( @ evleaks ) January 23 , 2014
+> .
+Nokian ja Microsoftin sopimus kuitenkin estää Nokiaa tuomasta omia laitteita markkinoille ennen vuotta 2016 .
+Sopimuksen sanamuoto ( pdf-linkki ) on hyvin selvä :
+– Myynnin toteutumisen jälkeen Nokia ei voisi lisensoida Nokia-tavaramerkkiä matkaviestinlaitteisiin seuraavan 30 kuukauden ajan eikä käyttää Nokia-tavaramerkkiä omissa matkaviestinlaitteissa ennen 31.12.2015 .
+Jäljelle jää kolme vaihtoehtoa :
+1. Huhu on väärä .
+Todennäköisesti B-suunnitelmana olemassa ollut Android-projekti on jäänyt elämään omaa elämäänsä internetissä , mutta laitteita ei ikinä nähdä .
+2. Nokialla ja Microsoftilla on salainen sopimus , jonka perusteella Nokia julkaisee laitteen .
+3. Microsoft julkaisee laitteen Nokia-nimellä .
+Kakkos- ja kolmosvaihtoehdon raja on häilyvä , sillä puhelinyksikön siirtyminen Nokialta Microsoftille on parhaillaan käynnissä .
+Nokialla on lehdistötilaisuus Barcelonan MWC-messuilla päivälleen kuukauden päästä 24. helmikuuta , mutta puhelimia ei kannattane odottaa .
+Kakkosvaihtoehto on sikäli outo , että Nokia myi pois puhelininfrastruktuurinsa .
+Uusi olisi rakennettava alusta alkaen .
+Lisäksi jo täynnä olevilla Android-markkinolla on kovin vähän tilaa uusille kilpailijoille .
+Kolmosvaihtoehto kummastuttaa sikäli , että Microsoft marssittaisi esiin uuden vaihtoehdon käyttöjärjestelmäkseen .
+Yhtiöllä on nyt jo Windows Phone sekä Series 40:stä jatkokehitelty Asha .
+Asha uudistettiin viime toukokuussa , joten sen dumppaaminen nyt olisi kummallista .
+Järjen valossa ykkösvaihtoehto tuntuu loogisimmalta .
+Mutta kaikkihan ei aina järjen mukaan toimi .
+Ensi kuun messut kertonevat lisää .

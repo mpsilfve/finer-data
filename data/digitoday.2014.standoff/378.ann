@@ -1,0 +1,22 @@
+T1	ORG 0 7	Samsung
+T2	PRO 34 44	Apple Payn
+T3	ORG 54 61	Samsung
+T4	ORG 92 100	LoopPayn
+T5	PRO 176 184	LoopPayn
+T6	LOC 256 270	Yhdysvalloissa
+T7	LOC 349 359	Euroopassa
+T8	ORG 445 449	CNBC
+T9	ORG 462 469	Samsung
+T10	ORG 571 576	Apple
+T11	PRO 633 656	Apple Pay -järjestelmän
+T12	ORG 694 701	Googlen
+T13	PRO 702 710	Walletin
+T14	PRO 900 917	LoopPay-tekniikan
+T15	ORG 925 932	Samsung
+T16	PRO 1006 1014	LoopPayn
+T17	ORG 1050 1056	Cnetin
+T18	PER 1068 1079	Scott Stein
+T19	PRO 1281 1289	LoopPayn
+T20	ORG 1493 1502	Samsungin
+T100001	ORG 34 39	Apple
+T100002	ORG 633 638	Apple

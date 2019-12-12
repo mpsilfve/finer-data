@@ -1,0 +1,19 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 19 30	Lumia 535:n
+T3	ORG 82 93	Microsoftin
+T4	ORG 168 179	Microsoftin
+T5	PRO 180 203	Lumia 535 -älypuhelimen
+T6	LOC 264 273	Redmondin
+T7	ORG 291 300	Microsoft
+T8	ORG 659 668	Microsoft
+T9	DATE 872 891	23. joulukuuta 2014
+T10	ORG 972 985	Microsoftilta
+T11	LOC 1003 1010	Italian
+T12	LOC 1050 1058	Suomessa
+T13	LOC 1083 1097	Yhdysvalloissa
+T14	LOC 1101 1109	Kiinassa
+T15	ORG 1283 1292	Microsoft
+T16	ORG 1411 1422	Microsoftin
+T17	ORG 1502 1508	Neowin
+T18	PRO 1520 1531	Lumia 535:n
+T19	ORG 1574 1584	Digitodayn

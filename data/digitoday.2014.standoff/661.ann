@@ -1,0 +1,20 @@
+T1	ORG 0 10	Ericssonin
+T2	ORG 36 49	Microsoftille
+T3	ORG 92 102	Ericssonin
+T4	ORG 135 146	Microsoftin
+T5	ORG 168 178	Ericssonin
+T6	PER 195 208	Hans Vestberg
+T7	ORG 310 321	Microsoftin
+T8	PER 351 361	Vestbergin
+T9	PER 394 404	Vestbergin
+T10	ORG 470 479	Bloomberg
+T11	ORG 581 589	Ericsson
+T12	ORG 611 622	Microsoftin
+T13	PER 648 661	Steve Ballmer
+T14	DATE 700 709	elokuussa
+T15	ORG 712 721	Microsoft
+T16	ORG 813 819	Nokian
+T17	PER 844 856	Stephen Elop
+T18	ORG 936 949	Ford Motorsin
+T19	PER 967 980	Alan Mulallya
+T100001	PER 936 940	Ford

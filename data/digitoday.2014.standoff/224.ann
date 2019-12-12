@@ -1,0 +1,26 @@
+T1	LOC 26 40	Pohjois-Korean
+T2	LOC 78 92	Pohjois-Korean
+T3	PRO 103 131	Mac OS X -käyttöjärjestelmän
+T4	LOC 287 303	Pohjois-Koreassa
+T5	ORG 483 499	North Korea Tech
+T6	LOC 502 518	Pohjois-Koreassa
+T7	PER 562 572	Will Scott
+T8	PRO 648 660	Punatähdeksi
+T9	PRO 704 712	Linuxiin
+T10	ORG 739 745	Applen
+T11	PRO 746 756	Macbookien
+T12	PRO 757 768	Mac OS X:ää
+T13	PRO 830 842	Macbookeista
+T14	PRO 890 911	Punatähden 2.0-versio
+T15	ORG 922 933	Microsoftin
+T16	PRO 934 963	Windows 7 -käyttöjärjestelmää
+T17	PRO 977 986	Punatähti
+T18	LOC 1034 1050	Pohjois-Koreassa
+T19	PRO 1093 1106	Windows XP:tä
+T20	EVENT 1109 1146	Chaos Computer Congress -tapahtumassa
+T21	PRO 1147 1180	Punatähti 3.0 -käyttöjärjestelmää
+T22	PER 1191 1196	Scott
+T23	PRO 1301 1333	Red Star 3.0 -käyttöjärjestelmän
+T24	PRO 1370 1393	Pastebin-verkkopalvelun
+T25	ORG 1452 1472	Gizmodo-verkkolehden
+T100001	LOC 489 494	Korea

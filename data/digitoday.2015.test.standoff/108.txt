@@ -1,0 +1,14 @@
+Nämä älypuhelimet latautuvat nopeiten
+Älypuhelimet joutuvat joskus kovaan käyttöön , joka vaatii akun nopeaa lataamista .
+Latausnopeudessa on laitteiden välillä huomattavia eroja .
+Tom's Guide testasi älypuhelimien latausnopeuksia .
+Nopein pikalataaja oli Asus Zenfone 2 .
+Sen akun latausaste kiipesi viidessä minuutissa viiden prosentin lähtötilasta 17 prosentin latausasteeseen .
+Viidessä minuutissa Google Nexus 6 , OnePlus 2 , Samsung Galaxy S6 , LG G4 ja Motorola Droid Turbo latautuivat 11 – 12 prosenttiin ja Apple iPhone 6 kuuteen prosenttiin .
+Ensimmäisenä 80 prosentin latausasteen saavutti Samsung Galaxy S6 .
+Siihen meni 48 minuuttia .
+Tähän vaikutti se , että laitteessa on 2 550 mAh:n akku , kun useimmat muut testatut älypuhelimet käyttävät 3\_000 mAh:n akkua .
+Nopeimmaksi latautujaksi voidaan valita Asus Zenfone 2 , joka oli nopein 5 minuutin ja 15 minuutin latauksissa ja jakoi voiton 30 minuutin latauksissa Galaxy S6:n kanssa .
+Puolen tunnin latauksessa Zenfone 2 ja Galaxy S6 ovat nopeimmat
+Toiseksi nopeimman latautujan titteli menee Samsung Galaxy S6:lle .
+Samsung Galaxy S6 pääsi pääsi 80 prosenttiin nopeiten toisia pienemmällä akulla

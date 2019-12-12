@@ -1,0 +1,10 @@
+Applen iTunesissa vaarallisia haavoittuvuuksia — Päivitä heti
+Sekä Mac- että Windows-versiot on syytä päivittää .
+Tietoturvaviranomainen Cert-fi varoittaa Applen iTunes-ohjelmistossa olevista haavoittuvuuksista .
+Yksi haavoittuvuus antaa hyökkääjälle mahdollisuuden muuttaa iTunesin ohjeikkunassa näkyviä tietoja .
+Toinen haavoittuvuus antaa kaataa ohjelmiston sopivasti muotoillulla videolla , minkä jälkeen hyökkääjä pääsee suorittamaan omaa ohjelmakoodiaan tietokoneessa .
+Kolmas aukko mahdollistaa man in the middle -hyökkäykset , jossa murtautuja pääsee suorittamaan omaa koodiaan , kun iTunes-ohjelmalla mennään iTunes-kauppaan .
+Applen tukisivujen mukaan vakavimmat haavoittuvuudet ovat iTunesin Windows-versiossa , mutta yksi myös Mac-versiossa .
+Apple on julkaissut iTunesiin päivityksen .
+Vaarallisia ovat versiota 11.1.4 edeltävät ohjelmaversiot .
+Uusin ja korjattu iTunes on ladattavissa täältä .

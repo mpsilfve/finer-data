@@ -1,0 +1,37 @@
+T1	ORG 0 8	F-Secure
+T2	LOC 9 16	USA:lle
+T3	LOC 120 132	Yhdysvaltain
+T4	ORG 198 207	F-Securen
+T5	PER 221 234	Sean Sullivan
+T6	LOC 242 254	Yhdysvaltain
+T7	ORG 266 281	Sony Picturesin
+T8	ORG 333 342	F-Securen
+T9	PRO 352 403	" USA's Double Standard : Don't Hack Like the USA "
+T10	PRO 410 467	" USA:n kaksinaismoralismi : Älä hakkeroi niin kuin USA "
+T11	PER 470 478	Sullivan
+T12	ORG 527 534	RealTek
+T13	ORG 537 544	JMicron
+T14	ORG 548 555	C-Media
+T15	ORG 564 575	Yhdysvallat
+T16	PRO 638 646	Stuxnet-
+T17	PRO 650 669	Duqu-haittaohjelmia
+T18	ORG 715 730	Sony Picturesin
+T19	LOC 739 752	Pohjois-Korea
+T20	LOC 789 803	Pohjois-Korean
+T21	LOC 915 928	Pohjois-Korea
+T22	PER 931 939	Sullivan
+T23	LOC 966 978	Yhdysvaltain
+T24	LOC 1002 1039	Korean demokraattinen kansantasavalta
+T25	PER 1118 1126	Sullivan
+T26	LOC 1175 1187	Yhdysvaltain
+T27	LOC 1195 1200	Kiina
+T28	LOC 1224 1229	Kiina
+T29	LOC 1308 1323	Pohjois-Koreaan
+T30	LOC 1326 1338	Yhdysvaltoja
+T31	ORG 1478 1487	RealTekin
+T32	ORG 1490 1497	JMicron
+T33	ORG 1501 1509	C-Median
+T34	ORG 1567 1580	Sony Pictures
+T100001	LOC 398 401	USA
+T100002	LOC 412 417	USA:n
+T100003	LOC 462 465	USA

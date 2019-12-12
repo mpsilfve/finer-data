@@ -1,0 +1,19 @@
+Windows 8.1:n päivitys luultua lähempänä
+Windows 8.1 update 1:n ennustettiin saapuvan huhtikuussa .
+Siitä ruutukaappauksia vuotanut Wzor veikkaa varhaisempaa julkaisua .
+Wzorin tietojen mukaan Windows 8.1 update 1 julkaistaan jo maaliskuussa .
+Aiemmin käyttöjärjestelmäpäivitys oli huhujen mukaan tarkoitus jakaa käyttäjille Microsoftin Build-konferenssin yhteydessä huhtikuussa .
+Julkaisemalla päivitys jo aiemmin Microsoft varmistaa sen , että Build-konferenssin ja suuren yleisön mielenkiinto kohdistuu vain ja ainoastaan tapahtuman yhteydessä oletetusti esiteltävään " Windows 9:ään " .
+ZDnetin Mary Jo Foleyn luotettavien lähteiden mukaan Windows 8.1 update 1:n tarkka julkaisuajankohta on 11. maaliskuuta .
+Ajankohta on sama , jolloin Microsoft julkaisee myös kuukausittaiset tietoturvapäivitykset .
+Käyttöjärjestelmäpäivitys on nykytiedon valossa tarkoitus jakaa Windows Updaten avulla toisin kuin Windows 8.1 -päivitys , joka jaettiin Windowsin ohjelmistokaupan kautta .
+Samoihin aikoihin Windows 8.1 update 1:n kanssa julkaistaan myös Windows Phonen 8.1 -päivitys , Foleyn lähteet kertovat .
+Ei pelkkä tietoturvapäivitys
+Windows 8.1 update 1 tarjonnee pari mielenkiintoista uudistusta .
+Metro-sovelluksia on nyt mahdollista kiinnittää työpöydän tehtäväpalkkiin , josta ne on helppo käynnistää siirtymättä Metro-käyttöliittymän puolelle .
+Lisäksi Metro-sovellukset saavat nyt myös sulkemispainikkeen perinteisten työpöytäohjelmien tapaan .
+Metro-sovellusten sulkeminen ei siis ilmeisesti enää jatkossa edellytä ylimääräisiä hiiren liikkeitä tai näppäinoikoteiden käyttöä .
+Myös Metro-aloitusruutuun on lisätty vuotaneiden kuvakaappausten perusteella muutamia käyttöä helpottavia kikkoja , kuten perinteiset , hiiren kakkospainikkeen takaa avautuvat kontekstivalikot .
+Uusista vuotaneista kuvakaappauksista uutisoi Softpedia .
+Julkaisemalla Windows 8.1 update 1 sekä Windows Phone -päivitys nyt , voi Microsoft jatkossa keskittyä täydellä teholla Windows 9:n kehitystyöhön , jonka on määrä alkaa heti Build-konferenssin jälkeen huhtikuussa .
+Koodinimellä " Threshold " tunnettu käyttöjärjestelmä on vahvistamattomien tietojen mukaan tarkoitus julkaista keväällä 2015 .

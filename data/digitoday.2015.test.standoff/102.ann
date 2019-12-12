@@ -1,0 +1,10 @@
+T1	ORG 0 6	Google
+T2	ORG 58 64	Google
+T3	ORG 154 160	Google
+T4	LOC 249 259	Austinissa
+T5	LOC 260 270	Teksasissa
+T6	PRO 319 342	Lexus-robottiautoillaan
+T7	ORG 345 354	Googlelta
+T8	LOC 365 373	Austinin
+T9	ORG 523 529	Google
+T10	ORG 635 642	Googlen

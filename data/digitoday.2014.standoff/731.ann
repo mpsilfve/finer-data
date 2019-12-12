@@ -1,0 +1,22 @@
+T1	ORG 0 7	Hyundai
+T2	PRO 18 34	Google Glassilla
+T3	PRO 49 61	Google Glass
+T4	ORG 91 98	Hyundai
+T5	PRO 182 198	Google Glassilla
+T6	ORG 331 338	Hyundai
+T7	ORG 370 377	Hyundai
+T8	PRO 399 415	Genesis-mallista
+T9	PRO 499 516	Blue Link -alusta
+T10	PRO 621 635	Google Glassin
+T11	ORG 860 867	Hyundai
+T12	PRO 884 916	Blue Link Glassware -sovelluksen
+T13	PRO 935 957	2015 Genesis - sedanin
+T14	PRO 994 1001	Glassia
+T15	PRO 1119 1126	Glassin
+T16	ORG 1256 1264	Hyundain
+T17	ORG 1431 1441	Nissanilla
+T18	PRO 1527 1541	Nismo-laitteen
+T100001	ORG 18 24	Google
+T100002	ORG 49 55	Google
+T100003	ORG 182 188	Google
+T100004	ORG 621 627	Google
