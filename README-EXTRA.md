@@ -1,6 +1,6 @@
 Extra processing steps on top of released version of data
 
-Add section tags (<HEADLINE> etc.) into data
+Add section tags (`<HEADLINE>` etc.) into data
 
 ```
 python3 scripts/mergetags.py \
@@ -10,9 +10,9 @@ python3 scripts/mergetags.py \
 ```
 
 (digitoday.2015.test.csv and wikipedia.test.csv already contain
-<HEADLINE> tags.)
+`<HEADLINE>` tags.)
 
-Split by document using <HEADLINE> tag
+Split by document using `<HEADLINE>` tag
 
 digitoday.2014 (train+dev)
 
