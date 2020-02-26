@@ -12,6 +12,28 @@ python3 scripts/mergetags.py \
 (digitoday.2015.test.csv and wikipedia.test.csv already contain
 `<HEADLINE>` tags.)
 
+Create version with `-DOCSTART-` lines
+
+```
+egrep -v '^<(BODY|INGRESS|PARAGRAPH)>' data/digitoday.2014.withtags.csv \
+    | cat -s | perl -pe 's/<HEADLINE>.*/-DOCSTART-\tO\tO/' \
+    > data/digitoday.2014.withdocstart.csv
+for f in data/digitoday.2015.test.csv data/wikipedia.test.csv ; do
+    egrep -v '^<(BODY|INGRESS|PARAGRAPH)>' $f | cat -s \
+        | perl -pe 's/<HEADLINE>.*/-DOCSTART-\tO\tO/' \
+	> ${f%.csv}.withdocstart.csv
+done
+```
+
+Split version of digitoday.2014 (train+dev) with `-DOCSTART-` lines
+into train and dev. (Extra `-DOCSTART-` line added for dev start as
+the original split is document-internal and lacks `<HEADLINE>`.)
+
+```
+head -n 195447 data/digitoday.2014.withdocstart.csv > data/digitoday.2014.train.withdocstart.csv
+(echo "-DOCSTART-"$'\t'"O"$'\t'"O"; echo; tail -n +195448 data/digitoday.2014.withdocstart.csv) > data/digitoday.2014.dev.withdocstart.csv
+```
+
 Split by document using `<HEADLINE>` tag
 
 digitoday.2014 (train+dev)
