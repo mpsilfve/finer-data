@@ -11,7 +11,19 @@ of 953 articles (193,742 word tokens) with six named entity classes
 is available for research purposes and can be readily used for
 development of NER systems for Finnish. The corpus is described in the article
 
-"A Finnish News Corpus for Named Entity Recognition" (in review)
+["A Finnish News Corpus for Named Entity Recognition"](https://arxiv.org/abs/1908.04212)
+
+```
+@article{ruokolainen2019finnish,
+  title={A finnish news corpus for named entity recognition},
+  author={Ruokolainen, Teemu and Kauppinen, Pekka and Silfverberg, Miikka and Lind{\'e}n, Krister},
+  journal={Language Resources and Evaluation},
+  pages={1--26},
+  year={2019},
+  publisher={Springer}
+}
+```
+
 
 
 ## Experiments
