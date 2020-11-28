@@ -1,0 +1,16 @@
+T1	ORG 0 8	Volvolta
+T2	ORG 262 274	Volvo Carsin
+T3	PER 291 307	Håkan Samuelsson
+T4	LOC 338 355	Washington DC:ssä
+T5	ORG 395 401	Volvon
+T6	PER 420 430	Samuelsson
+T7	ORG 437 443	Volvon
+T8	ORG 860 866	Applea
+T9	ORG 871 882	Microsoftia
+T10	PER 922 932	Samuelsson
+T11	PER 966 976	Samuelsson
+T12	ORG 1075 1081	Volvon
+T13	ORG 1201 1213	Volkswagenin
+T14	ORG 1287 1292	Volvo
+T15	ORG 1679 1685	Volvon
+T16	PER 1686 1702	Håkan Samuelsson

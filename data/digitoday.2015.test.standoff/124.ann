@@ -1,0 +1,24 @@
+T1	ORG 21 33	Volkswagenin
+T2	ORG 64 74	Volkswagen
+T3	ORG 212 221	Bloomberg
+T4	LOC 233 244	Hollannissa
+T5	LOC 248 267	Isossa-Britanniassa
+T6	ORG 464 468	VW:n
+T7	PRO 506 514	Audeissa
+T8	PRO 517 528	Porscheissa
+T9	PRO 532 554	Bentley-luksusautoissa
+T10	PRO 594 603	Fiateissa
+T11	PRO 606 615	Volvoissa
+T12	PRO 618 626	Hondissa
+T13	PRO 630 654	Maserati-urheiluautoissa
+T14	ORG 914 916	VW
+T15	ORG 1279 1289	Volkswagen
+T16	DATE 1317 1328	vuonna 2013
+T17	EVENT 1413 1432	Usenix-tapahtumassa
+T18	LOC 1433 1451	Washington D.C:ssä
+T19	ORG 1482 1486	VW:n
+T20	ORG 1651 1655	VW:n
+T21	PRO 1713 1725	VW Passateja
+T22	PRO 1730 1737	Golfeja
+T23	ORG 2098 2111	Fiat Chrysler
+T24	ORG 2280 2286	Fiatin

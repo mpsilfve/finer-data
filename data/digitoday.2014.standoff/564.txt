@@ -1,0 +1,13 @@
+Kiina tehostaa " kybersuvereniteettia " - estää vpn-yhteydet puhelimilta
+Kiina on estänyt useiden tavallisten ihmisten suosimien vpn-palvelujen toiminnan .
+Yritysten salatut verkot ovat saaneet olla rauhassa .
+Kolme vpn-yhteyksien toimittajaa ( virtual private network ) ilmoittaa [ BBC:n ] ( https://admin.taloussanomat.fi/Kiinan%20est%C3%A4neen%20p%C3%A4%C3%A4syn%20heid%C3%A4n%20verkkoihinsa.%20 http://www.bbc.com/news/technology-30982198 ) mukaantoimintaansa häirittävän Kiinassa .
+Astrill , StrongVPN ja Golden Frog ovat olleet tavallisten käyttäjien suosiossa , mutta suuri palomuuri estää nyt pääsyn niiden useimmille palvelimille .
+Eston kohteeksi joutuneiden vpn-palvelujen erityispiirre oli se , että niitä käytetään enimmäkseen älypuhelinyhteyksien kautta .
+Vpn-verkoissa liikenne kulkee salattuna , joten automaattiset ip-estot eivät pure niihin .
+Kiinan verkkoliikenteen valvojat pystyvät kuitenkin löytämään vpn-palvelimet ja estämään niiden liikenteen .
+Pienille vpn-palveluille , joita internetissä on tarjolla pilvin pimein , tämä on todellinen ongelma .
+Sen sijaan suuret vpn-yritykset , joilla on kymmenittäin palvelimia eri puolilla maailmaa , pystyvät operoimaan suhteellisen luotettavasti .
+Tosin käyttäjä voi joutua etsimään toimivan palvelimen yrityksen tarjonnasta .
+Kiinalaismedian mukaan vpn-palvelinten liikenne on estetty turvallisuuden nimissä .
+Uutistoimisto Reutersin mukaan valtion tukeman ajatushautomon turvallisuusasiantuntijan mukaan Kiinan suurta palomuuria oli päivitetty maan “ kyberalueen suvereniteetin ” ylläpitämiseksi .

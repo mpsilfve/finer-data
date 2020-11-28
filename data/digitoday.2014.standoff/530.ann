@@ -1,0 +1,23 @@
+T1	ORG 0 4	Ford
+T2	ORG 54 58	Ford
+T3	ORG 108 116	Fordilla
+T4	ORG 168 174	Fordin
+T5	ORG 259 265	Fordin
+T6	PER 286 296	Jim Farley
+T7	LOC 350 363	Las Vegasissa
+T8	ORG 364 393	Business Insider -julkaisulle
+T9	PER 523 529	Farley
+T10	ORG 562 566	Ford
+T11	ORG 642 646	Ford
+T12	PER 650 656	Farley
+T13	ORG 729 735	Fordin
+T14	LOC 805 815	Minnesotan
+T15	PER 827 837	Al Franken
+T16	ORG 898 904	Fordin
+T17	PER 921 936	Alan Mulallylle
+T18	ORG 984 988	Ford
+T19	ORG 1053 1066	Computerworld
+T20	ORG 1141 1164	Yhdysvaltain kongressin
+T21	ORG 1187 1190	GAO
+T22	ORG 1378 1381	GAO
+T100001	LOC 1141 1153	Yhdysvaltain

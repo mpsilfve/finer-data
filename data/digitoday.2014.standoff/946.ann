@@ -1,0 +1,39 @@
+T1	LOC 31 37	Venäjä
+T2	ORG 66 78	NY Timesille
+T3	LOC 223 234	Yhdysvallat
+T4	ORG 261 276	Sony Picturesin
+T5	LOC 294 307	Pohjois-Korea
+T6	PER 327 339	Barack Obama
+T7	LOC 418 432	Pohjois-Korean
+T8	ORG 450 468	The New York Times
+T9	LOC 490 503	Pohjois-Korea
+T10	ORG 595 600	Sonyn
+T11	PRO 601 623	The Interview -elokuva
+T12	ORG 887 891	Sony
+T13	ORG 1008 1018	NY Timesin
+T14	ORG 1171 1182	Taia Global
+T15	ORG 1455 1471	Venäjän hallitus
+T16	LOC 1474 1485	Yhdysvallat
+T17	LOC 1563 1577	Pohjois-Koreaa
+T18	LOC 1583 1590	Venäjää
+T19	LOC 1606 1618	Yhdysvaltain
+T20	LOC 1651 1659	Ukrainan
+T21	LOC 1679 1690	Yhdysvallat
+T22	LOC 1811 1823	Yhdysvaltoja
+T23	LOC 1826 1840	Pohjois-Koreaa
+T24	ORG 1862 1865	FBI
+T25	LOC 1997 2013	Pohjois-Koreasta
+T26	LOC 2032 2044	Yhdysvaltain
+T27	LOC 2110 2124	Pohjois-Koreaa
+T28	LOC 2183 2197	Yhdysvalloilla
+T29	EVENT 2310 2323	Irakin sotaan
+T30	LOC 2332 2343	Yhdysvallat
+T31	DATE 2352 2363	vuonna 2003
+T32	LOC 2378 2389	Yhdysvallat
+T33	LOC 2421 2429	Irakilla
+T34	LOC 2517 2529	Yhdysvaltoja
+T100001	LOC 66 68	NY
+T100002	LOC 454 462	New York
+T100003	LOC 1008 1010	NY
+T100004	LOC 1455 1462	Venäjän
+T100005	LOC 2310 2316	Irakin

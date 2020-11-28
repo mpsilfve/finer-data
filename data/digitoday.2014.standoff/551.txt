@@ -1,0 +1,13 @@
+Tietokoneille hyökätään jo : " Poista Flash Player tietokoneelta "
+Adoben Flash Playerissa on jälleen korjaamaton haavoittuvuus , johon hyökätään aktiivisesti .
+Viestintäviraston kehotusta on syytä harkita vakavasti .
+Adobe pääsi juuri korjaamasta hyökätyn haavoittuvuuden Flash Playerista , kun uutta jo käytetään hyväksi haitallisten verkkomainosten avulla .
+Tietoturvayhtiö Trend Micron mukaan haavoittuvuutta on käytetty tavallisesti luotettavilla verkkosivuilla osana Angler Exploit Kit -levitysjärjestelmää .
+Mainoksia on saastutettu haavoittuvuutta hyödyntävällä Flash-objektilla .
+Samalla , kun Adobelta odotetaan korjausta , Viestintäviraston Kyberturvallisuuskeskus antaa jykevän neuvonsa Flashin käyttäjille .
+– Kyberturvallisuuskeskus suosittelee poistamaan Adobe Flash Player -ohjelmiston tietokoneelta tai kytkemään sen pois päältä verkkoselaimesta .
+Neuvo tarkoittaa paitsi tietoturvan paranemista , myös sitä , että moni sisältö verkossa lakkaa toimimasta .
+Toisaalta Flashin valta on murenemassa .
+Esimerkiksi valtava Flashia käyttänyt videopalvelu Youtube alkoi äskettäin käyttää oletustoistimena html5-tekniikkaa .
+Jos kuitenkin haluaa pitää Flashista kiinni , on yhtenä vaihtoehtona selainliitännäinen , joka estää Flash-sisältöjä käynnistymästä ilman erillistä hyväksyntää .
+Lisäksi selaimiin löytyy esimerkiksi mainoksia estäviä liitännäisiä , Viestintävirasto neuvoo .

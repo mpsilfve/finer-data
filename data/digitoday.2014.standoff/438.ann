@@ -1,0 +1,15 @@
+T1	PER 0 9	Elon Musk
+T2	ORG 34 41	Teslasi
+T3	PRO 48 59	Twitterissä
+T4	PER 72 81	Elon Musk
+T5	PRO 120 133	Tesla-autojen
+T6	ORG 167 181	Tesla Motorsin
+T7	PER 193 202	Elon Musk
+T8	ORG 249 257	Teslojen
+T9	PER 288 292	Musk
+T10	PRO 359 370	Twitterissä
+T11	PER 537 541	Musk
+T12	PER 707 718	Elon Muskin
+T13	PER 803 807	Musk
+T14	PRO 876 892	Model S -autojen
+T100001	PER 167 172	Tesla

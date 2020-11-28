@@ -1,0 +1,20 @@
+T1	ORG 0 8	Nokialle
+T2	ORG 15 30	China Telecomin
+T3	ORG 44 49	Nokia
+T4	ORG 100 113	China Telecom
+T5	LOC 177 183	Kiinan
+T6	ORG 227 240	China Telecom
+T7	ORG 400 409	Huaweille
+T8	ORG 413 420	ZTE:lle
+T9	ORG 440 446	Nokian
+T10	ORG 449 479	Alcatel-Lucent Shanghai Bellin
+T11	ORG 483 493	Ericssonin
+T12	ORG 542 554	TotalTelecom
+T13	ORG 582 596	C114-julkaisun
+T14	ORG 804 819	China Telecomin
+T15	ORG 833 850	China Telecomilla
+T16	ORG 1153 1166	China Telecom
+T17	ORG 1193 1208	China Mobilesta
+T18	DATE 1314 1324	Marraskuun
+T19	ORG 1342 1355	China Mobilen
+T100001	LOC 464 472	Shanghai

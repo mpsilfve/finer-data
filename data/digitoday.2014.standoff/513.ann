@@ -1,0 +1,17 @@
+T1	ORG 25 33	Snapchat
+T2	ORG 98 108	Snapchatin
+T3	PRO 278 290	Snapchatissa
+T4	ORG 440 455	Gibson Security
+T5	PRO 471 483	Snapchatissa
+T6	ORG 575 583	Snapchat
+T7	ORG 742 750	Gibsonin
+T8	ORG 879 889	TechCrunch
+T9	LOC 956 968	Yhdysvaltoja
+T10	ORG 1145 1157	SnapchatDB:n
+T11	ORG 1281 1291	SnapchatDB
+T12	ORG 1327 1337	Snapchatin
+T13	DATE 1425 1434	elokuussa
+T14	ORG 1507 1515	Snapchat
+T15	PRO 1633 1645	Facebookille
+T16	PRO 1710 1722	Facebookista
+T100001	PER 440 446	Gibson

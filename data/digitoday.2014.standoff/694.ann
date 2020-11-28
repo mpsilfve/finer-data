@@ -1,0 +1,18 @@
+T1	EVENT 0 12	Google I/O:n
+T2	EVENT 34 67	Google I/O -kehittäjäkonferenssin
+T3	LOC 132 164	San Franciscon Moscone Centeriin
+T4	DATE 172 196	kesäkuun 25. - 26. päivä
+T5	EVENT 215 236	Google I/O-tapahtuman
+T6	EVENT 412 424	Google I/O:n
+T7	DATE 470 489	8. - 10. huhtikuuta
+T8	ORG 504 510	Google
+T9	PRO 658 667	Google+:n
+T10	PRO 689 717	Google Wallet -sovelluksella
+T11	ORG 913 919	Google
+T12	PRO 1017 1033	Chromebook Pixel
+T13	ORG 1036 1044	Geek.com
+T14	ORG 1209 1215	Google
+T100001	ORG 0 6	Google
+T100002	ORG 34 40	Google
+T100003	ORG 215 221	Google
+T100004	ORG 689 695	Google

@@ -1,0 +1,29 @@
+T1	PRO 9 19	Blackberry
+T2	PER 25 31	Obaman
+T3	ORG 47 57	Blackberry
+T4	ORG 131 150	Wall Street Journal
+T5	ORG 158 173	Valkoisen talon
+T6	ORG 208 222	Valkoinen talo
+T7	ORG 237 246	Samsungin
+T8	ORG 252 256	LG:n
+T9	ORG 327 350	Wall Street Journalille
+T10	ORG 388 399	Blackberryn
+T11	ORG 475 490	Valkoisen talon
+T12	ORG 551 584	White House Communications Agency
+T13	PER 611 624	Barack Obaman
+T14	PER 682 687	Obama
+T15	PRO 710 725	Blackberrystään
+T16	ORG 747 752	WSJ:n
+T17	PER 798 803	Obama
+T18	DATE 810 821	joulukuussa
+T19	ORG 852 863	Blackberryn
+T20	ORG 882 888	Applen
+T21	PRO 889 896	iPhonea
+T22	PRO 934 941	iPhonea
+T23	ORG 963 968	WSJ:n
+T24	PRO 976 982	iPhone
+T25	ORG 1008 1023	Valkoisen talon
+T26	ORG 1039 1050	Blackberryn
+T27	ORG 1065 1080	Valkoisen talon
+T100001	LOC 131 142	Wall Street
+T100002	LOC 327 338	Wall Street

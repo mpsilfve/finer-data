@@ -1,0 +1,14 @@
+T1	ORG 0 5	Nokia
+T2	ORG 62 76	Nokia Networks
+T3	ORG 80 87	Coriant
+T4	LOC 197 207	Barcelonan
+T5	EVENT 208 234	Mobile World -tapahtumassa
+T6	DATE 235 245	maaliskuun
+T7	ORG 255 260	Nokia
+T8	ORG 1178 1194	Nokia Networksin
+T9	PER 1213 1226	Hossein Moiin
+T10	ORG 1248 1255	Coriant
+T11	PRO 1276 1295	8600 Smart Routerin
+T12	ORG 1316 1321	Nokia
+T13	ORG 1408 1420	Infoneticsin
+T14	ORG 1693 1707	FierceWireless

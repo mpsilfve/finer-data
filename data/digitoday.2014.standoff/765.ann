@@ -1,0 +1,8 @@
+T1	ORG 0 6	Nokian
+T2	ORG 62 67	Nokia
+T3	PRO 172 197	Nokia 255 -nimisen mallin
+T4	ORG 223 229	Nokian
+T5	ORG 289 295	Nokian
+T6	PRO 456 465	Nokia 225
+T100001	ORG 172 177	Nokia
+T100002	ORG 456 461	Nokia

@@ -1,0 +1,26 @@
+T1	ORG 0 9	Samsungin
+T2	ORG 39 49	Ericssonin
+T3	ORG 57 65	Ericsson
+T4	ORG 133 142	Samsungin
+T5	ORG 152 159	Samsung
+T6	ORG 208 215	Googlen
+T7	DATE 225 237	Marraskuussa
+T8	ORG 238 245	Samsung
+T9	ORG 249 254	Nokia
+T10	ORG 366 374	Ericsson
+T11	ORG 424 433	Samsungin
+T12	DATE 454 467	vuodesta 2012
+T13	ORG 508 520	Ericssonille
+T14	ORG 566 574	Ericsson
+T15	ORG 723 735	Ericssonille
+T16	ORG 780 789	Reutersin
+T17	ORG 817 827	Ericssonin
+T18	PER 867 881	Kasim Alfalahi
+T19	ORG 911 920	Samsungin
+T20	ORG 1029 1037	Ericsson
+T21	ORG 1148 1155	Samsung
+T22	ORG 1215 1221	Applen
+T23	DATE 1231 1243	Marraskuussa
+T24	ORG 1244 1249	Nokia
+T25	ORG 1253 1260	Samsung
+T26	ORG 1462 1466	Cnet

@@ -1,0 +1,25 @@
+T1	ORG 21 29	Snapchat
+T2	ORG 97 105	Snapchat
+T3	ORG 131 141	Facebookin
+T4	ORG 294 304	Facebookin
+T5	ORG 325 332	Googlen
+T6	ORG 374 382	Snapchat
+T7	ORG 421 455	Yhdysvaltain arvopaperikomissiolle
+T8	ORG 514 529	Financial Times
+T9	ORG 650 691	US Securities and Exchange Commissionille
+T10	ORG 841 847	Yahoon
+T11	ORG 883 917	Kleiner Perkins Caufield & Byersin
+T12	ORG 927 937	Snapchatin
+T13	DATE 953 964	Joulukuussa
+T14	ORG 965 973	Snapchat
+T15	ORG 983 999	Credit Suissesta
+T16	PER 1029 1041	Imran Khanin
+T17	ORG 1066 1074	Snapchat
+T18	ORG 1210 1220	Snapchatin
+T19	PER 1237 1249	Evan Spiegel
+T20	ORG 1285 1300	Sony Picturesin
+T21	ORG 1348 1358	Snapchatin
+T22	ORG 1436 1451	Sony Picturesin
+T23	PER 1468 1482	Michael Lynton
+T24	ORG 1490 1500	Snapchatin
+T100001	LOC 421 433	Yhdysvaltain

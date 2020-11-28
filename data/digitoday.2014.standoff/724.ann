@@ -1,0 +1,17 @@
+T1	ORG 0 6	Google
+T2	ORG 37 44	Googlen
+T3	PRO 64 71	Nexus 5
+T4	ORG 193 197	LG:n
+T5	PRO 209 216	Nexus 5
+T6	PRO 311 334	Androidin Kitkat-versio
+T7	PRO 427 434	Nexus 5
+T8	PRO 448 475	Google Play -verkkokaupassa
+T9	LOC 484 491	Suomeen
+T10	ORG 515 521	Google
+T11	PRO 624 638	Google Playstä
+T12	ORG 684 693	Firstpost
+T13	PRO 706 713	Nexus 5
+T14	ORG 725 737	Digitodayssa
+T15	DATE 738 747	5.12.2013
+T100001	ORG 448 454	Google
+T100002	ORG 624 630	Google

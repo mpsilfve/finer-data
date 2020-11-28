@@ -1,0 +1,12 @@
+T1	PER 0 10	Zuckerberg
+T2	ORG 34 44	Facebookin
+T3	EVENT 148 163	F8-tapahtumassa
+T4	LOC 164 180	San Franciscossa
+T5	PER 183 198	Mark Zuckerberg
+T6	ORG 206 216	Facebookin
+T7	PER 556 566	Zuckerberg
+T8	ORG 593 599	Cnetin
+T9	PER 1006 1016	Zuckerberg
+T10	ORG 1090 1100	Facebookin
+T11	ORG 1169 1178	F-Securen
+T12	PER 1193 1208	Sean Sullivanin

@@ -1,0 +1,20 @@
+T1	ORG 0 10	Anthemilta
+T2	ORG 85 93	Anthemin
+T3	ORG 167 181	Kiinan valtion
+T4	ORG 220 229	Bloomberg
+T5	LOC 301 313	Yhdysvaltain
+T6	ORG 359 369	Anthemilta
+T7	PRO 842 859	Krebs on Security
+T8	ORG 869 880	Bloombergin
+T9	ORG 889 894	FBI:n
+T10	LOC 999 1011	Yhdysvaltain
+T11	ORG 1107 1115	Anthemin
+T12	ORG 1161 1179	Northrop Grummanin
+T13	ORG 1195 1203	Boeingin
+T14	ORG 1230 1239	Missourin
+T15	PER 1279 1285	Obaman
+T16	PER 1322 1340	Michael Danielilla
+T17	ORG 1360 1370	Anthemissa
+T100001	LOC 167 173	Kiinan
+T100002	PER 842 847	Krebs
+T100003	PER 1170 1179	Grummanin

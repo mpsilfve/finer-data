@@ -1,0 +1,14 @@
+Microsoft ottaa hajurakoa floppiin ?
+Thresholdista tulee " Windows 9 "
+Microsoft aikoo kutsua seuraavaa isompaa Windows-päivitystään nimellä Windows 9 , väittää Winsupersiten Paul Thurrott .
+Paul Thurrottin mukaan uusi , koodinimellä " Threshold " tunnettu Windows-versio on lopulliselta nimeltään Windows 9 .
+Tällä tavalla Microsoft haluaa ottaa etäisyyttä epäonnistuneeksi koettuun Windows 8:aan .
+Uusi käyttöjärjestelmä on tarkoitus esitellä Build 2014 -konferenssin yhteydessä ensi huhtikuussa , minkä jälkeen sen kehitystyön on tarkoitus alkaa .
+Tällä hetkellä Microsoftilla on monta rautaa tulessa : aiemmin Build-konferenssin suurimmaksi julkistukseksi ja puheenaiheeksi nostettu Windows Phone 8.1 saa väistyä Windows 9:n tieltä .
+Samaan aikaan Microsoftin huhutaan kehittelevän uuden sukupolven Surface-tablet-tietokoneita .
+Kolme välietappia
+Windows 9:n kehitystyö on Thurrottin tietojen mukaan tarkoitus jakaa kolmeen välivaiheeseen .
+Toistaiseksi on epäselvää , kutsutaanko välivaiheita perinteisesti beetaksi , julkaisuehdokkaaksi ja lopulliseksi versioksi .
+Epäselvää on myös , nähdäänkö uudesta Windows 9:stä ennen julkaisua yhtäkään suurelle yleisölle tarkoitettua versiota vai hoidetaanko käyttöjärjestelmän testaus sisäisesti .
+Julkaisuajankohdaksi on Thurrottin mukaan valittu huhtikuu 2015 .
+Windows 8.1:n ensimmäisen suuremman päivityksen ajankohta on näillä näkymin niin ikään huhtikuu , joten Windows 8:aan pettyneillä on edessään odotuksentäyteinen vuosi .

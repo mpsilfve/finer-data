@@ -1,0 +1,16 @@
+T1	ORG 13 26	Microsoftille
+T2	ORG 101 112	Microsoftin
+T3	LOC 245 257	Yhdysvaltain
+T4	LOC 305 310	USA:n
+T5	ORG 391 398	Reuters
+T6	LOC 470 475	USA:n
+T7	ORG 537 548	Microsoftia
+T8	PER 577 590	James Francis
+T9	DATE 599 610	joulukuussa
+T10	LOC 624 633	Irlantiin
+T11	ORG 667 678	Microsoftin
+T12	ORG 876 885	Microsoft
+T13	ORG 1142 1151	Microsoft
+T14	ORG 1162 1171	Reutersin
+T15	ORG 1205 1218	Microsoftille
+T16	ORG 1342 1353	Microsoftin

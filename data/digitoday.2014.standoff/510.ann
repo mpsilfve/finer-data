@@ -1,0 +1,25 @@
+T1	ORG 0 18	New Yorkin poliisi
+T2	PRO 26 56	Google Glass - virtuaalilaseja
+T3	ORG 57 84	New Yorkin poliisilaitoksen
+T4	ORG 138 145	Googlen
+T5	ORG 196 203	Googlen
+T6	ORG 264 283	New Yorkin poliisin
+T7	PRO 335 366	Google Glass Explorer -ohjelman
+T8	ORG 403 418	VentureBeatille
+T9	PRO 456 486	Google Glass - virtuaalilaseja
+T10	ORG 552 559	Googlen
+T11	ORG 687 693	NYDP:n
+T12	PER 709 724	Stephen Davisin
+T13	PRO 742 762	Google Glass -lasien
+T14	ORG 798 807	TechRadar
+T15	ORG 864 868	NYPD
+T16	PER 956 961	Davis
+T17	PRO 983 1002	Google Glass -hanke
+T100001	LOC 0 10	New Yorkin
+T100002	ORG 26 32	Google
+T100003	LOC 57 67	New Yorkin
+T100004	LOC 264 274	New Yorkin
+T100005	ORG 335 341	Google
+T100006	ORG 456 462	Google
+T100007	ORG 742 748	Google
+T100008	ORG 983 989	Google

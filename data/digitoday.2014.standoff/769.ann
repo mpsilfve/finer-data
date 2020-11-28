@@ -1,0 +1,16 @@
+T1	ORG 0 6	Applen
+T2	ORG 61 67	Applen
+T3	PRO 68 86	" iTV " -televisio
+T4	ORG 128 142	Korea Heraldin
+T5	ORG 210 216	Applen
+T6	PRO 347 352	iTV:n
+T7	ORG 366 380	Korea Heraldin
+T8	ORG 427 432	Apple
+T9	ORG 600 616	IBK Securitiesin
+T10	PER 629 642	Lee Seung-woo
+T11	ORG 651 657	Applen
+T12	PRO 711 717	iTV:tä
+T13	ORG 841 851	LG Display
+T14	ORG 917 923	Applen
+T100001	LOC 128 133	Korea
+T100002	LOC 366 371	Korea

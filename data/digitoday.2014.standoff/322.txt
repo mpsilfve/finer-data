@@ -1,0 +1,11 @@
+Ericsson taltuttaa murrosta jakautumalla kahteen
+Mobiiliverkkojen liikennemäärien valtava kasvu on ajanut myös maailman suurimman verkkolaitetoimittajan Ericssonin murroksen partaalle .
+Se pyrkii vastaamaan muutokseen jakamalla verkkoliiketoimintayksikkönsä kahteen teknologiayksikköön .
+Nokian verkkoyksikkö NSN reagoi samaan muutokseen jo aikaisemmin karsimalla suuren osan yhtiön toiminnoista ja keskittymällä langattoman laajakaistan liiketoimintaan .
+Verkkoliiketoimintayksikön tilalle tulee tavallaan kolme yksikköä , sillä kahtiajaon jälkeen yksi yksikkö keskittyy pelkästään radioverkkoihin ja toinen pilvi- ja ip-palveluihin .
+Uudet yksiköt saavat nimikseen Radio ja Cloud & IP .
+Kolmas yksikkö , verkkosegmentti , varmistaa , että kaksi muuta toimivat yhteen ja jakavat yhteisiä kehitysresursseja .
+Ericssonin toimitusjohtaja Hans Vestberg sanoi tiedotteessa yrityksen olevan johtaja radioverkoissa , mutta haastaja pilvi- ja ip-sektoreilla , jotka ovat elintärkeitä matkalla 5G:hen .
+Jakautuvan verkkoliiketoimintayksikön johtaja Johan Wibergh jatkaa verkkosegmentin johtajana , siis molempien uusien yksiköiden pomona .
+Wibergh sanoi tiedotteessa , että hänen ensisijainen päämääränsä on pitää nykyinen liiketoiminta hyvässä vauhdissa samalla , kun yhtiö siirtyy uuteen vaiheeseen .
+Uudet yksikköjaot tulevat voimaan heinäkuun alussa , mutta muutoksen vieminen loppuun saakka kestää syyskuun loppuun saakka .

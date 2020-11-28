@@ -1,0 +1,32 @@
+T1	ORG 0 5	Nokia
+T2	ORG 100 105	Nokia
+T3	ORG 175 188	Microsoftille
+T4	ORG 196 201	Nokia
+T5	DATE 258 276	tammi-maaliskuussa
+T6	ORG 1040 1051	Bloombergin
+T7	ORG 1142 1148	Nokian
+T8	ORG 1304 1309	NSN:n
+T9	DATE 1361 1377	Tammi-maaliskuun
+T10	DATE 1699 1717	tammi-maaliskuussa
+T11	ORG 1799 1805	Nokian
+T12	ORG 1825 1835	Networksin
+T13	ORG 1944 1954	Networksin
+T14	DATE 1983 2001	tammi-maaliskuussa
+T15	DATE 2309 2320	vuoden 2014
+T16	PER 2512 2527	Risto Siilasmaa
+T17	ORG 2549 2554	Nokia
+T18	ORG 2595 2600	Nokia
+T19	ORG 2627 2637	Networksin
+T20	ORG 2703 2713	Networksin
+T21	ORG 2782 2787	Nokia
+T22	ORG 2795 2805	Networksin
+T23	DATE 2915 2933	Tammi-maaliskuussa
+T24	ORG 2977 2982	Nokia
+T25	ORG 3038 3048	Networksin
+T26	DATE 3064 3080	huhti-kesäkuussa
+T27	DATE 3081 3099	tammi-maaliskuuhun
+T28	ORG 3113 3118	Nokia
+T29	ORG 3158 3168	Networksin
+T30	ORG 3255 3260	Nokia
+T31	ORG 3526 3531	Nokia
+T32	ORG 3628 3639	Microsoftin

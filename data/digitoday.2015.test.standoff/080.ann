@@ -1,0 +1,34 @@
+T1	ORG 0 4	Sony
+T2	ORG 64 68	Sony
+T3	PRO 84 104	Xperia Z5 -puhelimet
+T4	ORG 133 137	Sony
+T5	ORG 223 227	Sony
+T6	PRO 266 286	Xperia Z5 -puhelinta
+T7	PRO 289 300	Xperia Z5:n
+T8	PRO 306 332	Compact- ja Premium-mallit
+T9	PRO 351 368	Xperia Z5 Premium
+T10	PRO 404 420	4K UHD -näytöllä
+T11	PRO 680 694	Compact-mallin
+T12	PRO 756 762	Z5:ssä
+T13	ORG 815 820	Sonyn
+T14	PRO 821 841	Xperia Z5 -malleissa
+T15	PRO 857 892	Qualcomm Snapdragon 810 -prosessori
+T16	PRO 942 960	Xperia-puhelimissa
+T17	PRO 989 1002	Xperia-mallin
+T18	LOC 1012 1021	Japanissa
+T19	PRO 1022 1024	Z4
+T20	PRO 1052 1055	Z3+
+T21	PRO 1067 1084	Sony Xperia Z3+:n
+T22	ORG 1183 1187	Sony
+T23	PRO 1302 1314	Z5-malleissa
+T24	PRO 1410 1430	Android 5.1 Lollipop
+T25	PRO 1495 1509	Compact-mallin
+T26	PRO 1558 1572	Premium-mallin
+T27	PRO 1584 1597	Compact-malli
+T28	LOC 1613 1621	Suomessa
+T29	DATE 1622 1630	syyskuun
+T30	PRO 1641 1650	Xperia Z5
+T31	DATE 1651 1661	lokakuussa
+T32	PRO 1665 1678	Premium-malli
+T33	DATE 1679 1691	marraskuussa
+T100001	ORG 1067 1071	Sony

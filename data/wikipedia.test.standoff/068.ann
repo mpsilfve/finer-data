@@ -1,0 +1,40 @@
+T1	PER 0 12	Kiowa Gordon
+T2	PER 13 25	Kiowa Gordon
+T3	DATE 31 51	25. maaliskuuta 1990
+T4	PER 133 146	Embry Callina
+T5	PRO 158 180	" Twilight – Uusikuu "
+T6	DATE 183 187	2009
+T7	PRO 193 215	" Twilight – Epäilys "
+T8	DATE 218 222	2010
+T9	PER 227 233	Gordon
+T10	LOC 241 251	Arizonassa
+T11	LOC 254 262	Utahissa
+T12	LOC 266 279	Kaliforniassa
+T13	PER 342 367	Camille Nighthorse Gordon
+T14	PER 389 395	Gordon
+T15	ORG 401 429	Cactus Shadows high schoolia
+T16	LOC 430 444	Cave Creekissä
+T17	LOC 447 457	Arizonassa
+T18	PER 475 481	Gordon
+T19	ORG 550 605	Myöhempien Aikojen Pyhien Jeesuksen Kristuksen kirkkoon
+T20	DATE 608 619	Vuonna 2009
+T21	PER 620 626	Gordon
+T22	PER 663 675	Embry Callia
+T23	PRO 687 709	" Twilight – Uusikuu "
+T24	PER 726 743	Stephenie Meyerin
+T25	PRO 744 777	" Houkutus " -fantasiakirjasarjan
+T26	PRO 792 803	" Uusikuu "
+T27	PER 806 812	Gordon
+T28	PER 816 821	Meyer
+T29	ORG 840 895	Myöhempien Aikojen Pyhien Jeesuksen Kristuksen kirkkoon
+T30	LOC 923 933	Arizonassa
+T31	PER 936 942	Gordon
+T32	PRO 1076 1100	" Twilight – Uudenkuun "
+T33	DATE 1101 1112	vuoden 2010
+T34	PRO 1126 1148	" Twilight – Epäilys "
+T35	PER 1151 1157	Gordon
+T36	DATE 1173 1184	vuoden 2011
+T37	PRO 1196 1217	" Into the Darkness "
+T38	PRO 1221 1242	" Murder for Dummys "
+T100001	PER 576 596	Jeesuksen Kristuksen
+T100002	PER 866 886	Jeesuksen Kristuksen

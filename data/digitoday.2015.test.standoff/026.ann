@@ -1,0 +1,21 @@
+T1	LOC 56 70	Yhdysvalloissa
+T2	ORG 318 359	Yhdysvaltain liittovaltion vetoomusoikeus
+T3	ORG 388 420	Federal Trade Commission ( FTC )
+T4	ORG 557 560	FTC
+T5	DATE 569 580	vuonna 2012
+T6	ORG 616 641	Wyndham Worldwide -yhtiön
+T7	DATE 682 702	vuosina 2008 ja 2009
+T8	ORG 849 856	Wyndham
+T9	ORG 872 877	FTC:n
+T10	ORG 1028 1035	Wyndham
+T11	ORG 1090 1098	Days Inn
+T12	ORG 1101 1115	Howard Johnson
+T13	ORG 1118 1124	Ramada
+T14	ORG 1138 1148	Travelodge
+T15	PER 1159 1171	Thomas Ambro
+T16	ORG 1179 1188	Wyndhamin
+T17	ORG 1241 1246	FTC:n
+T18	ORG 1393 1400	Wyndham
+T19	PER 1593 1598	Ambro
+T100001	LOC 318 330	Yhdysvaltain
+T100002	PER 1101 1115	Howard Johnson

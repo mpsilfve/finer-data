@@ -1,0 +1,20 @@
+T1	ORG 0 4	Sony
+T2	PRO 17 35	Vaio-kannettavissa
+T3	ORG 50 54	Sony
+T4	PRO 69 95	Vaio Fit 11A -kannettavien
+T5	PRO 190 222	Sony Vaio Fit 11A -kannettavissa
+T6	ORG 323 327	Sony
+T7	ORG 330 334	Sony
+T8	PRO 456 481	Vaio Fit 11A -kannettavia
+T9	PRO 528 539	SVF11N1XXXX
+T10	ORG 609 613	Sony
+T11	ORG 672 677	Sonyn
+T12	ORG 827 831	Sony
+T13	DATE 1147 1158	helmikuussa
+T14	ORG 1161 1166	Sonyn
+T15	PRO 1174 1199	Vaio Fit 11A -kannettavia
+T16	LOC 1269 1279	Euroopassa
+T17	ORG 1289 1325	The Wall Street Journal -talouslehti
+T18	LOC 1357 1365	Suomessa
+T100001	ORG 190 194	Sony
+T100002	LOC 1293 1304	Wall Street

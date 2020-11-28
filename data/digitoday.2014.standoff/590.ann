@@ -1,0 +1,23 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 18 27	Windowsia
+T3	PRO 69 86	Internet Explorer
+T4	ORG 138 147	Microsoft
+T5	ORG 201 208	Googlen
+T6	ORG 229 238	Microsoft
+T7	DATE 248 257	tammikuun
+T8	ORG 452 459	Googlea
+T9	PRO 526 537	Windowsista
+T10	DATE 570 579	Tammikuun
+T11	PRO 672 681	Windowsin
+T12	ORG 710 717	PCWorld
+T13	PRO 785 806	Internet Explorerille
+T14	PRO 878 886	MS15-002
+T15	PRO 894 903	Windowsin
+T16	ORG 989 998	Microsoft
+T17	PRO 1111 1119	MS15-004
+T18	ORG 1137 1146	PCWorldin
+T19	ORG 1179 1185	Google
+T20	DATE 1195 1206	joulukuussa
+T21	ORG 1223 1234	Microsoftia
+T22	ORG 1321 1330	Microsoft
+T23	DATE 1371 1380	tammikuun

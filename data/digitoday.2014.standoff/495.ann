@@ -1,0 +1,17 @@
+T1	ORG 46 54	Targetin
+T2	ORG 196 209	Target-ketjun
+T3	ORG 322 330	Targetin
+T4	ORG 348 373	Fazio Mechanical Services
+T5	ORG 423 431	Targetin
+T6	ORG 570 578	Targetin
+T7	ORG 602 608	Fazion
+T8	ORG 644 653	Targetiin
+T9	ORG 733 739	Target
+T10	ORG 852 857	Fazio
+T11	ORG 985 991	Target
+T12	ORG 1167 1172	Fazio
+T13	ORG 1269 1277	Targetin
+T14	ORG 1340 1370	Yhdysvaltain salaisen palvelun
+T15	ORG 1374 1382	Targetin
+T100001	PER 348 353	Fazio
+T100002	LOC 1340 1352	Yhdysvaltain

@@ -1,0 +1,24 @@
+T1	ORG 0 9	Samsungin
+T2	DATE 30 40	lokakuussa
+T3	ORG 47 56	Samsungin
+T4	ORG 131 138	Samsung
+T5	PRO 191 202	Galaxy View
+T6	DATE 209 219	lokakuussa
+T7	ORG 222 231	Samsungin
+T8	LOC 240 249	Berliinin
+T9	EVENT 250 263	IFA-messuilla
+T10	PRO 288 317	Galaxy View -taulutietokoneen
+T11	ORG 351 358	Samsung
+T12	ORG 362 367	Apple
+T13	PRO 506 517	Phabletilla
+T14	ORG 564 583	The Market Business
+T15	ORG 596 603	Samsung
+T16	ORG 607 612	Apple
+T17	ORG 686 692	Applen
+T18	PRO 747 756	iPad Pron
+T19	ORG 759 768	Samsungin
+T20	PRO 769 780	Galaxy View
+T21	PRO 810 817	SM-T670
+T22	ORG 828 837	Samsungin
+T23	PRO 843 866	Exynos 7580 -suoritinta
+T24	ORG 1025 1034	Samsungin

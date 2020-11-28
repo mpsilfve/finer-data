@@ -1,0 +1,10 @@
+Oraclen johtaja : Lopettakaa , please , lopettakaa jo !
+Maailman toiseksi suurimman ohjelmistotalon Oraclen tietoturvajohtaja sanoi suorat sanat ohjelmistovirheiden etsijöille : Please Stop It Already .
+Oraclen tietoturvajohtaja Mary Ann Davidson haluaa , että virheiden ja palkkioiden metsästäjät jättävät hänet ja hänen yksikkönsä rauhaan .
+Hän kirjoitti kovin turhautuneena blogimerkinnän , jossa hän muistutti moneen kertaan , että Oraclen ohjelmistojen purkaminen , reverse engineering , on käyttöehtojen vastaista .
+Davidson myös haukkui hakkereita virheellisistä ilmiannoista ja valitti , että virheilmoitusten tulva hukkaa hänen työntekijöidensä aikaa .
+– Pyydän , älkää tuhlatko aikaamme raportoimalla pienistä vihreistä miehistä koodissamme .
+En yritä välttää vastuuta asiakkaille , yritän vain välttää kivuliasta , ärsyttävää ja molemmin puolin aikaa tuhlaavaa puuhaa .
+Tietoturva- ja hakkeriyhteisössä Davidsonin viesti nostatti negatiivista julkisuutta .
+Oracle kiirehti poistamaan blogimerkinnän , mutta eihän internetistä mitään noin vain poisteta .
+Muun muassa asiasta uutisoinut Fortune tarjosi linkin alkuperäiseen sivuun .

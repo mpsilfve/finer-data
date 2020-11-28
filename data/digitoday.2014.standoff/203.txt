@@ -1,0 +1,9 @@
+Microsoftin toimisto oppi tallentamaan Applen pilveen
+Microsoft on päivittänyt iOS-maailman toimisto-ohjelmistonsa niin , että se osaa tallentaa datan myös muiden pilvipalveluihin .
+Office for iOS -sovellukset Word , Powerpoint ja Excel antavat käyttäjän valita tiedostojen tallennuspilveksi myös Applen iCloudin tai Box-pilvipalvelun Microsoftin OneDriven lisäksi .
+Päivityksestä uutisoinut Mashable arveli , että tuki muille pilvipalveluille seuraa pian .
+Microsoft ilmoitti Office-blogissaan , että myös Android- ja Windows 10 -käyttöjärjestelmillä toimivat toimistosovellukset saavat pian vastaavan tuen kolmansien osapuolien tallennusalustoille .
+Microsoft käynnisti myös pilvitallennuksen kumppanuusohjelman , joka antaa muiden integroida Office Onlinen omiin sovelluksiinsa .
+Muun muassa Salesforce ja Citrix ovat jo liittyneet ohjelmaan .
+Toimitusjohtaja Satya Nadellan alaisuudessa Microsoft on avannut ohjelmistojaan kaikille käyttäjille laitteistoalustasta riippumatta .
+Muutama kuukausi sitten Microsoft ja Dropbox kertoivat yhteistyöstä , jossa toimistosovelluksen käyttäjä voi toimittaa omaa asiakirjaansa Dropboxin sisällä ja tallentaa sen siellä .

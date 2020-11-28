@@ -1,0 +1,16 @@
+Tämän vuoksi Netflix ei voi rajoittaa salakatselua
+Netflixin salakatselu jatkunee tulevaisuudessakin .
+Vpn:ää ja käyttäjätunnusten lainaamista on vaikea estää .
+Eikä yhtiöllä liene siihen isompia taloudellisiakaan haluja .
+Viime viikon uutiset Netflixin ulkomaisten versioiden blokkauksesta säikäyttivät monet , jotka ovat katselleet suoratoistopalvelun ulkomaisia versioita .
+Yhtiön huhuttiin estäneensä palvelussaan käyttäjän alkuperämään salaavien vpn-virtuaaliverkkojen käytön .
+Netflix kiirehti kiistämään väitteet nopeasti .
+The Guardianin mukaan Netflix toimisi " salakatselun " kieltäessään vahvasti omia taloudellisia etujaan vastaan , sillä yhtiöllä on yli 30 miljoonaa asiakasta maissa , joissa sen palvelu ei ole lainkaan saatavilla .
+Guardian nojautuu GlobalWebIndexin selvitykseen , jonka mukaan yksin Kiinassa on yli 20 miljoonaa Netflixiä vpn-yhteyden kautta katsovaa asiakasta .
+Yhtiön lukujen mukaan myös noin 5 prosenttia Etelä-Afrikan ja Australian verkkoliikenteestä tulee Netflixistä , vaikkei pelvelu olekaan siellä virallisesti tarjolla .
+Selvityksessä kävi myös ilmi , että Netflixin todellinen katsojamäärä on ilmoitettua reilusti korkeampi , koska ihmiset lainaavat tunnuksiaan kavereilleen ja käyvät katselemassa ohjelmia toistensa luona .
+GlobalWebIndexin johtaja Jason Mander sanoi Guardianille , että " Netflix ampuisi itseään jalkaan , jos estäisi tuon verkkoliikenteen " .
+Manderin mukaan Netflix ei voi kuitenkaan myöskään lyödä rumpua vpn:n puolesta , sillä se suututtaisi elokuvastudiot .
+Salakatselun estäminen ei ole kuitenkaan teknisestikään aivan läpihuutojuttu .
+Asiaa tutkinut The Fool -sivusto huomauttaa , että vpn-yhteyksien estäminen sulkisi pois kaikki tietoturvasyistä vpn:ää käyttävät asiakkaat .
+Hulu-suoratoistopalvelu on lähtenyt estämään joitakin vpn-tarjoajien ip-osoiteavaruuksia , mutta on joutunut päättymättömään takaa-ajoleikkiin .

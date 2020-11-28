@@ -1,0 +1,11 @@
+Windows 10 Raspberryyn : Epätoivon merkki ?
+Analyytikko pitää päätöstä epätoivoisena , joskin ymmärrettävänä .
+Microsoftin ilmoitus ilmaisesta Windows 10:n IoT-versiosta ( Internet of Things ) Raspberry Pi 2 -minitietokoneille saa ymmärrystä FBR Capital Marketsilla työskentelevältä analyytikolta Daniel Ivesilta .
+Ivesin mukaan on selvää , että Microsoft haluaa osansa maailman suosituimmasta " mini-pc:stä " , minkä lisäksi projekti edesauttaa Microsoftin maailmanvalloitusta esineiden internetissä .
+Sen sijaan kyseessä on myös epätoivoinen teko .
+Ivesin mukaan Microsoft yrittää epätoivoisesti saada houkuteltua kadotettuja sovelluskehittäjiä takaisin Redmondin jätin suojiin .
+Asiat alkoivat mennä pieleen , kun Microsoft julkaisi Windows 8:n ja sen sovelluskaupan .
+Yhtiö menetti otteensa , ja suuri osa sovelluskehittäjiä alkoi katsella tuottavampien alustojen perään .
+Nyt Microsoft pyrkii saamaan nämä menetetyt sielut takaisin talliinsa julkaisemalla Windows 10:n ja yhdistämällä samalla ydinliiketoimintonsa yhden lippulaivatuotteen alle .
+Se , muodostuuko alustariippumattomasta ja kuluttajille ensimmäisen vuoden ajan ilmaisesta Windows 10:stä se insentiivi , jolla sovelluskehittäjät saadaan jälleen innostumaan Windows-sovellusten kehitystyöstä , jää nähtäväksi .
+Asiasta kertoi muun muassa Softpedia .

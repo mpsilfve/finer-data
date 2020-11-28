@@ -1,0 +1,13 @@
+T1	ORG 0 13	Microsoftilta
+T2	ORG 73 78	Tekes
+T3	ORG 85 98	Microsoftilta
+T4	ORG 197 202	Tekes
+T5	ORG 426 435	Microsoft
+T6	LOC 490 498	Suomessa
+T7	LOC 513 520	Salossa
+T8	LOC 523 534	Tampereella
+T9	LOC 538 546	Espoossa
+T10	ORG 549 554	Tekes
+T11	ORG 595 608	Microsoftilta
+T12	PER 877 891	Mika Lautanala
+T13	ORG 892 901	Tekesistä

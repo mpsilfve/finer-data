@@ -1,0 +1,10 @@
+Hotellijätti luopuu lopulta toiveista torpata asiakkaiden wlan
+Marriott-hotelliketju yritti kovapäisesti saada Yhdysvaltain viestintäkomissiolta FCC:ltä luvan estää asiakkaita käyttämästä omia langattomia lähiverkkojaan .
+Se ilmoitti vetävänsä pois hakemuksensa vasta perjantaina .
+Marriottin toimitusjohtaja Arne Sorenson ilmoitti asiasta LinkedIn-palvelun Vaikuttaja-palstalla perjantaina .
+Marriott vetää FCC:n käsittelystä hakemuksensa , jossa haettiin “ selvennystä ” sääntöihin , joiden perusteella hotellit voivat suojella asiakkaitaan wlanin kautta tapahtuvilta väärinkäytöksiltä .
+Sorensonin merkinnän otsikko osoitti , ettei hän ole vieläkään sisäistänyt FCC:n viime viikolla antamaa tyrmäävää lausuntoa asiasta .
+FCC nimittäin sanoi , että vapaalle radioliikenteelle varatun kaistan häirintä on ehdottomasti kiellettyä ja se johtaa vakaviin sanktioihin .
+Sorensonin otsikko kuului : When the ' Right Thing ' Is the Wrong Approach ( Kun “ oikea asia ” on väärä lähestymistapa ) .
+Asiasta uutisoi muun muassa TechTimes .
+Marriottia sakotettiin aikaisemmin 600\_000 dollaria konferenssikeskuksen asiakkaiden wlan-yhteyksien estämisestä .

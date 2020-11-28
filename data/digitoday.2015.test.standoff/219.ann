@@ -1,0 +1,27 @@
+T1	ORG 0 8	Vodafone
+T2	LOC 21 27	Intian
+T3	ORG 48 56	Nokialle
+T4	ORG 57 65	Vodafone
+T5	ORG 73 96	Intian veroviranomaisen
+T6	ORG 97 128	Mumbain korkeimmassa oikeudessa
+T7	ORG 171 179	Nokialle
+T8	ORG 279 287	Vodafone
+T9	LOC 295 302	Mumbain
+T10	DATE 442 453	vuonna 2007
+T11	ORG 477 485	Vodafone
+T12	ORG 515 532	Hutchison Essarin
+T13	LOC 535 542	Mumbain
+T14	ORG 578 593	Financial Times
+T15	ORG 597 606	Live Mint
+T16	ORG 622 630	Nokialla
+T17	ORG 633 642	Shellillä
+T18	ORG 646 653	IBM:llä
+T19	ORG 721 727	Nokiaa
+T20	LOC 737 745	Chennain
+T21	ORG 759 770	Vodafonelle
+T22	LOC 771 778	Mumbain
+T23	LOC 955 963	Intiassa
+T24	ORG 979 987	Vodafone
+T25	ORG 1034 1039	Nokia
+T100001	LOC 73 79	Intian
+T100002	LOC 97 104	Mumbain

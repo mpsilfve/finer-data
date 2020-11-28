@@ -1,0 +1,18 @@
+Taisto päättyy : USA:n puhelinmarkkinoille iso muutos
+Amerikkalaiset matkapuhelinten omistajat saivat eilen keskiviikkona laillisen oikeuden vapautua operaattorilukituksesta .
+Mutta ei operaattorikytkyn purku siltikään ihan selvä juttu ole .
+Operaattorit suostuivat jo yli vuosi sitten siihen , että asiakkaat saavat purkaa operaattorilukituksen puhelimista , jotka on maksettu loppuun .
+Kesällä asiasta säädettiin laki , joka määräsi tapaukseen sovellettavaa lakia valvovan kongressin kirjaston määräämään lukituksen purkamisen .
+Aikaisemmin operaattorit estivät lukituksen purkamisen vetoamalla Digital Millennium Copyright Act -tekijänoikeuslakiin , jonka mukaan heillä on oikeus puhelimen ohjelmistoon , eikä muilla ole oikeutta koskea siihen .
+Kuluttajien ja Obaman hallituksen painostuksen alla operaattorit suostuivat lukituksen avaamiseen , mutta nämä kuitenkin vaativat ja saivat runsaan siirtymisajan .
+Purkupakko koskee puhelimia , joiden kytkyaika on päättynyt ja prepaid-puhelimia , joita on käytetty yksi vuosi .
+Useimmat operaattorit kuitenkin ryhtyivät purkamaan lukituksia vapaaehtoisesti heti sopimuksen tekemisen jälkeen .
+Mutta eivät kaikki .
+Kolmanneksi suurin matkapuhelinoperaattori Sprint on ollut suuri vastarannankiiski tässä asiassa , PCMag kirjoitti .
+Sprint ilmeisesti pelkää asiakaskatoa ja rajoittaa lukituksen purkamisen Sprint iPhone 6 -älypuhelimiin ja ulkomailla käytettäviin puhelimiin .
+Se ei aio purkaa muiden puhelinten lukitusta kotimaiseen käyttöön , sillä se ei halua käyttäjien siirtyvän AT&T:n tai T-Mobilen asiakkaiksi .
+Sprint lupaa purkaa lukituksen vasta helmikuun 19. päivän jälkeen julkistetuista puhelimista .
+Operaattorit estivät asiakkaita vaihtamasta operaattoria ilman uuden laitteen ostamista pitämällä kiinni lukituksesta .
+Uusien sääntöjen uskotaan tuovan kentälle lisää kilpailua ja hyödyttävän sellaisia pienempiä operaattoreita ja palveluoperaattoreita kuin Cricket , MetroPCS ja Simple Mobile .
+Eri asia on kuitenkin se mikä puhelin toimii minkin operaattorin verkossa .
+Yhdysvalloissa käytössä olevat verkkoteknologiat asettavat rajoituksia laitteiden ja verkkojen yhteensopivuudelle .

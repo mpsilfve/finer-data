@@ -1,0 +1,26 @@
+T1	PER 0 6	Obaman
+T2	PER 65 71	Obaman
+T3	ORG 286 302	New York Timesin
+T4	PER 310 316	Obaman
+T5	LOC 429 435	Kiinan
+T6	LOC 439 446	Venäjän
+T7	ORG 721 727	Applen
+T8	ORG 730 737	Googlen
+T9	ORG 1151 1156	FBI:n
+T10	PER 1165 1179	James B. Comey
+T11	ORG 1198 1227	Homeland Security -komitealle
+T12	PER 1414 1422	Comeylle
+T13	PER 1650 1655	Comey
+T14	ORG 1832 1840	Applelle
+T15	ORG 1843 1852	Googlelle
+T16	ORG 1856 1869	Microsoftille
+T17	ORG 1959 1964	Apple
+T18	ORG 2060 2103	Yhdysvaltain kansallisen tiedusteluviraston
+T19	ORG 2104 2109	NSA:n
+T20	PER 2127 2133	Comeyn
+T21	ORG 2231 2245	New York Times
+T22	PER 2256 2272	Edward Snowdenin
+T23	ORG 2311 2318	NSA:lla
+T100001	LOC 286 294	New York
+T100002	LOC 2060 2072	Yhdysvaltain
+T100003	LOC 2231 2239	New York

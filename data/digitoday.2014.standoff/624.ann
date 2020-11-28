@@ -1,0 +1,19 @@
+T1	LOC 0 3	USA
+T2	LOC 14 27	Pohjois-Korea
+T3	LOC 49 60	Yhdysvallat
+T4	LOC 82 95	Pohjois-Korea
+T5	ORG 119 134	Sony Picturesin
+T6	LOC 218 231	Pohjois-Korea
+T7	LOC 277 291	Pohjois-Korean
+T8	ORG 392 407	Sony Picturesia
+T9	ORG 447 454	Reuters
+T10	LOC 564 580	Pohjois-Korealla
+T11	LOC 860 872	Yhdysvaltain
+T12	LOC 891 904	Pohjois-Korea
+T13	ORG 992 1016	Yhdysvaltain hallituksen
+T14	ORG 1126 1129	FBI
+T15	ORG 1149 1160	Reutersille
+T16	ORG 1198 1204	Sonyyn
+T17	LOC 1214 1227	Pohjois-Korea
+T18	LOC 1268 1281	Pohjois-Korea
+T100001	LOC 992 1004	Yhdysvaltain

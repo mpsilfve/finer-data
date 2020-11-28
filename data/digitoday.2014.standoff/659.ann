@@ -1,0 +1,19 @@
+T1	ORG 0 8	Amazonin
+T2	PER 9 19	Jeff Bezos
+T3	ORG 68 80	Amazon.comin
+T4	LOC 99 116	Galapagossaarilla
+T5	ORG 147 159	Amazon.comin
+T6	PER 184 194	Jeff Bezos
+T7	LOC 228 244	Galapagossaarien
+T8	ORG 285 298	Cnet News.com
+T9	ORG 302 316	Design & Trend
+T10	PER 328 333	Bezos
+T11	LOC 459 473	Yhdysvaltoihin
+T12	PER 487 492	Bezos
+T13	LOC 539 548	Galapagos
+T14	PER 592 597	Bezos
+T15	ORG 640 648	Amazonin
+T16	ORG 729 741	Amazon.comin
+T17	PER 782 787	Bezos
+T18	PER 888 893	Bezos
+T19	ORG 1040 1059	Blue Origin -yhtiön

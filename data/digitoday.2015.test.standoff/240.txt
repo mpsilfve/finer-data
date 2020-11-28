@@ -1,0 +1,15 @@
+Applen uutiset on Kiinassa pelkkä virheviesti
+Apple ei näytä uutta uutissovellustaan ollenkaan toiseksi suurimmalla markkina-alueellaan .
+Kiinassa uutisotsikoiden tilalla on virheviesti .
+New York Times uutisoi maanantaina , että Applen News-sovellus toimii tällä hetkellä Yhdysvalloissa ja se on koekäytössä Britanniassa ja Australiassa , mutta Kiinassa se on estetty .
+Yhdysvalloissa rekisteröidyt puhelimet näyttävät uutistarjonnan myös ulkomailla , paitsi Kiinassa .
+Siellä uutissovelluksen asemesta käyttäjä näkee virheilmoituksen : Can’t refresh right now .
+News isn’t supported in your current region .
+( Päivittäminen ei onnistu .
+Uutissovellusta ei tueta alueellasi . )
+Kiinan valtio pitää sisällön tuottajia ja jakelijoita vastuullisina sisällön sopivuudesta .
+Kiinassa sisällön julkaisijat torjuvat kiellettyjä sanoja sekä tietokonesovelluksilla että maksamalla siitä palveluna tai palkkaamalla omat sensorinsa .
+Tällä hetkellä Apple kiertää ongelman turvautumalla sovelluksen estoon .
+New York Timesin mukaan Applen on kehitettävä oma sensurointijärjestelmänsä varjellakseen 13 miljardin dollarin Kiinan markkinaansa .
+Apple voi myös jatkaa nykykäytäntöä , jossa käyttäjille ei näytetä ollenkaan uutisia .
+Apple kieltäytyi kommentoimasta asiaa .

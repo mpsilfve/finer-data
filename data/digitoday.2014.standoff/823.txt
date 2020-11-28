@@ -1,0 +1,10 @@
+Hyppönen pitää RSA-puheenvuoronsa TrustyConissa — tulot verkonvapausjärjestölle
+RSA-konferenssin vastatapahtuman tulot kanavoidaan internetin vapautta ajavalle EFF:lle .
+F-Securen tutkimusjohtaja Mikko Hyppönen pitää RSA-konferenssiin kirjoittamansa puheen TrustyConissa , kertoo Softpedia .
+Hyppönen vahvisti asian Twitterissä tviittaamalla uutisen edelleen .
+Hyppönen perui puheenvuoronsa tietoturvayhtiö RSA:n konferenssissa , kun kävi ilmi , että RSA oli myynyt tietoturvatuotteisiinsa takaportin NSA:lle .
+Nyt Hyppönen pitää Governments as malware authors ( Hallitukset haittaohjelmien tekijöinä ) -puheensa 27.2. San Franciscossa pidettävässä TrystyConissa .
+Tapahtuma pidetään samaan aikaan RSA Conferencen kanssa .
+TrustyCon syntyi vastareaktioksi RSA:n ja NSA:n yhteystyön paljastuttua .
+Tapahtuman tuotot menevät digitaalisia kansalaisoikeuksia ja verkon vapautta ajavalle EFF ( Electronic Frontier Foundation ) -järjestölle .
+Hyppösen ohella tapahtumassa ovat mukana EFF:n entinen lakimies Marcia Hofmann , yksityisyystutkija ja -aktivisti Christopher Soghoian , Googlen Chris Palmer sekä Def Conin perustaja Jeff Moss .

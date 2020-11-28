@@ -1,0 +1,13 @@
+T1	ORG 216 225	Linksysin
+T2	ORG 229 238	Netgearin
+T3	PER 328 344	Eloi Vanderbeken
+T4	LOC 347 353	Suomen
+T5	ORG 354 380	Kyberturvallisuuskeskuksen
+T6	PER 522 533	Vanderbeken
+T7	ORG 723 746	Kyberturvallisuuskeskus
+T8	ORG 930 939	Sophoksen
+T9	ORG 940 962	Naked Security -blogin
+T10	ORG 1050 1075	Sercomm-nimisen yrityksen
+T11	ORG 1143 1150	Linksys
+T12	ORG 1154 1161	Netgear
+T13	ORG 1260 1269	Sercommia

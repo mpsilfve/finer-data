@@ -1,0 +1,38 @@
+T1	ORG 55 61	Applen
+T2	PRO 78 83	Sirin
+T3	PRO 126 134	Cortanaa
+T4	ORG 137 147	MSFTnerdin
+T5	PRO 155 162	Cortana
+T6	ORG 203 214	Microsoftin
+T7	PRO 227 245	Halo-videopeleissä
+T8	PRO 279 286	Cortana
+T9	PRO 322 336	Windows Phonen
+T10	ORG 357 386	MSFTnerd-niminen bloginpitäjä
+T11	ORG 389 399	MSFTnerdin
+T12	PRO 407 421	Windows Phonen
+T13	PRO 422 432	Cortanaksi
+T14	PER 472 482	Jen Taylor
+T15	PRO 485 493	Cortanan
+T16	PRO 517 525	Lumialle
+T17	DATE 561 572	huhtikuussa
+T18	ORG 634 642	MSFTnerd
+T19	ORG 679 690	Microsoftin
+T20	PRO 691 712	Bing-hakusovellukseen
+T21	PRO 713 722	iPhonessa
+T22	PRO 734 742	Cortanan
+T23	PRO 801 810	Xbox Onen
+T24	PRO 814 823	Windowsin
+T25	LOC 834 848	Yhdysvalloissa
+T26	PRO 851 861	Windowsiin
+T27	PRO 878 896	Threshold-päivitys
+T28	ORG 917 923	Applen
+T29	PRO 924 929	Siriä
+T30	PRO 956 963	Cortana
+T31	DATE 1015 1035	vuosina 2015 ja 2016
+T32	ORG 1038 1046	MSFTnerd
+T33	PRO 1123 1132	Windowsin
+T34	PRO 1133 1163	Bing Translator -sovelluksessa
+T35	DATE 1173 1182	huhtikuun
+T36	ORG 1255 1268	Microsoftilla
+T37	LOC 1301 1317	San Franciscossa
+T38	PRO 1380 1388	Cortanaa

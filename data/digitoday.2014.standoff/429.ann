@@ -1,0 +1,25 @@
+T1	ORG 0 6	Google
+T2	ORG 10 18	Fidelity
+T3	ORG 40 50	SpaceX:stä
+T4	ORG 91 98	Googlen
+T5	PER 113 124	Elon Muskin
+T6	ORG 125 135	SpaceX:ään
+T7	ORG 156 162	SpaceX
+T8	ORG 196 204	SpaceX:n
+T9	ORG 230 236	Google
+T10	ORG 240 248	Fidelity
+T11	ORG 333 349	Business Insider
+T12	ORG 360 367	Googlen
+T13	PER 389 401	Don Harrison
+T14	ORG 410 418	SpaceX:n
+T15	ORG 434 441	Googlen
+T16	PER 462 473	Sergei Brin
+T17	PER 477 487	Larry Page
+T18	ORG 542 548	SpaceX
+T19	ORG 644 657	Founders Fund
+T20	ORG 660 683	Draper Fisher Jurvetson
+T21	ORG 686 707	Valor Equity Partners
+T22	ORG 711 720	Capricorn
+T23	ORG 723 730	Googlen
+T24	ORG 770 778	SpaceX:n
+T25	PER 852 858	Muskin

@@ -1,0 +1,15 @@
+T1	ORG 0 8	Anthemin
+T2	ORG 79 90	Check Point
+T3	ORG 248 254	Anthem
+T4	ORG 371 382	Check Point
+T5	ORG 510 520	Anthemista
+T6	ORG 523 536	Check Pointin
+T7	ORG 791 799	Anthemin
+T8	DATE 879 889	lokakuussa
+T9	ORG 921 929	Anthemin
+T10	ORG 1046 1059	Check Pointin
+T11	ORG 1170 1178	Anthemin
+T12	ORG 1597 1610	Check Pointin
+T13	LOC 1611 1624	Pohjoismaiden
+T14	PER 1637 1650	Örjan Westman
+T15	LOC 1807 1819	Yhdysvaltoja

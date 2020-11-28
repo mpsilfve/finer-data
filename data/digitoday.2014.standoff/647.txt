@@ -1,0 +1,16 @@
+Samsung veti hätäjarrusta : Tätä tarkoittaa kuunteleva televisio
+Samsung sanoi älytelevisionsa käyttäjille , että sen äänentunnistus nappaa käyttäjän puheen ja välittää sen ulkopuolisille .
+Nyt yhtiö selvittää , mitä tämä tarkoittaa .
+Korealainen Samsung Electronics kirjoitti blogiinsa tiistaina sen kuuntelevista televisioista otsikolla " Samsungin älytelevisiot eivät seuraa olohuoneen keskusteluja " .
+Syynä oli valtava kohu , joka nousi äskettäin päivitetystä älytelevisioiden tietosuojakäytännöstä .
+Siinä sanottiin näin :
+– Ole hyvä ja muista , että jos puheesi sisältää henkilökohtaista tai muuta arkaluonteista tietoa , se tallennetaan muun tiedon kanssa ja välitetään kolmansille osapuolille äänentunnistuspalvelun kautta .
+Samsungin mukaan tämä kolmas osapuoli on yksinkertaisesti puheentunnistusyhtiö Nuance , jonka tehtävänä on muuntaa äänikomennot tekstiksi .
+Samsung uudisti tietosuojakäytäntöään jälleen selvittääkseen paremmin , mistä kuuntelussa on kyse .
+Nuancen nimeämisen ohella Samsung korostaa , että äänikomentoja kerätään vain , kun katsoja klikkaa aktivointinappia kaukosäätimessä tai tv:ssä ja puhuu kaukosäätimen mikrofoniin .
+Lisäksi uusi teksti painottaa , että katsojat voivat kytkeä äänentunnistuksen pois päältä kokonaan .
+Ikävä kyllä tähän lupaukseen joutuu suhtautumaan varauksella alan historian takia .
+Taannoin paljastui , että toisen korealaisvalmistajan LG:n älytelevisio urkki katselutottumukset ja massamuistin tiedot , vaikka laitetta olisi eritoten kieltänyt tekemästä niin .
+Samsungin korjausliikkeestä kertoi muun muassa The New York Times .
+Se huomautti , ettei yhtiö edelleenkään sano , kuinka kauan se tai sen kumppanit säilyttävät äänitallenteita .
+On myös epäselvää , voivatko katsojat saada tiedot tuhottua .

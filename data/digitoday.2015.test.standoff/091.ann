@@ -1,0 +1,28 @@
+T1	ORG 0 7	Samsung
+T2	PRO 16 34	Tizen-älykelloilla
+T3	ORG 65 72	Samsung
+T4	ORG 220 227	Samsung
+T5	EVENT 294 307	IFA-messuilla
+T6	LOC 308 319	Berliinissä
+T7	PRO 375 382	Tizeniä
+T8	LOC 402 410	Soulissa
+T9	PRO 521 567	Samsung Gear S2- ja Gear S2 classic -kelloissa
+T10	PRO 906 921	Gear S2 classic
+T11	ORG 1037 1046	Samsungin
+T12	PRO 1065 1072	Gear S2
+T13	PRO 1153 1176	Tizen-käyttöjärjestelmä
+T14	PRO 1262 1277	Apple Watchille
+T15	ORG 1282 1289	Googlen
+T16	PRO 1290 1322	Android Wear -käyttöjärjestelmän
+T17	ORG 1336 1343	Samsung
+T18	ORG 1522 1531	Samsungin
+T19	EVENT 1821 1834	IFA-messuille
+T20	PRO 1845 1868	Android Wear -tuotteita
+T21	ORG 1874 1882	Asusilta
+T22	ORG 1885 1896	Motorolalta
+T23	ORG 1899 1908	Huaweilta
+T24	ORG 1931 1938	Sonylta
+T25	ORG 1941 1962	Sydney Morning Herald
+T100001	ORG 521 528	Samsung
+T100002	ORG 1262 1267	Apple
+T100003	LOC 1941 1947	Sydney

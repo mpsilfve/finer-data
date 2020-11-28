@@ -1,0 +1,114 @@
+T1	PRO 0 5	Loppu
+T2	PRO 18 23	Loppu
+T3	PRO 26 37	" The End "
+T4	PER 139 155	Daniel Handlerin
+T5	PRO 185 216	" Surkeiden sattumusten sarja "
+T6	DATE 249 267	13. lokakuuta 2006
+T7	DATE 303 314	vuonna 1999
+T8	PRO 324 338	" Ankea alku "
+T9	LOC 354 371	Hotelli Ratkaisun
+T10	PRO 400 422	" Ratkaisun rajoilla "
+T11	PER 508 514	Violet
+T12	PER 517 522	Klaus
+T13	PER 526 542	Sunny Baudelaire
+T14	PER 618 624	Olafin
+T15	PRO 698 707	" Loppu "
+T16	PRO 729 751	" Ratkaisun rajoilla "
+T17	PER 765 776	Baudelairen
+T18	PER 800 806	Olafin
+T19	LOC 824 843	Hotelli Ratkaisusta
+T20	PER 1025 1048	Perjantai-nimisen tytön
+T21	PER 1058 1062	Olaf
+T22	LOC 1110 1119	Olaf-maan
+T23	PER 1165 1174	Perjantai
+T24	PER 1183 1189	Olafia
+T25	PER 1225 1236	Baudelairet
+T26	PER 1595 1602	Ishmael
+T27	PER 1615 1629	Baudelaireille
+T28	PER 1683 1690	Ishmael
+T29	PER 1834 1846	Baudelairien
+T30	PER 1865 1872	Ishmael
+T31	PER 2067 2078	Kit Snicket
+T32	PER 2084 2104	Hirmumyrkyllinen Kyy
+T33	PER 2105 2116	Monty-sedän
+T34	PER 2171 2175	Olaf
+T35	PER 2211 2226	Kit Snicketiksi
+T36	PER 2330 2344	Baudelairetkin
+T37	PER 2408 2415	Ishmael
+T38	PER 2438 2441	Kit
+T39	PER 2445 2449	Olaf
+T40	PER 2550 2554	Olaf
+T41	ORG 2647 2660	VPK-järjestön
+T42	PER 2697 2708	Baudelairet
+T43	PRO 2724 2743	" Ankeasta alusta "
+T44	PER 2806 2813	Erewhon
+T45	PER 2817 2821	Finn
+T46	ORG 2931 2940	Ishmaelia
+T47	PER 2974 2986	Baudelaireja
+T48	PER 3154 3159	Kitiä
+T49	PER 3172 3183	Baudelairet
+T50	PER 3327 3334	Ishmael
+T51	PER 3550 3559	Ishmaelin
+T52	PER 3610 3619	Ishmaelin
+T53	PER 3704 3715	Baudelairet
+T54	PER 3812 3823	Baudelairet
+T55	PER 3827 3834	Ishmael
+T56	PER 3903 3907	Olaf
+T57	PER 3955 3962	Ishmael
+T58	PER 3969 3975	Olafia
+T59	PER 3999 4003	Olaf
+T60	PER 4131 4138	Ishmael
+T61	PER 4248 4252	Olaf
+T62	PER 4282 4293	Baudelairet
+T63	PER 4617 4624	Ishmael
+T64	PER 4744 4747	Kit
+T65	PER 4755 4769	Baudelairaille
+T66	PER 4770 4781	Quagmirejen
+T67	PER 4784 4792	Hectorin
+T68	PER 4795 4801	Philin
+T69	PER 4813 4824	Vastakarvan
+T70	PER 4827 4833	Fionan
+T71	PER 4837 4846	Fernaldin
+T72	PRO 4936 4959	Queequeg-sukellusveneen
+T73	PER 5027 5040	Kit Snicketin
+T74	PER 5100 5111	Baudelairet
+T75	LOC 5141 5160	Hotelli Ratkaisussa
+T76	PER 5163 5166	Kit
+T77	PER 5433 5437	Olaf
+T78	PER 5445 5450	Kitin
+T79	PER 5504 5509	Kitin
+T80	PER 5569 5572	Kit
+T81	PER 5580 5608	Francis William Bourdillonin
+T82	PRO 5609 5649	" The Night Has a Thousand Eyes " -runoa
+T83	PER 5655 5659	Olaf
+T84	PER 5667 5682	Philip Larkinin
+T85	PRO 5683 5711	" This Be The Verse " -runon
+T86	PER 5726 5730	Olaf
+T87	PER 5757 5768	Baudelairet
+T88	PER 5778 5783	Kitiä
+T89	PER 5826 5829	Kit
+T90	PRO 5923 5932	" Loppu "
+T91	PER 5951 5965	Baudelaireista
+T92	PER 5972 5977	Kitin
+T93	PER 6043 6048	Kitin
+T94	PER 6052 6058	Olafin
+T95	PRO 6121 6158	" Neljästoista luku " -nimisen kirjan
+T96	PER 6198 6203	Kitin
+T97	PER 6213 6224	Baudelairet
+T98	PER 6327 6332	Kitin
+T99	PER 6433 6445	Baudelairien
+T100	PRO 6631 6655	" The Beatrice Letters "
+T101	PER 6675 6682	Sunnyyn
+T102	PRO 6688 6704	" Käärmekammio "
+T103	PER 6711 6720	Klausista
+T104	PER 6797 6803	Olafin
+T105	PRO 6825 6861	" The Bad Beginning : Rare Edition "
+T106	PER 6879 6885	Violet
+T107	LOC 6901 6907	Brinyn
+T108	PRO 6928 6952	" The Beatrice Letters "
+T109	PER 6962 6970	Beatrice
+T110	PER 6977 6985	Violetia
+T111	PER 6988 6995	Klausia
+T112	PER 6999 7005	Sunnya
+T113	PRO 7051 7072	Neljännentoista luvun
+T114	PER 7098 7112	Baudelaireista

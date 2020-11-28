@@ -1,0 +1,31 @@
+T1	PRO 11 18	iPhonen
+T2	ORG 32 38	Applen
+T3	LOC 62 75	Kaliforniassa
+T4	LOC 76 90	San Franciscon
+T5	LOC 100 113	Kaliforniassa
+T6	ORG 242 248	Applen
+T7	LOC 266 279	Kaliforniassa
+T8	ORG 350 358	Claycord
+T9	LOC 377 393	San Franciscossa
+T10	ORG 402 421	KPIX-televisioasema
+T11	PRO 468 481	Dodge Caravan
+T12	ORG 510 518	Applelle
+T13	ORG 551 563	Appleinsider
+T14	ORG 637 643	Applen
+T15	ORG 667 674	Googlen
+T16	PRO 675 688	Street View’n
+T17	LOC 824 834	Kalifornia
+T18	ORG 905 913	Applelle
+T19	ORG 1020 1025	Apple
+T20	ORG 1079 1094	Sci-Tech Todayn
+T21	ORG 1143 1148	Bosch
+T22	ORG 1151 1168	Delphi Automotive
+T23	ORG 1171 1177	Google
+T24	ORG 1180 1193	Mercedes Benz
+T25	ORG 1196 1202	Nissan
+T26	ORG 1205 1217	Tesla Motors
+T27	ORG 1221 1239	Volkswagen America
+T28	ORG 1272 1278	Applen
+T100001	PER 1180 1188	Mercedes
+T100002	PER 1189 1193	Benz
+T100003	PER 1205 1210	Tesla

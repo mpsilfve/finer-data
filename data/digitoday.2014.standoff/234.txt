@@ -1,0 +1,15 @@
+Mitä ihmettä : Nytkö Gmail taas toimii ?
+Kiinan Gmail-esto näyttää hellittäneen nopeasti .
+Sanoiko joku kovan sanan ?
+Googlen sähköpostipalvelun kuristus hellitti Kiinassa tiistaina , muun muassa Financial Times ( maksumuurin takana ) raportoi .
+Gmail palasi siihen tilaan , missä se oli ennen 27. joulukuuta .
+Eli suoraan palveluun ei pääse , mutta sitä voi käyttää eri sähköpostisovelluksilla esimerkiksi imap- ja pop3-protokollien kautta .
+Neljä päivää kestäneen sulun syytä ei tiedetä , mutta moni syytti siitä Kiinan nettisensuuria eli " suurta palomuuria " .
+Yhtä lailla on arvailun varassa , miksi Gmail nyt palautui käyttäjille .
+On tosin hieman varhaista sanoa , onko palautuminen pysyvää .
+Lisäksi vastaavat katkot tulevaisuudessa ovat mahdollisia .
+Jos oletetaan , että Gmail joutui entistä ankaramman sensuurin kouriin , voidaan palautuksesta esittää maallikon arvaus .
+Gmail saattoi olla tärkeä väline joillekin käyttäjille , jotka ovat suhteellisen korkealla Kiinan poliittisessa hierarkiassa .
+Kenties heiltä kantautui painava pyyntö Gmail-eston löysäämiseksi .
+FT huomauttaa , että Gmail-estoa protestoi Kiinassa varsikin ylempi yhteiskuntaluokka , joten mahdollisesti arvauksessa on jotain perää .
+Ehkä .

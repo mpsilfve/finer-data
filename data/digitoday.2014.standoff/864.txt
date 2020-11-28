@@ -1,0 +1,11 @@
+Teini pidätettiin Heartbleed-hyökkäyksestä
+19-vuotiasta epäillään Heartbleed-haavoittuvuuden käyttämisestä Kanadan veroviraston tietomurrossa .
+Kanadan kuninkaallinen ratsupoliisi kertoo ottaneensa kiinni ja asettaneensa syytteeseen 19-vuotiaan ontariolaismiehen epäiltynä Heartbleed-aukon käyttämisestä tietojen varastamiseen .
+Uhrina oli Kanadan verovirasto .
+– Poliisi käsitteli tämän murron kiireellisenä tapauksena ja otti käyttöön tarvittavat voimavarat ratkaistakseen asian niin nopeasti kuin mahdollista , apulaispoliisijohtaja Gilles Michaud sanoo tiedotteessa .
+Hänen mukaansa poliisi on paiskinut töitä neljä päivää analysoiden dataa , seuraten johtolankoja ja suorittaen haastatteluja .
+Epäilty pidätettiin hänen kotonaan tiistaina , ja poliisi takavarikoi tietokonelaitteistoja .
+Hänen on määrä esiintyä oikeudessa heinäkuun puolivälissä .
+Isku verovirastoon on ensimmäisiä tiedettyjä verkkohyökkäyksiä , joissa on käytetty viime viikolla löytynyttä Heartbleed-haavoittuvuutta , eli erittäin laajasti käytetyn OpenSSL-kirjaston virhettä .
+Verovirasto joutui murron vuoksi sulkemaan verkkopalvelunsa kokonaan vähäksi aikaa .
+Viraston palvelimilta vietiin 900 sosiaaliturva/veronumeroa ja kenties muutakin tietoa .

@@ -1,0 +1,16 @@
+Varo karua kiristysohjelmaa : Et ehkä koskaan toivu
+Viestintävirasto on saanut paljon ilmoituksia CTB-Locker-kiristysohjelmasta .
+Viestintäviraston Kyberturvallisuuskeskus palasi CTB-Lockerin pariin kerrottuaan uhkasta tammikuussa .
+Syynä on se , että keskuksen tietoon on tullut useita kiristyshaittaohjelman tartuntatapauksia Suomesta .
+– Haittaohjelmakampanja jatkuu yhä kiihtyvällä tahdilla .
+Kyberturvallisuuskeskuksen tietojen mukaan ajantasainenkaan tietoturvaohjelmisto ei kaikissa tapauksissa riitä suojaamaan haittaohjelmatartunnalta , tiedotteessa sanotaan .
+Kiristäjä iskee sähköpostin liitetiedostoista , joiden niminä on käytetty esimerkiksi vastaanottajan nimeä .
+Itse postit väittävät koskevansa muun muassa faksin saapumista .
+Näitä viestejä on viime päivinä havaittu sadoittain suomalaisissa organisaatioissa .
+Jos kiristäjä iskee , se salaa uhrin tiedot tehokkaasti .
+CTB-Lockerin tuoreimpien versioiden käyttämää salausta ei voi purkaa ilman salaukseen käytettyä avainta , eikä keskus suosita maksamaan ( hyvinkin isoja ) lunnaita tietojen avaamiseksi .
+Se ei nimittäin takaa tietojen palautusta .
+Tämä siis tarkoittaa , että ilman varmuuskopioita tiedot voivat olla menetetty iäksi .
+Yritysverkossa tartunnalla voi olla katastrofaaliset seuraukset , sillä pahimmillaan myös jaettujen verkkolevyjen tiedostot on salattu .
+Keskuksen mukaan haittaohjelma toimii kaikilla yleisessä käytössä olevilla Windows-käyttöjärjestelmän versioilla .
+Kiristysohjelmien ilmiö ei ole lainkaan uusi , ja CTB-Lockeristakin on nähty versioita aikaisemmin .

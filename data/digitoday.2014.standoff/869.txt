@@ -1,0 +1,15 @@
+Vangittu iPad-hakkeri voitti : Tuomio nurin
+IPad-omistajien tietoja AT&T:n järjestelmistä kaivanut hakkeri voitti vetoomusoikeudessa .
+Mutta päätöksen perustelu väisti kaikista seuratuimman kysymyksen .
+Andrew " Weev " Auernheimerin jo käynnissä oleva yli kolmen vuoden vankeustuomio kumottiin vetoomusoikeudessa Yhdysvalloissa perjantaina .
+Asiasta uutisoi muun muassa Washington Post .
+Auernheimer oli osallisena vuoden 2010 tempauksessa , jossa osoitettiin teleyhtiö AT&T:n verkkosivujen onneton suojaus tietojen varastamista vastaan .
+Todisteena hän nappasi verkosta noin 120\_000 iPad-ostajan sähköpostiosoitteet ja luovutti ne eteenpäin medialle .
+Tekonsa – ja räävittömän persoonansa – myötä Auernheimeria on luonnehdittu sekä sankariksi että konnaksi .
+Mediassa julkaistiin vain osa sähköpostiosoitteista ja nekin retusoituina .
+Vankeustuomio säikäytti tietoturvapiireissä , koska tietoturva-aukkojen paljastaminen muuttui yhtäkkiä potentiaalisesti hyvin riskaabeliksi toiminnaksi .
+Tuomion ajateltiin myös vaarantavan verkon turvallisuutta , jos tutkijat eivät enää uskalla tuoda löydöksiään muiden tietoon .
+Tuomion taustalla oli myös vanha laki Computer Fraud and Abuse Act , jonka uudistamista on vaadittu pitkään .
+Mutta vetoomusoikeus sivuutti kaiken tämän lähes kokonaan ja kumosi tuomion alkuperäisen oikeudenkäynnin teknisen virheen takia .
+Vetoomusoikeus nimittäin katsoi , että Auernheimeria ei olisi pitänyt laittaa oikeuteen New Jerseyssä , koska mikään hänen hakkeroinnissaan ei liittynyt New Jerseyhyn .
+On epäselvää , voidaanko Andrew Auernheimeria vastaan käynnistää uusintaoikeudenkäynti .

@@ -1,0 +1,15 @@
+Kyberguru oli oikeassa korttivarkauksista — ja sai trollin kimppuunsa
+Brian Krebs haistoi kaksi luottokorttivarkautta oikein .
+Yhdellä hänen seuraajallaan oli vaihtoehtoinen selitys tilanteeseen .
+Tietoturva-asiantuntija Brian Krebs kertoo kahden parkkipalveluja tarjoavan jenkkiyhtiön vahvistaneen maksukorttitietojen varkauden .
+Krebs kertoi kummastakin tapauksesta jo viime vuoden puolella .
+Park'N Fly ilmoitti tiedotteessaan , että sen verkkokaupan maksutietoja on vaarantunut , mutta se ei sanonut , kuinka montaa maksukorttia asia koskee .
+Toinen yritys OneStopParking.com kertoi Krebsille tämän kysyessä , että myös he ovat vahvistaneet , että järjestelmiin on murtauduttu .
+Murto onnistui Joomla-ohjelmiston haavoittuvuudella , jota ei ollut korjattu .
+Syynä oli , että korjauksen todettiin rikkovan osia sivustosta .
+Yksi Brian Krebsin blogin lukija tarttui niin sanottuun Neiti Marple -ilmiöön : Koska Krebs on aina paikalla kertomassa ensimmäisenä uusista korttivarkauksista , hän on varmaan itse syyllinen näihin varkauksiin ?
+Krebs tarttui trollin syöttiin huvin vuoksi :
+– Sait minut kiinni .
+Minä varastan näitä kortteja .
+Sillä tavalla saan skuupit .
+Jep .

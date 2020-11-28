@@ -1,0 +1,16 @@
+T1	ORG 0 8	WhatsApp
+T2	ORG 44 54	WhatsAppin
+T3	PER 55 63	Jan Koum
+T4	ORG 106 116	Facebookin
+T5	ORG 142 152	WhatsAppin
+T6	PER 163 171	Jan Koum
+T7	PER 240 244	Koum
+T8	ORG 302 310	Facebook
+T9	ORG 316 326	WhatsAppin
+T10	DATE 416 431	lokakuussa 2014
+T11	ORG 432 444	WhatsAppilla
+T12	ORG 510 522	Facebookilla
+T13	PRO 535 564	Messenger-viestisovelluksensa
+T14	PRO 604 616	WhatsAppista
+T15	PRO 638 646	Facebook
+T16	DATE 727 740	24. elokuuta.

@@ -1,0 +1,17 @@
+Google tarraa koteihin termostaateilla ja palovaroittimilla
+Google ostaa amerikkalaisen Nest Labsin 3,2 miljardilla dollarilla , eli 2,34 miljardilla eurolla .
+Ostettu yritys tunnetaan älykkäistä , oppivista termostaateista .
+Googlen tiedotteen mukaan Nest Labs jatkaa toimintaansa itsenäisenä ja entisen johdon alaisuudessa .
+Yksityisen yrityksen liikevaihto ja taloustiedot eivät ole julkisia .
+Nestin johto ilmoitti , ettei sen laitteiden keräämiä tietoja luovuteta ulkopuolisille , vaan niitä käytetään ainoastaan tuotteiden parantamiseen .
+Nest on julkaissut kysymys-vastaus -muotoisen selvityksen siitä , kuinka Google-kauppa vaikuttaa sen toimintaan .
+Nest Labsin termostaatit oppivat säätelemään talojen lämpötilaa asukkaiden päivittäisten tottumusten mukaisesti .
+250 dollaria maksava termostaatti on jatkuvasti Amazonin verkkokaupan suosituimpien kotituotteiden joukossa .
+Se voi helposti säästää hintansa säätämällä itsenäisesti lämmitettyjen tai viilennettyjen talojen lämpötilaa yön ja aamutoimien ajaksi ja taas alentamalla energian kulutusta ihmisten lähdettyä töihin .
+Yritys on juuri julkistanut uuden , wlan-yhteyttä käyttävän palovaroittimen .
+Se haistelee savun lisäksi myös häkäpitoisuutta ja osaa sammuttaa lämmityslaitteen häkäpitoisuuden noustessa .
+Laitteet tukevat sekä iOS- että Android-pohjaisia älypuhelimia .
+Nestin perustivat vuonna 2010 insinöörit Tony Fadell ja Matt Rogers , joilla oli tärkeä asema Applen iPodin ja iPhonen aikaisessa kehitysvaiheessa , San Jose Mercury News raportoi .
+Googlen sisäinen investointipankki on aikaisemmin sijoittanut kymmeniä miljoonia Nestiin , joka on ilmoittanut tehtäväkseen kotien laitekannan äly- ja muotoilutason nostamisen .
+Google ei ole ainoa tietotekniikka- ja internetyritys , joka sijoittaa kotien energiakulutuksen ja turvallisuuden parantamiseen .
+Myös Cisco ja IBM ovat kehittäneet tekniikkaa , joilla omistajat tai energiayhtiöt voivat hallita energian kulutusta .

@@ -1,0 +1,19 @@
+Miten käy , kun niitä ilmaisia Windows-ohjelmia lataa ?
+( Ei hyvin )
+HowToGeek teki testin , jota ei voi suositella kenellekään .
+Se asensi verkkosivustolta kymmenen suosituinta ilmaisohjelmaa ja huomasi mukana tulleen paljon muutakin .
+Tavallinen käyttäjä ei juuri koskaan valitse uutta Windows-ohjelmaa asennettaessa mukautettua asennusta .
+Ja miksi valitsisikaan ?
+Loogisinta on luottaa siihen , että ilmaisohjelmien mukana ei tule ylimääräistä roskaa .
+Luulo ei kuitenkaan ole tiedon väärti .
+HowToGeek-verkkosivusto testasi , mitä tapahtuu , kun lataussivusto Download.comista ladataan ja asennetaan 10 eniten ladattua Windows-ilmaisohjelmaa .
+Download.com valittiin kohteeksi siitä syystä , että sen käyttöehdoissa kerrotaan selvästi , ettei sivustolle hyväksytä ilmaisohjelmia , joiden asennusohjelmat sisältävät troijalaisia , mainosohjelmia tai muuta ylimääräistä roskaa .
+Tällaiseksi roskaksi ei kuitenkaan nähtävästi lasketa tietyn ohjelman mukana asentuvia , parhaimmillaan useita muita sovelluksia , joita käyttäjä ei toivo tai tarvitse .
+Lopputuloksena HowToGeekin testikone oli pullollaan ylimääräistä kuonaa , joka hidasti tavallista koneenkäyttöä huomattavasti .
+Tämä on valitettavasti myös arkipäivää monessa suomalaiskodissa .
+Luotetultakin verkkosivustolta ladatun ohjelman asennusohjelma saattaa sisältää paljon sponsoroitua sisältöä .
+Käytännössä tämä tarkoittaa esimerkiksi erilaisia työkalupalkkeja nettiselaimeen , jonkin kolmannen osapuolen verkkoselaimen tai vaikkapa ohjelmiston , joka lupaa kymmenen hyvää ja sata kaunista .
+Ehkä vastaisuudessa kannattaa siis mieluummin valita se mukautettu asennus automaattisen sijaan , sillä usein kun ohjelma on maksuton , sinä olet tuote .
+Toinen vaihtoehto on käyttää jotain vaihtoehtoista käyttöjärjestelmää , kuten Linuxia tai Mac OS X:ää .
+Erityisesti Linux on erinomainen valinta , sillä lähes poikkeuksetta ohjelmistot asennetaan siihen paketinhallinnan kautta .
+Eikä virallisiin pakettilähteisiin hyväksytä oheisroskaa .

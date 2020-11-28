@@ -1,0 +1,25 @@
+T1	ORG 0 10	Facebookin
+T2	PER 11 21	Zuckerberg
+T3	LOC 46 56	Kolumbiaan
+T4	ORG 57 67	Facebookin
+T5	PER 84 99	Mark Zuckerberg
+T6	LOC 120 129	Bogotassa
+T7	LOC 132 143	Kolumbiassa
+T8	ORG 188 198	Facebookin
+T9	ORG 211 223	Internet.org
+T10	LOC 226 234	Kolumbia
+T11	ORG 257 271	Internet.orgin
+T12	LOC 329 338	Sambiassa
+T13	LOC 358 365	Afrikan
+T14	ORG 375 387	Internet.org
+T15	LOC 468 477	Kolumbian
+T16	ORG 568 573	Tigon
+T17	ORG 629 643	Internet.orgin
+T18	PRO 751 760	Wikipedia
+T19	PRO 829 837	Facebook
+T20	PER 840 855	Mark Zuckerberg
+T21	ORG 876 887	Reutersille
+T22	LOC 939 945	Kiinan
+T23	ORG 1019 1033	Internet.orgin
+T24	PER 1074 1084	Zuckerberg
+T25	PRO 1116 1130	Internet.orgin

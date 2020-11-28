@@ -1,0 +1,17 @@
+T1	LOC 0 3	USA
+T2	ORG 20 26	NSA:ta
+T3	ORG 89 94	NSA:n
+T4	LOC 122 136	Yhdysvalloissa
+T5	ORG 166 171	NSA:n
+T6	PER 218 231	Barack Obaman
+T7	ORG 301 306	NSA:n
+T8	ORG 379 410	The New York Times -sanomalehti
+T9	ORG 435 438	NSA
+T10	ORG 627 630	NSA
+T11	ORG 733 770	The Wall Street Journal -sanomalehden
+T12	ORG 778 783	NSA:n
+T13	LOC 908 921	Yhdysvaltojen
+T14	LOC 985 997	Yhdysvaltoja
+T15	ORG 1000 1005	NSA:n
+T100001	LOC 383 391	New York
+T100002	LOC 737 748	Wall Street

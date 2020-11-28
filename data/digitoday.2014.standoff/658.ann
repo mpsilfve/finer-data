@@ -1,0 +1,27 @@
+T1	LOC 0 10	Piilaakson
+T2	LOC 34 48	San Franciscon
+T3	LOC 64 74	Piilaakson
+T4	LOC 103 119	San Franciscossa
+T5	LOC 287 301	San Franciscon
+T6	ORG 366 373	Googlen
+T7	ORG 376 382	Applen
+T8	ORG 385 395	Facebookin
+T9	ORG 501 507	Google
+T10	LOC 671 683	Piilaaksossa
+T11	LOC 684 698	San Franciscon
+T12	LOC 1197 1228	San Franciscon kaupungintalolla
+T13	ORG 1342 1360	The New York Times
+T14	ORG 1373 1408	San Franciscon kaupunginhallituksen
+T15	PER 1415 1427	Scott Wiener
+T16	ORG 1607 1614	Googlen
+T17	PER 1630 1646	Crystal Sholtsin
+T18	PER 1746 1756	Sholtsilla
+T19	PER 1837 1850	Steve Zeltzer
+T20	LOC 1880 1896	San Franciscossa
+T21	ORG 2302 2322	Berkeleyn yliopiston
+T22	ORG 2546 2552	Google
+T23	LOC 2684 2698	San Franciscon
+T24	LOC 2716 2729	Redwood Cityn
+T100001	LOC 1346 1354	New York
+T100002	LOC 1373 1387	San Franciscon
+T100003	LOC 2302 2311	Berkeleyn

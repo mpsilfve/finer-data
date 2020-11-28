@@ -1,0 +1,26 @@
+T1	ORG 31 41	Blackberry
+T2	PER 59 74	Ryan Seacrestin
+T3	ORG 75 79	Typo
+T4	ORG 159 177	Hollywood Reporter
+T5	PRO 187 205	IPhone-puhelimille
+T6	ORG 226 230	Typo
+T7	ORG 293 303	Blackberry
+T8	ORG 312 317	Typon
+T9	ORG 375 397	The Hollywood Reporter
+T10	ORG 413 423	Blackberry
+T11	ORG 438 443	Typoa
+T12	LOC 464 477	Kaliforniassa
+T13	ORG 480 485	Typon
+T14	LOC 507 521	Yhdysvalloissa
+T15	PER 552 565	Ryan Seacrest
+T16	ORG 591 602	Blackberryn
+T17	PRO 691 712	Blackberry-puhelinten
+T18	ORG 754 764	Blackberry
+T19	ORG 773 778	Typoa
+T20	ORG 860 870	Blackberry
+T21	ORG 915 919	Typo
+T22	DATE 1024 1036	maaliskuussa
+T23	ORG 1054 1061	Typolle
+T24	ORG 1103 1107	Typo
+T100001	LOC 159 168	Hollywood
+T100002	LOC 379 388	Hollywood

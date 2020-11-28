@@ -1,0 +1,25 @@
+T1	LOC 0 6	Kiinan
+T2	PER 26 32	Obaman
+T3	LOC 57 69	Yhdysvaltain
+T4	LOC 73 79	Kiinan
+T5	LOC 161 173	Yhdysvaltain
+T6	PER 186 198	Barack Obama
+T7	LOC 245 251	Kiinan
+T8	PER 264 274	Xi Jinping
+T9	ORG 302 317	Valkoisen talon
+T10	PER 325 330	Obama
+T11	LOC 362 374	Yhdysvaltain
+T12	LOC 382 388	Kiinan
+T13	PER 431 441	Xi Jinping
+T14	PER 452 458	Obaman
+T15	LOC 465 484	Valkoisessa talossa
+T16	DATE 485 495	syyskuussa
+T17	LOC 498 509	Yhdysvallat
+T18	LOC 531 537	Kiinaa
+T19	LOC 572 580	Kiinassa
+T20	LOC 599 611	Yhdysvaltain
+T21	ORG 612 624	NSA-viraston
+T22	LOC 664 669	Kiina
+T23	LOC 673 679	Venäjä
+T24	LOC 761 767	Kiinan
+T25	LOC 771 783	Yhdysvaltain

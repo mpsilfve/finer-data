@@ -1,0 +1,16 @@
+T1	ORG 103 126	Syrian Electronic Armyn
+T2	ORG 183 212	Syrian Electronic Army -ryhmä
+T3	ORG 266 293	TurkGuvenligi -hakkeriryhmä
+T4	PER 355 368	Graham Cluley
+T5	ORG 407 430	Syrian Electronic Armyn
+T6	ORG 780 802	Syrian Electronic Army
+T7	ORG 839 850	Microsoftin
+T8	ORG 853 859	Skypen
+T9	ORG 862 867	BBC:n
+T10	ORG 870 890	The New York Timesin
+T11	ORG 893 914	The Washington Postin
+T12	ORG 931 940	Reutersin
+T13	ORG 946 967	The Financial Timesin
+T14	LOC 1001 1008	Qatarin
+T100001	LOC 874 882	New York
+T100002	LOC 897 907	Washington

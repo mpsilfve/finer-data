@@ -1,0 +1,46 @@
+T1	PRO 0 7	Android
+T2	PRO 11 24	Windows Phone
+T3	ORG 49 56	Googlen
+T4	PRO 57 68	Androidille
+T5	ORG 149 155	Applen
+T6	ORG 168 179	Microsoftin
+T7	ORG 183 189	Nokian
+T8	ORG 216 235	Kantar Worldpanelin
+T9	DATE 243 254	joulukuussa
+T10	PRO 297 304	Android
+T11	LOC 310 318	Euroopan
+T12	LOC 376 384	Kiinassa
+T13	LOC 418 435	Yhdysvalloissakin
+T14	ORG 446 452	Applen
+T15	PRO 493 506	Windows Phone
+T16	LOC 566 574	Euroopan
+T17	LOC 704 714	Euroopassa
+T18	LOC 739 751	Britanniasta
+T19	LOC 754 764	Espanjasta
+T20	LOC 767 776	Italiasta
+T21	LOC 779 788	Ranskasta
+T22	LOC 792 800	Saksasta
+T23	LOC 803 817	Yhdysvalloissa
+T24	PRO 818 832	Windows Phonen
+T25	LOC 896 904	Kiinassa
+T26	PRO 986 995	Apple iOS
+T27	LOC 1004 1018	Yhdysvalloissa
+T28	LOC 1043 1050	EU5:ssä
+T29	LOC 1058 1066	Kiinassa
+T30	ORG 1091 1097	Applen
+T31	LOC 1113 1119	Japani
+T32	PRO 1128 1133	iOS:n
+T33	ORG 1204 1210	Applen
+T34	ORG 1256 1267	NTT Docomon
+T35	ORG 1292 1299	Docomon
+T36	PRO 1315 1322	iPhonet
+T37	ORG 1359 1371	Softbankilla
+T38	ORG 1404 1418	AU KDDI:llakin
+T39	LOC 1437 1445	Kiinassa
+T40	ORG 1491 1498	Xiaomin
+T41	PRO 1521 1530	Androidia
+T42	ORG 1571 1578	Xiaomin
+T43	ORG 1593 1599	Applen
+T44	ORG 1603 1612	Samsungin
+T45	PRO 1623 1632	Androidin
+T100001	ORG 986 991	Apple

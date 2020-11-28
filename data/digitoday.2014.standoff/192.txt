@@ -1,0 +1,11 @@
+MacBook Air yllätti testissä : Levynopeus tippui
+Suoritin on entistä nopeampi , mutta flash-levyjen toiminta jätti kysymyksiä Macworldin testissä .
+Applen uusitut MacBook Air -tietokoneet saattavat olla ssd- eli flash-levyjensä suorituskyvyn suhteen viimevuotisia edeltäjiään heikompia .
+Tämän verran voi johtaa Macworldin testistä , jossa levyjen nopeutta mitattiin eri keinoin , kuten kopioimalla , pakkaamalla ja purkamalla tiedostoja .
+Osassa testejä uuden 11-tuumaisen MacBook Airin 128 gigatavun levyä verrattiin viime vuoden 11-tuumaisen tietokoneen 256 gigatavun levyyn .
+Vaikka lehti huomioi , että pienemmät flash-levyt ovat usein isompia hitaampia , olivat uusien mallien levyt hitaampia myös , kun niitä verrattiin samankokoisiin edeltävän Air-sukupolven levyihin Blackmagic Designin Disk Speed Testissä .
+Mitään lopullisia johtopäätöksiä ei tuloksista kannata kuitenkaan vetää .
+Tuloksia saattaa sotkea se , että Apple käyttää koneissaan eri valmistajien flash-levyjä , ja toimittaja vaihteli myös testikoneissa .
+Ostajakaan ei voi tietää , minkä valmistajan levyn hän sattuu saamaan .
+Apple esitteli suorittimeltaan hieman parannellut ja samalla satasen verran halvemmat MacBook Airit viime viikolla .
+Yhtiö mainosti myös akkukeston parantuneen .

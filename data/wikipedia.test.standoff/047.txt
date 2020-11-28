@@ -1,0 +1,35 @@
+Rikastus
+Rikastus on erityinen menetelmä , jossa aineen rikastusastetta jonkin sisältämänsä komponentin suhteen nostetaan .
+Tämä tapahtuu yhdistämällä toisistaan matalamman ja korkeamman rikastusasteen jakeet .
+Kaivosteollisuudessa rikastuksella viitataan arvomineraalien erotusprosessia malmista .
+Erotusmenetelmät voivat perustua mineraalien eroihin pintaominaisuuksissa , magneettisiin ominaisuuksiin , sähköisiin ominaisuuksiin tai ominaispainoeroihin .
+Usein ennen varsinaista erotusprosessia rikastettava aines on murskattava tai muutoin esikäsiteltävä .
+Magneettiset metallit , kuten rauta erotetaan malmista magneettisella rikastuksella .
+Tehokas erottamisprosessi edellyttää malmin murskaamista .
+Rikastettava aines , esimerkiksi rikkihappo- tai selluloosatehtailta tuotu pasutusjäte , sekoitetaan veteen .
+Seos pumpataan rikastusaltaaseen , jonka pohjasta lasketaan paineilmaa sekaan vieri vieressä olevista pienistä rei´istä .
+Seoksen vaahdottuaessa mineraalit kohoavat nesteen pinnalle vaahdon mukana .
+Esimerkiksi kullanhuuhdonta perustuu kullan ja sivukiven väliseen ominaispainoeroon .
+Myös erilaisia spiraaliseparaattoreita ja ravistuspöytiä käytetään sivukiven ja metallin erottamiseen .
+Kulta ja hopea rikastettiin pitkään elohopean ja syanidin avulla .
+Hienoksi jauhettuun ja veteen sekoitettuun kulta- tai hopeamalmiin , pulppiin , sekoitettiin jauhamisen yhteydessä nestemäistä elohopeaa jolloin arvometalli - kulta tai hopea - tarttui elohopeaan muodostaen amalgaamia , ja seos sai virrata kuurnaan jonka pohja oli päällystetty elohopeapinnoitetuilla kuparilevyillä .
+Amalgaami tarttui kupariin ja aika ajoin virtaus katkaistiin jotta levyt voitiin vaihtaa uusiin vastaaviin .
+Seuraavaksi arvometallipintaiset levyt vietiin puhdistamoon , jossa amalgaami poistettiin raskailla koneellisilla kaapimilla ja elohopea erotettiin kullasta tai hopeasta tislausuuneissa .
+Elohopea kaasuuntui 300 asteen lämmössä ja poistui uunista , jolloin se jäähdytettiin taas nestemäiseksi ja palautettiin kiertoon , puhdas kulta- tai hopeapöly jäi uuniin ja poistettiin määräajoin .
+Loppukäsittely tapahtui yleensä sulattamossa , jossa aines valettiin harkoiksi .
+Hopea erottui jo amalgaamiin kokonaan , sen sijaan kultamalmin käsittelyprosessi jatkui vielä : amalgaamikuurnista loppu lieju virtasi syanidiliottamoon eli suuriin altaisiin , joihin laskettiin kaliumsyanidiliuosta .
+Liuos läpäisi liejun ja kultapitoinen myrkkylipeä sai virrata putkia pitkin ns. kastelutorneihin , jotka oli täytetty sinkkilastuilla .
+Sinkki vangitsi kullan pintaansa ja määräajoin virtaus katkaistiin , torni tyhjennettiin kultapäällysteisistä lastuista ja ladattiin uudelleen .
+Tornin pohjalla oli allas , johon sen läpäissyt myrkkyliuos kerääntyi ja pumpattiin kierrätykseen .
+Altaista lieju taas kuljetettiin eri menetelmillä – kuljettimista kuuppavaunuihin tehtaasta riippuen – erityiskaatopaikalle .
+Sinkkilastuista kulta erotettiin sulattamossa .
+Tämä on yksinkertaista , koska sinkin sulamispiste ( noin 420 celsiusastetta ) on alhaisempi kuin kullan ( yli 1000 celsiusastetta ) .
+Kullasta erotettu sinkki työstettiin uudelleen lastuiksi ja palautettiin kiertoon .
+Myrkkylipeää sen sijaan haaskaantui jonkin verran liejun sekaan , joten sitä tarvittiin jatkuvasti lisää .
+Jalometalliharkkoihin leimataan vielä ennen eteenpäin lähettämistä sarjanumerot sekä erityinen merkintä , joka kertoo valmistajasta tai joskus valtiosta , jonka alueella tuotantolaitos on .
+Näin tehdään siksi että jokaisen kulta- tai hopeaharkon alkuperä pystytään selvittämään laittomuuksien ehkäisemiseksi , koska nämä arvometallit ovat kansainvälisesti tarkassa valvonnassa .
+Bioliuotuksessa hyödynnetään bakteereja hapettamaan sivukiven sulfaatit .
+Yleisimpiä käytettyjä bakteereja ovat " Acidithiobacillus ferrooxidans " ja " Acidithiobacillus thiooxidans " , joista ensimmäinen hapettaa rautaa ja jälkimmäinen rikkiä .
+Näiden bakteerien optimaalinen toiminta-alue on pH 1,5–2,5 ja lämpötilat 25°C ja 38°C välillä .
+Ydinvoimatekniikassa rikastuksella viitataan isotooppirikastukseen eli uraanin väkevöintiin .
+Tällöin nostetaan isotooppi U-235:n osuutta suhteessa U-238:n osuuteen .

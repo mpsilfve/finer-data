@@ -1,0 +1,43 @@
+T1	PRO 31 46	Yotaphone 2:ssa
+T2	ORG 55 61	Nokian
+T3	LOC 84 91	Oulussa
+T4	PRO 102 124	Yotaphone 2 -puhelimen
+T5	ORG 145 151	Elisan
+T6	ORG 155 166	Saunalahden
+T7	ORG 236 242	Nokian
+T8	ORG 253 258	Elisa
+T9	PRO 278 300	Yotaphone 2 -puhelimen
+T10	PRO 394 410	iPhone-puhelimet
+T11	PRO 413 423	Yotaphonen
+T12	ORG 512 532	Yota Devices -yhtiön
+T13	LOC 583 590	Oulussa
+T14	LOC 639 646	Oulussa
+T15	LOC 666 676	Moskovassa
+T16	ORG 686 698	Digitodaylle
+T17	PER 699 712	Jukka Hekkala
+T18	LOC 783 788	Oulun
+T19	ORG 901 921	Yota Devices -yhtiön
+T20	LOC 922 927	Oulun
+T21	ORG 979 985	Nokian
+T22	PER 1002 1010	Hekkalan
+T23	ORG 1080 1086	Nokian
+T24	PER 1113 1120	Hekkala
+T25	ORG 1128 1134	Elisan
+T26	ORG 1138 1161	Yota Devices -yhtiöiden
+T27	LOC 1254 1259	Oulun
+T28	PER 1349 1356	Hekkala
+T29	ORG 1448 1459	Samsungilta
+T30	PER 1683 1691	Hekkalan
+T31	PER 1869 1876	Hekkala
+T32	PRO 2124 2146	Yotaphone 2 -puhelimen
+T33	ORG 2170 2177	Googlen
+T34	PRO 2178 2189	Android 4.4
+T35	PRO 2194 2200	KitKat
+T36	PER 2203 2211	Hekkalan
+T37	PRO 2258 2267	Androidin
+T38	PRO 2282 2290	Lollipop
+T39	ORG 2361 2375	Yota Devicesin
+T40	LOC 2473 2480	Oulussa
+T41	PER 2721 2729	Hekkalan
+T42	PER 3048 3055	Hekkala
+T43	PRO 3121 3131	YotaPhonen

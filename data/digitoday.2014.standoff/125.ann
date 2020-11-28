@@ -1,0 +1,33 @@
+T1	ORG 0 5	Apple
+T2	LOC 10 18	Amerikan
+T3	ORG 50 55	Apple
+T4	LOC 77 85	Amerikan
+T5	ORG 114 125	Microsoftin
+T6	ORG 181 187	Applen
+T7	PRO 188 195	iPhonet
+T8	PRO 199 205	iPadit
+T9	ORG 304 311	Flurryn
+T10	DATE 347 382	joulukuun 19. ja 25. päivän välillä
+T11	ORG 428 434	Applen
+T12	ORG 527 535	Applelta
+T13	ORG 538 547	Samsungin
+T14	ORG 612 623	Microsoftin
+T15	ORG 641 646	Sonyn
+T16	ORG 664 668	LG:n
+T17	PRO 702 711	Lumioiden
+T18	ORG 752 763	Microsoftin
+T19	ORG 826 834	Applella
+T20	ORG 838 849	Samsungilla
+T21	PRO 852 861	Lumioiden
+T22	LOC 868 880	Yhdysvaltain
+T23	PRO 1157 1176	iPhone 6 -puhelinta
+T24	PRO 1179 1192	IPhone 6 Plus
+T25	ORG 1234 1246	The Register
+T26	ORG 1259 1268	Samsungin
+T27	LOC 1289 1301	Yhdysvaltain
+T28	LOC 1379 1387	Kiinassa
+T29	LOC 1399 1407	Aasiassa
+T30	ORG 1444 1453	Samsungin
+T31	ORG 1456 1463	Xiaomin
+T32	ORG 1466 1471	ZTE:n
+T33	ORG 1475 1482	Lenovon

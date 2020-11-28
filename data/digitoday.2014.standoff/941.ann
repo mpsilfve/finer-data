@@ -1,0 +1,13 @@
+T1	ORG 0 6	Applen
+T2	PRO 7 19	App Storessa
+T3	ORG 45 50	Apple
+T4	ORG 296 302	Applea
+T5	PRO 334 346	App Storessa
+T6	ORG 437 446	MassRoots
+T7	PRO 541 552	App Storeen
+T8	ORG 567 578	MassRootsin
+T9	ORG 604 610	Applea
+T10	ORG 627 638	MassRootsin
+T11	PRO 846 856	App Storen
+T12	LOC 905 919	Yhdysvalloissa
+T13	ORG 1618 1628	TechCrunch

@@ -1,0 +1,19 @@
+T1	ORG 20 25	Intel
+T2	ORG 153 168	The Motley Fool
+T3	ORG 176 183	Intelin
+T4	ORG 187 200	Time Warnerin
+T5	PRO 256 281	America's Greatest Makers
+T6	PER 515 527	Mark Burnett
+T7	PRO 555 565	Survivorin
+T8	PER 666 673	Burnett
+T9	ORG 706 713	Intelin
+T10	ORG 895 902	Intelin
+T11	PRO 948 968	Intel Quark -piiriin
+T12	PRO 1043 1059	Intel Edisonille
+T13	PRO 1082 1096	Intel Curielle
+T14	ORG 1099 1102	ARM
+T15	ORG 1149 1158	Intelille
+T100001	ORG 948 953	Intel
+T100002	ORG 1043 1048	Intel
+T100003	PER 1049 1059	Edisonille
+T100004	PER 1088 1096	Curielle

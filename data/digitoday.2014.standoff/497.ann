@@ -1,0 +1,17 @@
+T1	ORG 47 70	Kyberturvallisuuskeskus
+T2	LOC 184 190	Suomen
+T3	ORG 191 214	Kyberturvallisuuskeskus
+T4	ORG 489 505	Kyberturvakeskus
+T5	ORG 513 531	Helsingin poliisia
+T6	LOC 768 774	Suomen
+T7	ORG 861 884	Kyberturvallisuuskeskus
+T8	ORG 944 950	Adoben
+T9	PRO 951 975	Cold Fusion -palvelimien
+T10	PRO 995 1028	Parallels Plesk -hallintapaneelin
+T11	PRO 1287 1312	Cold Fusion -palvelimelle
+T12	DATE 1322 1326	2013
+T13	DATE 1329 1341	Marraskuussa
+T14	PRO 1560 1567	Googlen
+T15	PRO 1571 1582	Shodan-haun
+T16	ORG 1592 1618	Kyberturvallisuuskeskuksen
+T100001	LOC 513 522	Helsingin

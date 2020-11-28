@@ -1,0 +1,28 @@
+T1	ORG 0 10	Facebookin
+T2	ORG 14 23	ProtoGeon
+T3	ORG 96 104	ProtoGeo
+T4	ORG 131 139	Facebook
+T5	ORG 272 281	ProtoGeon
+T6	PRO 313 335	Moves-kuntoilusovellus
+T7	ORG 355 361	Applen
+T8	PRO 362 369	iPhone-
+T9	ORG 375 382	Googlen
+T10	PRO 383 393	Androidiin
+T11	PRO 621 637	Moves-sovellusta
+T12	ORG 678 687	ProtoGeon
+T13	ORG 691 699	Facebook
+T14	ORG 820 832	Facebookille
+T15	ORG 942 950	Facebook
+T16	ORG 1009 1016	SFGaten
+T17	ORG 1024 1033	ProtoGeon
+T18	LOC 1114 1123	Lontoossa
+T19	LOC 1128 1138	Piilaakson
+T20	LOC 1139 1153	Menlo Parkissa
+T21	ORG 1156 1160	Cnet
+T22	ORG 1183 1191	Facebook
+T23	ORG 1353 1374	Wall Street Journalin
+T24	ORG 1415 1423	Facebook
+T25	PRO 1511 1518	Movesin
+T26	ORG 1550 1560	Facebookia
+T27	ORG 1580 1587	Googlen
+T100001	LOC 1353 1364	Wall Street

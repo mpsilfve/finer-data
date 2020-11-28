@@ -1,0 +1,16 @@
+T1	PRO 17 27	Twitteriin
+T2	ORG 108 122	Suomen poliisi
+T3	PRO 153 164	Twitterissä
+T4	PRO 207 216	Twitterin
+T5	PER 301 315	@SJKolehmainen
+T6	ORG 316 336	Poliisihallituksesta
+T7	PER 348 361	@kimmohimberg
+T8	ORG 362 390	Poliisiammattikorkeakoulusta
+T9	PER 536 550	@MarkoLuotonen
+T10	PRO 572 582	Twitteriin
+T11	PER 718 732	@TimoPiiroinen
+T12	PER 876 887	Marko Forss
+T13	ORG 890 904	Suomen poliisi
+T14	DATE 965 981	helmikuussa 2011
+T100001	LOC 108 114	Suomen
+T100002	LOC 890 896	Suomen

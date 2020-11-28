@@ -1,0 +1,19 @@
+T1	ORG 20 35	Hewlett-Packard
+T2	ORG 56 69	Microsoftille
+T3	ORG 126 141	Hewlett-Packard
+T4	ORG 223 236	Microsoftille
+T5	ORG 239 241	HP
+T6	PRO 280 318	Windows-käyttöjärjestelmän versiolla 7
+T7	PRO 437 466	Windows 8 -käyttöjärjestelmän
+T8	ORG 523 527	HP:n
+T9	PRO 563 572	Windows 7
+T10	PRO 838 849	Windows 8:n
+T11	ORG 860 869	Microsoft
+T12	ORG 1038 1047	Microsoft
+T13	PRO 1160 1179	Windows 9 -versiota
+T14	ORG 1263 1272	The Verge
+T15	ORG 1286 1290	HP:n
+T16	PRO 1300 1309	Windows 8
+T17	ORG 1620 1622	HP
+T18	PRO 1689 1701	Windows 8:aa
+T19	PRO 1881 1895	Windows Vistaa

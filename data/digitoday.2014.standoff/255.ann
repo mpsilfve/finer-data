@@ -1,0 +1,46 @@
+T1	PRO 0 1	X
+T2	PRO 5 6	G
+T3	LOC 22 32	Eurooppaan
+T4	ORG 33 40	Googlen
+T5	ORG 52 60	Motorola
+T6	LOC 64 76	Etelä-Korean
+T7	ORG 114 116	LG
+T8	LOC 143 153	Eurooppaan
+T9	ORG 170 178	Motorola
+T10	LOC 185 193	Euroopan
+T11	PRO 218 236	X-älypuhelimelleen
+T12	PRO 325 331	Moto X
+T13	LOC 347 359	Britanniassa
+T14	LOC 362 371	Ranskassa
+T15	LOC 375 383	Saksassa
+T16	DATE 384 395	helmikuussa
+T17	ORG 398 416	The New York Times
+T18	ORG 429 431	LG
+T19	PRO 468 490	G Flex -älypuhelintaan
+T20	PRO 648 657	LG G Flex
+T21	LOC 691 699	Koreassa
+T22	LOC 702 714	Hongkongissa
+T23	LOC 718 730	Singaporessa
+T24	DATE 822 837	tammi–helmikuun
+T25	ORG 851 855	AT&T
+T26	ORG 892 896	LG:n
+T27	PRO 915 921	G Flex
+T28	LOC 937 946	Ruotsissa
+T29	LOC 949 961	Britanniassa
+T30	LOC 964 973	Italiassa
+T31	LOC 976 985	Ranskassa
+T32	LOC 988 996	Saksassa
+T33	LOC 999 1011	Australiassa
+T34	DATE 1029 1040	helmikuussa
+T35	LOC 1081 1088	Suomeen
+T36	PRO 1091 1099	G Flexin
+T37	LOC 1155 1169	Yhdysvalloissa
+T38	PRO 1221 1229	Moto X:n
+T39	LOC 1326 1334	Euroopan
+T40	ORG 1350 1359	Samsungin
+T41	ORG 1362 1368	Applen
+T42	ORG 1372 1378	Nokian
+T43	ORG 1455 1464	Samsungin
+T44	PRO 1473 1485	Galaxy Round
+T45	LOC 1528 1536	Koreassa
+T100001	LOC 402 410	New York

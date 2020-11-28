@@ -1,0 +1,10 @@
+Ashley Madison -murto : Firma teki yhden asian oikein
+On olemassa syy siihen , miksi pettäjäpalvelun käyttäjien salasanoja ei ole valtoimenaan netissä .
+Ashley Madisonin tietomurto on raaka ja erittäin vahingollinen , ja monien mielestä myös itse palvelun luonne on varsin kyseenalainen .
+Mutta kaiken kurjuuden keskellä pettämispalvelu teki kuitenkin yhden asian oikein , brittiläinen tietoturvayhtiö Sophos katsoo .
+Tietomurto ei ole aiheuttanut käyttäjien selkokielisten salasanojen vuotamista verkkoon miljoonittain .
+Salasanojen suojauksesta osattiin pitää huolta .
+Sophoksen mukaan verkkopalvelu ei säilönyt varsinaisia salasanoja ollenkaan , vaan piti hallussaan ainoastaan niistä luotuja niin sanottuja tiivisteitä ( hash ) , joita ei pysty enää purkamaan alkuperäisiksi salasanoiksi .
+Ainoa tapa selvittää tällaiset salasanat on arvata sanakirjamaisesti mahdoton määrä sanoja ja toivoa , että joku niistä täsmää tietokannassa olevan tiivisteen kanssa .
+Ne harvat Ashley Madisonin salasanat , jotka on pystytty väkisin arvaamaan testeissä , ovat pahnan pohjimmaisia , eli kaikista huonoimpia ja siten helpoiten arvattavissa .
+Eli myös Ashley Madisonin tapauksessa heikoin käytetty salasana oli 123456 perässään password ja 12345 .

@@ -1,0 +1,12 @@
+San Franciscossa tapellaan metron wlanista
+San Franciscon alueen metron ja pikaraitiotien yhdistelmää pyörittävä Bart-organisaatio irtisanoi sopimuksen wlan-yhteyksiä toimittavan Wi-Fi Railin kanssa .
+Asiasta syntyy iso tappelu , sillä wlan-toimittaja väittää , että sillä on 20-vuotinen yksinoikeussopimus Bartin raideverkkoon .
+Bart ( Bay Area Rapid Transit ) ilmoitti irtisanoneensa kokeiluajalla olleen sopimuksen , jonka puitteissa matkustajilla oli käytössä langaton lähiverkko San Franciscon ja Oaklandin keskusta-alueella .
+Palvelu kattoi vain viisi prosenttia Bartin 170 kilometrin raideverkosta .
+Wi-Fi Rail sanoo sijoittaneensa seitsemän miljoonaa dollaria Ciscon ja omaan verkkoteknologiaan Bartissa .
+Se uhkaa viedä asian oikeuteen .
+Bartin mukaan wlan-toimittaja ei ole kertonut uskottavasti , kuinka se aikoo viedä verkottamisen loppuun eikä sen verkko ole pystynyt sovittuun suorituskykyyn .
+Wi-Fi Railin ja Bartin vuonna 2009 tehdyn 20-vuotisen sopimuksen mukaan palvelu olisi ilmainen Bartille , ja San Franciscon lahden alueen matkustajat ja mainostajat maksaisivat hankkeen .
+Asiasta kirjoittaneen Fierce Wirelessin mukaan langattoman lähiverkon tuominen metroihin ja muihin joukkoliikennejärjestelmiin on nostamassa suosiotaan Yhdysvalloissa .
+Esimerkiksi New Yorkin kaupunki on ilmoittanut rakennuttavansa maailman suurimman ja nopeimman ilmaisen wlan-verkon .
+Siihen kuuluu osana matkapuhelin- ja wlan-yhteyksien tuominen kaupungin jokaiselle 279 metroasemalle .

@@ -1,0 +1,23 @@
+T1	ORG 0 5	Apple
+T2	ORG 49 55	Applen
+T3	DATE 75 89	loka-joulukuun
+T4	ORG 196 202	Applen
+T5	ORG 264 270	Applen
+T6	ORG 339 357	Canaccord Genuityn
+T7	PER 370 382	Mike Walkley
+T8	ORG 428 434	Applen
+T9	DATE 468 479	vuoden 2018
+T10	PRO 566 572	iPhone
+T11	ORG 575 586	Cannacordin
+T12	ORG 594 600	Applen
+T13	ORG 614 621	Samsung
+T14	PER 733 740	Walkley
+T15	PRO 747 757	iPhone 6:n
+T16	PRO 808 815	iPhonen
+T17	PRO 891 907	iPhone 6 Plussan
+T18	ORG 950 956	Applen
+T19	ORG 999 1010	Cult of Mac
+T20	ORG 1013 1027	New York Times
+T21	ORG 1094 1100	Applen
+T22	ORG 1145 1154	Samsungin
+T100001	LOC 1013 1021	New York

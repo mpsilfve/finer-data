@@ -1,0 +1,11 @@
+80 miljoonan tiedot vietiin — eikä niitä edes salattu
+Tietovarkaat saivat yhdysvaltalaisen Anthemin asiakkaiden henkilötiedot selväkielisinä haltuunsa , The Wall Street Journal kertoo .
+Sairausvakuutusyhtiö Anthem säilytti 80 miljoonan asiakkaansa henkilötietoja salaamattomina tietokannassaan , The Wall Street Journal ( WSJ ) kirjoittaa maksumuurin takana .
+Tähän on ainakin tavallaan syy , sillä laki ei vaadi tietojen salaamista sairausvakuutusyhtiöiltä , ja tietojen säilyttäminen selväkielisinä on lisäksi yleinen käytäntö alalla .
+Anthemin edustaja Kristin Binns kertoi WSJ:lle , että tiedot salataan vain silloin , kun niitä viedään sisään tai ulos järjestelmästä .
+Tietenkin se , että vaatimusta ei ole , ei tarkoita , etteikö tietoja olisi kaiken järjen mukaan pitänyt salata normaalien tietoturvakäytäntöjen mukaisesti .
+Asia ei kuitenkaan ole näin yksinkertainen , WSJ kirjoittaa .
+Asiasta tietävä lähde kertoi lehdelle , että tietojen salaus tekisi niiden käsittelystä vaikeampaa , kun tietoja jaetaan terveyspalvelujen ja osavaltioiden hallintojen kanssa .
+Lisäksi tietojen salaus ei välttämättä ole muuta kuin tilapäinen hidaste rikollisten tiellä .
+Pääongelma on se , että tiedot ylipäätään pystyttiin varastamaan .
+Anthem uskoo , että tietomurto onnistui työntekijän varastetun salasanan avulla .

@@ -1,0 +1,25 @@
+T1	PRO 0 17	Samsung Galaxy S6
+T2	DATE 31 45	1. maaliskuuta
+T3	ORG 46 53	Samsung
+T4	DATE 84 103	maaliskuun 1. päivä
+T5	LOC 104 116	Barcelonassa
+T6	ORG 239 248	Samsungin
+T7	PRO 281 299	" Galaxy S6 " :een
+T8	ORG 387 406	Wall Street Journal
+T9	LOC 482 492	Barcelonan
+T10	EVENT 493 516	Mobile World Congressin
+T11	ORG 682 688	Applen
+T12	PRO 689 697	iPhone 6
+T13	PRO 701 722	6 Plus -älypuhelinten
+T14	ORG 757 766	Samsungin
+T15	PRO 820 837	Galaxy-puhelimien
+T16	ORG 856 863	Samsung
+T17	ORG 910 916	Applen
+T18	ORG 964 978	ABI Researchin
+T19	DATE 1040 1054	heinä–syyskuun
+T20	DATE 1071 1085	loka–joulukuun
+T21	ORG 1266 1280	ABI Researchin
+T22	ORG 1296 1307	Microsoftin
+T23	PRO 1308 1336	Windows Phone -älypuhelinten
+T100001	ORG 0 7	Samsung
+T100002	LOC 387 398	Wall Street

@@ -1,0 +1,12 @@
+T1	ORG 0 8	Facebook
+T2	ORG 68 78	Facebookin
+T3	ORG 219 227	Facebook
+T4	DATE 525 538	9. huhtikuuta
+T5	ORG 549 557	Facebook
+T6	ORG 659 667	Facebook
+T7	DATE 687 696	elokuussa
+T8	ORG 802 821	Wall Street Journal
+T9	ORG 1110 1118	Facebook
+T10	ORG 1418 1426	Facebook
+T11	PRO 1781 1793	Facebookista
+T100001	LOC 802 813	Wall Street

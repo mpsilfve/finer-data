@@ -1,0 +1,15 @@
+Mobiilimaksukisa kiihtyy : Google himoitsee Softcardia ?
+Google haluaa ostaa vilautusmaksuyritys Softcardin , kertovat huhut .
+AT&T , Verizon ja T-Mobile perustivat Softcardin keskittääkseen kännyköiden lähimaksut yhteen , yksinkertaiseen ratkaisuun .
+Alun perin Softcard tunnettiin nimellä Isis , mutta maailmanpolitiikka teki nimen muuttamisen pakolliseksi .
+Softcardin menestys ei ole vastannut sen menoja ja se on irtisanonut reippaan osan työntekijöistään .
+Niinpä huhut näkevät tässä mahdollisuuden Googlelle .
+Niiden mukaan Google voisi ostaa Softcardin halvalla , sadalla miljoonalla eurolla .
+Googlella on jo oma mobiilimaksujärjestelmänsä Google Wallet , joten miksi se ostaisi Softcardin ?
+Asiasta kirjoittaneen Techcrunchin mukaan syitä löytyy : patentit , suhteet operaattoreihin ja 200\_000 vähittäiskauppaa , jotka käyttävät Softcardin järjestelmää .
+Softcard toimii Android- ja Windows-puhelimissa .
+Apple ei päästä Softcardia iOS-laitteisiin , sillä se kilpailee Apple Payn kanssa .
+Huolimatta suurten operaattorien tuesta Softcard kohtaa kovaa kilpailua .
+Vastassa ovat siis Apple Pay ja Google Wallet ja niiden lisäksi ainakin PayPal ja suurten kauppaketjujen tukema CurrentC .
+Softcardin osto halvalla ei välttämättä ole mikään läpihuutojuttu Googlelle , sillä myös PayPalin ja Microsoftin sanotaan olevan kiinnostuneita siitä .
+Etulyöntiasema kuuluu kuitenkin AT&T:lle tai Verizonille , kumpikin niistä voisi tehdä Softcardista oman palvelunsa .

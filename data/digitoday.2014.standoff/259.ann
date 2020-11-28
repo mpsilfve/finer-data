@@ -1,0 +1,35 @@
+T1	ORG 0 11	Microsoftin
+T2	PRO 12 25	Windows Phone
+T3	ORG 29 35	Nokian
+T4	PRO 36 42	Lumiat
+T5	ORG 59 70	Blackberryä
+T6	ORG 108 118	Blackberry
+T7	PRO 249 265	Windows Phonelle
+T8	PRO 275 303	BBM-viestintäsovelluksestaan
+T9	ORG 306 317	Blackberryn
+T10	PRO 318 321	BBM
+T11	ORG 354 360	Applen
+T12	PRO 361 364	iOS
+T13	ORG 368 375	Googlen
+T14	PRO 376 395	Android -alustoilla
+T15	ORG 450 461	Blackberryn
+T16	PER 490 504	David Proulxin
+T17	PRO 512 517	BBM:n
+T18	PRO 524 540	Windows Phonelle
+T19	ORG 607 621	TrustedReviews
+T20	PER 624 630	Proulx
+T21	ORG 756 767	Microsoftin
+T22	PRO 768 792	Windows Phone -alustalla
+T23	PRO 955 969	Windows Phonen
+T24	PRO 1024 1037	Instagramista
+T25	PRO 1040 1052	WhatsAppista
+T26	PRO 1056 1063	Vinesta
+T27	PRO 1066 1080	Windows Phonen
+T28	ORG 1115 1121	Nokian
+T29	PRO 1122 1131	Lumioiden
+T30	DATE 1154 1164	maaliskuun
+T31	ORG 1210 1221	Microsoftin
+T32	PRO 1222 1230	Lumioita
+T33	ORG 1233 1244	Microsoftin
+T34	PRO 1335 1350	Windows Phoneen
+T35	ORG 1384 1397	Blackberrykin

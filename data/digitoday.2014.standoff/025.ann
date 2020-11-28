@@ -1,0 +1,21 @@
+T1	ORG 0 6	Applen
+T2	ORG 61 66	Apple
+T3	PRO 71 87	iPhone-puhelimia
+T4	PRO 205 212	iPhonen
+T5	ORG 255 260	Apple
+T6	DATE 265 274	joulukuun
+T7	PRO 325 344	iPhone-älypuhelimia
+T8	PRO 348 362	iPad-laitteita
+T9	ORG 492 498	Applen
+T10	PRO 515 521	iPhone
+T11	ORG 581 586	Apple
+T12	PRO 661 668	iPhonea
+T13	ORG 791 800	Bloomberg
+T14	PRO 810 817	IPadeja
+T15	ORG 900 906	Applen
+T16	PER 973 982	Van Baker
+T17	ORG 983 994	Gartnerilta
+T18	ORG 995 1008	Bloombergille
+T19	ORG 1060 1066	Applen
+T20	ORG 1493 1498	Apple
+T21	ORG 1593 1599	Applen

@@ -1,0 +1,16 @@
+Konnat jaksavat yllättää : Pankkitilejä tyhjentävässä haitakkeeseessa onvirustutka
+Vasta löydetty Shifu-troijalainen sisältää oman virustorjunnan , joka ottaa kilpailijat pois pelistä .
+Japanilaisia ja eurooppalaisia pankkeja vaivaa uusi ovela haittaohjelma , jolle IBM:n tietoturvatutkijat ovat antaneet nimen Shifu japaninkielisen varasta tarkoittavan sanan mukaan .
+Haittaohjelman juuret saattavat olla Venäjällä .
+Shifu on ilmeisesti ollut toiminnassa viime huhtikuusta alkaen .
+Tällä hetkellä sen on havaittu hyökkäävän aktiivisesti 14 japanilaiseen pankkiin , mutta sitä löydetty myös eri puolilta Eurooppaa , pääasiassa Itävallasta ja Saksasta .
+Tutkijoiden mukaan Shifu on niin sanottu troijalainen , eli viattomaksi naamioitu haittaohjelma , joka pitää sisällään ikäviä toimintoja .
+Shifussa on paljon tuttua aiemmin levinneistä haittaohjelmista , sillä se on varsinainen haittaohjelmien " Frankensteinin hirviö " : Sen koodiin on koottu aiempien troijalaisten pahimpia piirteitä .
+Esimerkiksi Zeus-haittaohjelmasta Shifuun on kopioitu menetelmiä , joilla se välttelee tietoturvaohjelmia .
+Keinot piiloutua Windows-tiedostojärjestelmään se on saanut Gozi/ISFB-troijalaiselta .
+Conficker-troijalaiselta taas on peräisin keino pyyhkiä Windows-tietokoneen Järjestelmän palautus -toiminnosta aiemmin tallennetut käyttöjärjestelmän versiot , joten saastuneeseen koneeseen ei sen avulla voi palauttaa aiempaa puhdasta versiota .
+Shifun erikoisin piirre on kuitenkin sen sisältämä oma virustorjuntatoiminto .
+Shifu etsii käyttäjän koneelta muita pankkitroijalaisia ja pyrkii estämään niiden toiminnan useilla eri keinoilla .
+Tarkoituksena on lisätä Shifun tekijöiden voitot estämällä muita haittaohjelmia pääsemästä samoille apajille .
+Lisäksi Shifu pystyy hyökkäämään monenlaisiin kohteisiin .
+Pankkiyhteyksien lisäksi Shifu voi viedä tietoja virtuaalirahaa tallentavista lompakkosovelluksista sekä kauppojen maksupäätteistä .

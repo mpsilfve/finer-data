@@ -1,0 +1,9 @@
+T1	ORG 0 5	Apple
+T2	ORG 9 15	Google
+T3	LOC 144 158	Yhdysvalloissa
+T4	ORG 294 302	JD Power
+T5	LOC 312 326	Yhdysvalloissa
+T6	ORG 802 808	Applen
+T7	PRO 809 816	CarPlay
+T8	ORG 831 838	Googlen
+T9	PRO 839 851	Android Auto

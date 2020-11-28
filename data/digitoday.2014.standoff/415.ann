@@ -1,0 +1,14 @@
+T1	ORG 0 7	Googlen
+T2	ORG 52 59	Googlen
+T3	ORG 233 240	Googlen
+T4	PRO 241 253	Project Loon
+T5	PRO 263 274	Google+:ssa
+T6	PRO 301 309	Ibis-167
+T7	PRO 711 719	Ibis-167
+T8	ORG 829 835	Google
+T9	PRO 846 860	Project Loonin
+T10	LOC 861 880	Uudessa-Seelannissa
+T11	DATE 887 897	kesäkuussa
+T12	ORG 990 996	Google
+T13	LOC 1068 1081	Kaliforniasta
+T14	ORG 1084 1098	FierceWireless

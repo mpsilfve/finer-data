@@ -1,0 +1,12 @@
+Microsoft ei sittenkään jätä XP-käyttäjiä täysin omilleen tietoturvassa
+Microsoft on ollut ehdoton sen suhteen , että Windows XP:n tietoturvapäivitykset päättyvät huhtikuussa .
+Näin on edelleen , mutta yhtiö tekee XP:n lukuisille käyttäjille pienen myönnytyksen .
+Microsoft yrittää kaikin tavoin saada yritykset siirtymään uuden Windowsin pariin ennen XP:n tukiajan päättymistä ensi huhtikuussa .
+Vaikka käyttöjärjestelmän markkinaosuus on edelleen huikeat 29 prosenttia , ei Microsoft taivu : Windows XP kuolee – ainakin tietoturvapäivitysten osalta .
+Huhtikuussa ei kuitenkaan tule maailmanloppua , vaan Windows XP jatkaa taivaltaan useassa yrityksessä .
+Tämä on ollut Microsoftinkin pakko lopulta myöntää : yhtiö on luvannut jatkaa oman tietoturvaohjelmistonsa päivityksiä aina ensi vuoden heinäkuulle .
+Microsoft on joutunut antamaan periksi useaan otteeseen kuluneen kahden vuoden aikana .
+Windows 8:n muutoksissa otettiin takapakkia heti 8.1-päivityksen myötä .
+Aiemmin kaiken tuen Windows XP:lle piti päättyä 8. huhtikuuta .
+Nyt taka-askelia on otettu senkin suhteen .
+Microsoftin lisäksi myös ilmaisten torjuntaohjelmistojen kunkku Avast on luvannut jatkaa virusskannerinsa tukea Windows XP:lle .

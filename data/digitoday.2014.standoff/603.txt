@@ -1,0 +1,23 @@
+FBI : Hyökkääjät mokasivat ja paljastivat Pohjois-Korean
+FBI-johtaja kertoo , miksi Pohjois-Korean syyllisyys Sony Picturesin tietomurtoon näyttää niin selvältä .
+Eri kyberasiantuntijat ovat epäilleet Yhdysvaltain väitettä , että Sony Picturesiin iski Pohjois-Korea .
+FBI:n johtaja James Comey pyrki hälventämään epäilyksiä keskiviikkona New Yorkin International Conference on Cyber Security -tapahtumassa .
+Comeyn mukaan hyökkääjät , jotka käyttivät itsestään nimeä Guardians of Peace , unohtivat välillä piilottaa alkuperänsä .
+– Guardians of Peace lähetti sähköposteja uhkaillen Sonyn työntekijöitä ja julkaisi verkossa lausuntoja , joissa he selittivät tekemisiään .
+Lähes joka tapauksessa he käyttivät välityspalvelimia lähettäessään näitä sähköposteja ja julkaistessaan näitä lausuntoja , Comey pohjusti Reutersin mukaan .
+– Mutta heistä tuli monessa tapauksessa huolimattomia .
+Useita kertoja he – joko unohtamisen tai teknisen ongelman vuoksi – ottivat yhteyttä suoraan ja me pystyimme näkemään sen , Comey jatkoi .
+Johtajan mukaan FBI kykeni näin näkemään hyökkääjien käyttämät ip-osoitteet ja ne olivat yksinomaan Pohjois-Korean hallituksen käytössä .
+Comey korosti tämän olevan erittäin selvä vihje siitä , kuka oli hyökkäyksen takana .
+Hän haluaa Yhdysvaltain tiedusteluyhteisön julkistavan tiedot , jotka todistavat hyökkääjien käyttäneen näitä palvelimia .
+Lisää todisteita vaaditaan
+Kaikki arvostelijat eivät ole edelleenkään vakuuttuneita , The New York Times kirjoittaa .
+Heihin lukeutuu CloudFaren tutkija Marc Rogers , jonka mukaan kritiikki olisi voinut laantua , jos Yhdysvallat olisi perustellut Pohjois-Korean syylliseksi heti kättelyssä .
+Mutta hän kokee hallituksen tarjoaman todistusaineiston olevan hataralla pohjalla .
+Guardians of Peace käytti propagandansa levitykseen muun muassa Facebook-tiliä , jonka yhteisöpalvelu sulki marraskuussa .
+F-Securen asiantuntija Sean Sullivan toivoo Yhdysvaltain julkaisevan tältä tililtä kerätyt todisteet .
+– Sen paljastaminen , mitä Facebook tietää tästä tilistä ja miten sitä käytettiin , ei voi olla jotain , mitä FBI:n on pakko salata .
+Se ei vain voi olla , Sullivan painotti NY Timesille .
+Uutistoimisto Reutersin mukaan Sony-hyökkäyksen tutkinnassa pidetään mahdollisena , että Pohjois-Korea palkkasi ulkomaista apua , tai sitten avunantajina toimivat vihaiset työntekijät Sonyn sisällä .
+Mutta tutkijat eivät usko , että mikään toinen valtio auttoi Pohjois-Koreaa .
+Aiemmin on epäilty , että hyökkääjien joukossa saattoi olla venäjää äidinkielenään puhuvia .

@@ -1,0 +1,21 @@
+T1	ORG 18 23	Nokia
+T2	ORG 40 49	Microsoft
+T3	ORG 84 93	Microsoft
+T4	ORG 123 129	Nokian
+T5	ORG 195 201	Nokian
+T6	PER 281 296	Richard Windsor
+T7	PER 310 317	Windsor
+T8	ORG 357 362	Nokia
+T9	ORG 370 383	Microsoftille
+T10	PRO 419 453	Windows Phone -käyttöjärjestelmään
+T11	ORG 542 550	Nokialle
+T12	ORG 606 615	Microsoft
+T13	ORG 653 658	Nokia
+T14	PER 675 682	Windsor
+T15	PER 696 705	Windsorin
+T16	ORG 736 747	Microsoftia
+T17	PRO 769 784	Windows Phoneen
+T18	ORG 833 844	Microsoftia
+T19	ORG 871 879	Nokialta
+T20	PER 882 889	Windsor
+T21	ORG 904 913	Microsoft

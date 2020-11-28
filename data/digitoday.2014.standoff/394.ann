@@ -1,0 +1,20 @@
+T1	ORG 0 4	Ford
+T2	LOC 49 61	Yhdysvaltain
+T3	ORG 94 104	Ford Motor
+T4	LOC 120 133	Las Vegasissa
+T5	PRO 186 210	C-Max Solar Energi -auto
+T6	ORG 372 376	Ford
+T7	ORG 516 548	Georgia Institute of Technologyn
+T8	PRO 587 603	Fresnel-linssejä
+T9	ORG 650 656	Fordin
+T10	ORG 823 829	Fordin
+T11	PRO 941 956	Fresnel-linssit
+T12	EVENT 1347 1390	International Consumer Electronics Show'ssa
+T13	EVENT 1393 1396	CES
+T14	DATE 1417 1430	7. tammikuuta
+T15	LOC 1431 1444	Las Vegasissa
+T16	ORG 1540 1547	Toyotan
+T17	PRO 1548 1564	Prius-hybridissä
+T18	ORG 1675 1685	Nissanilla
+T100001	PER 94 98	Ford
+T100002	LOC 516 523	Georgia

@@ -1,0 +1,16 @@
+T1	ORG 56 65	Hutchison
+T2	ORG 78 93	O2-operaattorin
+T3	LOC 102 121	Isossa-Britanniassa
+T4	LOC 161 173	Hongkongista
+T5	ORG 185 202	Hutchison Whampoa
+T6	ORG 242 261	O2 UK -operaattorin
+T7	ORG 313 323	Telefónica
+T8	ORG 357 366	Hutchison
+T9	ORG 437 448	Hutchisonin
+T10	ORG 466 480	3-operaattorin
+T11	ORG 484 491	O2 UK:n
+T12	ORG 837 840	3:n
+T13	ORG 844 848	O2:n
+T14	LOC 867 877	Britannian
+T15	ORG 956 961	Ofcom
+T100001	PER 185 194	Hutchison

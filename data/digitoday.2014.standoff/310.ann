@@ -1,0 +1,36 @@
+T1	PRO 27 42	Nokia-puhelimia
+T2	ORG 45 50	Nokia
+T3	DATE 66 77	vuoden 2014
+T4	ORG 124 130	Nokian
+T5	ORG 251 257	Nokian
+T6	ORG 398 411	Microsoftille
+T7	DATE 425 436	huhtikuussa
+T8	ORG 464 470	Nokian
+T9	ORG 484 490	Nokian
+T10	PRO 628 646	Nokia N1 -tabletti
+T11	ORG 697 703	Nokiaa
+T12	ORG 706 712	Nokian
+T13	PER 729 744	Timo Ihamuotila
+T14	ORG 758 764	Nokian
+T15	ORG 818 827	Inderesin
+T16	PER 844 859	Mikael Rautasen
+T17	PRO 867 882	Nokia-puhelimia
+T18	ORG 905 916	Microsoftin
+T19	ORG 948 956	Nokialle
+T20	DATE 984 995	vuonna 2016
+T21	PER 1121 1129	Rautanen
+T22	PRO 1190 1203	Nokia-brändin
+T23	PRO 1240 1259	Nokia N1 -tablettia
+T24	ORG 1289 1296	Foxconn
+T25	ORG 1299 1304	Nokia
+T26	ORG 1396 1401	Nokia
+T27	ORG 1510 1519	Microsoft
+T28	ORG 1527 1535	Nokialle
+T29	ORG 1592 1598	Nokiaa
+T30	ORG 1683 1691	Nokialla
+T31	PER 1834 1842	Rautanen
+T32	ORG 1851 1860	Microsoft
+T33	PRO 1887 1896	Lumioiden
+T34	PER 2050 2058	Rautasen
+T100001	ORG 628 633	Nokia
+T100002	ORG 1240 1245	Nokia

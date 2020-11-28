@@ -1,0 +1,26 @@
+T1	PRO 0 9	Yotaphone
+T2	ORG 18 24	Nokian
+T3	LOC 35 43	Kiinassa
+T4	ORG 75 82	Potevio
+T5	ORG 113 119	Nokian
+T6	PRO 158 183	Yotaphone 2 -älypuhelinta
+T7	LOC 184 192	Kiinassa
+T8	LOC 195 202	Oulussa
+T9	ORG 255 267	Yota Devices
+T10	LOC 327 334	Kiinaan
+T11	LOC 383 390	Venäjän
+T12	LOC 394 400	Kiinan
+T13	ORG 434 441	Potevio
+T14	LOC 504 510	Kiinan
+T15	ORG 593 598	Yotan
+T16	PER 615 633	Vladislav Martinov
+T17	LOC 647 653	Kiinaa
+T18	ORG 855 859	Yota
+T19	PRO 874 899	Yotaphone 2 -älypuhelimen
+T20	LOC 914 922	Euroopan
+T21	LOC 932 940	Kiinassa
+T22	DATE 954 964	maaliskuun
+T23	LOC 985 1003	Pohjois-Amerikassa
+T24	LOC 1006 1031	Latinalaisessa Amerikassa
+T25	LOC 1035 1047	Indonesiassa
+T26	ORG 1061 1074	Total Telecom

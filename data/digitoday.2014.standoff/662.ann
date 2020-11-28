@@ -1,0 +1,24 @@
+T1	ORG 0 5	NSN:n
+T2	ORG 16 25	Samsungin
+T3	LOC 26 34	Euroopan
+T4	ORG 53 62	Samsungin
+T5	LOC 63 71	Euroopan
+T6	ORG 103 108	NSN:n
+T7	PER 127 145	Giuseppe Donagemma
+T8	ORG 148 171	Samsung Networks Europe
+T9	PER 186 205	Giuseppe Donagemman
+T10	PER 227 239	Donagemmalla
+T11	ORG 279 287	Nokiassa
+T12	ORG 311 316	NSN:n
+T13	ORG 324 352	Nokia Solutions and Networks
+T14	ORG 363 385	Nokia Siemens Networks
+T15	LOC 388 418	läntisen ja eteläisen Euroopan
+T16	DATE 436 453	vuosina 2009–2012
+T17	ORG 557 564	Samsung
+T18	LOC 618 626	Euroopan
+T19	ORG 736 749	Total Telecom
+T20	PER 762 771	Donagemma
+T21	ORG 780 788	Nokiassa
+T22	DATE 792 803	vuonna 1994
+T23	LOC 832 839	Italian
+T24	ORG 856 867	Vodafonella

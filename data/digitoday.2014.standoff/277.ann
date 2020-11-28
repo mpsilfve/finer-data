@@ -1,0 +1,29 @@
+T1	ORG 12 17	Nokia
+T2	PRO 26 34	Lumioita
+T3	EVENT 35 42	MWC:ssä
+T4	ORG 45 53	Nokialta
+T5	LOC 96 108	Barcelonassa
+T6	EVENT 133 165	Mobile World Congress -messuilla
+T7	ORG 181 190	Digitimes
+T8	ORG 249 255	Nokian
+T9	ORG 295 304	Digitimes
+T10	DATE 389 401	marraskuusta
+T11	EVENT 429 445	MWC-tapahtumassa
+T12	PRO 469 479	Lumia 1820
+T13	ORG 507 517	Qualcommin
+T14	PRO 518 542	Snapdragon 805 -suoritin
+T15	PRO 612 645	Lumia 1520 -lippulaivapuhelimesta
+T16	PRO 671 683	Lumia 1520 V
+T17	PRO 686 724	Windows Phone 8.1 -käyttöjärjestelmään
+T18	ORG 825 831	Nokian
+T19	PRO 893 916	Lumia 1525-älypuhelinta
+T20	ORG 973 979	Nokian
+T21	ORG 1125 1136	Microsoftia
+T22	ORG 1139 1145	Nokian
+T23	ORG 1201 1212	Pocket-lint
+T24	ORG 1250 1259	GSMArenan
+T25	ORG 1284 1293	The Verge
+T26	ORG 1301 1312	Digitimesin
+T27	ORG 1336 1346	The Vergen
+T28	PRO 1386 1397	Twitterissä
+T29	ORG 1411 1422	Digitimesin

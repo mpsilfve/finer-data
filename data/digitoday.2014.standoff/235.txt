@@ -1,0 +1,21 @@
+Microsoft paljasti tietoja Lumioiden ohjelmalatauksista : Tehkää softatnuhapumpuille !
+Windows Phone -sovellukset kannattaa tehdä pienen muistin älypuhelimia ajatellen , Microsoft päättelee tilastoistaan .
+Voiko huippu-Lumian kohta jo heittää romukoppaan ?
+Ohjelmisto- ja laitevalmistaja Microsoftilla on uutisia Windows Phonen sovelluskehittäjille .
+Yhtiö julkaisi joulun alla tuoreita tilastoja sovellusten latauksista .
+Suurin osa latauksista tehdään puhelimilla , joissa on vähän ram- eli työmuistia .
+Microsoft määrittää Windows Phone 7 -älypuhelimen olevan vähämuistinen , jos siinä on enintään 256 megatavua muistia .
+Windows Phone 8:ssa raja kulkee 512 megatavussa .
+Microsoftin sovellusten lataustaulukoissa komeilee suosituimpana laitteena juurikin halvimmasta päästä oleva Lumia 520 , jossa on 512 megatavun ram-muisti .
+Lumia 530 on hyvänä kakkosena .
+Kaiken kaikkiaan vähämuistiset laitteet kattoivat marraskuussa viisi kärkisijaa sovelluslatauksista ja seitsemän sijaa kymmenestä , Microsoft kirjoittaa .
+– Kun 71 prosenttia latauksista tulee nyt pienimuistisista laitteista , voit yli tuplata potentiaalisen asiakaskuntasi optimoimalla sovelluksesi toimimaan pienen muistin laitteissa .
+Jos tämä ei ole mahdollista , harkitse sovelluksesta rinnakkaista versiota , joka vaatii vähemmän muistia , Microsoft neuvoo .
+Tämä ei luultavasti miellytä kovemman luokan Windows-puhelinten omistajia , jos sovelluksia ( lue : pelejä ) aletaan tosissaan tehdä pienimmän yhteisen nimittäjän mukaan .
+Meininki on karvaan tuttu monelle pc-pelaajalle , joiden suosikkinimikkeet ilmestyivät karuina ja vaatimattomina tekeleinä , vaikka koneessa olisi ollut vääntöä vaikka mihin .
+Syynä on se , että monet pelit on tehty samaan aikaan paitsi pc:lle , myös pienitehoisille konsoleille .
+Konsolien uusi sukupolvi voi helpottaa tilannetta tilapäisesti .
+Jos sovelluskehittäjät kuuntelevat Microsoftia , luvassa voi olla myös entistä korkeampia sovellusten sisäisiä maksuja .
+Microsoft nimittäin huomauttaa , että suosituin alle kahden dollarin hintataso ei lukeudu niihin kolmeen , jotka tuottavat eniten .
+Nämä ovat kokonaismyynnillä mitattuna 9,99 , 4,99 ja 19,99 dollaria .
+Asiasta kirjoitti muun muassa PC Magazine .

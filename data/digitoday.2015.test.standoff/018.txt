@@ -1,0 +1,19 @@
+Huawein uutuuspuhelin tuli Suomeen — ulkonäkö tärkeämpää kuin tietoturva
+Huawein oma Android-versio hidastaa tietoturvapäivitysten tekemistä , yhtiö myöntää .
+Huawei tuo tänään myyntiin Suomessa uuden Honor 7 -puhelimensa .
+Honor-puhelinsarja on luotu edulliseksi " diginatiivin unelmaksi " , ja se kilpailee teknisten ominaisuuksiensa ( 20 megapikselin kamera , sormenjälkilukija , kahdeksanydinprosessori ) ja hintansa ( 399 euroa ) yhdistelmällä .
+Yksi tavoista , joilla Huawei pyrkii erottumaan muista Android-valmistajista , on yhtiön oma EmotionUI-käyttöliittymä .
+Se tekee puhelimen käytöstä hyvin iPhonen kaltaista .
+Julkistustilaisuudessa puhunut Huawein Honor-puhelimien Itä- ja Pohjois-Euroopan tuotejohtaja Jin Yiming myöntää , että oma käyttöliittymä on tietoturvan kannalta ongelma .
+— Päivittäminen on ongelma .
+EmotionUI-versio Androidista perustuu niin syvälle Androidin koodiin , että korjausten tekeminen on hidasta .
+Sen sijaan tarjoamme asiakkaille näyttävän käyttöliittymämme , Yiming sanoo .
+Kysyttäessä Yiming myöntää ulkonäön menevän tietoturvan edelle .
+Huawein kuluttajatuoteryhmän johtaja Mika Engblom muistuttaa , että myös monilla muilla Android-valmistajilla on vaikeuksia saada ohjelmistokorjaukset markkinoille .
+Esimerkiksi vakavan Stagefright-haavoittuvuuden on korjannut vasta kourallinen laitevalmistajia .
+Android saa korjauksia säännöllisesti , mutta ne valuvat hyvin hitaasti puhelimiin — jos tekevät sitä ollenkaan .
+Alkukuusta Google , LG ja Samsung ilmoittivat aloittavansa laitteiden säännöllisen päivittämisen .
+— Helppohan se on laittaa tiedotteita ulos , niin voisimme mekin tehdä .
+Se on eri asia , moniko päivityksen oikeasti tekee , Engblom sanoo .
+Myöhemmin lähettämässään sähköpostissa Huawei halusi täsmentää , että sekä laitteiden turvallisuus että käytettävyys ovat heille ensisijaisen tärkeitä , ja niihin tullaan jatkossakin kiinnittämään paljon huomiota .
+Viimeinen kappale eli Huawein täsmennys lisätty myöhemmin .

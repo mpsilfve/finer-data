@@ -1,0 +1,27 @@
+T1	ORG 21 30	Microsoft
+T2	ORG 58 67	Microsoft
+T3	PRO 89 105	Lumia-puhelinten
+T4	ORG 188 197	Microsoft
+T5	PRO 238 267	Windows Phone 8.1 -puhelinten
+T6	PRO 288 409	Lumia Storyteller- , Lumia Beamer- , Lumia Photobeamer- , Lumia Refocus- , Lumia Panorama- ja Video Uploader -sovellukset
+T7	PRO 423 454	Windows Phone -sovelluskaupasta
+T8	ORG 467 476	Microsoft
+T9	ORG 484 493	Microsoft
+T10	PRO 541 568	Lumia Storyteller -palvelun
+T11	DATE 687 700	30. lokakuuta
+T12	PRO 821 850	Storyteller-puhelinsovellusta
+T13	ORG 898 907	Microsoft
+T14	PRO 967 1015	Lumia Panorama- ja Video Uploader -sovelluksilla
+T15	PRO 1018 1066	Lumia Beamer - ja Lumia Photobeamer -sovellusten
+T16	PRO 1139 1154	Lumia-puhelimen
+T17	DATE 1279 1287	lokakuun
+T18	ORG 1329 1340	Microsoftin
+T19	PRO 1379 1409	Windows 10 -käyttöjärjestelmän
+T20	PRO 1519 1551	Windows 10 -käyttöjärjestelmässä
+T21	ORG 1629 1640	Microsoftin
+T22	ORG 1702 1708	Nokian
+T23	DATE 1763 1767	2014
+T24	ORG 1768 1777	Microsoft
+T25	ORG 1816 1822	Nokian
+T26	LOC 1905 1913	Suomesta
+T27	DATE 1929 1940	heinäkuussa

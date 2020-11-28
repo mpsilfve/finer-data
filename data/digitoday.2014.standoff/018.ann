@@ -1,0 +1,12 @@
+T1	ORG 0 9	Samsungin
+T2	ORG 65 74	Samsungin
+T3	ORG 281 288	Samsung
+T4	ORG 381 398	Thomson Reutersin
+T5	DATE 440 454	loka–joulukuun
+T6	ORG 533 555	Starmine SmartEstimate
+T7	ORG 664 673	Samsungin
+T8	LOC 705 717	Etelä-Korean
+T9	DATE 802 813	vuoden 2008
+T10	ORG 816 825	Samsungin
+T11	ORG 969 976	Reuters
+T100001	PER 381 388	Thomson

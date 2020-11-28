@@ -1,0 +1,25 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 69 78	Microsoft
+T3	DATE 179 188	tammikuun
+T4	ORG 248 259	Microsoftin
+T5	PRO 454 463	Windowsin
+T6	PRO 493 501	MS14-002
+T7	DATE 521 533	marraskuussa
+T8	PRO 687 701	Windows XP:ssä
+T9	PRO 705 728	Windows Server 2003:ssa
+T10	ORG 792 801	Microsoft
+T11	ORG 909 915	Adoben
+T12	PRO 974 991	Reader-ohjelmassa
+T13	ORG 994 999	Adobe
+T14	DATE 1111 1120	Tammikuun
+T15	PRO 1182 1191	Windowsin
+T16	PRO 1206 1219	Dynamics AX -
+T17	PRO 1223 1243	Office-ohjelmistojen
+T18	ORG 1314 1323	Microsoft
+T19	PRO 1438 1475	MS13-081 Windows 7 Service Pack 1:lle
+T20	PRO 1478 1481	SP1
+T21	PRO 1487 1517	Windows Server 2008 R2 SP1:lle
+T22	DATE 1542 1552	lokakuulta
+T23	LOC 1617 1623	Suomen
+T24	ORG 1624 1647	Kyberturvallisuuskeskus
+T25	ORG 1661 1672	Microsoftin

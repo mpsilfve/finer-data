@@ -1,0 +1,17 @@
+Hullun uimarin uusi hanke : Vivaldi-selain
+Operan entinen toimitusjohtaja Jon von Tetzchner muistetaan ehkä parhaiten omituisesta pr-tempauksesta .
+Mutta nyt hän yrittää tosissaan uutta selainta , The Next Web kertoo .
+Norjalaisen Opera Softwaren perustaja ja entinen toimitusjohtaja Jon von Tetzchner on kehittämässä Opera-selaimelle kilpailijaa .
+Von Tetzchner , joka lähti Operasta riitaisasti vuonna 2011 , oli mukana perustamassa Vivaldia vuoden 2013 lopussa , ja nyt selaimesta on saatavilla esiversio Windowsille , Linuxille ja Macille .
+Asiasta kertoo The Next Web , joka haastatteli Vivaldin toista perustajaa Tatsuki Tomitaa , myös entinen Opera-mies .
+Hänen mukaansa Microsoftin , Googlen ja Mozillan hallitsemille markkinoille kannattaa tunkea uudella selaimella , koska tarvetta löytyy " vahvemmalle selaimelle palvelemaan niitä , jotka vaativat selaimeltaan enemmän " .
+Vivaldi muistuttaa monilta osin Operaa , mutta esittelee myös uutuuksia .
+Niihin lukeutuu mahdollisuus yhdistää useita selaimen välilehtiä yhteen , jotta toisiinsa liittyvien verkkosivujen välillä on helpompi hyppiä .
+Samalla selaimen ylälaita ei täyty avoimista välilehdistä niin kuin kilpailijoissa on tapana tapahtua .
+Vivaldissa pystyy myös tekemään muistiinpanoja suoraan selaimessa ja ottamaan ruutukaappauksia .
+Tämä auttaa muistamaan , miksi joku verkkosivu vaikutti tärkeältä , The Next Web selvittää .
+Lehden jutussa ei arvioitu selaimen suorituskykyä erilaisissa käyttötilanteissa .
+Selain käyttää samaa renderöintimoottoria kuin Googlen Chrome , ja selain on rakennettu pitkälti uusilla web-teknologioilla kuten React ja Node.js .
+Opera on jäänyt Internet Explorerin , Chromen ja Firefoxin jalkoihin , mutta Jon von Tetzchnerillä on pitkä kokemus alalta ja myös ilmeisesti jossain määrin yltiöpäinen mielenlaatu .
+Hän nimittäin yritti taannoin uida Norjasta Yhdysvaltoihin , mutta vahvasti pr-tempaukselta vaikuttanut uintimatka päättyi lyhyeen .
+Ei ole selvää , onko Vivaldia tarkoitus tuoda mobiililaitteisiin jossain muodossa .

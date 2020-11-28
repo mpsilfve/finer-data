@@ -1,0 +1,43 @@
+T1	ORG 8 14	Applen
+T2	ORG 42 47	Apple
+T3	PRO 73 92	Macbook Air -mallin
+T4	PRO 123 142	iPhone 6 -puhelinta
+T5	PER 164 176	Ming Chi Kuo
+T6	ORG 177 209	KGI Securities -sijoitusyhtiöstä
+T7	ORG 212 217	Apple
+T8	ORG 279 309	KGI Securities -sijoitusyhtiön
+T9	PER 322 334	Ming Chi Kuo
+T10	ORG 357 380	MacRumors-verkkosivusto
+T11	PER 383 386	Kuo
+T12	PER 445 451	Mingin
+T13	ORG 459 464	Apple
+T14	DATE 474 484	kesäkuussa
+T15	PRO 510 526	iMac-pöytäkoneen
+T16	ORG 535 541	Applen
+T17	DATE 591 610	Elo–lokakuun aikana
+T18	ORG 611 616	Apple
+T19	PRO 703 725	iWatch-älykellomalleja
+T20	PER 868 874	Mingin
+T21	ORG 882 887	Apple
+T22	PRO 919 935	iWatch-laitteita
+T23	PRO 1074 1082	iPadista
+T24	PRO 1094 1106	Air 2 -malli
+T25	PRO 1112 1121	iPad mini
+T26	PRO 1165 1187	iPhone 5s -puhelimesta
+T27	PRO 1241 1254	A8-prosessori
+T28	PRO 1292 1296	iPad
+T29	PER 1318 1322	Ming
+T30	PRO 1342 1363	MacBook Air -mallista
+T31	PER 1367 1373	Mingin
+T32	ORG 1473 1478	Apple
+T33	PRO 1520 1539	iPhone 6 -puhelinta
+T34	PRO 1630 1643	A8-prosessori
+T35	PER 1698 1702	Ming
+T36	PRO 1717 1737	iPhone 6 -puhelimien
+T37	PRO 1784 1793	iPhone 5s
+T38	PRO 1831 1847	iPhone 6 -mallin
+T39	DATE 1871 1881	syyskuussa
+T40	PRO 1937 1957	Apple TV -laitteesta
+T41	PER 1970 1976	Mingin
+T42	PRO 2050 2075	App Store -sovelluskauppa
+T100001	ORG 1937 1942	Apple

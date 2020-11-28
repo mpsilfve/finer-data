@@ -1,0 +1,39 @@
+T1	ORG 57 68	Samsungilla
+T2	ORG 81 90	Samsungin
+T3	DATE 122 134	20. elokuuta
+T4	LOC 135 143	Koreassa
+T5	LOC 156 170	Yhdysvaltoihin
+T6	DATE 171 184	28. syyskuuta
+T7	PRO 187 213	Samsung Pay -maksupalvelun
+T8	LOC 230 238	Koreasta
+T9	LOC 242 256	Yhdysvalloista
+T10	LOC 257 268	Britanniaan
+T11	LOC 271 280	Espanjaan
+T12	LOC 284 291	Kiinaan
+T13	ORG 318 324	Applen
+T14	PRO 401 410	Apple Pay
+T15	PRO 418 430	iPhone 6:ssa
+T16	PRO 433 444	Samsung Pay
+T17	PRO 475 499	Galaxy S6 Edge Plussassa
+T18	PRO 503 520	Galaxy Note 5:ssä
+T19	PRO 638 671	Galaxy S6- ja S6 Edge -puhelimiin
+T20	PRO 674 688	Samsung Payllä
+T21	PRO 992 1004	Samsung Payn
+T22	ORG 1122 1129	Samsung
+T23	ORG 1175 1193	American Expressin
+T24	ORG 1196 1206	Discoveryn
+T25	ORG 1209 1221	MasterCardin
+T26	ORG 1224 1229	Visan
+T27	ORG 1232 1248	Bank of American
+T28	ORG 1252 1258	Chasen
+T29	ORG 1268 1275	Samsung
+T30	PRO 1371 1383	Samsung Payn
+T31	PRO 1433 1443	Apple Payn
+T32	LOC 1487 1494	Suomeen
+T100001	ORG 187 194	Samsung
+T100002	ORG 401 406	Apple
+T100003	ORG 433 440	Samsung
+T100004	ORG 674 681	Samsung
+T100005	ORG 992 999	Samsung
+T100006	ORG 1371 1378	Samsung
+T100007	ORG 1433 1438	Apple

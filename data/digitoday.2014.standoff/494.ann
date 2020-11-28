@@ -1,0 +1,31 @@
+T1	PRO 27 37	Tor Mailin
+T2	ORG 50 55	FBI:n
+T3	PRO 109 136	Tor Mail -sähköpostipalvelu
+T4	ORG 156 161	FBI:n
+T5	ORG 175 186	Wired-lehti
+T6	ORG 218 225	FBI:llä
+T7	DATE 240 249	elokuussa
+T8	PRO 263 291	Tor Mail -sähköpostipalvelun
+T9	ORG 310 321	Wired-lehti
+T10	ORG 450 453	FBI
+T11	ORG 580 583	FBI
+T12	DATE 620 627	elokuun
+T13	ORG 814 817	FBI
+T14	PRO 1009 1017	Tor Mail
+T15	DATE 1093 1104	4. elokuuta
+T16	PRO 1159 1184	Silk Road -markkinapaikan
+T17	PER 1197 1223	" Dread Pirate Robertsin "
+T18	PRO 1291 1301	Tor Mailia
+T19	PRO 1349 1359	Tor Mailin
+T20	PRO 1490 1498	Tor Mail
+T21	ORG 1612 1615	FBI
+T22	PER 1624 1647	Ross William Ulbrichtin
+T23	PRO 1658 1669	Silk Roadin
+T24	PER 1725 1745	Dread Pirate Roberts
+T25	PRO 1769 1778	TorMailin
+T26	PRO 1850 1862	Tor-verkkoon
+T27	ORG 1952 1994	Yhdysvaltain kansallinen tiedusteluvirasto
+T28	ORG 1995 1998	NSA
+T29	PRO 2021 2031	Tor-verkon
+T30	ORG 2069 2076	NSA:lle
+T100001	LOC 1952 1964	Yhdysvaltain

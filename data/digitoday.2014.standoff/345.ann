@@ -1,0 +1,42 @@
+T1	LOC 0 7	Oulussa
+T2	PRO 38 47	YotaPhone
+T3	LOC 54 61	Suomeen
+T4	PRO 104 115	Yotaphone 2
+T5	LOC 122 130	Suomessa
+T6	LOC 171 179	Suomessa
+T7	PRO 191 213	Yotaphone 2 -puhelinta
+T8	ORG 281 286	Elisa
+T9	LOC 291 299	Suomessa
+T10	DATE 401 415	29. tammikuuta
+T11	PRO 535 545	Yotaphonen
+T12	PRO 755 777	Yotaphone 2 -puhelimen
+T13	ORG 793 799	Elisan
+T14	PER 822 832	Jan Virkin
+T15	PER 1071 1077	Virkki
+T16	PRO 1171 1182	Yotaphone 2
+T17	PER 1189 1195	Virkin
+T18	ORG 1212 1218	Elisan
+T19	PER 1377 1383	Virkki
+T20	ORG 1570 1593	Yota Devices -yrityksen
+T21	ORG 1671 1683	Rostec-yhtiö
+T22	ORG 1773 1779	Nokian
+T23	ORG 1792 1802	Yotaphonen
+T24	LOC 1803 1808	Oulun
+T25	LOC 1831 1839	Suomessa
+T26	LOC 1946 1952	Suomen
+T27	LOC 1956 1963	Venäjän
+T28	LOC 2009 2021	Singaporessa
+T29	LOC 2025 2034	Kanadassa
+T30	LOC 2144 2151	Venäjän
+T31	LOC 2155 2161	Suomen
+T32	LOC 2169 2177	Saksasta
+T33	LOC 2180 2187	USA:sta
+T34	LOC 2190 2199	Kanadasta
+T35	LOC 2202 2214	Singaporesta
+T36	LOC 2217 2225	Kiinasta
+T37	LOC 2229 2241	Hongkongista
+T38	ORG 2244 2253	Yotaphone
+T39	LOC 2295 2302	Venäjän
+T40	PER 2315 2329	Vladimir Putin
+T41	LOC 2365 2373	Kiinassa
+T42	PER 2391 2405	Xi Jinpingille

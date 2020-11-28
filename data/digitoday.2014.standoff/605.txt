@@ -1,0 +1,15 @@
+Pankeilla yhä pulmia — Nordea porskuttaa
+Viime päivien ongelmat eri pankkien tietoliikenteessä jatkuvat jossain määrin .
+Kaikki ongelmat eivät välttämättä johdu verkkohyökkäyksestä .
+OP-ryhmä tiedotti tiistaina , että vaikka sen palvelut ovat pääosin käytössä , yksittäiset häiriöt ovat edelleen mahdollisia .
+Lisäksi ulkomailla olevilla asiakkailla voi olla yhä vaikeuksia päästä OP:n verkkopalveluun .
+Kortit kuitenkin toimivat sekä kotimaassa että ulkomailla .
+OP on ollut enemmän tai vähemmän jatkuvan palvelunestohyökkäyksen alla jo melkein viikon ajan .
+Danske Bank puolestaan tiedotti hetki sitten , että " aiemmin päivällä esiintyneet ajoittaiset häiriöt verkkopalveluihin kirjautumisessa ovat ohi .
+Seuraamme tehostetusti palveluiden toimivuutta " .
+Häiriöt koskivat verkkopankkiin kirjautumista ja verkkomaksuja .
+Danske kertoi jo maanantaina ongelmista palveluissaan , mutta yhtiö ei ollut löytänyt vahvoja viitteitä siitä , että kyseessä olisi palvelunestohyökkäys .
+Danske kuvaili ongelmaa järjestelmätekniseksi häiriöksi .
+Nordea joutui hetkellisen palvelunestohyökkäyksen kohteeksi viime viikolla , mutta on sen jälkeen toiminut normaalisti .
+Viestintävirasto on julkaissut artikkelin , jossa kerrotaan selvällä suomen kielellä , mikä palvelunestohyökkäys oikein on .
+Näistä hyökkäyksistä voi olla paljonkin haittaa uhreille , mutta ne eivät vaaranna tietoja tai verkkopankkien tapauksessa rahoja .

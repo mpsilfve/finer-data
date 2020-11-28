@@ -1,0 +1,37 @@
+T1	ORG 0 6	Applen
+T2	PRO 46 63	Android-puhelinta
+T3	ORG 80 86	Applea
+T4	PER 126 138	John Sculley
+T5	PER 219 231	John Sculley
+T6	ORG 245 251	Applen
+T7	ORG 264 270	Pepsin
+T8	ORG 305 330	Obi Worldphone -yrityksen
+T9	ORG 369 381	Ammunitionin
+T10	PER 392 406	Robert Brunner
+T11	ORG 409 424	Obi Worldphonen
+T12	PRO 467 485	Obi Worldphone SF1
+T13	PRO 489 494	SJ1.5
+T14	LOC 554 560	Aasian
+T15	LOC 563 570	Afrikan
+T16	LOC 574 583	Lähi-idän
+T17	PER 871 878	Sculley
+T18	ORG 885 897	Engadgetille
+T19	ORG 949 963	Obi Worldphone
+T20	ORG 1019 1025	Applen
+T21	ORG 1028 1037	Samsungin
+T22	ORG 1041 1046	HTC:n
+T23	PRO 1151 1154	SF1
+T24	ORG 1247 1257	Qualcommin
+T25	PRO 1276 1300	Snapdragon 615 -suoritin
+T26	PRO 1401 1408	SJ1.5:n
+T27	LOC 1701 1712	Vietnamissa
+T28	LOC 1715 1727	Indonesiassa
+T29	LOC 1730 1740	Thaimaassa
+T30	LOC 1743 1776	Yhdistyneissä Arabiemiirikunnissa
+T31	LOC 1779 1794	Saudi-Arabiassa
+T32	LOC 1797 1805	Keniassa
+T33	LOC 1808 1819	Tansaniassa
+T34	LOC 1822 1837	Etelä-Afrikassa
+T35	LOC 1840 1852	Pakistanissa
+T36	LOC 1855 1863	Turkissa
+T37	LOC 1867 1875	Intiassa

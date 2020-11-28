@@ -1,0 +1,55 @@
+Testissä ensimmäinen Microsoft-Lumia — näin laadunvalvonta petti
+Ensimmäinen Microsoft-logolla varustettu älypuhelin eli Lumia 535 olisi voinut olla hyvä puhelin .
+Se voi yhä olla sitä — päivityksen jälkeen .
+Halvat älypuhelimet ovat se paikka , missä isot rahat tehdään – sikäli kun joku vielä älypuhelimilla jättivoittoja tavoittelee .
+Microsoftin Lumia 535 on sellainen .
+Laitetta myydään 120 euron hintaan , eli se on luonteva valinta lapselle ensimmäiseksi älypuhelimeksi .
+Lapsille sopivan siitä ( kuten muistakin Lumioista ) tekee myös se , että sitä ei vaivaa Androidin laaja haitta- ja vakoiluohjelmaongelma .
+Windows Phone on ainoa käyttöjärjestelmä , jossa kohtaavat edulliset puhelimet , turvallisuus sekä riittävän iso sovellusvalikoima .
+Ne huonot uutiset ensin
+Mielenkiintoa Lumia 535:een lisää se , että kyseessä on ensimmäinen Microsoftin nimissä julkaistu Lumia .
+Nokia-tuotemerkki on nyt häivytetty pois kokonaisuudessaan .
+Jopa laturissa seisoo Microsoftin logo .
+Toisaalla tämä näkyy muun muassa Nokia Tune -soittoäänen katoamisena .
+Muotokieleltään puhelin on linjassa edellisten Lumioiden kanssa .
+Muotoilua voi jopa pitää edeltäviä halpamalleja onnistuneempana , sillä luuri istuu käteen paremmin kuin Nokian vanhat saituri-Lumiat .
+Kulmat eivät ole enää liian terävät .
+Kuoret ovat irrotettavat ja niiden alta löytyy niin ikään irrotettava akku .
+Tarjolla on lisäksi oletetun kohderyhmän iloksi muotoiltuja kiiltävänvärisiä muovikuoria .
+Mutta sitten ne huonot uutiset : Nykymuodossaan puhelin on melkein käyttökelvoton tai ainakin äärimmäisen turhauttava käyttää .
+Ongelma on Lumian näytössä ja sen kosketuksen tunnistamisessa .
+Välillä näyttö ei tunnu ottavan vastaan kosketusta lainkaan , toisinaan se taas on yliherkkä .
+Normaalit pyyhkäisyeleet jättävät monin paikoin toimimatta ja virtuaalinäppäimistön käyttö on hankalaa , koska virhetunnistuksia tulee koko ajan .
+Tunnistusongelmat koskevat myös näyttöpainikkeina toteutettuja Windows-ohjausnäppäimiä sekä pyyhkäisykirjoittamista .
+Hyvä uutinen on se , että Microsoft on tiedostanut ongelman ja korjaa sitä parhaillaan .
+Jos oikein joulu käy , päivitys on olemassa jo tätä lukiessasi .
+Jollei , ja satut olemaan puhelimen tuore omistaja , niin ... ehkä puhelin kannattaa vielä pitää boksissa pari päivää .
+On epäselvää , korjataanko puhelimessa olevat muutamat näkymäongelmat .
+Kuvankatselutilassa joudutaan välillä tilanteisiin , jossa ohjelman ohjauspainikkeet " ylikirjoittavat " puhelimen navigointinapit .
+Hymyile ( selfie- ) kameralle
+Puhelimen kamerat ovat laitteen parasta antia , mutta hieman kaksijakoinen kokemus .
+Lumia 535:ssä on kaksi viiden megapikselin kameraa , joiden ainoa ero on polttoväli ( pääkamerassa 28 mm , selfie-kamerassa 24 mm ) .
+Viisi megapikseliä pääkamerassa on edulliselle puhelimelle ookoo-tasoa , selfie-kameralla se on paljon .
+Omakuvaus sujuu mallikkaasti , pääkameralla kuvaaminen menettelee .
+Kamerat ovat hieman epätasainen pari , sillä selfie-kamera tuntuu ylimitoitetulta pääkameraan nähden .
+Mutta ehkä sillä on kohderyhmänsä ?
+Kummassakaan kamerassa ei ole digitaalista zoomia , eli rajaukset pitää tehdä kuvankäsittelyohjelmalla jälkikäteen .
+Pääkamerassa on myös vaatimaton led-salama .
+Muuten puhelin on edullisen hintansa vuoksi varsin riisuttu .
+Lähilukua tai 4g-tukea ei ole ja tallennustila on rajoitettu 8 gigatavuun .
+Käyttöjärjestelmän jälkeen ei vapaata tilaa hurjasti jää , mutta onneksi Windows Phone sallii ohjelmien asennuksen muistikortillekin .
+Perustoiminnallisuuksiltaan Lumia 535 hoitaa hommansa : puhelut kuuluvat kuten pitääkin , eikä laite järjestänyt ( näytön toiminta poislukien ) ikäviä yllätyksiä .
+Akkukin kestää peruskäytöllä pitkälle toisen vuorokauden puolelle .
+Lumia 535:stä on olemassa myös kahdella sim-kortilla varustettu malli , jota ei näillä näkymin ole tulossa Suomeen .
+Testilaite oli tällainen , mutta kahta korttipaikkaa lukuun ottamatta laitteissa ei ole toiminnallisia eroja .
+Risuja laadunvalvonnalle
+Jos Lumia 535 kiinnostaa , tässäpä neuvo : odota hetki .
+Katsastamme näytön toiminnan vielä kerran , kun puhelin on korjauspäivityksensä saanut .
+Jos jälkikasvulle pitää saada Lumia ja äkkiä , on toki olemassa vaihtoehtoja .
+Aikaisemmin julkaistu samanhintainen Lumia 630 on kelpo puhelin , mutta se häviää teknisiä ominaisuuksia vertaillessa .
+Käytettävyydessä se on kuitenkin tällä hetkellä reilusti 535:ttä edellä .
+Puhelin olisi hyvä , jos näyttö toimisi toivotusti .
+Nyt se on vasta lupaus tulevasta .
+Lopullinen tuomio tulee siis myöhemmin .
+Sitä odottaessa toivomme , että Joulupukki toi risuja ja kiviä Microsoftin puhelinyksikön testaus- ja laadunvalvontaosastolle .
+Korjaus leipätekstiin : Puhelimen tallennustilan ( ei keskusmuistin ) koko on 8 gigatavua .

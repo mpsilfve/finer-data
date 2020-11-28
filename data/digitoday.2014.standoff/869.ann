@@ -1,0 +1,14 @@
+T1	ORG 68 74	AT&T:n
+T2	PER 203 232	Andrew " Weev " Auernheimerin
+T3	LOC 313 327	Yhdysvalloissa
+T4	ORG 370 385	Washington Post
+T5	PER 388 399	Auernheimer
+T6	DATE 415 426	vuoden 2010
+T7	ORG 470 476	AT&T:n
+T8	PER 699 712	Auernheimeria
+T9	PRO 1156 1184	Computer Fraud and Abuse Act
+T10	PER 1397 1410	Auernheimeria
+T11	LOC 1446 1459	New Jerseyssä
+T12	LOC 1511 1524	New Jerseyhyn
+T13	PER 1552 1572	Andrew Auernheimeria
+T100001	LOC 370 380	Washington

@@ -1,0 +1,52 @@
+T1	LOC 14 20	Suomen
+T2	ORG 71 78	Ficixin
+T3	ORG 122 127	OP:tä
+T4	LOC 180 186	Suomen
+T5	PER 232 244	Jorma Mellin
+T6	ORG 256 265	OP-ryhmää
+T7	ORG 312 316	OP:n
+T8	ORG 386 390	OP:n
+T9	LOC 535 541	Suomen
+T10	ORG 564 571	Ficixin
+T11	PER 586 592	Mellin
+T12	PER 1015 1021	Mellin
+T13	ORG 1039 1053	TeliaSonerassa
+T14	ORG 1191 1203	TeliaSoneran
+T15	PER 1242 1255	Tatu Tuominen
+T16	ORG 1264 1278	TeliaSonerasta
+T17	PER 1302 1310	Mellinin
+T18	ORG 1355 1362	Ficixin
+T19	PER 1363 1377	Jorma Mellinin
+T20	ORG 1508 1525	Viestintäviraston
+T21	ORG 1526 1552	Kyberturvallisuuskeskuksen
+T22	PER 1574 1586	Kauto Huopio
+T23	PER 1868 1874	Huopio
+T24	PER 1883 1890	Huopion
+T25	PER 2073 2079	Huopio
+T26	ORG 2147 2164	Viestintäviraston
+T27	ORG 2167 2171	OP:n
+T28	ORG 2217 2221	OP:n
+T29	ORG 2232 2238	Tiedon
+T30	LOC 2251 2257	Suomen
+T31	PER 2333 2344	Mellininkin
+T32	ORG 2443 2454	OP-pankkiin
+T33	PER 2838 2844	Mellin
+T34	PER 2879 2885	Mellin
+T35	ORG 3030 3034	OP:n
+T36	ORG 3094 3098	OP:n
+T37	ORG 3128 3133	Tieto
+T38	LOC 3239 3245	Suomen
+T39	ORG 3587 3593	Tiedon
+T40	PER 3617 3632	Mikael Salonaho
+T41	ORG 3635 3651	Viestintävirasto
+T42	PER 3685 3693	Mellinin
+T43	ORG 3732 3749	Viestintäviraston
+T44	ORG 3861 3877	Viestintävirasto
+T45	ORG 3924 3943	Viestintävirastossa
+T46	ORG 3976 3992	Viestintävirasto
+T47	ORG 4093 4110	Viestintäviraston
+T48	ORG 4111 4137	Kyberturvallisuuskeskuksen
+T49	PER 4147 4159	Eija Alavesa
+T50	ORG 4570 4589	Viestintävirastossa
+T51	PER 4656 4663	Huopion
+T52	LOC 4692 4700	Euroopan

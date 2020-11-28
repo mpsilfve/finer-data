@@ -1,0 +1,13 @@
+Saavatko rikolliset rellestää vapaasti ?
+Kavala kiristysohjelma piiloutuukahden verkon taakse
+Cryptowall-kiristysohjelma kehittyy aina vain .
+Nyt se osaa käyttää kahta eri salattua verkkoa piilotellakseen viranomaisilta .
+Tavallista viheliäisempi kiristysohjelma Cryptowall on nyt entistä vaikeampi virkavallalle , nimimerkkiä " Kafeine " käyttävä tietoturvatutkija selvitti .
+Viime vuonna ilmaantunut Cryptowall salaa uhrin tiedostot tehokkaasti ja vaatii lunnaita niiden avaamiseksi takaisin käyttöön .
+Uusi Cryptowall 3.0 käyttää entiseen tapaan anonyymiverkko Toria linkeissä , jotka vievät uhrit palautusohjeiden luokse .
+Mutta sen lisäksi se käyttää ensimmäistä kertaa I2P-verkkoa ( Invisible Internet Project ) yhdistääkseen uhrien tietokoneet komentopalvelimiinsa yhteydenpitoa varten .
+Tavoitteena on näin estää sekä tutkijoiden että poliisin väliintulo , kuten kävi Cryptowallin edeltäjän tai esikuvan Cryptolockerin kanssa .
+Tutkijat onnistuivat selvittämään salausavaimet , mikä teki Cryptolockerista tehottoman .
+Tosin sekin on jo tehnyt paluun .
+Cryptowallia levitetään muun muassa roskaposteilla ja se löytyy myös eri hyökkäystyökaluista , niin sanotuista exploit kiteistä .
+Asiasta kirjoitti muun muassa The Hacker News .

@@ -1,0 +1,18 @@
+Googlen pelko toteutumassa : Googlesta riippumaton Android
+Androidin suosittu CyanogenMod-laajennus on vasta esimakua tulevasta , pääjohtaja maalaili The Information -lehden tilaisuudessa .
+On kunnianhimoisia suunnitelmia ja sitten on pähkähulluja suunnitelmia .
+Cyanogenin pääjohtajan puheet menevät äkkikuulemalta jälkimmäiseen laariin .
+Mutta kyse ei ole vitsistä , ja yrityksestä tulee varmasti kova .
+Kirt McMaster valaisi The Informationin tilaisuudessa San Franciscossa , mihin Android-puhelimissa ja -tableteissa käytettyä CyanogenModia halutaan viedä .
+– Yritämme ottaa Androidin pois Googlelta , McMaster sanoi lehden mukaan .
+Tähtäimissä on ytimiään myöten avoin versio Android-käyttöjärjestelmästä , jotta kumppanit voivat rakentaa siihen tiukasti kytkeytyviä palveluja tavalla , joka ei ole nyky-Androidissa mahdollista .
+– Olemme hädin tuskin raapaisseet pintaa siinä , mitä mobiili voi olla .
+Tänään Cyanogen on jossain määrin riippuvainen Googlesta .
+Huomenna se ei ole .
+Emme nojaa johonkin Googlen johdannaiseen kolmen – viiden vuoden päästä , McMaster jatkoi The Informationin mukaan .
+Android on Googlen avoimen koodin projekti , mutta se ei ole kokonaan avointa koodia , ja Google päättää tiukasti uusien Android-versioiden sisällöstä .
+On varmaa , että Google ei katso hyvällä Cyanogenin suunnitelmia .
+Joskus on ki rjoitettu , että suurin uhka Googlen hallitsevalle asemalle älypuhelimissa olisi juurikin menestyksekäs , vaihtoehtoinen Android-jakelu .
+Kirt McMaster ennakoi , että Cyanogen perustaa oman sovelluskauppansa 18 kuukaudessa .
+The Informationin artikkeli on maksumuurin takana .
+Sitä on referoinut esimerkiksi Android Authority .

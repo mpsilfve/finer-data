@@ -1,0 +1,10 @@
+Microsoft ehti jo harkita : Sähköiskulla käyttäjän huomio
+Puettavat laitteet ja niihin valuvat informaatiovirrat herättävät mielenkiintoisen kysymyksen : miten saada käyttäjän huomio ilman ympäristön häirintää .
+Ei ole aivan yksinkertaista hälyttää käyttäjä katsomaan näyttöä niin , että kaikki ympärillä olevat eivät häiriinny .
+Merkkiääni on periaatteessa tehokas keino , mutta sellainen herättää myös muiden huomion .
+Jos merkkiääni on järjestelmän oletuspimputus , se myös saa kaikki muutkin kaivamaan laitteensa turhaan esiin .
+Myös suositussa tärinässä ovat omat ongelmansa .
+Sitä ei huomaa , jos laite ei ole taskussa tai kädessä .
+Varsinkaan puettavan tekniikan kanssa ei juoksulenkillä tai muun aktiviteetin keskellä pientä tärinää ranteessa välttämättä edes huomaa .
+Patenttihakemuksista uutisoimiseen keskittyvä Declassified kertoo Microsoftin viimevuotisesta patentista , jossa pohdittiin pienten sähköiskujen käyttöä merkkinä saapuneesta viestistä .
+Sivusto ei tosin pidä kovin todennäköisenä , että Microsoft toisi sähköshokkitekniikkaansa markkinoille .

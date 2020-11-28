@@ -1,0 +1,34 @@
+T1	DATE 16 27	helmikuussa
+T2	ORG 35 44	Samsungin
+T3	ORG 64 73	Samsungin
+T4	EVENT 100 113	MWC-messuilla
+T5	PRO 154 161	Tizenin
+T6	ORG 191 198	Intelin
+T7	ORG 201 210	Samsungin
+T8	PRO 257 282	Tizen-käyttöjärjestelmään
+T9	DATE 329 340	helmikuussa
+T10	LOC 341 351	Barcelonan
+T11	EVENT 352 391	Mobile World Conress ( MWC ) -messuilla
+T12	ORG 407 416	Mainichin
+T13	ORG 474 481	Samsung
+T14	ORG 544 553	Samsungin
+T15	PRO 618 633	Tizen-puhelimen
+T16	LOC 656 663	Japanin
+T17	ORG 695 705	NTT Docomo
+T18	ORG 708 717	Mainichin
+T19	EVENT 802 815	MWC-messuilla
+T20	PRO 829 849	Tizen-sovelluskauppa
+T21	ORG 852 870	Tizen-organisaatio
+T22	EVENT 916 921	MWC:N
+T23	ORG 932 939	Samsung
+T24	PRO 949 956	Tizenia
+T25	LOC 962 970	Suomessa
+T26	PRO 1036 1041	Tizen
+T27	ORG 1050 1056	Nokian
+T28	PRO 1057 1070	Here-karttoja
+T29	ORG 1073 1080	Samsung
+T30	PRO 1142 1151	Androidin
+T31	PRO 1163 1170	Tizenin
+T32	PRO 1197 1230	Windows Phone -käyttöjärjestelmää
+T33	ORG 1266 1274	Googleen
+T34	ORG 1332 1339	Googlen

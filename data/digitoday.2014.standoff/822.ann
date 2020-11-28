@@ -1,0 +1,9 @@
+T1	ORG 61 79	Tulanen yliopiston
+T2	ORG 435 453	Tulanen yliopiston
+T3	PER 465 477	Glynn Lunney
+T4	ORG 592 616	Yhdysvaltojen kongressin
+T5	PER 1124 1130	Lunney
+T6	LOC 1233 1246	Yhdysvaltojen
+T100001	LOC 61 68	Tulanen
+T100002	LOC 435 442	Tulanen
+T100003	LOC 592 605	Yhdysvaltojen

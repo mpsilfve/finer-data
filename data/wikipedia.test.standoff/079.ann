@@ -1,0 +1,55 @@
+T1	LOC 155 164	Ruotsissa
+T2	LOC 168 176	Suomessa
+T3	LOC 228 236	Norjasta
+T4	LOC 239 248	Venäjältä
+T5	LOC 251 261	Irlannista
+T6	LOC 265 275	Meksikosta
+T7	EVENT 278 298	Toisen maailmansodan
+T8	LOC 332 341	Ruotsissa
+T9	LOC 391 399	Suomessa
+T10	LOC 498 506	Suomessa
+T11	LOC 544 553	Ruotsissa
+T12	LOC 593 602	Ruotsissa
+T13	LOC 719 726	Ruotsin
+T14	DATE 781 794	vuodelta 1850
+T15	LOC 797 810	Kristianiassa
+T16	LOC 824 831	Oslossa
+T17	LOC 834 842	Norjassa
+T18	DATE 864 875	vuonna 1876
+T19	LOC 879 892	Jeniseiskissä
+T20	LOC 893 903	Siperiassa
+T21	DATE 909 920	vuonna 1876
+T22	LOC 974 983	Ruotsissa
+T23	LOC 1133 1142	Ruotsissa
+T24	LOC 1311 1321	Irlannissa
+T25	EVENT 1352 1374	toiseen maailmansotaan
+T26	LOC 1561 1571	Meksikossa
+T27	LOC 1885 1893	Suomessa
+T28	PER 1894 1906	Ilmar Talven
+T29	LOC 1939 1947	Suomesta
+T30	LOC 2012 2018	Suomea
+T31	DATE 2045 2049	1876
+T32	ORG 2050 2076	Åbo Underrättelser -lehden
+T33	LOC 2087 2094	Porista
+T34	DATE 2214 2225	vuonna 1879
+T35	PRO 2226 2243	Uuden Suomettaren
+T36	LOC 2244 2252	Mikkeliä
+T37	LOC 2299 2307	Suomessa
+T38	LOC 2449 2461	Pohjanmaalta
+T39	LOC 2470 2477	Suomeen
+T40	LOC 2796 2803	Forssan
+T41	EVENT 3053 3073	Toisen maailmansodan
+T42	LOC 3187 3199	Sivakan lava
+T43	LOC 3200 3206	Kaavin
+T44	LOC 3214 3229	Sivakkavaarassa
+T45	LOC 3238 3244	Suomen
+T46	LOC 3339 3354	Sivakan lavalla
+T47	DATE 3358 3369	vuonna 1907
+T48	DATE 3406 3417	vuonna 1993
+T49	PER 4402 4421	Pentti Yli-Jokipiin
+T50	LOC 4422 4438	Lounais-Suomessa
+T51	DATE 4849 4860	Vuonna 2005
+T52	PER 4983 4995	P. Mustapään
+T53	PRO 5015 5038	” Viimeisestä illasta ”
+T54	PRO 5051 5074	" Laulu vaakalinnusta "
+T55	DATE 5075 5088	vuodelta 1927

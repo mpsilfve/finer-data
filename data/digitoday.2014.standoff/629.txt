@@ -1,0 +1,12 @@
+Uusi vuoto paljastaa : Näihin salauksiin NSA ei pääse käsiksi
+PGP on NSA:lle kuin M.A. Nummisen laulun kuuluisa kookospähkinä , jota ei saatu rikki sitten millään .
+Asiasta kertoo Der Spiegel .
+Uusin katsaus Yhdysvaltain NSA-viraston vuotaneisiin asiakirjoihin vahvistaa käsitystä , jonka mukaan jotkut salaustekniikat ovat sillekin liian vaikeita .
+NSA on ollut pulassa esimerkiksi PGP-salauksen ( Pretty Good Privacy ) kanssa , mutta myös chat-keskusteluita suojaava OTR ( Off-the-Record Messaging ) on kestänyt hyvin NSA:n kourissa .
+Asiakirjojen mukaan NSA:lla on ollut myös ongelmia seurata käyttäjiä anonyymiverkko Torissa , vaikka NSA:n on epäilty olevan jopa mukana Torin kehittämisessä .
+Hyvin ovat pintansa pitäneet myös vahvasti salatun sähköpostin tarjoajat kuten Zoho .
+TrueCryptillä salatut tiedostot olivat NSA:lle niin ikään vaikeita , mutta TrueCryptin kehitys lopetettiin aiemmin tänä vuonna .
+Tiedot vahvistavat NSA-asiakirjoista jo aiemmin selvinneitä seikkoja , kuten sitä , että PGP on aiheuttanut NSA:lle päänvaivaa .
+Ennestään on myös tiedetty muun muassa Skype-puhelujen ja vpn-yhteyksien aukeavan vakoiluvirastolle .
+Samoin on https-suojauksen laita .
+Der Spiegelin raportoimat asiakirjat ovat vuodelta 2012 , mutta valistuneen arvauksen mukaan NSA ei ole edistynyt paljoakaan sille vaikeiden salaustekniikoiden purkamisessa .

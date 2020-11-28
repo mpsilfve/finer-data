@@ -1,0 +1,11 @@
+T1	ORG 0 4	Nasa
+T2	ORG 49 77	Yhdysvaltain avaruushallinto
+T3	ORG 78 82	Nasa
+T4	DATE 124 135	vuoden 1974
+T5	PRO 136 151	Cessna-pienkone
+T6	PRO 154 164	Cessna 172
+T7	PRO 391 398	Nasa TV
+T8	LOC 466 472	Suomen
+T9	ORG 713 717	Nasa
+T100001	LOC 49 61	Yhdysvaltain
+T100002	ORG 391 395	Nasa

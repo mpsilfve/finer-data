@@ -1,0 +1,20 @@
+T1	ORG 0 5	Apple
+T2	ORG 14 20	Teslan
+T3	ORG 38 44	Applen
+T4	ORG 138 143	Apple
+T5	PER 173 188	Jamie Carlsonin
+T6	ORG 209 215	Teslan
+T7	PER 247 256	Carlsonin
+T8	ORG 294 301	Reuters
+T9	PER 311 324	Jamie Carlson
+T10	ORG 333 341	Applelle
+T11	DATE 342 351	elokuussa
+T12	ORG 411 419	Teslalla
+T13	ORG 472 478	Applen
+T14	PER 632 641	Carlsonin
+T15	ORG 664 672	Applelle
+T16	ORG 694 700	Applen
+T17	ORG 704 710	Teslan
+T18	ORG 785 791	Teslan
+T19	PER 792 801	Elon Musk
+T20	ORG 845 851	Applen

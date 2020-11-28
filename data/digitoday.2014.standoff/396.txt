@@ -1,0 +1,9 @@
+Yllättävä löytö tekee litiumioniakuista palamattomia
+Tutkiessaan materiaalia , jolla estetään merenelävien tarttumista alusten pohjaan , tutkijat keksivät sille aivan uuden käytön litiumioniakkujen elektrolyyttinä , joka ei ole palavaa .
+Litiumioniakut ovat vallanneet yhä enemmän alaa maailmalla .
+Niiden hyötysuhde on paras , mutta niissä on yksi ikävä ominaisuus : ne voivat syttyä palamaan , ja suuret akut voivat räjähtää vakavin seurauksin .
+Viime kuukausina litiumioniakut ovat palaneet muun muassa Teslan sähköautoissa ja Boeing 787 Dreamliner -lentokoneissa .
+Pohjois-Carolinan yliopiston tutkijatiimi , jota johtaa Joseph DeSimone , havaitsi , että heidän tutkimansa aine näytti hyvin samanlaiselta kuin litiumioniakuissa käytettävä elektrolyytti .
+Jatkotutkimuksissa selvisi , että PFPE-lyhenteellä tunnettu polymeeri poikkeaa useimmista muista siinä , että litiumsuola sulaa siihen ja se kuljettaa litiumioneja .
+Lisäksi se ei ole syttyvää , yliopiston tiedotteessa kirjoitetaan .
+Artikkeli PFPE:n mahdollisuuksista litiumioniakkujen elektrolyyttinä julkaistiin Proceedings of the National Academy of Sciences -julkaisun maksullisessa artikkelissa 10. helmikuuta .

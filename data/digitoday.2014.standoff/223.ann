@@ -1,0 +1,19 @@
+T1	ORG 0 5	Intel
+T2	ORG 50 55	Intel
+T3	ORG 158 163	Intel
+T4	EVENT 194 230	CES-kulutuselektroniikkatapahtumassa
+T5	LOC 231 244	Las Vegasissa
+T6	PRO 351 364	Compute Stick
+T7	ORG 401 408	Intelin
+T8	PRO 543 564	Bay Trail -prosessori
+T9	ORG 825 832	Intelin
+T10	PRO 840 863	Compute Stick -laitetta
+T11	PRO 920 929	Netflixin
+T12	PRO 994 1019	Compute Stick -laitteesta
+T13	DATE 1023 1035	maaliskuussa
+T14	PRO 1072 1105	Windows 8.1 -käyttöjärjestelmällä
+T15	ORG 1138 1145	Intelin
+T16	PRO 1198 1213	Linux Ubuntulla
+T17	ORG 1302 1309	Intelin
+T18	PRO 1490 1511	Cherry Trail -malliin
+T19	ORG 1533 1560	Extreme Tech -verkkosivusto

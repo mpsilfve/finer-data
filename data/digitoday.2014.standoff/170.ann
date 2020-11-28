@@ -1,0 +1,20 @@
+T1	PRO 0 10	Windows 10
+T2	PRO 11 22	Raspberryyn
+T3	ORG 111 122	Microsoftin
+T4	PRO 143 169	Windows 10:n IoT-versiosta
+T5	PRO 172 190	Internet of Things
+T6	PRO 193 226	Raspberry Pi 2 -minitietokoneille
+T7	ORG 242 265	FBR Capital Marketsilla
+T8	PER 297 312	Daniel Ivesilta
+T9	PER 315 321	Ivesin
+T10	ORG 346 355	Microsoft
+T11	ORG 446 457	Microsoftin
+T12	PER 551 557	Ivesin
+T13	ORG 565 574	Microsoft
+T14	LOC 656 665	Redmondin
+T15	ORG 717 726	Microsoft
+T16	PRO 736 747	Windows 8:n
+T17	ORG 881 890	Microsoft
+T18	PRO 961 973	Windows 10:n
+T19	PRO 1142 1156	Windows 10:stä
+T20	ORG 1306 1315	Softpedia

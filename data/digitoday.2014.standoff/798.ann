@@ -1,0 +1,25 @@
+T1	ORG 0 5	Sonyn
+T2	ORG 35 40	Sonyn
+T3	LOC 84 96	Britanniassa
+T4	LOC 100 108	Saksassa
+T5	ORG 171 176	Sonyn
+T6	PRO 177 194	SED-E1 -älylasien
+T7	LOC 234 244	Euroopassa
+T8	DATE 257 269	Maaliskuussa
+T9	LOC 291 300	Ruotsissa
+T10	LOC 303 312	Ranskassa
+T11	LOC 315 324	Italiassa
+T12	LOC 327 337	Espanjassa
+T13	LOC 340 349	Belgiassa
+T14	LOC 352 363	Hollannissa
+T15	LOC 366 375	Japanissa
+T16	LOC 379 393	Yhdysvalloissa
+T17	PRO 435 452	SmartEyeglass SDK
+T18	ORG 472 479	PCMagin
+T19	ORG 487 492	Sonyn
+T20	PRO 647 660	SmartEyeglass
+T21	PRO 982 996	Google Playssä
+T22	PRO 1065 1075	Twitteriin
+T23	PRO 1078 1089	Facebookiin
+T24	PRO 1092 1100	Gmailiin
+T100001	ORG 982 988	Google

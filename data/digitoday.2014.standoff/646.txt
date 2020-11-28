@@ -1,0 +1,10 @@
+Tiukka ohje EU-parlamentille : Älkää asentako Outlookia kännykkään
+Microsoft Outlookin käyttöä matkapuhelimissa tulee uuden ohjeistuksen mukaan välttää .
+Syynä on mahdollinen vakoilu ja yksityisyydensuoja .
+Outlook lähettää Microsoftille yksityisluontoista tietoa , kuten salasanoja , jotka yhtiö tallettaa omille pilvipalvelimilleen , jotka sijaitsevat ympäri maailmaa .
+Kaikki Microsoftin pilvipalvelimet ovat yhtiön omassa hallinnassa , eikä EU:lla ole mitään mahdollisuuksia selvittää , mitä tietoa niille on tallennettu ja onko niiden kautta mahdollista harrastaa vakoilua tai tutkia esimerkiksi sähköpostiviestien sisältöä .
+Ohjeet koskevat The Inquirerin mukaan pelkästään Outlookin mobiiliversiota , joka on saatavilla muun muassa Androidille sekä iOS:lle .
+Outlookin mobiiliversio on vain uudelleennimetty Accompli-sähköposti , jonka Microsoft osti hiljattain .
+EU:ssa pelätään , että yksityisten tietojen lisäksi Microsoft tai kolmas osapuoli saattaisi päästä käsiksi muun muassa sähköpostien mukana lähetettyihin liitetiedostoihin .
+Asiasta kertonut Softpedia otti yhteyttä Microsoftiin kommenttia varten ja lupasi päivittää artikkelia tarpeen vaatiessa .
+Me teemme samoin .

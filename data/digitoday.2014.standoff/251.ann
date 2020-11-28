@@ -1,0 +1,43 @@
+T1	ORG 7 14	Samsung
+T2	ORG 21 29	Applesta
+T3	ORG 65 74	Samsungin
+T4	PRO 103 129	Galaxy S5 -huippupuhelimen
+T5	DATE 130 142	maaliskuussa
+T6	ORG 160 167	Samsung
+T7	ORG 220 226	Applen
+T8	ORG 236 243	Samsung
+T9	PRO 266 288	Galaxy S5 -puhelimensa
+T10	DATE 305 323	maalis–huhtikuussa
+T11	ORG 426 435	Samsungia
+T12	ORG 457 477	SamMobile-sivustolta
+T13	ORG 496 503	Samsung
+T14	PRO 514 536	Galaxy S5 -puhelimesta
+T15	ORG 591 600	Samsungin
+T16	ORG 621 627	Applen
+T17	PRO 640 651	iPhone 5s -
+T18	PRO 655 668	5c-puhelimien
+T19	PRO 711 727	Galaxy S5 mini -
+T20	PRO 733 746	Zoom -versiot
+T21	ORG 749 756	Samsung
+T22	ORG 800 810	SamMobilen
+T23	PRO 873 903	Samsung Galaxy S5 -puhelimessa
+T24	PRO 935 945	Exynos 6 -
+T25	PRO 950 976	Snapdragon 805 -prosessori
+T26	ORG 979 988	SamMobile
+T27	PRO 999 1013	Snapdragon 805
+T28	PRO 1083 1109	Snapdragon 800 -prosessori
+T29	PRO 1134 1142	Exynos 6
+T30	PRO 1203 1213	Snapdragon
+T31	ORG 1256 1266	SamMobilen
+T32	PRO 1274 1287	Galaxy S5:ssä
+T33	PRO 1310 1328	SuperAmoled-näyttö
+T34	ORG 1345 1357	SamMobilella
+T35	PRO 1398 1419	Galaxy S5 -puhelimien
+T36	PRO 1460 1478	Android 4.4 KitKat
+T37	PRO 1481 1502	Galaxy S5 Zoom -malli
+T38	DATE 1515 1526	toukokuussa
+T39	DATE 1535 1545	kesäkuussa
+T40	ORG 1556 1565	SamMobile
+T41	PRO 1609 1627	SuperAmoled-näyttö
+T42	PRO 1633 1663	Android 4.4 -käyttöjärjestelmä
+T100001	ORG 873 880	Samsung

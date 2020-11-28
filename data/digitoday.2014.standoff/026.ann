@@ -1,0 +1,15 @@
+T1	ORG 0 5	BSkyB
+T2	ORG 24 37	Microsoftilta
+T3	ORG 38 47	Microsoft
+T4	PRO 146 154	OneDrive
+T5	ORG 181 205	British Sky Broadcasting
+T6	ORG 228 233	BSkyB
+T7	ORG 273 284	Microsoftin
+T8	PRO 285 311	SkyDrive-tallennuspalvelun
+T9	ORG 447 456	Microsoft
+T10	ORG 508 519	Microsoftin
+T11	PER 549 559	Ryan Gavin
+T12	PER 599 604	Gavin
+T13	ORG 718 722	Cnet
+T14	PER 888 893	Gavin
+T15	PRO 917 925	OneDrive

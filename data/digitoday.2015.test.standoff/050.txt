@@ -1,0 +1,48 @@
+Odotatko yhä Windows 10 -päivitystä ?
+Tee näin , niin alkaa tapahtua
+Vanhaa Windowsia kymppiin päivittäessä ensimmäinen yllätys on se , että päivitys ei alakaan heti , vaan vasta kun Microsoft sen suo .
+Näin voit käynnistää sen itse .
+Microsoft tarjoaa Windows 10:tä ilmaisena päivityksenä vanhempiin Windowseihinsa .
+Päivitys ei kuitenkaan ala heti , kun käyttäjä päättää siihen suostua .
+Microsoft kerää ensin tietoja koneestasi ja sen jälkeen ilmoittaa , että päivityksen voi tehdä joskus tulevaisuudessa .
+Tähän voi mennä päiviä tai jopa viikkoja .
+Jos päivityksen odottelu harmittaa , voit kokeilla muutamaa vinkkiä sen aloittamiseksi .
+Aivan ensimmäisenä varmista , että koneella ei ole kesken mikään .
+Tallenna kaikki työt ja sulje ylimääräiset sovellukset , kuten selaimet .
+Sen jälkeen päivitetä Windows Updatesta kaikki tärkeät päivityspaketit , jotka ovat jääneet asentamatta .
+Vanhan Windowsin pitää olla ajan tasalla tai päivitys jää väliin .
+Jos olet poistanut automaattiset päivitykset käytöstä Windows Updatessa , palauta ne päälle sovelluksen asetuksista .
+Kun päivitykset on tehty , tarkasta ettei Windows ei ole jo alkanut taustaladata päivitystä .
+Windows 10:n asennustiedostot ladataan C-aseman juureen tehtyyn piilohakemistoon nimeltä $windows.~BT .
+Hakemisto on piilotettu .
+Nähdäksesi sen joudut ensin ottamaan piilotettujen tiedostojen näyttämisen käyttöön : Ohjauspaneeli > Kansion asetukset > Näytä > Näytä piilotetut tiedostot , kansiot ja asemat .
+Tämän jälkeen avataan C-asema näkyviin Resurssienhallinnassa .
+Jos näet kansion $windows.~BT , voit lopettaa tähän .
+Windowsia ladataan jo , ja Windows Update ehdottaa sen asentamista , kunhan koko neljän gigatavun paketti on koneellasi .
+Tarkasta Updatea parin tunnin välein — latauksen kesto riippuu verkkoyhteytesi nopeudesta .
+Tai sitten käsipelillä
+Jos kansiota ei löydy , voit kokeilla pakottaa latauksen alkamaan : Avaa Windowsin sovellusvalikko ja kirjoita hakukenttään cmd .
+Klikkaa löytynyttä cmd.exe-sovellusta oikealla hiirennapilla ja valitse Suorita järjestelmänvalvojana .
+Ruudulle avautuu komentorivi-ikkuna pääkäyttäjän oikeuksilla .
+Kirjoita ikkunaan komento wuaclt.exe/updatenow ja paina enteriä .
+Tämän pitäisi pakottaa lataus käyntiin .
+Kunhan päivityspaketti on kokonaisuudessaan latautunut , Windows Update ehdottaa sen asentumista .
+Joillain koneilla tämäkään ei ole auttanut .
+Jos kuulut näihin onnettomiin , voit koettaa pakottaa päivitystä tekemällä muokkauksen Windowsin rekisteriin .
+Näin yksinkertaista päivityskomennon antaminen on .
+Huomaa , että komento ei palauta mitään informaatiota ikkunaan .
+Se toimii silti .
+Huomaa , että rekisteriä muokkaamalla voit rikkoa käyttöjärjestelmäsi , joten älä koske tähän , mikäli et ole varma siitä , että tiedät mitä teet .
+Avaa rekisterin editointisovellus kirjoittamalla sovellusvalikon hakukenttään regedit ja klikkaamalla regedit.exe
+Käyttöoikeuksistasi ja asetuksista riippuen saatat joutua hyväksyttämään regeditin käynnistyksen ruudulle ilmestyvässä User Account Control -ikkunassa .
+Kun editori aukeaa , klikkaa auki vasemmasta paneelista HKEYLOCALMACHINE > SOFTWARE > Microsoft > Windows > CurrentVersion > WindowsUpdate > OSUpgrade .
+Jos OSUpgradea ei löydy , tämä johtuu siitä , että sinulle ei ole vielä tarjottu Windows 10 -päivitystä tai et ole hyväksynyt sitä .
+Palaa lähtöruutuun ja hyväksy ensin Windows 10:n päivitys .
+Jos OSUpgrade löytyy , valitse se ja klikkaa sovelluksen oikeaa paneelia hiiren oikealla napilla .
+Luo uusi 32-bittinen DWORD , anna sen nimeksi AllowOSUpgrade ja arvoksi 1 , ja klikkaa ok .
+Oikeassa paneelissa pitäisi nyt näkyä kohta AllowOSUpgrade joka on tyyppiä REGDWORD ja sisältää arvon 0x00000001(1) .
+Sulje rekisterin editointisovellus , ohjauspaneeli , ja Windows Update -ikkunat .
+Käynnistä Windows Update uudelleen .
+Viimeistään tämän jälkeen käyttöjärjestelmän pitäisi ehdottaa Windows 10:n asennuksen aloittamista .
+Virhe komennossa wuaclt.exe korjattu .
+Alunperin artikkeliin oli eksynyt kirjoitusvirhe , jossa komento oli muodossa wuaclt.exe .

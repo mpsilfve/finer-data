@@ -1,0 +1,14 @@
+Kiinasta maailman suurin roskapostimaa — tiedätkö kuka spämmää eniten perasukas ?
+Yhdysvallat menetti paikkansa maailman suurimpana spämmääjämaana .
+Tietoturvayhtiö Sophos on pisteyttänyt maailman suurimmat spämmin lähettäjämaat roskapostin määrän perusteella .
+Yhtiö perustaa tilastonsa roskapostisuodattimiensa keräämiin tietoihin .
+Eniten spämmiä tuli viime vuoden lopulla Kiinasta , joka nousi nyt ensimmäistä kertaa maailman suurimmaksi roskapostin lähettäjämaaksi .
+Nykyisin jopa osan yksityisistä vpn-yhteyksistä estävä Kiinan suuri palomuuri ei kuitenkaan estä spämmäävien bottiverkkojen toimintaa .
+Aikaisemmin ykköstilaa johtavana spämmimaana piti nyt kakkoseksi pudonnut Yhdysvallat .
+Kolmantena oli Etelä-Korea ja neljäntenä Venäjä .
+Pohjoismaista Ruotsi oli sijalla 64 , Tanska oli 79. ja Norja 86.
+Suomen sijoitusta ei kerrottu .
+Kun spämmimäärät suhteutetaan maan asukaslukuun , Etelä-Korea nousee suhteellisesti suurimmaksi spämmääjämaaksi .
+Tätä seuraavat Hongkong , Bulgaria , Ukraina ja Israel .
+Tilastot eivät kerro niinkään paljon siitä , missä päin spämmikeisarit asuvat .
+Bottiverkkoja hallitaan yli rajojen , joten tilastot kertovat lähinnä siitä , missä maassa tietoturva on pahiten retuperällä .

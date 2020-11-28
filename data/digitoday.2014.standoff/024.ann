@@ -1,0 +1,35 @@
+T1	ORG 25 33	Applelta
+T2	ORG 46 57	Samsungille
+T3	ORG 58 63	Apple
+T4	ORG 72 83	Samsungille
+T5	ORG 173 181	Applella
+T6	ORG 185 196	Samsungilla
+T7	PER 318 332	Florian Müller
+T8	ORG 340 364	Foss Patents -blogissaan
+T9	ORG 376 382	Applen
+T10	ORG 489 494	Apple
+T11	ORG 502 513	Samsungilta
+T12	ORG 544 550	Applen
+T13	PRO 567 574	iPhonea
+T14	ORG 577 584	Samsung
+T15	ORG 598 604	Applen
+T16	PRO 628 635	iPhonen
+T17	PRO 639 645	iPadin
+T18	DATE 660 673	vuodelta 2011
+T19	LOC 726 739	Kaliforniassa
+T20	PER 742 750	Müllerin
+T21	ORG 797 806	Samsungin
+T22	LOC 964 975	Kalifornian
+T23	DATE 1017 1027	maaliskuun
+T24	PER 1038 1044	Müller
+T25	ORG 1054 1060	Applen
+T26	ORG 1064 1073	Samsungin
+T27	DATE 1114 1123	helmikuun
+T28	ORG 1293 1300	Samsung
+T29	ORG 1310 1318	Applelle
+T30	ORG 1333 1340	Samsung
+T31	ORG 1389 1392	HTC
+T32	ORG 1452 1458	Applen
+T33	ORG 1481 1490	Samsungin
+T34	ORG 1520 1526	Applen
+T35	PER 1597 1611	Florian Müller

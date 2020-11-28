@@ -1,0 +1,33 @@
+T1	ORG 0 6	Amazon
+T2	PRO 14 26	WorkMaililla
+T3	ORG 27 38	Microsoftin
+T4	ORG 42 49	Googlen
+T5	ORG 95 101	Amazon
+T6	ORG 264 275	Microsoftin
+T7	ORG 288 295	Googlen
+T8	ORG 329 335	Amazon
+T9	ORG 424 427	IBM
+T10	ORG 476 483	Dropbox
+T11	ORG 656 688	Amazon Web Services -divisioonan
+T12	PER 697 710	Adam Selipsky
+T13	ORG 717 740	Wall Street Journalille
+T14	ORG 758 764	Amazon
+T15	ORG 947 958	Microsoftin
+T16	PRO 959 968	Outlookin
+T17	PRO 1048 1058	Workmailin
+T18	ORG 1084 1092	Amazonin
+T19	ORG 1191 1197	Amazon
+T20	ORG 1328 1334	Amazon
+T21	ORG 1409 1417	Amazonin
+T22	ORG 1451 1458	Googlen
+T23	PRO 1459 1472	Apps for Work
+T24	ORG 1476 1487	Microsoftin
+T25	PRO 1488 1498	Office 365
+T26	ORG 1550 1556	Amazon
+T27	PRO 1567 1579	WorkMaililla
+T28	ORG 1629 1652	Baird Equity Researchin
+T29	PER 1665 1680	Colin Sebastian
+T30	ORG 1698 1705	Googlen
+T31	ORG 1764 1772	Amazonin
+T100001	LOC 717 728	Wall Street
+T100002	PER 1629 1634	Baird

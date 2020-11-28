@@ -1,0 +1,18 @@
+T1	ORG 0 7	HKL:ltä
+T2	ORG 24 33	Siemensin
+T3	ORG 75 109	Helsingin kaupungin liikennelaitos
+T4	ORG 110 113	HKL
+T5	ORG 121 130	Siemensin
+T6	ORG 218 223	HKL:n
+T7	ORG 227 236	Siemensin
+T8	ORG 289 296	Siemens
+T9	ORG 304 311	HKL:lle
+T10	ORG 349 352	HKL
+T11	ORG 403 412	Siemensin
+T12	ORG 522 525	HKL
+T13	ORG 552 571	Helsingin kaupungin
+T14	ORG 686 689	HKL
+T15	DATE 717 728	joulukuussa
+T16	ORG 855 866	Siemensiltä
+T100001	LOC 75 84	Helsingin
+T100002	LOC 552 561	Helsingin

@@ -1,0 +1,16 @@
+T1	ORG 22 29	Samsung
+T2	ORG 65 84	Samsung Electronics
+T3	DATE 126 135	toukokuun
+T4	ORG 183 190	Samsung
+T5	LOC 226 242	San Franciscossa
+T6	DATE 243 257	28. toukokuuta
+T7	ORG 365 379	The Next Webin
+T8	ORG 434 441	Samsung
+T9	PRO 533 562	Gear Fit -urheilurannekkeensa
+T10	ORG 584 591	Samsung
+T11	DATE 592 603	toukokuussa
+T12	ORG 749 755	Applen
+T13	EVENT 766 790	WWDC-kehittäjätapaaminen
+T14	LOC 822 838	San Franciscossa
+T15	ORG 847 852	Apple
+T16	ORG 949 955	Applen

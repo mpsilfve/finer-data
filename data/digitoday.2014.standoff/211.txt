@@ -1,0 +1,14 @@
+Windows 10 ei saa uutta tietoturvaa — ainakaan heti
+Defenderillä mennään , johtaja vahvistaa monien pettymykseksi .
+Tällä hetkellä Windows 8:n ja 8.1:n oletuksena tarjoama Windows Defender -haittaohjelmatutka tulee myös osaksi uutta Windows 10:aa .
+Microsoft ei ainakaan toistaiseksi ole kehittämässä uutta , laadukkaampaa tietoturvaa .
+Microsoftin Windows Defender on perustason suoja .
+Se on flopannut useissa testeissä ja siksi sen korvaamista jollain oikealla tietoturvaohjelmistolla tulisi harkita vakavasti .
+Kattava testi ilmaisista ja maksullisista tietoturvaohjelmistoista on luettavissa esimerkiksi MB-lehden numerosta 1/2015 .
+Microsoftin UserVoice-foorumilla kuitenkin ehdotetaan , että Microsoft korvaisi kehnon Windows Defenderin jollain oikeasti toimivalla tietoturvaratkaisulla .
+– Windows Defenderin tulisi olla paljon parempi .
+Siinä ei tarvitsisi olla yhtä paljon ominaisuuksia kuin kolmannen osapuolen tietoturvaratkaisussa , mutta sen tulisi olla paljon tehokkaampi virusten ja haittaohjelmien torjunnassa .
+Sen tulisi olla lähes yhtä hyvä kuin kolmannen osapuolen ohjelmistot , sillä Microsoftilla sentään on rahaa ja henkilöstöresursseja kehittää turvallisempi käyttöjärjestelmä , foorumille jätetyssä viestiketjussa vaaditaan .
+Toistaiseksi uusi tietoturvaratkaisu ei kuitenkaan kuulu Microsoftin suunnitelmiin , joten Windows 10 julkaistaan samalla Windows Defender -ohjelmistolla , joka löytyi jo Windows 8.1:stä .
+Ohjelmassa saattaa kuitenkin olla joitakin parannuksia siellä täällä .
+Asian vahvisti Twitterissä Microsoftin Windows Insider -pomo Gabriel Aul ja siitä kertoi muun muassa Softpedia .

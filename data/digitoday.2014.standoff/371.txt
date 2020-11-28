@@ -1,0 +1,14 @@
+Nyt on paksua : Hotelliketju haluaa estää wlan-yhteydet
+Marriott-hotelliketju hakee Yhdysvaltain viestintäkomissiolta lupaa estää vieraiden omien wlan-tukiasemien käytön .
+Marriott International ja American Hospitality & Lodging Association ovat jättäneet Marriott-hotelliketju hakee Yhdysvaltain viestintäkomissio FCC:lle hakemuksen hallinnoida vapaasti omia viestintäverkkojaan , vaikka se häiritsisi hotellivieraiden omien laitteiden käyttöä .
+Lokakuussa Marriottin Gaylord Opryland Hotel & Convention Center tuomittiin 600\_000 dollarin sakkoihin , koska se oli käyttänyt radiohäirintää kävijöiden omien internet-yhteyksien estämiseksi .
+Hotellien tiedetään turvautuneen monenlaisiin teknisiin temppuihin turvatakseen rahantulon niiden alueella tapahtuvasta viestinnästä .
+Vuosikymmeniä hotellihuoneiden puhelimista saattoi soittaa vain hotellin oman vaihteen kautta .
+Hotellivieraille kalliiksi käynyt lankapuhelinmonopoli alkoi murtua vasta matkapuhelinten yleistyessä .
+Marriottin ja hotelliliiton jättämä hakemus , joka mahdollistaisi hotelleille langattoman lähiverkon monopolin omalla alueellaan ja lähiympäristössä , on saanut runsaasti vastustusta internet-yrityksiltä .
+Muun muassa Google ja Microsoft ovat jättäneet hakemusta vastustavat kannanotot .
+Microsoftin mukaan Marriottin hakema lupaa rikkoo suoraan kaikille taattua oikeutta käyttää vapaaseen käyttöön varattuja radiotaajuuksia .
+Sen mukaan hotellit haluavat pakottaa asiakkaitaan maksullisen verkon käyttöön vaikka he ovat jo kertaalleen maksaneet omille operaattoreilleen oikeudesta käyttää wlan-tukiasemia .
+Hotellialan mukaan sen hanke ei rikkoisi lakia , vaan suojelisi asiakkaita tietoturvaa heikentäviltä valvomattomilta wlan-reitittimiltä , kyberhyökkäyksiltä ja identiteettivarkauksilta .
+The Vergen mukaan perustelu on sangen heikko , koska usein hotellivieraat ovat paremmassa turvassa omassa wlan-verkossaan kuin hotellien turvattomissa verkoissa .
+Julkaisu viittasi Kaspersky Labin marraskuussa julkaisemaan tietoon hakkeriryhmästä , joka toimi nimenomaan loistohotellien sisällä .

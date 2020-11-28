@@ -1,0 +1,16 @@
+NSA : Me suojelimme nettiä , F-Secure : Joopa joo
+Yhdysvaltain tiedusteluorganisaation puolustuspuheenvuoro ei ihan vakuuttanut suomalaisen tietoturvayhtiön amerikkalaista vahvistusta .
+Erittäin huonoon valoon ympäri maailman joutunut NSA-virasto puolusti toimintaansa Wired-lehden haastattelussa äskettäin .
+NSA muun muassa korosti säästäneensä maailman merkittävältä haavoittuvuudelta .
+– Olemme voimakkaasti painottuneet puolustukseen , NSA:n Media Leaks Task Forcen johtaja Rick Ledgett vakuutti Wired-lehdelle kertoen vakavasta haavoittuvuudesta , joka löytyi erään yrityksen ohjelmistosta .
+Aukko olisi hänen mukaansa voinut koskettaa internetin käyttäjiä globaalisti .
+– Puhuimme siitä muutaman päivän sisäisesti ja päätimme sen olevan niin kriittinen koko Yhdysvaltain hallinnolle ja suurimmalle osalle Amerikkaa , että paljastimme [ haavoittuvuuden yritykselle ] .
+Olisimme voineet käyttää sitä hyväksi ikuisesti valtavaan määrään kohteita , Ledgett jatkoi lehdelle .
+Kaikki tämä kaikuu kuitenkin kuuroille korville tietoturvayhtiö F-Securessa .
+– Vau .
+NSA paljasti vastuullisesti * yhden * vakavan haavoittuvuuden .
+No…kunniaa NSA:lle !
+Tämä yksi anekdoottimainen tarina melkein ( mutta ei edes lähellekään ) paikkaa lukuisat nollapäivän hyväksikäytöt , varastetuilla sertifikaateilla allekirjoitetut ajurit , md5-tiivistekollisiot , ja cplink-haavoittuvuuden , jonka maailma sai niskoilleen Stuxnetin , Duqun ja Flamen kautta , F-Securen amerikkalainen asiantuntija Sean Sullivan kirjoittaa sarkastisesti yhtiönsä blogissa .
+Sullivanin mielestä NSA ei yksinkertaisesti voi suoraselkäisesti väittää olevansa keskittynyt puolustukseen .
+Edward Snowdenin alulle paneman NSA-skandaalin yksi juonne paljasti tiedusteluviraston takaoven toisen tietoturvayhtiön RSA:n tuotteesta .
+Sen seurauksena F-Securen tutkimusjohtaja Mikko Hyppönen peruutti protestina kaiken osallistumisensa RSA:n helmikuiseen konferenssiin .

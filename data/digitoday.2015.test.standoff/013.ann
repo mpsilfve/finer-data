@@ -1,0 +1,24 @@
+T1	ORG 0 6	Google
+T2	ORG 49 55	Google
+T3	ORG 164 170	Google
+T4	LOC 179 193	San Franciscon
+T5	ORG 245 252	Googlen
+T6	PRO 253 279	AdWords Express -mainosten
+T7	ORG 498 505	Googlen
+T8	ORG 526 533	Googlen
+T9	ORG 600 607	Googlen
+T10	ORG 880 887	Googlen
+T11	ORG 1025 1033	Yelpille
+T12	ORG 1036 1052	Angie’s Listille
+T13	ORG 1056 1070	TaskRabbitille
+T14	ORG 1073 1082	Googlella
+T15	ORG 1126 1132	Amazon
+T16	DATE 1184 1196	maaliskuussa
+T17	ORG 1248 1269	Wall Street Journalin
+T18	ORG 1277 1289	Angie’s List
+T19	DATE 1297 1308	vuonna 2011
+T20	ORG 1431 1438	Googlen
+T21	PRO 1439 1460	Home Services -linkit
+T22	ORG 1480 1486	Yelpin
+T23	ORG 1493 1500	Googlen
+T100001	LOC 1248 1259	Wall Street

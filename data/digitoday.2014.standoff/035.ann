@@ -1,0 +1,15 @@
+T1	ORG 0 6	Google
+T2	ORG 11 20	Motorolan
+T3	ORG 80 86	Google
+T4	ORG 126 135	Motorolan
+T5	ORG 167 176	Lenovolle
+T6	ORG 179 185	Google
+T7	ORG 189 195	Lenovo
+T8	ORG 274 280	Google
+T9	ORG 297 306	Motorolan
+T10	ORG 324 330	Google
+T11	ORG 336 354	Motorola Mobilityn
+T12	DATE 355 366	vuonna 2011
+T13	ORG 397 403	Lenovo
+T14	ORG 447 452	IBM:n
+T15	ORG 572 582	China Post

@@ -1,0 +1,15 @@
+Lokaa naamassa : Murrettu Snapchat puolustautuu
+Snapchat kiistää olleensa toimeton , kun se sai tietää numerohaavoittuvuudesta kuukausia sitten .
+Etenkin nuorison keskuudessa suosittu kuvaviestipalvelu Snapchat kommentoi ensi kertaa tietomurtoa , missä käyttäjien puhelinnumeroita ja käyttäjänimiä julkaistiin verkossa miljoonittain .
+Palvelu kiistää oletuksen , että se jätti jo elokuussa tiedetyn haavoittuvuuden huomiotta .
+Ongelma liittyy Find Friends -toimintoon , jossa käyttäjät voivat vapaaehtoisesti jättää palveluun puhelinnumeronsa , jotta ystävät voivat löytää heidät palvelusta .
+– Pian elokuun jälkeen sisällytimme palveluun käytäntöjä , kuten liikenteen rajoituksen , ottaaksemme huomioon nämä tietoturvahuolet , Snapchat kirjoittaa virallisessa blogissaan .
+Ongelmasta raportoinut ryhmä Gibson Security katsoi , ettei se saanut Snapchatista mitään vastakaikua ja julkaisi sen vuoksi äskettäin tarkemmat tiedot haavoittuvuudesta ja keinot sen hyväksikäyttämiseen .
+Toinen hakkeriryhmä SnapchatDB käytti Gibsonin neuvoja täsmätäkseen toisiinsa 4,6 miljoonaa Snapchatin käyttäjänimeä ja puhelinnumeroa .
+Se julkaisi tiedot netissä pyyhkien puhelinnumeroista pois kaksi viimeistä numeroa .
+Snapchat oli edellisessä ennen murtoa julkaistussa blogikirjoituksessaan vähätellyt vaaraa ja kutsunut sitä lähinnä teoreettiseksi .
+Mutta nyt palvelu sanoo kyllä tiedostaneensa kirjoituksessaan , että hyökkäys on mahdollinen .
+Murto ei sen mukaan johtanut käyttäjäkuvien vaarantumiseen , mitä ei ollut kyllä missään vaiheessa väitettykään .
+– Julkaisemme Snapchat-sovelluksesta päivitetyn version , joka mahdollistaa Find Friends -toiminnosta irtautumisen puhelinnumeron varmistamisen jälkeen .
+Parannamme myös liikenteenrajoitusta ja muita rajoituksia ottaaksemme huomioon tulevat yritykset hyväksikäyttää palveluamme , Snapchat lupaa .
+Kirjoituksessa ei pahoitella tai pyydetä anteeksi tietoturvan pettämistä .

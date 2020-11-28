@@ -1,0 +1,12 @@
+Myynti seis : Googlen älyvaroittimella oli omia ajatuksia
+Googlen tammikuussa ostama Nest Labs , joka tekee älykkäitä termostaatteja ja palovaroittimia , ilmoitti lopettavansa palovaroittimien myynnin välittömästi ja poistavansa verkon välityksellä yhden laitteen ominaisuuksista .
+Nest Protect -älypalovaroittimen hälytyksen voi vaimentaa käden heilautuksella .
+Nest Wave -ominaisuudella on määrä keskeyttää väärät hälytykset .
+Itsenäisenä yrityksenä toimiva Nest Labs sanoo kuitenkin havainneensa , että keskeytysominaisuus voi joissakin olosuhteissa laueta ilman käyttäjän toimenpiteitä .
+Yritys lupaa päivittää kaikki asennetut palovaroittimet verkon kautta vuorokauden kuluessa .
+Päivityksessä hälytyksen keskeytys poistetaan .
+Käyttäjälle , joka on ostanut varoittimen , mutta ei ole kytkenyt sitä Nestin verkkoon , annetaan rahat takaisin .
+Laitteiden myynti aloitetaan uudelleen , kun myymättömät on päivitetty .
+Asiasta uutisoi muun muassa The Register .
+Google osti tammikuussa Nest Labsin 2,3 miljardilla eurolla .
+Yrityksen ensimmäinen ja päätuote on älytermostaatti , joka oppii talon tavoille ja jonka avulla asunnon lämpötilaa voidaan säätää älypuhelimen kautta .

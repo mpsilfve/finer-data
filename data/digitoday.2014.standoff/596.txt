@@ -1,0 +1,23 @@
+Lähes miljardi Android-puhelinta joutumassa vaaraan
+Onko Android-puhelimesi järjestelmäversio 4.3 tai alle ?
+Vanheneva WebView-komponentti saattaa lähes miljardi laitetta uhan alle .
+Moni Android-puhelin on joutumassa tänä vuonna vaaraan , kun Google lopettaa WebView-nimisen komponentin tukemisen Androidin Jelly Beanissa ja kaikissa muissakin vanhemmissa Android-versioissa .
+Google aikoo jatkaa tukea vain 4.4:stä eli KitKatista ylöspäin .
+Asia noteerattiin Rapid7-sivuston Metasploit-blogissa .
+Metasploit on tietoturva-aukkoja etsivä ohjelmisto .
+Tämän jälkeen asiasta on kirjoittanut muun muassa talouslehti Forbes .
+WebView on Android-käyttöjärjestelmän osa , joka mahdollistaa verkkosivujen esikatselun sovellusten sisällä .
+Google kannustaa ohjeissaan sovelluskehittäjiä WebView'n käyttöön .
+KitKat-Androidissa eli 4.4:ssä ja myöhemmissä tilalla käytetään Googlen Chromeen perustuvaa tekniikkaa .
+Viimeisin Jelly Bean 4.3:n ilmestyi vuoden 2013 lokakuussa .
+WebView on hyvin suosittu hyökkäysvektori Androidissa .
+Metasploit-blogi huomauttaa , että monet tietoturva-aukkojen etsijät hakevat käytännössä aukkoja vain WebView'sta , sillä se on helpoin tapa tunkeutua Androidiin .
+Metasploit-hyökkäystyökalu sisältää hyökkäykset 11 WebView'n eri aukkoon .
+Jatkossa KitKatia edeltävien versioiden korjaukset jäävät laitevalmistajien tehtäväksi .
+On siis mahdollista , että laitevalmistaja päättää jatkaa puhelimen tukemista ja korjata jatkossakin siitä löytyviä aukkoja .
+Tämä on kuitenkin täysin valmistajasta kiinni .
+Googlen Android Developer Dashboardin lukujen mukaan Googlen jatkossa tukemien Android-versioiden piirissä on runsaat 39 prosenttia Android-laitteista .
+Näistä 4.4:n eli KitKatin osuus on 39,1 % ja uuden 5.0:n eli Lollipopin osuus toistaiseksi vasta 0,1 % .
+Vaaravyöhykkeeseen on siis teoriassa joutumassa lähes miljardi käytössä olevaa puhelinta , jotka edustavat Android-versioita 2.3—4.3 .
+Metasploit-blogi huomauttaa , että Apple ja Google eivät kerro , milloin ne lopettavat tuen tietyille käyttöjärjestelmäversioilleen .
+Microsoft ja Blackberry puolestaan dokumentoivat käyttöjärjestelmän elinkaaren selvästi .

@@ -1,0 +1,16 @@
+WhatsApp pc:lle ?
+Ole varovainen , vaara vaanii
+Kaspersky Labs varoittaa " WhatsAppin pc-versiosta " , joka on todellisuudessa pankkitietoja urkkiva haittaohjelma .
+Suuren suosion saanut WhatsApp-pikaviestin on saanut myös viruskirjoittajat heräämään .
+Tietoturvayhtiö Kaspersky Lab varoittaa blogissaan pc:lle tehdystä " WhatsApp " -ohjelmasta , joka on todellisuudessa haittaohjelma .
+Kaspersky kertoo portugaliksi kirjoitetusta sähköpostiviestistä , joka kertoo WhatsAppin saapuneen pc:lle .
+Viesti kehottaa vastaanottajaa lataamaan ohjelman , sillä hänelle on 11 kontaktipyyntöä .
+Linkin klikkaaminen vie uhrin hakkeroidulle turkkilaispalvelimelle , jonka kautta koneelle siirretään pienikokoinen asennustiedosto .
+Tämä lataa puolestaan lataa Brasiliasta varsinaisen haittaohjelman , joka on pankkitroijalainen .
+Haitake lähettää saastuneelta koneelta tietoja isännilleen ja lataa tarvittaessa uusia toiminnallisuuksia tuovia moduuleita .
+Kuten huijauksissa yleensä , on lupa odottaa , että huijausviesti kääntyy portugalista nopeasti muillekin kielille .
+WhatsAppista ei ole olemassa pc-versiota .
+Ohjelmisto on julkistettu vain iPhonelle , Nokia Ashalle , Symbianille , BlackBerrylle , Androidille sekä Windows Phonelle .
+Verkossa esitellään erilaisia tapoja WhatsAppin tuomiseksi pc:lle esimerkiksi Android-emulaattori asentamalla , mutta nämä eivät ole virallisia keinoja .
+Muokkaus : Toinen kuva lisätty .
+WhatsAppin nimissä lähetellään myös tökeröitä Kuva : kuvakaappaus

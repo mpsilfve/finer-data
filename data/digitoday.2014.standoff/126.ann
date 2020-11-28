@@ -1,0 +1,18 @@
+T1	ORG 0 8	Eurooppa
+T2	ORG 17 23	Applen
+T3	ORG 65 70	Apple
+T4	PRO 86 98	App Storessa
+T5	ORG 151 169	Euroopan komission
+T6	PRO 285 297	App Storesta
+T7	PRO 300 310	iTunesista
+T8	PRO 315 324	iBookista
+T9	ORG 475 483	Applelle
+T10	ORG 566 572	Applen
+T11	ORG 633 637	Cnet
+T12	ORG 640 652	The Next Web
+T13	ORG 670 676	Google
+T14	DATE 702 712	kesäkuussa
+T15	ORG 746 752	Google
+T16	PRO 760 774	Google Playstä
+T100001	LOC 151 159	Euroopan
+T100002	ORG 760 766	Google

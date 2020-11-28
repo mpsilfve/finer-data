@@ -1,0 +1,9 @@
+T1	ORG 0 7	Oraclen
+T2	ORG 100 107	Oraclen
+T3	ORG 203 210	Oraclen
+T4	PER 229 246	Mary Ann Davidson
+T5	ORG 436 443	Oraclen
+T6	PER 522 530	Davidson
+T7	PER 914 924	Davidsonin
+T8	ORG 968 974	Oracle
+T9	ORG 1096 1103	Fortune

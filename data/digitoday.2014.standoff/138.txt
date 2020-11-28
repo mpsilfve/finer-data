@@ -1,0 +1,12 @@
+Microsoft poistaa Surface Pro 2:n akkumurheita
+Microsoft alkoi korjata joulukuisen päivityksensä aiheuttamia ongelmia Surface Pro 2 -tableteista .
+Korjattu firmware ei kuitenkaan tullut vielä laajaan jakeluun .
+Ohjelmistoyhtiö Microsoft julkaisi viikonloppuna firmware-päivityksen puuttuakseen vihdoin ongelmiin , joihin jotkut yhtiön Surface Pro 2 -tabletin käyttäjät törmäsivät joulukuussa .
+Microsoftin silloinen päivitys ei suostunut aina asentumaan ja jos asentuikin , se saattoi heikentää laitteen akkukestoa .
+Korjauspäivitys pyrkii palauttamaan akkukeston ennalleen ja poistamaan ongelmat lepotilasta herätessä , muun muassa ZDNet kertoo .
+Microsoft joutui keskeyttämään alkuperäisen päivityksen jakelun akkuongelmien ilmettyä .
+Yhtiön mukaan uusi päivitys ei koske niitä , jotka eivät koskaan saaneet joulukuussa julkaistua firmware-päivitystä .
+Microsoft työskentelee kovasti saadakseen korjatun päivityksen jakeluun näitä asiakkaita varten .
+Microsoft joutui taannoin vetämään pois myös toisen Surfaceja ja muita Windows-tabletteja koskeneen päivityksen teknisten ongelmien vuoksi .
+Surface Pro 2:ta Microsoft on uudistanut myös rautatasolla .
+Ostajat ovat huomanneet , että laitteen sisällä voi piillä entistä tehokkaampi suoritin .

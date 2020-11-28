@@ -1,0 +1,29 @@
+T1	LOC 53 65	Yhdysvaltain
+T2	ORG 91 98	Comcast
+T3	ORG 258 276	Time Warner Cablea
+T4	ORG 279 286	Comcast
+T5	PER 390 398	Ricardon
+T6	ORG 457 476	Elliot.org-blogissa
+T7	PER 518 523	Julie
+T8	PER 551 556	Julia
+T9	PER 565 570	Julia
+T10	PER 575 581	Julien
+T11	ORG 659 668	Comcastin
+T12	PER 790 796	Julien
+T13	DATE 830 873	joulukuun 6. päivästä tammikuun 16. päivään
+T14	PER 948 957	Carolinan
+T15	PER 1251 1257	Maidan
+T16	PER 1277 1282	Fakoe
+T17	ORG 1573 1582	Comcastin
+T18	LOC 1583 1595	Washingtonin
+T19	PER 1633 1643	Steve Kipp
+T20	PER 1670 1678	Ricardon
+T21	PER 1714 1722	Ricardon
+T22	ORG 1779 1790	Comcastille
+T23	PER 1808 1814	Kippin
+T24	ORG 1822 1829	Comcast
+T25	EVENT 1970 1986	CES-tapahtumassa
+T26	ORG 1987 1996	Comcastin
+T27	PER 2013 2022	Neil Smit
+T28	PER 2194 2198	Smit
+T29	ORG 2229 2240	TechTimesin

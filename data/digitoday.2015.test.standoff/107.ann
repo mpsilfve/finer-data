@@ -1,0 +1,19 @@
+T1	ORG 0 6	SpaceX
+T2	ORG 101 110	Spacenews
+T3	ORG 138 144	SpaceX
+T4	PRO 207 219	Falcon Heavy
+T5	PER 247 256	Lee Rosen
+T6	DATE 429 437	huhtikuu
+T7	DATE 450 458	toukokuu
+T8	PER 461 466	Rosen
+T9	EVENT 473 499	Space 2015 -konferenssissa
+T10	ORG 500 511	Spacenewsin
+T11	DATE 591 602	vuonna 2013
+T12	DATE 634 644	kesäkuussa
+T13	ORG 651 660	Space X:n
+T14	PRO 661 678	Falcon 9 -raketti
+T15	ORG 707 713	SpaceX
+T16	PRO 760 773	Falcon Heavyn
+T17	PRO 822 834	Falcon Heavy
+T18	PRO 927 947	Saturn 5 -kuuraketin
+T19	LOC 986 991	Maata

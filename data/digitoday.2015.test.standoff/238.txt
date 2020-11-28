@@ -1,0 +1,10 @@
+Tiukka laki : Poliisilta evättiin helppo pääsy käyttäjätietoihin
+Kaliforniassa astui voimaan historiallisena pidetty laki , joka suojelee käyttäjätietoja entistä paremmin .
+Asiasta kirjoittaa moni uutispalvelu ja niitä siteerasi muun muassa tietoturvayhtiö Sophoksen virallinen blogi Naked Security .
+Poliisi ei voi enää Kalifornian osavaltiossa vaatia käyttäjitietoja vaikkapa puhelimesta menemättä ensin tuomarin luokse .
+Kuvernööri Jerry Brown allekirjoitti lain torstaina .
+Lain mukaan lainvalvojien on anottava oikeudelta lupa ennen kuin he pääsevät käsiksi sähköiseen tietoon ihmisten henkilöllisyydestä , menemisistä , tuttavista ja tekemisistä .
+Lain myötä esimerkiksi tietokoneissa tai älypuhelimissa säilytetyt valokuvat , sähköpostit tai kontaktit ovat nyt paremmin suojassa .
+Joitakin vastaavia lakeja on jo olemassa paikoin Yhdysvalloissa , mutta Kalifornian lakia pidetään tiukimpana .
+Samaan aikaan tietosuojan vaalijoilla on muutakin ilonaihetta Yhdysvalloissa .
+Barack Obaman hallinto lakkasi juuri vaatimasta takaportteja salaukseen , koska sellainen olisi antanut myös rikollisille ja ulkomaiselle tiedustelulle helpon pääsyn ihmisten tietoihin .

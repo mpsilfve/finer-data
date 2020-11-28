@@ -1,0 +1,74 @@
+T1	PRO 0 10	Saints Row
+T2	PRO 11 21	Saints Row
+T3	ORG 25 42	Volition , Inc.:n
+T4	ORG 56 61	THQ:n
+T5	PRO 114 126	Xbox 360:lle
+T6	DATE 127 138	vuonna 2006
+T7	PRO 170 187	PlayStation 3:lle
+T8	PRO 264 280	" Saints Row 2 "
+T9	DATE 293 304	vuonna 2008
+T10	PRO 345 371	" Saints Row : The Third "
+T11	DATE 374 378	2011
+T12	PRO 383 400	" Saints Row IV "
+T13	DATE 403 407	2013
+T14	PRO 413 445	" Saints Row : Get out of Hell "
+T15	DATE 448 452	2015
+T16	LOC 472 483	Stilwaterin
+T17	ORG 667 689	3rd Street Saintseihin
+T18	ORG 722 731	Saintseja
+T19	LOC 794 805	Stilwateria
+T20	PRO 808 840	" Grand Theft Auto " -pelisarjan
+T21	PRO 848 866	" Saints Rowissa "
+T22	PRO 967 981	" Saints Row "
+T23	PRO 1086 1103	" Saints Rowsta "
+T24	DATE 1160 1177	Marraskuuhun 2006
+T25	PRO 1229 1243	" Saints Row "
+T26	LOC 1304 1316	Stilwateriin
+T27	PRO 1376 1408	" Grand Theft Auto " -pelisarjan
+T28	LOC 2015 2028	Stilwaterissa
+T29	ORG 3274 3294	3rd Street Saintsien
+T30	ORG 3424 3433	Saintsien
+T31	LOC 3921 3932	Stilwateria
+T32	ORG 4010 4030	3rd Street Saintsien
+T33	PRO 4268 4284	" Saints Rowta "
+T34	PRO 4324 4334	Xbox Liven
+T35	DATE 5205 5215	syyskuussa
+T36	PRO 5216 5245	” Funky Fresh Pack ” -paketti
+T37	PRO 5259 5283	Xbox Live Marketplacesta
+T38	PRO 5290 5308	Microsoft Pointsia
+T39	DATE 5392 5415	Vuoden 2006 joulukuussa
+T40	PRO 5452 5469	” Ho Ho Ho Pack ”
+T41	DATE 5527 5543	Tammikuussa 2007
+T42	PRO 5577 5591	” UnKut Pack ”
+T43	ORG 5608 5615	UnKutin
+T44	PRO 5653 5667	" Saints Row "
+T45	LOC 5691 5704	Stilwaterissa
+T46	ORG 5913 5932	3rd Street Saintsit
+T47	PER 5941 5954	Julius Little
+T48	ORG 6044 6055	Saintseihin
+T49	ORG 6085 6094	Saintseja
+T50	ORG 6153 6165	Los Carnales
+T51	ORG 6168 6184	Westside Rollerz
+T52	ORG 6188 6198	Vice Kings
+T53	ORG 6233 6242	Saintseja
+T54	LOC 6263 6274	Stilwaterin
+T55	LOC 6551 6562	Stilwaterin
+T56	ORG 6563 6572	Saintsien
+T57	PER 6627 6638	Juliukselta
+T58	PER 6701 6707	Julius
+T59	ORG 6860 6871	Saintseille
+T60	ORG 6882 6891	Saintsien
+T61	LOC 7077 7088	Stilwaterin
+T62	PER 7154 7163	Juliuksen
+T63	PER 7212 7229	Alderman Hughesin
+T64	PER 7344 7350	Hughes
+T65	ORG 7426 7434	Saintsit
+T66	PER 7513 7521	Hughesin
+T67	PRO 7566 7582	" Saints Row 2 "
+T68	PRO 7633 7661	" Grand Theft Auto " -sarjan
+T69	PRO 7678 7695	" Saints Rowssa "
+T70	PRO 7779 7809	" Grand Theft Auto " -peleihin
+T71	ORG 8049 8076	” Scratch That ” -kaupoista
+T72	LOC 8077 8090	Stilwaterissa
+T100001	ORG 5290 5299	Microsoft
+T100002	ORG 5579 5584	UnKut

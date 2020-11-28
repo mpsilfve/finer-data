@@ -1,0 +1,11 @@
+Pentagon julkaisi Darpan tutkimuskatalogin
+Internetin teknologisen syntypaikan ovet on nyt avattu suurelle yleisölle .
+Yhdysvaltain puolustusministeriön alainen Darpa on julkaissut katalogin osittain ja kokonaan rahoittamistaan tutkimuksista ja ohjelmista .
+Darpa ( Defense Advanced Research Projects Agency ) on suuri tutkimusten rahoittaja , mutta tähän saakka suuri osa sen tuloksista on pidetty pois julkisuudesta .
+Tällä viikolla julkaistulla toimitetulla Open Catalogilla halutaan rohkaista jatkotutkimuksia ja houkutella mukaan uusia tutkijoita .
+Darpan ohjelmajohtaja Chris White sanoi tiedotteessa , että avoimen ohjelmakatalogin julkistaminen tuo mukaan lisää asiantuntijoita , jotka voivat tuottaa nopeasti valtion tarvitsemia ohjelmia .
+Asiasta kirjoitti muun muassa PCMag .
+– Toivomme , että tietojenkäsittelytiedeyhteisö testaa ja arvioi ohjelmistojemme elementtejä ja sitten ottaa ne käyttöön joko itsenäisinä sovelluksina tai omien ohjelmistojensa komponentteina .
+Open Catalog -sivujen tarjonta jakautuu ohjelmistoihin ja julkaisuihin .
+Jos tiedeyhteisö innostuu asiasta , Darpa lupaa julkaista tuloksia ja tuoda tarjolle lisää materiaalia .
+Katalogin ensimmäisen ohjelman englanninkielinen kuvaus on tällainen : Hadoop MapReduce-over-Hive based implementation of network query by example utilizing attributed network pattern matching .

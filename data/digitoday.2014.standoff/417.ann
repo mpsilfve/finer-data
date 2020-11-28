@@ -1,0 +1,23 @@
+T1	LOC 41 49	Suomella
+T2	PRO 89 100	Sentinel-1A
+T3	ORG 195 219	Euroopan avaruusjärjestö
+T4	ORG 220 224	ESAn
+T5	PRO 237 260	Kopernikus-järjestelmän
+T6	PRO 273 284	Sentinel-1A
+T7	LOC 308 324	Etelä-Amerikasta
+T8	ORG 447 472	Suomen Ilmatieteen laitos
+T9	LOC 629 640	Sodankylään
+T10	PRO 721 726	Goce-
+T11	PRO 729 738	Herschel-
+T12	PRO 742 762	Planck-satelliittien
+T13	PRO 782 795	Sentinel-1A:n
+T14	ORG 825 838	Avaruus.infon
+T15	ORG 972 981	DA-Design
+T16	PRO 1024 1044	Sentinel-satelliitit
+T17	ORG 1050 1054	ESAn
+T18	PRO 1199 1219	Kopernikus-ohjelmaan
+T19	PRO 1301 1316	Kopernikuksesta
+T20	PRO 1469 1484	Sojuz-raketilla
+T21	LOC 1539 1553	Yhdysvalloissa
+T100001	LOC 195 203	Euroopan
+T100002	LOC 447 453	Suomen

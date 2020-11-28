@@ -1,0 +1,12 @@
+Kodin reititin tottelee konnaa — korjausta ei ole
+Se viattoman näköinen pieni laatikko vilkkuvine valoineen voikin olla valmis palvelemaan rikollista tuosta vain .
+Aukko koskettaa lukuisia eri laitemalleja .
+Useista Linksysin ja Netgearin sekä joistakin muistakin reitittimistä on löytynyt takaovi , kertoo ranskalainen hakkeri Eloi Vanderbeken .
+Suomen Kyberturvallisuuskeskuksen mukaan reititin on mahdollista ottaa haltuun verkon kautta .
+Takaovi kuuntelee tcp-portissa 32764 , eikä sen käyttö vaadi tunnistautumista .
+Vanderbeken julkaisi takaoven hyväksikäyttöön työkalun , jolla on mahdollista hallita haavoittuvaa laitetta useilla eri tavoilla , kuten vaihtaa hallintasalasana tai palauttaa laite tehdasasetuksiin .
+Kyberturvallisuuskeskus huomauttaa , että ainakin joissain laiteversioissa takaovi on auki lähiverkon lisäksi myös julkiseen internetiin .
+Haavoittuvia laitteita on jo etsitty verkosta porttiskannauksilla .
+Sophoksen Naked Security -blogin mukaan ongelmien taustalla näyttää olevan huolimattomasti koodattu firmware-ohjelmisto Sercomm-nimisen yrityksen valmistamissa reitittimissä , joita siis myydään eri nimillä kuten Linksys ja Netgear .
+Laitteiden korjaus edellyttää firmware-päivitystä , jota ei vielä ole olemassa .
+Päivitys tulee Sercommia todennäköisimmin siltä myyjältä , jonka brändi reitittimestä löytyy .

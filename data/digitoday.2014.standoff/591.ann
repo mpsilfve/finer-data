@@ -1,0 +1,17 @@
+T1	ORG 25 36	Microsoftin
+T2	PRO 118 128	KeySweeper
+T3	ORG 136 147	Microsoftin
+T4	PRO 201 211	KeySweeper
+T5	PER 215 226	Samy Kamkar
+T6	ORG 313 324	Microsoftin
+T7	PER 406 412	Kamkar
+T8	PRO 484 494	Keysweeper
+T9	PRO 613 621	Arduino-
+T10	PRO 626 642	Teensy-piireihin
+T11	ORG 684 695	Microsoftin
+T12	ORG 826 837	Microsoftin
+T13	PRO 892 902	KeySweeper
+T14	PRO 1398 1410	KeySweeperin
+T15	PER 1655 1661	Kamkar
+T16	ORG 1695 1706	Microsoftin
+T17	ORG 1744 1757	Microsoftilla

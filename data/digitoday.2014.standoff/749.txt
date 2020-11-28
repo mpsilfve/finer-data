@@ -1,0 +1,11 @@
+Google Glass lähestyy arkipäivää : näyttää kalenterin ja iOS-tekstarit
+Google Glass - virtuaalilasien ohjelmaa parannellaan paloittain .
+Glassin sivut kertovat , että nyt myös iOS-laitteiden käyttäjät voivat ohjata tekstiviestit lasien näytölle .
+Google Glass -laseja käyttävät iPhone- ja iPad-käyttäjät saavat lähipäivinä päivityksen , joka mahdollistaa tekstiviestin ohjaamisen iOS-laitteelta käyttäjän silmään .
+He eivät kuitenkaan pysty vastaamaan niihin toisin kuin Android-laitteiden käyttäjät .
+Googlen mukaan tämä johtuu iOS-käyttöjärjestelmän rajoituksista .
+Maanantaina Glass-blogi kertoi kalenterin tulosta Glassware-sovelluksiin .
+Kalenteri ilmestyy lähiaikoina käyttäjän kotisivun vasempaan laitaan .
+Kalenterimerkintöjä voi muokata , niihin voi vastata tai ne voi poistaa .
+Kalenteri on ilmeisen tervetullut uudistus , ainakin päätellen käyttäjä Ryan Mottin kommentista Glass-blogissa :
+– Pystyykö Glass lopultakin kertomaan minulle monesko päivä tänään on ?

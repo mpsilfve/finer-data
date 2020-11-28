@@ -1,0 +1,10 @@
+Applelta harvinainen kutsu : Testaa uutta Mavericksia
+Apple avasi tiistaina Mac-käyttöjärjestelmän betaversion kaikille halukkaille .
+Tavallisesti hyvin tiukasti kaikkien tietojensa päällä istuva Apple edellyttää testaajilta vain Mac-konetta ja testaussopimuksen hyväksymistä .
+Apple julkaisi OS X Mavericksin OS X 10.9.3 -betaversion tiistaina ja samalla avasi OS X Beta Seed -ohjelman yleisölle .
+Siihen osallistuvilta vaaditaan , että he antavat palautetta Applelle ja sitoutuvat tiukkaan salassapitosopimukseen , joka tietojen julkaisemisen lisäksi kieltää myös niistä keskustelemisen sellaisten ihmisten kanssa , jotka eivät ole mukana ohjelmassa .
+OS X Beta Seed -ohjelma on erillinen Applen Mac Developer -ohjelmasta , jossa testaajille toimitetaan myös työkaluja .
+Apple lupaa myös , että käyttöjärjestelmän betaversion lataaminen ei kumoa laitetakuuta ja että Applen tuki auttaa ongelmiin ajautuneita koekäyttäjiä , PCMag kirjoitti .
+Tavallisesti Apple ei päästä käyttäjäkuntaansa kiinni ohjelmiensa julkaisemattomiin versioihin .
+Edellisen kerran se tapahtui vuonna 2000 , jolloin se antoi 30 dollarin maksusta käyttäjien ladata aikaisen OS X 10.0 -version eli Cheetahin .
+Computerworldin mukaan sen jälkeen vain sata dollaria vuodessa maksavat rekisteröityneet testaajat ovat päässeet lataamaan työpöytäkoneiden julkaisemattomia käyttöjärjestelmiä .

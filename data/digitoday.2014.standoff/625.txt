@@ -1,0 +1,13 @@
+Osaisitko varoa ?
+Zip-pakettien purkaja päästää konnat koneelle
+Sitä ei ehkä ensimmäisenä ajattele , että tiedostojen purkamiseen tarkoitettu ohjelmisto voi altistaa käyttäjän vaaroille .
+Ohjelmistoissa on aukkoja ja rikolliset voivat käyttää niitä hyväksi .
+Tämä pätee myös avoimen koodin Unzip-softaan , joka on tarkoitettu purkamaan pakattuja zip-tiedostoja .
+Unzipissä on korjaamaton haavoittuvuus , jonka Viestintäviraston Kyberturvallisuuskeskus katsoi tiedotteen arvoiseksi .
+Hyökkäyksistä ei ole puhetta , mutta aukko mahdollistaa " luvattoman ohjelmakoodin suorittamisen " , siis käytännössä tietokoneen haltuunoton .
+Uhka voi toteutua , kun tietyllä tavalla muotoiltu zip-tiedosto puretaan Unzip-ohjelmalla käyttämällä parametria -t ( unzip -t ) .
+Haavoittuvuus on Unzipin tuoreimmassa versiossa 6.0 ja sitä edeltävissä versioissa .
+OCertin mukaan kyse on kolmesta puskurin ylivuoto -tyyppisestä aukosta .
+Zip on tiedostojen pakkausmuoto , jota voidaan tehdä ja purkaa monilla eri pakkausohjelmilla .
+Nykyisin esimerkiksi Windowsissa on sisäänrakennettu tuki zip-pakkaukselle .
+Aukot raportoi Googlen tietoturvatiimin jäsen Michele Spagnuolo .

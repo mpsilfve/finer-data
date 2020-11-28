@@ -1,0 +1,72 @@
+T1	EVENT 0 19	Lordi Dunmoren sota
+T2	EVENT 20 39	Lordi Dunmoren sota
+T3	DATE 72 83	vuonna 1774
+T4	LOC 84 99	Ison-Britannian
+T5	LOC 122 133	Ohiolaakson
+T6	LOC 159 164	Ohion
+T7	LOC 213 222	Virginian
+T8	PER 240 247	Dunmore
+T9	PER 280 289	Cornstalk
+T10	PER 311 316	Logan
+T11	PRO 366 389	Camp Charlotten rauhaan
+T12	EVENT 392 412	Lordi Dunmoren sodan
+T13	PER 438 448	Yrjö III:n
+T14	DATE 458 469	vuoden 1763
+T15	LOC 539 550	Appalakkien
+T16	LOC 567 576	Englannin
+T17	LOC 935 943	Englanti
+T18	DATE 954 965	vuonna 1768
+T19	PER 1030 1040	Yrjö III:n
+T20	LOC 1151 1162	Appalakkien
+T21	PER 1333 1348	William Johnson
+T22	LOC 1547 1556	Virginian
+T23	PER 1587 1606	John Murray Dunmore
+T24	LOC 1680 1691	Virginiasta
+T25	DATE 1898 1913	Syyskuussa 1773
+T26	PER 1925 1937	Daniel Boone
+T27	LOC 1976 1986	Kentuckyyn
+T28	PER 2174 2180	Boonen
+T29	PER 2296 2302	Boonen
+T30	LOC 2333 2344	Appalakkien
+T31	DATE 2368 2372	1774
+T32	LOC 2431 2436	Ohion
+T33	PER 2503 2508	Logan
+T34	LOC 2608 2625	" Wakatomicasta "
+T35	LOC 2651 2656	Ohion
+T36	PER 2773 2778	Logan
+T37	PER 2941 2948	Dunmore
+T38	LOC 2974 2990	Länsi-Virginiaan
+T39	PER 3064 3073	Cornstalk
+T40	PER 3145 3152	Loganin
+T41	PER 3185 3194	Cornstalk
+T42	LOC 3287 3299	Delawareista
+T43	DATE 3347 3361	Elokuussa 1774
+T44	LOC 3362 3377	Pennsylvaniasta
+T45	LOC 3413 3429	" Wakatomicaan "
+T46	PER 3532 3543	Cornstalkin
+T47	PER 3642 3653	Cornstalkin
+T48	PER 3736 3744	Dunmoren
+T49	LOC 3795 3807	Kanawha-joen
+T50	LOC 3815 3831	länsi-Virginiaan
+T51	PER 3838 3847	Cornstalk
+T52	DATE 3922 3946	10. päivä lokakuuta 1774
+T53	LOC 3947 3955	Kanawha-
+T54	LOC 3959 3969	Ohiojokien
+T55	LOC 3985 4003	Point Pleasantissa
+T56	PER 4046 4055	Cornstalk
+T57	PER 4059 4064	Logan
+T58	LOC 4138 4147	Virginian
+T59	PER 4374 4385	Cornstalkin
+T60	LOC 4452 4460	Ohiojoen
+T61	PER 4474 4482	Dunmoren
+T62	PER 4567 4576	Cornstalk
+T63	PER 4785 4794	Cornstalk
+T64	LOC 4833 4841	Ohiojoen
+T65	PER 5035 5046	Cornstalkin
+T66	PER 5121 5134	Blue Jacketin
+T67	LOC 5189 5198	Englannin
+T68	LOC 5225 5237	Yhdysvaltoja
+T100001	PER 6 14	Dunmoren
+T100002	PER 26 34	Dunmoren
+T100003	LOC 366 381	Camp Charlotten
+T100004	PER 398 406	Dunmoren

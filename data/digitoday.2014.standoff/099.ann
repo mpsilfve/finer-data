@@ -1,0 +1,12 @@
+T1	ORG 0 6	Airbnb
+T2	ORG 22 28	Teslan
+T3	PRO 29 39	S-mallissa
+T4	ORG 54 60	Teslan
+T5	LOC 177 188	Phoenixissa
+T6	LOC 189 199	Arizonassa
+T7	PRO 212 235	Airbnb-majoituspalvelun
+T8	ORG 250 256	Teslan
+T9	PRO 257 273	Model S -autossa
+T10	ORG 320 328	Airbnb:n
+T11	ORG 461 471	NBA-liigan
+T12	ORG 514 522	Engadget

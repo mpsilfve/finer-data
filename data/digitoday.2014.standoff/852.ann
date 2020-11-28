@@ -1,0 +1,14 @@
+T1	ORG 150 157	Googlen
+T2	PER 203 217	Cecilia Abadie
+T3	PRO 284 304	Google Glass -lasien
+T4	ORG 316 344	Kalifornian liikkuva poliisi
+T5	LOC 488 498	San Diegon
+T6	PER 626 636	John Blair
+T7	PRO 940 954	Google Glassin
+T8	PER 997 1003	Abadie
+T9	LOC 1053 1064	Kalifornian
+T10	ORG 1351 1368	Los Angeles Times
+T100001	ORG 284 290	Google
+T100002	LOC 316 327	Kalifornian
+T100003	ORG 940 946	Google
+T100004	LOC 1351 1362	Los Angeles

@@ -1,0 +1,10 @@
+T1	ORG 189 212	Helsingin työväenopisto
+T2	ORG 215 238	Helsingin työväenopisto
+T3	PRO 392 426	Kursor-kurssinhallintajärjestelmän
+T4	ORG 478 491	Työväenopisto
+T5	ORG 769 783	Työväenopiston
+T6	ORG 881 887	Grynos
+T7	ORG 928 942	Työväenopiston
+T8	PRO 950 968	Kursor-järjestelmä
+T100001	LOC 189 198	Helsingin
+T100002	LOC 215 224	Helsingin

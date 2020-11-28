@@ -1,0 +1,14 @@
+Kiireen syytä ?
+Uusi WhatsApp Web paljastaa käyttäjien kuvia
+WhatsAppin tietokoneella toimiva selainversio saapui valitettavien tietoturvaongelmien kanssa , nuori tutkija selvitti .
+Viestipalvelu WhatsApp julkaisi itsestään tammikuussa tietokoneen selaimessa toimivan version , jolla palvelun tiedot voidaan pitää ajan tasalla älylaitteen ja tietokoneen kesken .
+Tämä Web-selainversio sisältää kuitenkin myös tietoturvaongelmia .
+Virheiden löytämiseen tarvittiin teini-ikäinen tutkija Indrajeet Bhuyan , joka raportoi havaintonsa tietoturvayhtiö Sophokselle .
+17-vuotiaan tutkijan mukaan ongelmat tekevät tyhjiksi tietosuoja-asetuksia , jotka toimivat normaalisti WhatsAppin mobiilisovelluksessa .
+Joissakin tilanteissa WhatsApp Webin käyttäjät voivat nähdä valokuvia , jotka eivät olleet tarkoitettu heidän silmilleen .
+WhatsAppissa valokuvan voi tuhota laitteesta lähettämisen jälkeen , jolloin vastaanottaja näkee vain sumennetun version kuvasta .
+Bhuyanin mukaan hänen mobiililaitteesta lähettämänsä ja sitten tuhoamansa kuva näkyi kuitenkin ilman sumennusta Web-versiossa .
+Toinen ongelma on , että WhatsAppin käyttäjän profiilikuva voi näkyä laajasti Web-versiossa , vaikka kuvan olisi rajoittanut mobiiliversiossa näkymään vain omille kontakteilleen .
+WhatsApp on pyrkinyt parantamaan käyttäjiensä tietoturvaa salaamalla viestili ikenteen Android-käyttäjistä alkaen .
+On epäselvää , johtuvatko WhatsApp Webin ongelmat yksinkertaisesti sen liian hätäisestä julkaisusta ja/tai huolimattomasta koodauksesta .
+Sophoksen mielestä olisi voinut olettaa , että kumpikin näistä virheistä olisi korjattu jo ennen julkaisua .

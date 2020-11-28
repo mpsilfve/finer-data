@@ -1,0 +1,14 @@
+Galaxy S5:n kamerakuolemat " hyvin rajallinen ongelma "
+Samsungin lippulaivapuhelimen kamerassa on ilmennyt vakava ongelma , joka estää kuvaamisen kokonaan .
+Yhtiön mukaan vika ilmenee varsin rajoitetusti .
+Korealainen Samsung Electronics antoi Reutersille päivitetyn lausunnon maailmalla uutisoidusta ongelmasta Galaxy S5 -älypuhelimen kamerassa .
+Eri lähteiden mukaan kamera saattaa esittää " camera failure " -virheilmoituksen , minkä jälkeen kameraa ei voi enää käyttää ollenkaan .
+– Olemme saaneet selville , että ongelma on havaittu hyvin rajallisessa määrässä varhaisen tuotannon Galaxy S5 -kappaleita ja se johtui rom-komponentista ( read only memory ) , joka tallentaa kameran toimintaan tarvitun informaation , Samsung lausui uutistoimisto Reutersille .
+Ongelmasta on saatu ilmoituksia Yhdysvalloissa ja joissakin muissa maissa .
+Suomen Samsungilla ei ollut antaa aamupäivällä paikallista tietoa , mutta asiaan luvattiin palata , kunhan " Ruotsissakin herätään " aamuun .
+Puhelinta myyvän Gigantin telemyyntipäällikkö Toni Kekola ei ollut vastaanottanut ilmoituksia kameraviasta , vaikka myymälät kyllä yleensä infoavat sellaisista ongelmista , jotka edellyttävät laitteen vaihtoa .
+Elisasta kerrotaan , ettei viasta ole kantautunut ilmoituksia .
+Ja niitä olisi pitänyt jo tulla , jos ongelma esiintyisi edes osassa puhelimia , operaattorissa uskotaan .
+Myöskään Soneralla ei ole tiedossa asiaan liittyviä tapauksia .
+Päivitetty Elisan antamilla tiedoilla .
+Päivitetty Soneran antamilla tiedoilla .

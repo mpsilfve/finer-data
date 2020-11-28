@@ -1,0 +1,13 @@
+T1	PER 0 9	Elon Musk
+T2	PRO 52 71	Tesla-sähköautoista
+T3	PRO 75 99	SpaceX-avaruusraketeista
+T4	PER 121 130	Elon Musk
+T5	PER 251 260	Elon Musk
+T6	PRO 270 281	Twitterissä
+T7	LOC 468 476	Texasiin
+T8	PER 501 505	Musk
+T9	PRO 577 599	Formula SAE -kilpailun
+T10	PER 675 679	Musk
+T11	LOC 745 758	Los Angelesin
+T12	LOC 762 776	San Franciscon
+T13	ORG 995 1005	Techcrunch

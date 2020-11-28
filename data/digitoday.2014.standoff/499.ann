@@ -1,0 +1,25 @@
+T1	LOC 21 30	Britannia
+T2	ORG 36 47	Anonymousia
+T3	PER 76 92	Edward Snowdenin
+T4	LOC 147 162	Ison-Britannian
+T5	ORG 269 277	NBC News
+T6	LOC 280 295	Ison-Britannian
+T7	ORG 369 377	NBC News
+T8	PER 385 401	Edward Snowdenin
+T9	ORG 661 676	Anonymous-liiga
+T10	ORG 799 827	Britannian tiedustelupalvelu
+T11	ORG 828 834	GCHQ:n
+T12	ORG 895 906	Anonymousia
+T13	DATE 1003 1016	vuodelta 2012
+T14	PRO 1037 1052	Rolling Thunder
+T15	ORG 1140 1151	Anonymousin
+T16	LOC 1522 1531	Britannia
+T17	ORG 1628 1637	F-Securen
+T18	PER 1654 1668	Mikko Hyppönen
+T19	PRO 1705 1716	Twitterissä
+T20	ORG 1743 1767	Britannian hallituksesta
+T21	PER 2025 2033	Hyppönen
+T22	LOC 2065 2080	Ison-Britannian
+T23	ORG 2305 2316	Anonymousin
+T100001	LOC 799 809	Britannian
+T100002	LOC 1743 1753	Britannian

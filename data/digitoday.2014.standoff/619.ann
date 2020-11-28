@@ -1,0 +1,10 @@
+T1	ORG 25 43	Australian poliisi
+T2	ORG 116 134	Australian poliisi
+T3	ORG 317 336	Australian poliisin
+T4	PER 360 373	Katie Sanders
+T5	ORG 646 664	Australian poliisi
+T6	ORG 777 783	Neowin
+T100001	LOC 25 35	Australian
+T100002	LOC 116 126	Australian
+T100003	LOC 317 327	Australian
+T100004	LOC 646 656	Australian

@@ -1,0 +1,11 @@
+T1	ORG 52 68	Viestintävirasto
+T2	PRO 98 127	CTB-Locker-kiristysohjelmasta
+T3	ORG 130 147	Viestintäviraston
+T4	ORG 148 171	Kyberturvallisuuskeskus
+T5	PRO 179 191	CTB-Lockerin
+T6	DATE 219 230	tammikuussa
+T7	LOC 328 336	Suomesta
+T8	ORG 397 423	Kyberturvallisuuskeskuksen
+T9	PRO 887 899	CTB-Lockerin
+T10	PRO 1417 1443	Windows-käyttöjärjestelmän
+T11	PRO 1507 1524	CTB-Lockeristakin

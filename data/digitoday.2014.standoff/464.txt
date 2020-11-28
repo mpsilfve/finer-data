@@ -1,0 +1,24 @@
+Pelottava paljastus — Google Chrome jo kuukausia puhetta nauhoittavavakoilutyökalu
+Vikaan tehtiin heti korjaus , mutta sitä ei julkaistu .
+Hyödyntämällä Google Chromessa olevaa haavoittuvuutta ja yhdistämällä se puheentunnistukseen , mikä tahansa verkkosivu voi kuunnella tietokoneen mikrofonilla surffaajan tekemisiä ja keskusteluja .
+Asiasta kertoo israelilainen web-kehittäjä Tal Ater blogissaan .
+Ater ylläpitää Annyang-puheentunnistuskirjastoa
+Asiasta uutisoi myös The Hacker News .
+Hyökkäyksessä käytetään Chromessa olevaa puheentunnistusrajapintaa .
+Kun https-salatulle sivulle on kerran annettu lupa käyttää puheentunnistusta , se tekee sen automaattisesti myös seuraavilla kerroilla sivulle saavuttaessa .
+Sivu voi avata huomaamatta käyttäjälle näkymättömän selainikkunan , joka alkaa nauhoittaa .
+Kun nauhoitus tehdään omassa ikkunassaan , ei Chromen välilehtitasolla näytettävää nauhoitussymbolia näy lainkaan .
+Koska ikkuna jää auki , myös nauhoitus jää päälle , vaikka käyttäjä poistuukin mikrofonin aktivoineelta sivustolta .
+Riittää , että Chrome on käynnissä .
+Äänen kaappaaminen on puheohjauksen yleistymisen myötä aiempaa suurempi uhka .
+Ihmiset tekevät hakuja ja navigoivat puhekäskyin , ja kaikki nämä tiedot voivat päätyä vääriin käsiin .
+Tal Ater sanoo löytäneensä haavoittuvuuden jo lähes neljä kuukautta sitten ja ottaneensa yhteyttä Googleen syyskuussa .
+Google teki korjauksen kahdessa viikossa , ja Tal Ater sai löydöksestään 30\_000 dollarin palkkion .
+Oudon asiasta tekee se , että korjausta ei julkaistu .
+– Puolitoista kuukautta myöhemmin kysyin , miksei korjausta julkaistu .
+Vastaus oli , että standardiryhmässä pohditaan yhä , mikä on toiminnallisuuden oikea tapa toimia .
+" Mitään ei ole vielä päätetty " , Ater kirjoittaa .
+Ater huomauttaa myös , että toiminnallisuuden tarkat toimintatavat määriteltiin selvästi jo lokakuussa 2012 .
+Korjauksen viivästyminen antaa sijaa monenlaisille epäilyille , sillä Yhdysvaltain viranomaisten tiedetään hyödyntävän nollapäivähaavoittuvuuksia , joista he saavat tiedon välittömästi .
+Tal Aterin julkaisemassa videossa demonstroidaan , kuinka salakuuntelu toimii .
+Yhdistettynä tekstintunnistukseen kaikki tietokoneen ääressä sanottu muuttuu tekstiksi , josta voi vaikkapa poimia avainsanoja .

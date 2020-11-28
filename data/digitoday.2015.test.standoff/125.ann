@@ -1,0 +1,51 @@
+T1	ORG 0 8	Guardian
+T2	ORG 11 16	Apple
+T3	ORG 60 66	Applen
+T4	PRO 100 117	Project Titanista
+T5	ORG 142 152	Guardianin
+T6	ORG 193 198	Apple
+T7	LOC 251 262	Concordissa
+T8	ORG 286 292	Applen
+T9	ORG 422 435	Mercedes Benz
+T10	ORG 439 444	Honda
+T11	LOC 542 572	GoMentum Station -niminen alue
+T12	ORG 660 674	The Guardianin
+T13	ORG 714 720	Applen
+T14	LOC 724 742	GoMentum Stationin
+T15	DATE 763 774	toukokuussa
+T16	ORG 826 832	Applen
+T17	ORG 833 857	Special Project -yksikön
+T18	PER 858 870	Frank Fearon
+T19	DATE 1002 1013	toukokuussa
+T20	LOC 1014 1032	GoMentum Stationin
+T21	PER 1075 1084	Jack Hall
+T22	PER 1095 1105	Fearonille
+T23	LOC 1263 1279	GoMentum Station
+T24	ORG 1532 1537	Apple
+T25	ORG 1694 1706	Guardianille
+T26	ORG 1709 1715	Applen
+T27	PER 1732 1740	Tim Cook
+T28	ORG 1805 1811	Applen
+T29	ORG 1851 1859	Teslalta
+T30	ORG 1904 1919	Mercedes Benzin
+T31	LOC 1920 1930	Piilaakson
+T32	ORG 1981 2000	A123-akkukehittäjän
+T33	ORG 2024 2030	Google
+T34	ORG 2033 2038	Tesla
+T35	ORG 2041 2051	Volkswagen
+T36	ORG 2054 2067	Mercedes-Benz
+T37	LOC 2142 2153	Kalifornian
+T38	ORG 2307 2313	Applen
+T39	LOC 2338 2356	GoMentum Stationin
+T40	ORG 2369 2406	Contra Costa Transportation Authority
+T41	PER 2422 2436	Randy Iwasakin
+T42	ORG 2444 2450	Applen
+T43	ORG 2566 2571	Tesla
+T44	LOC 2594 2614	GoMentum Stationista
+T45	DATE 2661 2672	huhtikuussa
+T46	ORG 2895 2901	Teslan
+T100001	LOC 108 117	Titanista
+T100002	PER 422 430	Mercedes
+T100003	PER 431 435	Benz
+T100004	PER 1904 1912	Mercedes
+T100005	PER 1913 1919	Benzin

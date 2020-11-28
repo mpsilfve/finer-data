@@ -1,0 +1,79 @@
+Testi : Galaxy S5:ssä on kaksi todellista uudistusta — kannattaako siltikään ?
+Galaxy S5 esittelee kaksi merkittävää uudistusta : vedenkestävyyden ja sormenjälkilukijan .
+Mutta oikeuttavatko ne tymäkän hintalapun ?
+Samsungilla on ongelma .
+Miten pysyä puhelimien kehityksen terävimmässä kärjessä ?
+Huipulta on nimittäin yleensä vain yksi tie .
+Yhtiö on lähestynyt ongelmaa jo useamman vuoden ajan työntämällä uusiin Galaxy S -sarjalaisiinsa ja Note-laitteisiin niin paljon tavaraa ja ominaisuuksia kuin suinkin vain mahdollista .
+Niin tälläkin kertaa .
+Helmikuussa julkistettu Galaxy S5 tuli kauppoihin Suomessa viime viikolla .
+Vähän parempi
+Yksi näkyvimmistä uudistuksista on uusittu takakansi .
+Sileä muovi on korvattu kuvioinnilla , joka istuu aiempaa paremmin käteen .
+Takakannen materiaali on polykarbonaattilasikuitu .
+Otetta parantavan gripin määrä vaihtelee puhelimen värin mukaan : valkoinen on liukkain ja mustasta sekä sinisestä saa tukevimman otteen .
+Syynä laitteen puhtaana pitäminen , sillä grippi kerää likaa .
+Konepellin alla on tehty pieniä parannuksia S4:ään verrattuna .
+Neliydinprosessorin tehot ovat nousseet 1,6 gigahertsistä 2,5:een , näytön koko on kasvanut 5 tuumasta 5,1:een ja kameran megapikselimäärä 13:sta 16:een .
+Vastaavasti painoa on tullut lisää 15 grammaa .
+Usb-portti on muuttunut kakkosmallisesta kolmoseksi , joka on fyysisesti erilainen .
+Lataaminen käy yhä kakkospiuhoillakin , mutta kolmoskaapelia käytettäessä ( jollaista ei paketissa tule ) lataus ja tiedonsiirto on nopeampaa .
+Laitteessa on erinomainen tärinävaste .
+Myös akkukesto on älypuhelimien sarjassa mainio .
+Niin ikään laadukas ja kirkas näyttö ansaitsee kehut .
+Sykettä ja skannausta
+Laitteistopuolen näkyviin uudistuksiin kuuluvat sykemittari sekä sormenjälkilukija .
+Edellinen on sijoitettu salamavalon alle ja jälkimmäinen integroitu kotinäppäimeen .
+Sykemittarin käyttö on helppoa .
+Sitä käytetään S Health -ohjelman kautta , jolloin Samsungille luovutetaan henkilötiedot syntymäpäivää ja massaa myöten .
+Sormea pidetään vähän aikaa paikallaan , minkä jälkeen laite palauttaa sykkeen .
+Mielenkiintoiseksi tuloksen tekee se , että puhelimen tulos on 5 bpm:ää vähemmän kuin samaan aikaan sykettä mitanneen Gear Fitin tulos .
+Fitistä kerromme lisää erillisessä artikkelissa .
+Sormenjälkilukija on monimutkaisempi tapaus .
+Hakkerit ovat sen jo ehtineet murtaa , mutta harvan käyttäjän sormista aletaan silti valoksia tehdä väärinkäytöksiä varten .
+Paypal-tunnuksen kytkemistä sormenjälkitunnistukseen kannattaa silti miettiä kahdesti .
+Samsungin mukaan sormenjäljet tallennetaan laitteelle , eikä niistä kerätä tietokantaa .
+Sormenjäljen rekisteröinti on helppoa .
+Se tapahtuu kahdeksalla pyyhkäisyllä , ja maksimissaan voi rekisteröidä kolme sormea .
+Skanneri ei ole salamannopea , ja lukeminen ei onnistu läheskään aika .
+Jos yrityskerrat tulevat täyteen , luuri avataan toissijaisella salasanalla .
+Tunnistusta pitäisi auttaa , jos osa pyyhkäistyistä rekisteröinnin yhteydessä hieman sivuttain .
+Tällöin sormen ei tarvitse olla kohtisuorassa puhelinta avattaessa .
+Vääriä positiivisia tunnistuksia ei tullut .
+Eli sormipelillä eivät asiattomat päässeet puhelimeen käsiksi .
+Kevät tuli , lumi suli , Galaxy sanoi puli puli
+S5:n ehkä merkittävin uudistus on vedenkestävyys .
+Sateen yllättäessä älyluurin omistajalle tulee yleensä paniikki , mutta puhelimen IP67-luokituksen mukaan se on pölyltä ja vedeltä suojattu .
+Luokitus lupaa vesitiiviyttä metrin syvyyteen asti , eikä puhelin ollut uitto- ja kahvikuppitesteistämme moksiskaan .
+Ellei sitten sitä lasketa miinukseksi , että sormenjälkitunnistus ei toimi puhelimen ollessa puoliksi veden alla .
+Näytön kosketusherkkyyttä voi säätää , mutta Lumian tasolle ei päästä .
+Ohjaus toimii villasormikkailla parhaimmillaankin tyydyttävästi , mutta nahkasormikkailla käyttö ei onnistu .
+Kameran kuvanlaatu on hyvä , mutta erikoisolosuhteissa se kompuroi .
+Zoomaaminen hämärässä on kangertelevaa ja salama polttaa kohteet ikävästi puhki .
+Kamerassa ei ole myöskään erityisen hyvää kuvanvakausta .
+Käsien tärinä kuvaustilanteessa näkyy selvästi myös lopputuloksessa .
+Toisaalta hyvissä olosuhteissa otetut kuvat näyttävät 16 megapikselin kennolla todella hyvältä .
+Yksinkertaisesta kamerasta kiinnostuneiden kannattaa kokeilla Googlen uutta Kamera-sovellusta .
+Hiiiirveästi softaa
+Samsungin ja Googlen valtataistelu Samsung-käyttäjien sielusta saa häiritsevän näkyviä muotoja .
+Soittajan puhelinnumeroa tallennettaessa puhelin tiedustelee , että aivanko varmasti käyttäjä haluaa tallentaa numeron Googlen pilveen Samsungin vastaavan sijasta .
+Sama rinnakkaisuus toistuu tiedostojen varmuuskopioinnissa .
+Samaten Samsung tuputtaa sovelluksia aktiivisesti omasta sovelluskaupastaan .
+Puhelin on työnnetty täyteen ohjelmallisesti toteutettuja ominaisuuksia .
+Näitä ovat muun muassa näytön mustavalkoiseksi muuttava ultravirransäästötila , wlan- ja mobiilidatakaistat yhdistävä nopea lataustoiminto sekä mahdollisuus piilottaa tietoja sormenjälki- tai muun tunnistuksen taakse .
+Kuten tähänkin asti on tapahtunut , Samsung tuo myöhemmin osan S5:n ohjelmallisesti toteutetuista ominaisuuksista myös S4:ään ja mahdollisesti vanhempiinkin malleihin .
+Yhtiö ei ole vielä kertonut , mitä nämä ovat ja milloin ne tulevat , mutta päivityspaketti on varmasti tulossa .
+Kaikki ei ole kultaa mikä on Galaxya
+Kaikkia asioita ei ole parannettu .
+S5:n tekstinsyöttö ja automaattikorjaus kuuluvat edelleen sarjaan " maailman ärsyttävin ja vähän päälle " .
+Osaavat ihmiset vaihtavat nämä toisiin .
+Puhelin oli testiin tullessaan selkeän buginen : valikot pomppivat esiin pyytämättä ja puhelin antoi värinävastetta omia aikojaan .
+Testijakson aikana tulleen päivityksen jälkeen näitä ei ole näkynyt .
+Ärsyttäviä ominaisuuksia listatessa pitää mainita vielä yksi : Samsungin Flipboard-sovellusklooni eli My Magazines -sovellus on yhtä kuin vasemmanpuoleisin työpöytänäkymä .
+Tämä tarkoittaa sitä , että vikapyyhkäisy väärään suuntaan avaa aikakauslehtisovelluksen .
+Moitteiden jälkeen on silti todettava , että onhan tässä puhelimessa silti jotakuinkin kaikki .
+Se on laitteistoltaan ja ohjelmistotarjonnaltaan huippulaatua ja käyttötuntumakin menettelee .
+Ainakaan S4:stä ei kenenkään kannata omilla rahoillaan päivittää .
+Muiden S5-ostajakandidaattien kannattaa esittää itselleen vanha kysymys : Kannattaako maksaa uudesta luurista paljon rahaa vai ostaa sukupolvi vanhempi laite ja saada reilusti parempi hinta-laatusuhde .
+S5:n hinta on noin 650–700 euroa , edellisen sukupolven puhelimen saa parhaimmillaan yli pari sataa halvemmalla .
+Ovatko vedenkestävyys ja sormenjälkilukija sen arvoisia ?

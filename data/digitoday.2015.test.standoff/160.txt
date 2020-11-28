@@ -1,0 +1,12 @@
+Suomessa myydyssä wlan-reitittimessä uhka : Hakkeri voi esiintyä sinuna
+Suomessakin myynnissä olleesta Belkin-merkkisestä wlan-reitittimestä on löytynyt vakavia tietoturva-aukkoja , jotka voivat antaa hakkerille mahdollisuuden vakoilla ja ohjata verkkoliikennettä .
+Yhdysvaltojen tietoturvaviranomainen US-Cert varoittaa langattomasta Belkin N600 dual-band N+ -reitittimestä , josta on löytynyt useita vakavia tietoturva-aukkoja .
+Aukkojen avulla hakkerit voivat esimerkiksi vakoilla wlan-reitittimen kautta kulkevaa verkkoliikennettä ja ohjata tukiasemaan yhteydessä oleva käyttäjä haluamiensa verkkosivujen sijasta haittaohjelmia tartuttaville verkkosivuille tai huijaussivustoille .
+Lisäksi reitittimen kautta on mahdollista tehdä cross-site-request-väärennös , eli hakkeri saattaa pystyä käyttämään verkkopalveluja käyttäjän oikeuksilla , jos käyttäjä on samanaikaisesti kirjautuneena johonkin verkkopalveluun .
+Hakkeri saattaa tehdä erilaisia toimintoja reitittimen kautta , jolloin se näyttää verkkopalvelun kannalta tulevan oikean käyttäjän ip-osoitteesta ja luulee niitä käyttäjän suorittamaksi tai sallimaksi toiminnaksi .
+US-Certin mukaan vaarantuneen Belkin-reitittimen tyyppinumero on F9K1102 v2 , ja sen laiteohjelmiston versio on 2.10.17 tai mahdollisesti aikaisempi .
+Hakkeri pystyy myös estämään laitteen etäpäivitykset sekä asentamaan siihen sovelluksia .
+Yksi laitteen riskitekijöistä on , ettei sitä ole oletuksena suojattu salasanalla .
+Tämän takia lähiverkon alueella oleva hyökkääjä voi päästä käsiksi laitteen asetuksiin ja muuttaa niitä .
+US-Certin mukaan huolestuttavaa on myös , ettei käyttäjä pysty sulkemaan havaituista tietoturva-aukoista esimerkiksi asetuksia muuttamalla .
+Paras keino on suojata reitittimen asetukset vahvalla salasanalla ja päästää vain luotetut henkilöt kytkeytymään laitteeseen .

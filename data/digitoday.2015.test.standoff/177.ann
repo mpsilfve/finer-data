@@ -1,0 +1,63 @@
+T1	PRO 0 16	Marshall-puhelin
+T2	LOC 31 38	Oulussa
+T3	ORG 83 93	Marshallin
+T4	ORG 178 184	Nokian
+T5	ORG 250 260	Marshallin
+T6	DATE 302 311	elokuusta
+T7	LOC 352 361	Lontoossa
+T8	PRO 375 404	Marshall London -älypuhelinta
+T9	LOC 430 437	Oulussa
+T10	PER 541 555	Pekka Väyrynen
+T11	ORG 556 564	Creoirin
+T12	LOC 716 724	Aasiassa
+T13	PRO 774 792	Marshall-puhelimen
+T14	PER 1023 1036	Paavo Hietala
+T15	ORG 1054 1062	Nokialle
+T16	ORG 1147 1153	Nokian
+T17	PER 1171 1179	Väyrynen
+T18	ORG 1216 1222	Creoir
+T19	ORG 1240 1252	Jolla-yhtiön
+T20	PRO 1271 1297	Sailfish-käyttöjärjestelmä
+T21	ORG 1314 1322	Nokialla
+T22	PRO 1335 1342	Meegoon
+T23	ORG 1416 1422	Jollan
+T24	ORG 1441 1447	Jollan
+T25	PRO 1498 1516	N9-Meego-puhelimen
+T26	ORG 1527 1535	Nokialla
+T27	PER 1538 1546	Väyrynen
+T28	ORG 1592 1600	Creoiria
+T29	ORG 1644 1652	Marshall
+T30	ORG 1673 1690	Zounds Industries
+T31	ORG 1717 1727	Marshallin
+T32	ORG 1821 1831	Zoundsilla
+T33	PRO 1861 1881	Marshall-puhelimessa
+T34	ORG 1993 2010	Zounds Industries
+T35	ORG 2025 2033	Creoirin
+T36	PRO 2080 2106	Marshall-merkkinen puhelin
+T37	PER 2173 2181	Väyrysen
+T38	PRO 2202 2220	Marshall-puhelimen
+T39	PER 2356 2364	Väyrynen
+T40	PRO 2568 2586	Marshall-puhelimen
+T41	ORG 2701 2707	Zounds
+T42	ORG 2888 2896	Zoundsin
+T43	ORG 3183 3191	Marshall
+T44	PER 3222 3236	Pekka Väyrynen
+T45	ORG 3478 3491	Tag Heuerista
+T46	ORG 3495 3503	Diorista
+T47	PER 3599 3607	Väyrynen
+T48	PER 3617 3625	Väyrynen
+T49	ORG 3659 3665	Pradan
+T50	DATE 3716 3727	vuonna 2007
+T51	ORG 3747 3751	LG:n
+T52	ORG 3800 3806	Pradan
+T53	ORG 3858 3864	Pradaa
+T54	PER 3867 3875	Väyrysen
+T55	ORG 3883 3891	Marshall
+T56	ORG 4023 4031	Zoundsin
+T57	ORG 4035 4043	Creoirin
+T58	DATE 4095 4103	syyskuun
+T59	LOC 4131 4139	Suomessa
+T60	ORG 4140 4152	TeliaSoneran
+T61	ORG 4187 4197	Marshallin
+T100001	LOC 384 390	London
+T100002	PER 3482 3491	Heuerista

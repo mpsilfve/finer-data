@@ -1,0 +1,7 @@
+Uusi osoite Suomen tietoturvaan
+Halusitpa tietoa uusimmista Microsoft-paikkauksista tai merkittävistä yhteiskuntaa koskevista tietoturvapoikkeamista , on osoitteena Kyberturvallisuuskeskus.fi .
+Kyberturvallisuuskeskus aloitti toimintansa vuodenvaihteessa ja samalla monien tuntema viranomainen Cert-fi sulautui osaksi uutta keskusta .
+Tiedotteen mukaan muutos näkyy nyt keskiviikosta alkaen Cert-fi:n sivuilla logojen ja nimen muutoksina , mutta sivujen asettelu on ennallaan .
+Yhteistyötahoille ennalta tutut Cert-palvelut pysyvät entisellään , kuten myös yhteysosoitteet ja puhelinnumerot .
+Viestintäviraston alainen Kyberturvallisuuskeskus julkaisee jatkossa osoitteessa www.kyberturvallisuuskeskus.fi ne tietoturva-artikkelit , varoitukset ja haavoittuvuudet , joita on tähän asti voinut lukea Cert-fi:stä .
+Tosin vanhakin verkko-osoite Cert.fi toimii yhä ja Kyberturvallisuuskeskus.fi itse asiassa ohjaa siihen .

@@ -1,0 +1,82 @@
+T1	ORG 0 21	Yhdysvaltain laivasto
+T2	ORG 22 43	Yhdysvaltain laivasto
+T3	ORG 61 84	Yhdysvaltain asevoimien
+T4	ORG 309 331	Yhdysvaltain laivaston
+T5	ORG 349 373	Siirtokuntien laivastoon
+T6	ORG 382 405	Siirtokuntien kongressi
+T7	EVENT 414 438	Yhdysvaltain vapaussodan
+T8	LOC 448 460	Yhdysvaltain
+T9	DATE 494 505	vuonna 1789
+T10	PRO 705 722	" Old Ironsides "
+T11	PRO 732 748	USS Constitution
+T12	DATE 915 934	30. huhtikuuta 1798
+T13	DATE 975 986	Vuonna 1947
+T14	ORG 1047 1070	Siirtokuntien kongressi
+T15	LOC 1079 1094	Philadelphiassa
+T16	DATE 1119 1137	13. lokakuuta 1775
+T17	LOC 1245 1255	Amerikassa
+T18	ORG 1355 1377	Siirtokuntien laivasto
+T19	EVENT 1402 1426	Yhdysvaltain vapaussodan
+T20	DATE 1651 1671	27. maaliskuuta 1794
+T21	PRO 1744 1761	" United States "
+T22	PRO 1764 1781	" Constellation "
+T23	PRO 1785 1801	" Constitution "
+T24	DATE 1831 1842	vuoden 1812
+T25	ORG 1882 1917	Britannian kuninkaallisen laivaston
+T26	EVENT 1943 1969	Yhdysvaltain sisällissodan
+T27	LOC 2153 2164	Yhdysvallat
+T28	EVENT 2231 2260	Ensimmäisessä maailmansodassa
+T29	LOC 2401 2407	Japani
+T30	ORG 2422 2444	Yhdysvaltain laivaston
+T31	DATE 2463 2474	vuoden 1941
+T32	LOC 2504 2519	Pearl Harboriin
+T33	ORG 2556 2577	Yhdysvaltain laivasto
+T34	ORG 3098 3118	Tyynenmeren laivasto
+T35	ORG 3122 3139	Atlantin laivasto
+T36	ORG 3640 3649	Laivaston
+T37	LOC 3724 3736	Yhdysvaltain
+T38	LOC 4124 4136	Yhdysvaltain
+T39	ORG 4227 4248	Yhdysvaltain laivasto
+T40	ORG 4422 4443	Yhdysvaltain laivasto
+T41	LOC 4638 4650	Yhdysvaltain
+T42	PRO 4763 4772	CV-67:stä
+T43	PRO 5010 5028	STOVL-lentokoneita
+T44	EVENT 5151 5171	toisen maailmansodan
+T45	PRO 5496 5519	USS New York ( LPD-21 )
+T46	PRO 5559 5582	USS Somerset ( LPD-25 )
+T47	PRO 6760 6788	USS Bainbridge ( DD-1 ) :stä
+T48	ORG 6886 6907	Yhdysvaltain laivasto
+T49	PRO 7160 7172	Iowa-alukset
+T50	DATE 7195 7199	1990
+T51	DATE 7241 7245	2006
+T52	PRO 7366 7391	Tomahawk-risteilyohjuksin
+T53	PRO 7423 7445	USS Kearsarge ( BB-5 )
+T54	ORG 7480 7488	Laivasto
+T55	ORG 7611 7634	Pääasiallinen laivaston
+T56	ORG 7652 7656	SEAL
+T57	ORG 7659 7674	U.S. Navy SEALs
+T58	ORG 8140 8172	Yhdysvaltain laivastoakatemiasta
+T59	ORG 8175 8207	laivaston reserviupseerikoulusta
+T100001	LOC 0 12	Yhdysvaltain
+T100002	LOC 22 34	Yhdysvaltain
+T100003	LOC 61 73	Yhdysvaltain
+T100004	LOC 309 321	Yhdysvaltain
+T100005	LOC 349 362	Siirtokuntien
+T100006	LOC 382 395	Siirtokuntien
+T100007	LOC 414 426	Yhdysvaltain
+T100008	LOC 1047 1060	Siirtokuntien
+T100009	LOC 1355 1368	Siirtokuntien
+T1000010	LOC 1402 1414	Yhdysvaltain
+T1000011	LOC 1882 1892	Britannian
+T1000012	LOC 1943 1955	Yhdysvaltain
+T1000013	LOC 2422 2434	Yhdysvaltain
+T1000014	LOC 2556 2568	Yhdysvaltain
+T1000015	LOC 3098 3109	Tyynenmeren
+T1000016	LOC 3122 3130	Atlantin
+T1000017	LOC 4227 4239	Yhdysvaltain
+T1000018	LOC 4422 4434	Yhdysvaltain
+T1000019	LOC 5500 5508	New York
+T1000020	LOC 5563 5571	Somerset
+T1000021	PER 6764 6774	Bainbridge
+T1000022	LOC 6886 6898	Yhdysvaltain
+T1000023	LOC 8140 8152	Yhdysvaltain

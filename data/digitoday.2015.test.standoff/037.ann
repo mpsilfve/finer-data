@@ -1,0 +1,29 @@
+T1	ORG 0 7	Netflix
+T2	ORG 210 219	Netflixin
+T3	ORG 424 430	Amazon
+T4	LOC 440 454	Yhdysvalloissa
+T5	PRO 455 484	Prime Instant Video -palvelun
+T6	ORG 533 542	Netflixin
+T7	DATE 613 624	joulukuussa
+T8	EVENT 719 732	IFA-messuilla
+T9	LOC 733 744	Berliinissä
+T10	ORG 745 756	Gizomodolle
+T11	PER 785 794	Neil Hunt
+T12	PRO 941 954	Amazon Primen
+T13	PER 1227 1231	Hunt
+T14	ORG 1238 1248	Gizmodolle
+T15	PER 1251 1255	Hunt
+T16	PER 1471 1475	Hunt
+T17	PRO 1504 1520	Netflix-palvelun
+T18	PRO 1590 1599	Netflixin
+T19	PER 1681 1685	Hunt
+T20	PER 1709 1715	Huntin
+T21	LOC 1763 1771	Suomessa
+T22	LOC 1825 1839	Yhdysvalloissa
+T23	LOC 1842 1850	Suomessa
+T24	ORG 1872 1879	Viaplay
+T25	ORG 1959 1978	Helsingin Sanomille
+T26	ORG 1993 2001	Viasatin
+T27	PER 2019 2036	Johannes Leppäsen
+T100001	ORG 941 947	Amazon
+T100002	LOC 1959 1968	Helsingin

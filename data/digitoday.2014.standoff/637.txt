@@ -1,0 +1,11 @@
+Hölmöläisten puuhaa : Tämäkö viestii bensa-automaatin tietoturvasta ?
+Jos menet bensa-asemalle ja huomaat kortinlukijan ympärillä turvateippiä , koetko olevasi turvassa ?
+Ensireaktion luulisi olevan , että tätä laitetta on näpelöity , eikä sitä uskalla käyttää .
+Samaa mieltä on tietoturvatutkija Brian Krebs , joka kuuli juuri tällaisesta menettelystä eräällä huoltoasemalla Yhdysvalloissa .
+Bensa-automaatin kortinlukijan ympärille oli kiedottu punaista teippiä , jossa oli sanat " identiteettiäsi suojelemassa " .
+Teipin tarkoitus oli viestiä , että kyseistä automaattia ei ole viritetty niin sanotulla skimmerillä , joka lukee maksukortin tiedot varkaille .
+Krebs kuitenkin epäilee , että teippiä myydään lähinnä tilanteisiin , joissa vahinko on jo tapahtunut , ja asiasta halutaan viestiä näkyvästi .
+Lisäksi teipin käyttäminen turvavälineenä vaikuttaa laiskalta ratkaisulta maksupäätteiden todellisen tietoturvan vankistamisen rinnalla , mikä tietysti voi myös olla merkittävä kustannus huoltoaseman pitäjälle .
+Krebsin mukaan teippi ei edes estä useimpia skimmauksia , jotka onnistuvat pumppujen teetetyillä yleisavaimilla .
+Mitä tulee alkuperäiseen ideaan teipistä luottamuksen herättäjänä , Brian Krebsin mukaan kokemus on samanlainen kuin aseistetun vartijan kohtaaminen paikallisessa kaupassa sen ryöstämisen jälkeen .
+Joskus turvallisuutta – oli se sitten aitoa tai lumeturvaa – ei kannata tunkea päin naamaa , koska vaikutus on päinvastainen .

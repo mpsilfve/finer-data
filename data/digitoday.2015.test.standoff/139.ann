@@ -1,0 +1,30 @@
+T1	ORG 0 4	YK:n
+T2	LOC 29 40	Englannissa
+T3	PER 55 63	Orwellin
+T4	PRO 64 72	1984:ssä
+T5	ORG 94 98	YK:n
+T6	PER 161 177	Joseph Cannataci
+T7	LOC 184 199	Ison-Britannian
+T8	PER 231 247	Jospeh Cannataci
+T9	ORG 255 271	The Guardianille
+T10	LOC 279 290	Englannissa
+T11	PER 338 353	George Orwellin
+T12	PRO 414 436	Vuonna 1984 -teoksessa
+T13	PER 449 456	Winston
+T14	LOC 560 569	Englannin
+T15	PER 635 648	George Orwell
+T16	PER 739 748	Cannataci
+T17	LOC 786 795	Englannin
+T18	PER 859 869	Cannatacin
+T19	PER 1229 1238	Cannataci
+T20	LOC 1529 1536	Geneven
+T21	PER 1561 1570	Cannataci
+T22	ORG 1579 1595	The Guardianille
+T23	PER 1633 1649	Edward Snowdenin
+T24	PER 1764 1773	Snowdenin
+T25	PER 1886 1895	Cannataci
+T26	ORG 1926 1950	Groningenin yliopistolta
+T27	PRO 1966 1976	Facebookia
+T28	PRO 1981 1990	Twitteriä
+T100001	DATE 414 425	Vuonna 1984
+T100002	LOC 1926 1937	Groningenin

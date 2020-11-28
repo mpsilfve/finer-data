@@ -1,0 +1,12 @@
+Linux-version lataussivu pyysi lahjoitusta — soppa oli heti valmis
+Elementary OS:n rahankeruu sai tylyn vastaanoton Linux-käyttäjiltä .
+Aivan alkuun tehtäköön selväksi , että suosittu Elementary OS on yhä ladattavissa ilmaiseksi , siitäkin huolimatta , että sen betaversion lataussivulle on ilmestynyt lahjoituspainike .
+Asiasta kertoneen Softpedian mukaan Elementary OS:n kehitystiimi on muuttanut lataussivustoa siten , että ladattaessa Freya-version toista betaversiota , ehdottaa sivusto 25 dollarin lahjoituksen tekemistä .
+Summa on kuitenkin mahdollista muuttaa nollaan käyttöjärjestelmän lataamiseksi ilmaiseksi .
+Vähemmän yllättäen Elementary OS:n kehitystiimin lahjoitustempaus on nostattanut raivon Linux-yhteisössä erityisesti Redditin foorumeilla .
+Linux-yhteisöä hiertää erityisesti se , että Elementary OS:n kehitystiimin mukaan ihmisten ei pidä aina olettaa , että he saavat kaiken ilmaiseksi .
+Tiimin mukaan Elementary OS:n kehityskustannukset ovat korkeat ja siksi he toivovat projektille vapaaehtoisia lahjoituksia .
+Koska ilmaisia lounaita ei ole , maksaa Linux-jakelun kehityksestä aina joku .
+Yleensä ei kuitenkaan loppukäyttäjä .
+Elementary OS Freyan toisen betaversion voi ladata täältä .
+Otsikkoa viilattu

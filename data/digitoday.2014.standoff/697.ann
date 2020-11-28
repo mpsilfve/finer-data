@@ -1,0 +1,30 @@
+T1	ORG 0 10	Facebookin
+T2	PER 11 19	Sandberg
+T3	ORG 31 38	Googlen
+T4	ORG 59 69	Facebookin
+T5	PER 90 105	Sheryl Sandberg
+T6	ORG 126 133	Googlen
+T7	ORG 209 216	Googlen
+T8	ORG 238 248	Facebookin
+T9	PER 249 266	Sheryl Sandbergia
+T10	DATE 285 296	vuonna 2008
+T11	LOC 357 369	Piilaaksossa
+T12	PER 372 382	Sandbergin
+T13	PER 463 471	Lucy Koh
+T14	DATE 502 512	lokakuussa
+T15	DATE 563 574	toukokuussa
+T16	ORG 582 590	Facebook
+T17	ORG 596 602	Google
+T18	ORG 639 643	Cnet
+T19	ORG 669 676	Googlea
+T20	LOC 693 703	Piilaakson
+T21	DATE 877 896	vuosina 2005 – 2009
+T22	ORG 1054 1059	Adobe
+T23	ORG 1062 1067	Apple
+T24	ORG 1070 1076	Google
+T25	ORG 1079 1084	Intel
+T26	ORG 1087 1093	Intuit
+T27	ORG 1096 1105	Lucasfilm
+T28	ORG 1109 1114	Pixar
+T29	DATE 1191 1202	vuoden 2009
+T30	DATE 1321 1336	syyskuussa 2011

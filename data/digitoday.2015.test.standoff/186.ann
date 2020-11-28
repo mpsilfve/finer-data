@@ -1,0 +1,14 @@
+T1	ORG 0 10	Toshibasta
+T2	ORG 64 74	Toshibasta
+T3	ORG 147 157	Olympuksen
+T4	ORG 201 208	Reuters
+T5	ORG 535 543	Toshiban
+T6	ORG 604 611	Toshiba
+T7	LOC 756 763	Japanin
+T8	ORG 812 822	Olympuksen
+T9	DATE 854 865	vuonna 2011
+T10	ORG 868 878	Toshibassa
+T11	PER 922 935	Hisao Tanakan
+T12	ORG 996 1003	Toshiba
+T13	DATE 1142 1153	huhtikuussa
+T14	ORG 1156 1163	Toshiba

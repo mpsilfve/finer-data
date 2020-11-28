@@ -1,0 +1,13 @@
+Onko sinulla joku näistä ulkoisista levyistä ?
+Tiedostot voi varastaa jakorvata haitakkeilla
+Seagaten ja LaCien wlan-kiintolevyistä on löytynyt kolme pahaa tietoturva-aukkoa .
+Seagaten ja LaCien nimellä myytävistä langattomista kiintolevyistä on löytynyt useita tietoturva-aukkoja , varoittaa Cert.org .
+Ensimmäinen aukko on levylle piilotettu telnet-palvelu , jossa on vakiosalasana .
+Telnet-yhteydellä on mahdollista päästä käsiksi levyyn ulkoapäin pääkäyttäjän oikeuksin .
+Toinen haavoittuvuus on levyn oletusasetuksissa päällä oleva forced browsing -ominaisuus .
+Jos käyttäjällä on pääsy laitteeseen , hän pystyy lataamaan sen sisällön kokonaisuudessaan itselleen .
+Kolmas haavoittuvuus antaa hyökkääjälle upload-oikeudet jakohakemistoksi tarkoitettuun /media/sda2:een .
+Jos hyökkääjällä on pääsy levyn sisältävään koti- tai yritysverkkoon , haavoittuvuuksia yhdistelemällä hän voi ladata itselleen levyn tiedostot ja korvata ne halutessaan haittaohjelmilla .
+Aukot koskevat Seagaten Wireless Plus Mobile Storage- ja Wireless Mobile Storage -tuotesarjoja sekä LaCien FUEL-levyjä .
+Haavoittuvuudet on korjattu levyjen 3.4.1.105-firmware-päivityksessä .
+Päivityksen voi ladata Seagaten sivulta , mutta se edellyttää levyn sarjanumeron antamista Seagatelle .

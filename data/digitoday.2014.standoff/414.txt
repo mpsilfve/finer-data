@@ -1,0 +1,12 @@
+SGI:n supertietokoneen suorittimet uivat jäähdytysnesteessä
+SGI:n ja Intelin uuden supertietokoneen radikaali jäähdytysjärjestelmä pienentää jäähdytyskuluja 95 prosentilla .
+Suorittimet pidetään viileinä upottamalla ne nesteeseen .
+Supertietokoneiden vaatima energia ja tila kutistuvat uuden jäähdytysmenetelmän ansiosta .
+Siinä jäähdytys tapahtuu 3M:n kehittämällä erikoisnesteellä , joka virtaa suoraan suorittimien päällä .
+SGI ICE X -supertietokone käyttää Intelin Xeon E5-2600 -suorittimia ja 3M:n kehittämää fluorilla käsiteltyä Novec-nestettä .
+Tiedotteen mukaan se auttaa alentamaan raskaan tietojenkäsittelyn ympäristövaikutuksia eikä se vahingoita elektroniikkaa tai esimerkiksi paperia .
+Tilaa vievän tavanomaisen jäähdytysjärjestelmän poistaminen vähentää laitteen tilantarpeen yhteen kymmenesosaan .
+Laite tarvitsee toimintalämpötilan ylläpitämiseen vain viisi prosenttia ilmajäähdytteisen koneen energiasta .
+Novec-neste viilennetään erillisen vesijäähdytysjärjestelmän avulla .
+Yksi suoraa nestejäähdytystä käyttävä supertietokone on jo toiminnassa .
+Toista ollaan rakentamassa Naval Research Laboratoryn , Lawrence Berkeley National Labin ja Schneider Electricin APC:n yhteiskäyttöön .

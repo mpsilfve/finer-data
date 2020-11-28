@@ -1,0 +1,16 @@
+Microsoft hikoilee Lumia 535:n kosketusongelmien kanssa : " Tämä onprioriteetti "
+Microsoftin mukaan jatkuvat ongelmat halpamallin käytössä on todellakin tiedostettu .
+Microsoftin Lumia 535 -älypuhelimen kosketusnäytöissä ilmennyt herkkyysongelma on ollut kantona Redmondin jätin kaskessa .
+Microsoft julkaisi jo kertaalleen ongelmaan korjauksen , mutta se ilmenee edelleen monilla Lumia 535 -käyttäjillä .
+Vika ilmenee kosketusnäytön yliherkkyytenä , mikä aiheuttaa muun muassa tahattomia käynnistyksiä .
+Kun esimerkiksi ohjelmalistaa selataan sormella , saattaa jokin sovellus tulkita pyyhkäisyliikkeen näpäytykseksi , jolloin kyseinen ohjelma käynnistyy .
+Microsoft tunnustaa ongelman ja etsii siihen kuumeisesti ratkaisua .
+Pahimmassa tapauksessa ongelmaa ei edes voi korjata ohjelmallisesti , vaan vika voi piillä puhelimen raudassa .
+– Olemme julkaisseet korjauksen 23. joulukuuta 2014 , jonka pitäisi korjata suurin osa ongelmista , mutta ei kaikilla asiakkailla , Microsoftilta todettiin yhtiön Italian foorumilla .
+– Tekninen tukemme täällä Suomessa kuin myös kehitystiimit Yhdysvalloissa ja Kiinassa tutkivat asiaa korkealla prioriteetilla .
+Korjausta odotellessa käyttäjien kannattaa tutustua julkaisemaamme FAQiin ( Usein kysytyt kysymykset ) .
+– Voimme vakuuttaa , että Microsoft suhtautuu tällaisiin ongelmiin erittäin vakavasti , ja eri tiimimme työskentelevät kiihkeästi korjatakseen ongelmat .
+Microsoftin usein kysyttyihin kysymyksiin voi tutustua täällä .
+Asiasta kertoi muun muassa Neowin .
+Ongelmat Lumia 535:n kosketuksessa tulivat selvästi esiin myös Digitodayn taannoisessa testissä .
+Lisäksi uudessa testissä kävi nopeasti selväksi , että laite ei toiminut kunnolla edes päivityksen jälkeen .

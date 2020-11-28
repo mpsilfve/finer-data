@@ -1,0 +1,17 @@
+T1	ORG 0 6	GSMA:n
+T2	ORG 110 116	GSMA:n
+T3	PER 139 152	Robert Conway
+T4	ORG 176 192	GSM Assosciation
+T5	PER 250 263	Robert Conway
+T6	DATE 328 332	1951
+T7	PER 335 341	Conway
+T8	ORG 375 381	GSMA:n
+T9	LOC 382 392	Barcelonan
+T10	EVENT 393 416	Mobile World Congressin
+T11	PER 455 463	Conwaytä
+T12	DATE 469 478	helmikuun
+T13	ORG 498 511	Total Telecom
+T14	PER 522 528	Conway
+T15	ORG 535 541	GSMA:n
+T16	DATE 562 577	syyskuussa 2011
+T17	ORG 620 631	Vimpelcomin

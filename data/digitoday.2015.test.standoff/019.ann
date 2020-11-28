@@ -1,0 +1,22 @@
+T1	ORG 90 100	Amazon.com
+T2	PRO 157 174	Fire-älypuhelimen
+T3	ORG 194 217	Dow Jones Business News
+T4	ORG 227 250	Dow Jones Business News
+T5	ORG 293 299	Amazon
+T6	PRO 409 426	Fire-älypuhelimen
+T7	ORG 476 492	Lab126-yksikössä
+T8	PRO 578 592	Fire-puhelimen
+T9	ORG 619 629	Amazon.com
+T10	PRO 822 828	Kindle
+T11	ORG 853 859	Amazon
+T12	ORG 981 987	Amazon
+T13	PRO 1055 1073	Fire-älypuhelimiin
+T14	PRO 1163 1175	Fire-puhelin
+T15	ORG 1187 1195	Amazonin
+T16	ORG 1275 1283	Lab126:n
+T17	ORG 1377 1383	Amazon
+T18	PRO 1532 1539	Kabinet
+T100001	PER 194 197	Dow
+T100002	PER 198 203	Jones
+T100003	PER 227 230	Dow
+T100004	PER 231 236	Jones

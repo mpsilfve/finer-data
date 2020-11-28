@@ -1,0 +1,24 @@
+Käykö Cortana hermoille Windows 10:ssä ?
+Sitä ei ole pakko sietää
+Cortana-avustajan voi kytkeä pois päältä Windows 10:ssä .
+Tämä säästää myös tietokoneen resursseja .
+Microsoft esitteli Windows 10:n yhteydessä oman puheavustajan Cortanan , joka on jo tuttu Windows Phonesta .
+Cortana on varmasti tervetullut uudistus monelle , sillä kukapa ei haluaisi omaa puheavustajaa .
+Omalle tietokoneelle höpöttely voi kuitenkin tuntua joistakin hieman kiusalliselta .
+Tämän lisäksi Cortana kuluttaa melko paljon tietokoneen voimavaroja .
+Cortana opettelee tuntemaan käyttäjänsä " vakoilemalla " tämän toimintaa .
+Monia tämä saattaa kuitenkin ärsyttää .
+Cortanaa ohjeistetaan juttelemalla tälle mukavia .
+Avustajan voidaan esimerkiksi käskeä etsimään internetistä aikatauluja tai muuta hyödyllistä tietoa .
+Cortanan avut eivät rajoitu pelkästään nettihakujen tekemiseen käyttäjän puolesta .
+Avustaja osaa esimerkiksi kirjoittaa ja lähettää sähköpostiviestin käyttäjän sanelun perusteella ja pari muuta hyödyllistä jippoa .
+Hey Cortana , mene pois !
+Cortana-prosessi on kuitenkin koko ajan käynnissä kuluttaen melko paljon laitteistoresursseja .
+Ei ole vielä varmaa , vaatiiko Cortanan käyttö koneelta tavallista enemmän vääntöä , vai onko kyseessä vielä niin pahasti buginen ja keskeneräinen versio , että sen käyttö sulavoituu Windows 10:n julkaisun yhteydessä .
+Mikäli et koe tarvitsevasi interaktiivista avustajaa , voi Cortanan laittaa päiväunille tai poistaa kokonaan käytöstä .
+Cortanan poistaminen käytöstä onnistuu avustajan omista asetuksista .
+Valitse Cortanan mukautusruudusta löytyvä pieni , hampurilaista muistuttava kuvake ja klikkaa sitä .
+Avautuvista vaihtoehdoista valitse " pois " -vaihtoehto kysymykseen haluatko ottaa Cortanan käyttöön .
+Microsoft on kaikesta päätellen arvannut , että joitakin Cortanan jatkuva hiljainen läsnäolo saattaa häiritä ja on tarjonnut mahdollisuuden ottaa ominaisuuden pois käytöstä .
+Nähtäväksi jää , onnistutaanko Cortanan toimintaa sulavoittamaan tulevissa Windows 10 -esiversioissa , sillä nykyisellään ominaisuus on internetin pahanilmanlintujen mukaan aivan liian raskas käytettäväksi .
+Artikkeli on kirjoitettu Softpedian uutisen pohjalta .

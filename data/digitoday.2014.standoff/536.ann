@@ -1,0 +1,12 @@
+T1	ORG 91 99	Anthemin
+T2	ORG 153 176	The Wall Street Journal
+T3	ORG 207 213	Anthem
+T4	ORG 296 319	The Wall Street Journal
+T5	ORG 322 325	WSJ
+T6	ORG 538 546	Anthemin
+T7	PER 556 569	Kristin Binns
+T8	ORG 577 584	WSJ:lle
+T9	ORG 877 880	WSJ
+T10	ORG 1232 1238	Anthem
+T100001	LOC 157 168	Wall Street
+T100002	LOC 300 311	Wall Street

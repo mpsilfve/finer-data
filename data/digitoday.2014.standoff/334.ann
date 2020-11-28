@@ -1,0 +1,15 @@
+T1	ORG 0 4	AT&T
+T2	LOC 21 30	Meksikoon
+T3	LOC 31 43	Yhdysvaltain
+T4	ORG 84 88	AT&T
+T5	LOC 102 110	Meksikon
+T6	LOC 166 174	Meksikon
+T7	ORG 289 293	AT&T
+T8	LOC 306 318	Yhdysvaltain
+T9	LOC 322 330	Meksikon
+T10	PRO 410 442	World Connect Value -ohjelmaansa
+T11	LOC 495 504	Meksikoon
+T12	LOC 605 617	Yhdysvaltain
+T13	ORG 628 632	AT&T
+T14	DATE 690 702	marraskuussa
+T15	ORG 705 718	Total Telecom

@@ -1,0 +1,42 @@
+T1	ORG 0 9	F-Securen
+T2	PER 10 18	Hyppönen
+T3	ORG 86 91	Sonyn
+T4	PRO 92 104	Playstation-
+T5	ORG 108 119	Microsoftin
+T6	PRO 120 138	Xbox-pelikonsolien
+T7	ORG 434 450	Lizard Squadiksi
+T8	ORG 509 514	Sonyn
+T9	PRO 515 527	Playstation-
+T10	ORG 533 544	Microsoftin
+T11	PRO 545 563	Xbox-pelikonsolien
+T12	PER 815 829	Mikko Hyppönen
+T13	ORG 846 857	F-Securesta
+T14	ORG 1021 1026	Nixun
+T15	PER 1043 1057	Petri Kairinen
+T16	ORG 1235 1249	Lizard Squadin
+T17	ORG 1637 1654	Sky News -kanavan
+T18	ORG 1757 1774	Suomen poliisille
+T19	ORG 1988 2002	Lizard Squadin
+T20	ORG 2658 2663	Nixun
+T21	PER 2664 2672	Kairinen
+T22	PER 2747 2755	Kairinen
+T23	ORG 2761 2770	F-Securen
+T24	PER 2771 2779	Hyppönen
+T25	ORG 2931 2945	Lizard Squadin
+T26	PER 2988 2996	Hyppösen
+T27	PER 3122 3130	Hyppösen
+T28	ORG 3165 3177	Lizard Squad
+T29	PER 3189 3197	Hyppösen
+T30	ORG 3229 3243	LulzSec-ryhmää
+T31	ORG 3405 3421	Lizard Squadille
+T32	PER 3559 3573	Mikko Hyppönen
+T33	ORG 3590 3601	F-Securesta
+T34	PER 3836 3844	Hyppönen
+T35	ORG 3860 3866	Google
+T36	DATE 3932 3943	vuonna 2009
+T37	ORG 3950 3957	Googlen
+T38	PER 4166 4180	Petri Kairisen
+T39	PER 4405 4413	Kairinen
+T40	PER 4422 4430	Kairisen
+T41	PER 4822 4830	Hyppönen
+T100001	LOC 1757 1763	Suomen

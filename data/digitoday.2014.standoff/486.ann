@@ -1,0 +1,35 @@
+T1	ORG 8 13	Rovio
+T2	ORG 61 67	Rovion
+T3	ORG 256 261	Rovio
+T4	LOC 301 314	Yhdysvaltojen
+T5	ORG 315 320	NSA:n
+T6	LOC 325 335	Britannian
+T7	ORG 336 342	GCHQ:n
+T8	PER 483 499	Edward Snowdenin
+T9	PRO 729 750	Angry Birds -peleihin
+T10	ORG 773 791	The New York Times
+T11	ORG 794 800	Rovion
+T12	PRO 801 820	Angry Birds -pelien
+T13	ORG 1046 1067	Fingersoft-peliyhtiön
+T14	PER 1084 1099	Toni Fingerroos
+T15	ORG 1102 1112	Fingersoft
+T16	PRO 1127 1158	Millennial Media -mainosalustaa
+T17	ORG 1164 1172	Roviokin
+T18	PER 1350 1360	Fingerroos
+T19	ORG 1611 1619	Roviosta
+T20	ORG 1643 1655	Digitodaylle
+T21	PRO 1755 1766	Angry Birds
+T22	ORG 1856 1861	Rovio
+T23	ORG 2146 2151	Rovio
+T24	PRO 2225 2248	Angry Birds Space -peli
+T25	PRO 2396 2421	App Permissions -sovellus
+T26	PRO 2443 2460	Angry Birds Space
+T27	PRO 2482 2493	Angry Birds
+T28	ORG 2656 2661	NSA:n
+T29	ORG 2756 2764	Roviolla
+T30	ORG 2968 2971	NSA
+T31	ORG 3119 3125	Rovion
+T32	ORG 3126 3142	toimitusjohtajan
+T33	PER 3143 3155	Mikael Hedin
+T34	ORG 3268 3273	Rovio
+T100001	LOC 777 785	New York

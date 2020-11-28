@@ -1,0 +1,55 @@
+T1	ORG 17 25	Nokiassa
+T2	ORG 63 68	Nokia
+T3	DATE 83 92	toukokuun
+T4	ORG 235 241	Nokian
+T5	ORG 306 312	Nokian
+T6	PER 329 340	Rajeev Suri
+T7	PER 404 419	Timo Ihamuotila
+T8	ORG 422 441	Here-liiketoiminnan
+T9	PER 458 474	Michael Halbherr
+T10	ORG 477 500	Technologies -toiminnan
+T11	PER 513 524	Henry Tirri
+T12	ORG 528 551	Networks-liiketoiminnan
+T13	PER 591 603	Samih Elhage
+T14	ORG 606 612	Nokian
+T15	PER 648 660	Stephen Elop
+T16	PER 663 672	Jo Harlow
+T17	PER 675 690	Juha Putkiranta
+T18	PER 693 707	Timo Toikkanen
+T19	PER 713 724	Chris Weber
+T20	ORG 736 747	Microsoftin
+T21	PER 795 810	Louise Pentland
+T22	PER 813 823	Juha Äkräs
+T23	PER 827 838	Kai Öistämö
+T24	ORG 858 864	Nokian
+T25	DATE 879 888	toukokuun
+T26	PER 921 929	Pentland
+T27	PER 932 937	Äkräs
+T28	PER 941 948	Öistämö
+T29	ORG 958 964	Nokian
+T30	ORG 1002 1007	Nokia
+T31	PER 1031 1049	Hans-Jürgen Billin
+T32	PER 1073 1087	Barry Frenchin
+T33	PER 1154 1171	Maria Varsellonan
+T34	PER 1195 1210	Risto Siilasmaa
+T35	ORG 1240 1258	Nokian hallituksen
+T36	PER 1291 1306	Timo Ihamuotila
+T37	ORG 1325 1331	Nokian
+T38	DATE 1373 1382	Toukokuun
+T39	ORG 1404 1410	Nokian
+T40	ORG 1446 1452	Nokian
+T41	ORG 1474 1479	Here-
+T42	ORG 1483 1513	Technologies-liiketoiminnoilla
+T43	ORG 1544 1550	Nokian
+T44	ORG 1598 1621	Networks-liiketoiminnan
+T45	ORG 1637 1646	Networks-
+T46	ORG 1657 1660	NSN
+T47	ORG 1666 1693	Technologies-liiketoiminnat
+T48	ORG 1712 1718	Nokian
+T49	ORG 1813 1819	Nokian
+T50	ORG 1841 1846	NSN:n
+T51	ORG 1902 1907	Nokia
+T52	ORG 1961 1988	Networksin Mobile Broadband
+T53	ORG 1992 2016	Global Services -yksiköt
+T54	ORG 2019 2023	Here
+T55	ORG 2027 2039	Technologies

@@ -1,0 +1,15 @@
+T1	ORG 29 35	Applen
+T2	ORG 60 65	Apple
+T3	PRO 98 107	iMessage-
+T4	PRO 111 137	FaceTime-viestipalveluihin
+T5	ORG 354 360	Applen
+T6	ORG 418 424	Applen
+T7	ORG 571 576	Apple
+T8	DATE 588 599	vuonna 2013
+T9	PRO 682 689	iTunes-
+T10	PRO 693 719	App Store -verkkokaupoista
+T11	ORG 802 811	Googlella
+T12	ORG 814 825	Twitterillä
+T13	ORG 829 841	Facebookilla
+T14	ORG 1102 1106	Cnet
+T15	ORG 1109 1115	Applen

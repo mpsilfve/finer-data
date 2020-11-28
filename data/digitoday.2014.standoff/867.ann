@@ -1,0 +1,16 @@
+T1	LOC 0 8	Amerikan
+T2	ORG 9 18	TVkaistan
+T3	ORG 61 88	Yhdysvaltain korkein oikeus
+T4	LOC 145 151	Suomen
+T5	ORG 152 161	TVkaistaa
+T6	ORG 171 176	Aereo
+T7	PRO 244 249	Aereo
+T8	LOC 582 588	Suomen
+T9	ORG 631 639	TVkaista
+T10	ORG 832 838	Aereon
+T11	ORG 1011 1029	Hollywood Reporter
+T12	ORG 1227 1233	Aereon
+T13	LOC 1276 1288	Yhdysvaltoja
+T14	ORG 1313 1319	Aereon
+T100001	LOC 61 73	Yhdysvaltain
+T100002	LOC 1011 1020	Hollywood

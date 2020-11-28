@@ -1,0 +1,48 @@
+T1	ORG 0 8	F-Secure
+T2	ORG 58 67	F-Securen
+T3	PER 84 106	Christian Fredriksonin
+T4	PRO 114 124	Younitedin
+T5	ORG 182 190	F-Secure
+T6	PRO 273 283	Younitedin
+T7	ORG 301 321	Synchronoss-yhtiölle
+T8	ORG 410 419	F-Securen
+T9	ORG 493 501	F-Secure
+T10	ORG 505 516	Synchronoss
+T11	ORG 588 601	Synchronossin
+T12	ORG 645 656	F-Securella
+T13	ORG 729 741	Digitodaylle
+T14	ORG 755 764	F-Securen
+T15	PER 781 801	Christian Fredrikson
+T16	ORG 815 826	Synchronoss
+T17	ORG 830 838	F-Secure
+T18	LOC 888 896	Pohjois-
+T19	LOC 900 916	Etelä-Amerikassa
+T20	LOC 922 932	Euroopassa
+T21	LOC 973 981	Aasiassa
+T22	LOC 1054 1062	Suomessa
+T23	ORG 1071 1079	F-Secure
+T24	PER 1169 1179	Fredrikson
+T25	ORG 1218 1231	Synchronossin
+T26	PER 1248 1258	Fredrikson
+T27	PRO 1350 1358	Younited
+T28	ORG 1366 1379	Synchronossin
+T29	ORG 1509 1518	F-Securen
+T30	PER 1578 1588	Fredrikson
+T31	ORG 1604 1617	Synchronossin
+T32	ORG 1666 1678	Yhdysvaltain
+T33	PRO 1679 1696	Patriot Act -laki
+T34	PRO 1774 1784	Younitedia
+T35	PER 1866 1876	Fredrikson
+T36	ORG 1895 1904	Microsoft
+T37	LOC 2058 2072	Yhdysvaltoihin
+T38	PER 2075 2087	Fredriksonin
+T39	PRO 2095 2103	Younited
+T40	ORG 2132 2141	F-Securen
+T41	ORG 2257 2265	F-Secure
+T42	PER 2497 2507	Fredrikson
+T43	PRO 2536 2574	F-Secure Key -salasananhallintapalvelu
+T44	PRO 2578 2586	Freedome
+T45	PER 2655 2667	Fredriksonin
+T46	ORG 2692 2701	F-Securen
+T47	PER 2908 2918	Fredrikson
+T100001	ORG 2536 2544	F-Secure

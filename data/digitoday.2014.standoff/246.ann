@@ -1,0 +1,41 @@
+T1	ORG 36 42	Elisan
+T2	PRO 43 53	Pilvilinna
+T3	LOC 63 70	USA:han
+T4	PRO 71 89	myytyynYounitediin
+T5	ORG 90 96	Elisan
+T6	PRO 146 172	Pilvilinna -pilvitallennus
+T7	LOC 182 189	USA:han
+T8	ORG 210 218	F-Secure
+T9	PRO 250 272	Younited-turvapilvensä
+T10	ORG 290 310	Synchronoss-yhtiölle
+T11	LOC 459 466	USA:han
+T12	ORG 565 573	F-Secure
+T13	DATE 594 604	lokakuussa
+T14	PRO 615 634	Younited-palvelusta
+T15	ORG 699 705	Elisan
+T16	ORG 740 743	KPN
+T17	ORG 759 762	TDC
+T18	ORG 780 790	Polkomotel
+T19	ORG 793 799	Elisan
+T20	PRO 853 864	Pilvilinnan
+T21	PER 1036 1050	Matias Castren
+T22	ORG 1051 1059	Elisalta
+T23	ORG 1079 1087	F-Secure
+T24	ORG 1153 1159	Elisan
+T25	ORG 1194 1199	Elisa
+T26	LOC 1337 1345	Suomessa
+T27	PER 1445 1452	Castren
+T28	ORG 1459 1471	Digitodaylle
+T29	ORG 1474 1483	F-Securen
+T30	PER 1500 1520	Christian Fredrikson
+T31	ORG 1543 1555	Digitodaylle
+T32	ORG 1556 1565	F-Securen
+T33	PRO 1647 1657	Younitedin
+T34	ORG 1667 1680	Synchronossin
+T35	ORG 1715 1723	F-Secure
+T36	DATE 1744 1754	lokakuussa
+T37	PRO 1762 1772	Younitedin
+T38	PER 1814 1823	Casternin
+T39	ORG 1831 1839	Elisalla
+T40	PRO 1860 1871	Pilvilinnan
+T41	PER 1991 2000	Castrenin

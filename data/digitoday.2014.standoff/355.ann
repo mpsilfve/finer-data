@@ -1,0 +1,30 @@
+T1	ORG 0 7	Samsung
+T2	ORG 29 40	Blackberryä
+T3	ORG 41 48	Samsung
+T4	ORG 129 140	Blackberryä
+T5	ORG 155 162	Samsung
+T6	ORG 179 189	Blackberry
+T7	ORG 222 229	Samsung
+T8	ORG 246 257	Blackberryn
+T9	ORG 274 281	Reuters
+T10	ORG 303 310	Samsung
+T11	ORG 470 481	Blackberryn
+T12	ORG 520 525	Nokia
+T13	ORG 553 566	Microsoftille
+T14	ORG 625 634	Samsungin
+T15	ORG 673 683	Blackberry
+T16	ORG 795 804	Samsungin
+T17	ORG 836 846	Blackberry
+T18	ORG 851 862	Blackberryn
+T19	ORG 918 927	Samsungin
+T20	ORG 985 992	Samsung
+T21	ORG 1038 1049	Bloombergin
+T22	ORG 1050 1061	Blackberryä
+T23	ORG 1166 1177	Blackberryn
+T24	LOC 1196 1208	New Yorkissa
+T25	ORG 1350 1356	Applen
+T26	ORG 1360 1369	Samsungin
+T27	LOC 1426 1444	Pohjois-Amerikassa
+T28	ORG 1457 1468	Blackberryn
+T29	ORG 1510 1521	Blackberryn
+T30	PER 1554 1563	John Chen

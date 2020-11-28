@@ -1,0 +1,17 @@
+Kodin wlan pät-pät-pätkii : Eero tulee apuun
+Eero yrittää ratkaista tyypilliset ongelmat sisätilojen langattomissa nettiyhteyksissä .
+Nimi on suomalainen , mutta firma ei .
+Mistä on kysymys ?
+Kalifornialainen startup Eero on voinut löytää oivan markkinaraon esimerkiksi Belkinin tai D-Linkin hallitsemilta reititinmarkkinoilta .
+Yhtiön tuote on joukko pieniä wlan-reitittimiä , jotka pitävät toisiinsa yhteyttä mesh-tekniikalla .
+Tuotelupauksen mukaan kolme laitetta riittää tavallisen kodin verkottamiseen .
+Taustalla on kotien yleinen pulma , missä kaikesta päätellen hyvässä paikassa oleva wlan-tukiasema ei sittenkään pysty tarjoamaan nettiyhteyttä sinne , missä sitä eniten tarvitaan .
+Siinä sitä sitten tuskaillaan tukiasema kädessä ja yritetään löytää sitä kultaista yhteyden takaavaa paikkaa samalla , kun vaimon Facebook-sessio pätkii , eivätkä lapset pääse Pikku Kakkosen nettiin .
+Wlan-verkkoa voi tehostaa asentamalla huoneistoon perinteisiä jatkajia , mutta Eeron mukaan niissä on isona ongelmana se , että halvimmissa jatkajissa on vain yksi radio .
+Jatkajien välillä pitää vaihdella koko ajan , mikä rokottaa suorituskykyä .
+Laitteiden lisäksi Eero on luonut ohjelmiston yhdessä pilvipohjaisen hallintapaneelin kanssa verkon valvomiseksi .
+Myös etäseuranta on mahdollista Android- ja iOS-sovelluksen kautta .
+Entäpä se nimi ?
+Eerosta uutisoi muun muassa The Next Web , joka sai tietää firman halunneen osoittaa kunniaa suomalaiselle arkkitehdille Eero Saariselle .
+Hänen suunnittelufilosofiansa on antanut vaikutteita wlan-tuotteeseen .
+Ja olipa Saarinen myös suunnitellut chicagolaisen ala-asteen , jota Eeron toimitusjohtaja Nick Weaver aikanaan kävi .

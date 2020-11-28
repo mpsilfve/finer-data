@@ -1,0 +1,9 @@
+T1	LOC 0 6	Kiinan
+T2	LOC 66 84	Suomenvaltionvelan
+T3	LOC 85 91	Kiinan
+T4	LOC 205 211	Suomen
+T5	ORG 246 290	Kiinan teollisuus- ja informaatioministeriön
+T6	ORG 291 297	MIIT:n
+T7	DATE 363 376	vuodesta 2013
+T8	ORG 1229 1242	Total Telecom
+T100001	LOC 246 252	Kiinan

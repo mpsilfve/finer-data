@@ -1,0 +1,23 @@
+T1	ORG 0 6	Kilroy
+T2	LOC 78 85	Syyrian
+T3	ORG 132 168	Syrian Electronic Army -hakkeriryhmä
+T4	ORG 337 342	CNN:n
+T5	LOC 357 364	Syyrian
+T6	PER 393 400	Assadia
+T7	ORG 422 425	SEA
+T8	ORG 494 499	CNN:n
+T9	PRO 567 589	CNN Politics -sivuilla
+T10	ORG 616 632	Political Ticker
+T11	ORG 635 643	The Lead
+T12	ORG 646 664	Security Clearance
+T13	ORG 667 685	The Situation Room
+T14	ORG 689 698	Crossfire
+T15	ORG 748 753	Slate
+T16	ORG 756 761	SEA:n
+T17	ORG 844 847	SEA
+T18	ORG 976 981	CNN:n
+T19	ORG 982 1010	Security Clearance -blogissa
+T20	LOC 1031 1042	Yhdysvallat
+T21	ORG 1335 1338	CNN
+T22	ORG 1533 1538	SEA:n
+T100001	ORG 567 570	CNN

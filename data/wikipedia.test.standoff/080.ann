@@ -1,0 +1,69 @@
+T1	PRO 0 28	Gruber – De Gasperi -sopimus
+T2	PRO 29 57	Gruber – De Gasperi -sopimus
+T3	PRO 63 83	" Pariser Abkommen "
+T4	LOC 89 98	Itävallan
+T5	LOC 102 109	Italian
+T6	LOC 110 120	Pariisissa
+T7	DATE 121 145	5. syyskuuta vuonna 1946
+T8	LOC 178 200	Trentino-Etelä-Tirolin
+T9	LOC 274 287	Etelä-Tirolin
+T10	LOC 342 351	Itävallan
+T11	PER 366 377	Karl Gruber
+T12	LOC 381 388	Italian
+T13	PER 402 419	Alcide De Gasperi
+T14	EVENT 426 453	Pariisin rauhankonferenssia
+T15	EVENT 456 481	Ensimmäisen maailmansodan
+T16	LOC 485 515	Itävalta-Unkarin keisarikunnan
+T17	LOC 545 552	Tirolin
+T18	LOC 573 582	Itävallan
+T19	LOC 586 593	Italian
+T20	LOC 641 661	Itävallan tasavaltaa
+T21	LOC 726 741	Saint-Germainin
+T22	LOC 751 774	Italian kuningaskuntaan
+T23	PER 803 820	Benito Mussolinin
+T24	LOC 830 839	Italiassa
+T25	DATE 840 851	vuonna 1922
+T26	LOC 864 879	Etelä-Tirolissa
+T27	DATE 970 981	Vuonna 1939
+T28	PER 982 991	Mussolini
+T29	LOC 995 1001	Saksan
+T30	PER 1002 1014	Adolf Hitler
+T31	LOC 1114 1127	Etelä-Tirolin
+T32	EVENT 1148 1172	Toisessa maailmansodassa
+T33	ORG 1173 1182	Wehrmacht
+T34	LOC 1192 1205	Etelä-Tirolia
+T35	DATE 1206 1219	vuodesta 1943
+T36	DATE 1220 1232	vuoteen 1945
+T37	LOC 1250 1266	" Alpenvorland "
+T38	PER 1269 1279	Mussolinin
+T39	LOC 1280 1287	Italian
+T40	PER 1291 1299	Hitlerin
+T41	LOC 1300 1306	Saksan
+T42	LOC 1379 1393	Etelä-Tiroliin
+T43	LOC 1471 1492	Itävallan tasavaltaan
+T44	LOC 1495 1502	Tirolin
+T45	LOC 1565 1570	USA:n
+T46	LOC 1573 1583	Britannian
+T47	LOC 1587 1601	Neuvostoliiton
+T48	LOC 1607 1614	Ranskan
+T49	LOC 1687 1700	Etelä-Tirolin
+T50	LOC 1745 1752	Tirolin
+T51	LOC 1769 1778	Itävallan
+T52	PER 1793 1804	Karl Gruber
+T53	LOC 1812 1825	Etelä-Tirolin
+T54	LOC 1838 1848	Itävaltaan
+T55	LOC 1851 1858	Italian
+T56	PER 1872 1889	Alcide De Gasperi
+T57	LOC 1920 1944	Trentino-Etelä-Tirolille
+T58	PER 1984 1990	Gruber
+T59	LOC 2116 2131	Etelä-Tirolille
+T60	LOC 2151 2173	Trentino-Etelä-Tirolin
+T61	LOC 2395 2401	Italia
+T62	DATE 2410 2421	vuonna 1972
+T63	LOC 2486 2495	Trentinon
+T64	LOC 2501 2514	Etelä-Tirolin
+T100001	PER 0 6	Gruber
+T100002	PER 9 19	De Gasperi
+T100003	PER 29 35	Gruber
+T100004	PER 38 48	De Gasperi
+T100005	LOC 426 434	Pariisin

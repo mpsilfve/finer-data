@@ -1,0 +1,18 @@
+T1	ORG 0 14	Lizard Squadin
+T2	LOC 208 220	Britanniassa
+T3	ORG 340 355	Lontoon poliisi
+T4	ORG 383 397	Lizard Squadin
+T5	ORG 658 685	Crave Online -verkkosivusto
+T6	ORG 688 711	Thames Valleyn poliisin
+T7	PRO 893 913	PayPal-maksupalvelun
+T8	DATE 987 1002	10. maaliskuuta
+T9	ORG 1069 1083	Lizard Squadin
+T10	PER 1099 1107	" Ryan "
+T11	PER 1172 1184	Tero Muurman
+T12	ORG 1192 1198	Ylelle
+T13	ORG 1291 1310	Lizard Squad -ryhmä
+T14	PER 1700 1713	Brian Krebsin
+T15	LOC 1838 1847	Bosniassa
+T16	PER 2100 2107	Krebsin
+T17	PER 2214 2227	Brian Krebsin
+T100001	LOC 340 347	Lontoon

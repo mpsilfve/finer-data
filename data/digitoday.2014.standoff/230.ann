@@ -1,0 +1,29 @@
+T1	PRO 0 6	Office
+T2	PRO 14 28	Windows Phonea
+T3	PER 54 66	Joe Belfiore
+T4	ORG 107 119	Office-tiimi
+T5	ORG 169 180	Microsoftin
+T6	PER 204 216	Joe Belfiore
+T7	PRO 239 255	Weibo-palvelussa
+T8	PRO 307 334	Office-toimisto-ohjelmiston
+T9	PRO 349 365	Windows Phonessa
+T10	PER 406 418	Belfiorenkin
+T11	ORG 456 465	Microsoft
+T12	PRO 483 492	Officessa
+T13	PRO 493 507	Windows Phonen
+T14	PRO 561 570	Androidia
+T15	PRO 574 580	iOS:ää
+T16	PRO 620 626	Office
+T17	DATE 627 639	marraskuussa
+T18	ORG 675 690	Office-tiimimme
+T19	PRO 708 722	Windows Phonea
+T20	PER 874 882	Belfiore
+T21	PRO 893 901	Weibossa
+T22	DATE 935 949	19. helmikuuta
+T23	PER 961 969	Belfiore
+T24	PRO 1012 1024	Windows 10:n
+T25	DATE 1042 1051	tammikuun
+T26	PRO 1137 1144	Officen
+T27	PER 1157 1170	Joe Belfioren
+T28	ORG 1203 1212	The Verge
+T100001	PRO 181 194	Windows Phone

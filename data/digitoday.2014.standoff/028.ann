@@ -1,0 +1,21 @@
+T1	ORG 0 6	Google
+T2	ORG 10 17	Samsung
+T3	ORG 59 65	Google
+T4	ORG 69 76	Samsung
+T5	PRO 108 133	Android-käyttöjärjestelmä
+T6	ORG 178 184	Applea
+T7	ORG 511 520	Samsungin
+T8	PER 547 558	Seungho Ahn
+T9	ORG 559 582	Sydney Morning Heraldin
+T10	ORG 803 812	Googlelle
+T11	ORG 904 911	Samsung
+T12	ORG 973 979	Google
+T13	ORG 1045 1056	Nest-yhtiön
+T14	ORG 1059 1068	Samsungin
+T15	ORG 1087 1093	Google
+T16	ORG 1176 1183	Samsung
+T17	ORG 1188 1197	Googlesta
+T18	ORG 1204 1210	Applen
+T19	ORG 1303 1310	Googlen
+T20	ORG 1348 1355	Samsung
+T100001	LOC 559 565	Sydney

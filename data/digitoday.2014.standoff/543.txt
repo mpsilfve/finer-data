@@ -1,0 +1,14 @@
+IE:ssä paha aukko : Kultainen tietoturvaneuvokaan ei toimi
+Internet Explorerin haavoittuvuus mahdollistaa vakuuttavat tietojenkalastelut ilman , että uhri välttämättä huomaa mitään .
+Microsoftin Internet Explorer 10 ja 11 -selaimissa on korjaamaton haavoittuvuus , tietoturvayhtiö Deusen raportoi Viestintäviraston mukaan .
+Kyseessä on niin sanottu cross site scripting -haavoittuvuus ( xss ) , jonka avulla hyökkääjä voi ohittaa selaimen suojauksia ja asettaa haitallista koodia muille sivustoille .
+Hyökkääjä voi urkkia vaikkapa käyttäjätunnuksia ja salasanoja tai altistaa käyttäjän haittaohjelmille .
+Asiasta kirjoittaa muun muassa PC World .
+Käytännössä hyökkääjä voisi käyttää esimerkiksi verkkopankin sivua ja syöttää uhrille tämän yksityisiä tietoja urkkivan lomakkeen .
+Tässä tilanteessa edes Viestintäviraston usein antama neuvo kalastelua vastaan – tarkista selaimen osoiterivi – ei päde , sillä osoiterivillä on edelleen pankin oma osoite .
+Haavoittuvuutta on kuvattu universaaliksi , koska se ei edellytä haavoittuvuuksia kohdesivustossa , vaan hyödyntää selaimen puutteellista suojausta .
+Aukko toimii myös salatuilla https-sivustoilla .
+Microsoft on tekemässä korjausta .
+Yhtiö ei ole tietoinen aktiivisista hyökkäyksistä haavoittuvuutta vastaan .
+Ottamatta kantaa IE:n haavoittuvuuteen , xss-tyyppisiä aukkoja pidetään yleisesti merkkinä huolimattomasta koodaamisesta tai koodin tarkistuksesta .
+Xss on esiintynyt esimerkiksi listauksissa , joihin valitaan kaikista turhimmat tietoturvamokat .

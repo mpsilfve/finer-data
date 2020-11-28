@@ -1,0 +1,22 @@
+T1	ORG 0 6	Applen
+T2	ORG 19 25	Google
+T3	ORG 57 64	Googlen
+T4	ORG 158 169	Microsoftin
+T5	ORG 184 190	Google
+T6	ORG 199 205	Applen
+T7	PRO 252 278	OS X -käyttöjärjestelmästä
+T8	PRO 319 325	OS X:n
+T9	PRO 347 358	Yosemitessa
+T10	ORG 378 385	Googlen
+T11	PRO 443 458	Mac-tietokoneen
+T12	ORG 645 650	iMore
+T13	PRO 671 680	Yosemitea
+T14	PRO 715 721	OS X:n
+T15	ORG 756 762	Google
+T16	ORG 829 837	Applelle
+T17	ORG 882 888	Google
+T18	ORG 905 916	Microsoftin
+T19	PRO 939 950	Windowsista
+T20	ORG 1004 1013	Microsoft
+T21	ORG 1028 1035	Googlen
+T22	ORG 1058 1067	Microsoft

@@ -1,0 +1,23 @@
+T1	ORG 0 5	Tekes
+T2	ORG 44 57	Microsoftilta
+T3	ORG 127 132	Tekes
+T4	ORG 152 165	Microsoftilta
+T5	ORG 182 228	Teknologian ja innovaatioiden kehittämiskeskus
+T6	ORG 229 234	Tekes
+T7	ORG 260 273	Microsoftilta
+T8	PER 425 439	Mika Lautanala
+T9	ORG 440 449	Tekesistä
+T10	ORG 502 509	Tekesin
+T11	LOC 728 735	Oulussa
+T12	ORG 736 748	Micosoftilta
+T13	ORG 752 764	Broadcomilta
+T14	ORG 808 823	Taloussanomille
+T15	ORG 826 835	Microsoft
+T16	LOC 939 947	Suomesta
+T17	LOC 961 966	Salon
+T18	ORG 989 996	Tekesin
+T19	ORG 1037 1050	Microsoftilta
+T20	ORG 1145 1150	Tekes
+T21	ORG 1281 1294	Microsoftilta
+T22	PER 1315 1325	Lautanalan
+T23	ORG 1588 1597	Tekesille

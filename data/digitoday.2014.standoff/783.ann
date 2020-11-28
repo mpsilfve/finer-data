@@ -1,0 +1,8 @@
+T1	ORG 0 4	LG:n
+T2	ORG 92 94	LG
+T3	ORG 207 209	LG
+T4	PRO 292 302	Smart Lamp
+T5	PRO 712 734	Androidin 4.3-versiota
+T6	PRO 739 755	iOS:n versiota 6
+T7	LOC 913 921	Koreassa
+T8	ORG 933 950	Android Centralin

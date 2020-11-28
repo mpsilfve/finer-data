@@ -1,0 +1,21 @@
+T1	LOC 41 53	Yhdysvaltoja
+T2	PER 67 82	Mark Karpelèsin
+T3	ORG 192 201	Mt. Goxin
+T4	PER 210 223	Mark Karpelès
+T5	LOC 233 247	Yhdysvaltoihin
+T6	ORG 352 375	The Wall Street Journal
+T7	PER 391 401	Karpelèsin
+T8	LOC 464 478	Yhdysvalloissa
+T9	ORG 529 565	Yhdysvaltain valtiovarainministeriön
+T10	PER 626 634	Karpelès
+T11	LOC 663 677	Yhdysvaltoihin
+T12	PER 815 828	Mark Karpelès
+T13	LOC 834 843	Japanissa
+T14	ORG 846 857	Mt. Goxista
+T15	ORG 992 999	Mt. Gox
+T16	PER 1029 1039	Karpelèsia
+T17	DATE 1146 1171	toukokuun 5:nteen päivään
+T18	PER 1205 1213	Karpelès
+T19	LOC 1232 1246	Yhdysvaltoihin
+T100001	LOC 356 367	Wall Street
+T100002	LOC 529 541	Yhdysvaltain

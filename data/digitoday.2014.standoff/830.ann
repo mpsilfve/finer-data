@@ -1,0 +1,10 @@
+T1	ORG 0 6	Elisan
+T2	ORG 63 69	Elisan
+T3	ORG 231 253	Helsingin hovioikeuden
+T4	ORG 263 282	Espoon käräjäoikeus
+T5	DATE 296 300	2012
+T6	ORG 441 484	Tekijänoikeuden tiedotus- ja valvontakeskus
+T7	PRO 530 563	Hayabusa/Rainbow-nimisen sivuston
+T8	ORG 602 608	Elisan
+T9	DATE 1306 1317	vuonna 2012
+T100001	LOC 231 240	Helsingin

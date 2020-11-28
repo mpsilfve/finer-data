@@ -1,0 +1,38 @@
+T1	ORG 0 6	Applen
+T2	PER 17 24	Wozniak
+T3	LOC 31 39	Kiinassa
+T4	ORG 40 47	Xiaomia
+T5	ORG 48 54	Applen
+T6	PER 72 85	Steve Wozniak
+T7	ORG 114 120	Applea
+T8	ORG 205 212	Xiaomin
+T9	LOC 276 288	Yhdysvaltain
+T10	PER 304 317	Steve Wozniak
+T11	ORG 333 340	Xiaomin
+T12	LOC 341 349	Pekingin
+T13	PER 471 478	Wozniak
+T14	LOC 483 491	Kiinassa
+T15	ORG 492 499	Xiaomin
+T16	PER 553 564	Hugo Barran
+T17	ORG 679 689	PC Worldin
+T18	PER 805 812	Wozniak
+T19	ORG 866 872	Xiaomi
+T20	LOC 896 904	Kiinassa
+T21	PER 1032 1039	Wozniak
+T22	ORG 1169 1175	Nokian
+T23	PRO 1176 1192	Lumia-puheli mia
+T24	ORG 1196 1207	Microsoftin
+T25	PRO 1208 1241	Windows Phone -käyttöjärjestelmää
+T26	PER 1269 1276	Wozniak
+T27	ORG 1322 1327	Apple
+T28	ORG 1332 1343	Microsoftin
+T29	PER 1356 1363	Wozniak
+T30	ORG 1389 1395	Applen
+T31	PER 1528 1538	Hugo Barra
+T32	ORG 1564 1573	Googlelta
+T33	ORG 1629 1636	Xiaomin
+T34	PRO 1654 1664	Facebookin
+T35	PER 1671 1682	Wozniakista
+T36	PER 1686 1693	Xiaomin
+T37	ORG 1804 1811	BGR:ssä
+T38	ORG 1815 1827	Ubergizmossa

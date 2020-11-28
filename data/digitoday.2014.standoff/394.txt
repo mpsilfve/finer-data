@@ -1,0 +1,15 @@
+Ford esittelee aurinkopaneeleilla lataavan auton
+Yhdysvaltain toiseksi suurin autonvalmistaja Ford Motor aikoo esitellä Las Vegasissa ensi viikolla aurinkopaneeleilla varustetun auton .
+C-Max Solar Energi -auto on hybridiauto , jossa on polttomoottorin lisäksi sähkömoottori , jonka akut voidaan ladata sekä verkkovirralla että auton katolla olevilla aurinkopaneeleilla .
+Ford ei ole kuitenkaan tehnyt mullistavaa innovaatiota paneelien energiatehokkuudessa , vaan uutuus perustuu uuteen älykkääseen autokatokseen .
+Georgia Institute of Technologyn kehittämässä autokatoksessa käytetään Fresnel-linssejä , jotka ohjaavat auringon valoa paneeleihin .
+Fordin uutuus pystyy kulkemaan 34 kilometriä pelkällä sähkövoimalla , mutta yhdistetty kulutus antaa sille lähes tuhannen kilometrin matkaetäisyyden yhdellä tankkauksella .
+Fordin tiedotteen mukaan koko päivän lataus tallentaa energiaa akun neljän tunnin käyttöön eli kahdeksan kilowattia .
+Fresnel-linssit mahdollistavat valon säteiden kohdentamisen useita taittopintoja sisältävillä linsseillä .
+Alun perin niitä käytettiin majakoiden valon vahvistamiseen , nykyään niitä käytetään muissa laitteissa kuten piirtoheittimissä .
+Aurinkoauto on vasta prototyyppi ja sen testaaminen reaalioloissa on vasta tulossa .
+Tuotantopäätökset tehdään vasta testien jälkeen .
+Aurinkoauton esittelytilaisuus on International Consumer Electronics Show'ssa ( CES ) , joka käynnistyy 7. tammikuuta Las Vegasissa .
+Muidenkin valmistajien autoissa käytetään aurinkopaneeleja , mutta ei auton kuljettamiseen .
+Toyotan Prius-hybridissä on valinnainen aurinkopaneeli , joka pyörittää tuuletinta , kun auto on paikoitettu suoraan auringon valoon .
+Nissanilla on sähköauto , joka käyttää aurinkopaneelia pitämään yllä akun varausta .

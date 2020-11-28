@@ -1,0 +1,14 @@
+Iskikö Kiina juuri Outlookin käyttäjiä vastaan ?
+Ensin Gmail ja sitten Outlook .
+Ainakin , jos Kiinan verkkovalvontaa arvosteleva GreatFire on osunut oikeaan .
+Microsoftin Outlook-sähköpostipalvelu kärsi noin päivän mittaisesta katkosta lauantaina .
+Tilannetta kaivelleen GreatFiren mukaan kyseessä oli niin sanottu man in the middle -hyökkäys , ja takana olisi Kiinan hallitus .
+Käyttäjät kohtasivat melko vaarattoman näköisiä virheilmoituksia , kun he yrittivät päästä Outlookiin työpöytäsovelluksella imap- ja smtp-protokollien avulla .
+Oletettu hyökkäys koski myös Outlookin mobiilisovellusten käyttäjiä .
+Kaikki oli kuitenkin normaalisti , jos palvelua käytti sen web-liittymän kautta .
+Tämäntyyppinen hyökkäys voi tarkoittaa tietoliikenteen salakuuntelua tai hallintaa asiakkaan ja palveluntarjoajan välissä .
+GreatFire huomasi , että yhteyden tekemiseen käytettiin sellaista omatekoista turvasertifikaattia , jollaisia on nähty aiemmissa hyökkäyksissä Kiinassa sijaitsevia sivustoja vastaan .
+Vähän aikaa sitten Googlen Gmail joutui pimentoon Kiinassa , ja GreatFire tulkitsi sen johtuvan tahallisesta estosta .
+Gmail alkoi kuitenkin taas toimia uudestaan varsin nopeasti .
+Sinänsä Gmailin käyttö on ollut jo pitkään hieman konstikasta , sillä verkkoselaimen kautta siihen ei ole enää toviin päässyt käsiksi .
+Outlookin ongelmasta uutisoi muun muassa The Next Web .

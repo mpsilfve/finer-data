@@ -1,0 +1,23 @@
+T1	ORG 61 69	Mozillan
+T2	ORG 177 198	Mozilla Corporationin
+T3	PER 217 231	Brendan Eichin
+T4	PRO 288 299	Twitterissä
+T5	PER 332 338	Eichin
+T6	ORG 379 387	Mozillan
+T7	PER 411 425	Brendan Eichiä
+T8	PER 478 482	Eich
+T9	DATE 488 499	vuonna 2008
+T10	ORG 625 638	Ars Technican
+T11	ORG 748 756	Mozillan
+T12	PER 786 790	Eich
+T13	ORG 999 1019	Mozillan hallituksen
+T14	PER 1050 1056	Eichin
+T15	ORG 1093 1114	Wall Street Journalin
+T16	ORG 1141 1149	Mozillan
+T17	ORG 1186 1194	Mozillan
+T18	ORG 1216 1223	Mozilla
+T19	PER 1474 1486	Brendan Eich
+T20	ORG 1497 1505	Mozillan
+T21	ORG 1521 1528	Mozilla
+T22	PRO 1553 1573	Firefox-selaimestaan
+T100001	LOC 1093 1104	Wall Street

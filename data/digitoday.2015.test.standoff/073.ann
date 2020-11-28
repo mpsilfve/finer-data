@@ -1,0 +1,17 @@
+T1	ORG 0 6	Uberin
+T2	ORG 24 31	Googlen
+T3	ORG 68 74	Uberin
+T4	ORG 141 148	Googlen
+T5	ORG 216 222	Uberin
+T6	PRO 337 350	Google Mapsin
+T7	ORG 382 388	Uberin
+T8	LOC 568 581	Yhdysvaltojen
+T9	LOC 590 599	Venäjällä
+T10	LOC 602 611	Ranskassa
+T11	LOC 614 624	Meksikossa
+T12	LOC 628 640	Britanniassa
+T13	DATE 713 726	vuodelta 2013
+T14	ORG 758 762	Uber
+T15	ORG 841 846	ZDNet
+T16	PRO 890 907	Uber-sovellukseen
+T100001	ORG 337 343	Google

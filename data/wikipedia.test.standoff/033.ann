@@ -1,0 +1,41 @@
+T1	PER 0 15	Anthony Kennedy
+T2	PER 16 38	Anthony McLeod Kennedy
+T3	DATE 44 63	23. heinäkuuta 1936
+T4	LOC 64 74	Sacramento
+T5	LOC 77 87	Kalifornia
+T6	ORG 93 125	Yhdysvaltain korkeimman oikeuden
+T7	DATE 156 172	helmikuussa 1988
+T8	PER 185 200	Ronald Reaganin
+T9	PER 215 223	Kennedyn
+T10	ORG 386 408	Harvardin yliopistossa
+T11	PER 409 416	Kennedy
+T12	ORG 426 449	Stanfordin yliopistossa
+T13	ORG 453 483	London School of Economicsissa
+T14	LOC 514 527	Kaliforniassa
+T15	ORG 597 626	University of the Pacificissa
+T16	DATE 627 644	vuosina 1965–1988
+T17	DATE 647 658	Vuonna 1975
+T18	PER 671 682	Gerald Ford
+T19	PER 691 699	Kennedyn
+T20	ORG 700 735	Yhdysvaltain vetoomustuomioistuimen
+T21	DATE 774 785	Vuoden 1987
+T22	PER 812 825	Ronald Reagan
+T23	DATE 862 872	kesäkuussa
+T24	PER 892 909	Lewis F. Powellin
+T25	PER 980 987	Kennedy
+T26	DATE 1003 1022	18. helmikuuta 1988
+T27	PER 1039 1049	Kennedystä
+T28	PER 1109 1116	Kennedy
+T29	PER 1126 1134	Reaganin
+T30	PER 1196 1204	Reaganin
+T31	PER 1230 1243	Robert Borkin
+T32	DATE 1244 1254	lokakuussa
+T33	PER 1272 1291	Douglas H. Ginsburg
+T34	ORG 1426 1445	Korkeimman oikeuden
+T35	PER 1455 1470	Antonin Scalian
+T36	DATE 1479 1495	helmikuussa 2016
+T37	PER 1496 1506	Kennedystä
+T100001	LOC 93 105	Yhdysvaltain
+T100002	PER 386 395	Harvardin
+T100003	LOC 426 436	Stanfordin
+T100004	LOC 700 712	Yhdysvaltain

@@ -1,0 +1,19 @@
+T1	ORG 0 7	Googlen
+T2	LOC 35 44	Venäjälle
+T3	ORG 45 51	Google
+T4	LOC 92 99	Venäjän
+T5	ORG 201 208	Googlen
+T6	LOC 260 269	Venäjällä
+T7	ORG 548 554	Google
+T8	LOC 642 649	Venäjän
+T9	ORG 685 713	Yhdysvaltain olympiakomitean
+T10	ORG 736 740	AT&T
+T11	ORG 743 759	DeVry University
+T12	ORG 782 789	Chobani
+T13	ORG 900 908	LA Times
+T14	ORG 993 1003	McDonald's
+T15	ORG 1006 1015	Coca-Cola
+T16	ORG 1019 1023	Visa
+T17	ORG 1119 1126	Googlen
+T100001	LOC 685 697	Yhdysvaltain
+T100002	LOC 900 902	LA

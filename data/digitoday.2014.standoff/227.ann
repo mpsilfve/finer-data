@@ -1,0 +1,22 @@
+T1	LOC 67 75	Suomessa
+T2	ORG 548 560	TeliaSoneran
+T3	PER 595 614	Arttu Lehmuskallion
+T4	PER 740 753	Lehmuskallion
+T5	LOC 761 769	Suomessa
+T6	PER 1066 1078	Lehmuskallio
+T7	PER 1761 1773	Lehmuskallio
+T8	PER 1785 1798	Lehmuskallion
+T9	PER 2182 2194	Lehmuskallio
+T10	PER 3392 3405	Ilkka Sovanto
+T11	ORG 3406 3452	Viestintäviraston Kyberturvallisuuskeskuksesta
+T12	PER 3455 3463	Sovannon
+T13	ORG 3543 3554	TeliaSonera
+T14	ORG 3558 3561	DNA
+T15	PER 3716 3730	Ville Partanen
+T16	ORG 3760 3767	DNA:lta
+T17	PER 4620 4633	Ilkka Sovanto
+T18	ORG 4634 4662	Kyberturvallisuuskeskuksesta
+T19	ORG 4684 4695	TeliaSonera
+T20	PRO 4811 4825	Viihde-palvelu
+T21	PER 4860 4878	Arttu Lehmuskallio
+T22	ORG 4881 4888	DNA:lla

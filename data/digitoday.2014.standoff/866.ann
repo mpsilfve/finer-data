@@ -1,0 +1,17 @@
+T1	PRO 0 9	Obamacare
+T2	LOC 40 52	Yhdysvaltain
+T3	PER 87 100	Barack Obaman
+T4	PRO 292 311	Affordable Care Act
+T5	PER 516 528	Barack Obama
+T6	LOC 545 555	Piilaakson
+T7	ORG 643 648	CBO:n
+T8	PRO 663 672	Obamacare
+T9	ORG 1011 1026	Huffington Post
+T10	ORG 1029 1034	CBO:n
+T11	PRO 1042 1056	Obamacare-lain
+T12	DATE 1066 1077	vuonna 2014
+T13	ORG 1346 1361	Valkoisen talon
+T14	ORG 1388 1393	CBO:n
+T15	ORG 1806 1811	CBO:n
+T16	DATE 1902 1913	vuonna 2016
+T100001	PER 1011 1021	Huffington

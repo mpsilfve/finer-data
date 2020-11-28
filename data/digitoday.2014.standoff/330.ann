@@ -1,0 +1,34 @@
+T1	ORG 34 41	Intelin
+T2	ORG 80 88	MediaTek
+T3	LOC 120 127	Oulussa
+T4	LOC 143 155	Yhdysvaltain
+T5	ORG 194 199	Intel
+T6	ORG 228 238	MediaTekin
+T7	ORG 241 249	MediaTek
+T8	ORG 253 258	Intel
+T9	ORG 333 340	Intelin
+T10	ORG 471 479	MediaTek
+T11	ORG 529 539	MediaTekin
+T12	ORG 557 564	Intelin
+T13	ORG 623 628	Intel
+T14	ORG 650 654	Cnet
+T15	LOC 718 732	Yhdysvalloissa
+T16	ORG 926 934	MediaTek
+T17	LOC 954 962	Intiassa
+T18	LOC 966 974	Suomessa
+T19	LOC 1032 1043	Kalifornian
+T20	LOC 1044 1056	San Diegossa
+T21	ORG 1081 1091	Qualcommin
+T22	LOC 1117 1125	Kiinassa
+T23	LOC 1129 1141	Itä-Aasiassa
+T24	ORG 1153 1161	MediaTek
+T25	ORG 1359 1365	Cnetin
+T26	ORG 1381 1391	MediaTekin
+T27	PER 1401 1420	Ching-Jiang Hsiehin
+T28	ORG 1428 1440	MediaTekillä
+T29	LOC 1494 1506	Yhdysvaltain
+T30	ORG 1600 1608	T-Mobile
+T31	ORG 1625 1635	MediaTekin
+T32	ORG 1702 1712	MediaTekin
+T33	PRO 1743 1766	Alcatel OneTouch Fierce
+T34	PRO 1769 1788	Evolve and Evolve 2

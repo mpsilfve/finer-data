@@ -1,0 +1,11 @@
+T1	ORG 260 262	LG
+T2	LOC 273 282	Berliinin
+T3	EVENT 283 296	IFA-messuilla
+T4	DATE 297 314	4. - 9. syyskuuta
+T5	ORG 426 430	LG:n
+T6	PRO 480 497	SmartThinQ Sensor
+T7	PRO 623 633	SmartThinQ
+T8	ORG 842 844	LG
+T9	LOC 855 866	Berliinissä
+T10	ORG 919 937	Allseen Allianssin
+T11	PRO 957 1000	AllJoyn-nimistä esineiden internet -alustaa

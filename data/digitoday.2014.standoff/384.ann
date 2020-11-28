@@ -1,0 +1,19 @@
+T1	ORG 24 34	Facebookin
+T2	ORG 35 47	Internet.org
+T3	LOC 53 61	Intiassa
+T4	ORG 62 72	Facebookin
+T5	ORG 80 92	Internet.org
+T6	LOC 120 127	Intiaan
+T7	LOC 201 209	Intiassa
+T8	ORG 210 220	Facebookin
+T9	ORG 221 235	Internet.orgin
+T10	ORG 260 268	Reliance
+T11	PRO 537 545	Facebook
+T12	PRO 563 610	Opera Mini- tai Android UC Browser - selaimella
+T13	ORG 670 683	Total Telecom
+T14	ORG 686 698	Internet.org
+T15	DATE 734 745	heinäkuussa
+T16	LOC 746 755	Sambiassa
+T17	LOC 774 782	Keniassa
+T18	LOC 785 793	Ghanassa
+T19	LOC 797 808	Kolumbiassa

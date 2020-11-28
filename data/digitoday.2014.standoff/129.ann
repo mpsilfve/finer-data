@@ -1,0 +1,22 @@
+T1	ORG 0 5	Apple
+T2	ORG 56 61	Apple
+T3	LOC 132 145	Kaliforniasta
+T4	ORG 193 198	Apple
+T5	ORG 335 346	First Solar
+T6	LOC 347 359	Kaliforniaan
+T7	ORG 419 424	Apple
+T8	ORG 445 454	Reutersin
+T9	ORG 543 549	Applen
+T10	LOC 582 594	Cupertinossa
+T11	LOC 647 660	Kaliforniassa
+T12	ORG 693 699	Applen
+T13	LOC 700 710	Newarkissa
+T14	ORG 790 798	Applessa
+T15	ORG 884 890	Applen
+T16	PER 902 910	Tim Cook
+T17	ORG 917 926	Reutersin
+T18	ORG 993 998	Apple
+T19	ORG 1059 1065	Applen
+T20	ORG 1099 1104	Apple
+T21	PER 1168 1172	Cook
+T22	ORG 1298 1304	Applen

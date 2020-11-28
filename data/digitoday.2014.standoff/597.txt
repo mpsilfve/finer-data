@@ -1,0 +1,14 @@
+" Microsoft otti askeleen taaksepäin tietoturvassa "
+Myös tietoturvayhtiö Sophoksella on vaikeuksia ymmärtää , miksi Microsoft lakkasi tiedottamasta haavoittuvuuksien korjauksesta etukäteen .
+Microsoft yllätti kaikki , kun se muutama päivä sitten sanoi lopettavansa yleisen tiedottamisen tulevista tietoturvakorjauksistaan .
+Yhtiö on kertonut perustiedot joka kuukauden korjauksistaan viisi päivää ennen niiden julkaisua , mutta nyt ennakkotiedoista pitää maksaa .
+Digitoday kummasteli asiaa tuoreeltaan viime torstaina .
+Asia on herättänyt huomiota myös tietoturvapiireissä , sillä ainakaan tietoturvayhtiö Sophoksen asiantuntijalle muutos ei käy laatuun .
+– Näyttää siltä , että Microsoft aloittaa vuoden 2015 väärällä jalalla , Chester Wisniewski kirjoittaa Sophoksen Naked Security -blogissa .
+Hän kertoo pettyneensä välittömästi luettuaan Microsoftin ilmoituksen .
+Ennakkotiedot korjauksista ovat käteviä esimerkiksi yritysten it-vastaaville , joiden on sitten varsinaisena paikkaustiistaina tai sen jälkeen mahdollista ajaa korjaukset sisään häiriöt minimoiden .
+Wisniewski muistaa , miten Microsoft ryhdistäytyi tietoturvassa vuonna 2002 , kun se perusti Trustworthy Computing -ryhmän .
+Sen myötä Microsoft alkoi toimittaa korjauksia ohjelmistoihinsa joka kuukauden toisena tiistaina .
+Yhtiö sulki ryhmän viime syksynä .
+Sophoksen asiantuntija jää miettimään , onko Microsoft eksynyt tietoturvan kultaiselta tieltä , jonka se itse rakensi muidenkin tahojen kuljettavaksi .
+– Toivon , että Microsoft harkitsee uudelleen [ ennakkoilmoitusten lopettamista ] , mutta jos ei , toivokaamme , että tämä on ainoa askel taaksepäin , jonka se tekee , Wisniewski tylyttää .

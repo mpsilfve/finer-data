@@ -1,0 +1,27 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 18 39	Nokia Lumia -tabletin
+T3	ORG 77 86	Microsoft
+T4	PRO 95 121	Nokia Lumia 2520 -tabletin
+T5	ORG 137 146	Microsoft
+T6	PRO 185 211	Nokia Lumia 2520 -tabletin
+T7	ORG 246 255	The Verge
+T8	ORG 258 263	Nokia
+T9	DATE 303 325	vuoden 2013 lokakuussa
+T10	PRO 360 370	Windows RT
+T11	ORG 378 387	Microsoft
+T12	PRO 407 432	Surface RT -tableteissaan
+T13	ORG 435 444	Microsoft
+T14	PRO 485 504	Surface 2 -tabletin
+T15	PRO 535 564	Windows RT -käyttöjärjestelmä
+T16	PRO 567 588	Lumian 2520 -tabletin
+T17	ORG 596 605	Microsoft
+T18	PRO 641 653	Windows RT:n
+T19	ORG 656 665	Microsoft
+T20	PRO 680 702	Windows RT -tablettien
+T21	ORG 722 728	Lenovo
+T22	ORG 731 735	Asus
+T23	ORG 739 743	Dell
+T24	PRO 788 801	Windows RT:tä
+T100001	ORG 18 23	Nokia
+T100002	ORG 95 100	Nokia
+T100003	ORG 185 190	Nokia

@@ -1,0 +1,19 @@
+T1	ORG 43 58	Neiman Marcusin
+T2	ORG 180 193	Neiman Marcus
+T3	ORG 431 437	Neiman
+T4	ORG 664 679	Neiman Marcusin
+T5	PER 691 701	Karen Katz
+T6	DATE 785 799	16. heinäkuuta
+T7	DATE 868 881	30. lokakuuta
+T8	PER 890 896	Katzin
+T9	ORG 904 910	Neiman
+T10	DATE 944 974	tammikuun ensimmäisenä päivänä
+T11	ORG 977 983	Neiman
+T12	ORG 1110 1118	Targetin
+T13	ORG 1150 1156	Target
+T100001	PER 43 49	Neiman
+T100002	PER 50 58	Marcusin
+T100003	PER 180 186	Neiman
+T100004	PER 187 193	Marcus
+T100005	PER 664 670	Neiman
+T100006	PER 671 679	Marcusin

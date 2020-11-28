@@ -1,0 +1,13 @@
+T1	ORG 122 127	Intel
+T2	ORG 190 195	Intel
+T3	PRO 322 341	Curie-nimisen sirun
+T4	PRO 457 462	Curie
+T5	PRO 647 652	Curie
+T6	ORG 697 704	Gizmodo
+T7	PRO 772 778	Curien
+T8	PRO 834 849	Curie-moduulien
+T9	ORG 925 932	Intelin
+T10	PER 944 958	Brian Krzanich
+T11	LOC 1022 1033	Las Vegasin
+T12	EVENT 1034 1047	CES-messuilla
+T13	ORG 1058 1064	Cnetin

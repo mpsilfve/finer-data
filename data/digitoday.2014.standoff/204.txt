@@ -1,0 +1,9 @@
+Yllätys : Microsoft vahvisti Windows 10:n hinnoittelun
+Windows 10 on ilmainen päivitys , mutta tarjous ei kestä ikuisesti .
+Toisin kuin aiemmin on arvioitu , Microsoft vahvisti kuin vahvistikin Windows 10:n hinnoittelun .
+Kyseessä on ilmainen päivitys Windows 7- ja 8.1-käyttäjille .
+Tarjous on voimassa vuoden siitä hetkestä , kun Windows 10 tuodaan kuluttajamyyntiin .
+Myös Windows Phone 8.1 -käyttäjät saavat päivittää älylaitteensa Windows 10:een maksutta , yhtiö kertoi illan tilaisuudessaan .
+Windows 10:n kehitystyöhön on osallistumassa tällä hetkellä 1,7 miljoonaa Windows Insider -ohjelmaan rekisteröitynyttä käyttäjää .
+He ovat tarjonneet Microsoftille yhteensä jo 800\_000 kehitysehdotusta ja virheraporttia .
+Microsoftin Terry Myerson käyttikin pitkän tovin ja erillisen insertin verran aikaa kehuakseen ja kiittääkseen kaikkia Windows 10:n kehitystyöhön tähän asti osallistuneita vapaaehtoisia .

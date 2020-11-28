@@ -1,0 +1,21 @@
+T1	ORG 28 30	LG
+T2	ORG 58 67	Samsungin
+T3	ORG 157 159	LG
+T4	ORG 174 188	LG Electronics
+T5	ORG 236 246	Qualcommin
+T6	PRO 272 288	Snapdragon 810:n
+T7	ORG 298 300	LG
+T8	PRO 332 350	G Flex2 -puhelimen
+T9	PRO 415 422	810:aan
+T10	ORG 485 489	LG:n
+T11	PER 532 544	Woo Ram-chan
+T12	ORG 551 560	Reutersin
+T13	ORG 595 604	Bloomberg
+T14	ORG 685 704	Samsung Electronics
+T15	PRO 760 787	Galaxy S6 -huippumallissaan
+T16	ORG 828 835	Samsung
+T17	ORG 839 847	Qualcomm
+T18	ORG 880 884	LG:n
+T19	PER 885 897	Woo Ram-chan
+T20	ORG 1036 1038	LG
+T21	ORG 1042 1049	Samsung

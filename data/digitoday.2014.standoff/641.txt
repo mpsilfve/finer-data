@@ -1,0 +1,12 @@
+Julkkisten nakukuvat ajoivat Applen kaksivaihetunnistukseen
+Apple tuo kaksivaiheisen tunnistuksen iMessage- ja FaceTime-viestipalveluihin .
+Käyttäjät saavat melko hyvän suojan tiliensä kaappauksia vastaan , jos he ottavat lisätunnistuksen käyttöön .
+Kaksivaiheinen tunnistus seuraa viime syksyn selkkausta , jolloin suurta määrää julkkisten yksityisiä , Applen palvelusta varastettuja kuvia leviteltiin internetissä .
+Applen vuototutkimuksissa selvisi , että hakkerit eivät olleet päässeet käsiksi sen tietokantoihin , vaan kuvat oli kaapattu uhrien omilla tunnuksilla .
+Apple suojasi jo vuonna 2013 Apple ID -tilit kaksivaiheisella tunnistuksella .
+Apple ID’tä käytetään ostoksiin iTunes- ja App Store -verkkokaupoista ja tilin tietojen muuttamiseen .
+Kaksivaiheinen tunnistus on käytössä muun muassa Googlella , Twitterillä ja Facebookilla .
+Tavallisesti toinen vaihe tunnuksen ja salasanan jälkeen on koodi , joka lähetetään etukäteen ilmoitettuun matkapuhelinnumeroon .
+Palvelu pyytää lisätunnistusta usein silloin , kun käyttäjä linkkautuu palveluun uudelta koneelta .
+Asiasta uutisoi muun muassa Cnet .
+Applen tukisivuilla selostetaan kaksivaiheisen tunnistuksen käyttöä .

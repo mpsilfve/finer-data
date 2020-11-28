@@ -1,0 +1,13 @@
+T1	ORG 0 7	Googlen
+T2	ORG 54 61	Googlen
+T3	LOC 72 82	Euroopassa
+T4	LOC 116 125	Belgiassa
+T5	ORG 199 206	Googlen
+T6	ORG 290 297	Googlen
+T7	ORG 477 480	BBC
+T8	ORG 704 710	Google
+T9	PRO 720 745	Cloud Platform -sivullaan
+T10	DATE 841 853	13. elokuuta
+T11	DATE 869 881	17. elokuuta
+T12	ORG 1233 1239	Google
+T13	ORG 1259 1263	EU:n

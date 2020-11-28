@@ -1,0 +1,15 @@
+T1	ORG 0 7	Intelin
+T2	ORG 69 76	Intelin
+T3	DATE 129 140	vuonna 2014
+T4	ORG 232 237	Intel
+T5	ORG 445 452	Intelin
+T6	DATE 473 489	loka–joulukuussa
+T7	ORG 693 698	Intel
+T8	PER 810 824	Brian Krzanich
+T9	PER 1055 1065	Krzanichin
+T10	ORG 1266 1280	FierceWireless
+T11	ORG 1290 1301	Bloombergin
+T12	ORG 1338 1345	Intelin
+T13	ORG 1395 1403	Qualcomm
+T14	ORG 1407 1441	Taiwan Semiconductor Manufacturing
+T100001	LOC 1407 1413	Taiwan

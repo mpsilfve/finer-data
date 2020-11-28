@@ -1,0 +1,22 @@
+Kaatoiko 17-vuotias suomalaisteini Facebookin ?
+- Vihjaalentoyhtiömurrostakin
+Lizard Squad väittää kaataneensa suositut sosiaalisen median palvelut .
+Facebook , Instagram , Tinder , AIM ( Aol Instant Messenger ) sekä Hipcat olivat nurin tiistaiaamuna Suomen aikaa .
+Vastuun palveluiden kaatamisesta otti Twitterissä Lizard Squad -hakkeriryhmä .
+Liskot vihjasivat myös , etteivät kaataneet Twitteriä , koska he käyttävät sitä itse omaan viestintäänsä .
+Erillisessä tviitissä ryhmä sanoi kaataneensa myös Myspacen .
+> Facebook , Instagram , Tinder , AIM , Hipchat #offline #LizardSquad— Lizard Squad ( @ LizardMafia ) January 27 , 2015
+.
+Eräässä Lizard Squadin tviitissä esiintyy mitä ilmeisimmin ryhmän suomalaisjäsen " Ryan " pidellen käsissään " dox me " -kylttiä .
+Doxaus on nettislangi-ilmaus toisten henkilökohtaisten tietojen etsimiselle ja levittämiselle .
+Tässä yhteydessä tätä voidaan pitää haasteena .
+On vaikea arvioida , onko sosiaalisten median palveluiden ongelma todella Lizard Squadin tekosia .
+Sillä on kuitenkin resursseja massiivisten iskujen tekemiseen , sillä ryhmä kaatoi jouluna Xbox Liven ja Playstation Networkin .
+Lizard Squadilla on käytössä palvelunestohyökkäyksiin oma bottiverkkonsa , jota se vuokraa myös ulkopuolisille .
+Verkko perustuu pääosin ihmisten kotona oleviin murrettuihin reitittimiin .
+Lizard Squad väittää olevansa myös kovan onnen lentoyhtiö Malaysian Airlinesin sivuille hiljattain tehdyn iskun takana .
+Lentoyhtiön sivuille ilmestyi pari päivää sitten " 404 - Plane missing " - " virheilmoitus " .
+Http-protokollaan kuuluva 404-ilmoitus palvelimen ilmoitusta siitä , että pyydettyä sivua ei löydy .
+Lizard Squad väittää halussaan olevan lentoyhtiön sähköposteja .
+Lentoyhtiö puolestaan ilmoittaa , että sen käyttäjien tiedot ovat turvassa .
+Doxauksen määritelmä korjattu .

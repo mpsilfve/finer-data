@@ -1,0 +1,38 @@
+Tylyä puhetta Suomen pankki-iskusta : " Torjunnassa selviä puutteita "
+Ficixin puheenjohtajan mukaan palvelunestohyökkäys OP:tä vastaan ei edes vaikuttanut erityisen haastavalta .
+Suomen internet-liikennettä näköalapaikalta katsova Jorma Mellin arvostelee OP-ryhmää , sen palveluntarjoajaa ja teleoperaattoreita OP:n kärsimästä palvelunestohyökkäyksestä , joka ensi alkuun esti pahasti OP:n pankkipalveluja toimimasta .
+– Tutkin hieman tuota vuodenvaihteen hyökkäystä ja se ei näyttänyt mitenkään erityisen haastavalta torjuttavaksi , Suomen ip-yhdysliikennepiste Ficixin puheenjohtaja Mellin arvioi .
+Hänen mukaansa " tässä tapauksessa on selkeitä puutteita sekä uhrin omissa järjestelyissä että liikenteen välittäjillä " .
+– Olisikohan käynyt niin , että teleyritysten turvallisuuspuolen henkilöstöä – sellaista , jolla on kompetenssia internetin reitityksiin ja yleisiin rakenteisiin – olisi ollut vuodenvaihteessa lomalla .
+Tai sitten sitä ei yksinkertaisesti teleyrityksissä riittävällä tasolla ole lainkaan , Mellin pohtii .
+Ainakin TeliaSonerassa tämä epäilys tyrmätään vahvasti .
+– Meillä on osaava henkilöstö töissä 24/7 lomista riippumatta .
+Oli silloin ja on tulevaisuudessakin , TeliaSoneran viestintä- ja yhteiskuntasuhdejohtaja Tatu Tuominen sanoo .
+TeliaSonerasta ei haluttu kommentoida Mellinin arvioita enempää .
+25 gigabittiä sekunnissa
+Ficixin Jorma Mellinin mukaan palvelunestohyökkäyksen voima oli noin 25 Gbps , jota hän pitää maailman mittakaavassa " juuri ja juuri keskikokoisena " .
+Viestintäviraston Kyberturvallisuuskeskuksen johtava asiantuntija Kauto Huopio kuitenkin painottaa , että 25 gigabittiä sekunnissa ei sekään ole mitenkään vähän .
+–Tämän kokoluokan hyökkäys ylittää useimman yrityksen käytössä olevien internet-liittymien kapasiteetin ja vaatii monitasoista torjuntaa yhteistyössä operaattorin ja ict-palveluntarjoajan kanssa , Huopio sanoo .
+Huopion mukaan palvelunestohyökkäyksiä varten on vaikea harjoitella , ja jokainen palvelunestohyökkäys on erilainen .
+Torjunnassa ja toipumisessa on paljon liikkuvia osia .
+Kaiken kaikkiaan Huopio arvioi yhteistyön sujuneen " suoraviivaisesti ja asianmukaisesti " Viestintäviraston , OP:n , teleoperaattorien ja ict-toimijoiden kuten OP:n käyttämän Tiedon välillä .
+" Suomen mittakaavalla poikkeuksellisen suuri "
+Hyökkäyksen pakettimäärä oli sitten Mellininkin mukaan jo huomattavan iso , miljoonia paketteja sekunnissa .
+– Analysoimani aineiston perusteella OP-pankkiin vaikuttivat molemmat ( gigabitit sekunnissa ja pakettimäärä ) .
+Kapasiteetin täyttyminen aiheutti linjan tukkeutumisen , ja pakettien tietosisältö tukki palvelimet ja/tai kuormantasaimet .
+– Analyysin perusteella myös tehdyt korjaustoimenpiteet olivat amatöörimäiset tai sitten palvelun keskittämisen vuoksi ei ollut mahdollisuutta tehdä mitään oikeasti merkittäviä pelastustoimia , Mellin tykittää .
+Pankin keskittämisellä Mellin tarkoittaa sitä , etteivät operaattorit olleet hajauttaneet pankin tietoliikennettä oltu hajautettu tarpeeksi useille reiteille , mikä helpotti OP:n verkkopalvelun ruuhkauttamista palvelunestohyökkäyksellä .
+OP:n tietojärjestelmistä vastaava Tieto ei ottanut kantaa yksittäisiin syytöksiin , mutta antoi lausunnon :
+– Jälkikäteen voi analyysejä tehdä .
+Suomen mittakaavalla hyökkäys oli poikkeuksellisen suuri , erityisesti yhteydenottojen ja tietoliikennepakettien määrä teki tilanteesta haasteellisen .
+Tällaisissa tapauksissa kaikkein tärkeintä on saumaton yhteistyö kaikkien toimijoiden – asiakkaan , palveluntoimittajan , laitetoimittajien , viranomaisten ja teleoperaattorien – välillä , toteaa Tiedon riskienhallintajohtaja Mikael Salonaho .
+Viestintävirasto : Lakia ei rikottu
+Puheenjohtaja Mellinin mukaan teleyrityksillä täytyy lain ja Viestintäviraston määräysten valossa olla kyvykkyys tällaisten hyökkäysten estämiseen ja torjumiseen .
+Hän jäi miettimään , onko Viestintävirasto valvonut , että näitä säädöksiä noudatetaan .
+Viestintävirastossa on jo selvä näkemys asiasta .
+– Viestintävirasto ei epäile , etteikö tässä olisi toimittu viraston valvoman lainsäädännön ja määräysten mukaisesti , Viestintäviraston Kyberturvallisuuskeskuksen lakimies Eija Alavesa kiteyttää .
+Virasto edellyttää , että teleyrityksillä on oltava valmiudet haitallisen tietoliikenteen jäljittämiseen ja niiden pitää pystyä havaitsemaan ja suodattamaan poikkeava liikenne .
+Mutta teleyrityksiltä ei vaadita , että hyökkäykset pystytään torjumaan välittömästi .
+Nyt yli viikko OP-hyökkäyksen alkamisen jälkeen virastossa ei nähdä , että operaattorit olisivat jotenkin rikkoneet velvoitteitaan .
+Viestintävirastossa ollaan valmiita tarkastelemaan , ovatko määräykset ajan tasalla .
+Huopion mukaan ne ovat jo nyt yhdet Euroopan tarkimmista , mitä tulee teleyritysten poikkeustilanteiden hallintaan .

@@ -1,0 +1,39 @@
+T1	ORG 0 6	Applen
+T2	PER 7 11	Cook
+T3	PRO 40 48	iPhoneja
+T4	LOC 63 69	Kiinan
+T5	ORG 101 113	China Mobile
+T6	ORG 135 141	Applen
+T7	PRO 142 158	iPhone-puhelimen
+T8	ORG 205 211	Applen
+T9	PER 212 220	Tim Cook
+T10	ORG 224 237	China Mobilen
+T11	PER 238 247	Xi Guohua
+T12	LOC 257 267	Pekingissä
+T13	ORG 314 327	China Mobilen
+T14	LOC 349 359	Pekingissä
+T15	ORG 402 408	Applen
+T16	PER 420 428	Tim Cook
+T17	PER 471 480	Xi Guohua
+T18	ORG 559 574	China Mobilella
+T19	PRO 617 624	iPhonen
+T20	ORG 716 728	China Unicom
+T21	PRO 741 748	iPhonea
+T22	DATE 749 773	vuoden 2009 marraskuussa
+T23	ORG 777 790	China Telecom
+T24	DATE 791 815	vuoden 2012 maaliskuussa
+T25	ORG 818 823	Apple
+T26	ORG 831 844	China Mobilen
+T27	LOC 863 869	Kiinan
+T28	ORG 938 947	Samsungin
+T29	ORG 996 1005	Canalysin
+T30	ORG 1013 1021	Applella
+T31	LOC 1100 1106	Kiinan
+T32	ORG 1244 1256	China Mobile
+T33	ORG 1260 1265	Apple
+T34	PRO 1289 1296	iPhonen
+T35	DATE 1310 1334	vuoden 2007 marraskuussa
+T36	ORG 1358 1363	Apple
+T37	DATE 1449 1461	marraskuussa
+T38	ORG 1465 1477	China Mobile
+T39	DATE 1508 1522	25. joulukuuta

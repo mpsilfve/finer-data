@@ -1,0 +1,26 @@
+T1	ORG 0 7	Alibaba
+T2	PRO 50 54	Ouya
+T3	PRO 103 118	Kickstarterissa
+T4	ORG 215 234	Wall Street Journal
+T5	ORG 283 290	Alibaba
+T6	PRO 335 341	Ouyaan
+T7	ORG 360 379	Wall Street Journal
+T8	ORG 418 426	Alibaban
+T9	LOC 436 442	Kiinan
+T10	PRO 473 478	Ouyan
+T11	PRO 558 565	Ouyalle
+T12	ORG 589 597	Alibaban
+T13	LOC 613 618	Kiina
+T14	ORG 819 828	Microsoft
+T15	ORG 832 836	Sony
+T16	LOC 856 864	Kiinasta
+T17	PRO 865 873	Xboxille
+T18	PRO 877 892	Playstationille
+T19	PRO 895 899	Ouya
+T20	PRO 907 922	Kickstarterissa
+T21	PRO 1000 1027	Android-käyttöjärjestelmään
+T22	DATE 1045 1058	vuodesta 2013
+T23	PRO 1213 1217	Ouya
+T24	LOC 1284 1296	Yhdysvaltain
+T100001	LOC 215 226	Wall Street
+T100002	LOC 360 371	Wall Street

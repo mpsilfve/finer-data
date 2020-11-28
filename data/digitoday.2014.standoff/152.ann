@@ -1,0 +1,35 @@
+T1	PRO 0 13	Windows 8.1:n
+T2	PRO 41 63	Windows 8.1 update 1:n
+T3	DATE 86 97	huhtikuussa
+T4	ORG 132 136	Wzor
+T5	ORG 170 176	Wzorin
+T6	PRO 193 213	Windows 8.1 update 1
+T7	DATE 229 241	maaliskuussa
+T8	ORG 325 336	Microsoftin
+T9	EVENT 337 355	Build-konferenssin
+T10	DATE 367 378	huhtikuussa
+T11	ORG 415 424	Microsoft
+T12	EVENT 446 464	Build-konferenssin
+T13	PRO 571 588	" Windows 9:ään "
+T14	ORG 591 598	ZDnetin
+T15	PER 599 613	Mary Jo Foleyn
+T16	PRO 644 666	Windows 8.1 update 1:n
+T17	DATE 695 710	11. maaliskuuta
+T18	ORG 741 750	Microsoft
+T19	PRO 870 885	Windows Updaten
+T20	PRO 905 926	Windows 8.1 -päivitys
+T21	PRO 943 952	Windowsin
+T22	PRO 997 1019	Windows 8.1 update 1:n
+T23	PRO 1044 1072	Windows Phonen 8.1 -päivitys
+T24	PER 1075 1081	Foleyn
+T25	PRO 1130 1150	Windows 8.1 update 1
+T26	PRO 1314 1335	Metro-käyttöliittymän
+T27	ORG 1822 1831	Softpedia
+T28	PRO 1848 1868	Windows 8.1 update 1
+T29	PRO 1874 1897	Windows Phone -päivitys
+T30	ORG 1908 1917	Microsoft
+T31	PRO 1954 1965	Windows 9:n
+T32	EVENT 2008 2026	Build-konferenssin
+T33	DATE 2035 2046	huhtikuussa
+T34	PRO 2062 2075	" Threshold "
+T35	DATE 2169 2173	2015

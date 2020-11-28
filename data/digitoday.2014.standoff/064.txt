@@ -1,0 +1,14 @@
+Intel osti kotiverkkojen yhdistäjän
+Intel on ostanut yksityisen Lantiq-yhtiön , joka oli ennen osa puolijohdejätti Infineonia .
+Intel sanoo Lantiqin tuotteiden laajentavan sen jalansijaan kotien verkkoteknologiassa ja esineiden internetissä .
+Intel ei kerro tiedotteessaan kaupan hintaa , mutta odottaa saavansa kaupan loppuun suhteellisen nopeasti , 90 päivässä .
+Lantiq perustettiin 2009 , jolloin Infineon myi lankaverkkojen puolijohdetuotteet investointiyritys Golden Gate Capitalille ja Deutsche Telekomille .
+Silloin kauppahinta oli noin 400 miljoonaa dollaria Wall Street Journalin mukaan .
+Yrityksen pääkonttori sijaitsee Saksassa lähellä Müncheniä .
+Lantiq on erikoistunut suunnittelemaan siruja , jotka yhdistävät erilaisia verkkoteknologioita ja niitä käyttäviä laitteita .
+Yhtiö ei valmista piirejä itse .
+Siruilla on kuitenkin tärkeä rooli esineiden internetiä rakennettaessa ja kotien erilaisia laitteita keskenään yhdistettäessä .
+Intel , joka sanoo Lantiqin tuotteiden täydentävän omaa kaapelimodeemi- ja lte-bisnestään , on menestynyt hyvin esineiden internet -liiketoiminnassa .
+Sen IoT-yksikkö teki 591 miljoonaa dollaria liikevaihtoa vuoden 2014 viimeisellä neljänneksellä ja 185 miljoonaa dollaria liikevoittoa .
+FierceWirelessin mukaan IoT-yksikön viime vuoden liikevaihto oli 2,14 miljardia ja liikevoitto 616 miljoonaa dollaria .
+Intel julkisti joulukuussa IoT-alustan , jonka on määrä yksinkertaistaa esineiden internetin yhdistämistä ja turvallisuutta .

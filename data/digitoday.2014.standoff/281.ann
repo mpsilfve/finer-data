@@ -1,0 +1,13 @@
+T1	ORG 100 107	Iridium
+T2	ORG 184 196	Globalstarin
+T3	PRO 234 247	Go-palvelunsa
+T4	ORG 291 301	Globalstar
+T5	ORG 538 570	Yhdysvaltain viestintävirastolta
+T6	ORG 573 580	Iridium
+T7	PRO 878 888	Iridium Go
+T8	ORG 966 980	FierceWireless
+T9	ORG 988 997	GigaOmiin
+T10	ORG 1074 1083	Iridiumin
+T11	PER 1101 1113	Matt Deschin
+T12	PRO 1385 1395	Iridium Go
+T100001	LOC 538 550	Yhdysvaltain

@@ -1,0 +1,20 @@
+Nokian väitetyissä Androideissa on kolme mielenkiintoista yksityiskohtaa
+Nimimerkki evleaksin kuvat antavat lisää aihetta spekuloinneille .
+Nokian Windows Phonen rinnalla kehitetystä salaisesta Android-projektista on liikkunut vahvistamattomia tietoja jo jonkin aikaa .
+Niiden mukaan Nokia olisi kehittänyt itselleen haarautetun version Androidista ja räätälöinyt käyttöjärjestelmän omaan käyttöönsä jättäen Googlen palvelut pois .
+Androidin olisi ollut tarkoitus olla Nokian b-suunnitelma siltä varalta , että Windows Phone karahtaa karille .
+Nimimerkki evleaks on julkaissut Twitterissä kolme kuvaa , joiden väitetään kuvaavan Nokian nimeämätöntä Lumia-puhelinta Android-käyttöjärjestelmällä .
+Täysikokoisen kuvan näkee tästä linkistä .
+Evleaks on osoittautunut suhteellisen luotettavaksi ennakkotietojen julkaisijaksi .
+Jos kuvat ovat aitoja , niissä on kolme mielenkiintoista seikkaa .
+Puhelimessa on tupla-sim .
+Tällaisia puhelimia valmistetaan etupäässä kehittyville markkinoille .
+Kyseessä saattaa siis olla täysverisen käyttöjärjestelmän sijaan olla vaihtoehto Ashalle siltä varalta , ettei Windows Phonea saada ajoissa venytettyä kilpailemaan Android-halpapuhelimien hinnalla .
+Halvimmatkin Windows-puhelimet maksavat vielä reilusti edullisimpia Androideja enemmän , joten tarvetta edullisella vaihtoehdolle olisi – varsinkin , jos Asha-käyttöjärjestelmän matka tyssäisi .
+Evleaksin tviitin kommenteissa huomioitiin myös , että näkymä tuo mieleen Nokian N9:n .
+Lyhytikäiseksi jäänyt , monien mielestä Nokian paras puhelin , on kokenut viime aikoina melkoisen arvonnousun .
+N9:n Meegoon perustuu Jolla , Nokia on sittemmin tuonut N9:n ominaisuuksia huippu-Lumioihinsa ( valmiustilan kello ja käynnistäminen tuplanäpäyttämällä ) .
+Kolmas kiinnostava yksityiskohta kuvissa on Android-virtuaalinäppäinten puute ja korvaaminen yhdellä kuvakkeella .
+Tämä olisi melko iso irtiotto muihin mobiilikäyttöjärjestelmiin ja herättää kysymyksen , olisiko Nokialla ( ollut ) varaa esitellä kovin erilaista käyttölogiikkaa .
+Jollahan yrittää sitä parhaillaan , mutta uusien käyttäjien ensireaktio on usein hämmennys .
+Järjestelmään tutustuminen vaati aikansa .

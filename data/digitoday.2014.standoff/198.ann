@@ -1,0 +1,17 @@
+T1	ORG 0 5	Jolla
+T2	PRO 13 21	Sailfish
+T3	PRO 31 57	Sailfish-käyttöjärjestelmä
+T4	ORG 112 117	Jolla
+T5	PRO 128 146	Jolla-älypuhelinta
+T6	ORG 192 197	Jolla
+T7	PER 251 264	Marc Dillonin
+T8	PRO 294 306	Sailfishistä
+T9	PER 456 462	Dillon
+T10	DATE 510 522	maaliskuussa
+T11	LOC 523 533	Barcelonan
+T12	EVENT 534 547	MWC-messuilla
+T13	ORG 996 1004	Jollassa
+T14	PER 1099 1105	Dillon
+T15	DATE 1174 1190	huhti–kesäkuussa
+T16	ORG 1218 1223	Jolla
+T17	DATE 1329 1340	joulukuussa

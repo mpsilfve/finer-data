@@ -1,0 +1,21 @@
+T1	PER 53 72	Michael Robertsonin
+T2	ORG 200 210	MP3Tunesin
+T3	PER 221 238	Michael Robertson
+T4	LOC 259 271	New Yorkissa
+T5	PER 290 301	Robertsonin
+T6	PER 639 648	Robertson
+T7	ORG 788 809	Hollywood Report erin
+T8	ORG 856 864	MP3Tunes
+T9	ORG 936 946	Techdirtin
+T10	ORG 1096 1100	EMIn
+T11	DATE 1101 1112	vuonna 2007
+T12	ORG 1243 1261	Hollywood Reporter
+T13	LOC 1283 1293	New Yorkin
+T14	ORG 1338 1344	Viacom
+T15	ORG 1363 1371	Youtubea
+T16	PER 1426 1445	Michael Robertsonin
+T17	ORG 1478 1486	MP3Tunes
+T18	DATE 1609 1620	vuonna 2012
+T19	ORG 1672 1679	Reuters
+T100001	LOC 788 797	Hollywood
+T100002	LOC 1243 1252	Hollywood

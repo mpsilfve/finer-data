@@ -1,0 +1,10 @@
+Työväenopisto pyysi anteeksi ja teetti selvityksen tietovuodosta
+Uusi kurssinhallintajärjestelmä läpäisi tietoturvatestit , mutta kiire järjestelmän käyttöönotossa johti virheeseen , sanoo Helsingin työväenopisto .
+Helsingin työväenopisto pyytää anteeksi viime viikolla tapahtunutta 13\_600 sähköpostiosoitteen julkistamista .
+Työväenopiston tiedotteen mukaan virhe tapahtui vahingossa uuden Kursor-kurssinhallintajärjestelmän käyttöönoton myötä .
+Virhe pääsi tapahtumaan , kun Työväenopisto korjasi aiempaa virhettä , jossa ihmisille oli lähetetty vahvistuksia väärälle kurssille pääsemisestä .
+Uudelleen lähetettyjen ja oikaistujen kurssivahvistusten mukana lähti lokitiedosto , jossa oli 13\_600 ihmisen sähköpostiosoitteet .
+Muita henkilötietoja lokissa ei ollut .
+Työväenopiston mukaan vuoto tapahtui järjestelmävirheen ja inhimillisen virheen yhdistelmänä .
+Palveluntarjoaja Grynos paikansi virheen pian sen tapahduttua .
+Työväenopiston mukaan Kursor-järjestelmä läpäisi kaikki tietoturvatestit , mutta kiire järjestelmän käyttöönotossa johti virheeseen .

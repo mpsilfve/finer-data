@@ -1,0 +1,166 @@
+T1	LOC 0 11	Inarijärven
+T2	LOC 18 29	Inarijärven
+T3	DATE 101 120	28. joulukuuta 1984
+T4	LOC 121 137	Barentsinmereltä
+T5	LOC 138 144	Suomen
+T6	LOC 165 177	Inarijärveen
+T7	PRO 220 226	SS-N-3
+T8	PRO 231 238	SS-N-12
+T9	LOC 276 290	Neuvostoliitto
+T10	DATE 343 361	2. tammikuuta 1985
+T11	ORG 362 388	Norjan puolustusministeriö
+T12	LOC 510 516	Norjan
+T13	LOC 535 541	Suomea
+T14	ORG 544 562	Suomen pääesikunta
+T15	LOC 600 605	Lapin
+T16	LOC 692 700	Inarissa
+T17	LOC 737 744	Suomeen
+T18	LOC 785 790	Norja
+T19	LOC 807 823	Barentsinmereltä
+T20	LOC 876 882	Suomen
+T21	LOC 920 932	Inarijärveen
+T22	LOC 935 941	Suomen
+T23	PRO 1084 1118	Saab 35 Draken -torjuntahävittäjää
+T24	LOC 1125 1137	Rovaniemeltä
+T25	LOC 1138 1145	Inariin
+T26	ORG 1222 1253	Lapin rajavartioston esikuntaan
+T27	PER 1268 1282	Mauno Koivisto
+T28	PER 1491 1499	Koivisto
+T29	PER 1534 1545	Koivistolla
+T30	PER 1633 1647	Paavo Väyrynen
+T31	LOC 1752 1757	Lapin
+T32	ORG 1989 2004	Norjan hallitus
+T33	ORG 2043 2071	Neuvostoliiton hallitukselle
+T34	LOC 2074 2080	Norjan
+T35	PER 2094 2106	Kåre Willoch
+T36	LOC 2205 2211	Norjan
+T37	LOC 2215 2229	Neuvostoliiton
+T38	LOC 2257 2264	Ruotsin
+T39	LOC 2375 2388	Pohjoismaiden
+T40	ORG 2422 2426	Nato
+T41	LOC 2504 2513	Moskovaan
+T42	ORG 2535 2562	Yhdysvaltain ulkoministeriö
+T43	DATE 2589 2602	4. tammikuuta
+T44	LOC 2603 2617	Neuvostoliitto
+T45	LOC 2657 2663	Suomen
+T46	LOC 2667 2673	Norjan
+T47	LOC 2706 2720	Neuvostoliiton
+T48	LOC 2737 2745	Suomessa
+T49	LOC 2749 2757	Norjassa
+T50	LOC 2830 2836	Suomen
+T51	LOC 2837 2851	Neuvostoliiton
+T52	PER 2867 2883	Vladimir Sobolev
+T53	PER 2903 2917	Paavo Väyrysen
+T54	DATE 3006 3020	28. joulukuuta
+T55	LOC 3021 3037	Barentsinmerellä
+T56	ORG 3069 3099	Neuvostoliiton ulkoministeriön
+T57	ORG 3207 3222	Varsovan liiton
+T58	LOC 3301 3316	Kuolan niemimaa
+T59	LOC 3317 3333	Barentsinmerellä
+T60	LOC 3338 3352	Neuvostoliiton
+T61	LOC 3353 3361	Jäämeren
+T62	LOC 3449 3455	Suomen
+T63	LOC 3525 3536	Helsingissä
+T64	LOC 3568 3576	Inarissa
+T65	LOC 3579 3591	Inarinjärven
+T66	DATE 3631 3645	30. tammikuuta
+T67	PER 3673 3686	Veijo Saijets
+T68	PER 3759 3766	Saijets
+T69	LOC 3868 3881	Naamajärvellä
+T70	LOC 3882 3894	Suolisvuonon
+T71	LOC 3910 3921	Inarijärven
+T72	PER 4035 4042	Saijets
+T73	ORG 4055 4086	Lapin rajavartioston esikuntaan
+T74	LOC 4130 4143	Inarijärveltä
+T75	LOC 4250 4263	Naamajärveltä
+T76	PER 4277 4284	Saijets
+T77	ORG 4325 4343	Suomen ilmavoimien
+T78	LOC 4411 4424	Inarijärvestä
+T79	LOC 4712 4725	Inarijärvelle
+T80	PER 4734 4743	Saijetsin
+T81	LOC 4780 4786	Suomen
+T82	LOC 5128 5140	Inarijärveen
+T83	DATE 5177 5191	30. tammikuuta
+T84	ORG 5239 5263	Ilmavoimien pääesikunnan
+T85	LOC 5352 5368	Neuvostoliittoon
+T86	ORG 5371 5386	Ulkoministeriön
+T87	PER 5419 5432	Eero Kekomäki
+T88	LOC 5507 5521	Neuvostoliiton
+T89	DATE 5570 5584	31. tammikuuta
+T90	LOC 5644 5658	Inarinjärvestä
+T91	DATE 5701 5714	1. helmikuuta
+T92	LOC 5743 5757	Neuvostoliiton
+T93	LOC 5879 5891	Inarijärveen
+T94	DATE 5894 5907	2. helmikuuta
+T95	ORG 5988 6013	Matkailun edistämiskeskus
+T96	LOC 6045 6051	Suomea
+T97	PER 6052 6062	Joulupukin
+T98	ORG 6116 6121	MEK:n
+T99	LOC 6122 6127	Lapin
+T100	PER 6166 6180	Teuvo Kajamaan
+T101	PER 6202 6214	Joulupukkina
+T102	PER 6265 6274	Katajamaa
+T103	PER 6365 6375	joulupukki
+T104	ORG 6546 6551	MEK:n
+T105	DATE 6835 6851	tammikuussa 1985
+T106	LOC 6856 6863	Lapissa
+T107	DATE 6899 6910	tammikuussa
+T108	DATE 6931 6935	6.1.
+T109	LOC 6942 6948	Sallan
+T110	LOC 6949 6959	Naruskassa
+T111	LOC 7027 7038	Inarijärven
+T112	ORG 7351 7367	Puolustusvoimien
+T113	LOC 7388 7401	Tikkakoskella
+T114	LOC 7405 7416	Tampereella
+T115	DATE 7659 7672	8. helmikuuta
+T116	LOC 7673 7679	Suomen
+T117	LOC 7721 7734	Vainikkalassa
+T118	LOC 7735 7749	Neuvostoliiton
+T119	ORG 7767 7780	Suomen valtio
+T120	LOC 7943 7957	Neuvostoliitto
+T121	ORG 8092 8108	Hotelli Ivalossa
+T122	PRO 8156 8172	” Sirpalesoppa ”
+T123	PRO 8175 8191	” Rakettirautu ”
+T124	PRO 8195 8214	” Löytäjän leivos ”
+T125	PER 8413 8425	Jukka Tarkan
+T126	ORG 8433 8454	Suomen rajavartioston
+T127	ORG 8497 8514	Varsovan liitolle
+T128	ORG 8520 8527	NATOlle
+T129	LOC 8775 8781	Suomen
+T130	LOC 8896 8906	Euroopassa
+T131	PRO 8935 8949	YYA-sopimuksen
+T132	ORG 9015 9037	Suomen ulkoministeriön
+T133	LOC 9063 9079	Neuvostoliitolle
+T134	LOC 9130 9136	Suomen
+T135	ORG 9261 9266	NATOn
+T136	LOC 9267 9275	Euroopan
+T137	PER 9326 9342	Bernard Rogersin
+T138	DATE 9343 9354	vuoden 1983
+T139	LOC 9436 9450	Neuvostoliitto
+T140	LOC 9461 9467	Suomen
+T141	LOC 9475 9483	Norjassa
+T142	ORG 9491 9496	NATOn
+T143	PER 9542 9557	Juri Komissarov
+T144	LOC 9560 9574	Neuvostoliiton
+T145	PER 9629 9642	Juri Derjabin
+T146	LOC 9684 9690	Suomen
+T147	PER 9838 9853	Veijo Saijetsin
+T148	LOC 9925 9941	Neuvostoliittoon
+T149	LOC 10054 10068	Neuvostoliitto
+T150	LOC 10180 10186	Suomen
+T151	LOC 10197 10204	Ruotsin
+T152	LOC 10207 10212	Lappi
+T100001	LOC 362 368	Norjan
+T100002	LOC 544 550	Suomen
+T100003	LOC 1222 1227	Lapin
+T100004	LOC 1989 1995	Norjan
+T100005	LOC 2043 2057	Neuvostoliiton
+T100006	LOC 2535 2547	Yhdysvaltain
+T100007	LOC 3069 3083	Neuvostoliiton
+T100008	LOC 4055 4060	Lapin
+T100009	LOC 4325 4331	Suomen
+T1000010	LOC 7767 7773	Suomen
+T1000011	LOC 8100 8108	Ivalossa
+T1000012	LOC 8433 8439	Suomen
+T1000013	LOC 8497 8505	Varsovan
+T1000014	LOC 9015 9021	Suomen

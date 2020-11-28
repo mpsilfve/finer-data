@@ -1,0 +1,40 @@
+T1	EVENT 0 22	Kauneimmat joululaulut
+T2	EVENT 23 45	Kauneimmat joululaulut
+T3	ORG 98 117	Suomen Lähetysseura
+T4	EVENT 126 161	Kauneimmat joululaulut -tilaisuudet
+T5	DATE 162 173	vuonna 1973
+T6	EVENT 198 227	Kauneimmat joululaulut -illan
+T7	PER 277 293	Martti Kauppinen
+T8	PER 306 318	Matti Heroja
+T9	LOC 534 540	Suomen
+T10	EVENT 572 594	Kauneimmat joululaulut
+T11	DATE 925 936	Vuonna 2012
+T12	EVENT 999 1037	Kauneimmat joululaulut -tilaisuuksista
+T13	EVENT 1151 1184	Kauneimmat joululaulut -tilaisuus
+T14	DATE 1389 1400	vuonna 2004
+T15	ORG 1424 1439	Lähetysseurasta
+T16	ORG 1493 1506	Lähetysseuran
+T17	DATE 1537 1548	Vuonna 2012
+T18	LOC 1595 1601	Aasian
+T19	DATE 1634 1645	Vuonna 2011
+T20	EVENT 1646 1684	Kauneimmat Joululaulut -tilaisuuksissa
+T21	EVENT 1776 1798	Kauneimmat Joululaulut
+T22	EVENT 1890 1912	Kauneimmat Joululaulut
+T23	EVENT 1978 2022	Kauneimmat Joululaulut -yhteislaulutapahtuma
+T24	ORG 2084 2104	Suomen Lähetysseuran
+T25	EVENT 2121 2165	Kauneimmat Joululaulut -yhteislaulutapahtuma
+T26	ORG 2453 2472	Suomen Lähetysseura
+T27	ORG 2756 2776	Suomen Lähetysseuran
+T28	ORG 2884 2897	Lähetysseuran
+T29	DATE 3511 3522	Vuoden 2011
+T30	PER 3563 3576	Kassu Halosen
+T31	PER 3590 3601	Vexi Salmen
+T32	PRO 3613 3634	Sydämeeni joulun teen
+T33	DATE 3696 3700	2011
+T34	PRO 3730 3750	Varpunen jouluaamuna
+T35	PRO 3787 3805	Sylvian joululaulu
+T100001	LOC 98 104	Suomen
+T100002	LOC 2084 2090	Suomen
+T100003	LOC 2453 2459	Suomen
+T100004	LOC 2756 2762	Suomen
+T100005	PER 3787 3794	Sylvian

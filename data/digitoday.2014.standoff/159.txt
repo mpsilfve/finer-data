@@ -1,0 +1,8 @@
+Lopultakin täällä — Firefoxin beta Windows 8:lle
+Mozilla uskalsi vihdoin lukuisten bugikorjausten jälkeen julkaista kokeiluversion Windows 8:n Firefox-selaimesta .
+Windows 8:n kosketuskäyttöliittymää tukeva Firefox-selain on ollut Mozillan ikuisuusprojekti , mutta siitä julkaistiin viimeinkin betaversio julkiseen jakeluun .
+Vielä vuodenvaihteessa Mozilla varoi julkaisua useiden korjaamattomien bugien vuoksi , mutta niitä on ilmeisesti liiskattu ahkerasti , kun selain kerran ilmestyi perjantaina .
+Toki kehittäjä toivoo testaajilta palautetta kaikista vielä jäljellä olevista virheistä .
+Selaimen aloitusnäkymä perustuu Windows 8:n tapaan isoihin ruutuihin ja niistä pääsee yhdellä kosketuksella kärkisivustoihin , kirjanmerkkeihin ja selaushistoriaan .
+Selain tukee perustoimintoja , kuten " pinch to zoom " ja yhden pyyhkäisyn siirtymisiä .
+Mozilla neuvoo määrittämään Firefox Betan Windows 8:n oletusselaimeksi ennen testaamista .

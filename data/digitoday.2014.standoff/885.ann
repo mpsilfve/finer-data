@@ -1,0 +1,19 @@
+T1	ORG 127 142	EU-tuomioistuin
+T2	ORG 331 360	Euroopan unionin tuomioistuin
+T3	ORG 528 532	EU:n
+T4	ORG 824 839	EU-tuomioistuin
+T5	ORG 858 887	Itävallan korkeimman oikeuden
+T6	ORG 927 945	UPC Telekabel Wien
+T7	PRO 1063 1089	Kino.to-piraattisivustolle
+T8	ORG 1092 1107	UPC Telekabelin
+T9	LOC 1207 1215	Suomessa
+T10	PRO 1277 1299	Pirate Bay -sivustolle
+T11	ORG 1332 1338	Elisan
+T12	ORG 1341 1348	Soneran
+T13	ORG 1352 1357	DNA:n
+T14	ORG 1393 1410	EU-tuomioistuimen
+T15	LOC 1472 1483	Hollannissa
+T16	PRO 1553 1573	Pirate Bay -palvelun
+T100001	LOC 331 339	Euroopan
+T100002	LOC 858 867	Itävallan
+T100003	LOC 941 945	Wien

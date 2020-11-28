@@ -1,0 +1,14 @@
+Windows 7:n saattohoito alkoi tänään
+Windows 7 ei saa enää uusia ominaisuuksia , ja järjestelmän tuki muuttui maksulliseksi .
+Microsoftin Windows 7 -käyttöjärjestelmän mainstream-tukijakso päättyy tänään , selviää Microsoftin Windows-elinkaarisivuilta .
+Microsoftin tukema Windows 7 Service Pack 1 -versio siirtyy nyt jatketun tuen piiriin .
+Jatkettu tuki päättyy 14.1.2020 .
+Muutos tarkoittaa sitä , että tästä eteenpäin Microsoftin tuki Windows 7:lle on maksullista .
+Tämän lisäksi käyttöjärjestelmää ei enää kehitetä uusin ominaisuuksin , vaan siihen julkaistaan ainoastaan korjauspäivityksiä , kertoo esimerkiksi The Register .
+Muutos ei vaikuta Windows 7:n kotikäyttäjien elämään merkittävästi .
+Sen sijaan yrityksille asialla saattaa olla merkitystä .
+Windows 7 on tällä hetkellä maailman asennetuin pc-käyttöjärjestelmä .
+Sen markkinaosuus on 55 prosenttia , eli enemmän kuin Windows 8:lla ja sen päivitysversio 8.1:llä yhteenlaskettuna .
+Windows 7:n seuraajan Windows 8:n mainstream-tuki päättyy tammikuussa 2018 .
+Microsoft jättää välistä version 9 ja julkaisee tänä vuonna Windows 10:n .
+Sen on spekuloitu olevan " viimeinen Windows " , joka päivittyisi uusilla ominaisuuksilla jatkuvasti .

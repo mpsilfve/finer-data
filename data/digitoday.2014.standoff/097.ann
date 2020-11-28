@@ -1,0 +1,38 @@
+T1	ORG 0 6	Yandex
+T2	PRO 26 37	Androidista
+T3	ORG 58 64	Yandex
+T4	ORG 73 80	Googlea
+T5	ORG 165 172	Tech.eu
+T6	ORG 182 188	Yandex
+T7	ORG 196 203	Googlen
+T8	PRO 273 300	Android-käyttöjärjestelmään
+T9	LOC 317 326	Venäjällä
+T10	ORG 376 383	Tech.eu
+T11	ORG 399 405	Yandex
+T12	ORG 509 517	Yandexin
+T13	ORG 543 549	Yandex
+T14	ORG 572 579	Googlen
+T15	ORG 641 650	Microsoft
+T16	ORG 670 676	EU:ssa
+T17	PRO 677 686	Windowsin
+T18	PRO 687 701	Media Playerin
+T19	PRO 705 724	Internet Explorerin
+T20	ORG 734 740	Google
+T21	ORG 761 767	EU:ssa
+T22	DATE 898 910	marraskuussa
+T23	ORG 911 931	Euroopan parlamentti
+T24	ORG 960 967	Googlen
+T25	ORG 1014 1020	Yandex
+T26	LOC 1042 1049	Venäjän
+T27	PRO 1106 1115	Androidin
+T28	PRO 1177 1198	Google Play -kauppaan
+T29	ORG 1263 1270	Googlen
+T30	PRO 1291 1300	Androidin
+T31	PRO 1359 1368	Gmailista
+T32	ORG 1404 1411	Googlen
+T33	PRO 1449 1460	Androidista
+T34	PRO 1504 1514	Cyanogenin
+T35	ORG 1537 1546	Googlesta
+T36	PRO 1562 1571	Androidin
+T100001	LOC 911 919	Euroopan
+T100002	ORG 1177 1183	Google

@@ -1,0 +1,8 @@
+T1	ORG 506 512	Teslan
+T2	PRO 530 566	Boeing 787 Dreamliner -lentokoneissa
+T3	ORG 569 597	Pohjois-Carolinan yliopiston
+T4	PER 625 640	Joseph DeSimone
+T5	ORG 1074 1132	Proceedings of the National Academy of Sciences -julkaisun
+T6	DATE 1160 1174	10. helmikuuta
+T100001	ORG 530 536	Boeing
+T100002	LOC 569 586	Pohjois-Carolinan

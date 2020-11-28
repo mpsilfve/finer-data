@@ -1,0 +1,9 @@
+Poliisi pestaa uuden hakukoneen konnajahtiin
+Suomen poliisi saa tuoretta tietoteknistä apua rikostutkintaan .
+Uutta on muun muassa Google-tyyppinen tuntomerkkihaku .
+Nyt ei puhuta CSI-tv-sarjan mielikuvitusmaailmasta , vaan poliisin raa'asta rikostutkinnan arjesta – jonka odotetaan nyt vähän helpottuvan , kiitos uuden tuntomerkkitietojen tallennus- ja hakujärjestelmän .
+Syötettävät tiedot ovat näkyvissä yhdellä kertaa samalla näytöllä , ja järjestelmässä on tehokkaaksi kuvailtu hakukone .
+Tiedotteen mukaan se suoltaa hakutulokset alle kahdessa sekunnissa riippumatta haun monimutkaisuudesta .
+Hakumoottorissa on myös Google-tyylinen vapaakenttähaku , johon voi vapaasti syöttää mitä vaan .
+Rikostutkija hyötyy , kun hän voi verrata rikospaikalla havaittuja tietoja järjestelmän tuntomerkkitietoihin .
+Poliisin mukaan kyseessä on vasta ensimmäinen osa laajemmasta Vitja-järjestelmästä , jota on poliisissa odotettu jo vuosia korvaamaan joskus hitaana ja puutteellisena pidettyä Salpa-järjestelmää .

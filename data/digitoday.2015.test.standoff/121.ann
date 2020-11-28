@@ -1,0 +1,14 @@
+T1	LOC 74 88	Yhdysvalloissa
+T2	ORG 221 252	Yhdysvaltain kauppakomissio FTC
+T3	ORG 311 314	FTC
+T4	ORG 398 401	FTC
+T5	PRO 533 555	Robokiller-ratkaisulle
+T6	PER 558 568	Ethan Garr
+T7	PER 572 584	Bryan Moyles
+T8	ORG 865 873	Engadget
+T9	PRO 913 926	iOS-alustalle
+T10	PRO 978 1000	Kickstarter-palvelussa
+T11	DATE 1215 1225	syyskuussa
+T12	PRO 1274 1284	Robokiller
+T13	PER 1397 1409	Ethan Garrin
+T100001	LOC 221 233	Yhdysvaltain

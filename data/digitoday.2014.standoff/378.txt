@@ -1,0 +1,13 @@
+Samsung valjastaa magneettijuovat Apple Payn haastoon
+Samsung on ostanut mobiilimaksuyritys LoopPayn , jonka maksusovellus kelpaa myös maksukorttien magneettijuovalukijoille .
+LoopPayn käyttö perustuu matkapuhelimen lisälaitteeseen , joka osaa keskustella Yhdysvalloissa vielä vallassa olevien vain magneettijuovaa lukevien maksupäätteiden kanssa .
+Euroopassa on siirrytty laajalti sirupohjaisiin maksukortteihin ja niitä tukeviin päätteisiin , CNBC kirjoitti .
+Samsung on jo pitkään tukenut nfc-teknologiaa , mutta sen murtautuminen yleiseen käyttöön on ollut hidasta .
+Apple näyttää kuitenkin menestyvän hyvin oman nfc-perustaisen Apple Pay -järjestelmän läpiviennissä .
+Tämä vauhdittaa myös Googlen Walletin ja muiden mobiilimaksujen hyväksyntää .
+Monet pienet amerikkalaisliikkeet ovat kuitenkin haluttomia uusimaan maksupäätteitään , joten nfc-pohjaisiin maksujärjestelmiin jää suuria aukkoja .
+LoopPay-tekniikan avulla Samsung voisi tukea sekä nfc:n että magneettijuovaan perustuvia maksupäätteitä .
+LoopPayn teknologiaa seurannut ja testannut Cnetin toimittaja Scott Stein kirjoittaa , että se on toiminut kaikissa magneettijuovalukijoissa , mutta muutamat kauppiaat voivat olla epäluuloisia ja vaatia toista luottokorttia tai henkilöllisyyden todistamista kaiken varalta .
+LoopPayn sovellukseen ja lisälaitteeseen voi luotto- ja maksukorttien lisäksi tallettaa asiakaskortteja , lahjakortteja ja muita vastaavia .
+Ne ladataan järjestelmän mukana tulevan lukijan kautta .
+Oletettavasti Samsungin aikeissa on luoda integroitu mobiilimaksusovellus , joka mahdollistaa sekä nfc- että magneettijuovamaksut .

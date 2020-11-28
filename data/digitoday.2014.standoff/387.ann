@@ -1,0 +1,14 @@
+T1	ORG 76 106	Michiganin teknisen yliopiston
+T2	PER 233 250	Robert J Nemiroff
+T3	PER 254 267	Teresa Wilson
+T4	ORG 268 319	Michiganin teknisen yliopiston fysiikan laitokselta
+T5	PER 391 399	Nemiroff
+T6	PER 403 409	Wilson
+T7	PER 686 701	Franciscuksesta
+T8	DATE 723 740	maaliskuussa 2013
+T9	LOC 755 770	ISON-komeetasta
+T10	DATE 807 829	vuoden 2012 syyskuussa
+T11	DATE 858 873	syyskuussa 2013
+T12	PRO 923 934	Twitterissä
+T13	DATE 1016 1029	elokuuta 2013
+T100001	LOC 268 278	Michiganin

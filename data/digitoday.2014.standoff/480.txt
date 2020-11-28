@@ -1,0 +1,17 @@
+Pakka sekaisin Suomessa : " Yksikin XP riittää murtoon "
+Yksikin Windows XP -kone voi riittää yritysverkkoon soluttautumiseen .
+XP:tä myös käytetään huolestuttavan kriittisissä ympäristöissä , Atean asiantuntija kertoo .
+It-palveluyritys Atean asiantuntija Pete Nieminen vääntää Windows XP -vaaraa rautalangasta yrityksille .
+Nieminen viittaa XP:n tietoturvapäivitysten päättymiseen 8. huhtikuuta ja hänen mielestään " pakka tuntuu olevan Suomessa aika sekaisin tämän XP-haasteen myötä " .
+– Hakkerit ja kyberrikolliset toimivat usein kuusivaiheisesti : Tiedustelu = > analysointi = > murto = > ylläpito = > eskalointi = > jälkien piilottaminen .
+Se , että firmassa on yksikin XP liitettynä heidän yritysverkkoonsa muuttaa tilanteen näin : murto = > eskalointi = > jälkien piilottaminen , Nieminen hahmottaa It-viikolle .
+Murron kohde on etukäteen selvä – siis XP – , koska hyökkääjät tietävät soluttautumiseen käytetyn ohjelmistoaukon pysyvän aukinaisena .
+Yhden koneen kautta voidaan yrittää kerätä pääsytietoja muihin yritysverkon järjestelmiin .
+– XP on nimenomaan käytössä suurissa organisaatioissa ja niissä järjestelmissä , joihin ei uskalleta helposti kajota : terveydenhuollossa , teollisuuden valvontajärjestelmissä , sotateollisuudessa , valvontajärjestelmissä ja jopa erityyppisissä ajoneuvoissa , Nieminen listaa .
+Hän jatkaa luetteloaan uusilla järjestelmillä kuten pankkiautomaateilla .
+Toisaalta suuremmissa organisaatioissa voi olla käytössä myös erilaisia tunkeutumisenesto- ja -havainnointijärjestelmiä hyökkäysuhkan lieventämiseksi .
+Siltikin Pete Nieminen , joka on " puuhastellut " tietoturvan parissa noin 20 vuotta , on huolissaan .
+– Nyt Ateassa keskittyessäni Suomen suurimpiin organisaatioihin , olen kieltämättä ollut varsin hämmästynyt asioiden tilasta .
+Osa Atean bisnestä on auttaa yrityksiä tekemään käyttöjärjestelmäremontteja .
+Aiemmin torstaina yhtiö kertoi joidenkin asiakkaidensa ymmärtäneen väärin Microsoftin ilmoituksen XP:n virustorjunnan päivittämisestä huhtikuun jälkeenkin .
+On luultu , että kyse on haavoittuvuuksia korjaavista tietoturvapäivityksistä , vaikka ne ovat todellakin loppumassa 8. huhtikuuta .

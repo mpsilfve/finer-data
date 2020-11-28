@@ -1,0 +1,49 @@
+T1	LOC 22 30	Suomessa
+T2	ORG 61 76	Ulkoministeriön
+T3	ORG 153 167	suojelupoliisi
+T4	ORG 173 196	Kyberturvallisuuskeskus
+T5	LOC 367 373	Suomen
+T6	ORG 411 425	suojelupoliisi
+T7	ORG 431 448	Viestintäviraston
+T8	ORG 457 480	Kyberturvallisuuskeskus
+T9	DATE 539 550	Vuoden 2013
+T10	ORG 558 575	ulkoministeriössä
+T11	PER 699 710	Antti Kiuru
+T12	ORG 713 739	Kyberturvallisuuskeskuksen
+T13	ORG 1395 1404	F-Securen
+T14	PER 1421 1435	Mikko Hyppönen
+T15	PER 1585 1593	Hyppösen
+T16	LOC 1677 1683	Venäjä
+T17	LOC 1686 1691	Kiina
+T18	LOC 1695 1706	Yhdysvallat
+T19	PER 1743 1751	Hyppösen
+T20	ORG 1779 1794	Suojelupoliisin
+T21	LOC 1814 1820	Venäjä
+T22	LOC 1837 1845	Suomesta
+T23	LOC 1976 1984	Suomesta
+T24	ORG 2255 2281	Kyberturvallisuuskeskuksen
+T25	PER 2282 2293	Antti Kiuru
+T26	PER 2349 2357	Hyppönen
+T27	LOC 2385 2391	Irakia
+T28	PRO 2412 2434	Stuxnet-haittaohjelman
+T29	LOC 2446 2457	Yhdysvallat
+T30	PER 2508 2516	Hyppönen
+T31	LOC 2570 2577	Venäjää
+T32	ORG 2611 2629	Ukrainan hallinnon
+T33	LOC 2646 2652	Kiinan
+T34	LOC 2798 2804	Suomen
+T35	PER 2827 2839	Antti Kiurun
+T36	PRO 3158 3168	PDF Reader
+T37	PRO 3171 3183	Flash Player
+T38	PRO 3187 3191	Java
+T39	PER 3207 3212	Kiuru
+T40	PER 3375 3389	Mikko Hyppösen
+T41	PER 3762 3770	Hyppönen
+T42	LOC 3773 3779	Suomen
+T43	ORG 3851 3866	ulkoministeriön
+T44	ORG 3877 3903	Kyberturvallisuuskeskuksen
+T45	LOC 3964 3972	Suomessa
+T46	ORG 4147 4162	Suojelupoliisin
+T47	ORG 4266 4292	Kyberturvallisuuskeskuksen
+T48	PER 4653 4661	Hyppönen
+T100001	LOC 2611 2619	Ukrainan

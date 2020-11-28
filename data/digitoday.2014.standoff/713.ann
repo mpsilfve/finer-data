@@ -1,0 +1,24 @@
+T1	PER 13 34	Marko " Fobba " Forss
+T2	LOC 52 60	Kiinassa
+T3	LOC 136 142	Kiinan
+T4	ORG 163 169	Xinhua
+T5	PER 217 240	Marko " Fobba " Forssin
+T6	LOC 256 266	Helsinkiin
+T7	ORG 323 340	Shanghai Dailyssä
+T8	ORG 344 354	Sina.comin
+T9	ORG 367 379	Vietnam Plus
+T10	PER 447 454	Forssin
+T11	LOC 461 467	Suomen
+T12	ORG 592 598	Xinhua
+T13	PER 612 619	Forssin
+T14	PER 703 708	Forss
+T15	PER 934 939	Forss
+T16	PER 942 947	Forss
+T17	PER 1120 1125	Forss
+T18	LOC 1144 1152	Suomessa
+T19	ORG 1354 1361	Xinhuan
+T20	PER 1400 1405	Forss
+T21	DATE 1415 1425	syyskuussa
+T22	ORG 1496 1503	Xinhuan
+T100001	LOC 323 331	Shanghai
+T100002	LOC 367 374	Vietnam

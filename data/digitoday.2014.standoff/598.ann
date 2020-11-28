@@ -1,0 +1,30 @@
+T1	ORG 0 14	Lizard Squadin
+T2	PER 92 103	Brian Krebs
+T3	PRO 118 143	Lizard Squad -bottiverkko
+T4	PRO 195 216	Playstation Networkin
+T5	PRO 220 230	Xbox Liven
+T6	ORG 270 284	Lizard Squadin
+T7	PER 341 352	Brian Krebs
+T8	PRO 360 389	Krebs on Security -blogissaan
+T9	PRO 517 546	Lizard Stresser -palvelullaan
+T10	ORG 587 599	Lizard Squad
+T11	PER 673 680	Krebsin
+T12	ORG 688 702	Lizard Squadin
+T13	ORG 896 910	Lizard Squadin
+T14	PRO 1065 1073	Linuxiin
+T15	PER 1076 1081	Krebs
+T16	PER 1211 1216	Krebs
+T17	ORG 1224 1238	Lizard Squadin
+T18	PRO 1253 1264	Tor-verkkoa
+T19	ORG 1322 1331	Googlelta
+T20	PRO 1382 1394	Tor-verkkoon
+T21	ORG 1470 1476	Google
+T22	ORG 1516 1532	Lizard Squadille
+T23	PER 1593 1600	Krebsin
+T24	PER 1736 1741	Krebs
+T25	PER 1813 1818	Krebs
+T26	PRO 2055 2073	OpenDNS-palvelulla
+T27	PER 2076 2083	Krebsin
+T28	ORG 2087 2101	Lizard Squadin
+T29	PER 2253 2264	Brian Krebs
+T100001	PER 360 365	Krebs

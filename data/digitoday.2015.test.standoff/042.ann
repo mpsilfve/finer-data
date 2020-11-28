@@ -1,0 +1,19 @@
+T1	ORG 51 57	Amazon
+T2	ORG 60 65	Cisco
+T3	ORG 68 74	Google
+T4	ORG 77 82	Intel
+T5	ORG 85 94	Microsoft
+T6	ORG 97 104	Mozilla
+T7	ORG 108 115	Netflix
+T8	ORG 240 263	Alliance for Open Media
+T9	ORG 436 460	MPEG LA -yhteenliittymän
+T10	ORG 538 548	TechCrunch
+T11	ORG 902 910	Mozillan
+T12	PRO 911 916	Daala
+T13	ORG 919 925	Ciscon
+T14	PRO 926 930	Thor
+T15	ORG 934 941	Googlen
+T16	PRO 942 945	VP9
+T17	PRO 1368 1391	Apache 2.0 -lisenssillä
+T18	ORG 1405 1410	W3C:n
+T19	ORG 1556 1566	Wikipedian

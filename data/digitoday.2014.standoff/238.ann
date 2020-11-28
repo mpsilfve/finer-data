@@ -1,0 +1,10 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 89 103	Windows 10:stä
+T3	ORG 503 512	Microsoft
+T4	PRO 564 576	Windows 10:n
+T5	ORG 663 676	Microsoftilta
+T6	PRO 713 725	Windows 10:n
+T7	ORG 942 953	Microsoftin
+T8	PRO 1140 1150	Windows 10
+T9	ORG 1206 1215	Microsoft
+T10	ORG 1338 1347	Softpedia

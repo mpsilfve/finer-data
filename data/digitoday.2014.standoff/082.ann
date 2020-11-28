@@ -1,0 +1,26 @@
+T1	ORG 101 112	Microsoftia
+T2	ORG 162 189	Yhdysvaltain korkein oikeus
+T3	ORG 222 230	Novellin
+T4	DATE 231 242	vuonna 2004
+T5	ORG 264 275	Microsoftia
+T6	ORG 354 361	Reuters
+T7	ORG 371 377	Novell
+T8	ORG 452 461	Microsoft
+T9	PRO 474 510	WordPerfect-tekstinkäsittelyohjelmaa
+T10	ORG 526 532	Novell
+T11	ORG 540 551	Microsoftin
+T12	PRO 577 609	Windows 95 -käyttöjärjestelmästä
+T13	PRO 635 648	Word-tuotetta
+T14	ORG 651 660	Microsoft
+T15	ORG 704 712	Novellia
+T16	PRO 751 765	Windows 95:stä
+T17	ORG 768 779	Microsoftin
+T18	PER 790 800	Bill Gates
+T19	DATE 819 830	vuonna 2011
+T20	PRO 853 866	WordPerfectin
+T21	PER 914 919	Gates
+T22	PRO 953 966	WordPerfectin
+T23	PRO 997 1009	Windows 95:n
+T24	ORG 1098 1111	Microsoftille
+T25	DATE 1153 1163	syyskuulta
+T100001	LOC 162 174	Yhdysvaltain

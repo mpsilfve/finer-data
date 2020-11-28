@@ -1,0 +1,27 @@
+T1	ORG 58 74	Neiman Marcusiin
+T2	DATE 146 157	joulukuussa
+T3	ORG 160 178	The New York Times
+T4	ORG 223 239	Neiman Marcusiin
+T5	ORG 323 351	The New York Times -lehdelle
+T6	ORG 359 372	Neiman Marcus
+T7	DATE 398 407	heinäkuun
+T8	ORG 597 603	Neiman
+T9	DATE 647 656	joulukuun
+T10	PER 758 769	Brian Krebs
+T11	ORG 795 803	Neimania
+T12	ORG 929 941	Target-ketju
+T13	ORG 1035 1041	Target
+T14	PER 1087 1092	Krebs
+T15	ORG 1142 1150	Targetin
+T16	ORG 1163 1169	Neiman
+T17	ORG 1524 1537	Neiman Marcus
+T18	LOC 1705 1715	Euroopasta
+T100001	PER 58 64	Neiman
+T100002	PER 65 74	Marcusiin
+T100003	LOC 164 172	New York
+T100004	PER 223 229	Neiman
+T100005	PER 230 239	Marcusiin
+T100006	PER 359 365	Neiman
+T100007	PER 366 372	Marcus
+T100008	PER 1524 1530	Neiman
+T100009	PER 1531 1537	Marcus

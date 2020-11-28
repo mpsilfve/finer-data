@@ -1,0 +1,15 @@
+Google hankki Impermiumin torjumaan roskapostia
+Roskapostin torjuntaan erikoistunut tietoturvayritys Impermium sulki kaikki luukut torstaina ja ilmoitti kotisivullaan , että se on siirtynyt Googlen omistukseen .
+Kaupassa , jonka Google vahvistaa , mutta jonka arvoa se ei paljasta , Google osti roppakaupalla Yahoolta lähtöisin olevaa osaamista .
+Googlen ostaman Impermiumin toimitusjohtaja ja yksi sen perustajista on Mark Risher , joka on aiemmin vastannut Yahoon sähköpostin roskapostin torjunnasta .
+Hankkeeseen lähtivät Yahoolta myös tietoturvaosaajat Naveen Jamal ja Vish Ramarao .
+Risherin allekirjoittaman lausunnon mukaan yrityksen työntekijät liittyvät Googlella maailman parhaiden roskapostin torjujien joukkoon .
+Impermiumilla on mittava asiakasyritysten luettelo .
+Sieltä löytyvät muun muassa WordPress , Tumblr , Pinterest , ESPN , CNN ja Washington Post .
+Sen oman ilmoituksen mukaan asiakaskanta kattaa 300\_000 nettipalvelua .
+Palvelun jatkumisesta olemassa oleville asiakkaille ei ole tietoa .
+Googlelta kaupan vahvistus tuli Google+:n vetäjältä Bradley Horowitzilta .
+Asiasta uutisoinut Cnet tulkitsi tämän tarkoittavan sitä , että vahvistuksia käytetään laajemmin kuin vain Gmailin roskapostin torjuntaan .
+Äskettäin Google avasi oven laajalle roskapostitukselle , kun se päätti sallia yhteisön jäsenten lähettää sähköpostia kaikille seuraamilleen Google+:n jäsenille , joilla on myös Gmail-sähköposti .
+Kuka tahansa voi ryhtyä seuraamaan yhteisön jäseniä ilman lupaa .
+Vaikka tämä ei onnistu robottien avulla , löytyy Kiinasta ja muista kehitysmaista paljon halpapalkkaisia seuraajia .

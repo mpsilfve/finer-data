@@ -1,0 +1,15 @@
+Hurjat luvut tiskiin : Windows-sovellukset vinhassa kasvussa
+Microsoft näyttää sovelluslukujen valossa houkuttelevan kehittäjiä , vaikka yhtiö on myös antanut heille kylmää kyytiä .
+Kenties halpojen Lumia-mallien menestyksellä on jotain tekemistä asian kanssa .
+Microsoft kertoo inforuudussaan , että Windows Phonelle ja Windows 8:lle on nyt tarjolla yhteensä yli 560\_000 sovellusta .
+Kasvu on ollut kovaa , muun muassa Trusted Reviews huomioi .
+Sen mukaan vastaava luku oli marraskuun puolivälissä 525\_000 ja kesäkuun lopussa 400\_000 sovellusta .
+Tämä siitä huolimatta , että Microsoft päätti ottaa [ entistä suuremman osuuden ] ( http://www.digitoday.fi/bisnes/2014/11/21/mita-jarkea-microsoft-omii-lisaa-rahaa-sovellusmyynnista/201416192/66 ) maksullisten sovellusten myynnistä itselleen .
+Tämä muutos tosin astui voimaan vasta nyt tammikuussa .
+Toisaalta Microsoft myös poisti viime vuonna vuosimaksun Windows Developer Centre -käyttäjätileiltä , mikä tasapainotti vaakakuppeja .
+Vielä on jäljellä kysymys siitä , ymmärtävätkö Windows Phonen kehittäjät , keille he ovat sovelluksiaan tekemässä .
+Näyttää siltä , että eivät välttämättä ymmärrä .
+Microsoftin sovellusten lataustaulukoiden suosituimpana laitteena on keikkunut halpa Lumia 520 , joka ei tehoilla juhli .
+Ja Microsoft on juuri puskemassa lisää edullisia Lumioita myyntiin , koska niissä piilee yhtiön yksi viimeisistä saumoista paaluttaa tukeva paikka älypuhelinten markkinoilla .
+Toki Windows Phonen ja Windows 8:n yhteenlaskettu 560\_000 sovellusta kalpenee Androidin ja iOS:n reippaasti yli miljoonan sovelluksen lukemilla – vaikka luvut eivät ole suoraan vertailukelpoisia .
+Mutta eiköhän Microsoftinkin lukemilla ole paikallaan jo painottaa myös laatua pelkän määrän sijaan .

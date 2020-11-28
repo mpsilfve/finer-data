@@ -1,0 +1,24 @@
+T1	LOC 30 35	Intia
+T2	ORG 43 52	Googlelta
+T3	ORG 82 109	Intian kilpailuviranomainen
+T4	ORG 122 129	Googlen
+T5	ORG 193 216	Intian kilpailukomissio
+T6	ORG 223 232	Googlelle
+T7	ORG 258 265	Googlen
+T8	ORG 356 362	Google
+T9	ORG 388 394	Google
+T10	LOC 425 433	Euroopan
+T11	LOC 437 443	Intian
+T12	LOC 475 489	Yhdysvalloissa
+T13	ORG 490 496	Google
+T14	DATE 557 568	vuonna 2013
+T15	LOC 571 581	Euroopassa
+T16	ORG 582 588	Google
+T17	ORG 708 715	Googlen
+T18	LOC 780 790	Euroopassa
+T19	ORG 841 847	Google
+T20	ORG 858 882	Intian kilpailukomission
+T21	ORG 1050 1053	BBC
+T100001	LOC 82 88	Intian
+T100002	LOC 193 199	Intian
+T100003	LOC 858 864	Intian

@@ -1,0 +1,18 @@
+T1	ORG 0 7	Samsung
+T2	ORG 49 56	Samsung
+T3	ORG 117 125	Applelle
+T4	ORG 235 277	Yhdysvaltain korkeimmalta tuomioistuimelta
+T5	ORG 280 287	Samsung
+T6	PER 307 317	Lucy Koh’n
+T7	ORG 318 351	Kalifornian piirituomioistuimessa
+T8	ORG 352 358	Applen
+T9	ORG 510 519	Samsungin
+T10	ORG 523 529	Applen
+T11	LOC 567 579	Yhdysvaltain
+T12	ORG 856 862	Applen
+T13	ORG 991 1002	Samsungille
+T14	ORG 1201 1208	Googlen
+T15	ORG 1212 1222	Facebookin
+T16	ORG 1341 1366	Press Examiner -julkaisun
+T100001	LOC 235 247	Yhdysvaltain
+T100002	LOC 318 329	Kalifornian

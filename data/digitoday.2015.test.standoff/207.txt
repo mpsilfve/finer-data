@@ -1,0 +1,9 @@
+Android-kello sai interaktiivisen , muokattavan kellotaulun
+Googlen puettavien laitteiden käyttöjärjestelmä Android Wear sai torstaina uudistuksen , joka antaa käyttäjän valita mitä tietoja ja linkkejä hän haluaa pitää esillä ranteessaan .
+Official Android Blogin julkistuksen mukaan interaktiivisia kellotauluja on nyt saatavilla kolmelta kehittäjältä .
+Bitsin kellotaulussa käyttäjä pääsee valitsemaan kellotauluun aikanäytön lisäksi muun muassa seuraavista : vastaamattomat puhelut , uudet viestit , sää , akku , osakekurssit , kokoukset .
+Together-sovellus keskittyy jakamaan tietoja , tunteita ja aktiviteetteja ystävien paritettujen kellojen kesken .
+Under Armourin kellotaulu puolestaan on tarkoitettu liikunnan harrastajille .
+Siihen saa kaikki tavalliset kuntoilua koskevat mittatiedot .
+Android Wearin interaktiivinen kellotaulu tulee saataville kaikkiin Android Wear -kelloihin lähiviikkoina .
+Katso interaktiivisia kellotauluja esittelevä Youtube-video alta .

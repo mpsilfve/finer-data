@@ -1,0 +1,13 @@
+Muistutus hyökkäysten keskellä : Palvelun voi kaataa myös sähläämällä
+Kerrankin palvelukatko , joka ei johtunut verkkohyökkäyksestä .
+Mutta ei tässäkään mitään hurraamista ole .
+Microsoftin Bing-hakukone kaatui perjantaina yhdessä Yahoon haun kanssa .
+Uutistoimisto Reuters sai kuulla asiasta tietävältä henkilöltä , että tässä tapauksessa kyse ei ollut ulkoisesta hyökkäyksestä .
+Nimettömänä pysyttelevän henkilön mukaan ongelma johtui Microsoftin kahdesta mokasta .
+Ensin se syötti kehnon koodipäivityksen , joka piti peruuttaa .
+Mutta peruuttaminen toimivaan versioon ei sekään onnistunut normaalin kaavan mukaan .
+Lähteen mukaan Microsoftin piti sulkea toisiinsa linkittyneiden palvelimiensa rykelmä päästäkseen siihen pisteeseen , missä kaikki vielä toimi .
+Kun palvelut saatiin kuntoon , Yahoo joutui vielä tuskastelemaan jonoon jääneiden hakukyselyjen kanssa .
+Perjantain katko koski paitsi Bingiä , myös Yahoon hakua , koska se käyttää samaa tekniikkaa Microsoftin kanssa tehdyn monivuotisen sopimuksen nojalla .
+Huono koodi on viime aikoina kiusannut monia Microsoftin asiakkaita , kun yhtiön tietoturvapäivityksissä on ilmennyt harvinaisen paljon ongelmia Windows-tietokoneissa .
+Reutersin uutisesta on mahdotonta päätellä , onko Yahoon ja Bingin ongelmilla mitään yhtymäkohtaa tietoturvapäivitysten vikoihin – eli kärsitäänkö Microsoftissa systeemisesti huonosta koodaamisesta .

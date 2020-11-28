@@ -1,0 +1,18 @@
+Kehittäjä paljasti Firefox-tabletin sisuskalut
+Mozillan ensimmäinen Firefox-tabletti ei teknisten tietojen perusteella ole mikään tehohirmu , mutta tarvitseeko sen ollakaan ?
+Mozilla tunnetaan parhaiten Firefox-selaimestaan .
+Monille Firefox tarkoittaa nopeutta , laajennettavuutta sekä yhteensopivuutta .
+Mutta Mozillan mielestä Firefox taipuu myös Googlen Chromen tapaan käyttöjärjestelmäksi .
+Aiemmin Firefox OS on nähty lähinnä älypuhelimissa , mutta lopulta käyttöjärjestelmä saatetaan nähdä myös osana älytelevisioita , The Verge kirjoittaa .
+Ensimmäinen Firefox-tablet-tietokone on teknisiltä ominaisuuksiltaan keskinkertainen .
+Sen sydämenä toimii ARM-pohjainen Cortex A7 -neliydinsuoritin , joka kehrää yhden gigahertsin kellotaajuudella .
+Menoa vauhdittaa PowerVR SGX544MP2 -grafiikkapiiri .
+Ddr3-muistia laitteessa on kaksi gigatavua .
+Massamuistin virkaa toimittaa 16 gigatavun flash-asema .
+InFocus New tab F1:ksi ristityn Firefox-tabletin näyttönä toimii 10,1-tuumainen kosketusnäyttö , jonka maksimitarkkuus on 1280x800 pikseliä .
+Foxconnin valmistamasta laitteesta löytyy myös wi-fi- , microsd- , microusb- sekä kuulokeliitäntä .
+Kameroita on kaksi , joista toinen kykenee kahden ja toinen viiden megapikselin tarkkuuteen .
+Lisäksi tabletista löytyy gyroskooppi , gps sekä bluetooth .
+Akun kapasiteetti on 7000 milliampeerituntia .
+Firefox-tabletti on leveydeltään 266 , korkeudeltaan 170 ja paksuudeltaan 9,7 millimetriä .
+Laitteen tekniset tiedot julkaisi Mozillan Asa Dotzler .

@@ -1,0 +1,33 @@
+T1	LOC 0 12	Uzbekistanin
+T2	LOC 37 44	Norjaan
+T3	ORG 47 56	Telenorin
+T4	LOC 135 147	Uzbekistanin
+T5	ORG 218 227	Telenorin
+T6	ORG 249 261	TeliaSoneran
+T7	PER 278 289	Lars Nyberg
+T8	LOC 332 344	Uzbekistanin
+T9	ORG 370 379	Telenorin
+T10	PER 397 419	Jon Fredrik Baksaasiin
+T11	PER 450 463	Svein Aaserin
+T12	ORG 629 636	Telenor
+T13	LOC 652 664	Uzbekistanin
+T14	ORG 739 750	Vimpelcomin
+T15	ORG 785 794	Vimpelcom
+T16	LOC 814 827	Amsterdamissa
+T17	DATE 852 864	maaliskuussa
+T18	ORG 909 920	Vimpelcomin
+T19	PER 1021 1028	Baksaas
+T20	PER 1032 1037	Aaser
+T21	ORG 1176 1190	FierceWireless
+T22	ORG 1210 1215	E24:n
+T23	PER 1379 1386	Baksaas
+T24	ORG 1397 1409	Vimpelcomiin
+T25	PER 1483 1503	Kjell Morten Johnsen
+T26	ORG 1506 1513	Telenor
+T27	ORG 1564 1576	TeliaSoneran
+T28	ORG 1640 1650	Vimpecomin
+T29	LOC 1651 1663	Uzbekistanin
+T30	ORG 1747 1754	Telenor
+T31	ORG 1813 1827	Norjan valtion
+T32	ORG 1864 1875	Vimpelcomin
+T100001	LOC 1813 1819	Norjan

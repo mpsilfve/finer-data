@@ -1,0 +1,21 @@
+T1	LOC 53 65	Yhdysvaltain
+T2	LOC 69 77	Euroopan
+T3	LOC 133 138	Intia
+T4	ORG 216 238	Intian avaruusjärjestö
+T5	LOC 276 282	Marsia
+T6	DATE 305 319	19. heinäkuuta
+T7	LOC 369 398	Ophir Chasma -nimistä aluetta
+T8	LOC 476 492	Valles Marineris
+T9	PRO 643 663	Mars Orbiter Mission
+T10	LOC 691 697	Intian
+T11	DATE 759 763	2014
+T12	LOC 766 772	Marsia
+T13	ORG 787 792	Nasan
+T14	PRO 802 813	Opportunity
+T15	PRO 817 826	Curiosity
+T16	PRO 849 852	MRO
+T17	PRO 855 862	Odyssey
+T18	PRO 866 871	Maven
+T19	PRO 928 940	Mars Express
+T100001	LOC 216 222	Intian
+T100002	LOC 928 932	Mars

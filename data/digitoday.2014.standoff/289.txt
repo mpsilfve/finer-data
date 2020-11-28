@@ -1,0 +1,12 @@
+Google pistää Bumpin ja Flockin pölkylle — data tuhotaan
+Googlen hankkimat sovellukset Bump ja Flock lakkaavat olemasta kuukauden päästä .
+Tietojen pelastamiseen on saman verran aikaa .
+Googlen viime syyskuussa hankkima Bump Technologies ilmoittaa sen kahden tiedostojen siirtoon käytetyn sovelluksen Bumpin ja Flockin lakkaavan olemasta .
+Sovellukset eivät toimi enää 31. tammikuuta jälkeen ja sitten alkaa myös käyttäjätietojen tuhoaminen .
+– Olemme nyt syvästi keskittyneet uusiin projekteihimme Googlessa , ja olemme päättäneet lopettaa Bumpin ja Flockin , Bumpin perustaja ja pääjohtaja David Lieb kirjoittaa blogissa .
+Tietonsa voi pelastaa avaamalla kumman tahansa sovelluksen ja seuraamalla ohjeita .
+Sähköpostiin saapuu sitten linkki , josta saa kaiken datansa kuten valokuvat , videot tai kontaktit .
+On hieman outoa , että Google jatkaa kummankin sovelluksen tarjoamista sekä Google Playssa että Applen App Storessa varoittamatta sovellusten kuvauksessa ollenkaan vain päivien päässä odottavasta lopusta .
+Sovellukset vedetään pois kaupoista samaan aikaan , kun ne lakkaavat toimimasta eli kuun lopussa .
+Bump ja Flock ovat olleet ilmaisia .
+Kehittäjä mainostaa Bumpia ladatun yli sata miljoonaa kertaa .

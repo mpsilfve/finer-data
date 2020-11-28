@@ -1,0 +1,24 @@
+T1	PER 0 10	Zuckerberg
+T2	ORG 74 84	Facebookin
+T3	ORG 176 186	Facebookin
+T4	PER 197 212	Mark Zuckerberg
+T5	ORG 234 244	Facebookin
+T6	PRO 284 307	Internet.org-hankkeesta
+T7	ORG 531 541	Facebookin
+T8	ORG 542 558	Connectivity Lab
+T9	PER 657 667	Zuckerberg
+T10	ORG 715 731	Connectivity Lab
+T11	ORG 1236 1244	Facebook
+T12	LOC 1247 1258	Yhdysvallat
+T13	ORG 1261 1271	Facebookin
+T14	DATE 1313 1323	maaliskuun
+T15	ORG 1394 1410	Titan Aerospacen
+T16	PER 1453 1463	Zuckerberg
+T17	ORG 1486 1501	Internet.orgiin
+T18	ORG 1537 1545	Ascentan
+T19	ORG 1586 1594	Facebook
+T20	PER 1673 1685	Zuckerbergin
+T21	LOC 1743 1755	Yhdysvaltain
+T22	PER 1880 1892	Zuckerbergin
+T23	PER 2151 2161	Zuckerberg
+T24	LOC 2225 2231	Turkki

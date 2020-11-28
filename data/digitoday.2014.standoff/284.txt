@@ -1,0 +1,16 @@
+Microsoft pönkittää Lumioitaan Foursquare-sopimuksella
+Foursquare , paikkatietopalveluvetoinen yhteisöpalvelu , on saanut 15 miljoonan dollarin raharuiskeen Microsoftilta .
+Tärkeämpi merkitys sille saattaa kuitenkin olla liiketoimintasopimus , jonka rahallista arvoa ei ole kerrottu julkisuuteen .
+Foursquaren datan laaja käyttö Microsoftin hakukone Bingissä , Windows 8:ssa ja Windows Phonessa sopii yhteen Nokialta ostettujen puhelinten kanssa .
+Nokia on linkannut Foursquaren myös Asha-laiteperheeseen .
+Nokia on pitkään painottanut kontekstiriippuvuutta matkapuhelinten kehityksessä .
+Monivuotinen sopimus sitoo Microsoftin ja Foursquaren järjestelmät ja palvelut tiukasti yhteen .
+Yhteistyön avainkonsepteja ovat ympäristötietoisuus ja ennustava palvelu , Techcrunch kirjoitti .
+Windows Phone -käyttöjärjestelmä tarjoaa iOS-laitteita joustavamman tavan muokata käyttöliittymää , Jon Tinter Microsoftin liiketoiminnan kehitysyksiköstä sanoo .
+Hänen mukaansa tieto käyttäjän ympäristöstä on äärettömän tärkeä Microsoftille .
+Fourquaren yhteisössä on 45 miljoonaa käyttäjää .
+Halutessaan he voivat raportoida automaattisesti oman sijaintinsa muihin yhteisöpalveluihin .
+Microsoftin Bing pääsee syvemmälle Foursquaren sovelluskäyttöliittymään kuin mikään muu yritys , sanoo Foursquaren liiketoiminnan kehitysjohtaja Holger Luedorf .
+Hänen mukaansa käyttäjän puhelimen anturien poimima paikkatieto ja paikkaan liittyvät ympäristötiedot siirtyvät myös Microsoftille .
+Tämän tiedot avulla Microsoft pystyy tarjoamaan käyttäjälle tietoja ja palveluita ennen kuin asiakas tietää itse niitä tarvitsevansa .
+Foursquarelle sopimuksella on merkitystä myös laajempana näkyvyytenä ja mainospotentiaalin kasvattajana .

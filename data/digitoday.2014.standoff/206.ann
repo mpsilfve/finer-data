@@ -1,0 +1,19 @@
+T1	ORG 31 40	Microsoft
+T2	ORG 55 64	Microsoft
+T3	PRO 106 120	Windows 10:stä
+T4	ORG 160 169	Softpedia
+T5	ORG 201 210	Microsoft
+T6	PRO 244 276	Windows 10 -käyttöjärjestelmällä
+T7	PRO 288 299	Windows 8:n
+T8	PRO 377 409	Windows 10 -käyttöjärjestelmästä
+T9	ORG 460 469	Microsoft
+T10	PRO 533 545	Windows 10:n
+T11	PRO 581 593	Windows 10:n
+T12	ORG 664 673	Microsoft
+T13	ORG 883 892	Microsoft
+T14	ORG 964 973	Microsoft
+T15	PRO 1029 1055	Windows 10:n mobiiliversio
+T16	LOC 1101 1110	Redmondin
+T17	LOC 1270 1276	Suomen
+T18	ORG 1348 1359	Microsoftin
+T19	ORG 1409 1418	Softpedia

@@ -1,0 +1,12 @@
+Suositun tiedonsiirto-ohjelman haittaversio kaappaa tunnuksesi
+Haittaohjelma pukeutuu suositun tiedonsiirto-ohjelman nahkaan ja jahtaa käyttäjätunnuksia .
+Tunnettu ftp-ohjelmisto FileZilla varoittaa lataamasta haitallista versiota ohjelmastaan .
+Tietoturvayhtiö Avast paljasti yhden laajimmista FileZillaa hyväksikäyttävistä hyökkäyksistä , missä haittaohjelmaa jaetaan ftp-ohjelman nimissä .
+Väärän ohjelman voi saada lähinnä murretuilta verkkosivuilta , joissa teksti ja käyttäjäkommentit ovat kuvatiedostoina .
+Petollista on , että asennusohjelma ja varsinainen haittaohjelma käyttäytyvät varsin autenttisesti , ja tiedonsiirto pelaa .
+Samalla tosin rikolliset nappaavat käyttäjän kirjautumistiedot .
+FileZilla huomauttaa , että vastaavia hyökkäyksiä on nähty jo yli vuosikymmenen ajan sitä vastaan .
+Ongelma on sitkeä , koska FileZilla on avointa koodia .
+Saastutettujen versioiden levittämistä on siksi vaikea valvoa .
+FileZillan mukaan varmasti turvallisen version saa sen omilta kotisivuilta tai SourceForgesta .
+FileZillalla ei ole nimestään tai avoimen koodin käytöstään huolimatta yhteyttä Firefox-selaimesta tuttuun Mozillaan .

@@ -1,0 +1,13 @@
+Applen vuoro saada Google niskaansa : Kolme aukkoa julki
+Googlen mielestä asiassa ei ole mitään epäselvää .
+Aikaraja tuli täyteen , joten aukot julkaistiin .
+Microsoftin kiusana ollut Google siirtyi Applen pariin ja laittoi julki kolme haavoittuvuutta OS X -käyttöjärjestelmästä .
+Yksi niistä on ilmeisesti jo korjattu OS X:n uusimmassa versiossa Yosemitessa , mutta kaksi ei .
+Googlen mukaan aukot ovat vakavia ja mahdollistavat hyökkääjälle Mac-tietokoneen haltuunoton .
+Tähän tosin vaaditaan fyysinen läsnäolo koneen luona .
+Hyökkäys ei onnistu etäältä verkon välityksellä ainakaan pelkästään tämän aukon kautta .
+Asiasta uutisoi muun muassa iMore , jonka mukaan myös Yosemitea koskevat kaksi aukkoa on korjattu OS X:n tulevassa päivityksessä 10.10.2 .
+Google julkaisi aukot esimerkkikoodin kera , koska niiden raportoinnista Applelle tuli kuluneeksi 90 päivää .
+Samalla tavalla Google toimi äskettäin Microsoftin kanssa julkistaessaan Windowsista eri haavoittuvuuksia ennen korjausten olemassaoloa .
+Microsoft ei hyväksynyt Googlen toimintaa .
+Toisaalta Microsoft oli juuri samaan aikaan haukannut omaa uskottavuuttaan tietoturvassa lopettaessaan laajan ennakkotiedotuksen tietoturvakorjauksistaan .

@@ -1,0 +1,69 @@
+Testi : Google Chromecast mullistaa televisionkatselun ja urkkii tekemisiäsi
+Googlen Chromecast voi mullistaa internet-television .
+Sen erinomaisuutta varjostaa kuitenkin yksityisyydensuoja .
+Nettisisältöjen tuominen olohuoneen telkkarin ruudulle on vanha pulma .
+Microsoft yritti sitä Windows Media Centerillään vuosikymmen sitten , mutta kuluttajat eivät lämmenneet pc:n telkkariin kytkemisestä .
+Konsolivalmistajat ovat onnistuneet hieman paremmalla menestyksellä , mutta internet-sisältöjen helppo toisto olohuoneessa ei ole varsinaisesti arkipäivää vieläkään .
+AppleTV on osoittautunut tähän mennessä parhaaksi yritykseksi .
+Sitä rasittaa kuitenkin palvelujen ja sovellusten puute .
+Tähän ongelmaan pureutuva Googlen Chromecast on odotettu laite .
+Se herätti ki innostusta jo ennen virallista saapumistaan Suomeen .
+Se lupaa tuoda nettipalvelut televisioon edullisesti ja helposti .
+Nyt laitetta saa kauppojen hyllyiltä ilman tilauskikkailua ulkomailta .
+Samalla on lupa odottaa , että suomalaiset sovelluskehittäjät ja palveluntarjoajatkin iskisivät näppinsä siihen .
+Tulkoon Chromecast
+Chromecastin pakkaus sisältöineen on äärimäisen pelkistetty .
+Sen sisältä löytyy hdmi-porttiin kiinnitettävä dongeli , jatkopiuha ahtaisiin paikkoihin liittämistä varten , usb-kaapeli virransyöttöä varten sekä muuntaja , jos sähkö pitää ottaa telkkarin usb-liittimen sijaan pistorasiasta .
+Lisäksi mukana on ohjelappusen tapainen , joka lähinnä ohjaa nettimanuaalin pariin .
+Asennus on suoraviivaista .
+Android-laitteeseen ladataan Chromecast-sovellus , mokkula virtajohtoineen kiinnitetään kiinni telkkariin ja töllöstä valitaan oikea kuvalähde .
+Chromecast ja Android-laite kättelevät tilapäisverkon kautta , ja sitä kautta Chromecastille syötetään kodin langattoman verkon salasana .
+Laitepari vahvistetaan toteamalla , että telkkarin ruudulla näkyvä ja Chromecast-appsin ruudulla on sama numerokoodi .
+Jos kotona ei ole wifi-verkkoa , ei Chromecastilla tee mitään .
+Chromecastille annetaan oma nimi , minkä jälkeen katselun voi aloittaa .
+Mobiililaite on " pelkkä " kauko-ohjain
+Chromecastin idea on , että se hakee itse katseltavat sisällöt netistä .
+Mobiililaite toimii kauko-ohjaimena , joka kertoo mitä noudetaan .
+Puhelin tai tabletti ei prosessoi Chromecastin näyttämää dataa .
+Chromecastin tämänhetkisiin " virallisiin " sovelluksiin kuuluvat Youtube , Google Playn elokuvavuokraamo , Netflix , Red Bull TV sekä Realplayer Cloud .
+Chromecast-appsin asentaminen tuo laitetta tukevien sovellusten valikkoon lähetä Chromecastiin -napin .
+Sen painamisen jälkeen aukenee pomppuikkuna , joka näyttää listan kotiverkossa olevilta Chromecasteista ja kysyy , millä niistä sisältö pitäisi toistaa .
+Kyseessä ei ole mobiililaitteen ruudun peilaus , sillä Android-laitteella voi katsella eri videota kuin mitä Chromecast piirtää isolle ruudulle .
+Youtubessa voi laittaa videoita toistojonoon , mikä mahdollistaa vaikkapa oman levyraadin pitämisen .
+Android-laitteen ohella Chromecastia voi käyttää myös pc:llä ja Macilla .
+Tämä edellyttää Google Chrome -selainta sekä Google Cast -selainlaajennusta .
+Laajennus tuo nettiselaimeen samanlaisen lähetä Chromecastille -napin kuin mobiilisovelluksiinkin .
+Selainlaajennus mahdollistaa myös muiden läppärillä olevien sisältöjen sekä selaimen välilehtien sisällön lähettämisen Cromecastille .
+Isogoogle valvoo
+Kerran testijakson aikana Chromecast ei suostunut telkkarin käynnistämisen jälkeen juttelemaan ohjaimena käytetylle tabletille lainkaan .
+Ongelma ratkesi vasta Chromecastin palauttamisella tehdasasetuksiin , mikä tehdään pitämällä laitteen nappia 15 sekuntia painettuna .
+Arveluttavin juttu Chromecastissa on se , mistä Googlea toistuvasti syytetään : yksityisyyden suojan loukkausten rajamailla kiikkuminen .
+Chromecast ottaa oletusarvoisesti oikeuden kertoa Googlelle , millaisia sisältöjä Chromecastilla katsellaan .
+Tämän tämän saa muutettua Chromecast-sovelluksen asetusvalikosta .
+Vaikka valinta on poistettu , jää pieni epäilys siitä , millä tasolla laite välittää tietoja .
+Yksityisyydensuojastaan tiukasti kiinni pitävien laite tämä ei ole .
+Sovellukset ratkaisevat
+Chromecast ei ole valmis .
+Tai ehkä laitteena on , mutta vasta sovellukset siitä tekevät kiinnostavan .
+Google on antanut Chromecastin rajapinnat kehittäjien käyttöön , eli luvassa on vaikka mitä .
+Yle on jo ilmoittanut työstävänsä Areenasta versiota Chromecastille .
+Muiden suomalaisten tv-yhtiöiden soisi hyppäävän samaan kelkkaan .
+Ulkomailla esimerkiksi The Washington Post on työstänyt videopalvelustaan sovelluksen Googlen tikulle .
+Suuri osa nykyisestä tarjonnasta on höpsöhköä ( tuoko 2048:n tai ristinollan pelaaminen telkkariruudulta hirveästi lisäarvoa elämään ? ) , mutta hyödyllistäkin tavaraa on tarjolla .
+Esimerkiksi Localcast Media 2 Chromecast striimaa verkon kautta mobiililaitteilla olevia sisältöjä ( kuvat , videot jne. ) telkkariin .
+Sovelluksia on nyt jo tarjolla kymmeniä ja pellepelottomat tekevät ajan kanssa vaikka mitä .
+Onko se hyvä ?
+On .
+Onko se täydellinen ?
+Ei .
+Onko se lupaava ?
+On .
+Sopiiko se yksityisyydestään tarkalle ?
+Ei , mutta ei sovi älypuhelinkaan .
+Onko se hintansa väärti ?
+On , ja sovellusten kertyessä todennäköisesti vielä enemmän .
+Onko se välttämätön ?
+Ei , jos telkkarissa on jo kiinni konsoli tai muu medialaite .
+Chromecast on hyvä jo nyt ja sovellukset tekevät siitä jatkossa vielä paremman .
+Lisäksi se on onnistuttu tuotteistamaan sen verran hyvin , että se on melkein kenen tahansa asennettavissa .
+On siis helppo povata , että Google laajentaa kaikkivoipaa läsnäoloaan ihmisten olohuoneisiin nopeasti .

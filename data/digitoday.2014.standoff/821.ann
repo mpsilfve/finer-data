@@ -1,0 +1,26 @@
+T1	ORG 0 14	New York Times
+T2	PER 34 45	Snowdenille
+T3	ORG 46 77	The New York Times -sanomalehti
+T4	PER 98 114	Edward Snowdenin
+T5	LOC 123 137	Yhdysvalloille
+T6	ORG 182 200	The New York Times
+T7	PER 247 263	Edward Snowdenin
+T8	ORG 360 365	NSA:n
+T9	PER 382 389	Snowden
+T10	LOC 406 415	Venäjällä
+T11	LOC 419 433	Yhdysvalloissa
+T12	PER 609 616	Snowden
+T13	ORG 805 813	NY Times
+T14	PER 839 852	Barack Obaman
+T15	PER 879 890	Snowdenille
+T16	LOC 948 962	Yhdysvaltoihin
+T17	ORG 1125 1143	The New York Times
+T18	PER 1208 1224	Edward Snowdenin
+T19	DATE 1322 1332	kesäkuusta
+T20	PER 1382 1396	Edward Snowden
+T21	PER 1430 1436	Obaman
+T100001	LOC 0 8	New York
+T100002	LOC 50 58	New York
+T100003	LOC 186 194	New York
+T100004	LOC 805 807	NY
+T100005	LOC 1129 1137	New York

@@ -1,0 +1,32 @@
+T1	ORG 0 11	NSA-johtaja
+T2	ORG 24 33	F-Securen
+T3	PRO 34 54	Younited-turvapilven
+T4	ORG 80 93	Synchronossin
+T5	ORG 124 129	NSA:n
+T6	ORG 186 218	Synchronoss Technologies -yhtiön
+T7	ORG 246 279	Yhdysvaltojen turvallisuusvirasto
+T8	ORG 280 287	NSA:han
+T9	ORG 290 298	F-Secure
+T10	PRO 324 343	Younited-palvelunsa
+T11	ORG 344 363	Syncronoss-yhtiölle
+T12	ORG 366 374	F-Secure
+T13	PRO 420 439	Younited-palvelussa
+T14	ORG 474 487	Synchronossin
+T15	DATE 502 515	vuodesta 2008
+T16	PER 541 556	Keith Alexander
+T17	ORG 570 575	NSA:n
+T18	DATE 586 595	2005—2014
+T19	ORG 605 621	Vice-verkkolehti
+T20	PER 698 707	Alexander
+T21	DATE 713 730	vuosina 2009—2014
+T22	ORG 733 736	NSA
+T23	PER 761 774	Alexanderilta
+T24	PER 795 804	Alexander
+T25	DATE 810 821	vuonna 2008
+T26	ORG 822 835	Synchronossin
+T27	ORG 956 961	NSA:n
+T28	ORG 1050 1063	Synchronossin
+T29	ORG 1079 1092	Vice-lehdelle
+T30	ORG 1137 1144	NSA:han
+T31	PER 1149 1167	Keith Alexanderiin
+T100001	LOC 246 259	Yhdysvaltojen

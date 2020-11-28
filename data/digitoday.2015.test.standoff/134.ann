@@ -1,0 +1,18 @@
+T1	ORG 38 44	Uberin
+T2	ORG 61 69	Uberilla
+T3	ORG 200 206	Uberin
+T4	ORG 237 255	The New York Times
+T5	ORG 265 269	Uber
+T6	PER 282 298	Charlie Millerin
+T7	PER 302 317	Chris Valasekin
+T8	DATE 349 360	heinäkuussa
+T9	ORG 383 398	Fiat Chryslerin
+T10	ORG 449 455	Uberin
+T11	LOC 456 468	Pittsburghin
+T12	ORG 605 611	Uberin
+T13	ORG 717 721	Uber
+T14	DATE 875 886	Helmikuussa
+T15	ORG 887 891	Uber
+T16	ORG 988 992	Uber
+T17	ORG 1149 1153	Uber
+T100001	LOC 241 249	New York

@@ -1,0 +1,27 @@
+T1	ORG 0 8	Qualcomm
+T2	ORG 16 27	Samsungille
+T3	PRO 39 51	Snapdragonin
+T4	ORG 86 94	Qualcomm
+T5	ORG 103 112	Samsungin
+T6	ORG 177 196	Wall Street Journal
+T7	ORG 207 217	Qualcommin
+T8	PRO 236 263	Snapdragon 810 -mobiilisiru
+T9	ORG 393 402	Bloomberg
+T10	ORG 410 419	Samsungin
+T11	ORG 473 482	Samsungin
+T12	ORG 506 508	LG
+T13	ORG 624 645	Wall Street Journalin
+T14	ORG 674 682	Qualcomm
+T15	ORG 725 734	Samsungin
+T16	PRO 772 795	Snapdragon 810 -sirusta
+T17	ORG 811 820	Samsungin
+T18	PRO 848 861	Galaxy S6:een
+T19	DATE 1032 1042	maaliskuun
+T20	LOC 1050 1062	Barcelonassa
+T21	EVENT 1076 1111	Mobile World Congress -tapahtumassa
+T22	ORG 1114 1128	FierceWireless
+T23	ORG 1139 1148	Samsungin
+T24	ORG 1225 1236	Samsungilta
+T25	ORG 1247 1259	Qualcommilta
+T100001	LOC 177 188	Wall Street
+T100002	LOC 624 635	Wall Street

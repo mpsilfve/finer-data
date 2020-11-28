@@ -1,0 +1,10 @@
+T1	ORG 59 82	Kyberturvallisuuskeskus
+T2	ORG 237 254	Viestintäviraston
+T3	ORG 255 278	Kyberturvallisuuskeskus
+T4	PRO 1060 1081	WordPress-ohjelmiston
+T5	DATE 1119 1131	marraskuussa
+T6	ORG 1147 1170	Kyberturvallisuuskeskus
+T7	PRO 1226 1244	Bash-komentotulkin
+T8	DATE 1278 1288	syyskuussa
+T9	PRO 1292 1315	OpenSSL-salauskirjaston
+T10	DATE 1334 1345	huhtikuussa

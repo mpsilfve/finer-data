@@ -1,0 +1,22 @@
+Tätä tarkoittaa Windows 10:n ilmaisuus
+Windows 10 on ilmainen päivitys vuoden ajan , mutta Microsoftin ilmoitus jätti ilmaan kysymyksiä .
+Microsoftin eilisen lehdistötilaisuuden yllättävintä antia oli odottamaton paljastus Windows 10:n hinnoittelusta .
+Kerroimme eilen , että Microsoft todennäköisesti pitää käyttöjärjestelmän hinnan vielä toistaiseksi salaisuutena .
+Osittain tämä toteutuikin , sillä Microsoft ei paljastanut Windows 10:n myyntihintaa .
+Se on luvassa myöhemmin .
+Sen sijaan Redmondin jätti haluaa saada houkuteltua suuret massat Windows 10 -asiakkaiksi lupaamalla päivityksen ilmaiseksi niin Windows 7- , 8- kuin 8.1-käyttäjillekin .
+Microsoftin Terry Myersonin ilmoitus jätti kuitenkin paljon spekuloitavaa .
+Mitä tapahtuu ensimmäisen ilmaisen vuoden jälkeen ?
+Microsoftin mukaan Windows 10:een voi päivittää maksutta vuoden ajan sen ilmestymisestä .
+Mutta entä ensimmäisen vuoden jälkeen ?
+Muuttuuko käyttöjärjestelmä sen jälkeen maksulliseksi niille , jotka ovat siihen jo ehtineet päivittää ?
+Ei .
+Myerson selitti sanavalintaansa myöhemmin Windowsin blogissa .
+Ne käyttäjät , jotka asentavat Windows 10:n ensimmäisen vuoden aikana , saavat siihen tarvittavat päivitykset ja ominaisuudet koko käyttöjärjestelmän elinkaaren ajan .
+Windows 10:n tukiaika on nykytiedon valossa sama kuin muillakin Windowseilla , siis kymmenen vuotta .
+Käytännössä tämä tarkoittaa sitä , että jos ja kun Windows 10 ilmestyy tämän vuoden aikana , päättyy sen tukiaika vuonna 2025 .
+Sen sijaan Microsoft on toistaiseksi ollut vaitonainen siitä , mitä tapahtuu jos Windows 10 pitää myöhemmin asentaa uudelleen .
+Täytyykö se ostaa , vai toimiiko alkuperäinen ilmaislisenssi ?
+Tämäkin selviää varmasti pian .
+Työpöydille tarkoitettu Windows 10 ei suinkaan ole ainoa ilmainen Windows 10 -versio .
+Microsoft lupasi eilen , että myös Windows Phone -käyttäjät saavat ilmaisen Windows 10 -päivityksen puhelimilleen .

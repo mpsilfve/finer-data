@@ -1,0 +1,27 @@
+T1	ORG 0 9	Microsoft
+T2	ORG 53 62	Microsoft
+T3	PRO 147 172	Windows Phone -puhelinten
+T4	ORG 187 196	Microsoft
+T5	PER 239 253	Eldar Murtazin
+T6	ORG 305 314	Microsoft
+T7	PRO 328 350	Windows Phone -alustan
+T8	PER 366 374	Murtazin
+T9	ORG 401 410	Microsoft
+T10	ORG 453 464	Samsungille
+T11	ORG 481 488	Sonylle
+T12	ORG 505 514	Huaweille
+T13	PRO 590 611	Windows Phone -mallin
+T14	PER 644 652	Murtazin
+T15	ORG 662 673	Microsoftin
+T16	PER 691 701	Frank Shaw
+T17	ORG 772 784	Unwired View
+T18	PER 932 936	Shaw
+T19	PER 948 956	Murtazin
+T20	ORG 1132 1136	Sony
+T21	PRO 1161 1185	Windows Phone -puhelimen
+T22	PRO 1227 1239	WP-laitteita
+T23	ORG 1255 1260	Nokia
+T24	ORG 1291 1300	Microsoft
+T25	ORG 1375 1384	GSM Arena
+T26	ORG 1403 1412	Microsoft
+T27	ORG 1418 1424	Nokian

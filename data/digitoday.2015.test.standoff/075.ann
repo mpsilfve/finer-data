@@ -1,0 +1,18 @@
+T1	ORG 60 91	Yhdysvaltain energiaministeriön
+T2	PRO 382 413	Large Synoptic Survey Telescope
+T3	PRO 443 447	LSST
+T4	PRO 680 684	LSST
+T5	ORG 938 948	Daily Mail
+T6	PRO 951 960	Wikipedia
+T7	PRO 975 990	LSST-hankkeesta
+T8	DATE 1148 1159	vuonna 2008
+T9	PER 1183 1195	Bill Gatesin
+T10	PER 1199 1215	Charles Simonyin
+T11	DATE 1326 1345	Vuoden 2010 elokuun
+T12	ORG 1359 1385	Yhdysvaltain tiedeakatemia
+T13	PRO 1394 1408	LSST-projektin
+T14	PRO 1667 1673	LSST:n
+T15	DATE 1693 1704	vuonna 2022
+T16	LOC 1807 1829	Cerro Pachón -vuorelle
+T100001	LOC 60 72	Yhdysvaltain
+T100002	LOC 1359 1371	Yhdysvaltain

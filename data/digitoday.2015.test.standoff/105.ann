@@ -1,0 +1,21 @@
+T1	ORG 0 12	Facebookilta
+T2	PRO 39 42	M:n
+T3	ORG 67 75	Facebook
+T4	PRO 158 178	Facebook Messengerin
+T5	PRO 189 209	Facebook Messengerin
+T6	PRO 233 236	M:n
+T7	LOC 266 280	San Franciscon
+T8	ORG 292 302	Facebookin
+T9	PER 303 315	David Marcus
+T10	PER 495 503	Marcusin
+T11	PRO 511 512	M
+T12	PRO 522 529	Siristä
+T13	PRO 533 543	Cortanasta
+T14	PRO 724 728	Siri
+T15	ORG 732 738	Applen
+T16	ORG 795 806	Microsoftin
+T17	PRO 807 815	Cortanan
+T18	PRO 865 891	Windows 10 -tietokoneisiin
+T19	ORG 947 952	Wired
+T100001	ORG 158 166	Facebook
+T100002	ORG 189 197	Facebook

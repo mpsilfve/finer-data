@@ -1,0 +1,48 @@
+T1	PER 0 15	Orazio Antinori
+T2	PER 16 31	Orazio Antinori
+T3	DATE 34 52	28. lokakuuta 1811
+T4	LOC 53 60	Perugia
+T5	LOC 61 67	Italia
+T6	DATE 70 87	26. elokuuta 1882
+T7	LOC 88 93	Shewa
+T8	LOC 94 101	Etiopia
+T9	PER 161 169	Antinori
+T10	LOC 196 206	Perugiassa
+T11	LOC 210 218	Roomassa
+T12	PER 252 277	Charles Lucien Bonaparten
+T13	PRO 304 339	" Iconografia della Fauna Italica "
+T14	PER 366 374	Antinori
+T15	DATE 423 427	1848
+T16	LOC 540 549	Ateenassa
+T17	LOC 553 562	Smyrnassa
+T18	DATE 595 606	Vuonna 1854
+T19	PER 607 615	Antinori
+T20	PER 625 655	Cristina Trivulzio Belgiojoson
+T21	LOC 663 671	Syyriaan
+T22	LOC 675 689	Vähään-Aasiaan
+T23	DATE 692 696	1859
+T24	LOC 710 718	Egyptiin
+T25	LOC 733 739	Niiliä
+T26	PER 748 762	Carlo Piaggian
+T27	ORG 807 847	Torinon luonnonhistorialliselle museolle
+T28	PER 850 858	Antinori
+T29	LOC 877 887	Tunisiassa
+T30	LOC 915 922	Italiaa
+T31	LOC 923 937	Suezin kanavan
+T32	PER 953 961	Antinori
+T33	PER 973 989	Odoardo Beccarin
+T34	LOC 1007 1016	Etiopiaan
+T35	LOC 1030 1038	Italiaan
+T36	ORG 1052 1083	Italian maantieteellisen seuran
+T37	DATE 1100 1104	1876
+T38	PER 1119 1136	Gustavo Chiarinin
+T39	PER 1140 1155	Antonio Cecchin
+T40	LOC 1176 1182	Shewan
+T41	LOC 1195 1205	Etiopiassa
+T42	PER 1236 1248	Menelik II:n
+T43	LOC 1313 1326	Let Marefiaan
+T44	PER 1329 1337	Antinori
+T45	LOC 1344 1352	Shewassa
+T46	PER 1355 1363	Antinori
+T100001	LOC 807 814	Torinon
+T100002	LOC 1052 1059	Italian

@@ -1,0 +1,14 @@
+AT&T keksi laskuttaa yksityisyydestä erikseen
+Yhdysvaltalainen telejätti AT&T on löytänyt uuden tavan rokottaa asiakkaita : yksityisyysmaksun .
+AT&T tarjoaa huippunopean GigaPower-palvelun asiakkailleen mahdollisuutta välttyä verkkoliikenteen seuraamiselta .
+Se maksaa 29 dollaria kuukaudessa .
+AT&T kertoo asiasta suoraan .
+Se sanoo tekevänsä rahaa mainostajille myytävistä seurantatiedoista .
+Sen mukaan 70 dollarin kuukausimaksussa on alennus , koska yritys saa rahaa mainosmyynnistä .
+Wall Street Journal ( maksullinen ) lainaa Stanfordin yliopiston professoria Jonathan Mayeria , jonka mukaan sekä langallista että langatonta internetiä tarjoavan operaattorin seuranta on huolestuttavaa , sillä se voi muodostaa seurannalla hyvin tarkan kokonaiskuvan asiakkaan elämästä ja koska asiakkailla ei ole mitään keinoa estää sitä .
+Mayer arveli , että AT&T:n kalliin yksityisyysmaksun tarkoitus on nimenomaan ajaa asiakkaita pysymään seurannan piirissä .
+AT&T:n sakkomaksu yksityisyydestä näyttäisi korvaavan sen ja muun muassa kilpailevan Verizonin käyttämät superevästeet , jotka seuraavat asiakasta palvelusta ja laitteesta riippumatta joka paikkaan .
+AT&T lupasi luopua marraskuussa paljon pahennusta herättäneiden superevästeiden käytöstä .
+GigaPower-asiakkaalla ei ole muuta mahdollisuutta torjua seurantaa kuin maksaa joka kuukausi , sillä palvelu seuraa käyttäjän hakuja , vierailtuja nettisivuja ja klikattuja linkkejä .
+Se tekee sen huolimatta siitä , että asiakas poistaa evästeet , käyttää mainostentorjuntaohjelmaa tai asettaa seurantakiellon selaimeen .
+New York Timesin mukaan AT&T ei kuitenkaan takaa täydellistä seurannan lopettamista , vaan ainoastaan kohdennettujen mainosten lähettämisen .

@@ -1,0 +1,12 @@
+T1	ORG 24 31	Intelin
+T2	ORG 56 61	Intel
+T3	DATE 292 308	loka–joulukuussa
+T4	ORG 400 405	Intel
+T5	ORG 460 467	Intelin
+T6	ORG 687 694	Intelin
+T7	ORG 839 846	Gartner
+T8	DATE 932 948	loka–joulukuussa
+T9	ORG 1047 1054	Intelin
+T10	ORG 1265 1270	Intel
+T11	LOC 1307 1317	New Yorkin
+T12	ORG 1422 1429	Intelin

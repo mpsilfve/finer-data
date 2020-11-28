@@ -1,0 +1,19 @@
+Lizard Squadin bottiverkko paljastui — saattaa piillä myös sinun kotonasi
+Tietoturvatutkija Brian Krebs kertoo , että Lizard Squad -bottiverkko perustuu pääosin hakkeroituihin kotireitittimiin .
+Playstation Networkin ja Xbox Liven palveluksenestohyökkäyksillä kaataneen Lizard Squadin bottiverkon luonne on paljastumassa .
+Tietoturvatutkija Brian Krebs kertoo Krebs on Security -blogissaan verkon koostuvan pääosin tuhansista hakkeroiduista reitittimistä , jotka ovat pääosin yksityskäytössä .
+Hakkeriryhmä toteuttaa Lizard Stresser -palvelullaan palvelunestohyökkäyksiä rahaa vastaan .
+Lizard Squad on kertonut hyökkäyksen peliverkkoja vastaan olleen markkinointitemppu .
+Krebsin mukaan Lizard Squadin käyttämä haittaohjelma on kömpelö versio viime vuoden alkupuolella löydetystä haitakkeesta .
+Ohjelma yrittää murtautua reitittimiin oletussalasanoin , kuten admin/admin tai root/12345 .
+Vaikka Lizard Squadin verkko on pääosin kotireitittimiin perustuva , verkkoon kuuluu myös yritysten ja korkeakoulujen verkkolaitteita .
+Koska suurin osa reitittimistä perustuu Linuxiin , Krebs pitää mahdollisena , että mukana on myös muita Linux-laitteita , kuten pikkupalvelimia sekä verkkoon kytkettyjä turvakameroita .
+Krebs kertoo Lizard Squadin iskeneen myös Tor-verkkoa vastaan .
+Ryhmä osti varastetuilla luottokorttitiedoilla Googlelta pilvipalvelintilaa , joilla nämä pyrkivät luomaan Tor-verkkoon väärennettyjä välityspalvelimia .
+Suunnitelma meni kuitenkin myttyyn , kun Google huomasi hämärän toiminnan ja keskeytti Lizard Squadille töitä tekevien palveluidensa työn .
+Ryhmän toimia tutkineen Krebsin sivusto joutui hiljattain laajan palvelunestohyökkäyksen kohteeksi , mikä lienee liskoryhmän tekosia .
+Tämä tapahtui sen jälkeen , kun Krebs paljasti ryhmän verkkokaupan sijaitsevan bosnialaisella palvelimella .
+Krebs kehottaa kaikkia reitittimen omistajia ainakin vaihtamaan laitteen oletussalasanan .
+Lisäksi langattomaan lähiverkkoon tulisi kytkeä salaus päälle .
+Pidemmällä olevat käyttäjät voivat myös korvata reitittimen omat nimipalvelinasetukset OpenDNS-palvelulla .
+Krebsin ja Lizard Squadin henkilökohtaiseen sotaan liittyy myös sellainen yksityiskohta , että hakkeriryhmä on lisännyt asiakkaidensa hallintaliittymään kostoksi " sponsored by Brian Krebs " -tekstin .

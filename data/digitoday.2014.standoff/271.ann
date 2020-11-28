@@ -1,0 +1,19 @@
+T1	ORG 0 8	Pentagon
+T2	PRO 32 43	Blackberryä
+T3	ORG 44 55	Blackberryn
+T4	ORG 142 152	Pentagonin
+T5	PRO 177 197	Blackberry-puhelinta
+T6	ORG 230 241	Blackberryn
+T7	ORG 291 299	Pentagon
+T8	PRO 348 359	Blackberryä
+T9	ORG 483 491	Pentagon
+T10	PRO 705 716	iPad 3 ja 4
+T11	PRO 719 733	iPhone 4S ja 5
+T12	PRO 736 748	Samsung 10.1
+T13	PRO 761 771	Samsung S3
+T14	PRO 777 790	Motorola RAZR
+T15	PRO 822 842	Blackberry-puhelinta
+T16	ORG 863 871	Pentagon
+T17	ORG 955 964	The Verge
+T100001	ORG 736 743	Samsung
+T100002	ORG 761 768	Samsung

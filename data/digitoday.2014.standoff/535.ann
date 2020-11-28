@@ -1,0 +1,12 @@
+T1	ORG 48 56	Anthemin
+T2	ORG 291 316	Krebs on Security -blogin
+T3	ORG 639 647	Anthemin
+T4	ORG 808 816	Anthemin
+T5	ORG 1053 1059	Anthem
+T6	DATE 1264 1277	4. helmikuuta
+T7	ORG 1487 1497	Anthemilta
+T8	ORG 1550 1565	Huffington Post
+T9	ORG 1583 1591	Anthemin
+T10	DATE 1731 1742	joulukuussa
+T100001	PER 291 296	Krebs
+T100002	PER 1550 1560	Huffington

@@ -1,0 +1,19 @@
+T1	PRO 17 24	iPhonen
+T2	PRO 79 96	Snapchat-sovellus
+T3	PRO 110 117	iPhonen
+T4	ORG 174 195	Los Angeles Timesille
+T5	PER 268 281	Jaime Sanchez
+T6	ORG 291 312	Los Angeles Timesille
+T7	PRO 343 360	iPhone-puhelimeen
+T8	PRO 606 617	Androidissa
+T9	PRO 692 702	Snapchatin
+T10	ORG 745 753	Snapchat
+T11	ORG 1146 1156	Snapchatia
+T12	ORG 1295 1316	Los Angeles Timesille
+T13	ORG 1333 1345	Snapchatille
+T14	PER 1355 1362	Sanchez
+T15	ORG 1390 1400	Snapchatin
+T16	ORG 1501 1509	Snapchat
+T100001	LOC 174 185	Los Angeles
+T100002	LOC 291 302	Los Angeles
+T100003	LOC 1295 1306	Los Angeles

@@ -1,0 +1,10 @@
+Uberin kyydit päätyivät Googlen hakukoneeseen
+Muutamat kyytipalvelu Uberin autoilla ajetut matkat ovat päätyneet koko maailman katseltavaksi Googlen hakukonetuloksiin .
+Tiettävästi kyseessä ei ole tietovuoto , sillä Uberin välittämien kyytien käyttäjät ovat itse julkaisseet tietonsa kyytisovelluksen välityksellä .
+Hakutuloksissa näkyi Google Mapsin sivulla sama kartta , jonka on Uberin kuljettajan ja asiakkaan älypuhelimessa .
+Lisäksi sivun html-koodissa näkyivät tarkat osoitteet ja kuljettajan ja matkustajan etunimet .
+Saittikohtainen trips.uber.com haku toimi Yhdysvaltojen lisäksi Venäjällä , Ranskassa , Meksikossa ja Britanniassa .
+Viime viikolla julkisuuteen päässeet matkatiedot olivat vanhimmillaan vuodelta 2013 .
+Asian noustua julkisuuteen , Uber rajoitti matkatietojen linkkien elinajan 48 tuntiin .
+Asiasta kirjoitti ensin ZDNet .
+Matkatietojen julkistaminen kuuluu osana Uber-sovellukseen , joka antaa matkustajalle mahdollisuuden tiedottaa arvioidusta saapumisajasta tekstiviestillä , joka puolestaan linkkaa suorana näkyvään karttaan .

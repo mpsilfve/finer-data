@@ -1,0 +1,12 @@
+Jollan sisuskalut paljastuivat — hintana puhelimen toimivuus
+Espanjalaiskäyttäjä avasi Jollansa ja paljasti komponenttivalmistajat .
+Jollan espanjalaiskäyttäjä , nimimerkki derpepe avasi vuodenvaihteen tienoilla Jolla-puhelimensa ja raportoi löydöksistään maemo.orgin foorumilla .
+Muistipiirit paljastuivat Micronin valmistamiksi , radiovahvistin oli Avago technologiesin ja äänikoodekki oli Qualcommilta .
+Derpepe päätteli puhelimen olevan Truly electronicsin valmistama , mutta kommenteissa yhtiön uskottiin olevan vain näytön valmistaja .
+Jolla ei ole kertonut virallisesti , kuka toimii puhelimen kokoajana .
+Derpepe sanoi luulleensa puhelinta vialliseksi , sillä siitä kuuluivat kaiutinäänet toiselta puolelta .
+Tarkempi tutkiskelu paljasti , että toisen puolen ritilän takana olikin mikrofoni eikä kaiutin .
+Puhelimen äänentoisto ilman kuulokkeita tulee monona yhden kaiuttimen kautta .
+Kuvat ovat nähtävissä derpepen Maemo.orgiin viestissä .
+Kuvien lähettämisen jälkeen derpepelle huomautettiin , että hänen puhelinkoneestaan tuli operaation myötä mitä todennäköisimmin entinen .
+Radiotaajuussuojien laittaminen takaisin paikoilleen onnistuneesti on huomattavan vaikeaa .

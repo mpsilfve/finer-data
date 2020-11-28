@@ -1,0 +1,20 @@
+T1	ORG 0 6	Postin
+T2	ORG 127 132	Posti
+T3	DATE 177 187	syyskuussa
+T4	ORG 190 195	Posti
+T5	ORG 264 272	Amazonin
+T6	LOC 307 321	Yhdysvalloissa
+T7	ORG 377 383	Postin
+T8	LOC 442 455	Suomenlinnaan
+T9	DATE 456 471	2.-5. syyskuuta
+T10	ORG 507 523	Verkkokauppa.com
+T11	ORG 549 567	Verkkokauppa.comin
+T12	LOC 581 603	Tyynenmerenkatu 11:ssä
+T13	LOC 604 615	Helsingissä
+T14	LOC 618 632	Suomenlinnassa
+T15	LOC 661 680	Pikku-Mustasaaressa
+T16	ORG 701 706	Posti
+T17	DATE 754 766	1. syyskuuta
+T18	ORG 803 809	Amazon
+T19	LOC 860 874	Yhdysvalloissa
+T20	ORG 954 960	Amazon

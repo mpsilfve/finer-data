@@ -1,0 +1,11 @@
+T1	ORG 0 4	Dell
+T2	PRO 48 64	Firefox-selaimen
+T3	ORG 99 103	Dell
+T4	PRO 147 154	Windows
+T5	ORG 275 279	Dell
+T6	ORG 435 447	The Register
+T7	ORG 671 675	Dell
+T8	PRO 721 737	Firefox-selaimen
+T9	PRO 762 778	Firefox-selaimen
+T10	ORG 804 816	The Register
+T11	ORG 919 923	Dell

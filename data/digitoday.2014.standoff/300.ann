@@ -1,0 +1,31 @@
+T1	ORG 0 11	TeliaSonera
+T2	ORG 28 35	Tele2:n
+T3	ORG 36 58	Norjan kilpailuvirasto
+T4	ORG 98 110	TeliaSoneran
+T5	LOC 135 141	Norjan
+T6	ORG 142 150	Tele2:ta
+T7	LOC 205 212	Norjaan
+T8	ORG 251 260	Telenorin
+T9	ORG 264 276	TeliaSoneran
+T10	ORG 287 309	Norjan kilpailuvirasto
+T11	ORG 352 364	TeliaSoneran
+T12	ORG 428 440	TeliaSoneran
+T13	ORG 450 456	NetCom
+T14	ORG 460 471	Tele2 Norja
+T15	ORG 517 528	TeliaSonera
+T16	ORG 544 551	Tele2:n
+T17	DATE 552 563	heinäkuussa
+T18	ORG 604 609	Tele2
+T19	ORG 685 696	TeliaSonera
+T20	ORG 761 765	Icen
+T21	ORG 781 788	Tele2:n
+T22	ORG 825 839	Network Norway
+T23	ORG 848 854	Icelle
+T24	ORG 857 860	Ice
+T25	ORG 1010 1014	Icen
+T26	ORG 1027 1034	Tele2:n
+T27	ORG 1127 1130	Ice
+T28	ORG 1165 1170	Tele2
+T29	ORG 1173 1186	Total Telecom
+T100001	LOC 36 42	Norjan
+T100002	LOC 287 293	Norjan

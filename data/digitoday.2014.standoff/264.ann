@@ -1,0 +1,23 @@
+T1	ORG 2 8	Nokian
+T2	PRO 45 55	Androideja
+T3	ORG 75 80	Nokia
+T4	PRO 129 135	Lumiaa
+T5	ORG 182 187	Nokia
+T6	DATE 226 242	loka–joulukuussa
+T7	PRO 253 269	Lumia-laitteiden
+T8	ORG 327 350	The Wall Street Journal
+T9	PRO 357 368	Twitterissä
+T10	ORG 369 375	Nokian
+T11	ORG 397 406	Digitoday
+T12	ORG 418 426	Nokialta
+T13	PER 605 623	Francisco Jeronimo
+T14	PRO 719 725	Ashoja
+T15	PER 734 743	Jeronimon
+T16	PER 792 806	Benedict Evans
+T17	PRO 817 828	Twitterissä
+T18	ORG 836 841	Nokia
+T19	PRO 887 893	Lumiaa
+T20	ORG 930 935	Apple
+T21	PRO 940 948	iPhoneja
+T22	DATE 949 965	heinä–syyskuussa
+T100001	LOC 331 342	Wall Street

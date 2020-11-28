@@ -1,0 +1,27 @@
+T1	ORG 0 6	Google
+T2	PRO 27 48	Glass-virtuaalilasien
+T3	PRO 57 71	Google Glassin
+T4	ORG 183 189	Google
+T5	DATE 246 257	vuonna 2013
+T6	PRO 269 295	Glass Explorer -ohjelmassa
+T7	ORG 410 429	Google X -yksiköstä
+T8	ORG 430 437	Googlen
+T9	ORG 479 486	Nestiin
+T10	ORG 489 496	Googlen
+T11	PRO 527 534	Glassin
+T12	PRO 781 795	Google Glassin
+T13	PRO 1108 1130	Google Glass -ohjelman
+T14	PER 1147 1155	Ivy Ross
+T15	ORG 1172 1178	Nestin
+T16	PER 1198 1213	Tony Fadellille
+T17	ORG 1223 1226	BBC
+T18	ORG 1293 1299	Applen
+T19	PRO 1384 1398	Google Glassin
+T20	PRO 1442 1449	Glassin
+T21	ORG 1487 1492	BBC:n
+T22	PER 1519 1536	Rory Cellan-Jones
+T23	PRO 1614 1626	Glass-laseja
+T100001	ORG 57 63	Google
+T100002	ORG 781 787	Google
+T100003	ORG 1108 1114	Google
+T100004	ORG 1384 1390	Google

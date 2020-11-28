@@ -1,0 +1,42 @@
+T1	PRO 75 94	Regin-haittaohjelma
+T2	ORG 98 103	NSA:n
+T3	ORG 114 123	Kaspersky
+T4	ORG 141 154	Der Spiegelin
+T5	PRO 216 221	Regin
+T6	PRO 305 310	Regin
+T7	LOC 314 327	Yhdysvaltojen
+T8	LOC 349 364	Ison-Britannian
+T9	ORG 383 394	Der Spiegel
+T10	ORG 488 518	Yhdysvaltain tiedusteluvirasto
+T11	ORG 519 524	NSA:n
+T12	PER 559 575	Edward Snowdenin
+T13	ORG 635 648	Kaspersky Lab
+T14	PRO 670 677	Reginin
+T15	PRO 757 782	Reginin keylogger-moduuli
+T16	ORG 785 794	Kaspersky
+T17	ORG 817 830	Der Spiegelin
+T18	PRO 840 849	Keylogger
+T19	PRO 1018 1023	Regin
+T20	ORG 1156 1180	Viiden silmän allianssin
+T21	LOC 1203 1217	Yhdysvalloista
+T22	LOC 1220 1239	Isosta-Britanniasta
+T23	LOC 1242 1251	Kanadasta
+T24	LOC 1254 1266	Australiasta
+T25	LOC 1270 1289	Uudesta-Seelannista
+T26	ORG 1314 1323	Kaspersky
+T27	PRO 1351 1358	Reginin
+T28	ORG 1377 1388	Der Spiegel
+T29	PRO 1492 1497	Regin
+T30	LOC 1553 1566	Yhdysvaltojen
+T31	LOC 1570 1578	Israelin
+T32	PRO 1588 1611	Stuxnet-haittaohjelmaan
+T33	ORG 1703 1711	Symantec
+T34	DATE 1719 1731	marraskuussa
+T35	PRO 1739 1748	Reginillä
+T36	ORG 1829 1839	Kasperskyn
+T37	PRO 1847 1854	Reginiä
+T38	LOC 1950 1955	Saksa
+T39	LOC 1958 1964	Belgia
+T40	LOC 1968 1976	Brasilia
+T100001	LOC 488 500	Yhdysvaltain
+T100002	PER 635 644	Kaspersky

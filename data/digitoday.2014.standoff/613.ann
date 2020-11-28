@@ -1,0 +1,19 @@
+T1	ORG 0 7	Googlen
+T2	PRO 27 38	Windowsissa
+T3	ORG 67 76	Microsoft
+T4	PRO 88 101	Windows 8.1:n
+T5	ORG 184 191	Googlen
+T6	PER 234 245	" forshaw "
+T7	PER 439 446	forshaw
+T8	PER 494 503	Forshaw'n
+T9	ORG 516 525	Microsoft
+T10	DATE 558 568	syyskuusta
+T11	LOC 598 607	Redmondin
+T12	ORG 644 653	Microsoft
+T13	DATE 782 791	tammikuun
+T14	PER 852 859	Forshaw
+T15	PRO 919 936	Windows-versioita
+T16	DATE 939 948	Tammikuun
+T17	PRO 961 989	Windows-käyttöjärjestelmille
+T18	DATE 1003 1017	13. tammikuuta
+T19	ORG 1035 1044	Softpedia

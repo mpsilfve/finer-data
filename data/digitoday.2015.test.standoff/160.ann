@@ -1,0 +1,10 @@
+T1	LOC 0 8	Suomessa
+T2	LOC 72 83	Suomessakin
+T3	PRO 103 140	Belkin-merkkisestä wlan-reitittimestä
+T4	ORG 266 302	Yhdysvaltojen tietoturvaviranomainen
+T5	ORG 303 310	US-Cert
+T6	PRO 335 374	Belkin N600 dual-band N+ -reitittimestä
+T7	ORG 1132 1141	US-Certin
+T8	PRO 1162 1180	Belkin-reitittimen
+T9	ORG 1563 1572	US-Certin
+T100001	LOC 266 279	Yhdysvaltojen

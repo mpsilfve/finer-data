@@ -1,0 +1,20 @@
+T1	ORG 24 35	Microsoftin
+T2	ORG 80 90	Ericssonin
+T3	PER 107 120	Hans Vestberg
+T4	ORG 153 164	Microsoftin
+T5	ORG 208 217	Bloomberg
+T6	PER 271 279	Vestberg
+T7	ORG 373 379	Nokian
+T8	PER 404 416	Stephen Elop
+T9	ORG 422 433	Microsoftin
+T10	PER 459 472	Satya Nadella
+T11	ORG 505 511	Fordin
+T12	PER 523 535	Alan Mulally
+T13	PER 603 611	Mulallyn
+T14	PER 649 657	Vestberg
+T15	PER 702 717	John Thompsonin
+T16	ORG 783 795	Ericssonista
+T17	ORG 838 851	Microsoftista
+T18	ORG 854 865	Microsoftin
+T19	PER 891 904	Steve Ballmer
+T20	DATE 914 923	elokuussa

@@ -1,0 +1,10 @@
+Internetin päätason osoitteet paisuivat 284 miljoonaan
+Internetin osoiteluetteloon lisättiin viime vuoden heinä—syyskuussa neljä miljoonaa ylimmän tason domain- eli tld-nimeä .
+Syyskuun lopussa niiden yhteismäärä oli 284 miljoonaa .
+VeriSignin julkaiseman Domain Name Industry Briefin mukaan ylätason domain-nimien vuosikasvu oli 6,8 prosenttia .
+Ylivoimaisesti suurimmat domain-päätteet ovat .com ja .net .
+Niiden yhteismäärä syyskuun lopussa oli 130 miljoonaa .
+.com-päätteitä oli kaikkiaan 114,9 miljoonaa .
+Suuri verkko-osoitteiden rekisteröijä VeriSign ilmoitti , että sen Domain Name System ( DNS ) -tdl-kyselyjä tehtiin päivittäin keskimäärin 114 miljardia kertaa .
+Huippupäivänä kyselyjen määrä nousi 318 miljardiin .
+Vuodessa kyselyjen määrä päivätasolla nousi 40 prosenttia .

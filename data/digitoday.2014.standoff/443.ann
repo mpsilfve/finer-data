@@ -1,0 +1,11 @@
+T1	ORG 0 8	SpaceX:n
+T2	ORG 140 146	SpaceX
+T3	PRO 264 278	Falcon-raketin
+T4	ORG 456 464	SpaceX:n
+T5	PER 476 485	Elon Musk
+T6	ORG 611 619	SpaceX:n
+T7	PER 637 643	Muskin
+T8	ORG 737 746	SpaceX:ää
+T9	LOC 853 863	Atlanttiin
+T10	ORG 1034 1040	SpaceX
+T11	ORG 1082 1088	SpaceX

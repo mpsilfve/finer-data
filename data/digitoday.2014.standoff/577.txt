@@ -1,0 +1,12 @@
+Olisiko pitänyt odottaa ?
+Hakkeri julkaisi vakavia aukkoja videosoftasta
+VLC-soittimessa on kaksi haavoittuvuutta , joihin ei ole olemassa korjausta .
+Tutkija julkaisi aukot yllättävän aikaisin .
+Suosittu avoimen koodin videosoitin VLC kärsii kahdesta vakavasta haavoittuvuudesta , tutkija Veysel Hatas raportoi .
+Aukot koskevat VLC:n viimeisintä versiota 2.1.5 ja sallivat muistin korruptoimisen ja mahdollisesti hyökkääjän koodin ajamisen tietokoneessa .
+Aukkoja voi hyödyntää tietyllä tavalla muotoilluilla flv- ja m2v-mediatiedostoilla .
+Hatas havaitsi kummankin haavoittuvuuden 24. marraskuuta .
+VLC:stä vastaava VideoLan-projekti sai tietää haavoittuvuuksista alle kuukausi sitten 26. joulukuuta , joten niiden paljastaminen jo nyt tuntuu kyseenalaiselta .
+Etenkin , jos kerran valtavat resurssit omaavalla Microsoftilla kolmekaan kuukautta ei näytä riittävän Windows-aukkojen korjaamiseen .
+Aukot näyttävät uhkaavan ainoastaan jo täysin vanhentuneen ja Microsoftin hylkäämän Windows XP:n käyttäjiä , mutta se on silti yhä laajassa käytössä ympäri maailmaa .
+Asiasta kirjoitti muun muassa ZDNet .

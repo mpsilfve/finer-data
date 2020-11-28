@@ -1,0 +1,26 @@
+T1	PRO 16 28	Windows 10:n
+T2	PRO 39 49	Windows 10
+T3	ORG 91 102	Microsoftin
+T4	ORG 138 149	Microsoftin
+T5	PRO 223 235	Windows 10:n
+T6	ORG 276 285	Microsoft
+T7	ORG 402 411	Microsoft
+T8	PRO 427 439	Windows 10:n
+T9	LOC 492 501	Redmondin
+T10	ORG 652 663	Microsoftin
+T11	PER 664 679	Terry Myersonin
+T12	ORG 780 791	Microsoftin
+T13	PRO 799 813	Windows 10:een
+T14	PER 1020 1027	Myerson
+T15	PRO 1062 1071	Windowsin
+T16	PRO 1114 1126	Windows 10:n
+T17	PRO 1251 1263	Windows 10:n
+T18	PRO 1315 1327	Windowseilla
+T19	PRO 1404 1414	Windows 10
+T20	DATE 1467 1478	vuonna 2025
+T21	ORG 1492 1501	Microsoft
+T22	PRO 1562 1572	Windows 10
+T23	PRO 1728 1738	Windows 10
+T24	PRO 1770 1788	Windows 10 -versio
+T25	ORG 1791 1800	Microsoft
+T26	PRO 1867 1890	Windows 10 -päivityksen

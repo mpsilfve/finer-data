@@ -1,0 +1,16 @@
+Peliverkkojen kaatajien väitteet : Apuna myös suuressa Sony-murrossa , Tor-verkko hallinnassa
+Playstation- ja Xbox-verkkojen kaatamisesta epäilty hakkeriryhmä Lizard Squad väittää avustaneensa myös Sonyn järjestelmien murtamisessa .
+Hakkeriryhmä Lizard Squad väittää avustaneensa myös Sonyn järjestelmiin murtautunutta hakkeriryhmää .
+Sonyn tietojärjestelmien laajan tietomurron tekijäksi on ilmoittautunut Guardians of Peace -nimeä käyttänyt hakkeriryhmä .
+Tietomurrossa Sonyn järjestelmistä kopioitiin muun muassa paljon työntekijöiden sähköposteja , terveystietoja sekä jopa kokonaisia julkaisemattomia elokuvia .
+The Washington Post -sanomalehden haastattelussa " Ryan Cleary " -nimeä käyttänyt Lizard Squadin jäsen väittää , että Lizard Squad oli saanut tietoonsa " parin " Sonyn työntekijän käyttäjätunnukset ja salasanat , jotka se välitti toiselle hakkeriryhmälle .
+Näitä käytettiin tietomurtoa varten .
+Aiemmissa Lizard Squad -ryhmän antamissa haastatteluissa muun muassa " ryan " ja " Ryan Cleary " -nimiä on käyttänyt ryhmän suomalainen 17-vuotias jäsen .
+Häntä epäillään muun ryhmän mukana Playstation- ja Xbox-pelikonsoleiden verkkopalvelujen kaatamisesta joulupäivänä .
+Helsingin Sanomien haastattelussa hän myöntää kuuluvansa ryhmään , mutta kiistää olleensa osallisena verkkopalveluiden kaatamisessa .
+" Ryan Clearyn " mukaan suurin osa monikansallisen Lizard Squad -ryhmän jäsenistä on Euroopan unionin alueella ja Itä-Euroopassa .
+Hänen mukaansa lakia valvovat viranomaiset eivät ole heille suuri haitta .
+Peliverkkojen jälkeen Lizard Squad hyökkäsi ilmeisesti salatun Tor-verkon kimppuun .
+" Ryanin " mukaan ryhmä pystyy hallitsemaan puolta Tor-verkon liikenteestä , ja voi halutessaan ohjata Tor-verkon käyttäjät haluamaansa verkko-osoitteeseen .
+Tor-verkon kehittäjät kiistivät ryhmän väitteet Tapaninpäivänä .
+Heidän mukaansa hakkerien hallussa oli alle prosentti Tor-verkon palvelimista , ja niitä on alettu poistaa verkosta .

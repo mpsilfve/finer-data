@@ -1,0 +1,16 @@
+Tietoturva-ammattilaisia nöyryytettiin : Konferenssin surffailutiedot julki
+Piraattipuolueen jäsen halusi kiinnittää tempauksellaan huomiota Ruotsin tekemään verkkovalvontaan .
+Hän saattoi rikkoa lakia näin tehdessään .
+Ruotsalaishakkeri Gustav Nipe nöyryytti perinpohjaisesti turvallisuuteen ja tietoturvaan keskittyvän Rikskonferensen 2015 : Folk och Försvar -konferenssin osallistujia Ruotsin Sälenissä , kertoo ruotsalainen The Local -julkaisu .
+Myös Ruotsin piraattipuolueen nuorisojärjestön puheenjohtajana toimiva Nipe asensi paikalle avoimen ja salaamattoman langattoman verkon , jolle hän antoi nimen Open Guest .
+Avoimen verkon liikennettä seuranneen Nipen mukaan kongressin osanottajat muun muassa hakivat tapahtuman aikana tietoja metsävaelluksesta , käyttivät Skypeä sekä selailivat eBay- ja Blocket-verkkokauppoja .
+Mukana oli Nipen väitteiden mukaan poliitikkoja , turvallisuusasiantuntijoita sekä toimittajia .
+– Turvallisuusalan kerma oli Sälenissä vaatimassa lisää valvontaa , mutta alan johtohahmot kirjautuvat suojaamattomaan verkkoon , Nipe kertoi The Localille .
+Nipe piti osallistujien toimintaa nolona , koska näille maksettiin tapahtumaan osallistumisesta .
+Hän ei kuitenkaan aio paljastaa surffailijoiden nimiä .
+Hakkeri kertoo tempauksensa syyksi saada kiinnitettyä ihmisten huomio Ruotsin tekemään verkkovalvontaan .
+Nipen tapaus on poikinut myös kritiikkiä .
+Ruotsin tietoturvaviranomaisen lakimies Martin Brinnen kertoo Dagens Nyheterille , että Nipe on saattanut rikkoa yksityisyyslakeja , vaikka ihmiset antoivatkin nimellisesti suostumuksen tietojensa tallentamiselle .
+Nipe on vakuuttanut keräämiensä tietojen olevan salakirjoitettuja ja hän on sanonut tuhoavansa ne analysoinnin jälkeen .
+Suomalainen F-Secure teki taannoin Lontoossa hieman samansuuntaisen näkyvyystempun .
+Siinä käyttäjät sitoutuivat verkon käyttöehdot hyväksymällä maksamaan palvelusta esikoisellaan .

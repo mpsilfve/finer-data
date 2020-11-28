@@ -1,0 +1,18 @@
+T1	ORG 0 10	Google X:n
+T2	ORG 34 49	Alphabet-yhtiön
+T3	ORG 50 57	Googlen
+T4	ORG 99 111	Google X:stä
+T5	ORG 178 200	Alphabet-holdingyhtiön
+T6	ORG 208 215	Googlen
+T7	PER 233 244	Sergei Brin
+T8	PRO 254 270	Google Plussassa
+T9	ORG 278 285	Googlen
+T10	ORG 286 316	Life Sciences -biotiedeyksikkö
+T11	PER 458 473	Andy Conradista
+T12	ORG 622 644	Life Sciences -yksikkö
+T13	ORG 794 800	Google
+T14	ORG 830 854	Alphabet -holding-yhtiön
+T15	ORG 873 880	Googlen
+T16	PER 921 927	Brinin
+T17	ORG 980 991	VentureBeat
+T100001	ORG 254 260	Google

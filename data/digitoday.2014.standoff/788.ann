@@ -1,0 +1,35 @@
+T1	ORG 0 7	Googlen
+T2	LOC 24 31	Suomeen
+T3	ORG 39 45	Google
+T4	PRO 55 82	Chromecast-viihdelaitteensa
+T5	LOC 96 104	Suomessa
+T6	LOC 132 140	Suomesta
+T7	ORG 161 167	Google
+T8	PRO 211 232	Chromecast-laitettaan
+T9	LOC 233 245	Yhdysvaltain
+T10	LOC 266 274	Suomessa
+T11	PRO 305 315	Gigantista
+T12	ORG 319 326	Googlen
+T13	PRO 327 346	Play-verkkokaupasta
+T14	ORG 349 355	Amazon
+T15	LOC 406 413	Suomeen
+T16	DATE 417 427	lokakuussa
+T17	ORG 471 478	Googlen
+T18	PRO 511 523	Chromecastia
+T19	ORG 546 562	Verkkopaukka.com
+T20	ORG 597 604	Googlen
+T21	PRO 630 640	Chromecast
+T22	PRO 767 781	Chromecastilla
+T23	PRO 852 860	Youtuben
+T24	PRO 888 895	Netflix
+T25	PRO 1031 1048	Chrome-selaimessa
+T26	PRO 1117 1128	Yle Areenaa
+T27	PRO 1131 1141	Chromecast
+T28	PRO 1148 1156	Android-
+T29	PRO 1160 1181	iOS -mobiililaitteita
+T30	PRO 1220 1240	Chromebook-laitteita
+T31	PRO 1252 1266	Windows Phonea
+T32	ORG 1302 1309	Googlen
+T33	PRO 1378 1393	" Nexus TV:tä "
+T34	PRO 1412 1422	Apple TV:n
+T100001	ORG 1412 1417	Apple

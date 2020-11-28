@@ -1,0 +1,15 @@
+Huh mikä murto — ja niin helposti estettävissä
+Kyberturvallisuuskeskus pisti pakettiin tutkintansa historiallisen laajasta tietomurtojen sarjasta .
+Opetus uhreille on yksinkertainen .
+Suomen Kyberturvallisuuskeskus kertoo saaneensa päätökseen laajan ja viime syksynä paljastuneen tietomurtosarjan kohteiden kartoituksen ja tavoittamisen .
+Kaikkiaan valtavassa verkkovarkaudessa , jossa saatiin vietyä jopa miljoonia luottokorttitietoja , paljastui yli 200\_000 kohdetta lähes 100 maassa .
+Kyberturvakeskus auttoi Helsingin poliisia uhrien tunnistamisessa .
+Mukana on tiedotteen mukaan " joitakin kymmeniä " suomalaisia verkkosivuja , joiden ylläpitäjille on tiedotettu tapahtuneesta .
+– Kyseessä on maa- ja kohdemäärällisesti laajin yksittäinen tapaus , joka on ollut Suomen tietoturvaviranomaisella käsittelyssä .
+Poliisi jatkaa yhä tapauksen rikostutkintaa , Kyberturvallisuuskeskus kirjoitti keskiviikkona .
+Hyökkäyksissä käytettiin hyväksi Adoben Cold Fusion -palvelimien haavoittuvuuksia , Parallels Plesk -hallintapaneelin haavoittuvuuksia ja sql-injektioita .
+Mutta haavoittuvuudet eivät olleet uusia ja tuntemattomia , vaan rikolliset käyttivät yleisesti tiedossa olevia ja murron hetkellä jo korjattuja aukkoja .
+Rikolliset olivat asentaneet takaoven pahimmillaan lähes 50\_000 Cold Fusion -palvelimelle keväällä 2013 .
+Marraskuussa takaovi oli avoinna vielä 570 sivustolla .
+Verkkosivujen ylläpitäjät eivät ehkä tiedosta , että sivujen käyttämät ohjelmistoversiot sekä konfigurointitiedot löytyvät hyökkääjälle niinkin yksinkertaisesti kuin vaikkapa Googlen ja Shodan-haun avulla .
+Kyberturvallisuuskeskuksen mukaan tarinan opetus onkin , että päivitä , päivitä , päivitä : Ajantasaiset ohjelmistot olisivat vähentäneet tietomurtojen kohteiden määrää .

@@ -1,0 +1,28 @@
+T1	LOC 0 5	Kiina
+T2	ORG 6 13	NSA:sta
+T3	LOC 16 30	Yhdysvalloilla
+T4	LOC 154 159	Kiina
+T5	LOC 191 203	Yhdysvaltain
+T6	ORG 204 216	NSA-viraston
+T7	ORG 241 259	The New York Times
+T8	ORG 263 274	Der Spiegel
+T9	ORG 306 309	NSA
+T10	ORG 351 358	Huawein
+T11	LOC 374 380	Kiinan
+T12	ORG 402 407	NSA:n
+T13	ORG 431 438	Huawein
+T14	LOC 593 605	Yhdysvaltain
+T15	LOC 689 697	Kiinasta
+T16	ORG 700 722	Kiinan ulkoministeriön
+T17	PER 732 740	Hong Lei
+T18	ORG 762 771	Reutersin
+T19	LOC 793 799	Kiinan
+T20	LOC 858 863	Kiina
+T21	LOC 897 911	Yhdysvalloille
+T22	LOC 944 955	Yhdysvallat
+T23	LOC 1089 1101	Yhdysvaltain
+T24	LOC 1106 1112	Kiinan
+T25	LOC 1270 1281	Yhdysvallat
+T26	LOC 1307 1313	Kiinan
+T100001	LOC 245 253	New York
+T100002	LOC 700 706	Kiinan

@@ -1,0 +1,31 @@
+T1	PRO 33 46	Windows 9:stä
+T2	PRO 154 165	Windows 8:n
+T3	PRO 183 194	Windows 8:n
+T4	PRO 258 275	" Windows 9:llä "
+T5	ORG 306 315	Microsoft
+T6	ORG 355 374	Stifel Nicolausilla
+T7	PER 401 412	Brad Reback
+T8	PER 421 429	Rebackin
+T9	ORG 450 459	Softpedia
+T10	ORG 462 469	ZDNetin
+T11	PER 470 482	Larry Dignan
+T12	PER 507 515	Dignanin
+T13	PRO 523 534	Windows 9:n
+T14	PER 694 700	Dignan
+T15	PER 706 712	Reback
+T16	PRO 732 743	Windows 9:n
+T17	PRO 826 835	Windows 9
+T18	PRO 876 889	Windows 8:sta
+T19	PRO 1010 1027	Metro-sovellukset
+T20	ORG 1121 1134	Microsoftille
+T21	ORG 1145 1151	Applen
+T22	PRO 1193 1214	Mac OS -päivityksistä
+T23	ORG 1222 1228	Google
+T24	PRO 1259 1268	Windowsin
+T25	PRO 1290 1316	Chromebook-tietokoneillaan
+T26	ORG 1370 1383	Microsoftilla
+T27	PRO 1419 1430	Windows 8:n
+T28	ORG 1452 1461	Microsoft
+T29	PRO 1487 1500	Windows 9:stä
+T30	DATE 1501 1510	huhtikuun
+T31	EVENT 1511 1531	Build-konferenssissa

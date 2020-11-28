@@ -1,0 +1,9 @@
+Googlen haku kertoo kenen saitilla seilaat
+Google tuo hakutuloksiinsa lisäpiirteen .
+Se alkaa tarjota taustatietoa hakutulosten tuottamista linkeistä .
+Hakukoneyritys Google kertoi Inside Search -yritysblogissaan , että se tuo pöytäkoneista alkaen käyttäjille informaatiolinkin , joka kertoo lisätietoa hakutuloksen sivusta .
+Hakutuloksen alapuolella sijaitsevaa harmaata nimeä klikkaamalla käyttäjä näkee lisätietoja kohteesta .
+Tiedot tulevat Googlen Knowledge Graph -tietokannasta , joka sisältää maailman keskinäisessä kosketuksessa olevat asiat niin kuin Google ne ymmärtää .
+Tieto voi tulla esimerkiksi Wikipediasta .
+Knowledge Graphin laajentuessa yhä useammat verkkopalvelut linkataan sen tietoihin .
+Google aikoo tarjota myös lomaketta , jolla voi ilmoittaa virheellisiä tietoja .

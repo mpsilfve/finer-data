@@ -1,0 +1,13 @@
+Jolla : Näin Sailfish uudistuu
+Sailfish-käyttöjärjestelmä uudistuu merkittävästi alkaneena vuonna , suomalainen Jolla ennakoi .
+Jolla-älypuhelinta myynyt ja sittemmin tabletteihin laajentanut Jolla kertoi kehitysnäkymiään blogissa .
+Ohjelmistojohtaja Marc Dillonin mukaan lähtökohtana on tehdä Sailfishistä skaalautuva mobiilikäyttöjärjestelmä , jota voi ajaa erilaisissa ja erikokoisissa laitteissa .
+– Kehitys tuo mukanaan myös uusitun käyttöliittymän , Dillon kirjoittaa .
+Uudistuksia on tarkoitus esitellä maaliskuussa Barcelonan MWC-messuilla .
+Kehitystyön tavoitteena on parantaa käyttäjäkokemusta sekä puhelimessa että tabletissa , vahvistaa käyttöjärjestelmän ydintä ja tehdä koodipohjasta helpommin hallittava .
+Tällä hetkellä työskennellään muun muassa järjestelmäpäivitysten ja suorituskyvyn parantamiseksi .
+Muita painopisteitä ovat yksityinen selaus , mediasoittimen käyttö lukitulla näytöllä ja usb-kytkentä käyttöliittymässä .
+Myös bugien korjaaminen kuuluu päivittäiseen työhön .
+Jollassa näyttää siis olevan paljon tekeillä yhtiöksi , jonka tarinan väitettiin olevan lopussa .
+Toki Dillon jätti kertomatta kiinnostavia seikkoja , kuten tarkemman aikataulun huhti–kesäkuussa saapuvalle tabletille .
+Ja Jolla on myös tuntenut ankaran älypuhelinkilpailun nahoissaan alentaen puhelimensa hintaa jopa sadalla eurolla joulukuussa .

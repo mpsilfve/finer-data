@@ -1,0 +1,24 @@
+T1	ORG 14 22	Applelta
+T2	ORG 69 74	Apple
+T3	DATE 96 108	9. syyskuuta
+T4	ORG 152 157	Apple
+T5	DATE 190 200	syyskuussa
+T6	PRO 255 267	Apple TV:stä
+T7	ORG 321 327	Applen
+T8	PRO 348 352	Siri
+T9	PRO 393 397	Siri
+T10	PRO 422 426	Siri
+T11	ORG 435 441	Applen
+T12	PRO 483 499	iPhone-puhelimia
+T13	ORG 621 629	Applelta
+T14	PRO 640 657	iPhone 6S -mallia
+T15	PRO 661 684	iPhone 6 Plus S -mallia
+T16	PRO 725 733	6-sarjan
+T17	ORG 748 778	Cross Research -analyysiyhtiön
+T18	PER 779 792	Shannon Cross
+T19	ORG 814 825	Reutersille
+T20	PRO 869 892	Force Touch -tekniikkaa
+T21	PER 983 988	Cross
+T22	ORG 1002 1007	Apple
+T23	PRO 1053 1061	iPadista
+T100001	ORG 255 260	Apple

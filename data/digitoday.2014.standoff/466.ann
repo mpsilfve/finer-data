@@ -1,0 +1,16 @@
+T1	ORG 0 7	Verizon
+T2	LOC 46 58	Yhdysvaltain
+T3	ORG 98 105	Verizon
+T4	ORG 220 227	Verizon
+T5	ORG 247 263	Verizon Wireless
+T6	LOC 267 279	Yhdysvaltain
+T7	PER 466 482	Edward Snowdenin
+T8	ORG 577 580	NSA
+T9	ORG 605 614	Verizonin
+T10	ORG 640 647	Verizon
+T11	DATE 666 677	vuonna 2013
+T12	DATE 1368 1396	Vuosien 2001 ja 2004 välillä
+T13	ORG 1397 1404	Verizon
+T14	DATE 1537 1552	Lokakuussa 2012
+T15	ORG 1553 1581	Yhdysvaltojen korkein oikeus
+T16	ORG 1703 1715	Ars Technica

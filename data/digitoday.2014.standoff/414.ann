@@ -1,0 +1,17 @@
+T1	ORG 0 5	SGI:n
+T2	ORG 60 65	SGI:n
+T3	ORG 69 76	Intelin
+T4	ORG 348 352	3M:n
+T5	PRO 427 452	SGI ICE X -supertietokone
+T6	ORG 461 468	Intelin
+T7	PRO 469 494	Xeon E5-2600 -suorittimia
+T8	ORG 498 502	3M:n
+T9	PRO 535 549	Novec-nestettä
+T10	PRO 923 934	Novec-neste
+T11	ORG 1093 1119	Naval Research Laboratoryn
+T12	ORG 1122 1154	Lawrence Berkeley National Labin
+T13	ORG 1158 1178	Schneider Electricin
+T14	ORG 1179 1184	APC:n
+T100001	PER 1122 1130	Lawrence
+T100002	LOC 1131 1139	Berkeley
+T100003	PER 1158 1167	Schneider

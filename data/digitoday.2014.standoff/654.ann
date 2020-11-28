@@ -1,0 +1,14 @@
+T1	ORG 36 45	Googlelta
+T2	LOC 65 77	Yhdysvaltain
+T3	LOC 100 110	Piilaakson
+T4	ORG 261 296	Kalifornian valitustuomioistuimelta
+T5	ORG 373 379	Applea
+T6	ORG 383 390	Googlea
+T7	DATE 654 666	vuoteen 2011
+T8	ORG 830 836	Applen
+T9	ORG 840 847	Googlen
+T10	ORG 897 912	Adobe Systemsin
+T11	ORG 937 944	Intelin
+T12	LOC 1005 1017	Piilaaksossa
+T13	ORG 1251 1262	Reutersille
+T100001	LOC 261 272	Kalifornian

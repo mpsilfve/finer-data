@@ -1,0 +1,16 @@
+Internetin uudet ylätason domain-nimet täyttyvät hämäristä kujista
+Internetin uusien ylätason domain-nimien rekisteröinti on räjähtänyt vuodesta 2013 .
+Niitä on jo yli tuhat , mutta valitettavasti monet ovat täynnä epäilyttäviä sivustoja .
+Yritysten tietoturvaan erikoistunut Blue Coat julkaisi tiistaina raporttinsa kymmenestä pahimmasta ja uudesta ylätason domain-ympäristöstä .
+Niissä toimivista nettisivustoista 95 prosenttia on epäilyttäviä .
+Yritys perustaa raporttinsa 15\_000 yrityksen ja 75 miljoonan kuluttajan satoihin miljooniin linkkauksiin .
+Kaikkein hämäräperäisimmät netinosat löytyvät .zip ja .review -päätteisten osoitteiden alta .
+Blue Coatin luokituksen mukaan näiden osoitteiden sivustot olivat sataprosenttisesti epäilyttäviä .
+Epäilyttävien kirjoihin pääsi useimmiten roskapostin jakelulla , huijauksilla , tilaamattomien sovellusten lataamisella ja muulla epäilyttävällä toiminnalla .
+Vähemmän yleisiä syitä hämärään joukkoon päätymiselle olivat haittaohjelmien tartuttaminen , bottiverkot ja kalastelu .
+Blue Coat antaa tiedotteessaan myös ohjeita sille , kuinka pysyä pois hämäristä nurkista .
+Yritykset voivat estää kokonaan pääsyn kyseisiin ylätason osoitteisiin .
+Jotta kuluttajat eivät päätyisi epäilyttäviin ympäristöihin , yhtiö neuvoo viemään hiiren linkin päälle ja katsomaan sieltä paljastuvaa osoitetta klikkaamatta sitä .
+.zip ja .review ovat pimeimmät kujat
+Yritys myös tarjoaa ladattavaksi koko The Web's Shadiest Neighborhoods -raporttia .
+Korjattu ingressin 2003 muotoon 2013 .

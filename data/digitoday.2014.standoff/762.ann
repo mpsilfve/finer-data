@@ -1,0 +1,17 @@
+T1	ORG 0 11	Microsoftin
+T2	ORG 57 66	Microsoft
+T3	DATE 136 147	toukokuussa
+T4	ORG 158 167	Microsoft
+T5	ORG 188 195	Googlea
+T6	ORG 199 205	Applea
+T7	ORG 338 347	Microsoft
+T8	ORG 369 375	Cnetin
+T9	LOC 404 416	New Yorkissa
+T10	DATE 417 431	20. toukokuuta
+T11	PRO 476 493	" Surface Minin "
+T12	PRO 703 710	Surface
+T13	ORG 737 743	Applen
+T14	ORG 772 781	Samsungin
+T15	ORG 819 830	Microsoftin
+T16	PER 831 841	Bill Gates
+T17	PRO 924 935	Surface Pro

@@ -1,0 +1,15 @@
+Sonyn älykakkulat tulivat myyntiin
+Sonyn älylasien kehittäjäversiota voi nyt tilata Britanniassa ja Saksassa .
+Ensi kuussa ne tulevat myyntiin kahdeksassa muussa maassa .
+Sonyn SED-E1 -älylasien kehittäjille tarkoitettu versio maksaa Euroopassa 670 euroa .
+Maaliskuussa niitä voi ostaa myös Ruotsissa , Ranskassa , Italiassa , Espanjassa , Belgiassa , Hollannissa , Japanissa ja Yhdysvalloissa .
+Lasien kanssa toimiva kehittäjäpaketti SmartEyeglass SDK on saavilla heti .
+PCMagin mukaan Sonyn älykakkuloissa käytetään holografista aallonpituutta , jonka avulla informaatio heijastetaan käyttäjän näkökenttään .
+Linssit ovat kokonaan läpinäkyvät .
+SmartEyeglass toimii yhdessä älypuhelinten kanssa .
+Siinä on kolmen megapikselin kamera , kiihtyvyys- ja suunta-anturi , kompassi ja valoisuusanturi .
+Kokonaisuuteen kuuluu piuhalla yhdistetty erillinen , kaulukseen kiinnitettävä yksikkö , jossa on akku , kaiutin , mikrofoni , nfc-siru ja kosketusanturi .
+Kehittäjille on jo tarjolla Google Playssä muutamia SmartEyeglass-sovelluksia .
+Niiden avulla lasit voi kytkeä Twitteriin , Facebookiin , Gmailiin , kalenteriin , rss-syötteisiin ja puhekomentoihin .
+Esittelyvideo löytyy täältä .
+Kuluttajaversio tulee myyntiin aikaisintaan ensi vuonna .

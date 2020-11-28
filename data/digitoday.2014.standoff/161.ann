@@ -1,0 +1,21 @@
+T1	ORG 0 6	Google
+T2	ORG 65 71	Google
+T3	LOC 76 83	Ranskan
+T4	ORG 156 175	Wall Street Journal
+T5	ORG 200 206	Google
+T6	LOC 217 224	Ranskan
+T7	PRO 478 483	Arial
+T8	ORG 492 498	Google
+T9	LOC 514 521	Ranskan
+T10	ORG 634 640	Google
+T11	ORG 694 701	Googlea
+T12	PER 723 738	Patrice Spinosi
+T13	ORG 745 766	Wall Street Journalin
+T14	ORG 789 796	Googlen
+T15	ORG 897 901	CNIL
+T16	ORG 964 970	Google
+T17	LOC 1010 1017	Ranskan
+T18	LOC 1086 1095	Eurooppaa
+T19	ORG 1128 1135	Googlea
+T100001	LOC 156 167	Wall Street
+T100002	LOC 745 756	Wall Street

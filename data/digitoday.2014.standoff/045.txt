@@ -1,0 +1,12 @@
+Yahoo osti mobiilin päiväkirjan kehittäjät
+Internetin suuriin yrityksiin kuuluva Yahoo on taas täydentänyt mobiiliosaajiensa armeijaa .
+Se sai viisi kehittäjää ostamalla pienen , aloittelevan Wander-yrityksen .
+Yahoo vahvistaa kaupan , mutta ei kerro yksityiskohtia .
+Wander tunnetaan mobiilia päiväkirjaa muistuttavasta bloggaussovelluksesta .
+Days-niminen sovellus julkistettiin toukokuussa 2013 .
+Sitä ennen yritys kehitteli paikkatietoista bloggausalustaa .
+Wanderin blogin mukaan kehittäjät siirtyvät Yahoon New York Cityn yksikköön , joka vastaa muun muassa äskettäin uudistetuista posti- , Flicker- ja Facebook-sovelluksista .
+Days-sovellus sai julkistamisen yhteydessä mediahuomiota , koska se rajoitti käyttäjien jakeluoikeuden yhteen kertaan päivässä ja koska heidän oli jaettava koko päivän kuvasaldo .
+Ilmeisesti Yahoo on kiinnostunut juuri kehittäjien taidoista kontekstitietoisen sovelluksen rakentamisessa .
+Yahoo ei perusta Wanderin Days-sovelluksesta sinänsä ja se jatkaakin itsenäistä elämää , VentureBeat kirjoittaa .
+Sen mukaan Days ei saavuttanut toivottua suosiota ja sen kehitys jumittui myyntikeskustelujen alettua .

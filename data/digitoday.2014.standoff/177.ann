@@ -1,0 +1,19 @@
+T1	PRO 0 4	Word
+T2	PRO 7 12	Excel
+T3	PRO 34 45	Androidille
+T4	PRO 82 86	Word
+T5	PRO 89 94	Excel
+T6	PRO 97 107	Powerpoint
+T7	PRO 111 118	Outlook
+T8	ORG 152 161	Microsoft
+T9	PRO 172 177	Word-
+T10	PRO 180 186	Excel-
+T11	PRO 190 213	Powerpoint-ohjelmistaan
+T12	PRO 238 267	Google Play -sovelluskauppaan
+T13	PRO 377 388	Android 4.4
+T14	PRO 393 399	Kitkat
+T15	PRO 720 727	Android
+T16	PRO 733 736	iOS
+T17	ORG 759 770	Microsoftin
+T18	PRO 771 813	Outlook-sähköposti- ja kalenteriohjelmasta
+T100001	ORG 238 244	Google

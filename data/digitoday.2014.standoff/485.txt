@@ -1,0 +1,16 @@
+Kimallekynsilakka — väkevä ase tietokoneen urkintaa vastaan
+Kimaltava kynsilakka paljastaa , onko kannetava tietokone avattu sen oltua poissa käyttäjänsä ulottuvilta .
+Tiedustelupalvelujen verkossa tekemältä tiedonkeruulta on vaikea suojautua .
+Verkkourkinnan ohella ihmisten tietoja saatetaan urkkia myös käymällä koneeseen fyysisesti käsiksi ja varastamalla siitä tietoja tai asentamalla vakoiluohjelma .
+Tässä toimenpiteessä koneeseen päästään käsiksi murtautumalla omistajan hotellihuoneeseen ja avaamalla laite omistajan poissa ollessa .
+Toinen tapa on , että viranomaiset takavarikoivat laitteen rajalla .
+Etenkin Kiinan-kävijät ovat kertoneet tietokoneisiin tehdystä fyysisistä murroista .
+Asiasta kirjoittaa Wired-lehti .
+Tietoturvatutkijat Eric Michaud ja Ryan Lackey esittelivät Chaos communication cogress -tietoturvatapahtumassa tehokkaan aseen tietokoneen fyysistä hakkerointia vastaan : glitter- eli kimallekynsilakan .
+Michaudin ja Lackeyn mukaan kimallelakka muodostaa tietokoneen ruuvien tai liitäntäporttien peittävien tarrojen päälle ainutlaatuisen kuvion , jonka muutos kertoo koneelle murtautumisesta .
+Tutkijat suosittelevat ottamaan kuvioista kännykkäkameralla lähikuvan , johon mahdollisia muutoksia voi verrata .
+Tutkijoiden mukaan tekniikka on sinettejä turvallisempi , sillä sinetit ovat vaihdettavissa uusiin .
+Alkuperäisen kaltaista kimallekuviota on käytännössä mahdoton luoda .
+Tekniikka on lainattu tähtitieteilijöiltä , jotka käyttävät sitä tähtitaivaan muutosten seuraamiseen .
+Tutkijat sanovat kehittelevänsä tekniikkaan perustuvaa kaksivaiheista tunnistusjärjestelmää .
+Siinä lakkasuojatusta kohteesta otettuja valokuvia verrataan keskenään , ja kuvioiden tulee olla täysin samanlaisia ennen kuin koneelta sallitaan pääsy esimerkiksi vpn-yhteyteen tai muuhun mahdolliseen hyökkäyskohteeseen .

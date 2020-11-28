@@ -1,0 +1,43 @@
+T1	ORG 0 9	Microsoft
+T2	PRO 103 116	Tor-selainten
+T3	PRO 155 170	Windows Updaten
+T4	ORG 180 189	Microsoft
+T5	PRO 234 253	Sefnit-bottiverkkoa
+T6	PRO 290 297	Windows
+T7	PRO 327 339	Tor-selainta
+T8	ORG 427 436	Microsoft
+T9	ORG 497 512	The Hacker News
+T10	DATE 515 524	Elokuussa
+T11	PRO 525 535	Tor-verkon
+T12	LOC 581 589	Suomessa
+T13	PER 630 639	Snowdenin
+T14	DATE 731 741	Syyskuussa
+T15	PRO 785 807	Selfnit-haittaohjelman
+T16	PRO 874 884	Tor-verkon
+T17	PRO 945 957	Tor-selaimen
+T18	PRO 981 998	BrowderProtector-
+T19	PRO 1004 1030	FileScout-suojausohjelmien
+T20	PRO 1047 1056	Selfnitin
+T21	PRO 1075 1086	Tor-palvelu
+T22	ORG 1119 1130	Microsoftin
+T23	ORG 1291 1300	Microsoft
+T24	PRO 1467 1476	Selfnitin
+T25	PRO 1497 1509	Tor-selaimen
+T26	ORG 1562 1573	Microsoftin
+T27	PRO 1639 1669	Microsoft Security Essentials-
+T28	PRO 1672 1702	Windows Defender on Windows 8-
+T29	PRO 1705 1730	Microsoft Safety Scanner-
+T30	PRO 1733 1777	Microsoft System Center Endpoint Protection-
+T31	PRO 1780 1805	Windows Defender Offline-
+T32	PRO 1809 1852	Malicious Software Removal Tool -ohjelmilla
+T33	PRO 1880 1895	Windows Updaten
+T34	ORG 1929 1938	Microsoft
+T35	PRO 1994 2014	Tor-ohjelmapaketista
+T36	ORG 2017 2029	Microsoftiin
+T37	ORG 2054 2069	The Hacker News
+T38	ORG 2081 2092	Microsoftin
+T39	PRO 2110 2120	Tor-selain
+T40	PRO 2141 2160	Internet Exploreria
+T100001	ORG 1639 1648	Microsoft
+T100002	ORG 1705 1714	Microsoft
+T100003	ORG 1733 1742	Microsoft

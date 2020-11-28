@@ -1,0 +1,10 @@
+T1	ORG 23 29	Google
+T2	ORG 60 66	Google
+T3	DATE 187 198	Helmikuussa
+T4	ORG 199 205	Google
+T5	ORG 328 334	Google
+T6	ORG 677 684	Googlen
+T7	LOC 803 815	New Yorkissa
+T8	DATE 816 825	elokuussa
+T9	ORG 907 914	Googlen
+T10	PRO 915 943	Knowledge Graph -tietokantaa

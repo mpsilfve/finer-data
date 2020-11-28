@@ -1,0 +1,29 @@
+T1	PER 0 6	Elopin
+T2	LOC 26 34	Kiinasta
+T3	ORG 35 41	Nokian
+T4	ORG 51 62	Microsoftin
+T5	PER 97 111	Stephen Elopin
+T6	LOC 140 147	Kiinaan
+T7	ORG 150 156	Nokian
+T8	PER 165 177	Stephen Elop
+T9	LOC 195 202	Kiinaan
+T10	ORG 287 296	Microsoft
+T11	LOC 329 335	Kiinan
+T12	PRO 415 436	Xbox One -pelikonsoli
+T13	LOC 439 445	Peking
+T14	ORG 592 601	Microsoft
+T15	PRO 630 652	Xbox One -pelikonsolia
+T16	LOC 653 660	Kiinaan
+T17	ORG 688 711	Shanghai Media Groupiin
+T18	ORG 721 744	BesTV New Media -yhtiön
+T19	ORG 754 763	Microsoft
+T20	DATE 785 795	syyskuussa
+T21	ORG 796 803	BesTV:n
+T22	ORG 827 847	E-Home Entertainment
+T23	LOC 869 877	Shangain
+T24	PRO 921 929	Xbox One
+T25	LOC 1040 1046	Kiinan
+T26	DATE 1060 1070	syyskuussa
+T27	ORG 1143 1152	Microsoft
+T28	LOC 1191 1196	Suomi
+T100001	LOC 688 696	Shanghai

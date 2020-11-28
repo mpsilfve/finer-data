@@ -1,0 +1,17 @@
+T1	LOC 0 5	Kiina
+T2	PRO 20 44	Linux-käyttöjärjestelmän
+T3	LOC 60 65	Kiina
+T4	ORG 175 192	Shanghai Liantong
+T5	LOC 207 213	Kiinan
+T6	ORG 214 234	ISCAS-tiedeakatemian
+T7	PRO 292 300	Linuxiin
+T8	PRO 339 342	COS
+T9	PRO 365 387	China Operating System
+T10	ORG 397 417	Engadget-verkkolehti
+T11	ORG 500 507	ISCASin
+T12	ORG 542 548	Applen
+T13	PRO 549 571	iOS-käyttöjärjestelmää
+T14	ORG 600 607	Googlen
+T15	PRO 608 619	Androidista
+T16	PRO 675 697	COS-käyttöjärjestelmää
+T100001	LOC 175 183	Shanghai

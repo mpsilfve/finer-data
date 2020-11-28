@@ -1,0 +1,16 @@
+T1	ORG 0 11	Microsoftin
+T2	PRO 20 26	XP:ssä
+T3	ORG 90 99	Microsoft
+T4	PRO 117 129	Windows XP:n
+T5	ORG 206 210	Atea
+T6	ORG 268 279	Microsoftin
+T7	PRO 440 444	XP:n
+T8	ORG 513 518	Atean
+T9	PER 532 545	Pete Nieminen
+T10	ORG 567 576	Microsoft
+T11	PRO 586 592	XP:lle
+T12	DATE 664 677	8. huhtikuuta
+T13	PRO 862 864	XP
+T14	ORG 1015 1026	Microsoftin
+T15	DATE 1170 1181	huhtikuussa
+T16	PRO 1287 1289	XP

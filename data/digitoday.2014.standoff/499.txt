@@ -1,0 +1,18 @@
+Snowden-asiakirjat : Britannia iski Anonymousia vastaan rikollisten keinoin
+Edward Snowdenin asiakirjalaarista löytyi papereita , jotka todistavat Ison-Britannian käyttäneen verkkorikollisten työkalupakkiin yleensä kuuluvaa asetta haktivisteja vastaan .
+Asiasta kertoo NBC News .
+Ison-Britannian hallitus saa varsin kyseenalaista mainetta uusista asiakirjoista , jotka NBC News kaivoi Edward Snowdenin toimittamasta loputtomasta vakoiluaineistosta .
+Hallituksen salainen vakoiluyksikkö on käyttänyt palvelunestohyökkäyksiä ( dos ) haktivisteja eli verkkoaktivisteja vastaan .
+Haktivismi on poliittisesti motivoitunutta verkkoaktivismia , minkä puitteissa löyhä Anonymous-liiga on usein turvautunut palvelunestohyökkäyksiin protestoidakseen esimerkiksi yrityksiä tai eri maiden hallituksia vastaan .
+Britannian tiedustelupalvelu GCHQ:n alainen yksikkö on käyttänyt samaa asetta muun muassa juuri Anonymousia vastaan iskien ryhmittymän jäsenten käyttämille internetin chattipalstoille .
+PowerPoint-esitys vuodelta 2012 kertoo operaatiosta Rolling Thunder , jonka väitettiin yhdessä muiden tekniikoiden kanssa karkottaneen pois suurimman osan Anonymousin chattipalstojen käyttäjistä .
+" Tämä on historiallista "
+Palvelunestohyökkäyksessä haluttu verkko-osoite voidaan ruuhkauttaa ja saada kaatumaan liialla liikenteellä .
+Erikseen puhutaan hajautetuista palvelunestohyökkäyksistä , missä hyökkäyksellä on lukuisia lähteitä , tyypillisesti suuri joukko saastuneita , tavallisten ihmisten tietokoneita .
+Onkin epäselvää , onko Britannia syyllistynyt " vain " dos-hyökkäyksiin , vai hajautettuihin ddos-hyökkäyksiin .
+Tietoturvayhtiö F-Securen tutkimusjohtaja Mikko Hyppönen julkaisi yhden PowerPoint-kalvoista Twitterissä ja julisti :
+– Tämä tekee Britannian hallituksesta ainoan läntisen hallituksen , jonka tiedetään käynnistäneen ddos-hyökkäyksiä .
+Mutta viestistä seuranneessa keskustelussa hän korjaa , ettei hajautetuista hyökkäyksistä ole varmaa näyttöä .
+– Mutta se ei muuta sitä tosiasiaa , että tämä on historiallista , Hyppönen tähdentää .
+Joidenkin mielestä Ison-Britannian toiminta on hyväksyttävää , koska kohteena olevat ovat itse syyllistyneet verkkohyökkäyksiin .
+Mutta toisten mielestä hallituksen hyökkäykset ovat aiheuttaneet useita sivullisia uhreja , joilla ei ole ollut mitään tekemistä Anonymousin kanssa .

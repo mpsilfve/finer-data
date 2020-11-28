@@ -1,0 +1,40 @@
+T1	ORG 50 58	F-Secure
+T2	PRO 69 87	Blackphone-puhelin
+T3	ORG 138 147	F-Securen
+T4	PRO 379 392	PGP-salauksen
+T5	PER 403 418	Phil Zimmermann
+T6	ORG 424 441	PGP Corporationin
+T7	PER 452 462	Jon Callas
+T8	ORG 571 584	Silent Circle
+T9	ORG 590 600	Geeksphone
+T10	LOC 639 649	Barcelonan
+T11	EVENT 650 663	MWC-messuilla
+T12	ORG 666 679	Silent Circle
+T13	PRO 883 922	PrivatOS-nimiseen muokattuun Androidiin
+T14	ORG 1360 1368	F-Secure
+T15	ORG 1389 1398	F-Securen
+T16	PER 1444 1461	Janne Pirttilahti
+T17	ORG 1495 1507	Digitodaylle
+T18	ORG 1560 1568	F-Secure
+T19	PRO 1754 1782	Google Play -sovelluskauppaa
+T20	ORG 1785 1796	Blackphonen
+T21	PRO 1835 1847	Google Playn
+T22	PER 1864 1875	Pirttilahti
+T23	PER 1968 1978	Zimmermann
+T24	PER 1982 1988	Callas
+T25	ORG 1999 2013	Silent Circlen
+T26	PER 2104 2115	Pirttilahti
+T27	ORG 2152 2159	NSA:lla
+T28	ORG 2391 2396	NSA:n
+T29	PER 2702 2713	Pirttilahti
+T30	PER 2725 2736	Pirttilahti
+T31	ORG 2751 2759	F-Secure
+T32	PRO 2792 2830	Freedome-yksityisyyssovelluksessaankin
+T33	PRO 2851 2859	Freedome
+T34	PRO 2868 2887	OpenVPN-protokollaa
+T35	ORG 3364 3379	Silent Circleen
+T36	PER 3817 3828	Pirttilahti
+T37	ORG 3850 3859	F-Securen
+T38	PER 4422 4433	Pirttilahti
+T100001	ORG 1754 1760	Google
+T100002	ORG 1835 1841	Google

@@ -1,0 +1,25 @@
+T1	ORG 0 7	Kremlin
+T2	PRO 46 57	Wikipediaan
+T3	LOC 67 76	Venäjällä
+T4	PER 89 96	Putinin
+T5	LOC 155 164	Venäjälle
+T6	PRO 198 208	Wikipedian
+T7	LOC 238 245	Venäjän
+T8	ORG 268 280	Roskomnadzor
+T9	PRO 324 342	Wikipedia.ru-sivut
+T10	ORG 448 462	Roskomnadzorin
+T11	DATE 509 519	kesäkuussa
+T12	ORG 570 592	Wikipedia-organisaatio
+T13	PRO 848 857	Wikipedia
+T14	LOC 884 891	Venäjän
+T15	ORG 892 901	Wikipedia
+T16	ORG 938 955	Financial Timesin
+T17	PRO 963 973	Wikipedian
+T18	ORG 1057 1064	Kremlin
+T19	PRO 1116 1126	Wikipedian
+T20	PER 1229 1245	Vladimir Putinin
+T21	PRO 1258 1271	Wikipedia.run
+T22	LOC 1371 1380	Venäjällä
+T23	ORG 1422 1434	Wikipedialla
+T24	LOC 1538 1544	Venäjä
+T25	PRO 1560 1569	Redditiin

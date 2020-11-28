@@ -1,0 +1,12 @@
+Palvelut kaatuivat laajalla rintamalla , Google kertoo syyn
+Virhe ennätti korjaantua itsestään ennen kuin googlelaiset pääsivät asiasta jyvälle .
+Google vahvisti asiakkaidensa kärsineen erittäin laajasta palveluviasta perjantaina illalla .
+Yhtiön VP Engineering Ben Treynorin mukaan suurin osa kirjautuneista käyttäjistä esimerkiksi Gmailissa , Google+:ssa tai Calendarissa eivät päässeet sisään noin 25 minuuttiin .
+Joka kymmenes kärsi viasta jopa noin tunnin ajan .
+Treynor pyytää Googlen puolesta anteeksi ja selittää , mitä oikein tapahtui .
+Kyseessä ei ollut hyökkäys Googlea vastaan .
+– Sisäinen järjestelmä , joka synnyttää konfiguraatioita – siis tietoa , joka kertoo muille järjestelmille , miten käyttäytyä – kohtasi ohjelmistobugin ja synnytti virheellisen konfiguraation .
+Se lähti linjalla oleviin palveluihin seuraavan 15 minuutin aikana jättäen käyttäjien pyynnöt dataansa huomiotta ja nämä palvelut vuorostaan synnyttivät virheitä , Treynor aloittaa .
+Johtajan mukaan Googlen luotettavuustiimi oli vielä selvittämässä ongelmaa , kun alkuperäinen järjestelmä oli jo korjannut virheensä ja alkanut jakaa uutta ja kunnollista konfiguraatiota .
+Noin puoli tuntia ongelmien alkamisesta suurin osa käyttäjistä pääsi taas palveluihinsa .
+Nyt Google on korjaamassa kyseisen ohjelmistovirheen ja lisäämässä varotoimen , joka estää väärien asetusten lähtemisen jakeluun vastedes .

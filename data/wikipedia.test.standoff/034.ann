@@ -1,0 +1,82 @@
+T1	PER 0 18	Ilkka Jääskeläinen
+T2	PER 19 43	Ilkka Aaron Jääskeläinen
+T3	DATE 49 69	10. marraskuuta 1979
+T4	LOC 70 77	Tampere
+T5	ORG 141 155	MTV3-kanavalla
+T6	PRO 165 185	" Idols " -kilpailun
+T7	DATE 208 227	18. joulukuuta 2005
+T8	PER 278 293	Katri Ylanderin
+T9	PER 363 375	Jääskeläinen
+T10	PRO 438 453	Idols-kilpailun
+T11	DATE 462 478	tammikuussa 2006
+T12	ORG 500 507	SonyBMG
+T13	PER 549 568	Heikki Jääskeläisen
+T14	DATE 623 639	huhtikuussa 2006
+T15	ORG 656 669	ExtraViihteen
+T16	PER 702 720	Ilkka Jääskeläinen
+T17	ORG 889 898	SonyBMG:n
+T18	PER 1017 1031	Jääskeläiselle
+T19	DATE 1178 1182	2011
+T20	PER 1183 1195	Jääskeläinen
+T21	EVENT 1236 1266	Idols tekee hyvää -konsertissa
+T22	ORG 1290 1304	MTV3-kanavalla
+T23	PER 1345 1350	Ilkka
+T24	DATE 1404 1415	Vuonna 2007
+T25	PRO 1449 1460	Pitkä kirja
+T26	PRO 1476 1497	" Kun Herran käteen "
+T27	PRO 1501 1528	" Oi Golgatan ihana risti "
+T28	EVENT 1581 1603	juhannuskonferenssissa
+T29	LOC 1604 1613	Keuruulla
+T30	PRO 1639 1655	" Real 7 " -levy
+T31	DATE 1666 1670	2010
+T32	PRO 1695 1719	" Rakkain joululauluni "
+T33	PRO 1727 1741	" Oi jouluyö "
+T34	DATE 1811 1815	2011
+T35	PRO 1854 1870	" Tämä iloa on "
+T36	DATE 1941 1945	2011
+T37	PRO 1962 1979	Pitkä kirja -levy
+T38	PER 1988 2000	Jääskeläinen
+T39	PRO 2015 2044	" Kun murheen mustat pilvet "
+T40	PRO 2048 2073	" Tuonne tuonne kaipaan "
+T41	DATE 2085 2089	2013
+T42	PER 2112 2118	Heikin
+T43	PER 2130 2147	Veera Tillanderin
+T44	PER 2151 2166	Lasse Heikkilän
+T45	ORG 2174 2193	Primavera-yhtyeessä
+T46	PER 2196 2201	Ilkka
+T47	DATE 2329 2333	2011
+T48	PER 2336 2354	Ilkka Jääskeläinen
+T49	PRO 2360 2368	Idolsiin
+T50	LOC 2391 2405	Hämeenlinnassa
+T51	LOC 2417 2428	Tampereella
+T52	PER 2504 2510	Heikki
+T53	PER 2574 2579	Paula
+T54	PER 2583 2600	Elia Jääskeläinen
+T55	DATE 2612 2616	2006
+T56	PER 2617 2622	Ilkka
+T57	LOC 2630 2641	Tampereelle
+T58	PER 2684 2696	Jääskeläinen
+T59	PER 2802 2814	Jääskeläinen
+T60	DATE 2823 2834	vuoden 2008
+T61	PRO 2840 2854	Pikku Kakkosen
+T62	PRO 2877 2889	Sääveikkaaja
+T63	PER 2892 2904	Jääskeläinen
+T64	ORG 3031 3061	Tampereen helluntaiseurakunnan
+T65	ORG 3111 3122	Real Mesidz
+T66	DATE 3134 3138	2010
+T67	ORG 3150 3163	TV7-kanavalla
+T68	PRO 3214 3227	Kenkälaatikko
+T69	DATE 3231 3251	vuosina 2012 ja 2013
+T70	ORG 3252 3266	Radio Gospelin
+T71	EVENT 3337 3359	juhannuskonferenssista
+T72	LOC 3360 3369	Keuruulta
+T73	PER 3370 3384	Nanku Anttilan
+T74	PER 3394 3412	Ilkka Jääskeläinen
+T75	PRO 3444 3462	" Kakolan viesti "
+T76	ORG 3481 3513	Keravan kartanon kesäteatterissa
+T77	DATE 3526 3530	2012
+T100001	PRO 1236 1241	Idols
+T100002	LOC 1506 1514	Golgatan
+T100003	LOC 3031 3040	Tampereen
+T100004	LOC 3446 3453	Kakolan
+T100005	LOC 3481 3497	Keravan kartanon

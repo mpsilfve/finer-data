@@ -1,0 +1,19 @@
+T1	ORG 0 13	Suomen Pankki
+T2	ORG 46 59	Suomen Pankin
+T3	ORG 248 263	Suomen pankista
+T4	ORG 362 375	Suomen Pankin
+T5	PER 446 461	Päivi Heikkinen
+T6	ORG 476 487	Bloombergin
+T7	PER 700 709	Heikkinen
+T8	LOC 719 732	Pohjoismaissa
+T9	ORG 738 753	Norjan hallitus
+T10	LOC 827 836	Tanskassa
+T11	LOC 952 960	Suomessa
+T12	ORG 1182 1195	Suomen Pankki
+T13	LOC 1272 1280	Suomessa
+T100001	LOC 0 6	Suomen
+T100002	LOC 46 52	Suomen
+T100003	LOC 248 254	Suomen
+T100004	LOC 362 368	Suomen
+T100005	LOC 738 744	Norjan
+T100006	LOC 1182 1188	Suomen

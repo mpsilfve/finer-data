@@ -1,0 +1,12 @@
+T1	ORG 0 8	Ericsson
+T2	ORG 153 163	Ericssonin
+T3	ORG 288 294	Nokian
+T4	ORG 309 312	NSN
+T5	ORG 667 672	Radio
+T6	ORG 676 686	Cloud & IP
+T7	ORG 809 819	Ericssonin
+T8	PER 836 849	Hans Vestberg
+T9	PER 1041 1054	Johan Wibergh
+T10	PER 1132 1139	Wibergh
+T11	DATE 1329 1338	heinäkuun
+T12	DATE 1395 1403	syyskuun

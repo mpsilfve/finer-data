@@ -1,0 +1,14 @@
+T1	ORG 34 45	Microsoftin
+T2	ORG 59 70	Microsoftin
+T3	LOC 90 102	New Yorkissa
+T4	LOC 234 239	Suomi
+T5	ORG 320 331	Microsoftin
+T6	ORG 381 392	Microsoftin
+T7	ORG 436 447	Microsoftin
+T8	PRO 448 464	Surface-tabletit
+T9	PRO 552 581	Microsoft Band -älyranneketta
+T10	PRO 620 638	Hololens-silmikkoa
+T11	ORG 720 728	Nokialle
+T12	LOC 758 768	Amerikassa
+T13	ORG 785 798	Microsoftkaan
+T14	ORG 878 887	Microsoft

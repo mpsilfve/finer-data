@@ -1,0 +1,36 @@
+T1	PER 186 201	Janne Knuutinen
+T2	LOC 761 768	Oulusta
+T3	PER 799 814	Janne Knuutinen
+T4	LOC 826 838	Britanniassa
+T5	ORG 873 881	Nokialla
+T6	PER 1177 1186	Knuutinen
+T7	PER 1195 1210	Janne Knuutinen
+T8	PER 1506 1515	Knuutinen
+T9	PER 1528 1537	Knuutinen
+T10	ORG 1644 1669	RF Benchmark -yrityksensä
+T11	PRO 1696 1738	Devicereception.com-nimistä verkkosivustoa
+T12	PRO 1788 1808	Kuuluuko.fi-sivuston
+T13	ORG 1811 1819	Nokialla
+T14	PER 1838 1847	Knuutinen
+T15	PER 2264 2273	Knuutinen
+T16	PRO 2304 2310	Lumiat
+T17	PER 2345 2354	Knuutisen
+T18	PRO 2534 2543	iPhone 5s
+T19	PRO 2559 2576	Samsung Galaxy S5
+T20	PRO 2591 2607	Huawei Ascend P7
+T21	PRO 2642 2651	Lumia 930
+T22	PRO 2654 2664	HTC One M8
+T23	PRO 2670 2679	iPhone 5c
+T24	PRO 2755 2760	Lumia
+T25	PRO 2764 2771	Windows
+T26	PER 2805 2814	Knuutinen
+T27	PRO 2836 2843	iPhonet
+T28	PRO 2902 2907	5c:tä
+T29	PER 2932 2941	Knuutinen
+T30	PRO 2951 2961	iPhone 4:n
+T31	ORG 2984 2990	Applen
+T32	PER 3082 3091	Knuutinen
+T33	PER 3265 3274	Knuutinen
+T34	PER 4020 4029	Knuutinen
+T35	PER 4262 4273	Knuutisella
+T100001	ORG 2559 2566	Samsung

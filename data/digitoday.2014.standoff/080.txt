@@ -1,0 +1,12 @@
+Zuckerberg : Lopetimme rikkomisen
+Facebookin hakkerimainen motto " etene nopeasti ja riko asioita " on historiaa , perustaja ja pääjohtaja vakuutti F8-tapahtumassa San Franciscossa .
+Mark Zuckerberg kertoo Facebookin vihdoin aikuistuneen .
+Ehkä ei tosin ihan näillä sanoilla , mutta viesti oli selvä : vielä viime vuonna yhtiön seinillä näkynyt motto " etene nopeasti ja riko asioita " on muuttanut vahvasti muotoaan .
+Uusi motto on " etene nopeasti vakaan infran kanssa " .
+– Se ei ehkä ole yhtä tarttuva ... mutta se on se tapa , jolla me nyt toimimme , Zuckerberg sanoi lavalla muun muassa Cnetin mukaan .
+Johtaja selvitti , että kehittäjän näkökulmasta nopea eteneminen oli aluksi tärkeää ja joitakin bugeja voitiin sietää .
+Mutta se ei enää toimi yhtiön kasvettua järkälemäisiin mittoihin ainakin käyttäjälukujen valossa .
+Tavoitteena on maailman vakain ja monipuolisin mobiilialusta , joka kattaa kaikki käyttöjärjestelmät ja laitteet .
+Tuore ajattelutapa lienee hyväksi myös tietoturvalle .
+Ainakin Zuckerberg lupaa , että kaikki bugit eli ohjelmointivirheet korjataan 48 tunnissa .
+Facebookin vanha rikkomista suosinut asenne ehti jo viime vuonna saada ainakin F-Securen asiantuntijan Sean Sullivanin hermostumaan .

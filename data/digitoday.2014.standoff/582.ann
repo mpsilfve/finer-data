@@ -1,0 +1,25 @@
+T1	ORG 19 25	Google
+T2	ORG 120 129	Microsoft
+T3	ORG 160 169	Microsoft
+T4	ORG 173 179	Google
+T5	ORG 236 243	Googlen
+T6	ORG 287 298	Microsoftin
+T7	PRO 299 311	Windows 8.1-
+T8	PRO 317 348	Windows 7 -käyttöjärjestelmistä
+T9	ORG 460 471	Microsoftin
+T10	ORG 500 506	Google
+T11	PRO 621 633	Windows 7:ää
+T12	ORG 671 680	Microsoft
+T13	ORG 684 690	Google
+T14	PRO 751 767	Windows 8 ja 8.1
+T15	ORG 791 798	Googlen
+T16	PRO 861 870	Windowsin
+T17	PRO 977 1013	Windows 8- ja 8.1-käyttöjärjestelmiä
+T18	ORG 1016 1025	Microsoft
+T19	DATE 1103 1112	tammikuun
+T20	ORG 1199 1210	Microsoftin
+T21	DATE 1233 1244	helmikuulle
+T22	ORG 1247 1256	Googlelle
+T23	ORG 1353 1359	Google
+T24	ORG 1391 1397	Google
+T25	ORG 1505 1517	Ars Technica

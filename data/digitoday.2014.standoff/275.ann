@@ -1,0 +1,15 @@
+T1	ORG 0 8	Facebook
+T2	ORG 68 76	Facebook
+T3	LOC 92 106	Yhdysvalloissa
+T4	PRO 113 130	Paper-sovelluksen
+T5	PRO 131 149	iPhone-puhelimille
+T6	ORG 235 243	Facebook
+T7	PRO 296 313	Paper-sovelluksen
+T8	PRO 394 399	Paper
+T9	LOC 403 417	Yhdysvalloissa
+T10	PRO 431 448	iPhone-puhelimiin
+T11	DATE 449 462	3. helmikuuta
+T12	PRO 509 514	Paper
+T13	PRO 533 553	Flipboard-sovellusta
+T14	ORG 882 890	Facebook
+T15	PRO 1119 1131	Facebookista

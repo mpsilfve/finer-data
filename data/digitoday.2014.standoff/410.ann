@@ -1,0 +1,13 @@
+T1	ORG 31 39	SpaceX:n
+T2	ORG 115 123	SpaceX:n
+T3	PRO 124 139	Dragon-kapselin
+T4	ORG 196 204	SpaceX:n
+T5	PRO 249 268	ISS-avaruusasemalle
+T6	PRO 312 334	Falcon 9 -kantoraketin
+T7	PRO 362 381	Dragon-rahtikapseli
+T8	LOC 646 656	Floridasta
+T9	PRO 756 762	Dragon
+T10	ORG 968 978	SpaceX:lle
+T11	PRO 1017 1025	Dragonin
+T12	DATE 1102 1116	22. huhtikuuta
+T13	PRO 1187 1193	Dragon

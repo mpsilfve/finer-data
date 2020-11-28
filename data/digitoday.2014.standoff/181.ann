@@ -1,0 +1,21 @@
+T1	ORG 0 8	Applelta
+T2	PRO 42 53	Mavericksia
+T3	ORG 54 59	Apple
+T4	ORG 196 201	Apple
+T5	PRO 230 241	Mac-konetta
+T6	ORG 278 283	Apple
+T7	PRO 293 309	OS X Mavericksin
+T8	PRO 310 334	OS X 10.9.3 -betaversion
+T9	PRO 362 386	OS X Beta Seed -ohjelman
+T10	ORG 460 468	Applelle
+T11	PRO 654 677	OS X Beta Seed -ohjelma
+T12	ORG 691 697	Applen
+T13	PRO 698 723	Mac Developer -ohjelmasta
+T14	ORG 773 778	Apple
+T15	ORG 869 875	Applen
+T16	ORG 925 930	PCMag
+T17	ORG 956 961	Apple
+T18	DATE 1069 1080	vuonna 2000
+T19	PRO 1148 1166	OS X 10.0 -version
+T20	PRO 1171 1180	Cheetahin
+T21	ORG 1183 1198	Computerworldin

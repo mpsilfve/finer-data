@@ -1,0 +1,23 @@
+T1	ORG 0 5	Tesla
+T2	ORG 59 64	Tesla
+T3	PRO 74 93	Model S -sähköauton
+T4	ORG 204 209	Tesla
+T5	PRO 216 242	Model S -urheiluautoihinsa
+T6	DATE 504 518	6. maaliskuuta
+T7	ORG 551 557	Teslan
+T8	PER 569 578	Elon Musk
+T9	ORG 633 639	Teslan
+T10	PER 781 785	Musk
+T11	LOC 816 834	Pohjois-Amerikassa
+T12	PRO 934 943	Tesla S:n
+T13	PRO 1017 1027	Tesla S:ää
+T14	PRO 1099 1110	Model S:ssä
+T15	PER 1114 1120	Muskin
+T16	PER 1223 1227	Musk
+T17	PRO 1288 1295	Model S
+T18	DATE 1585 1597	marraskuussa
+T19	LOC 1622 1634	Yhdysvaltain
+T20	PER 1789 1798	Elon Musk
+T21	PRO 1814 1821	Tesloja
+T100001	PER 934 939	Tesla
+T100002	PER 1017 1022	Tesla

@@ -1,0 +1,15 @@
+Huhu : Microsoft lykkäsi Windows-päivitystä
+Windows 8.1 update 1 on nyt tulossa vasta huhtikuussa , epäviralliset tiedot kertovat .
+Päivityksestä vuoti jakoon myös uusi koontiversio .
+Windows 8.1 update 1:n julkaisuajankohta on muuttunut jo useaan otteeseen .
+Alun perin päivitys oli tarkoitus julkaista toukokuussa , mutta ajankohta vaihtui maaliskuulle .
+Tällä hetkellä todennäköisin julkaisuajankohta on huhtikuussa .
+ZDNetin Mary Jo Foleyn lähteet kertovat , että julkaisua on lykätty maaliskuulta huhtikuulle .
+Väliin mahtuu vielä muutamia koontiversioita , joista 9600.16608 on ehtinyt jo livahtaa julki , kertoo Windows-vuotaja Wzor Twitterissä .
+Odotettu Windows 8.1:n ensimmäinen suurempi päivitys on siis tulossa näillä näkymin alkukeväästä , tarkalleen ottaen 8. huhtikuuta .
+Huhtikuussa myös Microsoftin käyttöjärjestelmävanhuksen , Windows XP:n , letkut irrotetaan .
+Microsoft onkin julkaissut jälleen uuden kehotuksen ja ohjeet siirtyä käyttämään uudempaa Windows-versiota .
+Windows 8.1 update 1:n odotetaan tuovan useita käyttäjien toivomia uudistuksia , kuten selkeyttä uuteen Metro-käyttöliittymään sekä parannuksia perinteiselle työpöydälle .
+Myöhempään Windows " Thresholdiin " spekuloitua Käynnistä-valikkoa ei kuitenkaan liene vielä lupa odottaa .
+Uusia ominaisuuksia päivitykseen tuskin on enää luvassa , vaan Microsoftin ennustetaan korjaavan aiemmissa koontiversioissa ilmenneitä bugeja ja parantavan käyttökokemusta ja käyttöjärjestelmän suorituskykyä .
+Kuvakaappaukset uusimmasta vuotaneesta koontiversiosta lienevät vuorossa pian .

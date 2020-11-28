@@ -1,0 +1,74 @@
+T1	PRO 0 18	HMS Escort ( H66 )
+T2	PRO 19 29	HMS Escort
+T3	PRO 44 47	H66
+T4	ORG 54 89	Britannian Kuninkaallisen laivaston
+T5	EVENT 150 174	toisessa maailmansodassa
+T6	DATE 192 211	1. marraskuuta 1932
+T7	ORG 212 229	Scottin telakalta
+T8	LOC 230 242	Greenockista
+T9	DATE 249 260	vuoden 1931
+T10	ORG 340 353	Amiraliteetin
+T11	PRO 395 409	" HMS Escort "
+T12	EVENT 421 441	toisen maailmansodan
+T13	ORG 451 489	Kotilaivaston 12. Hävittäjälaivueeseen
+T14	PRO 514 528	" HMS Escort "
+T15	PRO 532 547	" HMS Electra "
+T16	DATE 559 576	3. syyskuuta 1939
+T17	PRO 605 617	" Athenian "
+T18	ORG 652 668	Saksan laivaston
+T19	PRO 682 690	" U-30 "
+T20	LOC 730 746	Inishtrahullista
+T21	PRO 757 771	" HMS Escort "
+T22	DATE 784 803	10. tammikuuta 1940
+T23	LOC 814 825	Falmouthiin
+T24	DATE 857 871	12. helmikuuta
+T25	PRO 874 888	" HMS Escort "
+T26	DATE 896 915	25. helmikuuta 1940
+T27	PRO 924 944	" HMS Inglefieldin "
+T28	PRO 948 964	" HMS Imogenin "
+T29	PRO 985 996	" U-63 " :n
+T30	PRO 999 1013	" HMS Escort "
+T31	DATE 1018 1029	huhtikuussa
+T32	LOC 1044 1054	Rosythissa
+T33	ORG 1073 1087	Kotilaivastoon
+T34	DATE 1102 1116	11. huhtikuuta
+T35	LOC 1117 1130	Pohjanmerellä
+T36	PRO 1226 1242	" HMS Eclipseä "
+T37	LOC 1286 1298	Sullom Voeen
+T38	PRO 1315 1329	" HMS Escort "
+T39	DATE 1338 1352	25. huhtikuuta
+T40	PRO 1370 1387	" HMS Ark Royal "
+T41	PRO 1391 1407	" HMS Glorious "
+T42	LOC 1417 1423	Norjan
+T43	PRO 1437 1449	operaatio DX
+T44	PRO 1503 1521	" HMS Gloriousin "
+T45	LOC 1522 1535	Scapa Flowhun
+T46	PRO 1538 1552	" HMS Escort "
+T47	DATE 1561 1575	11. toukokuuta
+T48	PRO 1604 1615	" Chobryn "
+T49	PRO 1661 1675	" HMS Escort "
+T50	LOC 1687 1698	Välimerelle
+T51	DATE 1713 1726	26. kesäkuuta
+T52	LOC 1736 1749	Gibraltarille
+T53	ORG 1804 1815	Force H:hon
+T54	DATE 1849 1862	2. heinäkuuta
+T55	PRO 1865 1879	" HMS Escort "
+T56	ORG 1891 1900	Force H:n
+T57	ORG 1908 1925	Ranskan laivaston
+T58	LOC 1939 1947	Oranissa
+T59	DATE 1948 1961	3. heinäkuuta
+T60	PRO 1964 1982	operaatio Catapult
+T61	DATE 2057 2070	6. heinäkuuta
+T62	PRO 2073 2088	operaatio Lever
+T63	PRO 2093 2107	" HMS Escort "
+T64	DATE 2116 2129	8. heinäkuuta
+T65	LOC 2168 2194	Cagliarin lentotukikohtaan
+T66	PRO 2197 2210	operaatio MA5
+T67	ORG 2280 2297	Italian laivaston
+T68	PRO 2311 2332	" Guglielmo Marconi "
+T69	PRO 2473 2489	" HMS Forester "
+T70	PRO 2538 2554	" HMS Faulknor "
+T100001	LOC 54 64	Britannian
+T100002	LOC 652 658	Saksan
+T100003	LOC 1908 1915	Ranskan
+T100004	LOC 2280 2287	Italian

@@ -1,0 +1,21 @@
+Pelkäätkö tartuntaa ?
+Varo deittisovelluksia !
+Ystävänpäivä alla IBM on julkistanut selvityksen deittisovellusten turvallisuudesta — tai oikeastaan turvattomuudesta .
+60 prosenttia tutkituista sovelluksista sisälsi haavoittuvuuksia .
+IBM:n turvatiimi tarkasteli 41 älypuhelimessa tai taulutietokoneessa toimivaa deittisovellusta .
+60 prosentissa niistä oli haavoittuvuuksia , joiden kautta hyökkääjä voisi ottaa laitteen haltuun ja varastaa tietoa .
+IBM:n raportin mukaan sovelluksissa on mahdollisuus tehdä väliintulohyökkäyksiä tai kalastelua ja cross site scripting -haavoittuvuuden ( xss ) avulla ohittaa selaimen suojauksia ja asettaa haitallista koodia muille sivustoille .
+Hyökkääjä voi viedä tunnukset , puhelimessa olevaa dataa ja kuvia tai aktivoida laitteen kameran tai kaiuttimet .
+Hän voi myös antaa sovellukselle erittäin laajat oikeudet käyttäjän seuraamiseen ja käyttää laitetta maksullisiin palveluihin .
+Deittisovellukset eivät ole IBM:n ydinaluetta , mutta yritysten tietoturva on .
+Raportissa kiinnitetään huomiota nimenomaan siihen , mitä vaaroja työntekijöiden omat tai heidän käytössään olevan mobiililaitteet tuovat yrityksille .
+Suurin vaara piilee siinä , että yrityksen tiedot vuotavat työntekijöiden tartunnan saaneiden älypuhelinten ja tablettien kautta .
+Deittisovellukset ovat levinneet niin laajasti , että yritysten tietoturvaihmisten kannattaa ottaa varoitukset vakavasti .
+Raportissa viitataan Pew Researchin lukuihin , joiden mukaan joka kymmenes amerikkalainen on käyttänyt deittipalvelua tai -sovellusta .
+Netissä tutustuneiden ja sitten reaalimaailmassa tavanneiden ihmisten määrä on kasvanut 66 prosenttia kahdeksan vuoden aikana .
+Ja viisi prosenttia avioliitossa tai kiinteässä suhteessa olevista ilmoittaa tavanneensa partnerinsa verkossa .
+IBM neuvoo , miten pitäisi menetellä välttääkseen deittisovelluksissa piileviä vaaroja .
+Neuvot ovat samoja kuin muidenkin sovellusten suhteen .
+Valitettavasti raportti ei paljasta , mitkä deittisovellukset ovat haavoittuvia , mutta tietoturvatiimi sanoo varoittaneensa sovellusten omistavia yrityksiä vaaroista .
+Yksi deittimaailman suuruuksista kiirehti kuitenkin ilmoittamaan , etteivät sen sovellukset kuulu vaarallisten joukkoon .
+Tinderin takana oleva IAC , jolla on myös Match ja OK Cupid -palvelut , kertoi The Registerille , että IBM oli testannut sen sovellukset eikä niistä löytynyt haavoittuvuuksia .

@@ -1,0 +1,23 @@
+T1	LOC 0 5	Intia
+T2	ORG 12 21	Vodafonen
+T3	LOC 55 61	Intian
+T4	ORG 92 101	Vodafonen
+T5	LOC 102 107	Punen
+T6	ORG 173 182	Vodafonen
+T7	LOC 219 224	Punen
+T8	ORG 245 284	Vodafone India Services Private Limited
+T9	ORG 287 292	VISPL
+T10	DATE 299 310	joulukuussa
+T11	LOC 311 317	Intian
+T12	DATE 441 452	vuonna 2011
+T13	ORG 474 483	Vodafonen
+T14	LOC 532 538	Intian
+T15	ORG 570 576	Nokian
+T16	LOC 577 585	Chennain
+T17	ORG 598 603	Nokia
+T18	LOC 641 649	Suomessa
+T19	LOC 660 666	Suomen
+T20	LOC 670 676	Intian
+T21	ORG 765 773	Vodafone
+T22	DATE 816 825	tammikuun
+T23	ORG 874 887	Total Telecom

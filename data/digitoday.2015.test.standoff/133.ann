@@ -1,0 +1,36 @@
+T1	ORG 0 11	F-Securelta
+T2	ORG 48 56	F-Secure
+T3	PRO 65 86	Gatekeeper-ajurissaan
+T4	ORG 102 110	F-Secure
+T5	ORG 248 265	Viestintäviraston
+T6	ORG 266 289	Kyberturvallisuuskeskus
+T7	PRO 342 368	F-Secure Gatekeeper -ajuri
+T8	PRO 369 377	fsgk.sys
+T9	ORG 555 564	F-Securen
+T10	PRO 621 645	F-Secure Client Security
+T11	PRO 648 680	F-Secure Client Security Premium
+T12	PRO 683 719	F-Secure Anti-Virus For Workstations
+T13	PRO 722 746	F-Secure Server Security
+T14	PRO 749 781	F-Secure Server Security Premium
+T15	PRO 784 818	F-Secure Email And Server Security
+T16	PRO 821 863	F-Secure Email And Server Security Premium
+T17	PRO 866 927	F-Secure Protection Service For Business Workstation Security
+T18	PRO 930 986	F-Secure Protection Service For Business Server Security
+T19	PRO 990 1056	F-Secure Protection Service For Business Email And Server Security
+T20	PRO 1090 1115	F-Secure Safe Anywhere PC
+T21	PRO 1118 1144	F-Secure Internet Security
+T22	PRO 1148 1167	F-Secure Anti-Virus
+T100001	ORG 342 350	F-Secure
+T100002	ORG 621 629	F-Secure
+T100003	ORG 648 656	F-Secure
+T100004	ORG 683 691	F-Secure
+T100005	ORG 722 730	F-Secure
+T100006	ORG 749 757	F-Secure
+T100007	ORG 784 792	F-Secure
+T100008	ORG 821 829	F-Secure
+T100009	ORG 866 874	F-Secure
+T1000010	ORG 930 938	F-Secure
+T1000011	ORG 990 998	F-Secure
+T1000012	ORG 1090 1098	F-Secure
+T1000013	ORG 1118 1126	F-Secure
+T1000014	ORG 1148 1156	F-Secure

@@ -1,0 +1,21 @@
+T1	ORG 12 24	Paytrailille
+T2	ORG 63 71	Paytrail
+T3	ORG 199 209	Paytrailin
+T4	ORG 416 423	Cygaten
+T5	ORG 610 620	Paytrailin
+T6	PER 637 650	Markus Laurio
+T7	ORG 653 661	Paytrail
+T8	ORG 879 888	Klarnalla
+T9	PER 1105 1119	Lennu Keinänen
+T10	ORG 1129 1139	Paytrailin
+T11	ORG 1536 1546	Paytrailin
+T12	ORG 1869 1877	Paytrail
+T13	PRO 2056 2077	Checkout.fi-palveluun
+T14	ORG 2157 2179	Suomen Maksuturva Oy:n
+T15	ORG 2355 2361	Cygate
+T16	ORG 2475 2487	Paytraililla
+T17	ORG 2571 2577	Cygate
+T18	ORG 2581 2589	Paytrail
+T19	DATE 2639 2652	vuodesta 2008
+T20	ORG 2700 2708	Paytrail
+T100001	LOC 2157 2163	Suomen

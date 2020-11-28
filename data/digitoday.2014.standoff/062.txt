@@ -1,0 +1,28 @@
+Tekikö F-Secure juuri tylyn oharin ?
+Uutiskommentti .
+Joskus asiat ovat sitä , miltä ne näyttävät .
+Mitä tapahtuu , kun tietoturvayhtiö seuraa markkinatalouden logiikkaa , joka saattaa olla ristiriidassa tietoturvan logiikan kanssa ?
+Suomalainen tietoturvayhtiö F-Secure ilmoitti tänään myyvänsä Younited-pilvitallennuspalvelunsa Synchronoss-yhtiölle .
+Joskus asiat ovat sitä , miltä ne näyttävät .
+Nyt ne näyttävät käyttäjän näkökulmasta ikävältä .
+Synchronoss on New Jerseyssä päämajaansa pitävä yhtiö .
+New Jersey sijaitsee Yhdysvalloissa — samaisessa maassa , jonka turvallisuutta valvoo muuan NSA .
+F-Secure on käyttänyt valtioiden tekemää verkkourkintaa tuotteidensa markkinoinnissa .
+Nyt " 100 %:n turvalliseksi " mainostettu palvelu siirtyy urkkijavaltioista tunnetuimpaan .
+Yhdysvaltain viranomaiset voivat pakottaa internet-palveluyhtiöt luovuttamaan tietoja ja pakottaa yhtiöt vaikenemaan asiasta Patriot Act -lain nojalla .
+Vaikka amerikkalaisviranomaisten käytäntö on haastettu , ja Microsoft on käräjöinyt oikeudestaan olla luovuttamatta tietoja , lopputulos on vielä auki .
+Bisneslogikka selätti luottamuslogiikan
+Kaupan bisneslogiikka on selvä .
+Younited lanseerattiin loppuvuodesta 2013 .
+Yhtiö tunnusti viime lokakuussa tulosvaroituksensa yhteydessä , ettei pilvipohjainen tallennus kiinnostanut kuluttajia niin paljon kuin uskottiin .
+Liiketoiminnallisen tason johtopäätös on , että kannattamattomat toiminnot on hyvä myydä pois ja tässä toimittiin juuri niin .
+Sivuhuomautuksena todettakoon , että yksilötasolla tästä voi vetää kyynisen johtopäätöksen : ihmisiä ei kiinnosta maksaa tietoturvasta .
+F-Securea ei voi tästä syytää , sillä yhtiön käyttämä " jos et maksa tuotteesta , olet itse tuote " -argumentti on validi .
+Mutta jos kohderyhmää ei ole , niin minkäs teet ?
+Younited-kelkkaan lähteneen asiakkaan näkökulmasta johtopäätös on F-Securen kannalta ikävä .
+Tietoturvayhtiön pääoma koostuu asiakkaiden luottamuksesta , ja nyt tallennusasiakkaat siirtyvät amerikkalaisten syliin .
+Peruskäyttäjä ei niin välittäisi , missä hänen tietonsa ovat tai kuka niitä kurkkii .
+Younitediin kuitenkin hakeutuu tietoturvastaan tarkkoja ihmisiä , joita tämä kiinnostaa .
+Juuri tämän pienen , mutta tiedostavan ryhmän edessä F-Secure näyttää nyt kääntävän takkinsa .
+Luottamukseen tulee väkisinkin kolhu ja tietoturvayhtiön luottamuspääoma kärsii .
+Bisneslogiikka selätti tässä luottamuksen logiikan .

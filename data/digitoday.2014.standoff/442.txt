@@ -1,0 +1,14 @@
+Loppu pyöräkolareille ?
+Ruotsalaisilta polkupyörän törmäysvaroituslaite
+Kolmen ruotsalaisen yrityksen kehittämä turvajärjestelmä suojelee polkupyöräilijöitä liikenneonnettomuuksilta .
+Järjestelmä varoittaa sekä autoilijaa että pyöräilijää uhkaavasta törmäyksestä .
+Ruotsalaisyritykset Ericsson , Volvo ja POC esittelevät 6. tammikuuta käynnistyvässä suuressa kuluttajaelektroniikkatapahtumassa CES:ssä varoitusjärjestelmän .
+Pyöräilijän kypärään kiinnitettävä elektroniikka tuo Volvon tuulilasinäytölle varoituksen lähestyvästä pyöräilijästä , vaikka tämä olisi kulman tai muun näköesteen takana .
+Pyöräilijä taas saa varoituksen törmäyskurssilla olevasta autosta kypärän valovilkulla .
+Pyöräilykypärän järjestelmä määrittää pyöräilijän sijainnin Stravan tai muiden suosittujen älypuhelinsovellusten avulla .
+POCsports kehittää kypäriä , hanskoja , suojalaseja ja turva-asuja pyöräilyyn ja lasketteluun .
+Järjestelmä on laajennus Volvon City Safety -järjestelmään , jollainen kuuluu Volvon XC90-mallin vakiovarusteisiin .
+Turvajärjestelmä tunnistaa uhkaavan kolarin ja jarruttaa automaattisesti .
+Volvon tiedotteessa muistutetaan , että kaikista EU:n alueella kuolemaan johtaneista polkupyöräonnettomuuksista puolet johtui törmäyksestä auton kanssa .
+Yhdysvalloissa 50\_000 ihmistä loukkaantuu vuosittain pyöräilyonnettomuuksissa .
+Asiasta uutisoi muun muassa FierceWireless .

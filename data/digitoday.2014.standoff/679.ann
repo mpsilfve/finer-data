@@ -1,0 +1,35 @@
+T1	PER 0 9	Snowdenin
+T2	PRO 32 52	Pulitzer-palkinnolla
+T3	ORG 105 117	The Guardian
+T4	ORG 121 146	Washington Post -lehdille
+T5	PER 170 186	Edward Snowdenin
+T6	ORG 197 202	NSA:n
+T7	PER 279 294	Glenn Greenwald
+T8	PER 297 311	Barton Gellman
+T9	PER 314 327	Laura Poitras
+T10	PER 331 345	Ewan MacAskill
+T11	PER 359 368	Snowdenin
+T12	ORG 403 408	NSA:n
+T13	ORG 433 445	The Guardian
+T14	ORG 449 474	Washington Post -lehdille
+T15	PER 477 486	Snowdenia
+T16	LOC 497 511	Yhdysvalloissa
+T17	LOC 553 562	Venäjällä
+T18	PER 618 627	Snowdenin
+T19	PER 1106 1115	Greenwald
+T20	PER 1119 1126	Poitras
+T21	LOC 1153 1167	Yhdysvaltoihin
+T22	PER 1181 1190	Snowdenin
+T23	PRO 1262 1322	George Polk Award for National Security Reporting -palkinnon
+T24	PER 1325 1334	Poitrasin
+T25	PER 1376 1390	Edward Snowden
+T26	PER 1490 1508	Edward Snowdenille
+T27	PRO 1511 1525	Pulitzer Prize
+T28	ORG 1568 1589	Columbian yliopistoon
+T29	PER 1595 1612	Joseph Pulitzerin
+T30	ORG 1664 1672	Mashable
+T100001	LOC 121 131	Washington
+T100002	LOC 449 459	Washington
+T100003	PER 1262 1273	George Polk
+T100004	PER 1511 1519	Pulitzer
+T100005	LOC 1568 1577	Columbian

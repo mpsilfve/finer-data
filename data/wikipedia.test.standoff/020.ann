@@ -1,0 +1,29 @@
+T1	ORG 0 10	Noor-Eesti
+T2	ORG 11 21	Noor-Eesti
+T3	ORG 24 34	Nuori Viro
+T4	DATE 250 261	vuonna 1905
+T5	LOC 327 332	Viron
+T6	PER 537 549	Gustav Suits
+T7	PER 552 569	Friedebert Tuglas
+T8	PER 573 588	Villem Grünthal
+T9	ORG 591 601	Noor-Eesti
+T10	DATE 674 687	vuodesta 1905
+T11	PRO 743 766	" Noor-Eesti " -albumia
+T12	PER 785 799	Gustav Suitsun
+T13	PRO 818 843	" Kiired " -nimiset vihot
+T14	PRO 856 873	" Kiired " -vihon
+T15	PRO 957 980	" Noor-Eesti " -albumia
+T16	DATE 981 998	vuosina 1905–1915
+T17	PRO 1009 1067	" Noor-Eesti " - ja " Vaba Sõna " -nimisiä aikakauskirjoja
+T18	ORG 1070 1080	Noor-Eesti
+T19	DATE 1102 1113	vuonna 1912
+T20	ORG 1147 1160	Noor-Eestistä
+T21	ORG 1355 1365	Noor-Eesti
+T22	EVENT 1422 1445	Venäjän vallankumouksen
+T23	DATE 1531 1535	1917
+T24	ORG 1563 1568	Siuru
+T25	LOC 1701 1707	Viroon
+T26	LOC 1886 1893	Virosta
+T27	LOC 2113 2120	Virossa
+T100001	LOC 30 34	Viro
+T100002	LOC 1422 1429	Venäjän

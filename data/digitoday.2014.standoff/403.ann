@@ -1,0 +1,30 @@
+T1	LOC 60 69	Jupiterin
+T2	LOC 70 82	Europa-kuuta
+T3	ORG 131 159	Yhdysvaltain avaruushallinto
+T4	ORG 160 164	Nasa
+T5	LOC 215 222	Europaa
+T6	ORG 230 235	Nasan
+T7	PER 244 258	Charles Bolden
+T8	PRO 271 296	State of Nasa -puheessaan
+T9	LOC 351 360	Jupiterin
+T10	LOC 371 382	Europa-kuun
+T11	PER 481 487	Bolden
+T12	ORG 506 512	Cnetin
+T13	ORG 522 536	Valkoinen talo
+T14	ORG 550 557	Nasalle
+T15	DATE 593 597	2016
+T16	ORG 632 636	Nasa
+T17	DATE 692 703	vuoden 2015
+T18	LOC 731 739	Kuutamme
+T19	LOC 749 755	Europa
+T20	LOC 835 839	Maan
+T21	LOC 1015 1023	Europaan
+T22	ORG 1060 1066	Cnetin
+T23	ORG 1190 1194	Nasa
+T24	LOC 1221 1228	Europan
+T25	LOC 1334 1340	Europa
+T26	LOC 1406 1415	Jupiteria
+T27	LOC 1425 1433	Ganymede
+T28	LOC 1437 1447	Saturnusta
+T29	LOC 1457 1466	Enceladus
+T100001	LOC 131 143	Yhdysvaltain

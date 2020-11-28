@@ -1,0 +1,43 @@
+T1	ORG 0 5	NSA:n
+T2	ORG 56 99	Yhdysvaltain kansallisen tiedustelupalvelun
+T3	ORG 100 105	NSA:n
+T4	ORG 218 221	NSA
+T5	ORG 316 329	Kaspersky Lab
+T6	ORG 361 366	NSA:n
+T7	ORG 576 579	NSA
+T8	ORG 684 699	Kaspersky Labin
+T9	ORG 849 864	Western Digital
+T10	ORG 867 874	Seagate
+T11	ORG 877 884	Toshiba
+T12	ORG 887 890	IBM
+T13	ORG 893 899	Micron
+T14	ORG 903 910	Samsung
+T15	ORG 913 922	Reutersin
+T16	ORG 1074 1077	NSA
+T17	ORG 1106 1115	Kaspersky
+T18	PRO 1222 1259	Stuxnet-vakoilu- ja tuholaisohjelmaan
+T19	LOC 1357 1366	Venäjältä
+T20	LOC 1369 1381	Pakistanista
+T21	LOC 1384 1398	Afganistanista
+T22	LOC 1401 1409	Kiinasta
+T23	LOC 1412 1419	Malista
+T24	LOC 1422 1431	Syyriasta
+T25	LOC 1434 1443	Jemenistä
+T26	LOC 1447 1457	Algeriasta
+T27	ORG 1605 1610	NSA:n
+T28	ORG 1639 1650	Reutersille
+T29	ORG 1651 1661	Kasperskyn
+T30	ORG 1865 1875	Kasperskyn
+T31	DATE 2035 2046	vuonna 2001
+T32	ORG 2049 2059	Kasperskyn
+T33	PER 2069 2081	Costin Raiun
+T34	ORG 2278 2287	Kaspersky
+T35	ORG 2357 2366	Kaspersky
+T36	ORG 2410 2424	Equation group
+T37	PRO 2630 2641	Fanny-matoa
+T38	PRO 2644 2649	Fanny
+T39	ORG 2710 2717	Stuxnet
+T40	ORG 2797 2807	Kasperskyn
+T100001	LOC 56 68	Yhdysvaltain
+T100002	PER 316 325	Kaspersky
+T100003	PER 684 693	Kaspersky

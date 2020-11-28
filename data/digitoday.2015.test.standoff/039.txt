@@ -1,0 +1,14 @@
+Aukolla ikää melkein 20 vuotta : Vaara tajuttiin vasta nyt
+Laajasti käytössä oleva menetelmä tiedon salaamiseksi voi pettää .
+Viestintävirasto kertoo ongelmasta optimointitavassa , jota käytetään laskettaessa RSA-allekirjoituksia .
+Heikkous voi tietyin edellytyksin paljastaa RSA-avaimen , eli vaarantaa tiedon luottamuksellisuuden .
+Ongelma on CRT-optimoinnissa ja se tiedettiin jo vuonna 1996 .
+Mutta vasta nyt ymmärrettiin , miten vaarallinen se on .
+– Mikäli allekirjoituksen laskemisen yhteydessä tapahtuu virhe , eikä allekirjoituksen oikeellisuutta varmisteta , on hyökkääjän mahdollista selvittää yksityinen avain virheellisen RSA-allekirjoituksen perusteella , Viestintävirasto sanoo tiedotteessa .
+Allekirjoituksen tarkistaminen suojaa heikkoudelta , mutta kaikki salauskirjastot eivät sitä tee .
+Virasto kertoo , mitkä toteutukset jättävät tarkistuksen väliin .
+RSA-CRT-optimointia käytetään salauskirjastoissa lähes poikkeuksetta , eikä ongelmaan ole korjausta .
+Mutta Viestintävirasto ei nykytiedon valossa usko , että avaimia voisi juuri vuotaa modernista palvelinympäristöstä .
+Vaara on isompi laitteissa , joissa lasku- tai muistivirheen todennäköisyys on tavallista suurempi .
+Tällaisia ovat esimerkiksi jotkut sulautetut laitteet .
+Laskuvirheitä voi olla myös mahdollista aiheuttaa häiritsemällä laitteen toimintaa fyysisesti .

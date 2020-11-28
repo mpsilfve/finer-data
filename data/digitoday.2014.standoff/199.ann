@@ -1,0 +1,30 @@
+T1	ORG 0 7	Googlen
+T2	ORG 29 38	Googlesta
+T3	PRO 51 58	Android
+T4	PRO 59 68	Androidin
+T5	PRO 78 99	CyanogenMod-laajennus
+T6	ORG 150 173	The Information -lehden
+T7	ORG 263 273	Cyanogenin
+T8	PER 406 419	Kirt McMaster
+T9	ORG 428 445	The Informationin
+T10	LOC 460 476	San Franciscossa
+T11	PRO 531 544	CyanogenModia
+T12	PRO 579 588	Androidin
+T13	ORG 594 603	Googlelta
+T14	PER 606 614	McMaster
+T15	PRO 681 709	Android-käyttöjärjestelmästä
+T16	ORG 915 923	Cyanogen
+T17	ORG 955 964	Googlesta
+T18	ORG 1008 1015	Googlen
+T19	PER 1062 1070	McMaster
+T20	PRO 1078 1095	The Informationin
+T21	PRO 1105 1112	Android
+T22	ORG 1116 1123	Googlen
+T23	ORG 1195 1201	Google
+T24	ORG 1275 1281	Google
+T25	ORG 1299 1309	Cyanogenin
+T26	ORG 1367 1374	Googlen
+T27	PER 1476 1489	Kirt McMaster
+T28	ORG 1505 1513	Cyanogen
+T29	ORG 1563 1580	The Informationin
+T30	ORG 1646 1663	Android Authority

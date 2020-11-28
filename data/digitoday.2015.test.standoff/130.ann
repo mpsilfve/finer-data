@@ -1,0 +1,27 @@
+T1	ORG 142 148	G Data
+T2	PRO 160 212	Huawei- , Lenovo- ja Xiaomi -merkkisissä puhelimissa
+T3	ORG 373 380	G Datan
+T4	LOC 433 441	Suomessa
+T5	PRO 528 847	Huawei G510- , Lenovo S860- , Xiaomi Mi 3- , Alps A24- , Alps 809T- , Alps H9001- , Alps 2206- , Alps PrimuxZeta- , Alps N3- , Alps ZP100- , Alps 709- , Alps GQ2002- , Alps N9389- , Andorid P8- , ConCorde SmartPhone6500- , DJC touchtalk- , ITOUCH- , NoName S806i- , SESONN N9500- , SESONN P8- ja Xido X1111 -puhelimista
+T6	PRO 865 891	Huawei Ascend G510 -mallia
+T7	LOC 901 909	Suomessa
+T8	ORG 912 919	G Datan
+T9	ORG 1338 1344	G Data
+T10	ORG 1462 1468	G Data
+T11	ORG 1593 1600	G Datan
+T12	DATE 1670 1686	huhti–kesäkuussa
+T13	DATE 1701 1719	tammi–maaliskuuhun
+T100001	ORG 528 534	Huawei
+T100002	ORG 543 549	Lenovo
+T100003	ORG 558 564	Xiaomi
+T100004	ORG 573 577	Alps
+T100005	ORG 585 589	Alps
+T100006	ORG 598 602	Alps
+T100007	ORG 612 616	Alps
+T100008	ORG 625 629	Alps
+T100009	ORG 644 648	Alps
+T1000010	ORG 655 659	Alps
+T1000011	ORG 669 673	Alps
+T1000012	ORG 681 685	Alps
+T1000013	ORG 696 700	Alps
+T1000014	ORG 865 871	Huawei

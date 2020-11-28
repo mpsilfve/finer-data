@@ -1,0 +1,15 @@
+Nyt tuli tärkeä päivitys : Korjaa jopa 169 tietoturva-aukkoa
+Oracle paikkaa tammikuun päivityspaketissa jopa 169 tietoturva-aukkoa kymmenissä ohjelmistoissa , muun muassa Javassa .
+Yksi korjaus nousee joukosta erityisesti esiin .
+Muun muassa Javan ja VirtualBoxin kehityksestä nykyään vastaava Oracle on julkaissut tammikuun päivitykset .
+Kaikkiaan niitä on tarjolla 169 kappaletta , ja osa ongelmista on luokiteltu kriittisiksi .
+Oracle neuvoo asentamaan päivitykset heti .
+Aiempien päivitysten jälkeen on nimittäin ollut tapauksia , joissa verkkorikolliset ovat käyttäneet tietomurroissa hyväksi sellaisia aukkoja , joihin Oracle on jo julkistanut päivityksen , mutta niitä ei ole asennettu .
+Eräs Oraclen paikkaamista turva-aukoista on yhtiölle hiukan kiusallinen .
+Kyseessä on Oraclen itse asettama takaovi eBusiness Suite -ohjelmistossa .
+Sen havaitsi tietokantojen turvallisuuteen perehtynyt asiantuntija David Litchfield .
+Litchfield kertoo Twitterissä olevansa löydöksestään järkyttynyt .
+Oraclen 169 tammikuun päivityksestä 19 on tarkoitettu Javalle , joka kärsii lähes jatkuvista tietoturvaongelmista .
+Näistä 19:stä peräti 14 korjaa erittäin vakavia aukkoja , joilla on mahdollista ajaa haittakoodia .
+Oracle suosittelee päivitysten asennusta mahdollisimman nopealla aikataululla niiden korjaamien aukkojen vakavuuden vuoksi .
+Oraclen päivityksistä kertoivat Oraclen lisäksi muun muassa Softpedia ja Kyberturvallisuuskeskus .

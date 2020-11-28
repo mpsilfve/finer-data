@@ -1,0 +1,26 @@
+T1	ORG 138 145	Alibaba
+T2	ORG 207 214	Meizuun
+T3	ORG 217 225	Alibaban
+T4	PER 255 262	Jack Ma
+T5	ORG 323 331	Meizusta
+T6	ORG 415 421	Meizun
+T7	ORG 458 466	Alibaban
+T8	ORG 494 500	Meizun
+T9	ORG 546 554	Alibaban
+T10	ORG 580 588	Alibaban
+T11	ORG 621 627	Meizun
+T12	LOC 635 641	Kiinan
+T13	ORG 696 701	Apple
+T14	DATE 722 738	loka-joulukuussa
+T15	ORG 750 757	Xiaomin
+T16	ORG 777 783	Forbes
+T17	ORG 807 816	Reutersin
+T18	ORG 833 840	Meizuun
+T19	ORG 848 856	Alibaban
+T20	ORG 951 959	Amazonin
+T21	PRO 1009 1027	Fire-puhelimellaan
+T22	ORG 1030 1036	Amazon
+T23	PRO 1092 1117	Android-käyttöjärjestelmä
+T24	ORG 1125 1132	Googlen
+T25	ORG 1197 1203	Meizun
+T26	LOC 1214 1220	Kiinan

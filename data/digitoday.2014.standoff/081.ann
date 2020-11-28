@@ -1,0 +1,37 @@
+T1	ORG 0 7	Googlen
+T2	ORG 8 16	Motorola
+T3	ORG 33 39	EU:lta
+T4	ORG 71 88	Euroopan komissio
+T5	ORG 96 114	Motorola Mobilityn
+T6	ORG 198 214	Euroopan unionin
+T7	PER 234 249	Joaquin Almunia
+T8	ORG 298 305	Googlen
+T9	ORG 322 340	Motorola Mobilityn
+T10	ORG 344 350	Applen
+T11	ORG 432 440	Motorola
+T12	ORG 549 555	Applea
+T13	ORG 591 600	Motorolan
+T14	ORG 667 675	Applelle
+T15	PER 852 859	Almunia
+T16	ORG 909 914	Apple
+T17	ORG 944 953	Motorolan
+T18	ORG 1384 1401	Euroopan komissio
+T19	ORG 1411 1429	Motorola Mobilitya
+T20	ORG 1475 1483	Motorola
+T21	ORG 1621 1632	Motorolalle
+T22	ORG 1814 1837	The Wall Street Journal
+T23	ORG 1841 1859	The New York Times
+T24	ORG 1862 1879	Motorola Mobility
+T25	ORG 1902 1909	Googlen
+T26	ORG 1958 1967	Lenovolle
+T27	ORG 2006 2015	Motorolan
+T28	ORG 2058 2064	Applen
+T29	ORG 2189 2195	Google
+T30	ORG 2209 2213	EU:n
+T31	DATE 2222 2233	Helmikuussa
+T32	ORG 2234 2240	Google
+T100001	LOC 71 79	Euroopan
+T100002	LOC 198 206	Euroopan
+T100003	LOC 1384 1392	Euroopan
+T100004	LOC 1818 1829	Wall Street
+T100005	LOC 1845 1853	New York

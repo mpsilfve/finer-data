@@ -1,0 +1,18 @@
+T1	PER 0 10	Bill Gates
+T2	ORG 76 87	Microsoftin
+T3	PER 98 108	Bill Gates
+T4	ORG 175 186	Microsoftin
+T5	PER 197 207	Bill Gates
+T6	PRO 316 328	HoloLensistä
+T7	PER 590 595	Gates
+T8	ORG 618 626	Forbesin
+T9	PER 756 767	Elon Muskin
+T10	PER 851 856	Gates
+T11	ORG 925 936	Microsoftin
+T12	PER 953 965	Eric Horvitz
+T13	ORG 979 999	Microsoft Researchin
+T14	LOC 1017 1026	Redmondin
+T15	PER 1175 1182	Horvitz
+T16	PER 1306 1313	Gatesin
+T17	PER 1317 1323	Muskin
+T18	PER 1386 1401	Stephen Hawking

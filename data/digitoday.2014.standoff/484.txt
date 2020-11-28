@@ -1,0 +1,17 @@
+Googlen patentti : Kännyvideoista automaattisesti tieto poliisille
+Googlen kaksi tuoretta patenttia koskee tekniikkaa , jossa poliisi tai media saisi ilmoituksen videoista , jotka on kuvattu samassa paikassa ja samaan aikaan .
+Tekniikka voisi hälyttää virkavaltaa esimerkiksi väkijoukkoja keräävistä tapahtumista .
+Google on patentoinut tekniikan , joka voi näkökulmasta riippuen olla joko käytännöllinen tai ahdistava .
+Googlen patenteissa " Mob source phone video collaboration " ja " Inferring events baset on mob source video " kuvataan tekniikka , joka voisi tiedottaa automaattisesti poliisille matkapuhelimella kuvatuista videoista , kertoo Pha ndroid-sivusto .
+Patenteissa kuvataan järjestelmä , joka seuraisi videoiden aika- ja paikkatietoja .
+Esimerkiksi monet matkapuhelimet tallentavat valokuviin ja videoihin metatiedon kuvan ottamisajasta sekä myös -paikasta gps-paikannuksen avulla .
+Kun järjestelmä huomaisi , että tietyssä paikassa ja tiettyyn aikaan on kuvattu huomattavan paljon videoita , se voisi lähettää videoista automaattisesti viestin esimerkiksi poliisille tai uutismedialle .
+Nämä voisivat saada myös linkin johonkin videoista sekä jonkun kuvaajan yhteystiedot .
+Patenttihakemuksen mukaan videot voivat olla merkki siitä , että on tapahtunut jotain yleisesti kiinnostavaa , kuten esimerkiksi onnettomuus tai joukkokokoontuminen .
+Googlea on usein arvosteltu käyttäjien yksityisyyden loukkaamisesta , ja yhtiön on epäilty auttavan Yhdysvaltojen turvallisuusvirastoa NSA:ta verkkokäyttäjien laajassa massaseurannassa .
+Huolta ei vähennä sekään , että Googlen Chrome -selaimesta paljastui ominaisuus , jolla selaimen käyttäjiä saattoi salakuunnella huomaamatta .
+Patenttihakemuksen maininta automaattisista ilmoituksista poliisille herättääkin epäilyksiä jälleen uudesta automaattisesta vakoilukeinosta .
+Googlen patenteissa mainitaan kuitenkin myös tavallisille ihmisille hyödyllisiä käyttötarkoituksia .
+Tekniikan avulla voisi esimerkiksi saada helposti näkyviin esimerkiksi häissä , urheiluottelussa tai jossain muussa kiinnostavassa yleisötapahtumassa kuvatut videot .
+Patenttihakemuksessa annetaan myös ymmärtää , että tekniikka vaatisi videon kuvaajan luvan .
+Ilmeisesti kyse olisi myös jo jossain , esimerkiksi Youtubessa julkaistuista videoista , vaikka patenttihakemuksessa ei sitä selkeästi mainita .

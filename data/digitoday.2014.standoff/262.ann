@@ -1,0 +1,17 @@
+T1	LOC 0 10	Barcelonan
+T2	ORG 62 72	Facebookin
+T3	PER 83 98	Mark Zuckerberg
+T4	EVENT 118 131	MWC-messuille
+T5	LOC 132 143	Barcelonaan
+T6	DATE 144 153	helmikuun
+T7	LOC 164 176	Barcelonassa
+T8	DATE 177 195	24.-27. helmikuuta
+T9	EVENT 211 240	Mobile World Congress -messut
+T10	ORG 276 280	GSMA
+T11	ORG 387 397	Facebookin
+T12	PER 422 437	Mark Zuckerberg
+T13	EVENT 454 467	MWC-messuilla
+T14	DATE 494 508	26. helmikuuta
+T15	ORG 519 524	IBM:n
+T16	PER 536 552	Virginia Rometty
+T17	EVENT 752 762	MWC-messut

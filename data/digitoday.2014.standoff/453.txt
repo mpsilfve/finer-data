@@ -1,0 +1,17 @@
+Kauppaketju tiesi ostajien raskauksista — nyt tietää murtautujakin ?
+F-Securen mukaan Targetin tapa kerätä asiakastietoja voi tehdä kauppaketjun kärsimästä tietomurrosta huomattavasti luultua pahemman .
+Yhdysvalloissa lukuisia tavarataloja pyörittävän Targetin maksukorttimurrosta on puhuttu paljon .
+Kenties vähemmälle huomiolle on jäänyt muiden asiakastietojen päätyminen rikollisille samassa yhteydessä , vaikka uhreja on jopa 70 miljoonaa .
+Suomalaisen tietoturvaajan F-Securen mukaan potentiaali merkittävään vahinkoon on olemassa .
+– Unohtakaa murretut luottokorttinumerot .
+Targetin analytiikka olisi identiteettivarkauksien kultakaivos , arvioi F-Securen asiantuntija Sean Sullivan yhtiön blogissa .
+Sullivan viittaa The New York Timesin taannoiseen artikkeliin , joka kuvaa Targetin keinoja oppia asiakkaistaan myynnin edistämiseksi .
+Artikkelin mukaan Target osaa jopa ennustaa , koska asiakas on raskaana ja kuinka lähellä synnytys on .
+Target siis synnyttää valtavan määrän niin kutsuttua metadataa asiakkaistaan .
+Ketju on myös sanonut , että asiakastietojen varkaus voi koskettaa jokaista , joka on antanut sille perustietojaan useiden vuosien aikana .
+Jos " antanut " tarkoittaa myös kaikkea sitä tietoa , minkä Target on asiakkaistaan onkinut heidän käyttäytymistään seuraamalla , voi rikollisilla olla käsissään todellinen aarreaitta esimerkiksi hyvinkin vakuuttavien huijausviestien tekemiseksi .
+– Jos Target tietää , että olet raskaana…tietävätkö sen nyt myös krakkerit ?
+Sullivan miettii .
+Targetin mukaan 70 miljoonan uhrin menetettyihin tietoihin lukeutuu nimiä , postiosoitteita , puhelinnumeroita tai sähköpostiosoitteita .
+Metadatasta yhtiö ei ole puhunut ainakaan suoraan .
+Sullivanin mukaan murto viittaa siihen , että isku Targetiin oli huomattavasti pelkkää kassakoneisiin ujutettua haittaohjelmaa syvempi .

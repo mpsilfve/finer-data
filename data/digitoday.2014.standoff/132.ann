@@ -1,0 +1,27 @@
+T1	ORG 0 6	Sprint
+T2	ORG 18 30	RadioShackin
+T3	ORG 116 126	RadioShack
+T4	ORG 184 190	Sprint
+T5	LOC 220 232	Yhdysvaltain
+T6	ORG 276 282	Sprint
+T7	LOC 306 315	Japanista
+T8	ORG 324 332	Softbank
+T9	ORG 379 391	RadioShackin
+T10	ORG 448 456	Sprintin
+T11	ORG 520 526	Sprint
+T12	ORG 538 550	RadioShackin
+T13	ORG 622 634	RadioShackin
+T14	ORG 663 681	Standard Generalin
+T15	ORG 694 712	General Wirelessin
+T16	ORG 722 728	Sprint
+T17	ORG 769 781	RadioShackin
+T18	ORG 819 825	Sprint
+T19	ORG 864 876	RadioShackin
+T20	ORG 896 904	Sprintin
+T21	ORG 966 974	Sprintin
+T22	ORG 999 1007	Sprintin
+T23	ORG 1153 1167	FierceWireless
+T24	ORG 1180 1188	Sprintin
+T25	ORG 1204 1216	RadioShackin
+T26	ORG 1245 1255	RadioShack
+T27	ORG 1306 1322	Standard General
